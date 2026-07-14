@@ -1,18 +1,22 @@
 import type { EntryType } from "@/lib/types";
 
-/* Engraved line glyphs, one per entry type — the designed fallback when no
-   public-domain artwork exists for an entry. Stroke-only, 48x48 grid. */
+/* Engraved line glyphs, one per entry type — used as the seal on the typographic
+   plate that stands in for entries with no public-domain artwork. */
 const GLYPHS: Record<EntryType, React.ReactNode> = {
   deity: (
     <>
       <circle cx="24" cy="24" r="9" />
       {Array.from({ length: 8 }, (_, i) => {
         const a = (i * Math.PI) / 4;
-        const x1 = 24 + Math.cos(a) * 13;
-        const y1 = 24 + Math.sin(a) * 13;
-        const x2 = 24 + Math.cos(a) * 18;
-        const y2 = 24 + Math.sin(a) * 18;
-        return <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} />;
+        return (
+          <line
+            key={i}
+            x1={24 + Math.cos(a) * 13}
+            y1={24 + Math.sin(a) * 13}
+            x2={24 + Math.cos(a) * 18}
+            y2={24 + Math.sin(a) * 18}
+          />
+        );
       })}
     </>
   ),
@@ -60,35 +64,91 @@ const GLYPHS: Record<EntryType, React.ReactNode> = {
   ),
 };
 
+/* A name set on the plate has to hold its own at card size, so the type scale
+   steps down as the string gets longer instead of shrinking to fit. */
+function nameScale(len: number): string {
+  if (len <= 2) return "clamp(2.2rem, 26cqw, 5rem)";
+  if (len <= 4) return "clamp(1.6rem, 19cqw, 3.6rem)";
+  if (len <= 7) return "clamp(1.1rem, 13cqw, 2.4rem)";
+  return "clamp(0.85rem, 9.5cqw, 1.7rem)";
+}
+
 export default function Emblem({
   type,
   color,
+  name,
   className = "",
 }: {
   type: EntryType;
   color: string;
+  /** Shown large on the plate. Prefer the original-script name. */
+  name?: string;
   className?: string;
 }) {
+  const id = `hatch-${type}`;
+
   return (
     <div
-      className={`flex h-full w-full items-center justify-center ${className}`}
-      style={{
-        background: `radial-gradient(ellipse at 50% 42%, ${color}26 0%, transparent 68%)`,
-      }}
+      className={`relative flex h-full w-full flex-col items-center justify-center overflow-hidden ${className}`}
+      style={{ containerType: "inline-size" }}
     >
+      {/* engraved ground: fine hatching, fading toward the centre */}
+      <svg className="absolute inset-0 h-full w-full" aria-hidden="true">
+        <defs>
+          <pattern id={id} width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <line x1="0" y1="0" x2="0" y2="7" stroke={color} strokeWidth="0.9" opacity="0.5" />
+          </pattern>
+          <radialGradient id={`${id}-fade`}>
+            <stop offset="35%" stopColor="#000" stopOpacity="0.9" />
+            <stop offset="100%" stopColor="#fff" stopOpacity="0.5" />
+          </radialGradient>
+          <mask id={`${id}-mask`}>
+            <rect width="100%" height="100%" fill={`url(#${id}-fade)`} />
+          </mask>
+        </defs>
+        <rect width="100%" height="100%" fill={`url(#${id})`} opacity="0.14" mask={`url(#${id}-mask)`} />
+      </svg>
+
+      <div
+        className="absolute inset-0"
+        style={{ background: `radial-gradient(ellipse at 50% 45%, ${color}22 0%, transparent 70%)` }}
+      />
+
+      {/* type seal */}
       <svg
         viewBox="0 0 48 48"
-        className="h-[38%] w-[38%]"
+        className="relative w-[16%] min-w-6"
         fill="none"
         stroke={color}
-        strokeWidth="1.4"
+        strokeWidth="1.6"
         strokeLinecap="round"
         strokeLinejoin="round"
         aria-hidden="true"
       >
-        <circle cx="24" cy="24" r="22.5" opacity="0.35" strokeDasharray="2.5 3.5" />
         {GLYPHS[type]}
       </svg>
+
+      {/* the name itself is the plate */}
+      {name && (
+        <>
+          <span
+            className="relative mt-[6%] block max-w-[86%] text-center leading-[1.15] font-[family-name:var(--font-cjk),var(--font-display-stack)]"
+            style={{
+              fontSize: nameScale([...name].length),
+              color: "var(--vellum)",
+              opacity: 0.82,
+              textShadow: `0 1px 0 rgba(0,0,0,0.5), 0 0 22px ${color}55`,
+              wordBreak: "break-word",
+            }}
+          >
+            {name}
+          </span>
+          <span
+            className="relative mt-[5%] block h-px w-[22%]"
+            style={{ background: color, opacity: 0.5 }}
+          />
+        </>
+      )}
     </div>
   );
 }

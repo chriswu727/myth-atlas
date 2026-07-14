@@ -7,7 +7,10 @@
     "zh": "多佛恶魔",
     "en": "Dover Demon"
   },
-  "title": { "zh": "石墙上的大头细肢小怪物", "en": "The Big-Headed Waif on the Stone Wall" },
+  "title": {
+    "zh": "石墙上的大头细肢小怪物",
+    "en": "The Big-Headed Waif on the Stone Wall"
+  },
   "summary": {
     "zh": "1977年4月，马萨诸塞州多佛镇的三名青少年在25小时内先后目击一种大头、细肢、橙眼发光的无毛小生物，调查者洛伦·科尔曼为其命名。",
     "en": "In April 1977, three teenagers in Dover, Massachusetts independently reported a hairless, spindly creature with an oversized head and glowing orange eyes within 25 hours; investigator Loren Coleman coined its name."
@@ -17,32 +20,81 @@
     "en": "The Dover Demon stands about four feet tall, hairless, its skin peach-colored and rough like sandpaper, with limbs thin as sticks and long fingers that grip stone. Its defining features are a head far too large for its body — witnesses compared the shape to a watermelon — and round eyes that glowed orange in the light. No ears, nose, or mouth were made out, and it made no sound.\n\nAll sightings fall within twenty-five hours on April 21-22, 1977, in Dover, a small town southwest of Boston. Around 10:30 p.m. on the 21st, seventeen-year-old Bill Bartlett, driving on Farm Street, caught the creature in his headlights as it crouched on a fieldstone wall and turned its glowing eyes toward him; the sketch he drew that night became the case's emblem. About two hours later, fifteen-year-old John Baxter, walking home on Miller Hill Road, met the same thing fleeing down a wooded gully. The next evening, fifteen-year-old Abby Brabham, riding with Will Taintor, saw it again and insisted the eyes were green. The three principal witnesses barely knew one another, yet their descriptions align closely.\n\nCryptozoology writer Loren Coleman, then living nearby, interviewed everyone within days, coined the name \"Dover Demon,\" and with UFO researchers cross-examined the teenagers, concluding they had no motive to lie. Skeptics have proposed a moose calf, a diseased fox, or a hairless foal, none matching the size or the season. There have been no further sightings, and precisely that cleanness — one town, one short window, independent witnesses — keeps the case among the most discussed files in American cryptozoology, its image borrowed freely by Japanese games and anime."
   },
   "domains": {
-    "zh": ["单一目击窗口", "人形小怪物", "新英格兰怪谈", "神秘动物学悬案"],
-    "en": ["Single sighting window", "Small humanoid", "New England legend", "Cryptozoology cold case"]
+    "zh": [
+      "单一目击窗口",
+      "人形小怪物",
+      "新英格兰怪谈",
+      "神秘动物学悬案"
+    ],
+    "en": [
+      "Single sighting window",
+      "Small humanoid",
+      "New England legend",
+      "Cryptozoology cold case"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "目击窗口", "en": "Window" },
-      "value": { "zh": "1977年4月21-22日，约25小时", "en": "April 21-22, 1977 — about 25 hours" }
+      "label": {
+        "zh": "目击窗口",
+        "en": "Window"
+      },
+      "value": {
+        "zh": "1977年4月21-22日，约25小时",
+        "en": "April 21-22, 1977 — about 25 hours"
+      }
     },
     {
-      "label": { "zh": "首位目击者", "en": "First witness" },
-      "value": { "zh": "比尔·巴特利特（17岁），农场街石墙", "en": "Bill Bartlett (17), on Farm Street" }
+      "label": {
+        "zh": "首位目击者",
+        "en": "First witness"
+      },
+      "value": {
+        "zh": "比尔·巴特利特（17岁），农场街石墙",
+        "en": "Bill Bartlett (17), on Farm Street"
+      }
     },
     {
-      "label": { "zh": "命名者", "en": "Named by" },
-      "value": { "zh": "洛伦·科尔曼", "en": "Loren Coleman" }
+      "label": {
+        "zh": "命名者",
+        "en": "Named by"
+      },
+      "value": {
+        "zh": "洛伦·科尔曼",
+        "en": "Loren Coleman"
+      }
     }
   ],
-  "related": ["flatwoods-monster", "hopkinsville-goblins", "loveland-frogman"],
+  "related": [
+    "flatwoods-monster",
+    "hopkinsville-goblins",
+    "loveland-frogman"
+  ],
   "sources": [
-    { "zh": "洛伦·科尔曼的现场调查与命名（1977）", "en": "Loren Coleman's field investigation and naming (1977)" },
-    { "zh": "1977年波士顿地区报纸报道", "en": "Boston-area newspaper coverage, 1977" }
+    {
+      "zh": "洛伦·科尔曼的现场调查与命名（1977）",
+      "en": "Loren Coleman's field investigation and naming (1977)"
+    },
+    {
+      "zh": "1977年波士顿地区报纸报道",
+      "en": "Boston-area newspaper coverage, 1977"
+    }
   ],
   "geo": {
     "lat": 42.25,
     "lon": -71.28,
-    "label": { "zh": "马萨诸塞州多佛镇农场街", "en": "Farm Street, Dover, Massachusetts" }
+    "label": {
+      "zh": "马萨诸塞州多佛镇农场街",
+      "en": "Farm Street, Dover, Massachusetts"
+    }
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/dover-demon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dover_Demon.png",
+    "sourceTitle": "Dover Demon",
+    "artist": "Di (they-them)",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 698
+  }
 }

@@ -7,7 +7,10 @@
     "zh": "兔子人",
     "en": "Bunny Man"
   },
-  "title": { "zh": "挥斧的兔装人与「兔子人桥」", "en": "The Hatchet-Thrower in the Rabbit Suit and His Bridge" },
+  "title": {
+    "zh": "挥斧的兔装人与「兔子人桥」",
+    "en": "The Hatchet-Thrower in the Rabbit Suit and His Bridge"
+  },
   "summary": {
     "zh": "1970年弗吉尼亚州费尔法克斯县两起真实事件——兔装男子挥斧恐吓路人——发酵成血腥的都市传说，克利夫顿的铁路涵洞因此得名「兔子人桥」。",
     "en": "Two documented 1970 incidents in Fairfax County, Virginia — a man in a rabbit suit threatening people with a hatchet — fermented into a gory urban legend centered on \"Bunny Man Bridge,\" a railway underpass in Clifton."
@@ -17,32 +20,80 @@
     "en": "The Bunny Man legend has an unusually verifiable starting point. Late on October 19, 1970, Air Force Academy cadet Robert Bennett and his fiancee parked on Guinea Road in Fairfax County when a man in a white rabbit suit burst from the bushes, shouted that they were trespassing, and hurled a hatchet through the front passenger window; the hatchet stayed in the car and became police evidence. Ten days later, on October 29, security guard Paul Phillips found a rabbit-suited man chopping at the porch post of an unfinished house nearby, threatening to take heads if trespassing continued. The Washington Post reported both incidents, and the police investigation closed without a suspect.\n\nOver the next three decades, retelling reworked the hatchet-thrower into a gory ghost story. The dominant version claims that a 1904 asylum transport overturned, that escapee \"Douglas Griffon\" survived in the woods eating rabbits, and that he hung skinned rabbits — later, trespassers — beneath the one-lane brick railway underpass on Colchester Road in Clifton, now called Bunny Man Bridge, returning each Halloween midnight to hang whoever lingers there. Fairfax County never had such an asylum, and Griffon is pure invention.\n\nBrian A. Conley, historian-archivist with the Fairfax County Public Library, untangled the case in his study \"The Bunny Man Unmasked,\" separating the 1970 police reports from the accreted legend — a model demonstration of how a documented oddity grows a mythology. Police still post officers at the underpass each Halloween to turn away carloads of legend-trippers."
   },
   "domains": {
-    "zh": ["都市传说", "传说地点", "真实事件发酵", "万圣节仪式"],
-    "en": ["Urban legend", "Legend tripping", "Fact-to-legend growth", "Halloween ritual"]
+    "zh": [
+      "都市传说",
+      "传说地点",
+      "真实事件发酵",
+      "万圣节仪式"
+    ],
+    "en": [
+      "Urban legend",
+      "Legend tripping",
+      "Fact-to-legend growth",
+      "Halloween ritual"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "可考事件", "en": "Documented incidents" },
-      "value": { "zh": "1970年10月19日与29日两起挥斧恐吓", "en": "Hatchet threats on October 19 and 29, 1970" }
+      "label": {
+        "zh": "可考事件",
+        "en": "Documented incidents"
+      },
+      "value": {
+        "zh": "1970年10月19日与29日两起挥斧恐吓",
+        "en": "Hatchet threats on October 19 and 29, 1970"
+      }
     },
     {
-      "label": { "zh": "传说地点", "en": "Legend site" },
-      "value": { "zh": "克利夫顿科尔切斯特路铁路涵洞（兔子人桥）", "en": "The Colchester Road underpass in Clifton (Bunny Man Bridge)" }
+      "label": {
+        "zh": "传说地点",
+        "en": "Legend site"
+      },
+      "value": {
+        "zh": "克利夫顿科尔切斯特路铁路涵洞（兔子人桥）",
+        "en": "The Colchester Road underpass in Clifton (Bunny Man Bridge)"
+      }
     },
     {
-      "label": { "zh": "考证者", "en": "Debunker" },
-      "value": { "zh": "布莱恩·康利（费尔法克斯县公共图书馆）", "en": "Brian A. Conley, Fairfax County Public Library" }
+      "label": {
+        "zh": "考证者",
+        "en": "Debunker"
+      },
+      "value": {
+        "zh": "布莱恩·康利（费尔法克斯县公共图书馆）",
+        "en": "Brian A. Conley, Fairfax County Public Library"
+      }
     }
   ],
-  "related": ["goatman", "bloody-mary"],
+  "related": [
+    "goatman",
+    "bloody-mary"
+  ],
   "sources": [
-    { "zh": "《华盛顿邮报》1970年10月报道", "en": "Washington Post reports, October 1970" },
-    { "zh": "布莱恩·康利《揭开兔子人的面具》（费尔法克斯县公共图书馆）", "en": "Brian A. Conley, \"The Bunny Man Unmasked\" (Fairfax County Public Library)" }
+    {
+      "zh": "《华盛顿邮报》1970年10月报道",
+      "en": "Washington Post reports, October 1970"
+    },
+    {
+      "zh": "布莱恩·康利《揭开兔子人的面具》（费尔法克斯县公共图书馆）",
+      "en": "Brian A. Conley, \"The Bunny Man Unmasked\" (Fairfax County Public Library)"
+    }
   ],
   "geo": {
     "lat": 38.77,
     "lon": -77.39,
-    "label": { "zh": "弗吉尼亚州克利夫顿「兔子人桥」", "en": "Bunny Man Bridge, Clifton, Virginia" }
+    "label": {
+      "zh": "弗吉尼亚州克利夫顿「兔子人桥」",
+      "en": "Bunny Man Bridge, Clifton, Virginia"
+    }
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/bunny-man.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunnyman_bridge_night.jpg",
+    "sourceTitle": "Bunnyman bridge night",
+    "artist": "Secretsqurl (talk) (Uploads)",
+    "license": "Public domain",
+    "width": 400,
+    "height": 247
+  }
 }

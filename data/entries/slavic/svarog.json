@@ -9,7 +9,10 @@
     "original": "Сварогъ",
     "originalLang": "古东斯拉夫语"
   },
-  "title": { "zh": "天火与锻造之神", "en": "God of Celestial Fire and Smithcraft" },
+  "title": {
+    "zh": "天火与锻造之神",
+    "en": "God of Celestial Fire and Smithcraft"
+  },
   "summary": {
     "zh": "编年史插注把希腊锻神赫菲斯托斯译作\"斯瓦罗格\"，称太阳神达日博格为其子；\"斯瓦罗日奇\"则指受供奉的火。",
     "en": "A chronicle gloss renders Hephaestus as Svarog and makes the sun god Dazhbog his son; \"Svarozhich\" named the sacred fire itself."
@@ -19,18 +22,73 @@
     "en": "Svarog is the god of heavenly fire and the smith's craft. His chief attestation is the entry for 1114 in the Hypatian Codex, where the chronicler, translating the Byzantine chronicle of John Malalas, added a gloss rendering the Greek smith god Hephaestus as Svarog and calling the sun god Dazhbog \"son of Svarog.\" In this passage, tongs fell from the sky during Svarog's reign and people learned to forge weapons; he also instituted the law of one husband and one wife, casting offenders into a furnace.\n\nIn Old Rus sermons \"Svarozhich,\" son of Svarog, named the fire that peasants venerated as a god: churchmen complained that people \"pray to fire, calling it Svarozhich,\" typically at the drying barn where grain was cured. The West Slavs on the southern Baltic shore worshipped a deity of the corresponding name: Thietmar of Merseburg recorded in the early eleventh century that the temple at Radogost (Rethra), holy city of the Lutici, housed an armoured war god called Zuarasici, consulted by lot before campaigns.\n\nWith so few direct sources, most of Svarog's genealogy is scholarly reconstruction; Romantic writers from the nineteenth century onward inflated him into a Slavic sky-father and progenitor of the gods, for which the medieval texts give no warrant. Etymologists compare his name with Indo-Iranian svar, \"sunlight,\" while others derive it from Slavic svara, \"quarrel\"; the question stays open."
   },
   "domains": {
-    "zh": ["天火", "锻造", "太阳", "律法"],
-    "en": ["Celestial fire", "Smithcraft", "Sun", "Law"]
+    "zh": [
+      "天火",
+      "锻造",
+      "太阳",
+      "律法"
+    ],
+    "en": [
+      "Celestial fire",
+      "Smithcraft",
+      "Sun",
+      "Law"
+    ]
   },
   "traits": [
-    { "label": { "zh": "希腊对应", "en": "Greek equivalent" }, "value": { "zh": "赫菲斯托斯（编年史插注）", "en": "Hephaestus (chronicle gloss)" } },
-    { "label": { "zh": "子嗣", "en": "Offspring" }, "value": { "zh": "太阳神达日博格；\"斯瓦罗日奇\"即圣火", "en": "The sun god Dazhbog; \"Svarozhich\" the sacred fire" } },
-    { "label": { "zh": "西斯拉夫对应", "en": "West Slavic counterpart" }, "value": { "zh": "雷特拉神庙的祖阿拉西奇", "en": "Zuarasici of the Rethra temple" } }
+    {
+      "label": {
+        "zh": "希腊对应",
+        "en": "Greek equivalent"
+      },
+      "value": {
+        "zh": "赫菲斯托斯（编年史插注）",
+        "en": "Hephaestus (chronicle gloss)"
+      }
+    },
+    {
+      "label": {
+        "zh": "子嗣",
+        "en": "Offspring"
+      },
+      "value": {
+        "zh": "太阳神达日博格；\"斯瓦罗日奇\"即圣火",
+        "en": "The sun god Dazhbog; \"Svarozhich\" the sacred fire"
+      }
+    },
+    {
+      "label": {
+        "zh": "西斯拉夫对应",
+        "en": "West Slavic counterpart"
+      },
+      "value": {
+        "zh": "雷特拉神庙的祖阿拉西奇",
+        "en": "Zuarasici of the Rethra temple"
+      }
+    }
   ],
-  "related": ["perun", "veles", "dazhbog"],
+  "related": [
+    "perun",
+    "veles",
+    "dazhbog"
+  ],
   "sources": [
-    { "zh": "《伊帕季耶夫编年史》1114年条（约翰·马拉拉斯编年史译文插注）", "en": "Hypatian Codex, entry for 1114 (gloss on the chronicle of John Malalas)" },
-    { "zh": "梅泽堡的蒂特马尔《编年史》（11世纪初）", "en": "Thietmar of Merseburg, Chronicon, early 11th century" }
+    {
+      "zh": "《伊帕季耶夫编年史》1114年条（约翰·马拉拉斯编年史译文插注）",
+      "en": "Hypatian Codex, entry for 1114 (gloss on the chronicle of John Malalas)"
+    },
+    {
+      "zh": "梅泽堡的蒂特马尔《编年史》（11世纪初）",
+      "en": "Thietmar of Merseburg, Chronicon, early 11th century"
+    }
   ],
-  "image": null
+  "image": {
+    "file": "/images/entries/svarog.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swar%C3%B3g.jpg",
+    "sourceTitle": "Swaróg",
+    "artist": "Γραφέας",
+    "license": "CC BY-SA 4.0",
+    "width": 853,
+    "height": 1000
+  }
 }

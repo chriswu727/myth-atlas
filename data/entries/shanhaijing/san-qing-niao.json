@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "creature",
   "era": "ancient",
-  "name": { "zh": "三青鸟", "en": "Three Azure Birds" },
-  "title": { "zh": "为西王母取食传信的神鸟", "en": "Divine Birds that Serve the Queen Mother of the West" },
+  "name": {
+    "zh": "三青鸟",
+    "en": "Three Azure Birds"
+  },
+  "title": {
+    "zh": "为西王母取食传信的神鸟",
+    "en": "Divine Birds that Serve the Queen Mother of the West"
+  },
   "summary": {
     "zh": "栖居三危之山的三只青鸟，为西王母取食；汉代以后化为传信的使者，“青鸟”从此成为信使的代称。",
     "en": "Three azure birds roosting on Mount Sanwei who fetch food for the Queen Mother of the West; from Han times they became her heralds, and 'azure bird' has meant 'messenger' in Chinese ever since."
@@ -14,31 +20,92 @@
     "en": "The 'Classic of the Western Mountains' notes of Mount Sanwei only that 'the three azure birds dwell there' on a mountain 'a hundred li around'; Guo Pu explains that these are the birds who fetch food for the Queen Mother of the West, roosting here when off duty. The 'Classic of Regions Within the Seas: North' shows them at work — 'south of the Queen Mother, three azure birds fetch her food' — and the 'Classic of the Great Wilderness: West' names them: Dali, Shaoli, and Qingniao, red-headed and black-eyed.\n\nFrom Han times onward the birds turned from cooks into couriers. In the Han Wudi Gushi, on the seventh day of the seventh month an azure bird flies in from the west and settles before the palace hall; Dongfang Shuo announces that the Queen Mother is coming, and presently she arrives with two azure birds flanking her. Tang poets fixed the motif for good — after Li Shangyin's line 'azure bird, be diligent and spy out the way for me', the word qingniao has simply meant 'messenger' in literary Chinese.\n\nTheir mountain is traditionally identified with the Sanwei hills southeast of Dunhuang, across the valley from the Mogao caves; they share it with the man-eating white ox Aohen."
   },
   "domains": {
-    "zh": ["信使", "西王母", "祥瑞", "三危之山"],
-    "en": ["Messengers", "Queen Mother of the West", "Auspice", "Mount Sanwei"]
+    "zh": [
+      "信使",
+      "西王母",
+      "祥瑞",
+      "三危之山"
+    ],
+    "en": [
+      "Messengers",
+      "Queen Mother of the West",
+      "Auspice",
+      "Mount Sanwei"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "名号", "en": "Names" },
-      "value": { "zh": "大鵹、少鵹、青鸟（《大荒西经》）", "en": "Dali, Shaoli, and Qingniao, per the Great Wilderness classic" }
+      "label": {
+        "zh": "名号",
+        "en": "Names"
+      },
+      "value": {
+        "zh": "大鵹、少鵹、青鸟（《大荒西经》）",
+        "en": "Dali, Shaoli, and Qingniao, per the Great Wilderness classic"
+      }
     },
     {
-      "label": { "zh": "形貌", "en": "Form" },
-      "value": { "zh": "赤首黑目的青色神鸟", "en": "Azure birds with red heads and black eyes" }
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "赤首黑目的青色神鸟",
+        "en": "Azure birds with red heads and black eyes"
+      }
     },
     {
-      "label": { "zh": "职司", "en": "Office" },
-      "value": { "zh": "为西王母取食、传信", "en": "Fetching food and bearing messages for the Queen Mother" }
+      "label": {
+        "zh": "职司",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "为西王母取食、传信",
+        "en": "Fetching food and bearing messages for the Queen Mother"
+      }
     }
   ],
-  "related": ["xiwangmu", "ao-hen"],
-  "sources": [
-    { "zh": "《山海经·西山经》", "en": "Shanhaijing, 'Classic of the Western Mountains'" },
-    { "zh": "《山海经·海内北经》", "en": "Shanhaijing, 'Classic of Regions Within the Seas: North'" },
-    { "zh": "《山海经·大荒西经》", "en": "Shanhaijing, 'Classic of the Great Wilderness: West'" },
-    { "zh": "《汉武故事》", "en": "Han Wudi Gushi (Tales of Emperor Wu of Han)" }
+  "related": [
+    "xiwangmu",
+    "ao-hen"
   ],
-  "geo": { "lat": 40.03, "lon": 94.78, "label": { "zh": "三危山（甘肃敦煌）", "en": "Mount Sanwei, Dunhuang, Gansu" } },
-  "volume": { "zh": "西山经", "en": "Classic of the Western Mountains" },
-  "image": null
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《山海经·海内北经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: North'"
+    },
+    {
+      "zh": "《山海经·大荒西经》",
+      "en": "Shanhaijing, 'Classic of the Great Wilderness: West'"
+    },
+    {
+      "zh": "《汉武故事》",
+      "en": "Han Wudi Gushi (Tales of Emperor Wu of Han)"
+    }
+  ],
+  "geo": {
+    "lat": 40.03,
+    "lon": 94.78,
+    "label": {
+      "zh": "三危山（甘肃敦煌）",
+      "en": "Mount Sanwei, Dunhuang, Gansu"
+    }
+  },
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/san-qing-niao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC403-312001066460-4371_%E5%B1%B1%E6%B5%B7%E7%B6%93%E5%AD%98_%E5%8D%B7%E4%B8%89.pdf",
+    "sourceTitle": "山海經存 (p.30)",
+    "artist": "汪绂",
+    "license": "Public domain",
+    "width": 547,
+    "height": 394
+  }
 }

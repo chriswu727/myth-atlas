@@ -7,7 +7,10 @@
     "zh": "黑眼孩童",
     "en": "Black-Eyed Children"
   },
-  "title": { "zh": "深夜求助的漆黑眼眸孩子", "en": "The Children at the Door with Coal-Black Eyes" },
+  "title": {
+    "zh": "深夜求助的漆黑眼眸孩子",
+    "en": "The Children at the Door with Coal-Black Eyes"
+  },
   "summary": {
     "zh": "1996年得州记者Brian Bethel在网络邮件列表讲述的遭遇衍生的怪谈：深夜敲门或敲车窗求助的孩子，眼睛全黑无白，坚持要你「让我们进来」。",
     "en": "An internet legend seeded by Texas reporter Brian Bethel's 1996 mailing-list account: children who knock on doors or car windows at night asking for help, their eyes solid black, insisting \"let us in.\""
@@ -17,28 +20,70 @@
     "en": "Encounter stories about the black-eyed children share a fixed skeleton: late at night, two children around ten years old — sometimes one, sometimes three — knock at a door or car window, dressed slightly out of date, speaking in flat, oddly adult cadences, asking to come in and use the phone, get a drink of water, or catch a ride home. Tellers invariably report two things: a wave of unexplained, almost physical dread, and the children's insistence that they need permission to enter. The story ends when the narrator finally sees the eyes — no iris, no white, wholly black. Every known teller refused, so no version records what happens if they are let in.\n\nThe legend has a patient zero. In 1996 Brian Bethel, a reporter for the Abilene Reporter-News in Texas, posted to a ghost-themed mailing list an account of meeting two boys in a movie-theater parking lot who asked for a ride, and of fleeing in terror when he saw their solid black eyes. The post was copied across the early internet; Bethel revisited the episode in a 2013 Reporter-News column and has maintained that it happened as told. The black-eyed children became the template for first-person internet horror encounters, spawning variants such as black-eyed adults and highway hitchhikers.\n\nFolklorists read the motif as the vampire's need for an invitation reworked for the age of porches and parked cars. Through the 2010s the legend spread via Reddit's NoSleep, creepypasta sites, and the late-night radio show Coast to Coast AM, and British tabloids manufactured a homegrown wave of \"black-eyed girl\" sightings at Cannock Chase."
   },
   "domains": {
-    "zh": ["遭遇怪谈", "需邀请入内", "深夜访客", "网络怪谈"],
-    "en": ["Encounter legend", "Invitation motif", "Night visitors", "Internet horror"]
+    "zh": [
+      "遭遇怪谈",
+      "需邀请入内",
+      "深夜访客",
+      "网络怪谈"
+    ],
+    "en": [
+      "Encounter legend",
+      "Invitation motif",
+      "Night visitors",
+      "Internet horror"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "起点", "en": "Origin" },
-      "value": { "zh": "Brian Bethel的邮件列表帖，1996年，得州阿比林", "en": "Brian Bethel's mailing-list post, Abilene, Texas, 1996" }
+      "label": {
+        "zh": "起点",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "Brian Bethel的邮件列表帖，1996年，得州阿比林",
+        "en": "Brian Bethel's mailing-list post, Abilene, Texas, 1996"
+      }
     },
     {
-      "label": { "zh": "识别特征", "en": "Tell" },
-      "value": { "zh": "全黑的眼球与「让我们进来」的执念", "en": "Solid black eyes and the fixation on being let in" }
+      "label": {
+        "zh": "识别特征",
+        "en": "Tell"
+      },
+      "value": {
+        "zh": "全黑的眼球与「让我们进来」的执念",
+        "en": "Solid black eyes and the fixation on being let in"
+      }
     }
   ],
-  "related": ["slender-man", "bloody-mary"],
+  "related": [
+    "slender-man",
+    "bloody-mary"
+  ],
   "sources": [
-    { "zh": "Brian Bethel灵异邮件列表帖（1996）", "en": "Brian Bethel's post to a ghost-themed mailing list (1996)" },
-    { "zh": "《阿比林记者新闻报》Bethel回顾报道（2013）", "en": "Brian Bethel's retrospective in the Abilene Reporter-News (2013)" }
+    {
+      "zh": "Brian Bethel灵异邮件列表帖（1996）",
+      "en": "Brian Bethel's post to a ghost-themed mailing list (1996)"
+    },
+    {
+      "zh": "《阿比林记者新闻报》Bethel回顾报道（2013）",
+      "en": "Brian Bethel's retrospective in the Abilene Reporter-News (2013)"
+    }
   ],
   "geo": {
     "lat": 32.45,
     "lon": -99.73,
-    "label": { "zh": "得克萨斯州阿比林", "en": "Abilene, Texas" }
+    "label": {
+      "zh": "得克萨斯州阿比林",
+      "en": "Abilene, Texas"
+    }
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/black-eyed-children.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_eyes_by_megamoto85_(cropped).jpg",
+    "sourceTitle": "Black eyes by megamoto85 (cropped)",
+    "artist": "Megamoto85",
+    "license": "CC BY-SA 4.0",
+    "width": 925,
+    "height": 673
+  }
 }

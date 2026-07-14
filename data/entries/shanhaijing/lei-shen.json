@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "deity",
   "era": "ancient",
-  "name": { "zh": "雷神", "en": "Thunder God of Lake Lei" },
-  "title": { "zh": "龙身人头、鼓腹作雷的雷泽之神", "en": "Dragon-Bodied God Who Drums His Belly for Thunder" },
+  "name": {
+    "zh": "雷神",
+    "en": "Thunder God of Lake Lei"
+  },
+  "title": {
+    "zh": "龙身人头、鼓腹作雷的雷泽之神",
+    "en": "Dragon-Bodied God Who Drums His Belly for Thunder"
+  },
   "summary": {
     "zh": "居于雷泽的神：龙的身体，人的头颅，一拍自己的肚腹便发出雷声。纬书相传华胥在雷泽踩到巨人足迹，感而生伏羲。",
     "en": "A god of Lake Lei with a dragon's body and a human head who makes thunder by drumming his own belly. Apocryphal tradition says Huaxu trod in a giant footprint by this lake and conceived Fuxi."
@@ -14,20 +20,80 @@
     "en": "The Classic of Regions Within the Seas: East places Lake Lei west of the land of Wu and gives it a resident: the thunder god, dragon-bodied and human-headed, who drums on his own belly. No hammer, no drumhead; the rumble of that belly is what men below hear as thunder. The Huainanzi repeats the description and adds one telling word: he drums his belly in play. Thunder, in this oldest version, is a god amusing himself.\n\nThe god was drafted into one of China's founding conception myths. The Han apocryphon Shi Han Shen Wu, quoted in the Taiping Yulan encyclopedia, relates that a giant footprint appeared by Lake Lei; the maiden Huaxu stepped into it and conceived Fuxi, the snake-bodied first sage who would devise the trigrams. Commentators took the footprint to be the lake-god's own, which makes the belly-drumming thunderer Fuxi's father. Later ages gave China's thunder deity a bird's beak, a mallet, and a ring of sky-drums; the older image of thunder as a dragon slapping its own stomach survives only in lines like this one."
   },
   "domains": {
-    "zh": ["雷神", "雷泽", "感生神话", "龙身"],
-    "en": ["Thunder Gods", "Lake Lei", "Miraculous Conception", "Dragon Bodies"]
+    "zh": [
+      "雷神",
+      "雷泽",
+      "感生神话",
+      "龙身"
+    ],
+    "en": [
+      "Thunder Gods",
+      "Lake Lei",
+      "Miraculous Conception",
+      "Dragon Bodies"
+    ]
   },
   "traits": [
-    { "label": { "zh": "形貌", "en": "Form" }, "value": { "zh": "龙身而人头", "en": "Dragon body, human head" } },
-    { "label": { "zh": "发雷之法", "en": "Thunder" }, "value": { "zh": "鼓其腹，腹鸣即雷", "en": "Drums his belly; the rumble is thunder" } },
-    { "label": { "zh": "神裔", "en": "Offspring" }, "value": { "zh": "旧说华胥履其迹而生伏羲", "en": "Fuxi, conceived from his footprint by Huaxu" } }
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "龙身而人头",
+        "en": "Dragon body, human head"
+      }
+    },
+    {
+      "label": {
+        "zh": "发雷之法",
+        "en": "Thunder"
+      },
+      "value": {
+        "zh": "鼓其腹，腹鸣即雷",
+        "en": "Drums his belly; the rumble is thunder"
+      }
+    },
+    {
+      "label": {
+        "zh": "神裔",
+        "en": "Offspring"
+      },
+      "value": {
+        "zh": "旧说华胥履其迹而生伏羲",
+        "en": "Fuxi, conceived from his footprint by Huaxu"
+      }
+    }
   ],
-  "related": ["fuxi", "tian-wu"],
+  "related": [
+    "fuxi",
+    "tian-wu"
+  ],
   "sources": [
-    { "zh": "《山海经·海内东经》", "en": "Shanhaijing, 'Classic of Regions Within the Seas: East'" },
-    { "zh": "《淮南子·墬形训》", "en": "Huainanzi, 'Terrestrial Forms'" },
-    { "zh": "《诗含神雾》（《太平御览》引）", "en": "Shi Han Shen Wu, quoted in the Taiping Yulan" }
+    {
+      "zh": "《山海经·海内东经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: East'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms'"
+    },
+    {
+      "zh": "《诗含神雾》（《太平御览》引）",
+      "en": "Shi Han Shen Wu, quoted in the Taiping Yulan"
+    }
   ],
-  "volume": { "zh": "海内东经", "en": "Classic of Regions Within the Seas: East" },
-  "image": null
+  "volume": {
+    "zh": "海内东经",
+    "en": "Classic of Regions Within the Seas: East"
+  },
+  "image": {
+    "file": "/images/entries/lei-shen.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC403-312001066460-18543_%E5%B1%B1%E6%B5%B7%E7%B6%93%E5%AD%98_%E5%8D%B7%E5%85%AB.pdf",
+    "sourceTitle": "山海經存 (p.21)",
+    "artist": "汪绂",
+    "license": "Public domain",
+    "width": 577,
+    "height": 932
+  }
 }

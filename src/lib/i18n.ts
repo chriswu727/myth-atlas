@@ -36,6 +36,14 @@ export const dict = {
     backToDex: { zh: '返回图鉴', en: 'Back to index' },
     imageSource: { zh: '图像来源', en: 'Image source' },
     inTradition: { zh: '所属体系', en: 'Tradition' },
+    noImageModern: {
+      zh: '无图版。此条目流传于网络时代，现存形象均为有版权的创作，本站不予转载。',
+      en: 'No plate. This legend is of the internet age; every existing depiction is a copyrighted creation, so none is reproduced here.',
+    },
+    noImageOld: {
+      zh: '无图版。尚未找到描绘此条目的公有领域图像。',
+      en: 'No plate. No public-domain depiction of this subject has been found.',
+    },
   },
   tradition: {
     entriesIn: { zh: '收录条目', en: 'Entries' },

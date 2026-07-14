@@ -9,7 +9,10 @@
     "original": "口裂け女",
     "originalLang": "日语"
   },
-  "title": { "zh": "问「我漂亮吗」的口罩女人", "en": "The masked woman who asks 'Am I pretty?'" },
+  "title": {
+    "zh": "问「我漂亮吗」的口罩女人",
+    "en": "The masked woman who asks 'Am I pretty?'"
+  },
   "summary": {
     "zh": "戴口罩的女人拦住放学的孩子问「我漂亮吗」，摘下口罩露出裂到耳根的嘴再问一遍。1978年冬从岐阜县发端，1979年春夏席卷全日本。",
     "en": "A masked woman stops schoolchildren to ask 'Am I pretty?', then pulls the mask down on a mouth slit to the ears and asks again. The rumor rose in Gifu in winter 1978 and swept Japan by summer 1979."
@@ -19,28 +22,81 @@
     "en": "The kuchisake-onna's question has no safe answer. A young woman in a large surgical mask stops a child on the way home from school and asks, 'Am I pretty?' Say yes, and she pulls the mask down on a mouth slit ear to ear and asks, 'Even like this?' Say no, or run, and she catches you; rumor gave her a hundred meters in six seconds and a pair of scissors to cut your mouth to match hers. Children traded countermeasures: say 'pomade' three times, or throw hard candy and flee while she stoops for it. Her origin varied by prefecture, the most common being plastic surgery gone wrong.\n\nThe panic can be dated and placed. Around December 1978 a rumor spread in Gifu prefecture that an old farm woman had seen a slit-mouthed woman standing in the corner of her yard; the Gifu Nichi Nichi Shimbun printed the first newspaper account on 26 January 1979. Over the following six months the story traveled nationwide through schoolyards, cram schools, and local media. Elementary schools organized escorted walks home, police stepped up patrols, and at least one adult dressed as the woman was taken into custody. When summer vacation began in August 1979 the rumor collapsed, and that clean epidemic curve made the kuchisake-onna a standard case study for Japanese folklorists and social psychologists of rumor.\n\nAs postwar Japan's first truly national urban legend she keeps returning, in Shiraishi Koji's 2007 film Carved among many others, with localized variants in Korea and Vietnam. The everyday surgical mask has carried a faint shadow in Japanese horror ever since."
   },
   "domains": {
-    "zh": ["都市传说", "校园恐慌", "口罩", "流言传播"],
-    "en": ["Urban legends", "School panics", "Masks", "Rumor epidemics"]
+    "zh": [
+      "都市传说",
+      "校园恐慌",
+      "口罩",
+      "流言传播"
+    ],
+    "en": [
+      "Urban legends",
+      "School panics",
+      "Masks",
+      "Rumor epidemics"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "初出", "en": "First appearance" },
-      "value": { "zh": "1978年12月前后岐阜县传闻，1979年1月26日见报", "en": "Gifu rumor c. December 1978; first press report 26 January 1979" }
+      "label": {
+        "zh": "初出",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "1978年12月前后岐阜县传闻，1979年1月26日见报",
+        "en": "Gifu rumor c. December 1978; first press report 26 January 1979"
+      }
     },
     {
-      "label": { "zh": "破解法", "en": "Countermeasure" },
-      "value": { "zh": "连说三遍「发蜡」，或扔鳖甲糖", "en": "Say 'pomade' three times, or throw hard candy" }
+      "label": {
+        "zh": "破解法",
+        "en": "Countermeasure"
+      },
+      "value": {
+        "zh": "连说三遍「发蜡」，或扔鳖甲糖",
+        "en": "Say 'pomade' three times, or throw hard candy"
+      }
     },
     {
-      "label": { "zh": "传闻速度", "en": "Rumored speed" },
-      "value": { "zh": "百米六秒", "en": "100 meters in 6 seconds" }
+      "label": {
+        "zh": "传闻速度",
+        "en": "Rumored speed"
+      },
+      "value": {
+        "zh": "百米六秒",
+        "en": "100 meters in 6 seconds"
+      }
     }
   ],
-  "related": ["hanako-san", "hasshaku-sama", "jinmenken"],
-  "sources": [
-    { "zh": "《岐阜日日新闻》1979年1月26日报道", "en": "Gifu Nichi Nichi Shimbun, 26 January 1979" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "hanako-san",
+    "hasshaku-sama",
+    "jinmenken"
   ],
-  "geo": { "lat": 35.42, "lon": 136.76, "label": { "zh": "岐阜县（流言发端地）", "en": "Gifu prefecture (origin of the rumor)" } },
-  "image": null
+  "sources": [
+    {
+      "zh": "《岐阜日日新闻》1979年1月26日报道",
+      "en": "Gifu Nichi Nichi Shimbun, 26 January 1979"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "geo": {
+    "lat": 35.42,
+    "lon": 136.76,
+    "label": {
+      "zh": "岐阜县（流言发端地）",
+      "en": "Gifu prefecture (origin of the rumor)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kuchisake-onna.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ehon-Sayoshigure_Kuchisake_onna.jpg",
+    "sourceTitle": "Ehon-Sayoshigure Kuchisake onna",
+    "artist": "Tanapat user",
+    "license": "CC BY-SA 4.0",
+    "width": 996,
+    "height": 1000
+  }
 }

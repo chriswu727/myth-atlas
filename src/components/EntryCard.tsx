@@ -34,7 +34,11 @@ export default function EntryCard({
                 className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-[1.03]"
               />
             ) : (
-              <Emblem type={entry.type} color={tradition.color} />
+              <Emblem
+                type={entry.type}
+                color={tradition.color}
+                name={entry.original ?? entry.nameZh}
+              />
             )}
           </div>
         </div>

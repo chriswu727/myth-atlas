@@ -9,7 +9,10 @@
     "original": "犬鳴村",
     "originalLang": "日语"
   },
-  "title": { "zh": "「日本国宪法在此不适用」的隐匿村落", "en": "The hidden village where 'the constitution of Japan does not apply'" },
+  "title": {
+    "zh": "「日本国宪法在此不适用」的隐匿村落",
+    "en": "The hidden village where 'the constitution of Japan does not apply'"
+  },
   "summary": {
     "zh": "传说福冈县犬鸣峠的旧隧道深处有一座地图上不存在的村子，入口立牌「此后日本国宪法不适用」，闯入者有去无回。1990年代末经网络扩散。",
     "en": "Beyond the old tunnel at Inunaki Pass in Fukuoka, legend places a village on no map, its entrance signed 'The constitution of Japan does not apply beyond this point.' The story spread online from the late 1990s."
@@ -19,28 +22,80 @@
     "en": "The Inunaki Village of legend hides in the mountains around Inunaki Pass in Miyawaka, Fukuoka: maps leave it blank, phone signal dies on the approach, and a sign at the mouth of the path reads, 'Beyond this point, the constitution of Japan does not apply.' Its people are said to have cut all ties with the outside for centuries and to hunt intruders with sickles and hoes; explorers' accounts add a wrecked white sedan by the entrance and dog howls and voices deep in the valley. These elements crystallized on personal websites and BBS boards in the late 1990s and were amplified through mobile horror sites and TV specials in the 2000s, making the pass a fixture of 'most haunted spot in Japan' lists.\n\nThe legend stands on a verifiable base. A real settlement existed in the Inunaki valley, including an Edo-period ironworking enclave; its residents were relocated in the 1980s for the Inunaki Dam, completed in 1994, which put part of the old village underwater, hence a village that vanished from the map. When the new Inunaki tunnel opened in 1975, the old tunnel fell derelict and drew bikers and thrill-seekers; in December 1988 five youths beat and burned to death a twenty-year-old factory worker near it, a murder that shocked the country, after which the tunnel mouth was sealed with concrete. A true crime, a walled-up tunnel, and a drowned village supplied everything the story needed.\n\nShimizu Takashi's 2020 film Howling Village carried the legend to cinemas and set off a wave of 'found-record' village horror. Sections of the pass are closed today, and Fukuoka police periodically warn explorers away."
   },
   "domains": {
-    "zh": ["禁地", "隐匿村落", "隧道", "试胆探险"],
-    "en": ["Forbidden places", "Hidden villages", "Tunnels", "Legend tripping"]
+    "zh": [
+      "禁地",
+      "隐匿村落",
+      "隧道",
+      "试胆探险"
+    ],
+    "en": [
+      "Forbidden places",
+      "Hidden villages",
+      "Tunnels",
+      "Legend tripping"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "流传渠道", "en": "Channel" },
-      "value": { "zh": "1990年代末个人网站与BBS，2000年代手机怪谈站", "en": "Personal sites and BBS boards from the late 1990s; mobile horror sites in the 2000s" }
+      "label": {
+        "zh": "流传渠道",
+        "en": "Channel"
+      },
+      "value": {
+        "zh": "1990年代末个人网站与BBS，2000年代手机怪谈站",
+        "en": "Personal sites and BBS boards from the late 1990s; mobile horror sites in the 2000s"
+      }
     },
     {
-      "label": { "zh": "现实底座", "en": "Factual base" },
-      "value": { "zh": "犬鸣水库淹没旧村（1994年）、旧隧道封闭、1988年凶杀案", "en": "Village drowned by Inunaki Dam (1994); sealed old tunnel; the 1988 murder" }
+      "label": {
+        "zh": "现实底座",
+        "en": "Factual base"
+      },
+      "value": {
+        "zh": "犬鸣水库淹没旧村（1994年）、旧隧道封闭、1988年凶杀案",
+        "en": "Village drowned by Inunaki Dam (1994); sealed old tunnel; the 1988 murder"
+      }
     },
     {
-      "label": { "zh": "影视化", "en": "Film" },
-      "value": { "zh": "清水崇《犬鸣村》（2020年）", "en": "Shimizu Takashi, Howling Village (2020)" }
+      "label": {
+        "zh": "影视化",
+        "en": "Film"
+      },
+      "value": {
+        "zh": "清水崇《犬鸣村》（2020年）",
+        "en": "Shimizu Takashi, Howling Village (2020)"
+      }
     }
   ],
-  "related": ["sugisawa-village", "kisaragi-station"],
-  "sources": [
-    { "zh": "1990年代末日本网络BBS与个人网站流传", "en": "Late-1990s Japanese BBS and personal-website lore" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "sugisawa-village",
+    "kisaragi-station"
   ],
-  "geo": { "lat": 33.67, "lon": 130.58, "label": { "zh": "福冈县宫若市·犬鸣峠", "en": "Inunaki Pass, Miyawaka, Fukuoka" } },
-  "image": null
+  "sources": [
+    {
+      "zh": "1990年代末日本网络BBS与个人网站流传",
+      "en": "Late-1990s Japanese BBS and personal-website lore"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "geo": {
+    "lat": 33.67,
+    "lon": 130.58,
+    "label": {
+      "zh": "福冈县宫若市·犬鸣峠",
+      "en": "Inunaki Pass, Miyawaka, Fukuoka"
+    }
+  },
+  "image": {
+    "file": "/images/entries/inunaki-village.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inunaki_old_tunnel.jpg",
+    "sourceTitle": "Inunaki old tunnel",
+    "artist": "Pontafon",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 666
+  }
 }

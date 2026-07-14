@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "creature",
   "era": "ancient",
-  "name": { "zh": "虎蛟", "en": "Hujiao" },
-  "title": { "zh": "泿水中鱼身蛇尾的蛟属", "en": "Fish-Bodied, Serpent-Tailed Dragon-Kin of the Yin River" },
+  "name": {
+    "zh": "虎蛟",
+    "en": "Hujiao"
+  },
+  "title": {
+    "zh": "泿水中鱼身蛇尾的蛟属",
+    "en": "Fish-Bodied, Serpent-Tailed Dragon-Kin of the Yin River"
+  },
   "summary": {
     "zh": "祷过山泿水中的蛟，鱼的身子、蛇的尾巴，叫声像鸳鸯；吃它的肉不生痈肿，还能治痔疮。",
     "en": "A jiao-dragon of the Yin River below Mount Daoguo, with a fish's body and a serpent's tail, calling like a mandarin duck; eating it prevents swellings and cures hemorrhoids."
@@ -14,19 +20,75 @@
     "en": "The Yin River rises on Mount Daoguo and flows south into the sea, and in its waters coils the hujiao, the 'tiger jiao'. Mount Daoguo is itself a storehouse of southern fauna — gold and jade above, rhinoceroses, buffalo, and elephants below — and the river adds this: a creature with a fish's body and a serpent's tail whose voice, incongruously, is the soft call of a mandarin duck.\n\nThe jiao is a water-beast of the dragon kind; Guo Pu describes the type as snake-like with four legs, small-headed and thin-necked, the great ones a dozen spans around and able to swallow a man, and the 'tiger' in this one's name has usually been read as a mark of ferocity. Yet the Classic of the Southern Mountains is not interested in its menace. The entry closes as a recipe: whoever eats it will suffer no tumorous swellings, and it can cure hemorrhoids. Filing a dragon-kin monster under dietary medicine is the book's naturalist manner at its purest — every marvel must declare its locality, its cry, and its use, like goods a fisherman could price. Later lore let jiao grow into flood-raising serpents striving to become dragons; the hujiao stayed quietly in the Yin River, an item in the pharmacopoeia."
   },
   "domains": {
-    "zh": ["蛟龙", "水族", "医药"],
-    "en": ["Jiao Dragons", "Water Creatures", "Healing"]
+    "zh": [
+      "蛟龙",
+      "水族",
+      "医药"
+    ],
+    "en": [
+      "Jiao Dragons",
+      "Water Creatures",
+      "Healing"
+    ]
   },
   "traits": [
-    { "label": { "zh": "出没地", "en": "Haunt" }, "value": { "zh": "祷过山泿水", "en": "The Yin River, Mount Daoguo" } },
-    { "label": { "zh": "叫声", "en": "Cry" }, "value": { "zh": "如鸳鸯", "en": "Like a mandarin duck" } },
-    { "label": { "zh": "功效", "en": "Virtue" }, "value": { "zh": "食者不肿，可以已痔", "en": "Prevents swellings; cures hemorrhoids" } }
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "祷过山泿水",
+        "en": "The Yin River, Mount Daoguo"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如鸳鸯",
+        "en": "Like a mandarin duck"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食者不肿，可以已痔",
+        "en": "Prevents swellings; cures hemorrhoids"
+      }
+    }
   ],
-  "related": ["qu-ru", "lu-fish", "chinese-dragon"],
+  "related": [
+    "qu-ru",
+    "lu-fish",
+    "chinese-dragon"
+  ],
   "sources": [
-    { "zh": "《山海经·南山经》", "en": "Shanhaijing, 'Classic of the Southern Mountains'" },
-    { "zh": "郭璞《山海经传》", "en": "Guo Pu, commentary on the Shanhaijing" }
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经传》",
+      "en": "Guo Pu, commentary on the Shanhaijing"
+    }
   ],
-  "volume": { "zh": "南山经", "en": "Classic of the Southern Mountains" },
-  "image": null
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/hu-jiao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC403-312001066460-18585_%E5%B1%B1%E6%B5%B7%E7%B6%93%E5%AD%98_%E5%8D%B7%E4%BA%8C.pdf",
+    "sourceTitle": "山海經存 (p.19)",
+    "artist": "汪绂",
+    "license": "Public domain",
+    "width": 543,
+    "height": 475
+  }
 }

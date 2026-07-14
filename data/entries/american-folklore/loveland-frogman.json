@@ -7,7 +7,10 @@
     "zh": "洛夫兰蛙人",
     "en": "Loveland Frogman"
   },
-  "title": { "zh": "小迈阿密河畔的直立蛙形怪", "en": "The Upright Frog of the Little Miami River" },
+  "title": {
+    "zh": "小迈阿密河畔的直立蛙形怪",
+    "en": "The Upright Frog of the Little Miami River"
+  },
   "summary": {
     "zh": "俄亥俄州洛夫兰镇的蛙面直立小怪物：1955年有商人称见到三只，1972年两名警察先后目击；后一位目击警察多年后改口称那只是一只大蜥蜴。",
     "en": "A frog-faced biped of Loveland, Ohio: a businessman reported three in 1955, and two police officers saw one in 1972 — though one officer later said it was just a large iguana."
@@ -17,32 +20,80 @@
     "en": "The Loveland Frogman stands about a meter tall, with slick, wrinkled froglike skin and a frog's or lizard's face, walking upright on its hind legs along the Little Miami River at Loveland, northeast of Cincinnati, Ohio. The earliest story dates to May 1955, when a traveling businessman claimed he saw three small frog-faced figures gathered by the road, one holding a short rod that sprayed sparks — a detail that led early UFO writers to file the case among \"contact\" reports.\n\nThe weightiest sightings came in 1972. In the early hours of March 3, Loveland police officer Ray Shockey caught a crouched creature in his headlights; it stood, climbed over the guardrail, and went down the bank into the Little Miami. Shockey described it as about a meter tall with leathery skin and a frog's face. Two weeks later officer Mark Matthews encountered a similar animal on the river road and fired at it without effect. The two police reports put the Frogman in the local papers and made it Ohio's most famous small monster. Years later Matthews revised his account: the thing had been a large escaped iguana, tailless and therefore oddly upright — and the two officers' versions have never fully agreed since.\n\nThe internet gave the Frogman a second life. In August 2016 a young man playing Pokemon Go said he filmed a frog-shaped figure with glowing eyes at Lake Isabella near Loveland, and the video went viral; that same year Cincinnati staged the musical Hot Damn! It's the Loveland Frog! The town has embraced its mascot, complete with a riverside statue of a banjo-playing frogman."
   },
   "domains": {
-    "zh": ["河畔小怪物", "警察目击", "两栖怪谈", "地方吉祥物"],
-    "en": ["River cryptid", "Police sighting", "Amphibian legend", "Town mascot"]
+    "zh": [
+      "河畔小怪物",
+      "警察目击",
+      "两栖怪谈",
+      "地方吉祥物"
+    ],
+    "en": [
+      "River cryptid",
+      "Police sighting",
+      "Amphibian legend",
+      "Town mascot"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "关键目击", "en": "Key sightings" },
-      "value": { "zh": "1972年3月警官肖基与马修斯先后目击", "en": "Officers Shockey and Matthews, March 1972" }
+      "label": {
+        "zh": "关键目击",
+        "en": "Key sightings"
+      },
+      "value": {
+        "zh": "1972年3月警官肖基与马修斯先后目击",
+        "en": "Officers Shockey and Matthews, March 1972"
+      }
     },
     {
-      "label": { "zh": "翻案说法", "en": "Retraction" },
-      "value": { "zh": "马修斯后称目标是一只大鬣蜥", "en": "Matthews later said it was a large iguana" }
+      "label": {
+        "zh": "翻案说法",
+        "en": "Retraction"
+      },
+      "value": {
+        "zh": "马修斯后称目标是一只大鬣蜥",
+        "en": "Matthews later said it was a large iguana"
+      }
     },
     {
-      "label": { "zh": "网络回响", "en": "Internet revival" },
-      "value": { "zh": "2016年《宝可梦GO》玩家的目击视频", "en": "A 2016 Pokemon Go player's viral video" }
+      "label": {
+        "zh": "网络回响",
+        "en": "Internet revival"
+      },
+      "value": {
+        "zh": "2016年《宝可梦GO》玩家的目击视频",
+        "en": "A 2016 Pokemon Go player's viral video"
+      }
     }
   ],
-  "related": ["dover-demon", "chupacabra"],
+  "related": [
+    "dover-demon",
+    "chupacabra"
+  ],
   "sources": [
-    { "zh": "1972年3月洛夫兰警方报告与地方报纸报道", "en": "Loveland police reports and local press coverage, March 1972" },
-    { "zh": "洛伦·科尔曼《神秘美国》中的案例记述（1983）", "en": "Case account in Loren Coleman, Mysterious America (1983)" }
+    {
+      "zh": "1972年3月洛夫兰警方报告与地方报纸报道",
+      "en": "Loveland police reports and local press coverage, March 1972"
+    },
+    {
+      "zh": "洛伦·科尔曼《神秘美国》中的案例记述（1983）",
+      "en": "Case account in Loren Coleman, Mysterious America (1983)"
+    }
   ],
   "geo": {
     "lat": 39.27,
     "lon": -84.26,
-    "label": { "zh": "俄亥俄州洛夫兰镇小迈阿密河", "en": "Little Miami River at Loveland, Ohio" }
+    "label": {
+      "zh": "俄亥俄州洛夫兰镇小迈阿密河",
+      "en": "Little Miami River at Loveland, Ohio"
+    }
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/loveland-frogman.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loveland_frog.png",
+    "sourceTitle": "Loveland frog",
+    "artist": "Tim Bertelink",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 719
+  }
 }

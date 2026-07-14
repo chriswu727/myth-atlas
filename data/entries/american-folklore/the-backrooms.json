@@ -7,7 +7,10 @@
     "zh": "后室",
     "en": "The Backrooms"
   },
-  "title": { "zh": "从现实「穿模」跌入的无尽黄色房间", "en": "The Endless Yellow Rooms You Noclip Into" },
+  "title": {
+    "zh": "从现实「穿模」跌入的无尽黄色房间",
+    "en": "The Endless Yellow Rooms You Noclip Into"
+  },
   "summary": {
     "zh": "2019年5月4chan匿名帖创造的异空间怪谈：不小心从现实「穿模」出去的人会跌入约六亿平方英里的空旷黄房间，只有潮湿的地毯、单调的黄与嗡鸣的日光灯。",
     "en": "Born in a May 2019 anonymous 4chan post: those who \"noclip out of reality\" fall into some 600 million square miles of empty yellow rooms — damp carpet, mono-yellow walls, buzzing fluorescent light."
@@ -17,32 +20,80 @@
     "en": "The original Backrooms was one paragraph and one photograph: if you're not careful and you noclip out of reality in the wrong areas — a gaming term for slipping through solid walls — you end up in the Backrooms, roughly six hundred million square miles of randomly segmented empty rooms, old moist carpet, walls in mono-yellow, fluorescent lights at maximum hum-buzz; and God save you if you hear something wandering nearby. The anonymous text appeared in May 2019 on 4chan's paranormal board /x/, replying to a thread for \"disquieting images\" with the now-famous photo: a tilted view of harsh yellow rooms with no exit in sight.\n\nThat minimal seed swelled into a collaborative universe. Fan wikis expanded the Backrooms into numbered levels — Level 0 the original yellow expanse, then endless parking garages, hotel corridors, a poolrooms level, hundreds more — plus survival guides, almond water, and a bestiary of entities, absorbing the wider \"liminal spaces\" aesthetic of photographs showing places that should be occupied but are not. In January 2022, sixteen-year-old Kane Parsons (YouTube's Kane Pixels) released The Backrooms (Found Footage), a fake-archival short with 1990s camcorder grain and crushing scale that carried the mythos into the mainstream; the series drew hundreds of millions of views, and in 2023 A24 announced a feature film developed with Parsons.\n\nIn May 2024, internet sleuths traced the original photo to a store in Oshkosh, Wisconsin, shot in 2003 during renovation — the Backrooms' real-world origin pinned to a map, without diminishing its standing as the internet's shared bad dream."
   },
   "domains": {
-    "zh": ["异空间", "阈限空间", "集体创作", "网络怪谈"],
-    "en": ["Otherspace", "Liminal spaces", "Collaborative fiction", "Internet horror"]
+    "zh": [
+      "异空间",
+      "阈限空间",
+      "集体创作",
+      "网络怪谈"
+    ],
+    "en": [
+      "Otherspace",
+      "Liminal spaces",
+      "Collaborative fiction",
+      "Internet horror"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "起源", "en": "Origin" },
-      "value": { "zh": "4chan /x/版匿名帖，2019年5月", "en": "Anonymous post on 4chan /x/, May 2019" }
+      "label": {
+        "zh": "起源",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "4chan /x/版匿名帖，2019年5月",
+        "en": "Anonymous post on 4chan /x/, May 2019"
+      }
     },
     {
-      "label": { "zh": "关键推手", "en": "Breakout work" },
-      "value": { "zh": "Kane Parsons（Kane Pixels）伪档案短片系列（2022）", "en": "Kane Parsons's (Kane Pixels) found-footage series (2022)" }
+      "label": {
+        "zh": "关键推手",
+        "en": "Breakout work"
+      },
+      "value": {
+        "zh": "Kane Parsons（Kane Pixels）伪档案短片系列（2022）",
+        "en": "Kane Parsons's (Kane Pixels) found-footage series (2022)"
+      }
     },
     {
-      "label": { "zh": "原图出处", "en": "Source photo" },
-      "value": { "zh": "2024年被追溯为威斯康星州奥什科什2003年施工照片", "en": "Traced in 2024 to a 2003 renovation photo from Oshkosh, Wisconsin" }
+      "label": {
+        "zh": "原图出处",
+        "en": "Source photo"
+      },
+      "value": {
+        "zh": "2024年被追溯为威斯康星州奥什科什2003年施工照片",
+        "en": "Traced in 2024 to a 2003 renovation photo from Oshkosh, Wisconsin"
+      }
     }
   ],
-  "related": ["slender-man", "siren-head"],
+  "related": [
+    "slender-man",
+    "siren-head"
+  ],
   "sources": [
-    { "zh": "4chan /x/版原帖（2019年5月）", "en": "The original 4chan /x/ thread (May 2019)" },
-    { "zh": "Kane Pixels《The Backrooms (Found Footage)》（2022）", "en": "Kane Pixels, The Backrooms (Found Footage) (2022)" }
+    {
+      "zh": "4chan /x/版原帖（2019年5月）",
+      "en": "The original 4chan /x/ thread (May 2019)"
+    },
+    {
+      "zh": "Kane Pixels《The Backrooms (Found Footage)》（2022）",
+      "en": "Kane Pixels, The Backrooms (Found Footage) (2022)"
+    }
   ],
   "geo": {
     "lat": 44.02,
     "lon": -88.54,
-    "label": { "zh": "威斯康星州奥什科什（原图拍摄地）", "en": "Oshkosh, Wisconsin (source photo location)" }
+    "label": {
+      "zh": "威斯康星州奥什科什（原图拍摄地）",
+      "en": "Oshkosh, Wisconsin (source photo location)"
+    }
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/the-backrooms.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Backrooms_model.jpg",
+    "sourceTitle": "Backrooms model",
+    "artist": "Model by Huuxloc",
+    "license": "CC BY 4.0",
+    "width": 1000,
+    "height": 562
+  }
 }

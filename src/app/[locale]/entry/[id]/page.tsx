@@ -66,10 +66,19 @@ export default async function EntryPage({
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={e.image.file} alt={primary} className="block h-auto w-full" />
               ) : (
-                <Emblem type={e.type} color={t.color} />
+                <Emblem
+                  type={e.type}
+                  color={t.color}
+                  name={e.name.original ?? e.name.zh}
+                />
               )}
             </div>
           </div>
+          {!e.image && (
+            <p className="catalog-no mt-2 leading-relaxed">
+              {e.era === "modern" ? dict.entry.noImageModern[locale] : dict.entry.noImageOld[locale]}
+            </p>
+          )}
           {e.image && (
             <p className="catalog-no mt-2 leading-relaxed">
               {dict.entry.imageSource[locale]}:{" "}

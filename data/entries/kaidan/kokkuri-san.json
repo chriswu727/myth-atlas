@@ -9,7 +9,10 @@
     "original": "こっくりさん（狐狗狸）",
     "originalLang": "日语"
   },
-  "title": { "zh": "十日元硬币上的降灵问答", "en": "Table-turning reborn as a ten-yen seance" },
+  "title": {
+    "zh": "十日元硬币上的降灵问答",
+    "en": "Table-turning reborn as a ten-yen seance"
+  },
   "summary": {
     "zh": "纸上写五十音与鸟居，众人手指按住十日元硬币，念「狐狗狸大人请降临」，硬币便自行移动作答。源自1884年传入的西洋转桌术，1970年代在校园大流行。",
     "en": "Fingers on a ten-yen coin over a paper of kana and a torii gate, children chant 'Kokkuri-san, please come,' and the coin moves to spell answers. Western table-turning arrived in 1884; the school craze peaked in the 1970s."
@@ -19,28 +22,81 @@
     "en": "The modern form is handed down through Japanese schoolyards: a sheet of paper with a torii gate drawn at the top, 'yes' and 'no,' and the fifty kana with numerals below; each player rests one finger on a ten-yen coin and all chant, 'Kokkuri-san, Kokkuri-san, please come.' The coin begins to slide, spelling out answers, exam questions, a crush's name, the date of one's death. The rules bristle with taboos: never lift your finger midway, always send the spirit off with 'please return home,' tear up the paper, spend the coin that day. Violators are possessed by the fox spirit. The game swept elementary and middle schools in the 1970s, trailing episodes of mass hysteria that led many schools to ban it, and the bans became part of the allure.\n\nIts pedigree is imported. In 1884 sailors from a Western ship introduced table-turning, then the rage of European and American spiritualism, at the Izu peninsula; the Japanese version balanced a rice-tub lid on three bamboo stalks and read the tilting as speech. The craze crossed the country under the name kokkuri, 'the nodding,' soon dressed in the characters for fox, dog, and tanuki. The philosopher Inoue Enryo dissected it in his Yokai Gendan (1887), diagnosing unconscious muscular movement, a founding case of Meiji 'monsterology' and its campaign of disenchantment.\n\nFrom the Meiji rice-tub lid to the Showa ten-yen coin, Kokkuri-san was domesticated from parlor seance into playground rite, a sibling of the Western Ouija board by parallel descent. In horror manga and film it remains the standard first scene of a door that should have stayed shut."
   },
   "domains": {
-    "zh": ["降灵仪式", "校园流行", "狐灵", "禁忌"],
-    "en": ["Seance rituals", "School crazes", "Fox spirits", "Taboos"]
+    "zh": [
+      "降灵仪式",
+      "校园流行",
+      "狐灵",
+      "禁忌"
+    ],
+    "en": [
+      "Seance rituals",
+      "School crazes",
+      "Fox spirits",
+      "Taboos"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "传入", "en": "Arrival" },
-      "value": { "zh": "1884年，西洋转桌术经伊豆传入", "en": "1884, via Western table-turning at the Izu peninsula" }
+      "label": {
+        "zh": "传入",
+        "en": "Arrival"
+      },
+      "value": {
+        "zh": "1884年，西洋转桌术经伊豆传入",
+        "en": "1884, via Western table-turning at the Izu peninsula"
+      }
     },
     {
-      "label": { "zh": "道具", "en": "Apparatus" },
-      "value": { "zh": "鸟居五十音纸与十日元硬币", "en": "A kana sheet with a torii and a ten-yen coin" }
+      "label": {
+        "zh": "道具",
+        "en": "Apparatus"
+      },
+      "value": {
+        "zh": "鸟居五十音纸与十日元硬币",
+        "en": "A kana sheet with a torii and a ten-yen coin"
+      }
     },
     {
-      "label": { "zh": "学术解剖", "en": "Scholarly verdict" },
-      "value": { "zh": "井上圆了归因于「不觉筋动」（1887年）", "en": "Inoue Enryo: unconscious muscular action (1887)" }
+      "label": {
+        "zh": "学术解剖",
+        "en": "Scholarly verdict"
+      },
+      "value": {
+        "zh": "井上圆了归因于「不觉筋动」（1887年）",
+        "en": "Inoue Enryo: unconscious muscular action (1887)"
+      }
     }
   ],
-  "related": ["satoru-kun", "hanako-san", "aka-manto"],
-  "sources": [
-    { "zh": "井上圆了《妖怪玄谈》（1887年）", "en": "Inoue Enryo, Yokai Gendan (1887)" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "satoru-kun",
+    "hanako-san",
+    "aka-manto"
   ],
-  "geo": { "lat": 34.68, "lon": 138.94, "label": { "zh": "伊豆下田（转桌术登陆地）", "en": "Shimoda, Izu (where table-turning landed)" } },
-  "image": null
+  "sources": [
+    {
+      "zh": "井上圆了《妖怪玄谈》（1887年）",
+      "en": "Inoue Enryo, Yokai Gendan (1887)"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "geo": {
+    "lat": 34.68,
+    "lon": 138.94,
+    "label": {
+      "zh": "伊豆下田（转桌术登陆地）",
+      "en": "Shimoda, Izu (where table-turning landed)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kokkuri-san.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miyatake_Gaikotsu_Kokkuri-san.jpg",
+    "sourceTitle": "Miyatake Gaikotsu Kokkuri-san",
+    "artist": "Miyatake Gaikotsu (* 1867, †1955)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 628
+  }
 }

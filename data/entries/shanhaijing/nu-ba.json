@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "deity",
   "era": "ancient",
-  "name": { "zh": "女魃", "en": "Nüba" },
-  "title": { "zh": "止住风雨的黄帝天女，旱神之始", "en": "The Heaven-Daughter Who Stopped the Storm and Became Drought" },
+  "name": {
+    "zh": "女魃",
+    "en": "Nüba"
+  },
+  "title": {
+    "zh": "止住风雨的黄帝天女，旱神之始",
+    "en": "The Heaven-Daughter Who Stopped the Storm and Became Drought"
+  },
   "summary": {
     "zh": "身穿青衣的黄帝之女。下凡止住蚩尤召来的大风雨、助父杀蚩尤，从此不能升天，所居之地滴雨不下，被人喝令「神北行」驱赶。",
     "en": "The Yellow Emperor's daughter in blue-green robes. Sent down to stop Chiyou's storm, she could never reascend; wherever she stays no rain falls, and people drive her off shouting 'Goddess, go north!'"
@@ -14,29 +20,81 @@
     "en": "On Mount Xikun in the northern wilderness, where archers dare not draw a bow toward the north, lives a figure in blue-green robes: Ba, daughter of the Yellow Emperor. Her story is fixed to the great war. When Chiyou forged weapons and attacked, the Emperor sent the winged dragon Yinglong to hoard the waters against him; Chiyou answered with the Lord of Wind and Master of Rain and a blinding tempest. Then the Emperor sent down his heaven-daughter. The storm died at once, and Chiyou was killed.\n\nThe cost fell on her: Ba could not return to heaven, and wherever she settled no rain fell. Shujun, patron of ploughing, reported it to the god on high, who lodged her north of the Red River — but she kept escaping. Those who would expel her first cleared the watercourses and dredged the ditches, then shouted 'Goddess, go north!' The classic preserves the exorcism verbatim, an actual drought rite embedded in myth.\n\nHer name was already proverbial when the Book of Odes lamented 'the drought demon ravages, like scorching, like burning.' The Shenyijing shrank her into a southern creature two or three feet tall, naked, eyes on top of its head, running like the wind, bringing drought to any land that saw it. By Ming and Qing times the fall was complete: villagers believed fresh corpses turned into drought demons, and in dry years dug up graves to flog them — the goddess who saved her father's war reduced to a revenant hunted by farmers."
   },
   "domains": {
-    "zh": ["旱灾", "天女", "止雨", "驱逐仪式"],
-    "en": ["Drought", "Heaven-Daughter", "Storm-Stopping", "Exorcism Rite"]
+    "zh": [
+      "旱灾",
+      "天女",
+      "止雨",
+      "驱逐仪式"
+    ],
+    "en": [
+      "Drought",
+      "Heaven-Daughter",
+      "Storm-Stopping",
+      "Exorcism Rite"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "形象", "en": "Appearance" },
-      "value": { "zh": "衣青衣，居系昆之山", "en": "Blue-green robes, dwelling on Mount Xikun" }
+      "label": {
+        "zh": "形象",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "衣青衣，居系昆之山",
+        "en": "Blue-green robes, dwelling on Mount Xikun"
+      }
     },
     {
-      "label": { "zh": "神能", "en": "Power" },
-      "value": { "zh": "所至风雨立止，所居之地不雨", "en": "Storms cease where she arrives; no rain falls where she stays" }
+      "label": {
+        "zh": "神能",
+        "en": "Power"
+      },
+      "value": {
+        "zh": "所至风雨立止，所居之地不雨",
+        "en": "Storms cease where she arrives; no rain falls where she stays"
+      }
     },
     {
-      "label": { "zh": "驱逐咒令", "en": "Formula of expulsion" },
-      "value": { "zh": "先决通沟渎，再令曰「神北行」", "en": "Dredge the ditches first, then command: 'Goddess, go north!'" }
+      "label": {
+        "zh": "驱逐咒令",
+        "en": "Formula of expulsion"
+      },
+      "value": {
+        "zh": "先决通沟渎，再令曰「神北行」",
+        "en": "Dredge the ditches first, then command: 'Goddess, go north!'"
+      }
     }
   ],
-  "related": ["ying-long", "huangdi", "chiyou"],
-  "sources": [
-    { "zh": "《山海经·大荒北经》", "en": "Classic of Mountains and Seas, 'Great Wilderness: North'" },
-    { "zh": "《诗经·大雅·云汉》", "en": "Book of Odes, 'Yun Han' (Great Odes)" },
-    { "zh": "《神异经》", "en": "Shenyijing (Classic of Divine Marvels)" }
+  "related": [
+    "ying-long",
+    "huangdi",
+    "chiyou"
   ],
-  "volume": { "zh": "大荒北经", "en": "Classic of the Great Wilderness: North" },
-  "image": null
+  "sources": [
+    {
+      "zh": "《山海经·大荒北经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: North'"
+    },
+    {
+      "zh": "《诗经·大雅·云汉》",
+      "en": "Book of Odes, 'Yun Han' (Great Odes)"
+    },
+    {
+      "zh": "《神异经》",
+      "en": "Shenyijing (Classic of Divine Marvels)"
+    }
+  ],
+  "volume": {
+    "zh": "大荒北经",
+    "en": "Classic of the Great Wilderness: North"
+  },
+  "image": {
+    "file": "/images/entries/nu-ba.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC403-312001066460-18534_%E5%B1%B1%E6%B5%B7%E7%B6%93%E5%AD%98_%E5%8D%B7%E4%B9%9D.pdf",
+    "sourceTitle": "山海經存 (p.34)",
+    "artist": "汪绂",
+    "license": "Public domain",
+    "width": 461,
+    "height": 577
+  }
 }

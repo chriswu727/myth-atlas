@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "creature",
   "era": "ancient",
-  "name": { "zh": "峳峳", "en": "Youyou" },
-  "title": { "zh": "预告奸人当道的四角羊目之马", "en": "The Four-Horned, Goat-Eyed Horse That Heralds Schemers" },
+  "name": {
+    "zh": "峳峳",
+    "en": "Youyou"
+  },
+  "title": {
+    "zh": "预告奸人当道的四角羊目之马",
+    "en": "The Four-Horned, Goat-Eyed Horse That Heralds Schemers"
+  },
   "summary": {
     "zh": "䃌山的怪兽：马的身形，羊的眼睛，头顶四角，牛的尾巴，吼声如狗嗥；它一出现，国中就多出奸猾之徒。",
     "en": "A beast of Zhu Mountain: a horse's frame with goat's eyes, four horns, and an ox's tail, howling like a dog. When it appears, the state fills with cunning schemers."
@@ -14,27 +20,73 @@
     "en": "Zhu Mountain, in the second eastern guideway, overlooks the Zhu River to the south and a lake country to the east. Its beast is the youyou: in the main a horse, but set with a goat's eyes, crowned with four horns, and finished with an ox's tail, its cry the howl of a dog. Parts from four barnyard animals assemble into something like a mount that no one would saddle, ranging a hillside above the water.\n\nIts omen is a rarity in the classic's registry of disasters: 'when it is seen, the state abounds in cunning schemers.' It answers for no drought, flood, or pestilence; wherever the youyou appears, the devious will multiply and thrive. Only a handful of portents in the book land on politics and human character rather than weather, and the youyou pairs naturally with the zhuru, herald of panic: one announces the mood of a crisis, the other the men who will exploit it. Commentators accordingly read the beast as a political warning: small men are about to have their day.\n\nThe same mountain keeps the jiegou, a duck-shaped, rat-tailed bird that climbs trees, whose appearance brings epidemics. One mountain, two omens — schemers and sickness. Zhu Mountain earns its place among the unluckiest addresses of the eastern guideways."
   },
   "domains": {
-    "zh": ["凶兆", "奸佞", "拼合兽", "东山"],
-    "en": ["Ill Omens", "Treachery", "Composite Beasts", "Eastern Mountains"]
+    "zh": [
+      "凶兆",
+      "奸佞",
+      "拼合兽",
+      "东山"
+    ],
+    "en": [
+      "Ill Omens",
+      "Treachery",
+      "Composite Beasts",
+      "Eastern Mountains"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "形态", "en": "Form" },
-      "value": { "zh": "马身，羊目，四角，牛尾", "en": "Horse's body, goat's eyes, four horns, ox's tail" }
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "马身，羊目，四角，牛尾",
+        "en": "Horse's body, goat's eyes, four horns, ox's tail"
+      }
     },
     {
-      "label": { "zh": "声音", "en": "Voice" },
-      "value": { "zh": "如狗嗥", "en": "Like a howling dog" }
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如狗嗥",
+        "en": "Like a howling dog"
+      }
     },
     {
-      "label": { "zh": "兆应", "en": "Omen" },
-      "value": { "zh": "见则其国多狡客", "en": "Its appearance fills the state with schemers" }
+      "label": {
+        "zh": "兆应",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其国多狡客",
+        "en": "Its appearance fills the state with schemers"
+      }
     }
   ],
-  "related": ["zhu-ru", "qiu-yu", "long-zhi"],
-  "sources": [
-    { "zh": "《山海经·东山经》（东次二经·䃌山）", "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Zhu Mountain)" }
+  "related": [
+    "zhu-ru",
+    "qiu-yu",
+    "long-zhi"
   ],
-  "volume": { "zh": "东山经", "en": "Classic of the Eastern Mountains" },
-  "image": null
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次二经·䃌山）",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Zhu Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/you-you.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC403-312001066460-4390_%E5%B1%B1%E6%B5%B7%E7%B6%93%E5%AD%98_%E5%8D%B7%E4%BA%94.pdf",
+    "sourceTitle": "山海經存 (p.11)",
+    "artist": "汪绂",
+    "license": "Public domain",
+    "width": 714,
+    "height": 550
+  }
 }

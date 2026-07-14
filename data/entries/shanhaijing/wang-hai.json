@@ -90,5 +90,13 @@
     "zh": "大荒东经",
     "en": "Classic of the Great Wilderness: East"
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/wang-hai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC403-312001066460-18534_%E5%B1%B1%E6%B5%B7%E7%B6%93%E5%AD%98_%E5%8D%B7%E4%B9%9D.pdf",
+    "sourceTitle": "山海經存 (p.6)",
+    "artist": "汪绂",
+    "license": "Public domain",
+    "width": 461,
+    "height": 654
+  }
 }
