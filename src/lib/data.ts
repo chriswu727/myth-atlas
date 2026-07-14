@@ -1,7 +1,7 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { cache } from 'react';
-import type { Entry, EntryCardData, L, Locale, Tradition, TraditionFull } from './types';
+import type { Cosmogony, Entry, EntryCardData, L, Locale, Tradition, TraditionFull } from './types';
 
 const DATA = join(process.cwd(), 'data');
 
@@ -76,6 +76,25 @@ export const getCatalogNumbers = cache((): Map<string, string> => {
   }
   return map;
 });
+
+export const getCosmogonies = cache((): Cosmogony[] => {
+  const dir = join(DATA, 'cosmogony');
+  if (!existsSync(dir)) return [];
+  const order = new Map(getTraditions().map((t, i) => [t.id, i]));
+  const all: Cosmogony[] = [];
+  for (const f of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
+    try {
+      all.push(JSON.parse(readFileSync(join(dir, f), 'utf8')));
+    } catch {
+      // validator's job
+    }
+  }
+  all.sort((a, b) => (order.get(a.tradition) ?? 99) - (order.get(b.tradition) ?? 99));
+  return all;
+});
+
+export const getCosmogony = (tid: string): Cosmogony | undefined =>
+  getCosmogonies().find((c) => c.tradition === tid);
 
 export function toCardData(e: Entry, locale: Locale): EntryCardData {
   return {

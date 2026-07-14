@@ -8,6 +8,7 @@ const DATA = join(ROOT, 'data');
 
 const TYPES = ['deity', 'creature', 'hero', 'spirit', 'place', 'artifact', 'tale'];
 const ERAS = ['ancient', 'folk', 'modern'];
+const MOTIFS = ['chaos', 'first-beings', 'separation', 'world-form', 'humans', 'ordeal', 'now'];
 const EMOJI = /\p{Extended_Pictographic}/u;
 
 const onlyTradition = process.argv.includes('--tradition')
@@ -53,15 +54,27 @@ for (const t of traditions) {
 const allIds = new Map(); // id -> file
 const allRelated = []; // {file, id}
 const entriesDir = join(DATA, 'entries');
-const scanTraditions = onlyTradition ? [onlyTradition] : [...traditionIds];
 let entryCount = 0;
 
-for (const tid of scanTraditions) {
+/* Every tradition is scanned so that ids from the whole collection are known —
+   otherwise a --tradition run would call a dangling `related` clean. Only the
+   filtered tradition's files are checked in depth. */
+for (const tid of [...traditionIds]) {
   const dir = join(entriesDir, tid);
   if (!existsSync(dir)) continue;
+  const deep = !onlyTradition || tid === onlyTradition;
   for (const fname of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
     const file = `entries/${tid}/${fname}`;
     let e;
+    if (!deep) {
+      try {
+        const shallow = JSON.parse(readFileSync(join(dir, fname), 'utf8'));
+        if (typeof shallow.id === 'string') allIds.set(shallow.id, file);
+      } catch {
+        // the unfiltered run reports this file's parse error
+      }
+      continue;
+    }
     try {
       e = JSON.parse(readFileSync(join(dir, fname), 'utf8'));
     } catch (ex) {
@@ -149,13 +162,6 @@ for (const tid of scanTraditions) {
   }
 }
 
-// soft references: warn only (content arrives in batches)
-if (!onlyTradition) {
-  for (const { file, id } of allRelated) {
-    if (!allIds.has(id)) warn(file, `related "${id}" does not exist (yet)`);
-  }
-}
-
 // intros
 const introTraditions = onlyTradition ? [onlyTradition] : [...traditionIds];
 for (const tid of introTraditions) {
@@ -171,6 +177,54 @@ for (const tid of introTraditions) {
   } catch (ex) {
     err(`intros/${tid}.json`, `invalid JSON: ${ex.message}`);
   }
+}
+
+// ── cosmogony timelines ───────────────────────────────────
+const cosmoDir = join(DATA, 'cosmogony');
+if (existsSync(cosmoDir)) {
+  for (const fname of readdirSync(cosmoDir).filter((f) => f.endsWith('.json'))) {
+    const file = `cosmogony/${fname}`;
+    const tid = fname.replace(/\.json$/, '');
+    if (onlyTradition && tid !== onlyTradition) continue;
+    let c;
+    try {
+      c = JSON.parse(readFileSync(join(cosmoDir, fname), 'utf8'));
+    } catch (ex) {
+      err(file, `invalid JSON: ${ex.message}`);
+      continue;
+    }
+    if (!traditionIds.has(tid)) err(file, `unregistered tradition "${tid}"`);
+    if (c.tradition !== tid) err(file, `tradition "${c.tradition}" must match filename`);
+    bilingual(file, c, 'source');
+    if (c.note != null) bilingual(file, c, 'note');
+
+    if (!Array.isArray(c.stages) || c.stages.length < 3 || c.stages.length > 8) {
+      err(file, 'stages must be an array of 3-8 items');
+    } else {
+      for (const [i, st] of c.stages.entries()) {
+        const at = `${file} stages[${i}]`;
+        if (!MOTIFS.includes(st.motif)) err(at, `motif must be one of ${MOTIFS.join('|')}`);
+        for (const f of ['phase', 'title', 'text']) {
+          if (!isStr(st[f]?.zh) || !isStr(st[f]?.en)) err(at, `${f} must have non-empty zh and en`);
+        }
+        if (st.text?.zh && st.text.zh.length < 60) err(at, `text.zh too short (${st.text.zh.length} < 60 chars)`);
+        if (st.text?.en) {
+          const w = st.text.en.trim().split(/\s+/).length;
+          if (w < 30) err(at, `text.en too short (${w} < 30 words)`);
+        }
+        if (st.entries != null) {
+          if (!Array.isArray(st.entries)) err(at, 'entries must be an array');
+          else for (const r of st.entries) allRelated.push({ file, id: r });
+        }
+      }
+    }
+    for (const [k, v] of Object.entries(flatten(c))) checkEmoji(file, k, v);
+  }
+}
+
+// soft references: warn only (content arrives in batches), after every producer has run
+for (const { file, id } of allRelated) {
+  if (!allIds.has(id)) warn(file, `related "${id}" does not exist (yet)`);
 }
 
 function flatten(obj, prefix = '') {

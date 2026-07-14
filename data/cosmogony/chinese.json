@@ -1,0 +1,93 @@
+{
+  "tradition": "chinese",
+  "source": {
+    "zh": "徐整《三五历纪》（《艺文类聚》卷一引）、旧题徐整《五运历年记》（马骕《绎史》引）、应劭《风俗通义》佚文（《太平御览》卷七十八引）、《淮南子》天文训·览冥训·原道训·精神训、《老子》第四十二章、《周易·系辞上》、《山海经·海内经》及郭璞注引《归藏》、《初学记》引《归藏》、《尚书·禹贡》、《孟子·滕文公上》、王充《论衡·谈天》、李冗《独异志》、司马贞《补史记·三皇本纪》",
+    "en": "Xu Zheng, Sanwu Liji (quoted in Yiwen Leiju, ch. 1); Wuyun Linian Ji, attributed to Xu Zheng (quoted in Ma Su's Yishi); a lost fragment of Ying Shao's Fengsu Tongyi (quoted in Taiping Yulan, ch. 78); Huainanzi, chapters Tianwen, Lanming, Yuandao and Jingshen; Laozi, ch. 42; the Xici commentary to the Book of Changes; Shanhaijing, Hainei jing, with Guo Pu's commentary quoting the Guizang; the Guizang as quoted in Chuxue Ji; Book of Documents, Yugong; Mencius, Teng Wen Gong I; Wang Chong, Lunheng, Tantian; Li Rong, Duyi Zhi; Sima Zhen's supplementary Annals of the Three Sovereigns to the Shiji"
+  },
+  "note": {
+    "zh": "华夏没有一部创世经典。下面这条线是把不同时代、不同学派的材料串起来的，串法本身是后世（尤其近代神话学与通俗读物）的整合，在先秦文献里它们互不相属。除盘古这一支外，两汉还并行着一套没有创世者的宇宙论：《淮南子·天文训》开篇讲道始于虚廓，虚廓生宇宙，宇宙生气，清阳之气升为天，重浊之气凝为地；《精神训》说天地未形时混沌中先生出二神，经天营地，然后才别为阴阳；《老子》的“道生一，一生二”、《周易·系辞上》的“易有太极，是生两仪”属同一路数。这套说法里没有开天的人，世界靠气自己分化，它与盘古开天各有来历，是后世才叠到一起的。盘古故事晚出：现存最早的记载是三国吴徐整的《三五历纪》，原书已佚，靠唐宋类书的引文保存；先秦典籍不见盘古之名，学者对其来源仍有争议，有本土创生说，也有认为与南方族群盘瓠传说相关的说法。人的来历同样有互相冲突的说法——盘古身上的虫子受风而化为人（《五运历年记》），女娲抟黄土造人（《风俗通义》）；唐代李冗《独异志》还记女娲与其兄在昆仑山上，天下无人，二人商议结为夫妻而繁衍人类（原文只称“兄”，未点名伏羲；把这对兄妹说成洪水遗民，是后起的民间与西南各族传说，不见于《独异志》原文）。《淮南子》里共工触山见《天文训》、女娲补天见《览冥训》，原文分属两篇，并没说前者是后者的起因；把两件事读成一因一果，至晚在东汉王充《论衡·谈天》中已经出现。共工的对手也不固定：《淮南子·天文训》作颛顼，《原道训》作高辛，唐司马贞补《史记·三皇本纪》作祝融。鲧禹治水一半是神话（《山海经》里会自生的息壤、剖腹生禹），一半是上古史（《尚书·禹贡》的九州田赋），界线本来就模糊。华夏也没有系统的神谱，盘古之后诸神分属不同来源，不构成一个连贯谱系，所以这条时间线没有“最初的存在”一段。",
+    "en": "There is no single Chinese creation scripture. The sequence below is stitched together from texts of different periods and different schools, and the stitching itself is a later habit — largely of modern mythography and popular retellings. Running alongside the Pangu line there is a Han-era cosmology with no creator in it at all. The Tianwen chapter of the Huainanzi opens with the Way arising from empty space, empty space giving birth to the cosmos, the cosmos to breath; the clear and light of that breath drifts up and becomes sky, the heavy and turbid congeals into earth. The Jingshen chapter has two gods emerging together out of the murk, laying out heaven and earth and only then dividing yin from yang. Laozi's \"the Way bore one, one bore two\" and the Book of Changes' \"the Supreme Ultimate gave birth to the two modes\" belong to the same family. Nobody prises the sky open in these accounts; the world differentiates by itself. They and the Pangu story have separate pedigrees and were layered together only later. Pangu himself is a late arrival: his earliest surviving account is the Sanwu Liji by Xu Zheng of Wu (3rd century CE), a book now lost and known only through quotations in Tang and Song encyclopedias. No pre-Qin text mentions him, and scholars still disagree about where he came from; some argue for indigenous origin, others connect him with the Panhu legend of southern peoples. Human origins likewise come in incompatible versions: the vermin on Pangu's corpse turned into people (Wuyun Linian Ji), and Nuwa moulded people out of yellow earth (Fengsu Tongyi). The Tang-era Duyi Zhi adds a third, in which Nuwa and her elder brother, alone on Mount Kunlun with no people anywhere, agree to marry and populate the world; that text never names the brother as Fuxi and contains no flood, and the flood-survivor framing belongs to later folk and southwestern minority traditions. In the Huainanzi, Gonggong's assault on Mount Buzhou (Tianwen chapter) and Nuwa's repair of the sky (Lanming chapter) sit in separate chapters and the text never says the first caused the second; reading them as cause and effect is attested no later than Wang Chong's Lunheng in the 1st century CE. Gonggong's opponent is not fixed either: Zhuanxu in the Tianwen chapter, Gaoxin in the Yuandao chapter, Zhurong in Sima Zhen's Tang supplement to the Shiji. The Gun-and-Yu flood story is half myth (self-growing soil, a son cut from his father's belly) and half dynastic history (the tribute grades of the Yugong), and the line between them was always blurred. China also has no systematic theogony — the gods after Pangu come from unrelated sources and form no coherent lineage — which is why this timeline has no first-beings stage."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "Before heaven and earth" },
+      "title": { "zh": "混沌如鸡子", "en": "Chaos like a hen's egg" },
+      "text": {
+        "zh": "天地未分的时候是混沌一团，形状像一枚鸡子，盘古就生在里面。《三五历纪》说他在这团东西里待了一万八千年，一日九变，神于天，圣于地。那时没有上和下，也没有清与浊的分别。",
+        "en": "Before heaven and earth were parted there was one undivided mass, shaped like a hen's egg, and Pangu was born inside it. The Sanwu Liji says he stayed there eighteen thousand years, changing nine times a day, godlike toward the sky and sagelike toward the earth. Nothing was above or below anything else, and the clear had not yet separated from the turbid."
+      },
+      "entries": ["pangu"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "开天辟地", "en": "The parting" },
+      "title": { "zh": "盘古开天，日长一丈", "en": "Pangu grows a zhang a day" },
+      "text": {
+        "zh": "混沌裂开，清而轻的阳气上升为天，浊而重的阴气下沉为地。盘古站在当中撑着：天每日高一丈，地每日厚一丈，他自己也每日长一丈。这样又过了一万八千年，天极高，地极深，盘古极长，天离地九万里。",
+        "en": "The mass split. The clear, light breath rose and became the sky; the turbid, heavy breath sank and became the earth. Pangu stood between them and held them apart. Each day the sky rose one zhang, a little over two metres, the earth thickened by one zhang, and Pangu himself grew one zhang taller. After another eighteen thousand years the sky was as high as it could go and ninety thousand li lay between it and the ground."
+      },
+      "entries": ["pangu"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "垂死化身", "en": "The body becomes the world" },
+      "title": { "zh": "气为风云，左眼为日", "en": "Breath into wind, left eye into sun" },
+      "text": {
+        "zh": "旧题徐整的《五运历年记》记盘古临死时身体化为万物：呼出的气成了风和云，声音成了雷霆，左眼为日，右眼为月，四肢五体为四极五岳，血液为江河，筋脉为地理，肌肉为田土，发髭为星辰，皮毛为草木，齿骨为金石，汗流为雨泽。身上的虫子被风一吹，化成了人。",
+        "en": "In the Wuyun Linian Ji, a book that survives only as quotations in later compilations, the dying Pangu comes apart into the furniture of the world. His breath became wind and cloud, his voice thunder, his left eye the sun and his right eye the moon. His four limbs and five extremities became the four poles and the five sacred peaks, his blood the rivers, his sinews the lie of the land, his flesh the fields, his hair and beard the stars, his teeth and bones metal and stone, his sweat the rain. The vermin on his body, stirred by the wind, became human beings."
+      },
+      "entries": ["pangu"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "造人", "en": "The making of people" },
+      "title": { "zh": "女娲抟黄土，引绳絙泥", "en": "Nuwa moulds earth, then flicks a cord through mud" },
+      "text": {
+        "zh": "东汉应劭《风俗通义》的佚文说，天地开辟之后还没有人民，女娲抟黄土捏人，一个一个地捏。活太重，忙不过来，她就把一根绳子放进泥里搅，举起来一甩，甩落的泥点也成了人。所以富贵的是黄土捏出来的，贫贱平庸的是绳子甩出来的。",
+        "en": "A surviving fragment of Ying Shao's Fengsu Tongyi, from the second century, says that after heaven and earth were parted there were still no people, so Nuwa moulded them one at a time out of yellow earth. The work was too heavy and she could not keep up, so she dragged a cord through the mud and flicked it: the drops that flew off became people too. That, says the text, is why the rich and noble are the hand-moulded ones and the poor and ordinary are the ones flung from the cord."
+      },
+      "entries": ["nuwa"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "天柱折", "en": "The pillar breaks" },
+      "title": { "zh": "共工怒触不周山", "en": "Gonggong rams Mount Buzhou" },
+      "text": {
+        "zh": "《淮南子·天文训》：共工与颛顼争做天帝，败了，发怒，一头撞在不周山上。撑天的柱子折断，系地的大绳崩绝。天从此向西北倾斜，所以日月星辰都朝西北走；地的东南塌陷，所以江河雨水都往东南流。共工的对手，另有高辛、祝融等说法。",
+        "en": "In the Huainanzi's Tianwen chapter, Gonggong contends with Zhuanxu to be god of heaven, loses, and in his rage drives his head into Mount Buzhou. The pillar propping up the sky snaps and the cords tethering the earth give way. Heaven tips toward the northwest, which is why the sun, the moon and the stars all travel that way; the earth caves in toward the southeast, which is why the rivers and the rainwater run there. Other texts name his opponent as Gaoxin or Zhurong."
+      },
+      "entries": ["gonggong", "zhurong"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "补天", "en": "The repair" },
+      "title": { "zh": "炼五色石，断鳌足立四极", "en": "Five-coloured stones and a turtle's legs" },
+      "text": {
+        "zh": "《淮南子·览冥训》写四极崩坏、九州开裂，火烧不灭，水淹不退，猛兽吃人。女娲炼五色石去补苍天，砍下大鳌的脚撑起四极，杀黑龙以救冀州，堆芦灰堵住泛滥的水。天补上了，四极重新立正，水退下去，冀州平定，剩下的人得以活命。",
+        "en": "The Lanming chapter of the Huainanzi describes the four poles collapsing, the nine regions splitting open, fire that would not go out and water that would not subside, and beasts eating the people. Nuwa smelted stones of five colours and patched the sky with them, cut the legs from a giant sea turtle to prop the four poles upright again, killed a black dragon to save the region of Ji, and heaped up reed ash to stop the flooding. The sky held, the poles stood straight, the water drained, and those who were left survived."
+      },
+      "entries": ["nuwa"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "洪水", "en": "The flood" },
+      "title": { "zh": "鲧窃息壤，殛于羽郊", "en": "Gun steals the swelling soil" },
+      "text": {
+        "zh": "《山海经·海内经》说得很短：洪水滔天，鲧不等天帝发话，偷了天帝的息壤去堵水——那是一种会自己生长的土。天帝派祝融在羽山之郊杀了他。原文只写“鲧复生禹”，没交代怎么生。郭璞注引《归藏》：鲧死后三年不腐，用吴刀剖开，化成一条黄龙；《初学记》所引的另一条《归藏》佚文作“大副之吴刀，是用出禹”，禹是从剖开的鲧腹里出来的。天帝这才命禹接着布土，安定九州。",
+        "en": "The Shanhaijing tells it in a few strokes. The flood rose to the sky, and Gun took the Lord of Heaven's xirang — a soil that grows of itself — to dam the water, without waiting for the Lord's word. The Lord sent Zhurong to execute him on the moor below Mount Yu. The text says only that Yu was then born of Gun, and never says how. Guo Pu's commentary quotes the lost Guizang: Gun's corpse did not rot for three years, and when it was split open with a Wu blade he turned into a yellow dragon. A separate Guizang fragment, preserved in the Chuxue Ji, says the blade opened him and Yu came out. Only after that did the Lord order Yu to spread the soil and settle the nine regions."
+      },
+      "entries": ["da-yu", "zhurong"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "九州奠定", "en": "The world as it now stands" },
+      "title": { "zh": "禹疏川导滞，划为九州", "en": "Yu cuts the channels and marks out nine regions" },
+      "text": {
+        "zh": "禹不再堵，改为疏导，凿开山口把积水引进海里。《孟子·滕文公上》说他在外八年，三过家门而不入。《尚书·禹贡》把治好的天下分成冀、兖、青、徐、扬、荆、豫、梁、雍九州，按各州土壤的肥瘠定田等与贡赋。共工撞出来的那个格局留了下来：天倾西北，地陷东南，江河至今向东入海。",
+        "en": "Yu stopped damming and cut channels instead, opening the mountains so the standing water could reach the sea. Mencius says he was away eight years and passed his own door three times without going in. The Yugong chapter of the Book of Documents divides the drained world into nine regions — Ji, Yan, Qing, Xu, Yang, Jing, Yu, Liang, Yong — and grades the soil of each one to fix what tribute it owes. The tilt Gonggong knocked into the world stayed: heaven leans northwest, the land sinks southeast, and the rivers still run east to the sea."
+      },
+      "entries": ["da-yu"]
+    }
+  ]
+}

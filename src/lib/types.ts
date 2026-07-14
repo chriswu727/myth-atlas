@@ -30,6 +30,34 @@ export interface TraditionFull extends Tradition {
   entryCount: number;
 }
 
+export type Motif = 'chaos' | 'first-beings' | 'separation' | 'world-form' | 'humans' | 'ordeal' | 'now';
+
+/** Order matters: it is the spine of the cross-cultural comparison. */
+export const MOTIFS: Motif[] = [
+  'chaos',
+  'first-beings',
+  'separation',
+  'world-form',
+  'humans',
+  'ordeal',
+  'now',
+];
+
+export interface CosmogonyStage {
+  motif: Motif;
+  phase: L;
+  title: L;
+  text: L;
+  entries?: string[];
+}
+
+export interface Cosmogony {
+  tradition: string;
+  source: L;
+  note?: L | null;
+  stages: CosmogonyStage[];
+}
+
 export interface EntryImage {
   file: string;
   sourceUrl: string;

@@ -1,0 +1,83 @@
+{
+  "tradition": "greek",
+  "source": {
+    "zh": "赫西俄德《神谱》《工作与时日》；荷马《伊利亚特》；品达《奥林匹亚颂》第九首；阿里斯托芬《鸟》；柏拉图《普罗塔戈拉》；俄耳甫斯教残篇与德尔维尼纸草，及达马斯基乌斯《论第一原理》转述的《狂想诗神谱》；伪阿波罗多洛斯《书库》；奥维德《变形记》；保萨尼阿斯《希腊志》",
+    "en": "Hesiod, Theogony and Works and Days; Homer, Iliad; Pindar, Olympian 9; Aristophanes, Birds; Plato, Protagoras; the Orphic fragments, the Derveni papyrus, and the Rhapsodic Theogony as summarized by Damascius, De principiis; Pseudo-Apollodorus, Bibliotheca; Ovid, Metamorphoses; Pausanias, Description of Greece"
+  },
+  "note": {
+    "zh": "希腊没有创世的「正典」。赫西俄德《神谱》（约公元前700年）只是现存最早的一条连贯线索，不是教义，没有任何机构宣布过它是标准答案。同时代和稍后就有互相打架的说法：荷马《伊利亚特》第14卷说俄刻阿诺斯是「诸神的起源」、忒堤斯是母亲，根本没有卡俄斯的位置；叙罗斯的斐瑞居德斯（前6世纪）开篇是「扎斯与克罗诺斯一直存在，还有克托妮亚」（这里的克罗诺斯是时间之神 Chronos，与吞子的提坦克洛诺斯 Kronos 同音异神），也不从混沌开始；俄耳甫斯教则有好几种神谱，本文单列了它的宇宙蛋，因为那是希腊唯一一套「世界被造出来」的叙事，但它跟赫西俄德不是一条线，不能接着读。另外要说明的是，赫西俄德笔下的 Χάος 意思是「裂口、豁开的深渊」，「混乱无序」那层含义要到奥维德「未经整理的粗糙团块」才定型，中译「混沌」容易把后来的意思读回去。\n\n最大的缺口在造人：希腊没有正典的造人神话。《神谱》通篇不交代人从哪来——讲到普罗米修斯偷火时，凡人已经在那里了；赫西俄德笔下唯一被明确「造出来」的人是第一个女人：《神谱》里赫菲斯托斯用土把她塑出来，诗中始终没给她名字，「潘多拉」这个名字和「土掺水和成」的细节都出自《工作与时日》。《工作与时日》的黄金、白银、青铜、英雄、黑铁五个种族是另一套方案，讲的是种族一代代更替，不是讲人用什么材料做的，且黄金种族由「住在奥林波斯的不朽者」造，与普罗米修斯无关。「普罗米修斯用泥造人」是晚出的说法：柏拉图《普罗塔戈拉》里生物是诸神用土与火在地下塑成、普罗米修斯只负责发技艺与火；明确说他捏泥造人的是伪阿波罗多洛斯《书库》和奥维德《变形记》（公元1世纪前后），保萨尼阿斯（2世纪）还在帕诺珀乌斯看到过据说是造人剩下的黏土块。所以本时间线不设「人类诞生」这一步——这个空位是真实的。丢卡利翁洪水后扔石头变人，是灾后再生，不是第一次造人，因此归在「洪水与劫」。\n\n提坦之战另有一部专门的史诗《提坦之战》（古人归给欧迈罗斯），已佚，只剩零星残句；下文的十年鏖战、百臂巨人投三百块巨石，依据的是赫西俄德。",
+    "en": "Greek has no canonical creation story. Hesiod's Theogony (c. 700 BCE) is simply the earliest continuous account that survives; no institution ever certified it, and rival versions were in circulation from the start. In Iliad 14 Homer calls Ocean the origin of the gods and Tethys their mother, with no room for Chaos at all. Pherecydes of Syros (6th century BCE) opened his book with Zas, Chronos and Chthonie always existing, again with no primordial gap; his Chronos is Time, a different god from Kronos the child-swallowing Titan. The Orphics had several theogonies of their own; the cosmic egg stage below is drawn from them and is listed separately because it is the one Greek account in which the world is actually manufactured rather than merely born, but it does not continue Hesiod's line and should not be read as the next chapter of it. Note also that Hesiod's Chaos means a yawning chasm, a gap; the sense of \"disordered mass\" belongs to Ovid's rudis indigestaque moles and is a later development read backwards into the word.\n\nThe conspicuous absence is human origins. Hesiod never says where mortals come from: by the time Prometheus steals fire, people are simply there. The only human being Hesiod shows being manufactured is the first woman: in the Theogony Hephaestus moulds her out of earth and she is never named, and it is Works and Days that mixes the earth with water and calls her Pandora. The five races of Works and Days (gold, silver, bronze, heroes, iron) are a separate scheme about succession, not about material, and the golden race is made by the Olympians, not by Prometheus. Prometheus as the potter of mankind is late: in Plato's Protagoras the gods mould living things underground out of earth and fire and Prometheus only hands out fire and craft; the clay-modelling story appears in Pseudo-Apollodorus and in Ovid, and Pausanias in the 2nd century CE reports lumps of clay at Panopeus said to be left over from the job. This timeline therefore has no \"humans\" stage. The gap is real. The stones Deucalion and Pyrrha throw after the flood repopulate the earth rather than found it, so they sit under the flood stage.\n\nA lost epic Titanomachy (ascribed in antiquity to Eumelus) also treated the war of the gods, but only scraps of it survive; the ten-year battle and the three hundred boulders below follow Hesiod."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "In the beginning" },
+      "title": { "zh": "最先出现的是卡俄斯", "en": "Chaos came to be first" },
+      "text": {
+        "zh": "赫西俄德说，最先「生成」的是卡俄斯——一道张开的裂口。它之前有没有别的东西，诗里一个字都没说。接着出现宽胸的盖亚，众神永远稳固的坐席；再是雾气弥漫的塔尔塔罗斯，深藏在大地腹中；然后是厄洛斯，不朽神明中最美的一位，能松开四肢、让神与人的心智和主意都失灵。卡俄斯生出黑暗厄瑞玻斯和黑夜倪克斯，两者结合又生出高天的清气埃忒耳和白昼赫墨拉。",
+        "en": "Hesiod opens with Chaos coming to be. The verb gives it a beginning, and the poem says nothing at all about what stood before it. The word means a gap, a chasm that opens. Out of it emerge broad-breasted Gaia, the everlasting seat of the gods, and misty Tartarus in the depths of the wide earth, and Eros, handsomest of the immortals, the limb-loosener who wrecks the judgement of gods and men alike. Chaos then bears Erebos and black Night, and the two of them produce Aether, the bright upper air, and Day."
+      },
+      "entries": []
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "另一条开端", "en": "A rival beginning" },
+      "title": { "zh": "俄耳甫斯教的银蛋", "en": "The Orphic silver egg" },
+      "text": {
+        "zh": "这一步不接赫西俄德，是并行的另一套。俄耳甫斯教的神谱有多个版本，晚期的《狂想诗神谱》（经新柏拉图学者达马斯基乌斯转述）里，时间之神克罗诺斯造出一枚银蛋；蛋裂开，普罗托格诺斯「首生者」出来，又叫法涅斯，雌雄同体、生着金翅、周身发光，世间万物由他而出。阿里斯托芬在喜剧《鸟》里拿这套东西开玩笑：黑夜在厄瑞玻斯无边的怀里产下一枚无种之卵，孵出金翅的厄洛斯。《鸟》上演于公元前414年，《狂想诗神谱》是晚得多的汇编——蛋这个母题比记下它的那套文本早了好几百年。",
+        "en": "This stage does not continue from the last one; it is a separate tradition running alongside it. The Orphics told several theogonies. In the late Rhapsodic version, known chiefly through the Neoplatonist Damascius, Chronos, Time, fashions a silver egg; the egg splits and out comes Protogonos, the First-Born, also called Phanes, a shining bisexual god with golden wings from whom everything else proceeds. Aristophanes was already sending this up in the Birds, where Night lays a wind-egg in the boundless lap of Erebos and golden-winged Eros hatches from it. The Birds was staged in 414 BCE and the Rhapsodies are a compilation of several centuries later, so the egg is a great deal older than the text that preserves the fullest version of it."
+      },
+      "entries": []
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "神族出世", "en": "The first gods" },
+      "title": { "zh": "盖亚独自生下星空", "en": "Earth bears the starry sky by herself" },
+      "text": {
+        "zh": "盖亚不经交合，先生下与自己一样大的乌拉诺斯——布满星辰的天，正好把她整个盖住；又生下群山和翻涌的蓬托斯海。此后她与乌拉诺斯生下十二位提坦，克洛诺斯最小也最难对付；生下布戎忒斯、斯忒罗佩斯、阿尔戈斯三个独眼的库克罗普斯；再生下科托斯、布里阿瑞俄斯、古革斯三个百臂巨人，各有五十颗头、一百条胳膊。乌拉诺斯恨这些孩子，一生下来就把他们塞回盖亚身体的深处，不让见光。",
+        "en": "Gaia, needing no partner, first produces Ouranos, the starry sky, made her own size so that he covers her completely. She also brings forth the mountains and the unresting sea, Pontos. With Ouranos she then bears the twelve Titans, of whom Cronus is the youngest and the most dangerous; the three Cyclopes, Brontes, Steropes and Arges, each with a single round eye; and the three Hundred-Handers, Kottos, Briareos and Gyges, with fifty heads and a hundred arms apiece. Ouranos loathes his children and stuffs each one back into the hollows of Earth as it is born, keeping them from the light."
+      },
+      "entries": []
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "天地分开", "en": "Sky prised off Earth" },
+      "title": { "zh": "灰铁镰刀", "en": "The grey sickle" },
+      "text": {
+        "zh": "盖亚被塞满孩子，痛得呻吟，就用灰色的坚铁打出一把锯齿镰刀，召集儿子们问谁敢动手，只有克洛诺斯接了刀。乌拉诺斯照例带着夜色伏在盖亚身上，克洛诺斯从藏身处伸出左手，右手挥镰割下父亲的生殖器，反手抛掉。溅在大地上的血生出复仇女神厄里倪厄斯、巨人族和白蜡树宁芙；落进海里的那部分周围聚起白沫，阿佛洛狄忒从沫中长成，先漂到基西拉，再上塞浦路斯的岸。天从此退开，不再压着地。",
+        "en": "Cramped and groaning with the children packed inside her, Gaia makes a jagged sickle out of grey adamant, gathers her sons, and asks which of them will act. Only Cronus takes the blade. When Ouranos comes at nightfall and stretches himself over Earth, Cronus reaches out from his hiding place, lops off his father's genitals with the sickle, and flings them away behind him without looking. The blood that falls on Gaia produces the Erinyes, the Giants, and the ash-tree nymphs; the severed flesh drifts on the sea, foam gathers round it, and Aphrodite grows there, coming ashore first at Kythera and then at Cyprus. Sky pulls back, and stops lying on Earth."
+      },
+      "entries": ["aphrodite", "erinyes"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "王权更替", "en": "The succession war" },
+      "title": { "zh": "吞子的父亲与十年之战", "en": "The father who ate his children" },
+      "text": {
+        "zh": "克洛诺斯听说会被自己的儿子推翻，于是孩子一落地就吞下去：赫斯提亚、德墨忒尔、赫拉、哈迪斯、波塞冬。轮到宙斯时，瑞亚拿襁褓裹了一块石头递给他，他照吞不误，宙斯被藏进克里特的山洞。宙斯长大后逼他把吞下的全吐出来，先吐出那块石头，宙斯把石头立在皮托（德尔斐）当作凭证。随后是十年的提坦之战，宙斯放出被囚的百臂巨人，他们一块接一块投出三百块巨石，把提坦压在底下；提坦们被捆进塔尔塔罗斯——一块铜砧从天上落到地上要九天，从地上落到塔尔塔罗斯还要九天。",
+        "en": "Warned that a son of his will unseat him, Cronus swallows each child as it is born: Hestia, Demeter, Hera, Hades, Poseidon. When Zeus is due, Rhea hands her husband a stone wrapped in swaddling clothes and he gulps that down instead, while the baby is hidden away in a cave in Crete. Grown, Zeus forces him to bring the others back up. The stone comes first, and Zeus plants it at Pytho, under Parnassus, as a token for men to look at. Then ten years of war with the Titans, until Zeus frees the Hundred-Handers from under the earth and they send three hundred boulders over, one on top of another, until the Titans are buried under them. The Titans are chained in Tartarus, so deep that a bronze anvil would fall nine days from heaven to earth, and nine more from earth to reach them."
+      },
+      "entries": ["zeus", "hades", "poseidon"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "洪水", "en": "The flood" },
+      "title": { "zh": "丢卡利翁的木箱与身后的石头", "en": "Deucalion's chest and the stones thrown backwards" },
+      "text": {
+        "zh": "宙斯决定灭掉当时那一代人，降下大雨。普罗米修斯事先叫儿子丢卡利翁造了一只木箱，他和妻子皮拉带上口粮登箱，在水上漂了九天九夜，停在帕尔纳索斯山。上岸后两家文献分了岔：《书库》里丢卡利翁向护佑逃亡者的宙斯献祭，宙斯派赫尔墨斯来许他一个愿，他求人；宙斯让他捡石头从头顶往后扔。《变形记》里是忒弥斯的神谕叫他们「把伟大母亲的骨头扔到身后」，丢卡利翁想明白母亲是大地、骨头就是石头。结果一样：他扔的石头站起来是男人，皮拉扔的是女人。品达在《奥林匹亚颂》里已经提到这对夫妇用石头造出了人，说法很早。",
+        "en": "Zeus decides to wipe out the men of that age and sends the rain. Forewarned by Prometheus, his son Deucalion builds a wooden chest, stocks it, and boards it with his wife Pyrrha; they drift for nine days and nights and ground on Parnassus. Ashore the sources part company. In Pseudo-Apollodorus, Deucalion sacrifices to Zeus the god of escape, who sends Hermes to grant him a wish; he asks for people, and is told to pick up stones and throw them over his head. In Ovid, the oracle of Themis tells the pair to throw the bones of their great mother behind them, and Deucalion reasons out that the mother is the earth and her bones are stones. The outcome is the same in both: the stones he throws come up men, the ones Pyrrha throws come up women. Pindar already knows the couple who made a people out of stones, so the story is early, whatever its details."
+      },
+      "entries": ["prometheus"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "当世", "en": "The world we are in" },
+      "title": { "zh": "抽签分天下", "en": "The lots are drawn" },
+      "text": {
+        "zh": "最后一个对手是堤丰：盖亚与塔尔塔罗斯所生，肩上长出一百个蛇头，眼里喷火。宙斯用雷霆把他劈倒，扔进塔尔塔罗斯，人间的狂风就是从他那里刮出来的。众神推举宙斯做王，他给他们一一分派职权；随后他听盖亚和乌拉诺斯的劝告，趁墨提斯怀着身孕把她吞下去，免得她生出比父亲更强的儿子。荷马的说法是三兄弟抽签：宙斯得辽阔的天，波塞冬得灰色的海，哈迪斯得幽暗的地下，大地和奥林波斯归三人共有。希腊神话到此收束，没有世界末日；赫西俄德只在《工作与时日》里说，等到婴儿一生下来鬓角就发白，宙斯连这一代黑铁种族也要毁掉。",
+        "en": "One challenger is left: Typhoeus, son of Gaia and Tartarus, a hundred snake heads growing from his shoulders and fire in his eyes. Zeus burns him down with the thunderbolt and throws him into Tartarus, where he stays; the gale winds that wreck ships come off him. The gods press Zeus to be king and he parcels out their honours one by one. Then, warned by Gaia and Ouranos that Metis is carrying a son who would grow stronger than his father, he swallows her while she is still pregnant. Homer's version of the settlement is a draw of lots between three brothers: Zeus takes the broad sky, Poseidon the grey sea, Hades the murk below, while earth and Olympus stay common ground. There the story stops. Greece has no end of the world, only Hesiod's aside in Works and Days that Zeus will finish off this iron race too, once babies start being born grey at the temples."
+      },
+      "entries": ["zeus", "typhon", "poseidon", "hades", "mount-olympus"]
+    }
+  ]
+}

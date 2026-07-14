@@ -2,7 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import EntryCard from "@/components/EntryCard";
-import { getEntriesByTradition, getTradition, getTraditions, toCardData } from "@/lib/data";
+import CosmogonyTimeline from "@/components/CosmogonyTimeline";
+import { getCosmogony, getEntriesByTradition, getTradition, getTraditions, toCardData } from "@/lib/data";
 import { categoryLabels, dict, isLocale } from "@/lib/i18n";
 import { LOCALES, type Entry } from "@/lib/types";
 
@@ -32,6 +33,7 @@ export default async function TraditionPage({
   if (!t) notFound();
 
   const entries = getEntriesByTradition(id);
+  const cosmogony = getCosmogony(id);
 
   /* group Shanhaijing by volume, everything else in one block */
   const groups: { key: string; label: string | null; list: Entry[] }[] = [];
@@ -73,6 +75,12 @@ export default async function TraditionPage({
           </Link>
         </p>
       </header>
+
+      {cosmogony && (
+        <div className="mt-14 max-w-3xl">
+          <CosmogonyTimeline cosmogony={cosmogony} color={t.color} locale={locale} />
+        </div>
+      )}
 
       {groups.map((g) => (
         <section key={g.key} className="mt-12">

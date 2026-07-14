@@ -1,0 +1,91 @@
+{
+  "tradition": "hindu",
+  "source": {
+    "zh": "《梨俱吠陀》10.129（无有歌）、10.121（金胎歌）、10.90（原人歌）、1.32（因陀罗斩弗栗多）；《百道梵书》1.8.1（摩奴与鱼）、11.1.6（金卵）；《广林奥义》1.4；《歌者奥义》6.2；《摩诃婆罗多·森林篇》；《毗湿奴往世书》《薄伽梵往世书》",
+    "en": "Rigveda 10.129 (Nasadiya Sukta), 10.121 (Hiranyagarbha), 10.90 (Purusha Sukta), 1.32 (Indra and Vritra); Shatapatha Brahmana 1.8.1 (Manu and the fish) and 11.1.6 (the golden egg); Brihadaranyaka Upanishad 1.4; Chandogya Upanishad 6.2; Mahabharata, Vana Parva; Vishnu Purana; Bhagavata Purana"
+  },
+  "note": {
+    "zh": "印度没有单一定本的创世叙事，几套互不兼容的说法并存，且分属不同年代的文献层。仅《梨俱吠陀》第十卷之内就至少有三种：《无有歌》把一切答案悬置（连最高天的监督者也未必知道），《金胎歌》让一个金胎先在，《原人歌》让诸神分割原人。学界一般认为第十卷晚于本集主体，四种姓的说法也由《原人歌》最早点出。因陀罗撑开天地、斩弗栗多放水，是赞歌里反复咏唱的另一路创世，与原人说无法调和。梵书与奥义书另有几套，本时间线未列为阶段：《百道梵书》11.1.6 让原初之水行苦行生出金卵，卵中出生主；《广林奥义》1.4 让独一的自我因孤独而裂为夫妻二身；《歌者奥义》6.2 开篇断言太初唯「有」，并点名反对「太初唯无」的讲法。摩奴洪水最完整的早期形态在《百道梵书》1.8.1，那里的鱼不是谁的化身；《摩诃婆罗多》里它自称梵天，到往世书才成为毗湿奴的化身。毗湿奴脐生莲花、梵天造世，以及劫与四时的天文数字，属史诗—往世书层（公元纪元后陆续成书），并带教派立场：毗湿奴派往世书以毗湿奴为本源，湿婆派归于湿婆，性力派归于女神。本时间线按文献层由早到晚编排，这是编者的排列，不是任何一部经典的内部顺序。搅乳海（见「搅乳海」「甘露」条）发生在已成之世界内，不属创世序列，故未列为阶段。",
+    "en": "There is no single canonical creation story here; several incompatible accounts stand side by side, and they belong to different literary layers. Book 10 of the Rigveda alone holds at least three: the Nasadiya Sukta, which suspends every answer (even the overseer in the highest heaven may not know); the Hiranyagarbha hymn, in which a golden embryo is simply already there; and the Purusha Sukta, in which the gods dismember a primal man. Book 10 is generally held to be later than the bulk of the collection, and the Purusha Sukta carries the first mention of the four varnas. Indra's propping apart of heaven and earth and his release of the waters is a further, independent cosmogony sung throughout the hymns, and it cannot be reconciled with the Purusha account. The Brahmanas and Upanishads hold further accounts, not staged here: in Shatapatha Brahmana 11.1.6 the primal waters practise austerity and bring forth a golden egg, from which Prajapati is born; in Brihadaranyaka 1.4 the solitary Self, afraid and alone, splits itself into husband and wife; Chandogya 6.2 opens by insisting that in the beginning there was Being alone, and names and rejects the rival view that there was non-being alone. The fullest early form of Manu's flood is in Shatapatha Brahmana 1.8.1, where the fish is nobody's avatar; in the Mahabharata it declares itself to be Brahma, and only in the Puranas does it become Vishnu. The lotus from Vishnu's navel, Brahma as maker of the worlds, and the arithmetic of kalpas and yugas belong to the epic-Puranic layer, composed across the first millennium CE, and they carry sectarian positions: Vaishnava Puranas put Vishnu at the origin, Shaiva texts Shiva, Shakta texts the Goddess. The sequence below is arranged by literary layer. It is an editor's ordering, not the internal order of any one scripture. The churning of the ocean (see its own entries) happens inside an already-made world and is not staged here as a step of creation."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "Before anything" },
+      "title": { "zh": "无有歌：连神也不知道", "en": "The Nasadiya Sukta: not even the gods know" },
+      "text": {
+        "zh": "《梨俱吠陀》10.129 开篇就把问题挡了回去：那时既没有「无」，也没有「有」；没有空界，也没有其上的天。什么在动？在谁的守护下？是深不可测的水吗？既无死也无不死，昼与夜没有分别。那「太一」不靠风而自行呼吸，此外一无所有。热力（tapas）使它生出，欲（kāma）是心中最初的种子。诗末转成反问：这创造从何而来，谁真的知道？最高天上的监督者或许知道——「或许他也不知道」。",
+        "en": "Rigveda 10.129 opens by refusing the question. There was neither non-existence nor existence then, no air and no sky beyond it, no death and no immortality, no mark dividing night from day. What stirred, and under whose keeping? Was it water, unfathomable? That One breathed windlessly by its own power, and nothing else was. Heat brought it forth; desire came upon it, the first seed of mind. The hymn ends in doubt: who truly knows where creation came from? The overseer in the highest heaven may know it, or he may not."
+      }
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "太初", "en": "Before anything" },
+      "title": { "zh": "金胎生于太初，却没有名字", "en": "The golden embryo, whose name no one gives" },
+      "text": {
+        "zh": "《金胎歌》（10.121）说太初有金胎（Hiraṇyagarbha）生成，一出生就是既成万物的唯一主宰；他撑住大地与这片天，也生出了广大的水。前九节每一节都以同一句诘问收尾：「我们该向哪位神献祭？」（kasmai devāya haviṣā vidhema）——造世者始终没有被点名。只有第十节直呼生主（Prajāpati）之名，而这一节一般被认为是后加的。后世注家干脆把疑问词「哪位」（Ka）当作专名，认作生主，再往后与梵天合流。",
+        "en": "In Rigveda 10.121 a golden embryo, Hiranyagarbha, arises in the beginning and is at once the one lord of all that had come to be; he holds up the earth and this sky, and begets the wide waters. Nine verses close with the same question — to which god shall we offer our oblation? — and the creator is never named. Only the tenth calls on Prajapati outright, and that verse is generally taken to be a later addition. Commentators went on to read the interrogative Ka, \"who,\" as a proper name, identify it with Prajapati, and in time with Brahma."
+      },
+      "entries": ["brahma"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "吠陀的开辟", "en": "The Vedic opening" },
+      "title": { "zh": "因陀罗斩弗栗多，把天顶起来", "en": "Indra kills Vritra and props up the sky" },
+      "text": {
+        "zh": "在吠陀赞歌里，天与地是被神撑开的。因陀罗握着工巧神陀湿多为他锻造的金刚杵，劈开卧在山上的巨蛇弗栗多；被囚的诸水像牛群一样叫着奔向大海，七河由此得以流动。同一批赞歌说他就在这一击里生出太阳、天与黎明，并像立柱子那样把天顶住。毗湿奴则以三步丈量出三界，第三步落在凡人目力所不及的地方。",
+        "en": "In the Vedic hymns sky and earth have to be forced apart, and a god does the forcing. Indra takes up the vajra that Tvashtr hammered for him and splits Vritra, the serpent lying across the mountain; the penned-up waters break loose and run to the sea lowing like cattle, and the seven rivers begin to flow. The same hymns say that in that stroke he generated the sun, the sky and the dawn, and propped the heavens up like a post. Vishnu, for his part, measures out the three worlds in three strides, the third falling where no mortal eye can follow."
+      },
+      "entries": ["indra", "vishnu"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "献祭", "en": "The sacrifice" },
+      "title": { "zh": "原人被分肢，宇宙从他身上出来", "en": "Purusha is dismembered and the world comes out of him" },
+      "text": {
+        "zh": "《原人歌》（10.90）里的原人（Puruṣa）有千头、千眼、千足，裹住整个大地还余出十指。诸神拿他当祭品行祭：春天作酥油，夏天作柴薪，秋天作供物。分割他的时候，月亮从他的心意生出，太阳从他的眼睛生出，因陀罗与阿耆尼从他口中出来，风从他的气息出来；肚脐成了空界，头成了天，双足成了大地，两耳成了四方。",
+        "en": "Rigveda 10.90 describes Purusha, a being with a thousand heads, a thousand eyes and a thousand feet, who covers the earth on every side and reaches ten fingers beyond it. The gods make him the victim of their sacrifice: spring is the melted butter, summer the firewood, autumn the oblation. As he is divided, the moon is born from his mind and the sun from his eye; Indra and Agni come out of his mouth, the wind from his breath. His navel becomes the middle air, his head the sky, his feet the earth, his ears the four directions."
+      },
+      "entries": ["indra"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "献祭", "en": "The sacrifice" },
+      "title": { "zh": "四种姓出自原人的口、臂、腿、足", "en": "Four varnas from mouth, arms, thighs and feet" },
+      "text": {
+        "zh": "同一首赞歌里，人也出自这次分肢：婆罗门从原人的口中出，罗阇尼耶（刹帝利）从他的双臂出，吠舍从两腿出，首陀罗从双足出。分派种姓的这一节（第 12 节）就排在月亮出自心意、太阳出自眼睛之前，社会等级与日月天地是同一刀分出来的。这是印度文献中四种姓的最早一次点名。另有一路传统把现存人类算在摩奴（Manu）名下，「摩奴」这个词本身就带着「人」的意思。",
+        "en": "The same hymn has humankind come out of the same dismemberment. The Brahmin came from Purusha's mouth, the Rajanya (Kshatriya) from his arms, the Vaishya from his thighs, the Shudra from his feet. The verse that assigns the varnas (verse 12) stands immediately before the verses on the moon from his mind and the sun from his eye: the social order is cut from the body in the same stroke as the sun and the sky. It is the earliest naming of the four varnas in Indian literature. A separate strand of tradition traces the living instead to Manu, whose name itself carries the sense of \"man.\""
+      }
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "往世书的重述", "en": "The Puranic retelling" },
+      "title": { "zh": "毗湿奴脐中生莲，梵天坐在莲上造世界", "en": "A lotus from Vishnu's navel, and Brahma seated in it" },
+      "text": {
+        "zh": "往世书换了一整套画面。一劫之初，毗湿奴仰卧在千头巨蛇舍沙（阿难陀）的盘身上，漂在无边的原初之水里；他脐中长出一茎莲花，莲心坐着四面的梵天。梵天四顾，除水之外一无所见，便按上一劫的旧样式造出诸天、大地、时间、诸神、仙人和一切生类。梵天造、毗湿奴持、湿婆毁的三分职司，也是到这一层才定型。",
+        "en": "The Puranas retell all of it with a new set of images. At the start of a kalpa Vishnu lies asleep on the coils of the thousand-headed serpent Shesha, adrift on a shoreless ocean; a lotus grows from his navel, and Brahma, four-faced, sits in its cup. Looking around and finding nothing but water, Brahma brings out the heavens, the earth, time, the gods, the sages and every kind of living thing, shaping them on the pattern of the kalpa that ended. Creation by Brahma, maintenance by Vishnu, destruction by Shiva: that division of labour belongs to this later layer."
+      },
+      "entries": ["vishnu", "brahma", "naga", "shiva"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "洪水", "en": "The flood" },
+      "title": { "zh": "摩奴与鱼", "en": "Manu and the fish" },
+      "text": {
+        "zh": "《百道梵书》（1.8.1）讲得很实：摩奴洗手时，一条小鱼落进他掌心，求他养大，说「你养我，我救你」。鱼在瓦罐里养大了，他挖坑养；坑也装不下了，就送进海里。鱼临别告诉他洪水将至的年份，并嘱他造船。那一年水来，摩奴把船绳系在鱼角上，鱼把船一路拖到北方的山上；水退时他顺着山坡一点点下来，那地方后来就叫「摩奴之降」。别的生灵全被冲走，只剩他一个。他行祭一年，从供物中生出女子伊拉（Iḍā），人类由她再传。《摩诃婆罗多》里这条鱼自称梵天，往世书才把它认作毗湿奴的鱼化身摩蹉（Matsya）。",
+        "en": "The Shatapatha Brahmana (1.8.1) tells it flatly. A little fish swims into Manu's hands as he washes; it asks to be reared and promises to save him in return. He keeps it in a jar; when it outgrows that he digs a pit for it, and when it outgrows the pit he carries it down to the sea. There it names the year the flood will come and tells him to build a ship. In that year Manu ties the ship's rope to the fish's horn and is towed north to a mountain; as the water falls he comes down the slope by degrees, at a place afterwards called Manu's Descent. Every other creature has been swept away. He sacrifices for a year, and from the offering a woman, Ida, is born, through whom humankind continues. In the Mahabharata the fish declares itself to be Brahma; only in the Puranas is it Matsya, the fish avatar of Vishnu."
+      },
+      "entries": ["vishnu"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "当世", "en": "The present age" },
+      "title": { "zh": "劫与四时：同一个世界反复重来", "en": "Kalpas and yugas: the same world made again" },
+      "text": {
+        "zh": "这一层的时间是循环的，而且被算到了年。四时（yuga）依次为圆满时 172.8 万年、三分时 129.6 万年、二分时 86.4 万年、迦梨时 43.2 万年，合成一大时 432 万年；一千大时是梵天的一昼，即一劫（kalpa），43.2 亿年。梵天入夜，世界溶解（pralaya）；天明再造，样式照旧。一劫分十四个摩奴期，传统说现在是第七个，属毗婆薮·摩奴，正处在最坏的迦梨时——按传统天文推算，迦梨时始于公元前 3102 年。",
+        "en": "Time here is cyclical, and the cycles are counted out to the year. The four yugas last 1,728,000, 1,296,000, 864,000 and 432,000 years — Krita, Treta, Dvapara and Kali — together one mahayuga of 4,320,000 years. A thousand mahayugas make a single day of Brahma, one kalpa of 4.32 billion years. When his night comes the worlds dissolve in pralaya; at his dawn they are made again on the old pattern. Each kalpa holds fourteen manvantaras, and tradition places the present moment in the seventh, that of Vaivasvata Manu, deep in the worst of the four ages, the Kali Yuga, which by traditional astronomical reckoning began in 3102 BCE."
+      },
+      "entries": ["shiva"]
+    }
+  ]
+}

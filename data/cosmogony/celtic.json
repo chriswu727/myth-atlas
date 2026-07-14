@@ -1,0 +1,79 @@
+{
+  "tradition": "celtic",
+  "source": {
+    "zh": "《夺取爱尔兰记》（Lebor Gabála Érenn，11世纪编成；现存最早抄本见12世纪中叶的《伦斯特之书》；R. A. S. Macalister 校订与英译，爱尔兰文本学会，1938—1956）；《穆伊图拉之战》（Cath Maige Tuired）；《不列颠人史》（Historia Brittonum，约829年）；凯撒《高卢战记》卷六第18节",
+    "en": "Lebor Gabála Érenn, The Book of the Taking of Ireland (compiled 11th century; earliest surviving copy in the Book of Leinster, mid-12th century; edited and translated by R. A. S. Macalister, Irish Texts Society, 1938-1956); Cath Maige Tuired, The Second Battle of Mag Tuired; Historia Brittonum (c. 829); Caesar, De Bello Gallico VI.18"
+  },
+  "note": {
+    "zh": "爱尔兰没有创世神话：现存的中古爱尔兰文献里没有开天辟地这一段，也没有迹象表明曾经有过、后来散佚。《夺取爱尔兰记》一开篇讲的是《创世记》——上帝造世界、亚当与夏娃、该隐、洪水——然后直接跳到爱尔兰。动笔的是修道院里的学者，他们的活儿是把爱尔兰接进圣经史和世界编年史：盖尔人被安排成挪亚之子雅弗的后裔，盖尔语被说成是从巴别塔的七十二种语言里挑出来拼成的，家谱一路上溯到亚当。所以下面这七步讲的是「夺取」：一支接一支登陆的移民序列，与开天辟地无关；书里那些精确年数是编者按「创世纪元」推算出来的文学产物，不是记录。\n\n这套伪史比手稿本身老。约829年的《不列颠人史》里已经写着帕托兰带人从西班牙来爱尔兰、后来死于瘟疫，也已经有涅梅德；9世纪诗人马尔·穆鲁（卒于887年）把盖尔人的来历编成了诗，后来被抄进《夺取爱尔兰记》。这书11世纪成形，抄本从12世纪起分头传，麦卡利斯特分出的几个校订本互相打架：人数、王名、在位年数常对不上；洪水之前先到的是凯萨尔还是班巴，手稿自己就拿不定主意，另有一说是三个渔夫先发现了这座岛。达努神族的处理最能看出编者的难处——他们是爱尔兰的神，但在基督教框架里不能是神，于是一会儿被说成恶魔，一会儿被说成从希腊来的、学过法术的凡人，被算进入侵序列排第五位，还给了在位年数。他们最后退进土丘（sídhe）、把地下留给自己的那个著名结局，出自《占据仙丘》一类别的文本，不在《夺取爱尔兰记》里。\n\n威尔士材料同样没有创世：《马比诺吉》开场时世界已经在那儿了。高卢只剩凯撒转述的一句——德鲁伊说高卢人都是冥府之神狄斯的后代。所以这张表里 chaos、separation、humans 三格是空的：这套叙事从洪水讲起，里面的每一族都是坐船来的移民。",
+    "en": "Irish tradition has no creation story: no surviving medieval Irish text describes the making of the world, and there is no sign that one ever existed and was lost. Lebor Gabála Érenn opens with Genesis instead - God creating the world, Adam and Eve, Cain, the flood - and then cuts straight to Ireland. It was written by monastic scholars whose job was to graft Ireland onto biblical and world chronology: the Gaels are made descendants of Japheth son of Noah, their language is assembled out of the seventy-two tongues of Babel, and their pedigrees run back to Adam. The seven stages below are therefore a sequence of takings, one boatload of settlers after another. The precise year-counts in the book are calculated Anno Mundi by the compilers; they are literary construction, not record.\n\nThe pseudo-history is older than the manuscripts. The Historia Brittonum of about 829 already has Partholón coming to Ireland from Spain and dying of plague, and already has Nemed; the poet Máel Muru of Fahan (d. 887) had put the origin of the Gaels into verse, and his poem was later absorbed into the compilation. Lebor Gabála took shape in the eleventh century and survives in several recensions that Macalister edited separately and that flatly contradict each other on numbers, on royal names, on lengths of reigns. Whether Cessair or Banba came first before the flood is unsettled inside the text itself, and a rival tradition says three fishermen found Ireland first. The Tuatha Dé Danann show the compilers' problem most clearly: they are the gods of pagan Ireland, and a Christian frame cannot call them gods, so the book calls them demons in one passage and skilled mortals out of Greece in another, files them fifth in the invasion sequence, and gives their kings regnal years. Their famous retreat into the sídhe, the mounds, comes from other texts such as De Gabáil in tSída and not from Lebor Gabála at all.\n\nWelsh material offers no creation either; the Mabinogi begins with the world already standing. From Gaul there is one sentence, reported by Caesar: the druids say the Gauls are all descended from Dis Pater, the god of the underworld. The chaos, separation and humans rows of this table are blank: the narrative starts at the flood, and every people in it arrives by boat."
+  },
+  "stages": [
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "洪水之前", "en": "Before the flood" },
+      "title": { "zh": "凯萨尔赶在洪水前四十天登陆", "en": "Cessair lands forty days before the flood" },
+      "text": {
+        "zh": "比丝之女凯萨尔带着三个男人、五十个女人在邓纳姆巴克（今科克郡西南海岸）上岸，时间是洪水前四十天。手稿说她是挪亚的孙女，方舟没有她的位置，只好自己去找一块还没人在上面犯过罪的地。女人分给三个男人，拉德拉分到十六个，最先死掉，成了埋进爱尔兰土里的第一个人；比丝葬在北方的斯利厄贝哈山，凯萨尔死在康诺特的库尔凯斯拉赫。水一漫上来，全族没了。只剩芬坦·麦克博赫拉，变成鲑鱼、鹰、隼，一路活了五千五百年——按手稿的说法，洪水以前的爱尔兰是他一个人讲出来的。",
+        "en": "Cessair, daughter of Bith, came ashore at Dún na mBárc with three men and fifty women, forty days before the flood. The book makes her a granddaughter of Noah, refused room in the ark and looking for a country where nobody had yet sinned. The women were divided among the men; Ladra took sixteen, died first, and so became the first person buried in Irish ground. Bith was buried on the mountain Sliab Betha in the north, Cessair at Cúil Cesrach in Connacht. Then the water came over all of them. Only Fintan mac Bóchra lived, passing through the shapes of salmon, eagle and hawk for five and a half thousand years, and it is from him, the text says, that everything before the flood is known."
+      }
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "洪水之后三百年", "en": "Three hundred years after the flood" },
+      "title": { "zh": "帕托兰砍出平原，湖水从地下迸开", "en": "Partholón clears plains, and lakes burst out of the ground" },
+      "text": {
+        "zh": "帕托兰从希腊渡海而来，在因贝尔斯凯尼登陆。手稿说他到的时候，整座岛只有一片平原、三个湖、九条河；他的人砍出四片平原，又有七个湖从地下迸开。《夺取爱尔兰记》交代地貌就是这个办法：每来一波人，平原和湖的数目往上加一批。他们带来第一批牛，第一次酿麦酒，开了第一间客舍，也打了岛上第一仗——在马格伊萨对上弗摩尔人基霍尔（手稿说他没有脚）。三百年后，五千男人和四千女人在一个星期里死于瘟疫，尸体全躺在森马格埃尔塔，就是今天都柏林南边的塔拉赫特：地名的意思是「帕托兰族的瘟疫葬地」。",
+        "en": "Partholón crossed from Greece and landed at Inber Scéne. When he came, the book says, Ireland held one plain, three lakes and nine rivers; his people cut four more plains out of the wood, and seven lakes burst out of the ground under them. This is how the book accounts for the landscape: with every taking, the tally of plains and lakes goes up. Partholón's people brought the first cattle, brewed the first ale, kept the first guest-house, and fought the first battle in Ireland, against the Fomorian Cichol at Mag Itha, a man the text describes as having no feet. Three hundred years after they came, five thousand men and four thousand women died of plague inside one week on the old plain of Elta. The place is Tallaght, south of Dublin, and the name means the plague-grave of Partholón's people."
+      }
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "涅梅德族", "en": "The people of Nemed" },
+      "title": { "zh": "康南德之塔与三分之二的儿女", "en": "Conand's tower and the tribute of two thirds" },
+      "text": {
+        "zh": "涅梅德从斯基泰出发，四十四条船只有一条靠了岸。他的人再清出十二片平原，四个湖迸开，和弗摩尔人打赢了几场。涅梅德本人带着两千人死于瘟疫之后，弗摩尔人康南德和莫尔克把剩下的压住了：每年萨温节，把三分之二的儿女、三分之二的谷物、三分之二的牛奶送到马格凯特内交上去。他们最后反了，攻上托里岛的康南德之塔，杀了康南德；莫尔克的舰队随即赶到，海水涨起来盖过整个战场。三十个人挤在一条船里逃出去，散成三支：一支去了希腊，后来回来就是费尔博格；一支去了世界北方的岛屿，后来回来就是达努神族，爱尔兰的神出在这一支；一支去了不列颠，被算作不列颠人的祖先，没有再回爱尔兰。",
+        "en": "Nemed set out from Scythia with forty-four ships and reached Ireland with one. His people cleared twelve more plains, four more lakes broke open, and they won several fights with the Fomorians. Then Nemed died of plague with two thousand of his people, and the Fomorians Conand and Morc held the rest down: every Samhain, two thirds of their children, two thirds of their corn and two thirds of their milk had to be carried to Mag Cétne and handed over. In the end they rose, stormed Conand's tower on Tory Island and killed him, but Morc's fleet arrived and the sea rose over the battle. Thirty survivors got away in a single ship and split three ways: to Greece, to the islands in the north of the world, to Britain. The party that went to Greece came back as the Fir Bolg; the party that went north came back as the Tuatha Dé Danann, which is the line the gods of Ireland come from; the third stayed in Britain and is counted the ancestor of the Britons."
+      }
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "费尔博格", "en": "The Fir Bolg" },
+      "title": { "zh": "五分爱尔兰，第一次有了王", "en": "Ireland cut into five, and given kings" },
+      "text": {
+        "zh": "去希腊的那一支被当地人奴役，命他们把土装进皮袋背上石山垫地——手稿用这个来解释「费尔博格」（袋人）这个名字，这是词源附会，不是史实。二百三十年后他们坐船回来，分成费尔博格、费尔多姆南、盖利昂三支。德拉的五个儿子把爱尔兰切成五份，一人一份：这就是爱尔兰五个「省」的由来，爱尔兰语至今管一省叫 cúige，字面意思是「五分之一」。他们立了九个王，统共三十七年。最后一个是埃奥赫·麦克埃尔克：他在位时天不下雨只下露水，没有一年歉收，谎言被赶出爱尔兰，也是从他起，国王断案要照规矩来。",
+        "en": "The party that went to Greece was put to work carrying earth in leather bags up onto bare rock, and the book uses that to explain the name Fir Bolg, bag men - folk etymology, not history. Two hundred and thirty years later they sailed back, in three groups: Fir Bolg, Fir Domnann and Gailióin. The five sons of Dela cut Ireland into five parts and took one each, which is where the Irish provinces come from; the Irish word for a province, cúige, still means simply a fifth. Nine of their kings ruled for thirty-seven years in all. The last was Eochaid mac Eirc, in whose reign no rain fell, only dew, no year failed, falsehood was put out of Ireland, and a king first gave judgement by settled law."
+      }
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "达努神族", "en": "The Tuatha Dé Danann" },
+      "title": { "zh": "神族排在第五波，乘黑云而来", "en": "The gods arrive fifth, in a dark cloud" },
+      "text": {
+        "zh": "手稿把爱尔兰的神排在第五波：和前面几族一样，他们坐船来，编者还给他们的王算了在位年数。手稿说他们在世界北方的四座城——法利亚斯、戈利亚斯、芬迪亚斯、穆利亚斯——学到法术，带回四件东西：命运之石利亚法尔，真王踏上去它会叫；卢的长矛，握着它的人不会输；努阿达的剑，出鞘后没人躲得开；达格达的大锅，谁离席都不会没吃饱。他们落在康诺特的山上，黑云遮了三天太阳（有的抄本说，那是他们烧掉自己的船冒的烟）。第一次穆伊图拉之战打垮费尔博格，努阿达丢了一条手臂，迪安凯赫特给他接了一条银的，从此叫「银臂努阿达」。",
+        "en": "The book files the gods of Ireland fifth in the sequence: they come in by sea like every people before them, and the compilers give their kings regnal years. They had learned their craft, the book says, in four cities in the north of the world - Falias, Gorias, Findias, Murias - and brought one thing out of each: the Lia Fáil, the stone that cries out under a rightful king; the spear of Lug, which no battle was won against; the sword of Nuadu, which nothing escaped once drawn; and the cauldron of the Dagda, which no company ever left unsatisfied. They landed on a mountain in Connacht inside a dark cloud that hid the sun for three days, and one version explains the cloud as smoke: they had burned their own ships behind them. At the first battle of Mag Tuired they broke the Fir Bolg. Nuadu lost an arm there, and Dían Cécht fitted him one of silver, which is why he is Nuadu of the Silver Hand."
+      },
+      "entries": ["dagda", "brigid"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "第二次穆伊图拉之战", "en": "The second battle of Mag Tuired" },
+      "title": { "zh": "卢一颗投石打穿巴洛尔的眼睛", "en": "Lug puts a sling-stone through Balor's eye" },
+      "text": {
+        "zh": "缺了手臂的努阿达不能当王，位子给了半个弗摩尔血统的布雷斯。布雷斯吝啬到诗人卡尔布雷在他家里作出爱尔兰第一首讽刺诗，脸上随即起疮——有瑕疵的人不配为王，他被赶下去，回头搬弗摩尔人来打。这时卢来到王宫门口，守门人问他会什么，他把手艺一样样报完，守门人找不出他不会的，只好放行；努阿达把指挥权让给他。战场上巴洛尔的毒眼要四个人拿钩杆撑开眼皮，看到谁谁死；卢一颗石头从眼里打进去，把眼球从后脑打出来，眼光反倒扫在他自己身后的弗摩尔军上。努阿达和玛哈死在巴洛尔手里。战后摩瑞甘登上高处宣布胜利，接着预言世界终将败坏。",
+        "en": "A maimed man could not be king, so the crown went to Bres, who was half Fomorian. Bres was so mean with food that the poet Cairbre made the first satire in Ireland against him under his own roof, and blotches rose on his face - a blemished man cannot rule - and once deposed he fetched the Fomorians to make war. It was then that Lug came to the door of the royal hall; the porter asked him what art he had, and Lug named them one after another until the porter could not find a craft he lacked and had to let him in, and Nuadu handed him the command. On the field, Balor's eye had to be held open by four men with a hook through the lid, and whatever it looked at died. Lug slung a stone that drove the eye out through the back of his head, so that it looked instead on the Fomorian host behind him. Balor killed Nuadu and Macha. Afterwards the Morrígan climbed the heights and proclaimed the victory, and then prophesied the ruin of the world."
+      },
+      "entries": ["lugh", "morrigan", "dagda"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "米尔之子", "en": "The sons of Míl" },
+      "title": { "zh": "地面归盖尔人，土丘归神族", "en": "The surface to the Gaels, the mounds to the gods" },
+      "text": {
+        "zh": "伊斯在西班牙布雷甘之塔顶上望见了海那边的爱尔兰，渡海过去，被神族的三个王杀了。他的族人——米尔之子（Meic Míled，即米利西亚人）——为报仇而来。上岸往塔拉走的路上，他们先在斯利厄米什遇见班巴，又在斯利厄埃布林遇见弗拉，最后在乌什纳赫遇见爱柳；三位女神各自要求这座岛以自己的名字命名，诗人阿梅尔金一一答应，留下来通行的是爱柳：爱尔兰（Éire）的名字由此而来。神族的德鲁伊要求他们退到第九道浪之外再登陆，阿梅尔金作为裁判点了头；船一退，风暴刮起来，唐恩淹死在西南海面的礁岛上，那里从此叫「唐恩之屋」，后世说死者都要在那儿集合。阿梅尔金诵诗祈求爱尔兰之地，风停了；等他右脚踏上爱尔兰的地面，才念出「我是海上的一阵风」那一首。塔尔提乌一战，神族败。地面归了盖尔人，此后爱尔兰的王都算他们的后代；埃贝尔和埃雷蒙分了南北，第二年就翻脸，埃贝尔战死。至于神族退进土丘、把地下留给自己——那是别的文本的说法。",
+        "en": "Íth saw Ireland across the water from the top of Bregon's tower in Spain, sailed over, and was killed by the three kings of the Tuatha Dé. His kin, the sons of Míl, came to avenge him. Marching inland they met Banba at Sliab Mis, Fódla at Sliab Eblinne and Ériu at Uisnech, and each of the three goddesses asked that the island carry her name; the poet Amergin gave his word to each of them, and it is Ériu's name that held, so Ireland is Éire still. The druids of the Tuatha Dé demanded that the invaders withdraw beyond the ninth wave and try the landing again, and Amergin, judging, agreed. As the ships pulled back a storm broke on them and Donn drowned at the rock off the southwest coast that is called the House of Donn ever since, where the dead were later said to gather. Amergin chanted his invocation of the land of Ireland and the wind dropped; the poem that begins I am a wind on the sea he spoke as his right foot came down on the shore. At Tailtiu the Tuatha Dé were beaten. The surface of the country went to the Gaels, and every later king of Ireland is counted from them; Éber and Éremón split the island north and south, quarrelled within the year, and Éber was killed. That the defeated gods went down into the mounds is told elsewhere, not here."
+      },
+      "entries": ["dagda", "tir-na-nog", "morrigan"]
+    }
+  ]
+}

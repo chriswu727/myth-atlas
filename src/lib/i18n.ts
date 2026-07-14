@@ -1,4 +1,4 @@
-import type { Category, EntryType, Era, Locale } from './types';
+import type { Category, EntryType, Era, Locale, Motif } from './types';
 
 export const SITE_NAME = { zh: '寰宇神话志', en: 'Myth Atlas' };
 
@@ -7,7 +7,29 @@ export const dict = {
     zh: '收录世界各地的神话、志怪与传说',
     en: "A catalog of the world's myths, strange creatures, and legends",
   },
-  nav: { atlas: { zh: '地图', en: 'Atlas' }, dex: { zh: '图鉴', en: 'Index' }, about: { zh: '关于', en: 'About' } },
+  nav: {
+    atlas: { zh: '地图', en: 'Atlas' },
+    dex: { zh: '图鉴', en: 'Index' },
+    cosmogony: { zh: '创世', en: 'Creation' },
+    about: { zh: '关于', en: 'About' },
+  },
+  cosmogony: {
+    title: { zh: '创世谱', en: 'Creation' },
+    lede: {
+      zh: '十九个文明各自讲述世界如何开始。横向读，同一个母题在不同文明里长出不同的形状：世界或从巨人的尸体剖出，或由言语唤出，或由潜水的动物从水底捧出一把泥。',
+      en: 'Nineteen traditions, each telling how the world began. Read across a row and the same motif takes a different shape: the world is cut from a giant\'s corpse, spoken into being, or carried up as a handful of mud by a diving animal.',
+    },
+    compare: { zh: '母题对照', en: 'Motifs compared' },
+    compareHint: {
+      zh: '横向是同一个文明的叙事顺序，纵向是同一个母题的不同讲法。空格不是遗漏——那个文明确实没有这一步。',
+      en: 'Rows follow one tradition in order; columns line up the same motif across cultures. A blank is not an omission — that tradition has no such step.',
+    },
+    timeline: { zh: '创世时间线', en: 'Creation timeline' },
+    onTradition: { zh: '完整时间线', en: 'Full timeline' },
+    sources: { zh: '依据', en: 'From' },
+    noteLabel: { zh: '版本说明', en: 'On the sources' },
+    absent: { zh: '此体系无此母题', en: 'Motif absent in this tradition' },
+  },
   home: {
     mapHint: { zh: '拖动与缩放地图，点击星标进入该体系', en: 'Drag and zoom the map; click a star to open that tradition' },
     traditions: { zh: '收录体系', en: 'Traditions' },
@@ -81,6 +103,16 @@ export const eraLabels: Record<Era, { zh: string; en: string }> = {
   ancient: { zh: '上古', en: 'Ancient' },
   folk: { zh: '民间', en: 'Folk' },
   modern: { zh: '现代', en: 'Modern' },
+};
+
+export const motifLabels: Record<Motif, { zh: string; en: string }> = {
+  chaos: { zh: '太初', en: 'Before the world' },
+  'first-beings': { zh: '最初的存在', en: 'The first beings' },
+  separation: { zh: '天地分离', en: 'Sky parted from earth' },
+  'world-form': { zh: '世界成形', en: 'The world takes shape' },
+  humans: { zh: '人类诞生', en: 'The making of people' },
+  ordeal: { zh: '洪水与劫', en: 'Flood and ruin' },
+  now: { zh: '当世', en: 'The present age' },
 };
 
 export const categoryLabels: Record<Category, { zh: string; en: string }> = {

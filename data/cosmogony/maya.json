@@ -1,0 +1,93 @@
+{
+  "tradition": "maya",
+  "source": {
+    "zh": "《波波尔·乌》（基切玛雅语，约1550年代成书；今存希门内斯双栏抄本，芝加哥纽伯里图书馆 Ayer MS 1515）；阿德里安·雷西诺斯译注本（1947）；丹尼斯·特德洛克英译本（1985，1996修订）；艾伦·克里斯滕森英译本（2003）；基里瓜C号石碑；《奇拉姆·巴兰之书·丘马耶尔本》",
+    "en": "Popol Vuh (K'iche' Maya, written c. 1550s; surviving text in the Ximénez bilingual manuscript, Newberry Library, Ayer MS 1515); Adrián Recinos, Spanish translation with notes (1947); Dennis Tedlock, Popol Vuh (1985, rev. 1996); Allen J. Christenson, Popol Vuh (2003); Quiriguá Stela C; The Book of Chilam Balam of Chumayel"
+  },
+  "note": {
+    "zh": "这条时间线只出自一部书。《波波尔·乌》是16世纪中叶危地马拉高地的基切贵族用拉丁字母写下的基切语文本，它自称抄自一部更古的「波波尔·乌」，而那部象形文字原书从没有人见过；开篇又明说，此书写于「上帝的律法之下、在基督教之中」。基切语原稿已佚，今天所有译本都要追到多明我会士弗朗西斯科·希门内斯约1701—1703年在奇奇卡斯特南戈做的双栏抄本（纽伯里图书馆 Ayer MS 1515）。开口说「大地」即有大地、大洪水灭掉一整代人这类环节与《创世记》有多少关系，学界至今没有定论——写书的人确实读过圣经。\n\n它也不等于「玛雅的创世神话」。玛雅是三十来种语言、三千年历史，这只是其中一支的一份晚期文本。古典期铭文讲的是另一套：基里瓜C号石碑记 13.0.0.0.0（4 Ahau 8 Cumku，按 GMT 对照约当公元前3114年）诸神在「三石之地」立起三块灶石，开启当前的纪——《波波尔·乌》里没有长纪历，也没有这场立石开纪的事（书里确实出现三块灶石，但那是木人被灭时从火塘里扑出来砸他们的那三块）；尤卡坦的《奇拉姆·巴兰之书·丘马耶尔本》讲天塌下来、洪水漫过世界、四位巴卡布撑住四角，又是完全另一回事。\n\n书本身的接缝也没有磨平：双子英雄升天成为日月，发生在玉米人被造出来之前，可玉米人和各部族此后仍在黑暗里守夜等第一次日出；七鹦鹉自称太阳的时候，世上还一个人也没有。此处按书中原有的先后次序排，不替它补圆。人名拼写沿用希门内斯—雷西诺斯系统（Gucumatz、Xmucane、Balam Quitzé），现代基切正字法作 Q'uq'umatz、Xmukane、B'alam Ki'tze'。",
+    "en": "All of this comes from one book. The Popol Vuh was written in K'iche' in the Latin alphabet by K'iche' nobles in the Guatemalan highlands around the 1550s. It says it is copied from an older Popol Vuh, but that hieroglyphic original has never been seen by anyone, and the text states outright that it is being written down now under the law of God, within Christendom. The K'iche' manuscript is lost; every modern translation goes back to the two-column transcript made by the Dominican friar Francisco Ximénez in Chichicastenango around 1701-1703 (Newberry Library, Ayer MS 1515). How much the creation-by-speech and the flood that wipes out a whole race owe to Genesis is still argued over, and the men who wrote the book had certainly read it.\n\nThis is also not 'the Maya creation myth'. Maya means some thirty languages across three thousand years, and this is one late text from one of them. Classic-period inscriptions frame things differently: Quiriguá Stela C records the setting of three hearthstones at the Three-Stone-Place on 13.0.0.0.0, 4 Ajaw 8 Kumk'u (about 3114 BCE under the GMT correlation), which opens the current era. The Popol Vuh has no Long Count and no founding of an era by stone-setting; the three hearthstones that do appear in it are the ones that leap out of the fire at the wooden people. The Yucatec Book of Chilam Balam of Chumayel has the sky falling, the world flooded, and the four Bacabs propping up the corners, which is another story again.\n\nThe seams inside the book are left showing here. The Hero Twins rise into the sky as sun and moon before the maize people exist, yet the maize people and the tribes then sit in darkness waiting for the first sunrise; and Seven Macaw calls himself the sun at a time when there is nobody to see him. The stages follow the order the book itself gives, without smoothing. Spellings follow the Ximénez-Recinos tradition (Gucumatz, Xmucane, Balam Quitzé); modern K'iche' orthography writes Q'uq'umatz, Xmukane, B'alam Ki'tze'."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "In the beginning" },
+      "title": { "zh": "海面不动，天空是空的", "en": "A flat sea and an empty sky" },
+      "text": {
+        "zh": "只有天和海，此外一无所有。海面平铺着不动，天空空悬，没有一样东西站起来：没有人，没有走兽、飞鸟、鱼、螃蟹，没有树，没有石头，没有山谷，没有草。一声响动也没有。大地还没有出现，只有一片静水笼在黑暗里。",
+        "en": "There was only the sky and the sea, and nothing else. The face of the sea lay flat and did not move, the sky hung empty, and nothing at all stood upright: no people, no animals, birds, fish or crabs, no trees, no stones, no canyons, no grass. There was not one sound. The earth did not yet exist, only still water in the dark."
+      },
+      "entries": ["popol-vuh-creation"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "水中的光", "en": "The light in the water" },
+      "title": { "zh": "特佩乌、古库马茨与天之心", "en": "Tepeu, Gucumatz, and Heart of Sky" },
+      "text": {
+        "zh": "水里有光，光里伏着造物者：特佩乌与古库马茨，覆在绿咬鹃的翠羽下。古库马茨就是羽蛇，与尤卡坦的库库尔坎同源；「特佩乌」一名借自纳瓦语。天上是「天之心」乌拉坎，一位神，三个名字：雷霆乌拉坎、初生的闪电、骤然的闪电。他们凑在一起说话、商量，把言语和思想合成一处：天亮该怎么亮，谁来供养神、谁来叫神的名字。掷卦的老祖父斯皮亚科克与老祖母斯穆卡内也在场。",
+        "en": "There was light in the water, and in the light lay the makers: Tepeu and Gucumatz, covered over with the blue-green feathers of the quetzal. Gucumatz is the Plumed Serpent, the same figure as Kukulkan in Yucatán; the name Tepeu is a loanword from Nahuatl. Above them was Heart of Sky, Huracan, one god under three names: Thunderbolt Huracan, Newborn Lightning, Sudden Lightning. They put their words and their thoughts together and settled what should happen at dawn, and who would feed the gods and speak their names. The old diviners Xpiyacoc and Xmucane were there as well."
+      },
+      "entries": ["kukulkan", "popol-vuh-creation"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "开口造世", "en": "The word Earth" },
+      "title": { "zh": "山从水里长出来，兽却不会叫神的名字", "en": "Mountains out of the water, animals that cannot speak" },
+      "text": {
+        "zh": "他们只说了一个词：「大地」。大地就出来了，像雾、像一团云那样从水里成形，山一冒头就已经是山，柏树和松树立刻铺满山面。水被分开，各走各的道，山谷里有了河。接着造走兽：鹿和鸟分到林子与山谷，美洲豹、蛇、毒蛇分到藤蔓丛里。造好之后命它们开口，说出造物者的名字。鹿只会嘶叫，鸟只会啁啾，谁也念不出一个名字。造物者就换了它们的活法：你们的肉要被吃掉，你们要互相撕咬。",
+        "en": "They said one word, Earth, and the earth was there. It came up out of the water like mist, like a cloud taking shape; the mountains rose and were mountains at once, and cypress and pine spread over their faces. The water was drawn off into its own channels and rivers ran through the ravines. Then the animals were made: deer and birds took the woods and the canyons, jaguars and rattlesnakes took the thickets and the vines. They were told to speak, to say the names of the ones who had made them. The deer could only bleat, the birds could only squawk, and not one of them said a name. So their portion was changed: your flesh will be eaten, they were told, and you will tear at each other."
+      },
+      "entries": ["kukulkan", "popol-vuh-creation"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "第一次造人", "en": "The first attempt" },
+      "title": { "zh": "泥人化在水里", "en": "The mud person soaks away" },
+      "text": {
+        "zh": "造物者还是要一个会说话、会记得他们、会供养他们的东西，于是用泥造了一个人。它一站起来就不成样子：脖子转不动，脸只朝一边看，眼睛糊着，软得散架，一沾水就化开。它会出声，可是话里没有意思；它也不能生养。造物者看着自己手里的东西，说这个不行，就把它拆散，让它泡回水里去。",
+        "en": "The makers still wanted something that could talk, remember them, and feed them, so they made a person out of mud. It came out badly. Its neck would not turn, its face looked only one way, its sight was smeared over, and it was so soft that it came apart in the hands; wet, it simply dissolved. It made noise, but there was no sense in the noise, and it could not have children. The makers looked at the thing they had made, said it would not do, pulled it apart, and let it soak away."
+      },
+      "entries": ["popol-vuh-creation"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "第二次造人", "en": "The second attempt" },
+      "title": { "zh": "占卜掷豆，木人无血无心", "en": "Cast the seeds, carve the wood" },
+      "text": {
+        "zh": "这一次先问卦。老祖父斯皮亚科克与老祖母斯穆卡内抓起一把珊瑚树的红豆和玉米粒，撒开来数，问木头行不行。卦说行。于是木人被刻出来：男人的肉取珊瑚树的木，女人的肉取芦苇的髓。木人形貌像人，会说话，生儿育女，住满了大地。可他们身上没有血，没有汗，手脚是干的，脸是硬的，心里空着，从来不记得抬头叫一声造物者的名字。",
+        "en": "This time they asked first. The old diviners Xpiyacoc and Xmucane took a handful of red coral-tree seeds and maize kernels, cast them, counted them, and asked whether wood would do. The answer was yes. So people were carved: the man's flesh from the wood of the coral tree, the woman's from the pith of a reed. The wooden people looked like people. They talked, they had sons and daughters, they filled the earth. But there was no blood in them and no sweat, their hands and their faces were dry, there was nothing in their hearts, and they never once looked up to say the names of the ones who had made them."
+      },
+      "entries": ["popol-vuh-creation"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "木人之灭", "en": "The wooden people destroyed" },
+      "title": { "zh": "松脂雨、洪水，和器物的反叛", "en": "Resin rain, flood, and the revolt of the things" },
+      "text": {
+        "zh": "天之心降下洪水，又从天上落下黏稠的松脂雨，浇在木人头上。四只东西挨家挨户地来：西科特科瓦奇挖掉他们的眼睛，卡马洛茨咬掉他们的头，科茨巴兰吃掉他们的肉，图库姆巴兰把他们的骨和筋捣碎。家里的器物也一齐翻脸：磨盘说「你们天天在我们脸上磨」，反过来磨他们的脸；陶锅、烤饼的陶盘、灶里的三块石头一起扑上去；狗和火鸡讨旧账，说你们从不喂我们，还拿棍子打。木人爬上房顶，房子塌了；爬上树，树把他们甩下来。逃掉的那批就是今天林子里的猴子——猴子长得像人，因为它们是木人的余种。",
+        "en": "Heart of Sky sent a flood down on them, and a thick rain of resin fell out of the sky onto their heads. Four things went through the houses: Xecotcovach gouged out their eyes, Camalotz bit off their heads, Cotzbalam ate their flesh, and Tucumbalam broke up their bones and their sinews. Their own possessions turned on them. The grinding stones said you ground on our faces every day of your lives, and ground their faces in return; the cooking pots, the griddles and the three hearthstones came at them; the dogs and the turkeys came to collect old debts, saying you never fed us and you beat us with sticks. They climbed onto the roofs and the roofs fell in; they climbed the trees and the trees shook them off. The ones who got away are the monkeys in the forest today, and that is why a monkey looks like a person."
+      },
+      "entries": ["popol-vuh-creation"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "第三次造人", "en": "The third attempt" },
+      "title": { "zh": "白玉米与黄玉米，磨过九遍", "en": "White maize, yellow maize, ground nine times" },
+      "text": {
+        "zh": "狐狸、郊狼、鹦鹉和乌鸦带来消息：帕希尔与卡亚拉两座山里塞满了玉米，白的和黄的。斯穆卡内把玉米磨了九遍，和水成团，捏出人的胳膊和大腿；她洗手的水成了人的脂膏。第一批真人有四个：巴兰·基采、巴兰·阿卡布、马乌库塔、伊基·巴兰。他们没有父母，是被念出来的。可他们太成器：一睁眼就看穿四方，什么都懂，看得和神一样远。诸神商量之后，天之心朝他们眼上呵了一口气，像呵在镜面上，从此人只看得清眼前的东西。趁他们睡着，又给了四个妻子：卡哈·帕卢纳、乔米哈、茨努尼哈、卡基莎哈。",
+        "en": "The fox, the coyote, the parrot and the crow brought the news: the mountains Paxil and Cayalá were packed with maize, white ears and yellow ears. Xmucane ground the corn nine times, worked the flour into dough with water, and out of that dough came the arms and legs of the first real people; the water she rinsed her hands in became the fat of their bodies. There were four of them: Balam Quitzé, Balam Acab, Mahucutah and Iqui Balam. They had no mother and no father; they were spoken into being. And they came out too well. When they opened their eyes they saw everything, understood everything, and their sight reached the far edges of the world, as far as the gods' own. The gods talked it over, and Heart of Sky breathed on their eyes the way breath fogs a mirror, and ever since then people see only what is near them. While the four slept, four wives were made: Cahá-Paluna, Chomihá, Tzununihá and Caquixahá."
+      },
+      "entries": ["popol-vuh-creation", "maya-maize-god"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "第一次日出", "en": "The first dawn" },
+      "title": { "zh": "双子升天，众神在日光下变成石头", "en": "The twins go up, and the gods turn to stone" },
+      "text": {
+        "zh": "双子英雄的事发生在还没有人的世界上。乌纳普与斯巴兰克先用吹箭打落自称太阳的七鹦鹉，再下到西巴尔巴，同死神一死与七死打球，一间间熬过刑房：黑暗之屋、刀之屋、寒冷之屋、美洲豹之屋、蝙蝠之屋——乌纳普在蝠屋被卡马佐兹斩下头，那颗头被挂到球场上当球打。最后他们跳进火坑，骨头被磨碎撒进河里，五天后活着回来，用戏法反杀了两位死神。事毕，他们从西巴尔巴升上天，一个成了太阳，一个成了月亮，四百个少年成了昴星团。玉米人和他们的后代还在黑暗里：他们走到图兰-苏伊瓦，领了托伊尔、阿维利克斯、哈卡维茨三尊神，语言在那里分了岔；他们在哈卡维茨山上守夜，先看见启明星升起，然后太阳出来，湿透的地被晒干。第一次的太阳照人并不烫，书里说那只是个映影，不是我们今天见的这一个。日出的那一刻，托伊尔他们连同美洲狮、美洲豹和毒蛇一起变成了石头。",
+        "en": "The twins do their work in a world with nobody in it. Hunahpu and Xbalanque bring down Seven Macaw, who had been calling himself the sun, with a shot from a blowgun; then they go down into Xibalba, play ball against the death lords One Death and Seven Death, and go through the houses of ordeal one by one: Dark House, Razor House, Cold House, Jaguar House, Bat House, where Camazotz takes Hunahpu's head off and the lords hang it in the ballcourt and play with it. In the end the twins jump into an oven, are ground on a stone and poured into the river, come back five days later, and kill the two lords with a trick. When it is finished they climb out of Xibalba into the sky, one of them as the sun and one as the moon, and the four hundred boys become the Pleiades. The maize people are still in the dark. They walk to Tulan Zuyua, receive the gods Tohil, Avilix and Hacavitz, and there their languages divide; they keep watch on the mountain Hacavitz, see the morning star come up first, and then the sun, and the soaked ground dries out. That first sun did not burn: the book says it was only a reflection of the sun, not the one we see now. As it rose, Tohil and the other gods turned to stone, and so did the pumas, the jaguars and the snakes."
+      },
+      "entries": ["hunahpu-and-xbalanque", "xibalba", "vucub-caquix", "hun-came-and-vucub-came", "camazotz"]
+    }
+  ]
+}

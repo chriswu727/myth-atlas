@@ -1,0 +1,92 @@
+{
+  "tradition": "egyptian",
+  "source": {
+    "zh": "《金字塔铭文》《棺文》《沙巴卡石碑》（大英博物馆 EA 498）《布雷姆纳-莱因德纸草·知晓拉之创造与推翻阿佩普之书》《天牛之书》《亡灵书》第175章；普鲁塔克《论伊西斯与奥西里斯》",
+    "en": "Pyramid Texts; Coffin Texts; the Shabaka Stone (British Museum EA 498); Papyrus Bremner-Rhind, Book of Knowing the Creations of Ra and of Overthrowing Apep; the Book of the Heavenly Cow; Book of the Dead spell 175; Plutarch, De Iside et Osiride"
+  },
+  "note": {
+    "zh": "埃及没有一部连贯的创世书。留下来的全是零碎材料：金字塔墙上的咒语、棺板上的经文、神庙铭文、赞美诗，各说各的，最早的《金字塔铭文》（约公元前2350年，乌纳斯金字塔）与最晚的普鲁塔克（公元100年前后）之间隔了两千多年。这条时间线是学者把这些碎片拼成的先后顺序，古埃及人自己从未这样排过。\n\n几套创世说长期并存，谁也没有吃掉谁：赫利奥波利斯（努恩的水、阿图姆自生、舒与泰芙努特、盖布与努特、九柱神，本页主线）、孟菲斯（卜塔以心与舌创造）、赫尔莫波利斯（八元神）、埃斯纳与象岛（赫努姆的陶轮）。埃及人不觉得需要在其中选一个，反而把它们叠着用，于是有了拉-阿图姆、阿蒙-拉、卜塔-塔特能这类合体神名。\n\n细节上的分歧同样明显。舒与泰芙努特的出生有两种写法：阿图姆以手自渎射出，或打喷嚏、吐唾沫喷出，两者都在《金字塔铭文》里。八元神的第四对不固定，阿蒙与阿蒙奈特是较晚才定下来的。《沙巴卡石碑》自称抄自一卷被虫蛀坏的古书，其真实成文年代学界至今争论不休，从古王国到公元前八世纪的说法都有；石碑后来被人当作磨盘使用，中心被磨出放射状的凹槽，正文中段就此永久残缺。努特在年外五日生下五神、托特与月亮下棋赢来这五天的故事，完整叙事只见于普鲁塔克的希腊文著作：埃及本土文献确实有这补出的五天和五位神的生日，但没有留下这段情节。\n\n各段的年代差得很远。本页第七步「人类的毁灭」出自《天牛之书》，现存最早的抄本刻在图坦卡蒙陵中神龛的墙上（约公元前1320年），比《金字塔铭文》晚了一千年；这段「拉在人间做王、老了被人背叛」的故事原本自成一篇，并不属于赫利奥波利斯的创世序列，是后人把它接到这条线上的。",
+    "en": "Egypt has no single book of creation. What survives is scattered — spells cut into pyramid walls, texts painted inside coffins, temple inscriptions, hymns — and the sources do not agree. More than two thousand years separate the earliest of them, the Pyramid Texts (c. 2350 BCE, in the pyramid of Unas), from the latest, Plutarch (c. 100 CE). The sequence below is a modern reconstruction; no Egyptian ever set it out this way.\n\nSeveral cosmogonies coexisted for millennia without any one of them driving out the others: Heliopolis (the waters of Nun, the self-created Atum, Shu and Tefnut, Geb and Nut, the Ennead — the main line followed here), Memphis (Ptah creating by heart and tongue), Hermopolis (the Ogdoad), and Esna and Elephantine (Khnum at his potter's wheel). The Egyptians felt no need to choose between them, and instead stacked them, which is how names like Ra-Atum, Amun-Ra and Ptah-Tatenen came about.\n\nThe disagreements run down to the details. Shu and Tefnut are born in two ways — Atum masturbates, or Atum sneezes and spits — and both versions sit in the Pyramid Texts. The fourth pair of the Ogdoad is not fixed; Amun and Amaunet are a later settlement. The Shabaka Stone claims to copy an old worm-eaten papyrus, and its actual date of composition is still argued over, with proposals running from the Old Kingdom to the eighth century BCE; the slab was later reused as a millstone, and the radiating grooves ground into its middle destroyed that part of the text for good. The story of Nut bearing five gods on five days that Thoth won from the moon at draughts survives as a connected narrative only in Plutarch's Greek: Egyptian sources attest the five added days and the birthdays of the five gods, but not that plot.\n\nThe stages are also far apart in date. The seventh step here, the destruction of mankind, comes from the Book of the Heavenly Cow, whose earliest surviving copy is cut into a shrine wall in the tomb of Tutankhamun (c. 1320 BCE), a thousand years after the Pyramid Texts. That story — Ra reigning on earth, growing old, being plotted against — stood on its own and did not belong to the Heliopolitan creation sequence; it was later hands that joined it on."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "Before the beginning" },
+      "title": { "zh": "努恩：不动的黑水", "en": "Nun, the water that does not move" },
+      "text": {
+        "zh": "世界开始之前只有努恩：无边、无光、静止的水，没有岸，没有上下。埃及人从不说它是被造出来的，也不说它后来消失了。它至今仍在天穹之外、大地之下，每年泛滥的尼罗河就是它渗回来的水。赫尔莫波利斯的祭司把这团水拆成八位神，四位男神蛙首、四位女神蛇首，两两成对：努恩与瑙涅特（水）、胡与豪赫特（无涯）、库克与考凯特（黑暗）、阿蒙与阿蒙奈特（隐匿）。",
+        "en": "Before anything else there was Nun: limitless, lightless, motionless water, with no shore and no up or down. The Egyptians never say it was made and never say it went away. It still lies outside the sky and under the ground, and the Nile flood is that water seeping back in. At Hermopolis the priests broke this state into eight gods, four frog-headed males and four snake-headed females in pairs: Nun and Naunet (water), Heh and Hauhet (endlessness), Kek and Kauket (darkness), Amun and Amaunet (hiddenness)."
+      },
+      "entries": ["amun"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "最初的存在", "en": "The first being" },
+      "title": { "zh": "阿图姆自生于原初土丘", "en": "Atum rises on the first mound" },
+      "text": {
+        "zh": "水里隆起一块干土，这就是原初土丘。阿图姆无父无母，在丘上把自己生了出来；他的名字既可解作「完满者」，也可解作「尚未存在者」。《金字塔铭文》说他在赫利奥波利斯的凤凰之屋里像本本石一样升起：那是一块顶端渐尖的立石。后世的图像把贝努鸟画在这块石头上，它的第一声啼鸣被认作世上第一个声音。神庙的至圣所按这块土丘的样子建：越往里走，地面越高。",
+        "en": "A patch of dry ground pushed up through the water: the primeval mound. Atum, who had no father and no mother, brought himself into being on it — his name can be read both as 'the complete one' and as 'the one who does not yet exist'. The Pyramid Texts have him rise in Heliopolis as the benben, the tapering stone standing in the Mansion of the Phoenix. Later images set the Bennu bird on that stone, and its first cry was reckoned the first sound ever made. Temple sanctuaries were built as copies of the mound, their floors rising step by step as you walk inward."
+      },
+      "entries": ["ra", "bennu"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "第一代神", "en": "The first generation" },
+      "title": { "zh": "喷嚏与唾沫：舒和泰芙努特", "en": "Sneezed out, spat out" },
+      "text": {
+        "zh": "阿图姆只有一个人，只能拿自己的身体生育。一种写法是他以手为配偶，射出双生的舒与泰芙努特，那只手后来自己成了一位女神。另一种写法藏在谐音里：他打喷嚏（ishesh），喷出空气神舒（Shu）；吐唾沫（tefen），吐出湿气神泰芙努特（Tefnut）。两神一度在努恩的水里走失，阿图姆摘下自己的眼睛派去寻找。舒与泰芙努特结合，生下大地神盖布和天空女神努特——埃及的大地是男神，天空是女神。",
+        "en": "Atum was alone and had to beget from his own body. In one version he takes his phallus in his hand, and the hand is itself later worshipped as a goddess; in another the birth is carried by a pun — he sneezes (ishesh) and out comes Shu, god of air, he spits (tefen) and out comes Tefnut, goddess of moisture. The two strayed off into the water of Nun, and Atum took out his own Eye and sent it to find them. Shu and Tefnut then produced Geb the earth and Nut the sky: in Egypt the earth is the male god and the sky the goddess."
+      },
+      "entries": ["ra"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "天地分离", "en": "Sky lifted off earth" },
+      "title": { "zh": "舒把努特举离盖布", "en": "Shu holds up the sky" },
+      "text": {
+        "zh": "舒站进儿女中间，双手托住努特的身体，把天从地上抬开，让出中间那层可供呼吸的空气。棺盖和纸草上的画法千年不改：盖布仰卧在下，膝盖弓起成为山丘；努特弓成一道拱，赤身满布星辰，指尖与脚尖抵住地平线；舒跪在两者之间举臂。日落时努特把太阳吞进嘴里，太阳在她体内走一夜，黎明时从她两腿间生出来。两神分开之后，努特仍生下五个孩子：奥西里斯、长者荷鲁斯（与后来伊西斯所生的荷鲁斯不是同一位）、塞特、伊西斯、奈芙提斯，都降生在三百六十天年历之外补出的五天里。其中奥西里斯、伊西斯、塞特、奈芙提斯四位，与阿图姆、舒、泰芙努特、盖布、努特凑成赫利奥波利斯的九柱神；长者荷鲁斯不在九柱之内。",
+        "en": "Shu stepped in between his children, put his hands under Nut and pushed her clear of Geb, and the gap he opened is the air that living things breathe. Coffin lids and papyri draw it the same way for two thousand years: Geb lies below with his knees drawn up into hills; Nut arches over him, naked and covered in stars, fingertips and toes braced on the horizons; Shu kneels between them with his arms raised. At dusk Nut swallows the sun, which travels through her body all night and is born again from between her thighs at dawn. Even after the parting she bore five children — Osiris, Horus the Elder (not the same Horus that Isis later bore), Set, Isis and Nephthys — on the five days added on outside the 360-day year. Four of them, Osiris, Isis, Set and Nephthys, join Atum, Shu, Tefnut, Geb and Nut to make up the nine gods of the Heliopolitan Ennead; Horus the Elder is not counted among the nine."
+      },
+      "entries": ["osiris", "isis", "set", "horus"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "孟菲斯异说", "en": "The Memphite account" },
+      "title": { "zh": "卜塔以心思之，以舌言之", "en": "Ptah thinks it, then says it" },
+      "text": {
+        "zh": "孟菲斯的祭司不承认这一切从赫利奥波利斯开始。按《沙巴卡石碑》的讲法，工匠之神卜塔先在心里想出一样事物，再用舌头把它的名字说出口，这样东西就存在了。九柱神本身不过是卜塔的牙齿和嘴唇，阿图姆只是他念出的一个名字。他就这样造出诸神的形体、各州与各城、神龛与供品，并给每一样事物定下它该得的位置。做完这一切，石碑说卜塔「满意了」，就歇下来。孟菲斯这一套与赫利奥波利斯的说法并行了上千年，两边的祭司各念各的，谁也没让步。",
+        "en": "The priests of Memphis did not accept that any of this started at Heliopolis. On the Shabaka Stone the craftsman god Ptah conceives a thing in his heart, then pronounces its name with his tongue, and the thing exists. The Ennead is nothing but Ptah's teeth and lips, and Atum is one of the names he spoke. In this way he made the bodies of the gods, the towns and the nomes, the shrines and the offerings, and fixed for every thing the place that belongs to it. Then, the stone says, Ptah was satisfied, and rested. Memphis ran this account alongside the Heliopolitan one for a thousand years and more, each priesthood reciting its own, neither giving way."
+      }
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "人类诞生", "en": "Where people came from" },
+      "title": { "zh": "人出自造物者的眼泪", "en": "People out of the creator's tears" },
+      "text": {
+        "zh": "阿图姆的眼睛把舒与泰芙努特找了回来，却发现自己的位置已被一只新眼睛顶替，勃然大怒。阿图姆把它安在额上，成了王冠前的圣蛇；随后他为失而复得的儿女落泪，泪从这只眼睛里淌下来，落地成人。埃及语里「人」（rmṯ）与「泪」（rmyt）读音相近，整套说法就建在这个谐音上，《布雷姆纳-莱因德纸草》里造物者用第一人称把这件事说得很直白：我为他们哭，人就从我眼中的泪里出来了。埃斯纳和象岛另有一路讲法：公羊头的赫努姆坐在陶轮前，把泥一个个捏成人，连同他们的「卡」（生命力）一起转出来。",
+        "en": "The Eye brought Shu and Tefnut back and found that a second eye had taken its place. It flew into a rage; Atum set it on his forehead as the uraeus cobra. Then he wept over the children he had got back, the tears ran down out of that Eye, and where they fell there were people. The Egyptian word for people, remetj, sounds like the word for tears, remyt, and the whole account rests on that pun — in the Bremner-Rhind Papyrus the creator states it flatly in the first person: I wept over them, and people came from the tears that came out of my Eye. Esna and Elephantine told it differently: the ram-headed Khnum sits at a potter's wheel and turns each human body out of clay, along with its ka, its life force."
+      },
+      "entries": ["ra"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "人类的毁灭", "en": "The destruction of mankind" },
+      "title": { "zh": "七千坛红啤酒", "en": "Seven thousand jars of red beer" },
+      "text": {
+        "zh": "拉在人间做王，一直做到年老：骨头是银的，肉是金的，头发是真青金石。人看出他老了，便密谋造反。拉召众神密议，随后放出自己的眼睛，化作哈托尔下界屠杀；她涉血而行，杀得高兴，不肯收手，从此得名塞赫美特，「威猛者」，狮首女神。拉命人连夜舂麦酿了七千坛啤酒，掺进象岛运来的红赭石，趁夜泼进田里，积了三掌深，看上去满地是血。天亮时塞赫美特在酒里照见自己的脸，俯身痛饮，醉倒过去，把杀人的事忘了，剩下的人才活了下来。",
+        "en": "Ra ruled on earth until he grew old: bones of silver, flesh of gold, hair of true lapis lazuli. Mankind saw the state of him and plotted rebellion. Ra called the gods into council, then sent his Eye down as Hathor to do the killing. She waded in blood, took pleasure in it, and would not stop, and from that slaughter she is called Sekhmet, the Powerful, the lion-headed one. So Ra had barley ground overnight and seven thousand jars of beer brewed, stained with red ochre brought down from Elephantine, and poured over the fields three palms deep until the land looked flooded with blood. At dawn Sekhmet saw her own face in it, drank until she was drunk, and forgot the slaughter, and what was left of mankind stayed alive."
+      },
+      "entries": ["ra"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "当世", "en": "The world as it stands" },
+      "title": { "zh": "拉退上天穹，终局归于努恩", "en": "Ra withdraws; the end goes back into Nun" },
+      "text": {
+        "zh": "杀过一场之后，拉厌倦了人间，爬上化作母牛的努特的背升入天空：舒在下面双手托住牛腹，八位胡神两两一组，扶住母牛的四条腿。诸神从此不再当面统治，法老代神治世，玛亚特（秩序）要靠日复一日的祭祀维持。太阳每夜进入杜阿特，每夜与巨蛇阿佩普缠斗，每晨重生，世界就这样一天天接下去。《亡灵书》第175章给它留了结局：阿图姆对奥西里斯说，终有一天他要毁掉自己造的一切，大地重新沉回努恩的水里，回到最初的样子，到时候只剩他们两个留下来，而他自己会变成一条人认不出、神也没见过的蛇。",
+        "en": "After the killing Ra had had enough of the earth. He climbed onto the back of Nut, who turned into a cow, and rose into the sky: Shu holds up her belly from below, and eight Heh-gods, two to a leg, steady her four legs. The gods no longer ruled in person; pharaoh governed in their place, and maat, right order, had to be held up by daily offering. The sun enters the Duat every night, fights the serpent Apep every night, and is reborn every morning, and that is how the world keeps going. Spell 175 of the Book of the Dead supplies the ending: Atum tells Osiris that one day he will destroy everything he made, that the land will sink back into the water of Nun and be as it was at the start, that the two of them alone will be left — and that he will by then have turned himself into a serpent no man knows and no god has seen."
+      },
+      "entries": ["ra", "apep", "duat", "maat", "book-of-the-dead"]
+    }
+  ]
+}

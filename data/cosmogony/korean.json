@@ -1,0 +1,89 @@
+{
+  "tradition": "korean",
+  "source": {
+    "zh": "《천지왕본풀이》（天地王本解，济州岛巫歌；赤松智城·秋叶隆《朝鲜巫俗の研究》上卷，1937年，收朴奉春口述本；玄容骏《济州岛巫俗资料事典》，1980年，收多种异本）、《창세가》（创世歌，咸兴巫歌；孙晋泰《朝鲜神歌遗篇》，1930年，收金双乭伊1923年口述本）、《삼승할망본풀이》（济州岛巫歌，讲生育神的来历）、一然《三国遗事》卷一·纪异·古朝鲜（王俭朝鲜），约1281年、李承休《帝王韵纪》卷下，1287年",
+    "en": "Cheonjiwang Bonpuri, the Jeju shamanic chant (text of the shaman Bak Bong-chun in Akamatsu Chijo and Akiba Takashi, Chosen fuzoku no kenkyu, vol. 1, 1937; several variant recitations in Hyun Yong-jun, Jeju-do Musok Jaryo Sajeon, 1980); Changsega, the Hamhung shamanic chant (recited by Kim Ssang-dori in 1923, printed in Son Chin-t'ae, Chosen Shinka Ihen, 1930); Samseung Halmang Bonpuri, a Jeju shamanic chant; Iryeon, Samguk Yusa, book 1, Giyi, Gojoseon, c. 1281; Yi Seung-hyu, Jewang Ungi, lower volume, 1287"
+  },
+  "note": {
+    "zh": "朝鲜半岛没有一部创世经典。《三国史记》《三国遗事》是王朝史，《三国遗事》的檀君条一开篇天地就已经在那里了，讲的是国家怎么建立，不是世界怎么开始。创世叙事只保存在巫觋口传的「本解」（본풀이）与巫歌里，而这些文本要到20世纪才被民俗学者记录下来：济州岛的《天地王本解》是其中最完整的一支，咸兴的《创世歌》是大陆一支。没有比这些采录本更早的写本，口传的源头无从系年。\n\n同一支巫歌，不同巫师的口述本互有出入：多余的日月是被射落还是被拆开另作他用（《创世歌》说弥勒把多余的一日一月拆成星辰，其中一个月亮做了北斗七星和南斗七星），谁开的弓，恶人수명장자那一段有没有、怎么罚，兄弟比试的项目和顺序，各本都不一致。射日射月摆在哪一步也不一样：本表跟的是天地王把弓交给两个儿子、日月当场射落的排法；另有采录本要等到小别王换花盆换来阳世、发现天上还挂着两日两月压不住，才去求哥哥，射日射月成了大别王下来收拾人间的头一件事。本表按济州本的通行顺序排，遇到分歧取多数本的说法，不在正文里假装只有一个定本。\n\n大陆《创世歌》把同一套故事换了主角：开天立地的是弥勒（미륵），他在大地四角立起铜柱；夺走人世的是释迦（석가），手段同样是趁对方睡着调换开好的花。人物换成了佛教名字，情节与济州的兄弟争世几乎重合，学界一般视为同一叙事在不同地域的层累变形。巫歌里「天开于子、地辟于丑」的干支公式也是外来的，来自中国邵雍一系的宇宙论。外壳上的层次看得见，底下那层有多老，判断不了。\n\n人的来历是个空缺：济州巫歌里天地王下凡时人已经在了，从没交代第一个人从哪来。本表这一段只好取咸兴《创世歌》的金虫银虫，并在正文中注明出处，这是跨地域的拼接，不是济州巫歌本有的内容。\n\n檀君叙事本身也有异说。《三国遗事》引《古记》，作桓雄与熊女生檀君；《帝王韵纪》引《本纪》，作桓雄让孙女服药化为人身，与檀树神成婚生下檀君，根本没有熊虎入洞、忌食艾蒜的情节。一然写「唐尧即位五十年庚寅」，又自注说唐尧即位元年是戊辰，五十年当作丁巳而非庚寅，「疑其未实」——年代在他手上就已经对不上。现在通行的公元前2333年是后世史书据干支推算的结果，《三国遗事》原文并没有这个数字。\n\n另有两支不列入本表：济州的설문대할망传说讲的是本岛地貌——她用裙兜运土堆出汉拏山，裙子破洞漏下的土成了岛上三百多座오름——属传说不属巫歌，讲的是一座岛而不是天地开辟；民谭《해와 달이 된 오누이》另讲日月的来历，与巫歌是两个系统。阴间归大别王之后，谁去拘魂，济州由另一支巫歌《차사본풀이》交代：강림차사奉命下阴间，把阎罗王请到人间，此后就当了勾人性命的差使。半岛本土另有《바리공주》，讲被弃的第七个女儿远赴西天求药救活父母、死后成为引渡亡魂的神，那是首尔与东海岸一带的巫歌，与济州不是一个系统。\n\n这些巫歌至今仍在济州的큰굿等仪式上演述，是活的仪式文本。此处只转述已公开出版的采录本。",
+    "en": "Korea has no creation scripture. The Samguk Sagi and the Samguk Yusa are dynastic histories; when the Samguk Yusa opens its Dangun entry, heaven and earth are already standing, and what follows is the founding of a state, not the beginning of a world. The creation narratives survive only in the oral chants of shamans, and those chants were not written down until folklorists recorded them in the twentieth century: the Cheonjiwang Bonpuri of Jeju Island, the fullest of them, and the Changsega of Hamhung on the mainland. Nothing older exists in writing, and the oral tradition behind them cannot be dated.\n\nRecitations differ from shaman to shaman. Whether the surplus sun and moon are shot out of the sky or taken apart and reused (in the Changsega, Mireuk breaks up the spare sun and moon and makes the stars from them, one moon becoming the Northern and Southern Dippers), which brother draws the bow, whether the episode of the wicked rich man Sumyeongjangja appears at all and how he is punished, what the brothers compete at and in what order: none of this is fixed. Where the shooting belongs in the sequence is unsettled as well. The order below is the one in which Cheonjiwang hands his sons a bow and the surplus lights come down there and then; in other recitations nothing is shot until Sobyeolwang has swapped the flower pots, taken the living world, and found that he cannot hold down a sky with two suns and two moons in it, so that the shooting becomes the first of the repairs his brother comes down to make. The sequence below follows the common Jeju order and takes the majority reading where versions disagree, rather than pretending a single authoritative text exists.\n\nThe mainland Changsega tells the same story with different actors. Mireuk, the Buddhist Maitreya, parts heaven from earth and raises copper pillars at the four corners of the world; Seokga, Shakyamuni, takes the world of the living from him by the same trick, swapping the flowers while his rival sleeps. The names are Buddhist, the plot is all but identical to the Jeju brothers', and scholars generally read them as one narrative laid down in different regions. The zi and chou formula that dates the opening of the sky in the Jeju chant is likewise imported, from the Chinese cosmology of Shao Yong's line. The outer layers are visible; how old the layer underneath them is cannot be told.\n\nHuman origins are simply missing. In the Jeju chant people are already there when Cheonjiwang comes down, and the text never says where the first ones came from. The stage below therefore borrows the gold and silver worms of the Hamhung Changsega and says so in the body text. It is a splice across regions, not something the Jeju chant contains.\n\nThe Dangun story has rival versions too. The Samguk Yusa, quoting the lost Gogi, has Hwanung father Dangun on the bear-woman. The Jewang Ungi, quoting a different lost source, has Hwanung give a drug to his granddaughter to make her human and marry her to the god of the sandalwood tree, with no bear, no tiger, no cave and no mugwort. Iryeon dates the founding to the fiftieth year of the reign of Yao, a gyeongin year, then notes himself that Yao's first year was a mujin year, which would make the fiftieth a jeongsa year and not gyeongin, and that he doubts the figure. The date of 2333 BCE now in circulation was calculated by later historians from the cycle; it is not in the Samguk Yusa.\n\nTwo other bodies of story are left out. The Jeju legend of Seolmundae Halmang explains the island rather than the cosmos: she carried earth in her skirt to heap up Mount Halla, and the soil that fell through the holes in it became the three hundred-odd volcanic cones scattered over Jeju. It is legend, not chant. The folktale of the brother and sister who became the sun and the moon is a separate tradition with its own account of the two lights. And once the world of the dead falls to Daebyeolwang, it is a further Jeju chant, the Chasa Bonpuri, that says who fetches the souls to it: Gangnim, sent below to bring King Yeomna up to the world of the living, and kept on afterwards as the officer who comes for the dying. The Bari Gongju, the chant of the cast-out seventh daughter who goes west for the medicine that revives her parents and becomes the guide of the dead, belongs to the mainland shamans of Seoul and the east coast, not to Jeju.\n\nThese chants are still recited in Jeju ritual, in the Great Gut and elsewhere. What follows is drawn only from published transcriptions."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "天地混合", "en": "Before the parting" },
+      "title": { "zh": "天和地贴在一处", "en": "Heaven and earth stuck fast" },
+      "text": {
+        "zh": "济州岛巫歌《天地王本解》从「天地混合」唱起：那时天和地贴在一处，中间没有缝，没有上下之分，日月未生，草木未长，一团漆黑。巫师在큰굿开头的初监祭上唱这一段，先把世界唱回到还没分开的那个状态，再一步步唱开。",
+        "en": "The Jeju chant Cheonjiwang Bonpuri begins with heaven and earth in one lump. Nothing separated them, there was no above and no below, no sun and no moon, nothing growing, and no light. A shaman sings this passage at the opening rite of the Great Gut, taking the world back to the state before it came apart so that it can be sung open again from the start."
+      }
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "开辟", "en": "The opening" },
+      "title": { "zh": "青露落，黑露升，三只鸡叫了", "en": "Blue dew, black dew, and three cocks crowing" },
+      "text": {
+        "zh": "巫歌把这一刻记在干支上：天的头在子的位上裂开，地的头在丑的位上裂开，裂出的缝就是天地之间。天上落下青露，地下涌出黑露，两股露水相合，万物由此生出。接着天皇鸡引颈，地皇鸡振翅，人皇鸡摆尾，三只鸡一齐啼叫，东方才透出光来。",
+        "en": "The chant fixes the moment by the sexagenary cycle: the crown of the sky split open at the branch zi, the crown of the earth at the branch chou, and the gap that opened between them was the space of the world. Blue dew came down from above and black dew rose from below, and where the two waters met, all things began. Then the cock of heaven stretched its neck, the cock of earth beat its wings, the cock of men shook its tail, the three crowed together, and light broke in the east."
+      }
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "天地王下凡", "en": "The Heavenly King comes down" },
+      "title": { "zh": "两颗葫芦籽，两个儿子", "en": "Two gourd seeds, two sons" },
+      "text": {
+        "zh": "天地已开，人间已经有人，也已经有恶人。天地王（천지왕）为惩治横行的富人수명장자而下凡，借宿在총명부인家中，与她成婚三日。临走留下两颗박씨——葫芦籽，交代说：生的若是男孩，就叫大别王、小别王。兄弟长大，被人骂作没爹的孩子，就把那两颗籽种下去；藤蔓一路爬到天上，他们顺着藤爬上去，见到了父亲。",
+        "en": "The sky is open, and people are already living under it, wicked ones among them. Cheonjiwang, the Heavenly King, comes down to punish a rich man named Sumyeongjangja, lodges in the house of a woman called Chongmyeong Buin, and stays with her three days. On leaving he hands her two gourd seeds and tells her that if she bears sons she is to call them Daebyeolwang and Sobyeolwang. The boys grow up, are taunted for having no father, and plant the seeds. The vine climbs all the way to the sky, and they climb it to reach him."
+      }
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "射日射月", "en": "Shooting down the surplus" },
+      "title": { "zh": "前头的太阳落进东海", "en": "One sun into the eastern sea, one moon into the western" },
+      "text": {
+        "zh": "那时天上挂着两个太阳、两个月亮：白天晒得人裂开，夜里冻得人僵住。天地王给了兄弟弓箭。两人张弓，把前头那个太阳射下来，掉进东海；把后头那个月亮射下来，掉进西海。剩一日一月，昼夜这才成了人过得下去的样子。",
+        "en": "Two suns hung in that sky and two moons. By day people scorched and split open, by night they froze stiff. Cheonjiwang gave his sons a bow. They shot the leading sun out of the sky and it fell into the eastern sea; they shot the trailing moon down and it fell into the western sea. One sun and one moon were left, and day and night became something a person could live through."
+      },
+      "entries": ["haewa-dal-onui"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "人的来历", "en": "Where people came from" },
+      "title": { "zh": "金虫作男，银虫作女", "en": "Gold worms into men, silver worms into women" },
+      "text": {
+        "zh": "济州巫歌不讲人是怎么来的——天地王下凡时，人已经在了。人的来历要到咸兴巫歌《创世歌》里找：弥勒一手托金盘、一手托银盘，向天祝祷，天上落下虫子来，金盘上五只，银盘上五只；金虫长成男人，银虫长成女人，配成夫妻，人从此繁衍。至于某一个孩子生不生得下来，归三神奶奶（삼신할머니）管；济州的《삼승할망본풀이》里，连谁来当这位掌生育的神，也是靠一场种花比赛定的，输的那个去管夭折的孩子。",
+        "en": "The Jeju chant never says where people came from: when Cheonjiwang descends, they are already there. For an origin one has to go to the Changsega of Hamhung, where Mireuk holds up a gold tray in one hand and a silver tray in the other and prays to the sky. Worms fall onto them, five on the gold and five on the silver. The gold worms grow into men, the silver into women, and they are paired off, and from them people multiply. Whether any particular child is born at all is the business of Samsin Halmoni; and in the Jeju chant for her, even the question of who gets to be the goddess of birth is settled by a flower-growing contest, the loser taking charge of the children who die."
+      },
+      "entries": ["samsin-halmoni"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "花的比赛", "en": "The flower contest" },
+      "title": { "zh": "小别王换了花盆", "en": "Sobyeolwang swaps the pots" },
+      "text": {
+        "zh": "兄弟要分阳世（이승）与阴间（저승）。先猜谜，小别王次次落败——他说树心实的四季不落叶、心空的才落叶，大别王反问：竹子心是空的，怎么四季常青。于是改比种花：各种一颗花籽，谁的花开得旺，谁取阳世。大别王的花繁茂，小别王的花蔫了。趁哥哥睡着，小别王把两盆花对调过来。大别王醒来什么都明白，还是把阳世让了出去。",
+        "en": "The brothers had to divide the world of the living from the world of the dead. They began with riddles, and Sobyeolwang lost every one: he claimed that trees with solid pith keep their leaves and hollow ones shed them, and his brother asked why bamboo, hollow as it is, stays green all year. So they planted a flower seed each instead, the better bloom to take the world of the living. Daebyeolwang's flower flourished and Sobyeolwang's withered, and while his brother slept Sobyeolwang exchanged the two pots. Daebyeolwang woke, understood exactly what had happened, and let the living world go."
+      }
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "阳世与阴间", "en": "The living world and the dead" },
+      "title": { "zh": "阳世多杀人、偷盗、奸淫", "en": "Why the living world came out crooked" },
+      "text": {
+        "zh": "小别王靠作弊得了阳世，阳世就照着作弊来的样子长：杀人、偷盗、谋逆、奸淫，一样不缺，他压不住。而且草木鸟兽都会说话，人和鬼混在一处分不开。他去求哥哥。大别王下来撒松皮粉，草木鸟兽的舌头就硬了，从此不再开口；又拿秤来称，过一百斤的算人，不到的算鬼，赶去阴间。人间的杀盗奸淫，他没有替弟弟收拾。大别王回阴间，在那里立下清明的法度。",
+        "en": "Sobyeolwang won the living world by cheating, and the living world grew into the shape of the thing that won it: murder, theft, treason, adultery, and he could not hold any of it down. On top of that the grass and trees and birds and beasts all talked, and the living and the dead were mixed together past telling apart. He went to beg his brother's help. Daebyeolwang came down and scattered pine-bark powder, and the tongues of the plants and animals stiffened and never spoke again; then he weighed every being on a scale, counting whatever passed a hundred geun as human and sending the rest to the world of the dead. The murder and the theft he left where they were. Then he went below and ruled there under clear law."
+      },
+      "entries": ["bari-gongju"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "开国", "en": "The founding" },
+      "title": { "zh": "桓雄降于太伯山，熊女生檀君", "en": "Hwanung comes down, and a bear becomes a woman" },
+      "text": {
+        "zh": "一然《三国遗事》引已佚的《古记》：桓因的庶子桓雄想去人间，桓因给他天符印三件（原文没说是什么东西），他带三千徒众降在太伯山顶的神坛树下，号称神市，率风伯、雨师、云师，主管谷、命、病、刑、善恶等三百六十余事。有一熊一虎同住一穴，求做人。桓雄给他们灵艾一炷、蒜二十枚，令百日不见日光。熊守到三七二十一日，得了女人的身子；虎没忍住，没能成人。熊女在坛树下祈求有孕，桓雄暂化人形与她成婚，生下檀君王俭。檀君定都平壤，国号朝鲜，后来迁到白岳山阿斯达。",
+        "en": "Iryeon's Samguk Yusa quotes a lost book called the Gogi. Hwanung, a son of Hwanin, wanted the world below; his father gave him three heavenly seals, and the text never says what they were. He came down with three thousand followers to the tree above the divine altar on the summit of Mount Taebaek, called the place the Divine City, and with the Earl of Wind, the Master of Rain and the Master of Clouds took charge of grain, of lifespan, of sickness, of punishment, of good and evil, some three hundred and sixty affairs of men. A bear and a tiger sharing a cave asked to be made human. Hwanung gave them one bundle of mugwort and twenty cloves of garlic and told them to stay out of the sunlight for a hundred days. The bear held out twenty-one days and got the body of a woman; the tiger could not and stayed a tiger. She prayed under the tree for a child, Hwanung took human shape long enough to marry her, and she bore Dangun Wanggeom, who set his capital at Pyongyang, named the country Joseon, and later moved to Asadal."
+      },
+      "entries": ["dangun", "ungnyeo", "cheonbuin", "asadal"]
+    }
+  ]
+}

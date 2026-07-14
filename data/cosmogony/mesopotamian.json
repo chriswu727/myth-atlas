@@ -1,0 +1,93 @@
+{
+  "tradition": "mesopotamian",
+  "source": {
+    "zh": "《埃努玛·埃利什》（七块泥板，现存最完整抄本出自尼尼微亚述巴尼拔图书馆）、《阿特拉哈西斯史诗》、《吉尔伽美什史诗》第十一块泥板、苏美尔语《恩基与宁玛赫》、《苏美尔王表》",
+    "en": "Enuma Elish (seven tablets; the fullest copies come from Ashurbanipal's library at Nineveh), the Epic of Atrahasis, Tablet XI of the Epic of Gilgamesh, the Sumerian Enki and Ninmah, and the Sumerian King List"
+  },
+  "note": {
+    "zh": "两河没有一部通行三千年的创世定本。苏美尔人从未写过一首完整的创世诗，只在别的诗篇序歌里顺带交代一句：天地分开之后，安带走了天，恩利尔带走了地；原初之水的母神叫南木。这里的主线用巴比伦的《埃努玛·埃利什》，它本身是政治神学——把原属恩利尔的至高神权判给巴比伦城神马尔杜克；亚述抄本再把马尔杜克整段换成阿舒尔（安沙尔），同一场屠龙换个主角照演。成篇年代无定论，学界多定在公元前第二千纪后半，而泥板并不完整，第五块（马尔杜克布置星历的一段）保存最差，只能靠零散残片拼读。造人至少有三个互不相同的版本，连材料都对不上：《埃努玛·埃利什》里马尔杜克说的是凝血结骨，埃阿用钦古一个人的血造人，全篇没提泥土；《阿特拉哈西斯》杀的是智神韦-伊拉，母神宁图把他的血肉掺进泥里，众神吐唾其上，切成十四块得七男七女；苏美尔的《恩基与宁玛赫》根本不杀神，南木叫醒沉睡的恩基，从阿普苏边上取泥捏人。血泥合用的说法要到希腊化时代贝罗索斯的转述里才成型。大洪水也不在《埃努玛·埃利什》里，属于另一条文本线（阿特拉哈西斯、吉尔伽美什第十一板、苏美尔洪水故事），主角有祖苏德拉、阿特拉哈西斯、乌特纳皮什提姆三个名字。本时间线是把这几条线索按叙事先后合成的一条复合顺序：造人之后接洪水，末尾才放巴比伦建城——而《埃努玛·埃利什》原文是造人紧接着就建巴比伦、宣五十名号收尾。",
+    "en": "Mesopotamia never had one authorised creation story. The Sumerians left no complete cosmogonic poem at all; the matter surfaces only in prologues to other works, where heaven and earth are said to have been parted, An carrying off the sky and Enlil the earth, and where Nammu is named as the primeval water who bore the gods. The spine used here is the Babylonian Enuma Elish, which is political theology as much as cosmology: it transfers the supreme kingship from Enlil to Marduk, the city god of Babylon. Assyrian copies simply substitute Ashur (Anshar) for Marduk and stage the same dragon-slaying. Its date of composition is disputed, most often placed in the later second millennium BCE, and the tablets are damaged — Tablet V, with Marduk's calendar of stars, is the worst preserved and must be pieced out of scraps. Mankind's making exists in at least three incompatible tellings, and even the raw material differs: in Enuma Elish Marduk speaks of knotting blood and making bone, Ea fashions man from the blood of Qingu alone, and clay is never mentioned; Atrahasis slaughters the intelligent god We-ila, has the mother goddess Nintu knead his flesh and blood into clay while the gods spit on it, and cuts fourteen pieces to make seven men and seven women; the Sumerian Enki and Ninmah kills nobody, Nammu waking Enki to pinch men out of clay from the edge of the Apsu. Blood mixed with earth is what Berossus reports in the Hellenistic period, not what the Babylonian poem says. The Flood belongs to a separate strand entirely (Atrahasis, Gilgamesh XI, the Sumerian flood story), and its survivor bears three names: Ziusudra, Atrahasis, Utnapishtim. The sequence below is a composite: the Flood is placed after the making of man, and Babylon's founding last, whereas Enuma Elish itself builds Babylon immediately after mankind and closes with the fifty names."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "Before the naming" },
+      "title": { "zh": "上天未名，下地未名", "en": "When heaven had not been named" },
+      "text": {
+        "zh": "史诗开篇的世界还没有名字：天没有被叫作天，地没有被叫作地。存在的只有两片水——生养万物的淡水阿普苏，和咸水的提亚马特——两水混作一体，不分彼此，无沼泽，无芦苇丛，无一寸干土。神也还没有一个被生出来，命运尚未被指定。",
+        "en": "The poem opens on a world that has not yet been named: heaven is not called heaven, earth is not called earth. There are only two waters — Apsu the fresh water, who begot them, and Tiamat the salt sea — mingled together in a single body, with no marsh, no reed bed, not a handspan of dry ground. No god has been brought into being, and no destiny has yet been fixed."
+      },
+      "entries": ["tiamat"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "诸神出世", "en": "The generations" },
+      "title": { "zh": "两水之中生出神，神吵得阿普苏睡不着", "en": "Gods born of the waters, and the noise that kept Apsu awake" },
+      "text": {
+        "zh": "两水交融，一代代神从中生出：拉赫穆与拉哈穆，接着是安沙尔与基沙尔，再是天神安努，安努又生埃阿（恩基）。小辈神祇成群结队来回冲撞，搅得提亚马特腹中不宁，喧声昼夜不停。阿普苏白天不得休息，夜里睡不成觉，与侍臣穆姆商议要把他们全灭掉；提亚马特反对，说哪有亲手毁掉自己所生之物的道理。",
+        "en": "From the mingling waters the generations come: Lahmu and Lahamu, then Anshar and Kishar, then Anu the sky, and Anu fathers Ea (Enki). The young gods band together and surge back and forth until Tiamat's belly is churning, and their uproar never stops. Apsu gets no rest by day and no sleep by night. He plots with his vizier Mummu to destroy them all, and Tiamat objects: how can they wipe out what they themselves brought forth?"
+      },
+      "entries": ["enki", "tiamat"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "诸神之战", "en": "War of the gods" },
+      "title": { "zh": "阿普苏被咒杀，提亚马特造十一怪物", "en": "Apsu is killed, Tiamat raises eleven monsters" },
+      "text": {
+        "zh": "埃阿抢先动手：他念咒使阿普苏沉睡，夺其王冠与光辉，杀之，把穆姆锁住，随后在阿普苏的尸水之上盖起自己的居所，马尔杜克就在那里出生——四只眼、四只耳，一开口喷火。安努把造出的四风交给这个孙子，风掀起浪，搅得提亚马特日夜不宁；一班老神又激她：阿普苏被杀时你坐着没动。她终于起兵，生出怒蛇、蝎人、鱼人、牛人等十一种怪物，立钦古为帅，把天命泥板系在他胸前。",
+        "en": "Ea strikes first: he chants a spell that puts Apsu to sleep, strips off his crown and his aura, kills him, binds Mummu, and builds his own dwelling on top of the dead god's water. There Marduk is born, four-eyed and four-eared, fire spilling from his lips. Anu gives his grandson the four winds he has made; they raise waves that leave Tiamat no peace, and the older gods goad her — when Apsu was killed you sat still. So she arms: she spawns eleven monsters, the venomous snake-dragon, the scorpion-man, the fish-man and the bull-man among them, makes Qingu her commander, and fastens the Tablet of Destinies on his breast."
+      },
+      "entries": ["enki", "marduk", "tiamat", "tablet-of-destinies"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "开天辟地", "en": "The splitting" },
+      "title": { "zh": "剖尸如晾鱼，一半为天，一半为地", "en": "Split like a fish for drying" },
+      "text": {
+        "zh": "埃阿与安努先后前去，都无功而返；马尔杜克在众神议会上讨到最高神权，才肯出战。他张开大网罩住四角，趁提亚马特张口吞人时把恶风灌进去，腹胀合不拢嘴，一箭射穿心脏。他踏上尸身，从钦古胸前解下天命泥板，随后把她像晾鱼一样剖成两半：一半竖起为天，插上门闩，派守卫看着，命他们不许放走她的水；另一半铺展在下，与阿普苏相对。",
+        "en": "Ea goes out against her and turns back; Anu goes and turns back. Marduk agrees to fight only once the assembly has granted him supreme kingship. He spreads a net at the four quarters, and when Tiamat gapes to swallow him he drives the evil wind into her mouth, so that her belly swells and her lips cannot close, then splits her heart with an arrow. Standing on the corpse, he takes the Tablet of Destinies off Qingu's breast, and cleaves her in two like a fish set out to dry: one half he lifts as the sky, bolted shut with guards posted to keep her waters from escaping, the other he spreads out below, facing the Apsu."
+      },
+      "entries": ["marduk", "tiamat", "tablet-of-destinies"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "世界成形", "en": "Fitting out the world" },
+      "title": { "zh": "以母亲的尸体安置星辰与河流", "en": "Stars and rivers made from a corpse" },
+      "text": {
+        "zh": "马尔杜克在天上给大神划出居所，把星宿排成他们的形象，定下一年十二个月、每月三颗星，又立起天顶的涅贝鲁星做定点，让新月出来掌夜、按日盈亏。接着他继续拆用提亚马特的躯体：唾沫成云，驱来风雨；头堆作大山，双眼凿开成底格里斯河与幼发拉底河的泉源；乳峰垒为群山，尾巴打成大结，系住苍穹。",
+        "en": "Marduk lays out stations in the sky for the great gods, sets the constellations as their images, fixes a year of twelve months with three stars to each, and pegs Neberu at the zenith as the marker that holds the rest in place. He brings out the crescent moon to rule the night and wax and wane by the day. Then he goes back to the body: her spittle becomes the clouds that carry wind and rain, her head is heaped into a mountain range, her eyes are pierced to become the springs of the Tigris and Euphrates, her udders are piled into peaks, and her tail is knotted into the great bond that ties the heavens fast."
+      },
+      "entries": ["marduk", "tiamat"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "人类诞生", "en": "The making of man" },
+      "title": { "zh": "取叛神的血造人，替神扛下苦役", "en": "Man knotted together from a rebel's blood" },
+      "text": {
+        "zh": "马尔杜克宣布要凝血结骨，造出一样叫“卢卢”的东西，把神的苦役卸到它身上。埃阿建议交出祸首；伊吉吉诸神当庭指认钦古是撺掇提亚马特开战的人，于是把他绑到埃阿面前，割断血管，埃阿用他的血造出了人——生来就替众神服役、挑土开渠。六百位神随后被分派，三百在天上，三百在地下。",
+        "en": "Marduk announces that he will knot blood together and make bone, and set up a thing called lullu to carry the drudgery of the gods. Ea proposes that the instigator be handed over; the Igigi name Qingu as the one who pushed Tiamat into war. He is bound and brought before Ea, his arteries are cut, and from his blood Ea fashions mankind — born to serve the gods, to carry the basket and dig the canals. The six hundred gods are then divided, three hundred set in heaven and three hundred below."
+      },
+      "entries": ["marduk", "enki"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "灭世之水", "en": "The Flood" },
+      "title": { "zh": "人太吵，恩利尔决定淹掉他们", "en": "Mankind was noisy, so Enlil drowned it" },
+      "text": {
+        "zh": "人繁衍开来，喧声像牛群一样传到天上，恩利尔睡不成觉。他先降瘟疫，再降旱灾与饥荒，每次都被恩基教人化解，最后索性发洪水。恩基受誓约所缚不能明说，就隔着芦苇墙自言自语：拆屋，造船，弃财，保命。风暴刮了六天七夜，众神吓得缩在天墙下；船搁在尼穆什山上，放出的乌鸦不再飞回，水才算退了。",
+        "en": "Mankind multiplies, and the din carries up like a bellowing herd until Enlil cannot sleep. He sends plague, then drought, then famine, and each time Enki teaches men how to slip out of it, so at last he calls up the Flood. Bound by his oath, Enki cannot warn anyone directly, so he talks at a reed wall: tear down the house, build a boat, abandon property, save life. The storm blows six days and seven nights and the gods themselves cower against the outer wall of heaven. The boat grounds on Mount Nimush, and only when the released raven fails to return are the waters known to have gone down."
+      },
+      "entries": ["mesopotamian-flood", "enlil", "enki", "gilgamesh"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "当世", "en": "The world as it stands" },
+      "title": { "zh": "不再灭世，改为限口；巴比伦立于天地之间", "en": "No second flood, and Babylon at the centre" },
+      "text": {
+        "zh": "洪水过后众神反悔，改用别的办法压住人口：《阿特拉哈西斯》末尾定下夭折、不育的女人和不得生育的女祭司，人从此有生有死，不再被整批抹掉。《苏美尔王表》则说洪水扫过之后，王权重新自天而降，落在基什。而在《埃努玛·埃利什》里，安努纳基抡起砖模，制砖整整一年，第二年立起埃萨吉拉的塔顶，与阿普苏比高，巴比伦就此为马尔杜克建成；宴席上众神宣读他的五十个名号——塞琉古时期的仪式抄本记着：每年新年节第四日，祭司要把这部诗从头到尾诵读一遍。",
+        "en": "After the Flood the gods relent and take up other means of holding the population down: Atrahasis ends by instituting infant mortality, barren women, and classes of priestess forbidden to bear, so that people now die piecemeal instead of being wiped out together. The Sumerian King List says that once the Flood had swept over, kingship descended from heaven a second time and came to rest at Kish. In Enuma Elish the Anunnaki take up the brick mould and make bricks for a full year; in the second they raise the head of Esagila to match the Apsu, and Babylon stands for Marduk, whose fifty names are proclaimed at the banquet. A Seleucid ritual text records the sequel: on the fourth day of the new year festival the priest recites the whole poem, start to finish."
+      },
+      "entries": ["marduk", "enlil", "mesopotamian-flood"]
+    }
+  ]
+}

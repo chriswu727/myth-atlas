@@ -61,6 +61,9 @@ export default async function LocaleLayout({
             <Link href={`/${locale}/dex`} className="text-vellum-dim transition-colors hover:text-brass">
               {dict.nav.dex[locale]}
             </Link>
+            <Link href={`/${locale}/cosmogony`} className="text-vellum-dim transition-colors hover:text-brass">
+              {dict.nav.cosmogony[locale]}
+            </Link>
             <Link href={`/${locale}/about`} className="text-vellum-dim transition-colors hover:text-brass">
               {dict.nav.about[locale]}
             </Link>

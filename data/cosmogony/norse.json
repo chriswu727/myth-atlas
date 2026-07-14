@@ -1,0 +1,91 @@
+{
+  "tradition": "norse",
+  "source": {
+    "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》（约1220年）；《诗体埃达》之《女占卜者的预言》《瓦弗鲁德尼尔之歌》《格里姆尼尔之歌》",
+    "en": "Snorri Sturluson, Prose Edda: Gylfaginning (c. 1220); Poetic Edda: Völuspá, Vafþrúðnismál, Grímnismál"
+  },
+  "note": {
+    "zh": "北欧没有异教时代留下的创世定本。现存材料全部写于冰岛皈依基督教两个多世纪之后：《散文埃达》约1220年由基督徒政治家斯诺里·斯图鲁松编成，给学写诗的人当参考书；《诗体埃达》主抄本《王室手稿》约1270年。这条时间线的连贯顺序是斯诺里排的，不少环节只有他一家之言——母牛奥德姆布拉舔盐石舔出布里，不见于任何一首埃达诗歌。造人一节两版互斥：《女占卜者的预言》第17—18节里动手的是奥丁、海尼尔与洛都尔，三神给这对「无能、无命运」的木头的是气息、心智、血色与好容貌；斯诺里说是包尔的三个儿子奥丁、威利、维，给的是生命、心智与行动、面容语言听觉视觉。正文用的是斯诺里那一份。尤弥尔在《瓦弗鲁德尼尔之歌》里叫奥尔盖尔米尔；贝格尔米尔逃生所乘的 lúðr，斯诺里读作船，词本身更像是磨盘箱。《女占卜者的预言》另有《豪克之书》抄本，与《王室手稿》在节序和内容上出入不小：结尾那座立在吉姆勒（Gimlé）的黄金厅堂，以及只见于《豪克之书》的「自上而来的强者」一节，是否受基督教影响，学界至今无定论。正文按斯诺里的顺序排，冲突处直接点出。",
+    "en": "No pagan-age account of Norse creation survives. Everything we have was written in Iceland more than two centuries after the conversion: the Prose Edda was compiled around 1220 by Snorri Sturluson, a Christian chieftain, as a handbook for poets, and the main Poetic Edda manuscript (Codex Regius) dates to about 1270. The connected sequence below is Snorri's; several links in it are attested nowhere else, including the cow Auðumbla licking Búri out of the salt-rime, which appears in no eddic poem. The two accounts of the first humans contradict each other: in Völuspá 17-18 the three gods are Óðinn, Hœnir and Lóðurr, and the gifts they give the pair, who are 'of little strength, without fate', are breath, mind, and blood and good colour; in Snorri they are Borr's sons Óðinn, Vili and Vé, and the gifts are life, wit and movement, and face, speech, hearing and sight. The stage below follows Snorri. Ymir is called Aurgelmir in Vafþrúðnismál, and the lúðr on which Bergelmir escapes is read as a boat by Snorri though the word looks more like a mill-box. Völuspá itself survives in two versions (Codex Regius and Hauksbók) that differ in order and wording: whether the closing hall of gold at Gimlé, and the stanza about 'the mighty one who comes from above' that is preserved only in Hauksbók, reflect Christian influence is still unsettled. Conflicts are flagged in the stages where they come up."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "In the beginning" },
+      "title": { "zh": "金伦加鸿沟", "en": "Ginnungagap, the yawning void" },
+      "text": {
+        "zh": "起初只有金伦加鸿沟，一道什么都没有的大裂口。北边是尼夫尔海姆，冰雾之地，泉眼赫瓦格密尔涌出十一条河，合称埃利瓦加尔；河水带的毒液凝成渣，渣结成冰，一层压一层填进鸿沟。南边是穆斯贝尔海姆，火光炽烈，边界上坐着持火剑的苏尔特，火星不断飞出。冰与热风在鸿沟中间相遇，冰开始融化滴水。",
+        "en": "First there was only Ginnungagap, a gaping emptiness. To the north lay Niflheim, where the spring Hvergelmir sent out eleven rivers, the Élivágar; the venom they carried hardened like slag, the slag froze, and layer on layer of rime pressed into the void. To the south lay Muspellheim, so hot that no stranger could stand it, with Surtr sitting at its border holding a flaming sword and sparks flying out of it. Where the rime met the warm blast, it began to thaw and drip."
+      }
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "最初的生命", "en": "The first living things" },
+      "title": { "zh": "尤弥尔与母牛奥德姆布拉", "en": "Ymir and the cow Auðumbla" },
+      "text": {
+        "zh": "融冰的水滴被热气激活，长成巨人尤弥尔（斯诺里说霜巨人管他叫奥尔盖尔米尔；《瓦弗鲁德尼尔之歌》里从埃利瓦加尔的水滴中生出的巨人就叫这个名字）。他睡着出汗，左腋下长出一男一女，两条腿彼此生子，霜巨人一族由此而来。同一批冰又化出母牛奥德姆布拉，四道乳河喂养尤弥尔；她舔咸味的盐霜石，第一天舔出人的头发，第二天舔出头，第三天整个人出来了——布里。布里生包尔，包尔娶巨人博尔索恩之女贝斯特拉，生下奥丁、威利、维。",
+        "en": "The drops of melting rime quickened into a giant, Ymir. Snorri says the frost-giants call him Aurgelmir, which is the name Vafþrúðnismál gives to the giant who grew out of the drops of the Élivágar. He sweated in his sleep: a man and a woman grew under his left arm, and one of his legs fathered a son on the other, which is where the frost-giants come from. The same thaw produced a cow, Auðumbla, whose four rivers of milk fed Ymir. She licked the salty rime-stones, and on the first day a man's hair came out of the stone, on the second a head, on the third the whole man: Búri. Búri's son Borr married Bestla, daughter of the giant Bölþorn, and they had three sons: Óðinn, Vili and Vé."
+      },
+      "entries": ["odin"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "弑巨人", "en": "The slaying" },
+      "title": { "zh": "以尸体造世界", "en": "A world cut out of a corpse" },
+      "text": {
+        "zh": "包尔的三个儿子杀了尤弥尔。伤口涌出的血淹死了所有霜巨人，只有贝格尔米尔带着家眷爬上一具 lúðr 逃掉（斯诺里当船讲）。三兄弟把尸体拖进金伦加鸿沟正中：肉成大地，血成海洋，骨成群山，牙齿和碎骨成岩石砂砾，头发成树木。尸肉里生出的蛆虫被诸神赐予人形与心智，成了住在土石中的矮人。",
+        "en": "Borr's sons killed Ymir. So much blood ran from the wounds that it drowned every frost-giant but Bergelmir, who got away with his household on a lúðr, a word Snorri takes to mean a boat. The brothers dragged the body into the middle of Ginnungagap and cut the world out of it: the flesh became the earth, the blood the sea, the bones the mountains, the teeth and splintered bones the rocks and scree, and the hair the trees. Maggots that had bred in the flesh were given human shape and wits by the gods, and became the dwarfs who live in stone and soil."
+      },
+      "entries": ["odin"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "立天定时", "en": "Sky and time" },
+      "title": { "zh": "头骨为天，火星为星辰", "en": "The skull raised, the sparks set" },
+      "text": {
+        "zh": "尤弥尔的头骨被举起来做天穹，四角各安一个矮人扛着：北方、南方、东方、西方。脑浆抛上去变成云。诸神从穆斯贝尔捞来火星，钉在天上做日月星辰。《女占卜者的预言》说，太阳原本不知道自己的居所在哪，星辰不知道自己的位置，月亮不知道自己有多大力气；诸神坐上审判座，给夜与月相、给早晨中午下午黄昏一一定名，年份才能计数。夜与昼各驾一马：赫里姆法克西的嚼子上滴下露水，斯金法克西的鬃毛照亮大地。",
+        "en": "Ymir's skull was lifted up to make the sky, with a dwarf set under each of its four corners: Norðri, Suðri, Austri, Vestri. His brains were flung up as clouds. The gods fetched sparks out of Muspell and fixed them overhead as sun, moon and stars. In Völuspá the sun did not yet know where her hall was, the stars did not know their places, the moon did not know his own strength; so the gods took their judgement seats and gave names to night and to the phases of the moon, to morning and midday and afternoon and evening, so that years could be counted. Night and Day each drive a horse: rime drips from Hrímfaxi's bit, and Skinfaxi's mane lights the earth."
+      }
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "造人", "en": "The first humans" },
+      "title": { "zh": "岸上的梣木与榆木", "en": "Ask and Embla on the shore" },
+      "text": {
+        "zh": "包尔的三个儿子沿着海边走，捡到两根木头，把它们做成了人：一位给了呼吸与生命，一位给了心智与行动，一位给了面容、语言、听觉与视觉。男的叫阿斯克（梣木），女的叫恩布拉（词源不定，通常释作榆木，也有人读成藤）。诸神拿尤弥尔的眉毛在大地中央围出一圈壁垒护着他们，这就是米德加德。《女占卜者的预言》里动手的是奥丁、海尼尔、洛都尔，给的礼物也是另一份：气息、心智、血色与好容貌。",
+        "en": "Borr's three sons, walking along the sea-shore, found two trees and made people of them: one gave breath and life, one gave wit and movement, one gave face, speech, hearing and sight. The man was called Ask, the ash tree; the woman Embla, usually read as elm, though the etymology is contested and some read it as vine. The gods fenced a stronghold for them in the middle of the earth out of Ymir's eyebrows, and that is Midgard. Völuspá gives the three gods as Óðinn, Hœnir and Lóðurr, and a different set of gifts: breath, mind, and blood and good colour."
+      },
+      "entries": ["odin"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "诸神立世", "en": "The gods settle in" },
+      "title": { "zh": "世界之树与用完的黄金", "en": "Yggdrasil, and the gold that ran out" },
+      "text": {
+        "zh": "诸神在伊达瓦尔平原立起祭坛与殿堂，锻造器物，在草地上下棋，金子多到用不完——直到三个巨人族的女子从约顿海姆来，黄金时代就结束了。世界之树尤克特拉希尔贯穿一切：一根树根通往乌尔德之泉，诸神每天骑马过彩虹桥比弗罗斯特去那里开庭，诺伦三姐妹在泉边往木片上刻下每个人的命；另一根根下有尼德霍格啃咬。没有任何一段文献交代过这棵树是谁种的——《女占卜者的预言》第2节里，女占卜者说她记得大地之下的九个世界和那棵量度之树，它比造世更早。九个世界被数过，但古典文献从未开列名单，今天流行的那份九界清单是后人拼的。",
+        "en": "On the plain of Iðavöllr the gods raised altars and temples, forged tools and treasures, played board games in the meadow and had gold to spare, until three giant-maidens came out of Jötunheim and that ease was over. The ash Yggdrasil holds everything together: one root reaches the well of Urðr, where the gods ride over the bridge Bifröst each day to hold court and where the three Norns carve the fate of every person into wood, while under another root the dragon Níðhöggr gnaws. No source says who planted the tree. In Völuspá the seeress remembers nine worlds and the measuring-tree below the earth as things older than the gods' work, and although the nine are counted, no medieval text ever lists them; the tidy list of nine realms in circulation today is a modern reconstruction."
+      },
+      "entries": ["yggdrasil", "norns"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "诸神黄昏", "en": "Ragnarök" },
+      "title": { "zh": "芬布尔之冬与苏尔特之火", "en": "The Fimbulwinter and Surtr's fire" },
+      "text": {
+        "zh": "先是芬布尔之冬：三个冬天连着来，中间没有夏天，兄弟互相残杀。狼追上太阳吞掉，星辰从天上坠落，尤克特拉希尔全身发抖。芬里尔挣断锁链，耶梦加得从海里上岸喷毒，用死人指甲造的船纳吉尔法脱缆漂起。苏尔特带着比太阳还亮的剑从南方杀来，穆斯贝尔之子踏碎比弗罗斯特。海姆达尔吹响加拉尔号角。奥丁被芬里尔吞下，维达尔踩住狼的下颚把它撕开；托尔打死耶梦加得，走出九步，中毒倒地。苏尔特把火撒遍世界，大地沉入海中。",
+        "en": "First comes the Fimbulwinter: three winters running with no summer between them, and brothers killing each other for nothing. The wolf catches the sun and swallows her, the stars fall out of the sky, and Yggdrasil shakes from root to crown. Fenrir snaps his fetter, Jörmungandr comes ashore spitting venom, and Naglfar, the ship built from dead men's nails, works loose from its moorings. Surtr rides up from the south with a sword brighter than the sun and Muspell's sons break Bifröst under their hooves. Heimdall blows the Gjallarhorn. Fenrir swallows Óðinn, and Víðarr sets a foot on the wolf's lower jaw and tears him apart; Thor kills the serpent, walks nine paces, and drops dead of its poison. Surtr flings fire over everything and the earth sinks into the sea."
+      },
+      "entries": ["ragnarok", "fenrir", "jormungandr", "thor", "heimdall"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "新世界", "en": "Afterwards" },
+      "title": { "zh": "大地重新浮出海面", "en": "Green earth comes up out of the sea" },
+      "text": {
+        "zh": "大地会再一次从海里升起来，绿得发亮，瀑布上有鹰在捕鱼，没人播种的田地自己长出庄稼。活下来的神——维达尔、瓦利，还有拿着妙尔尼尔的莫迪与马格尼——在伊达瓦尔重聚，巴德尔与霍德尔从冥界回来，他们在草里找到当年那副金棋子。人类也没绝：利弗与利弗诗拉希尔藏在霍德密米尔的树林里，靠晨露活过了火，人从这两个人重新繁衍。太阳在被吞之前生的女儿，接着走母亲的路。《女占卜者的预言》最后写到一座比太阳还亮、黄金铺顶的厅堂立在吉姆勒，也写到尼德霍格羽翼间挟着尸体飞过原野——两个抄本在这里出入很大。",
+        "en": "The earth comes up out of the sea a second time, green, with an eagle fishing over the falls and grain growing in fields nobody sowed. The surviving gods gather again at Iðavöllr: Víðarr and Váli, and Móði and Magni carrying Mjölnir, and Baldr and Höðr come back from the dead, and in the grass they find the golden gaming pieces they once played with. People survive too. Líf and Lífthrasir hid in the wood of Hoddmímir and lived on the morning dew, and mankind descends again from those two, while the daughter the sun bore before the wolf took her runs her mother's course. Völuspá ends with a hall thatched with gold at Gimlé, brighter than the sun, and also with Níðhöggr flying over the plain with corpses in his feathers; the two manuscripts differ sharply here."
+      },
+      "entries": ["ragnarok", "baldr"]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "tradition": "persian",
+  "source": {
+    "zh": "《本达希申》（大本达希申，9–10 世纪中古波斯语）、《扎德斯普拉姆选集》、《登卡尔特》；《阿维斯陀》中的《耶斯纳》第 30 章与《提什塔尔耶什特》（Yasht 8）",
+    "en": "Bundahishn (Greater/Iranian recension, 9th–10th c. Middle Persian); Wizidagiha i Zadspram; Denkard; Avesta: Yasna 30 and the Tishtar Yasht (Yasht 8)"
+  },
+  "note": {
+    "zh": "《阿维斯陀》本身只有零散的创世暗示：《耶斯纳》30 章讲两个原初灵的抉择，《提什塔尔耶什特》讲降雨，专讲创世的那一卷 Damdad Nask 已经失传。下面这条完整时间线来自 9–10 世纪伊斯兰时期编成的中古波斯语教典《本达希申》，并参照《扎德斯普拉姆选集》与《登卡尔特》，比迦泰晚了一千多年；其中哪些是古老传承、哪些是晚期祭司的系统化整理，学界至今有争论。《本达希申》还有两个传本：篇幅长的伊朗（大）传本与较短的印度传本，章节次序与细节不一致。时间框架各文本不一：《本达希申》里两灵约定的战期是九千年，另有把总期算作一万二千年的说法，《扎德斯普拉姆》《登卡尔特》与《本达希申》的年数也对不齐。此处按九千年一套排——头三千年是灵体创造、阿赫里曼昏迷的三千年，中间三千年从入侵到琐罗亚斯德，最后三千年到世界更新。另有「祖尔万派」版本，把奥尔马兹德与阿赫里曼说成时间之神祖尔万的一对孪生子，这一版主要靠亚美尼亚的埃兹尼克（5 世纪）等外部论敌的转述留存，现存《本达希申》并不这样讲，反而说有限的时间是奥尔马兹德所造。菲尔多西《列王纪》（约 1010 年）把 Gayomard 写成穿豹皮的第一位国王凯尤玛尔斯，那是史诗的人间化改写，不属于这里采用的祭司文本。",
+    "en": "The Avesta itself preserves only scattered pieces of a cosmogony — the choice of the two primal spirits in Yasna 30, the rain-making of Tishtrya in Yasht 8 — and the one nask devoted to creation, the Damdad, is lost. The connected narrative below comes from the Bundahishn, a Middle Persian priestly compilation of the 9th–10th centuries CE, together with Zadspram and the Denkard: more than a millennium later than the Gathas, and scholars still disagree over how much of it is old tradition and how much is late systematization. The Bundahishn survives in two recensions, the longer Iranian one and a shorter Indian one, which differ in order and detail. The chronology differs between texts as well: the pact in the Bundahishn runs to nine thousand years, other reckonings give a twelve-thousand-year total, and Bundahishn, Zadspram and the Denkard do not agree on the numbers. The scheme used here is the nine-thousand one — three thousand years of spiritual creation while Ahriman lies stunned, three thousand from the Assault to Zarathustra, three thousand more to the Renewal. A separate Zurvanite version makes Ohrmazd and Ahriman twin sons of Zurvan, Time; it is known mainly from hostile outsiders such as the Armenian Eznik of Kolb (5th c.), and the surviving Bundahishn does not tell it that way — there, bounded time is something Ohrmazd creates. Ferdowsi's Shahnameh (c. 1010) turns Gayomard into Kayumars, a first king in leopard skins, which is epic rewriting rather than the priestly account used here."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初", "en": "Before time" },
+      "title": { "zh": "无限光明与无限黑暗", "en": "Endless light, endless darkness" },
+      "text": {
+        "zh": "奥尔马兹德（阿胡拉·马兹达）住在上方的无限光明里，全知而全善；阿赫里曼（安格拉·曼纽）住在下方的无限黑暗深渊，只有毁坏的欲望，起初根本不知道有光这回事。两者之间隔着空虚。阿赫里曼升到边界，看见了光，扑上去要把它毁掉。奥尔马兹德先提议休战，被拒绝，转而提出把厮杀限定在九千年之内；阿赫里曼看不到这九千年的尽头，答应了这个约定。奥尔马兹德随即从无限的时间里划出有限的时间，又诵出阿胡纳·瓦伊里亚祷文，让阿赫里曼看见自己在九千年尽头的败相——他跌回黑暗，三千年爬不起来。",
+        "en": "Ohrmazd dwelt on high in endless light, all-knowing and wholly good. Ahriman lay below in the abyss of endless darkness, knowing nothing but the wish to wreck, and at first unaware that light existed at all. Between the two was the Void. Ahriman rose to the boundary, saw the light, and rushed at it. Ohrmazd offered a truce and was refused, then proposed instead that the fighting be held to nine thousand years — and Ahriman, unable to see as far as the end of them, agreed to the pact. Ohrmazd cut bounded time out of infinite time and recited the Ahunwar prayer, which showed the Evil Spirit his own defeat at the close of the term. He fell back into the dark and lay stunned there for three thousand years."
+      },
+      "entries": ["ahura-mazda", "angra-mainyu"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "灵体之创", "en": "The menog creation" },
+      "title": { "zh": "先造无形，再造有形", "en": "Spirit first, body after" },
+      "text": {
+        "zh": "奥尔马兹德先把万物造成 menog（灵体）状态：无形、不动、摸不着，像一份还没落到地上的图样，这样过了三千年。六位阿姆沙斯潘德（阿梅沙·斯彭塔，不朽圣灵）里最先造出的是沃胡曼（善念），此后是其余五位，每位分管一样创造——沃胡曼管牲畜，阿尔达瓦希什特管火，沙赫雷瓦尔管天，斯潘达尔马德管地，霍尔达德管水，阿姆尔达德管植物；人归奥尔马兹德自己看顾。黑暗里的阿赫里曼一样一样地对着造：善念对面立起恶念阿科曼，此后每一样好东西都有一个魔在等它。",
+        "en": "Ohrmazd made his creation first in the menog state: bodiless, unmoving, not to be touched, a design not yet set down. This lasted three thousand years. Of the six Amahraspands, the Bounteous Immortals, Wahman — Good Mind — was made first, and each of the six was set over one creation: Wahman over cattle, Ardwahisht over fire, Shahrewar over the sky, Spandarmad over the earth, Hordad over water, Amurdad over plants. Man was Ohrmazd's own charge. In the darkness Ahriman answered each of them with a counter-creation, setting Evil Mind, Akoman, against Good Mind, so that every good thing had an adversary already waiting for it."
+      },
+      "entries": ["ahura-mazda", "angra-mainyu", "div"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "物质之创", "en": "The getig creation" },
+      "title": { "zh": "天如卵壳，地如卵黄", "en": "The sky a shell, the earth a yolk" },
+      "text": {
+        "zh": "三千年后，奥尔马兹德把灵体转成 getig（物质），造出摸得着的世界。天先成形，是一层坚硬明亮的金属，合拢起来像蛋壳，把一切裹在里面；水在壳内，大地平摊在水中央，像蛋黄。接着是一株植物、一头「独造之牛」、一个原初人迦约马特（Gayomard）：牛白得像月光，人亮得像日光，分立在韦赫·达伊提河（Weh-Daiti）两岸。火没有单独的位置，它贯穿在这六样创造里。此时世界还不走动，太阳停在正午的位置上。",
+        "en": "After three thousand years Ohrmazd turned the design into getig, matter that can be handled. The sky was made first, a hard shell of shining metal closed around everything like an eggshell; water lay inside it, and the earth spread flat in the middle like the yolk. Then came a single plant, a sole-created bull, and one man, Gayomard — the bull white as moonlight, the man bright as the sun, standing on opposite banks of the river Weh-Daiti. Fire was not put in any one place but ran through all six creations. Nothing yet moved: the sun stood still at noon."
+      },
+      "entries": ["ahura-mazda"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "入侵", "en": "The Assault" },
+      "title": { "zh": "阿赫里曼破天而入", "en": "Ahriman breaks in through the sky" },
+      "text": {
+        "zh": "阿赫里曼醒来，化成蛇形，在正午撞破天壳闯进物质世界。他把水弄咸，把蛇、蜥蜴、蝎子这类「有害之物」（xrafstar）撒满地面，让那株植物枯死，往火里掺烟，带来疾病和死亡。独造之牛当场倒毙；迦约马特被病与死缠上，又撑了三十年才死。日月星辰从这一刻起才开始转动。天壳在他身后重新合上：物质世界本就是照着陷阱造的，他进得来出不去。世界从此进入「混合」（gumezishn），善与恶搅在同一个世界里，不再各占一方。",
+        "en": "Ahriman woke, took the shape of a snake, and at midday burst through the sky into the material world. He turned the water salt, spread noxious vermin — snakes, lizards, scorpions — across the ground, withered the one plant, put smoke into the fire, and brought sickness and death. The sole-created bull went down at once; Gayomard, struck with sickness, lived on another thirty years before he died. Only from that moment did sun, moon and stars begin to move. Behind him the shell of the sky closed again: the material world had been built as a trap, and what got in could not get out. So began the age of Mixture, gumezishn, good and evil tangled together in one world instead of holding separate realms."
+      },
+      "entries": ["angra-mainyu", "div"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "反击", "en": "The counterattack" },
+      "title": { "zh": "提什塔尔降雨，山与海成形", "en": "Tishtar's rain makes the seas and the mountains" },
+      "text": {
+        "zh": "奥尔马兹德一方的反击是接着往下造。星神提什塔尔先后化成十五岁的少年、金角公牛、金耳白马，降雨三十昼夜，雨点大得像碗，水淹到一人多深，把毒虫泡死；风把水推向四边，聚成弗拉赫卡尔特大海（即《阿维斯陀》里的沃鲁卡沙）。大地被撞得起伏，长出群山：阿尔布尔兹山花了八百年长到无限光明处，别的山从它身上生出来。地面裂成七块「基什瓦尔」，人住的那一块叫赫瓦尼拉斯，居中而最大。阿姆尔达德把枯死的那株植物捣碎，混进提什塔尔的雨水里撒下去，草木才长满地面。",
+        "en": "Ohrmazd's side answered the assault by going on with the creating. Tishtar, the rain star, took three shapes in turn — a youth of fifteen, a bull with golden horns, a white stallion with golden ears — and made rain fall for thirty days and nights, drops the size of a bowl, until water stood deeper than a man and drowned the vermin. Wind drove the water to the edges, where it gathered into the sea Frakhkard, the Vourukasha of the Avesta. The buckled ground threw up mountains: Alborz took eight hundred years to reach the endless light, and the other ranges grew out of it. The earth broke into seven kishwars, the middle and largest being Khwanirah, where people live. Amurdad ground the dead plant to pieces, mixed it into Tishtar's rain, and from that seed every herb and tree came up."
+      },
+      "entries": ["anahita"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "物种与人的由来", "en": "Where the species and men came from" },
+      "title": { "zh": "从死者身上长出谷物、走兽与人", "en": "Grain, beasts and men grow out of the dead" },
+      "text": {
+        "zh": "独造之牛死时，从它的肢体长出五十五种谷物和十二种药草；它的精种被送上月亮洗净，从中生出成对的走兽，最先是一公一母两头牛。迦约马特死时，身体化成八种金属，金子出自他的精种；精种落进大地斯潘达尔马德，被日光净化四十年，长出一株大黄，一条茎、十五片叶。这株大黄化成马夏与马夏娜，两人合抱在一起，分不出谁是男谁是女。奥尔马兹德给了他们魂，叫他们思善、言善、行善。他们最先说的是水、地、草木、牲畜都出自奥尔马兹德；随后恶念钻进心里，两人改口说「水和地是阿赫里曼造的」——这是人说出的第一句谎话，人从此被污染。",
+        "en": "When the sole-created bull died, fifty-five kinds of grain and twelve kinds of healing plant grew out of its limbs; its seed was carried up to the moon, cleansed in the moonlight, and from it the animals came in pairs, a bull and a cow first. When Gayomard died, his body turned into eight metals, the gold coming from his seed. That seed fell into Spandarmad, the earth, lay forty years purified by sunlight, and came up as a rhubarb plant with one stem and fifteen leaves. The plant grew into Mashya and Mashyana, so closely joined that no one could tell which was the man and which the woman. Ohrmazd gave them souls and told them to think good, speak good and do good. Their first words gave the water, the earth, the plants and the cattle to Ohrmazd; then the Lie got into their minds and they said instead that Ahriman had made the water and the earth. That was the first falsehood men spoke, and they were tainted from it on."
+      },
+      "entries": ["ahura-mazda", "angra-mainyu"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "混合与更新", "en": "Mixture and Renewal" },
+      "title": { "zh": "熔铁之河与弗拉肖克雷提", "en": "The river of molten metal, and the Frashokereti" },
+      "text": {
+        "zh": "现在的世界还在「混合」里。战期的最后三千年从琐罗亚斯德受启示算起，每满一千年出一位救世主，都由在卡扬希湖中沐浴的处女所生，琐罗亚斯德的精种就存在那片湖水里。最后一位索什扬斯到来时，死者复活：骨从地里要回来，血从水里要回来，毛发从植物要回来，气息从风里要回来，跟最初给的一样。群山熔成一条金属之河，所有人都要趟过去，义人觉得像温热的牛奶，恶人觉得像烧红的铁水，出来时人人干净。熔铁灌进地狱，阿赫里曼从他当初撞开的那个口子被赶回黑暗，世界不再老、不再死、不再腐坏——这就是「弗拉肖克雷提」，世界的更新。",
+        "en": "The present world is still in the Mixture. The last three thousand years of the war begin with Zarathustra's revelation, and at each thousand-year mark a savior is born to a virgin who bathes in Lake Kayansih, where his seed is kept. When the last of them, Soshyans, comes, the dead are raised: bone called back from the earth, blood from the water, hair from the plants, breath from the wind, exactly as they were first given. The mountains melt into a river of metal and everyone wades through it — to the righteous it feels like warm milk, to the wicked like liquid iron — and all come out clean. The metal pours down into hell, Ahriman is driven back into the dark through the same hole he first broke in the sky, and the world is made ageless, deathless and unrotting: the Frashokereti, the Renewal."
+      },
+      "entries": ["chinvat-bridge", "ahura-mazda", "angra-mainyu"]
+    }
+  ]
+}

@@ -9,6 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const locale of LOCALES) {
     urls.push({ url: `${BASE}/${locale}`, changeFrequency: "weekly", priority: 1 });
     urls.push({ url: `${BASE}/${locale}/dex`, changeFrequency: "weekly", priority: 0.9 });
+    urls.push({ url: `${BASE}/${locale}/cosmogony`, changeFrequency: "weekly", priority: 0.8 });
     urls.push({ url: `${BASE}/${locale}/about`, changeFrequency: "monthly", priority: 0.3 });
     for (const t of getTraditions()) {
       urls.push({ url: `${BASE}/${locale}/tradition/${t.id}`, changeFrequency: "weekly", priority: 0.7 });

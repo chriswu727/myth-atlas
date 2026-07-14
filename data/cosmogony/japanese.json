@@ -1,0 +1,83 @@
+{
+  "tradition": "japanese",
+  "source": {
+    "zh": "《古事记》（712，太安万侣撰录）、《日本书纪》（720）、《出云国风土记》（733）",
+    "en": "Kojiki (Records of Ancient Matters, 712, compiled by O no Yasumaro), Nihon Shoki (Chronicles of Japan, 720), Izumo no Kuni Fudoki (733)"
+  },
+  "note": {
+    "zh": "日本没有一部单独的创世书。这条时间线的主线取《古事记》，因为它把神代讲成一条连贯的故事；但必须说清楚，同一批神话在《日本书纪》里长得很不一样。两书成书只差八年，开篇就分道：《古事记》从高天原的三柱造化神起手，《日本书纪》正文却从「浑沌如鸡子」写起，用的是汉籍宇宙论的现成句式，最先出场的神是国常立尊，天之御中主在正文里根本不露面。更要紧的是，《日本书纪》正文里伊邪那美并没有产火神而死，天照、月读、蛭儿、素戋呜是伊邪那岐与伊邪那美夫妇所生；火神之死、黄泉之行、洗眼生三贵子，都只见于正文后并列的「一书曰」异传。《日本书纪》的编法就是把互相打架的说法一条条排在一起，不作调停，也不删。此外：两书都没有造人叙事。人第一次露面是在黄泉比良坂——伊邪那岐给桃子赐名，嘱它去救苇原中国那些落难的「青人草」，人已经在那里了，没有谁造过他们。两书讲的只是「为什么会死」：伊邪那美的绝婚誓解释人为什么有死，石长比卖被退回解释的则是天皇为什么不长寿。最后，这套叙事是八世纪朝廷主持编成的，终点落在天孙降临与神武东征，为大和王权接上天照的血脉；出云一系（大国主、国譲り）是被并进来的地方传统，而《出云国风土记》自己记的开辟故事是「国引き」——八束水臣津野命用绳子从海对面拉来多余的土地缝在出云上——这故事《古事记》《日本书纪》一个字都没有。",
+    "en": "Japan has no single book of creation. This timeline follows the Kojiki, which tells the age of the gods as one continuous story, but the same material looks very different in the Nihon Shoki, compiled only eight years later. They part company in their first lines: the Kojiki begins with three creator deities in Takamagahara, while the Nihon Shoki opens with chaos like a hen's egg in borrowed Chinese cosmological phrasing and names Kuni-no-Tokotachi as the first deity. More seriously, in the main text of the Nihon Shoki Izanami never dies giving birth to fire: Amaterasu, Tsukuyomi, Hiruko and Susanoo are simply the children of Izanagi and Izanami as a couple. The fire god's birth, the descent to Yomi, and the three noble children born from washed eyes and nose appear only in the alternate accounts, each headed 'in one writing', that the Nihon Shoki lists after its main text without reconciling them or dropping any. Neither text contains a creation of human beings. People first appear at the Even Pass of Yomi, where Izanagi names the peaches and tells them to help the 'green human grass' of the Reed Plain when it is in distress: humanity is already there, unmade. What the texts do explain is why life is short: Izanami's parting vow accounts for human death, and the sending back of Iwanaga-hime accounts for the short lives of the emperors. Finally, both works were compiled at court, and the sequence they build ends by grounding the Yamato line in descent from Amaterasu. The Izumo cycle is absorbed regional tradition, and Izumo's own gazetteer of 733 preserves a different founding myth entirely, the land-pulling of Yatsukamizu-omitsuno, who hauls surplus land across the sea with ropes and stitches it onto Izumo. Neither the Kojiki nor the Nihon Shoki mentions it."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "天地初发", "en": "When heaven and earth began" },
+      "title": { "zh": "天地已经分开了，没人说是谁分的", "en": "Heaven and earth are already apart" },
+      "text": {
+        "zh": "《古事记》开篇只有「天地初発之時」六个字，天和地已经是两样东西了，怎么分开的、谁分的，一句不提。《日本书纪》正文另起一头：天地未剖，阴阳不分，浑沌如鸡子，其中清而轻的上浮为天，重而浊的滞积为地——这套写法是从汉籍宇宙论借来的现成话。开天辟地这个动作，两书都没有人做。",
+        "en": "The Kojiki opens with six characters and no explanation: at the time when heaven and earth first appeared. They are already two separate things; nobody is said to have parted them. The Nihon Shoki starts from somewhere else entirely, with heaven and earth unhewn, yin and yang undivided, chaos like a hen's egg, the clear and light drifting up to become heaven and the heavy and turbid settling into earth, a formula taken ready-made from Chinese cosmological writing. In neither text does anyone perform the act of splitting."
+      },
+      "entries": []
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "神代", "en": "The age of the gods" },
+      "title": { "zh": "五柱别天神成而隐身", "en": "Five deities appear and hide their bodies" },
+      "text": {
+        "zh": "高天原上先成三柱神：天之御中主神、高御产巢日神、神产巢日神。三柱都是「独神」，没有配偶，成形之后随即隐去身形，不生子嗣，也不再管事。接着出宇摩志阿斯诃备比古迟神与天之常立神，五柱合称别天津神。此后是神世七代，先出两柱独神，再出五对男女神，最后一代是伊邪那岐与伊邪那美——七代里唯一交合生育、留下子嗣的一对。故事要到他们手里才动起来。",
+        "en": "Three deities come into being in Takamagahara: Ame-no-Minakanushi, Takamimusuhi, Kamumusuhi. Each is a hitorigami, a solitary deity with no consort; each hides its body as soon as it appears, fathers nothing, and takes no further part. Two more follow, Umashiashikabihikoji and Ame-no-Tokotachi, completing the five Kotoamatsukami, the separate heavenly deities. Then come the seven generations of the divine age, two solitary deities and then five brother-and-sister pairs, the last of them Izanagi and Izanami, the only pair of the seven who couple and leave offspring. Nothing in the story moves until they arrive."
+      },
+      "entries": ["takamagahara", "izanagi", "izanami"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "国生み", "en": "Birth of the land" },
+      "title": { "zh": "天沼矛滴下的盐水堆成第一座岛", "en": "Brine dripping from a spear becomes the first island" },
+      "text": {
+        "zh": "天神把天沼矛交给伊邪那岐与伊邪那美。二神立在天浮桥上，将矛探进下界的海水搅动，搅得咕噜作响，提矛时矛尖滴下的盐水堆积成岛，这就是淤能碁吕岛（自凝岛）。二神降到岛上，立起天之御柱，建八寻殿，绕柱相会。头一次伊邪那美先开口，生下的是水蛭子（蛭一样的孩子），装进苇船流放；接着生的淡岛，也不算在子女之列。再上天请示，天神以太占卜之，说是女方先言不吉。重来一次，男先言，才依次生出淡路、四国、隐岐、筑紫、壹岐、对马、佐渡与本州，合称大八岛国，此后又生出山川草木诸神。",
+        "en": "The heavenly deities hand Izanagi and Izanami the jewelled spear Ame-no-nuboko. Standing on the floating bridge of heaven, the pair thrust it into the brine below and stir until it thickens and rumbles; brine dripping from the lifted point piles up into Onogoro, the self-curdling island. They descend, raise a heavenly pillar and a hall eight fathoms wide, and circle the pillar from opposite sides to meet. The first union goes wrong because Izanami speaks first: the child is Hiruko, the leech-child, who is set adrift in a boat of reeds, and the next, Awashima, is likewise not counted among their children. The heavenly deities take the omens by futomani and rule that the woman should not have spoken first. Done again with the man speaking first, the union yields Awaji, Shikoku, Oki, Kyushu, Iki, Tsushima, Sado and Honshu, the Great Eight Islands, and after them the deities of mountains, rivers and trees."
+      },
+      "entries": ["izanagi", "izanami"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "黄泉", "en": "Yomi, the land of the dead" },
+      "title": { "zh": "火神烧死母亲，千引岩堵住黄泉比良坂", "en": "The fire god kills his mother, and a boulder seals the pass" },
+      "text": {
+        "zh": "神生み的最后一个是火之迦具土神，出生时烧坏了伊邪那美的产道。她病卧在地，呕吐、排泄，秽物里又生出金山毘古、波邇夜须毘卖等神，随即死去。伊邪那岐拔十拳剑斩了火神，追到黄泉国。伊邪那美说她已吃过黄泉的灶火，要走得先与那里的神商量，嘱他千万别看。他等不及，折下汤津爪栉的一齿点火照进去：尸身生蛆，八个雷神盘踞其上。他掉头就跑，黄泉丑女在后追赶，他掷下发饰化作山葡萄、掷下梳子化作竹笋拖住她们，到黄泉比良坂摘三枚桃子掷出，追兵尽退。他给桃子赐名意富加牟豆美命，嘱它日后也去救苇原中国那些落难的「青人草」——人在这里第一次出现，已经在那儿了。最后他用千引岩堵住坂口，夫妻隔石绝婚：她说一日绞杀一千人，他说一日建一千五百产屋。人从此有生有死。",
+        "en": "The last of the kami born is Kagutsuchi, the fire god, whose birth burns Izanami's genitals. She sickens, and deities come from her vomit and her waste before she dies. Izanagi beheads the fire god with his ten-hand sword and follows her into Yomi. She tells him she has already eaten at the hearth of the dead and must first negotiate with its deities, and begs him not to look at her. He cannot wait: he snaps a tooth from his comb, lights it, and sees her body swarming with maggots and eight thunder deities squatting on it. He runs. Hags of Yomi pursue him; he throws down his headdress, which turns to wild grapes, and his comb, which turns to bamboo shoots, and at the Even Pass of Yomi he picks three peaches and hurls them, and the pursuers retreat. He gives the peaches a divine name and tells them to rescue the green human grass of the Reed Plain whenever it falls into distress; this is the first appearance of human beings, who are simply there. He then blocks the pass with a boulder a thousand men could not shift, and across it husband and wife dissolve the marriage: she will strangle a thousand people a day, he will build fifteen hundred birthing huts a day. Death enters the world on those terms."
+      },
+      "entries": ["izanami", "izanagi"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "禊祓", "en": "The purification" },
+      "title": { "zh": "洗左眼生日，洗右眼生月，洗鼻生风暴", "en": "The sun from the left eye, the moon from the right, the storm from the nose" },
+      "text": {
+        "zh": "伊邪那岐回到人世，说自己到过一个丑恶污秽的国，要洗净它，于是到筑紫日向橘小门的阿波岐原濯身。他解下的杖、带、衣、裤各化一神；濯于中濑，先出污秽之神，随后又出直毘神来把它们纠正回来。洗左眼，生天照大御神；洗右眼，生月读命；洗鼻，生建速须佐之男命，是为三贵子。伊邪那岐取下颈上的珠串交给天照，命她治高天原；月读治夜之食国；须佐之男治海原。须佐之男不肯上任，只顾嚎哭，哭得青山枯成秃山、河海干涸，说他要去母亲所在的根之坚州国，于是被父神逐走。",
+        "en": "Back among the living, Izanagi says he has been to a foul and polluted country and must wash it off, and goes down to the plain of Awakihara at the river mouth in Himuka. The staff, sash, robe and trousers he strips off each become a deity; bathing in the middle current he produces first the deities of defilement, then the deities who set defilement right. Washing his left eye, he brings forth Amaterasu; washing his right eye, Tsukuyomi; washing his nose, Susanoo, the three noble children. He takes the string of beads from his neck, gives it to Amaterasu and puts her over Takamagahara; Tsukuyomi is given the realm of night, Susanoo the plain of the sea. Susanoo will not go. He howls until the green mountains wither bare and the rivers and seas run dry, saying he wants his mother's land, and his father drives him out."
+      },
+      "entries": ["izanagi", "amaterasu", "tsukuyomi", "susanoo"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "天岩戸", "en": "The rock cave of heaven" },
+      "title": { "zh": "太阳躲进石屋，八百万神在河原上想办法", "en": "The sun shuts herself in, and eight hundred myriad gods hold council" },
+      "text": {
+        "zh": "须佐之男上高天原辞行，天照疑他来夺国，二神隔天安河立誓约：她嚼碎他的剑，生三女神；他嚼碎她的玉，生五男神。须佐之男自称得胜，越发放肆，毁田埂、填沟渠、在殿上遗屎，最后把天斑马倒剥了皮，从屋顶掷进机屋，织女受惊被梭子刺中阴部而死。天照恐惧，闭入天石屋户，高天原与苇原中国一同陷入长夜，万祸并起。八百万神会于天安河原，思金神出主意：集常世的长鸣鸡使其啼叫，命伊斯许理度卖造八咫镜、玉祖命造八尺勾玉，取天香山真男鹿的肩胛骨与波波迦木烧灼占卜，布刀玉命捧起挂满镜与玉的榊树，天宇受卖命翻转木桶踏之而舞，掀衣露乳，八百万神哄堂大笑。天照觉得奇怪：外面本该一片漆黑，为何反倒热闹？她推开一线石门，被镜中自己的影子引住，天手力男神一把将她拽出，日光复还。须佐之男被课以重罚，剪去胡须、拔掉手足指甲，逐出高天原；他落到出云的肥河上游，那里有八岐大蛇年年来吃足名椎的女儿，八个女儿吃剩最小的栉名田比卖。",
+        "en": "Susanoo climbs to Takamagahara to take his leave, and Amaterasu, suspecting he has come to seize her realm, faces him across the river of heaven in an oath-taking: she chews his sword and produces three goddesses, he chews her beads and produces five gods. Claiming victory, he runs wild, breaking the ridges of the paddies, filling in the ditches, fouling the hall, and finally flaying the piebald horse of heaven backwards and flinging it through the roof of the weaving hall, where a weaving girl is struck by her shuttle and dies. Amaterasu takes fright and shuts herself in the rock cave, and both heaven and the Reed Plain go dark, with every kind of calamity breaking out. Eight hundred myriad gods gather on the riverbed and Omoikane devises the remedy: cocks of the everlasting land are set crowing, Ishikoridome forges the eight-span mirror and Tamanoya strings the curved beads, a stag's shoulder blade from Mount Kagu is scorched over hahaka wood for the omens, Futodama holds up a sakaki tree hung with mirror and jewels, and Ame-no-Uzume overturns a tub, stamps on it, dances, and bares her breasts, until the gods roar with laughter. Amaterasu wonders how there can be merriment while heaven is dark, opens the door a crack, is caught by her own reflection in the mirror, and Ame-no-Tajikarao hauls her out. Susanoo is fined heavily, his beard cut and his nails pulled, and expelled. He comes down at the headwaters of the Hi river in Izumo, where an eight-forked serpent has eaten seven of Ashinazuchi's eight daughters, one a year, and is due to come for the last."
+      },
+      "entries": ["ama-no-iwato", "amaterasu", "susanoo", "yamata-no-orochi"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "国譲り・天孙降临", "en": "The land ceded, the grandson descends" },
+      "title": { "zh": "大国主让出苇原中国，迩迩艺降在高千穗", "en": "Okuninushi hands over the land, Ninigi comes down at Takachiho" },
+      "text": {
+        "zh": "须佐之男的后裔大国主与少名毘古那经营苇原中国，把地方做成了。高天原派使者来索地：天菩比一去归顺不返；天若日子娶了大国主的女儿，八年不复命，被回射的箭穿胸而死。最后遣建御雷神下界，他把剑倒插在浪头上，箕坐剑锋逼问。事代主答应让国；建御名方要较力，输了，逃到科野的州羽海（诹访）再不出来。大国主提一个条件：为他造一座柱粗梁长的宫殿（出云大社），然后隐去。天照之孙迩迩艺命受八咫镜、八尺勾玉与草薙剑，率五伴绪，拨开八重云降于日向高千穗峰。他娶木花开耶姬，把姐姐石长比卖退还，其父大山津见说：本来配上石长，皇孙的寿命会像岩石一样长久；退了她，就只剩木花那样的短寿。迩迩艺的曾孙神倭伊波礼毘古东征大和，是为神武天皇，神代到此收束。",
+        "en": "Okuninushi, a descendant of Susanoo, works the Reed Plain with Sukunabikona and makes it habitable. Takamagahara sends envoys to demand it back. Ame-no-Hohi goes over to Okuninushi and never reports; Ame-no-Wakahiko marries Okuninushi's daughter, sends no word for eight years, and is killed by his own arrow flung back from heaven. At last Takemikazuchi is sent, and he plants his sword upright on the crest of a wave at Inasa beach and sits cross-legged on its point to put the question. Kotoshironushi consents to yield. Takeminakata demands a trial of strength, loses, and flees to the lake of Suwa, never to leave it. Okuninushi cedes on one condition: that a palace be built for him with pillars sunk deep and beams reaching high, and then he withdraws from sight. Amaterasu's grandson Ninigi receives the mirror, the curved beads and the sword Kusanagi, takes five clan chiefs with him, parts the eightfold clouds and comes down on the peak of Takachiho in Himuka. He marries Konohana-no-Sakuya-hime and sends her elder sister Iwanaga-hime back, and their father tells him that with Iwanaga the heavenly grandchild's life would have lasted like rock, but sent back, it will be brief as blossom. Ninigi's great-grandson marches east into Yamato as the emperor later called Jimmu, and the age of the gods closes."
+      },
+      "entries": ["amaterasu", "kusanagi"]
+    }
+  ]
+}
