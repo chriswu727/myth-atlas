@@ -1,0 +1,98 @@
+{
+  "id": "cipactli",
+  "tradition": "aztec",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "西帕克特利",
+    "en": "Cipactli",
+    "original": "Cipactli",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "原初之海的巨鳄，大地由其身躯造成",
+    "en": "The Primordial Crocodilian from Whose Body the Earth Was Made"
+  },
+  "summary": {
+    "zh": "游弋于原初之海的鳄形巨兽，周身关节皆生血口，永不餍足。特斯卡特利波卡以断足为饵将其诱出，众神以其躯体造出大地。",
+    "en": "A crocodilian monster of the primordial sea, mouths gaping at every joint and never sated. Tezcatlipoca lured it with his own foot as bait, and the gods made the earth from its body."
+  },
+  "description": {
+    "zh": "开天辟地之前，只有无边的原初之水，水中游着西帕克特利——一头兼有鳄鱼、大鱼与蟾蜍特征的巨兽。它周身的关节处都生着咬啮的血口，无物可以填饱；诸神所造的一切落入水中都被它吞掉，世界因此无从立足。\n\n为了造出大地，特斯卡特利波卡将自己的右足垂入水中为饵。巨兽跃出咬断了神的脚，也在搏斗中被扯掉了下颚，从此无法沉回水底。据16世纪法译抄本《墨西哥志》所记的版本，特斯卡特利波卡与克察尔科亚特尔化作两条巨蛇，将大地巨兽从中撕开：上半造成大地，下半抛上天空；而《墨西哥人绘画史》则记诸神以大鱼西帕克特利造出大地——两份文献中的巨兽（一名特拉尔特库特利，一名西帕克特利）常被视为同一原初形象的不同称呼。纳瓦特尔语称人间为\"特拉尔蒂帕克\"（意为\"大地之上\"），而这片大地正驮在西帕克特利背上：山岭是它的脊鳞，草木自它的皮肤生出。传说它的躯体仍会索求血食，这是大地需要献祭滋养的又一重根据。\n\n西帕克特利同时是神圣历\"托纳尔波瓦利\"二十个日符中的第一个：鳄之日主开端与创始，《博尔吉亚手抄本》等占卜书将其画作獠牙上翘的鳄首。生于此日者据信命属丰产。",
+    "en": "Before the world there was only the boundless primordial water, and in it swam Cipactli, a monster part crocodile, part great fish, part toad. Snapping mouths opened at every one of its joints, and nothing could fill them: whatever the gods created fell into the water and was devoured, so the world had nowhere to stand.\n\nTo win ground for creation, Tezcatlipoca dangled his right foot into the water as bait. The beast surged up and bit it off — and lost its own lower jaw in the struggle, so that it could never again sink beneath the surface. In the version preserved in the sixteenth-century Histoyre du Mechique, Tezcatlipoca and Quetzalcoatl then took the form of two great serpents and tore the earth monster in half, making the land from one part and the sky from the other; the Historia de los mexicanos por sus pinturas says instead that the gods made the earth from the great fish cipactli. The monster of the one account, there called Tlaltecuhtli, and the cipactli of the other are generally read as names for the same primordial being. The world of the living, tlalticpac — \"upon the earth\" in Nahuatl — rides on the creature's back: mountains are the ridges of its hide, and trees and grasses grow from its skin. Its body was said to cry out still for blood — one more reason the earth had to be fed with sacrifice.\n\nCipactli is also the first of the twenty day signs of the tonalpohualli, the 260-day divinatory calendar: the day Crocodile governs beginnings, and divinatory books such as the Codex Borgia draw it as a crocodilian head with upcurved snout. Those born under it were held to be destined for abundance."
+  },
+  "domains": {
+    "zh": [
+      "原初之海",
+      "大地",
+      "吞噬",
+      "历法日符"
+    ],
+    "en": [
+      "Primordial sea",
+      "Earth",
+      "Devouring",
+      "Calendar sign"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "鳄、鱼、蟾蜍的混合，关节生口",
+        "en": "Part crocodile, fish, and toad, with mouths at every joint"
+      }
+    },
+    {
+      "label": {
+        "zh": "对手",
+        "en": "Adversaries"
+      },
+      "value": {
+        "zh": "特斯卡特利波卡与克察尔科亚特尔",
+        "en": "Tezcatlipoca and Quetzalcoatl"
+      }
+    },
+    {
+      "label": {
+        "zh": "历法地位",
+        "en": "Calendar"
+      },
+      "value": {
+        "zh": "神圣历二十日符之首",
+        "en": "First of the twenty day signs"
+      }
+    }
+  ],
+  "related": [
+    "tezcatlipoca",
+    "quetzalcoatl",
+    "five-suns"
+  ],
+  "sources": [
+    {
+      "zh": "《墨西哥志》（16世纪法译抄本）",
+      "en": "Histoyre du Mechique (16th-century French manuscript)"
+    },
+    {
+      "zh": "《墨西哥人绘画史》（约1535年）",
+      "en": "Historia de los mexicanos por sus pinturas (c. 1535)"
+    },
+    {
+      "zh": "《博尔吉亚手抄本》",
+      "en": "Codex Borgia"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/cipactli.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Earth_Monster_(Cipactli),_15th_century,37.399.jpg",
+    "sourceTitle": "Earth Monster (Cipactli), 15th century,37.399",
+    "artist": "A. Augustus Healy Fund",
+    "license": "No restrictions",
+    "width": 786,
+    "height": 1000
+  }
+}

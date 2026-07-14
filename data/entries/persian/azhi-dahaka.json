@@ -1,0 +1,117 @@
+{
+  "id": "azhi-dahaka",
+  "tradition": "persian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "阿日·达哈卡",
+    "en": "Azhi Dahaka",
+    "original": "Aži Dahāka",
+    "originalLang": "阿维斯陀语"
+  },
+  "title": {
+    "zh": "三头巨蛇，蛇王扎哈克",
+    "en": "The Three-Headed Dragon, the Serpent King Zahhak"
+  },
+  "summary": {
+    "zh": "《阿维斯陀》中三头六眼的巨蛇，破坏之灵所造；《列王纪》化为双肩生蛇、日食人脑的暴君扎哈克，被费里顿锁进达马万德山。",
+    "en": "The three-headed, six-eyed dragon of the Avesta, creature of the destructive spirit; in the Shahnameh he becomes Zahhak, the tyrant with snakes on his shoulders, chained inside Mount Damavand."
+  },
+  "description": {
+    "zh": "阿日·达哈卡在《阿维斯陀》中是三头、三口、六眼的巨蛇，身怀千般诡计，是安格拉·曼纽为毁灭义人世界而造出的最强横的\"德鲁杰\"（谎言之物）。《阿邦·亚什特》说它向水神阿纳希塔献上百马千牛万羊，祈求让大地七域空无人烟，女神拒绝了它；英雄特拉埃塔奥纳随后向女神献祭，求得降伏巨蛇之力。帕拉维语文献预言它的结局：末日之际它将挣脱锁链，吞噬世间三分之一的人畜，最终由复起的英雄克勒萨斯帕将其击杀。\n\n菲尔多西《列王纪》把这条巨蛇写成了波斯文学中最著名的暴君扎哈克。阿拉伯王子扎哈克受魔鬼伊卜利斯蛊惑害死父亲篡位；伊卜利斯又化作厨师为他烹肉，请求以亲吻双肩为赏，吻处霎时各钻出一条黑蛇，斩之复生，唯一的安抚之法是每日以两名青年的脑髓喂食。扎哈克夺取贾姆希德的王座，蛇王的厨房让波斯的青年一天两名地消失，暴政持续了一千年。铁匠卡维因十八子丧其十七，把皮围裙挑上矛尖振臂起事，这面\"卡维亚尼战旗\"后来成为波斯王权的圣物；义军拥立贾姆希德的后裔费里顿，牛头锤击破蛇王，遵神使之命不杀，将他钉锁在达马万德山的岩洞深处——火山至今的硫气蒸腾，民间说那是蛇王的喘息。",
+    "en": "In the Avesta, Azhi Dahaka is a dragon with three heads, three mouths, and six eyes, master of a thousand wiles, the mightiest druj that Angra Mainyu fashioned to destroy the world of the righteous. The Aban Yasht tells how he sacrificed a hundred horses, a thousand oxen, and ten thousand sheep to the water goddess Anahita, praying to empty the seven regions of the earth of men, and was refused; the hero Thraetaona then sacrificed to the same goddess and won the power to overcome him. The Pahlavi books foretell his end: at the close of time he will break his bonds and devour a third of men and cattle before the revived hero Keresaspa strikes him down.\n\nFerdowsi's Shahnameh remade the dragon as Zahhak, the most famous tyrant in Persian literature. An Arab prince seduced by the devil Eblis into killing his own father, Zahhak was then served by the disguised fiend as a cook, who asked only to kiss his shoulders in reward — and from each kissed shoulder sprang a black snake that grew back when cut, quieted only by a daily meal of the brains of two young men. Zahhak seized the throne of Jamshid, and for a thousand years his kitchens consumed the youth of Persia two by two. The blacksmith Kaveh, who had lost seventeen of eighteen sons, raised his leather apron on a spear-point in revolt — the Derafsh Kaviani, later the sacred banner of Persian kingship — and the rebels crowned Fereydun, heir of Jamshid's line. Fereydun felled the serpent king with his ox-headed mace and, commanded by a divine messenger not to kill him, nailed and chained him deep in a cave of Mount Damavand; folk tradition hears the volcano's sulfur vents as the dragon's breathing."
+  },
+  "domains": {
+    "zh": [
+      "巨蛇",
+      "暴政",
+      "末日之劫",
+      "被缚的恶"
+    ],
+    "en": [
+      "Dragon",
+      "Tyranny",
+      "Apocalyptic menace",
+      "Evil in chains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "三头六眼巨蛇；人形时双肩各生一条黑蛇",
+        "en": "Three-headed, six-eyed dragon; in human form, a black snake on each shoulder"
+      }
+    },
+    {
+      "label": {
+        "zh": "征服者",
+        "en": "Vanquisher"
+      },
+      "value": {
+        "zh": "特拉埃塔奥纳／费里顿，牛头锤",
+        "en": "Thraetaona / Fereydun, with the ox-headed mace"
+      }
+    },
+    {
+      "label": {
+        "zh": "囚禁地",
+        "en": "Prison"
+      },
+      "value": {
+        "zh": "达马万德山",
+        "en": "Mount Damavand"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "末日挣脱，被克勒萨斯帕击杀",
+        "en": "Breaks free at the end of time; slain by Keresaspa"
+      }
+    }
+  ],
+  "related": [
+    "angra-mainyu",
+    "anahita",
+    "simurgh",
+    "div"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·阿邦·亚什特》（第5亚什特）、《扎姆亚德·亚什特》（第19亚什特）",
+      "en": "Avesta, Aban Yasht (Yasht 5) and Zamyad Yasht (Yasht 19)"
+    },
+    {
+      "zh": "《本达希申》",
+      "en": "Bundahishn"
+    },
+    {
+      "zh": "菲尔多西《列王纪》（约1010年）",
+      "en": "Ferdowsi, Shahnameh (c. 1010)"
+    }
+  ],
+  "geo": {
+    "lat": 35.9548,
+    "lon": 52.11,
+    "label": {
+      "zh": "达马万德山（伊朗）",
+      "en": "Mount Damavand, Iran"
+    }
+  },
+  "image": {
+    "file": "/images/entries/azhi-dahaka.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sultan_Muhammad_Tiran_Zahhak.jpg",
+    "sourceTitle": "Sultan Muhammad Tiran Zahhak",
+    "artist": "Attributed to Sultan Muhammad",
+    "license": "Public domain",
+    "width": 691,
+    "height": 1000
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "anzu",
+  "tradition": "mesopotamian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "安祖",
+    "en": "Anzu",
+    "original": "Anzû",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "窃夺天命的风暴巨鸟",
+    "en": "The Storm Bird Who Stole Destiny"
+  },
+  "summary": {
+    "zh": "狮首鹰身的风暴巨鸟，趁恩利尔沐浴窃走天命泥板，终被尼努尔塔设计射杀；在另一些诗篇里，这只巨鸟也会知恩图报。",
+    "en": "The lion-headed storm eagle who stole the Tablet of Destinies while Enlil bathed, until Ninurta shot it down by stratagem; in other poems the great bird repays kindness with gifts."
+  },
+  "description": {
+    "zh": "安祖（苏美尔语称安祖德或伊姆杜吉德）是狮首鹰身的巨鸟，振翅即起旋风沙暴，鸣声如狮吼。它是两河艺术里资格最老的怪物之一：约公元前2500年乌拜德丘宁胡尔萨格神庙的铜铸门楣（今藏大英博物馆）上，它展开双翼，两爪各攫一头雄鹿；拉伽什出土的银瓶与浮雕也反复刻画它。\n\n阿卡德语《安祖史诗》记它的罪案。恩利尔命它守卫内殿门口，它却觊觎天命泥板——“我拿了它，众神之权便归我”——趁恩利尔入浴时攫走泥板，飞回山中。天命在手，出口成真，众神的箭飞到近前就被它喝回原形：“箭杆归芦苇，羽毛归鸟身！”阿达德、吉拉、沙拉诸神先后推辞不敢出战，最后母神点将尼努尔塔，埃阿授计：逼它在狂风中张翼，趁它呼唤羽翼归身的一瞬放箭。尼努尔塔断其翼羽、贯其心肺，夺回泥板，捷报传遍诸城。\n\n苏美尔语《卢加尔班达》诗篇里它另有一副面孔：受困荒山的英雄喂饱了它窝里的雏鸟，巨鸟感激，赐他一双飞毛腿，助他为乌鲁克搬来救兵。另一篇苏美尔诗的序歌里，它又不请自来，在伊南娜的胡卢普树上筑巢为患。时而为祸、时而报恩，这只巨鸟在两河文学里反复现身。",
+    "en": "Anzu — Sumerian Anzud or Imdugud — is a colossal bird with a lion's head and eagle's body, whose wingbeats raise whirlwinds and dust storms and whose cry is a lion's roar. He is among the oldest monsters in Mesopotamian art: a copper lintel of about 2500 BCE from the Ninhursag temple at Tell al-Ubaid, now in the British Museum, shows him with wings spread, gripping a stag in each talon, and he recurs on the silver vase and reliefs of Lagash.\n\nThe Akkadian Epic of Anzu records his crime. Posted at the door of Enlil's chamber, he covets the Tablet of Destinies — 'I will take it, and the command of the gods will be mine' — and snatches it while Enlil bathes, flying off to his mountain. With destiny in his grasp his word comes true: arrows shot at him are talked back into their parts, 'shaft, return to the reed; feathers, to the birds!' Adad, Girra, and Shara each decline the fight; at last the mother goddess commissions Ninurta, and Ea supplies the trick — force the bird to spread its wings in the gale, and shoot the instant it calls its feathers back to itself. Ninurta clips his pinion, pierces heart and lungs, and carries the tablet home.\n\nIn the Sumerian Lugalbanda poems the great bird shows another face: the hero, stranded in the mountains, feeds his chick, and Anzud in gratitude grants him superhuman speed to fetch help for Uruk. In the prologue of another Sumerian poem he nests, unwelcome, in Inanna's huluppu tree. Bane and benefactor by turns, he keeps reappearing across Mesopotamian literature."
+  },
+  "domains": {
+    "zh": [
+      "风暴",
+      "神鸟",
+      "山岳"
+    ],
+    "en": [
+      "Storm",
+      "Divine bird",
+      "Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "狮首鹰身巨鸟",
+        "en": "Lion-headed eagle"
+      }
+    },
+    {
+      "label": {
+        "zh": "罪案",
+        "en": "Crime"
+      },
+      "value": {
+        "zh": "窃走天命泥板",
+        "en": "Theft of the Tablet of Destinies"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早图像",
+        "en": "Earliest image"
+      },
+      "value": {
+        "zh": "乌拜德丘铜门楣，约公元前2500年",
+        "en": "Tell al-Ubaid copper lintel, c. 2500 BCE"
+      }
+    }
+  ],
+  "related": [
+    "enlil",
+    "tablet-of-destinies"
+  ],
+  "sources": [
+    {
+      "zh": "阿卡德语《安祖史诗》",
+      "en": "The Epic of Anzu (Akkadian)"
+    },
+    {
+      "zh": "苏美尔语《卢加尔班达》诗篇",
+      "en": "The Sumerian Lugalbanda poems"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/anzu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frieze_of_Imdugud_(Anzu)_grasping_a_pair_of_deer,_from_Tell_Al-Ubaid..JPG",
+    "sourceTitle": "Frieze of Imdugud (Anzu) grasping a pair of deer, from Tell Al-Ubaid.",
+    "artist": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 663
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "chaac",
+  "tradition": "maya",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "恰克",
+    "en": "Chaac",
+    "original": "Chaahk",
+    "originalLang": "古典玛雅语"
+  },
+  "title": {
+    "zh": "长鼻执斧的雨神",
+    "en": "The Long-Nosed Rain God with the Lightning Axe"
+  },
+  "summary": {
+    "zh": "玛雅雨神，长鼻下卷，挥动石斧劈云即成雷电。四方各有一位不同颜色的恰克。尤卡坦农村至今仍举行向他求雨的查恰克仪式。",
+    "en": "The Maya rain god, long-snouted and scaled, who strikes the clouds with a stone axe to make lightning. Four colored Chaacs guard the directions; Yucatec villages still hold rain ceremonies in his name."
+  },
+  "description": {
+    "zh": "恰克的鼻子长而下卷，嘴角伸出倒钩状的獠牙，身覆爬虫鳞片，耳垂贝壳耳饰，一手持蛇，一手挥舞石斧——斧落即是闪电，斧声即是雷鸣。在树皮纸手抄本里他被编为“神B”，出场次数超过任何其他神祇：播种、降雨、占候，几乎每一页历书都少不了他。对以玉米为生的玛雅农人来说，雨神就是年成本身。\n\n恰克同时是四位：东方的红恰克、北方的白恰克、西方的黑恰克、南方的黄恰克，各守一方天空，与玛雅宇宙的四方色系一一对应。普克丘陵的建筑把这份崇拜砌进了石头——卡巴遗址的“科兹波普”宫，整面立面层层叠叠嵌满数百个长鼻神面具，传统上都认作恰克。奇琴伊察的圣井中打捞出玉器、金盘、香料与人骨，多被解读为向雨神的献祭。\n\n这份信仰没有断绝。今日尤卡坦农村遇到旱年仍举行“查恰克”求雨仪式：田间筑起祭台，献上玉米酒与祭鸡，四个男孩被系在祭台四角，模仿雨蛙的鸣叫，呼唤四方的恰克前来行雨。",
+    "en": "Chaac has a long, down-curling snout, hooked fangs at the corners of his mouth, a body of reptilian scales, and a shell dangling from each ear. One hand grips a serpent, the other swings a stone axe: its fall is the lightning, its crack the thunder. Catalogued as God B, he appears in the bark-paper codices more often than any other deity, presiding over almanac pages on planting, rainfall, and the prospects of the year. For farmers living on maize, the rain god was the harvest itself.\n\nHe is four gods as much as one: the red Chaac of the east, white of the north, black of the west, and yellow of the south, matching the color-coded quarters of the Maya cosmos. The architecture of the Puuc hills set this cult in stone; the facade of the Codz Poop palace at Kabah is stacked with hundreds of long-snouted masks traditionally identified as Chaac. From the Sacred Cenote at Chichén Itzá, dredgers recovered jade, gold discs, incense, and human bones, widely read as offerings to the rain god.\n\nThe cult never died. In dry years, Yucatec villages still hold the Cha'a Chaak ceremony: an altar is raised in the fields, maize drink and fowl are offered, and four boys tied at the altar's corners croak like rain frogs, calling the four Chaacs to bring the storm."
+  },
+  "domains": {
+    "zh": [
+      "雨",
+      "雷电",
+      "农耕",
+      "四方"
+    ],
+    "en": [
+      "Rain",
+      "Lightning",
+      "Agriculture",
+      "The four directions"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "劈出闪电的石斧",
+        "en": "Stone axe that strikes lightning"
+      }
+    },
+    {
+      "label": {
+        "zh": "手抄本代号",
+        "en": "Codex designation"
+      },
+      "value": {
+        "zh": "神B",
+        "en": "God B"
+      }
+    },
+    {
+      "label": {
+        "zh": "四方化身",
+        "en": "Directional aspects"
+      },
+      "value": {
+        "zh": "东红、北白、西黑、南黄",
+        "en": "Red east, white north, black west, yellow south"
+      }
+    }
+  ],
+  "related": [
+    "itzamna",
+    "kukulkan",
+    "ix-chel"
+  ],
+  "sources": [
+    {
+      "zh": "《德累斯顿手抄本》",
+      "en": "Dresden Codex"
+    },
+    {
+      "zh": "迭戈·德·兰达《尤卡坦纪事》（约1566年）",
+      "en": "Diego de Landa, Relación de las cosas de Yucatán (c. 1566)"
+    },
+    {
+      "zh": "尤卡坦农村延续至今的查恰克求雨仪式",
+      "en": "Cha'a Chaak rain ceremonies still performed in rural Yucatán"
+    }
+  ],
+  "geo": {
+    "lat": 20.247,
+    "lon": -89.65,
+    "label": {
+      "zh": "卡巴遗址“科兹波普”宫",
+      "en": "Codz Poop palace, Kabah"
+    }
+  },
+  "image": {
+    "file": "/images/entries/chaac.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_dieu_Chaac,_image_12_du_codex_de_Dresde.jpg",
+    "sourceTitle": "Le dieu Chaac, image 12 du codex de Dresde",
+    "artist": "Un scribe maya précolombien non identifié avant 1500.",
+    "license": "CC0",
+    "width": 745,
+    "height": 1000
+  }
+}

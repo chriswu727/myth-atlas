@@ -1,0 +1,105 @@
+{
+  "id": "iram-of-the-pillars",
+  "tradition": "arabian",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "千柱之城伊拉姆",
+    "en": "Iram of the Pillars",
+    "original": "إرم ذات العماد",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "被黄沙掩埋的僭越之城",
+    "en": "The presumptuous city swallowed by the sands"
+  },
+  "summary": {
+    "zh": "《古兰经》提到的“拥有高柱的伊拉姆”，阿德人之城，“诸国中未有其匹”。传说暴君沙达德仿造天园筑城，落成之日全城被一声天呼抹去，从此埋于空旷之地的沙海。",
+    "en": "'Iram of the pillars' in the Quran, city of the people of 'Ad, 'the like of which was never created in the lands'. The tyrant Shaddad built it to rival Paradise; a cry from heaven erased it into the sands."
+  },
+  "description": {
+    "zh": "《古兰经》第八十九章质问道：你不知道你的主怎样惩治阿德人吗——拥有高柱的伊拉姆，诸国中未曾造出与它相似的城市？经文只有这寥寥数语。注经与传说随即补全了故事：阿德是南阿拉伯的远古强族，身量巨大，先知呼德劝其归正而不听；其王沙达德听闻天园之说，狂言要在人间自造一座——用金砖银砖砌墙，柱以宝石，渠中流水兑着乳与蜜，历数百年方成。当他率众临城、一脚尚未跨入城门时，天上降下一声呼喊，全城连人俱灭。此后伊拉姆被黄沙埋没，据传就在阿拉伯半岛南部的鲁卜哈利沙漠（“空旷之地”）某处。\n\n《一千零一夜》收有一则寻城记：也门人阿卜杜拉·伊本·阿比·基拉巴追寻走失的骆驼，误入一座柱廊林立、空无一人的宝石之城，揣了些珠宝回来，此事传到倭马亚朝哈里发穆阿维叶耳中，博学者告诉他那正是沙达德的伊拉姆，凡人只能偶然撞见，无法再次寻得。\n\n二十世纪这座城有了考古学的回声。传说中失落的沙漠商城乌巴尔——常与伊拉姆混同，号称“沙海中的亚特兰蒂斯”——吸引探险者数十年；1992年，尼古拉斯·克拉普与拉纳夫·法因斯的团队借助航天雷达影像在阿曼的席斯尔发掘出一座因地下溶洞塌陷而倾覆的古代要塞水站。它是不是传说的种子无法证实，但“城陷于地”的结局与经注里的天罚意外地押了韵。",
+    "en": "The eighty-ninth surah of the Quran asks: have you not seen how your Lord dealt with 'Ad — Iram of the pillars, the like of which was never created in the lands? The text says no more. Commentary and legend supplied the rest: 'Ad was an ancient South Arabian nation of giants who rejected the prophet Hud, and their king Shaddad, hearing Paradise described, swore to build his own on earth — walls of gold and silver brick, pillars set with gems, channels running with water, milk and honey, centuries in the making. As he approached the finished gate, a single cry came down from heaven and city and people were annihilated together. Iram was buried in sand, somewhere, tradition holds, in the Rub' al-Khali, the Empty Quarter of southern Arabia.\n\nThe Thousand and One Nights includes a finding-tale: Abdallah ibn Abi Qilaba of Yemen, searching for a strayed camel, wanders into a colonnaded jewel city empty of any living soul, pockets what he can carry, and the report reaches the Umayyad caliph Mu'awiya, whose scholars identify the place as Shaddad's Iram — stumbled upon by chance, never found by search.\n\nThe twentieth century gave the city an archaeological echo. Ubar, the lost caravan city of the sands, long conflated with Iram and dubbed the Atlantis of the Sands, drew explorers for decades; in 1992 a team led by Nicholas Clapp and Ranulph Fiennes, guided by space-shuttle radar imagery, excavated at Shisr in Oman a fortress waterhole that had collapsed into a limestone sinkhole beneath it. Whether it seeded the legend cannot be proven, but a city swallowed by the ground rhymes oddly well with the judgement in the old commentaries."
+  },
+  "domains": {
+    "zh": [
+      "失落之城",
+      "天罚",
+      "沙漠",
+      "阿德人"
+    ],
+    "en": [
+      "Lost city",
+      "Divine judgement",
+      "Desert",
+      "People of 'Ad"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "建造者",
+        "en": "Builder"
+      },
+      "value": {
+        "zh": "阿德人之王沙达德，为僭比天园",
+        "en": "Shaddad, king of 'Ad, to rival Paradise"
+      }
+    },
+    {
+      "label": {
+        "zh": "下场",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "落成之日毁于一声天呼",
+        "en": "Erased by a cry from heaven on the day of completion"
+      }
+    },
+    {
+      "label": {
+        "zh": "现代回声",
+        "en": "Modern echo"
+      },
+      "value": {
+        "zh": "1992年阿曼席斯尔的乌巴尔发掘",
+        "en": "The 1992 Ubar excavation at Shisr, Oman"
+      }
+    }
+  ],
+  "related": [
+    "jinn",
+    "mount-qaf"
+  ],
+  "sources": [
+    {
+      "zh": "《古兰经》第89章第6-8节",
+      "en": "Quran 89:6-8"
+    },
+    {
+      "zh": "《一千零一夜》“千柱之城伊拉姆”",
+      "en": "The Thousand and One Nights, 'The City of Many-Columned Iram'"
+    },
+    {
+      "zh": "尼古拉斯·克拉普《乌巴尔之路》（1998，记1992年席斯尔发掘）",
+      "en": "Nicholas Clapp, The Road to Ubar, 1998, on the 1992 Shisr excavation"
+    }
+  ],
+  "geo": {
+    "lat": 18.26,
+    "lon": 53.66,
+    "label": {
+      "zh": "阿曼席斯尔遗址（乌巴尔／伊拉姆一说）",
+      "en": "Shisr, Oman, claimed as Ubar/Iram"
+    }
+  },
+  "image": {
+    "file": "/images/entries/iram-of-the-pillars.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hud_causes_two_kings_of_Ad_to_be_tossed_up_in_the_air.jpg",
+    "sourceTitle": "Hud causes two kings of Ad to be tossed up in the air",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 804,
+    "height": 1000
+  }
+}

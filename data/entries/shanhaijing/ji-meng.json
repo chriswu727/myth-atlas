@@ -1,0 +1,90 @@
+{
+  "id": "ji-meng",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "计蒙",
+    "en": "Jimeng"
+  },
+  "title": {
+    "zh": "出入必有飘风暴雨的龙首之神",
+    "en": "Dragon-Headed God Attended by Gales and Rainstorms"
+  },
+  "summary": {
+    "zh": "光山之神，人身龙首，常在漳水深渊中游弋，每次出入必定裹挟旋风暴雨，后人多视之为司风雨的水神。",
+    "en": "God of Mount Guang with a human body and a dragon's head, who haunts the deep pools of the Zhang River; whirlwind and rainstorm attend his every coming and going."
+  },
+  "description": {
+    "zh": "《中次八经》记光山“其上多碧，其下多水”，神计蒙居于此山：“其状人身而龙首，恒游于漳渊，出入必有飘风暴雨。”人的身体顶着一颗龙头，长年在漳水的深渊里游弋；它每次出水入水，天地间必起旋风暴雨相随。\n\n龙在战国秦汉的观念里正是兴云致雨之物，人身龙首的计蒙因此常被后人当作早期的风雨之神。它所在的荆山山系有漳水、雎水流过，属楚地腹心。\n\n出入带着征候的神在中山经里成群：泰逢、于儿“出入有光”，耕父游于清泠之渊、出入有光，洞庭山帝之二女“出入必以飘风暴雨”。神明过境必有异象，光与风雨是两套不同的仪仗。",
+    "en": "Mount Guang carries green jasper above and abundant waters below. The god Jimeng dwells there: a human body crowned with a dragon's head. He spends his days swimming the deep pools of the Zhang River, and every entry and exit is attended by whirlwinds and violent rain.\n\nIn Warring States and Han thought the dragon is the rain-bringer, and the dragon-headed Jimeng has accordingly been read as an early god of wind and rain. His range, the Jing mountains threaded by the Zhang and Ju rivers, lies in the heartland of ancient Chu.\n\nGods whose passage shows a sign cluster throughout the central mountains: Taifeng and Yu'er come and go in light, Gengfu rises glowing from the Qingling pool, and the two daughters of the supreme god on Mount Dongting move, like Jimeng, in gale and storm. A god's crossing never goes unmarked; light and tempest are the two liveries these gods travel under."
+  },
+  "domains": {
+    "zh": [
+      "风雨",
+      "水神",
+      "龙首"
+    ],
+    "en": [
+      "Wind and Rain",
+      "River Gods",
+      "Dragon-Headed Gods"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "光山与漳渊",
+        "en": "Mount Guang and the Zhang River deeps"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人身龙首",
+        "en": "Human body, dragon's head"
+      }
+    },
+    {
+      "label": {
+        "zh": "异象",
+        "en": "Sign"
+      },
+      "value": {
+        "zh": "出入必有飘风暴雨",
+        "en": "Gales and rainstorms attend his passage"
+      }
+    }
+  ],
+  "related": [
+    "yu-er",
+    "di-zhi-er-nu",
+    "tai-feng"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/ji-meng.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic35_-_%E8%A8%88%E8%92%99%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic35 - 計蒙神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 682,
+    "height": 1000
+  }
+}

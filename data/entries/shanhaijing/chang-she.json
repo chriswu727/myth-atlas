@@ -1,0 +1,92 @@
+{
+  "id": "chang-she",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "长蛇",
+    "en": "Changshe"
+  },
+  "title": {
+    "zh": "毛如猪鬃、声如梆子的巨蛇",
+    "en": "The Great Serpent Bristled Like a Boar, Sounding Like a Watchman's Clapper"
+  },
+  "summary": {
+    "zh": "大咸之山的巨蛇，身上长着猪鬃一样的硬毛，声音像巡夜人敲的梆子；旧注说它长达百寻。",
+    "en": "A giant serpent of Daxian Mountain, covered in bristles like boar hair, its voice like the wooden clapper of a night watchman. Early commentary puts its length at a hundred xun — nearly two hundred metres."
+  },
+  "description": {
+    "zh": "北山经首篇记大咸之山：不生草木，山下多玉。这座山是四方形的，人上不去。山中有蛇，名叫长蛇，身上覆着猪鬃一样的粗硬刚毛，发出的声音像更夫巡夜敲击的木梆，笃、笃、笃地在无人能登的方山上回响。\n\n经文本身没有给出尺寸，“长”字由注家补足：郭璞注引旧说，称此蛇“长百寻”。以八尺为一寻计，百寻即八百尺，合今制近两百米。带毛的蛇本已违背常识，梆子般的空响与不可攀登的四方之山，让这一条目在北山经诸多食人兽之间保持着一种远观的、不见首尾的恐怖——经文甚至没有说它伤人，只是把它放在那里。\n\n后世谈巨蛇常引此条作为早期书证之一。“长蛇”一词在文献中又演为对贪残侵吞者的比喻，《左传》已有“封豕长蛇”之语，以大猪与长蛇并举，指吞食小国的强暴之国，这层引申义与大咸之山的实指怪蛇并行流传。",
+    "en": "The first guideway of the Northern Mountains records Daxian Mountain: no plants grow there, jade lies below, and the mountain itself is four-square and impossible to climb. On it lives a serpent called simply the changshe, the Long Snake. Its body is covered in stiff bristles like the hairs of a boar, and its voice is the knock of the wooden clapper a night watchman beats on his rounds — a dry, measured tapping from a mountain no one can ascend.\n\nThe text gives no measurement; the commentators supplied one. Guo Pu's fourth-century annotation cites an older tradition that the snake is 'a hundred xun long' — at eight chi to the xun, eight hundred chi, close to two hundred metres. A furred snake already defies nature; the clapper-like knocking and the unclimbable square mountain give the entry a horror of distance, a thing heard rather than seen. The classic never even says it harms anyone. It simply places it there.\n\nLater writers on giant serpents regularly cited this passage as an early authority. The phrase 'long snake' also grew a figurative life: the Zuozhuan already pairs it with the great boar in 'fengshi changshe', a byname for rapacious states that swallow their neighbours, and that metaphor circulated alongside the literal bristled monster of Daxian Mountain."
+  },
+  "domains": {
+    "zh": [
+      "巨蛇",
+      "怪声",
+      "北山",
+      "不可近之地"
+    ],
+    "en": [
+      "Giant Serpents",
+      "Uncanny Sounds",
+      "Northern Mountains",
+      "Unreachable Places"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "蛇身覆猪鬃状硬毛",
+        "en": "Serpent body covered in boar-like bristles"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如巡夜梆子声",
+        "en": "Like a night watchman's wooden clapper"
+      }
+    },
+    {
+      "label": {
+        "zh": "体长",
+        "en": "Length"
+      },
+      "value": {
+        "zh": "郭璞注引旧说：长百寻（八百尺）",
+        "en": "A hundred xun (eight hundred chi, nearly two hundred metres), per tradition cited by Guo Pu"
+      }
+    }
+  ],
+  "related": [
+    "he-luo-yu",
+    "jing-wei",
+    "qi-zhong"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（大咸之山）及郭璞注",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Daxian Mountain), with Guo Pu's commentary"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/chang-she.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic505_-_%E9%95%B7%E8%9B%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic505 - 長蛇圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 665,
+    "height": 1000
+  }
+}

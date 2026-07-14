@@ -1,0 +1,91 @@
+{
+  "id": "humbaba",
+  "tradition": "mesopotamian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "胡姆巴巴",
+    "en": "Humbaba",
+    "original": "Ḫumbaba",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "雪松林的守卫",
+    "en": "Guardian of the Cedar Forest"
+  },
+  "summary": {
+    "zh": "恩利尔委任的雪松林守卫，面如盘肠，吼声如洪水，身负七重恐怖光焰；被吉尔伽美什与恩启都设计诛杀，临死诅咒二人。",
+    "en": "Guardian of the Cedar Forest appointed by Enlil, his face a coil of entrails, his roar the Deluge. Gilgamesh and Enkidu tricked him out of his seven auras and killed him despite his pleas."
+  },
+  "description": {
+    "zh": "胡姆巴巴（较早文本作胡瓦瓦）是雪松林的守卫，由恩利尔亲自委任，职责是不让凡人近山伐木。史诗形容他“吼声是洪水，口出是火，吐息是死亡”，林中六十里格外的动静都逃不过他的耳朵。他的脸在两河人心中自成一格：古巴比伦时期流行一种黏土面具，五官全由一根盘绕的肠子构成——占卜师剖验祭牲，若肠形盘曲“如胡姆巴巴之面”，便据以断验；大英博物馆藏有一件背面带铭文的此类面具。\n\n《吉尔伽美什史诗》第三至五块泥板讲他的结局。吉尔伽美什与恩启都远征雪松林，太阳神沙玛什放出十三种狂风缚住他的手脚。七重恐怖光焰本是他的护身之宝——苏美尔语《吉尔伽美什与胡瓦瓦》里，他被礼物诱惑，一重一重把光焰交了出去，交完最后一重才发觉中计。他跪地求饶，愿献出雪松、终身为奴；吉尔伽美什几乎心软，恩启都催促下手：趁众神未知，杀了他。胡姆巴巴临死诅咒二人不得长寿。他们砍下头颅装进皮袋献给恩利尔，换来的是神的震怒——众神后来判恩启都死罪，这一刀是重要罪状。\n\n2011年入藏苏莱曼尼亚博物馆的一块新泥板补出了失落的诗行：雪松林冠里的鸟鸣与猿啼，以及二人伐倒神圣雪松之后的不安。",
+    "en": "Humbaba — Huwawa in the older Babylonian and Sumerian texts — is the guardian whom Enlil set over the Cedar Forest to keep mortals from its timber. The epic gives him a terrifying kit: 'his voice is the Deluge, his speech is fire, his breath is death,' and no stirring in his forest at sixty leagues escapes his ears. His face became a thing in its own right: Old Babylonian clay masks render his features as a single coiled intestine, for diviners read entrails that curled 'like the face of Huwawa' as an omen; the British Museum keeps one such inscribed mask.\n\nTablets III to V of the Epic of Gilgamesh tell of his end. Gilgamesh and Enkidu march to the forest, and Shamash the sun god pins the guardian with thirteen winds. His seven auras of terror are his armor — in the Sumerian poem Gilgamesh and Huwawa he is coaxed into trading them away one by one for gifts, and discovers the trick only when the last is gone. On his knees he offers cedar and lifelong service; Gilgamesh wavers, but Enkidu presses him to strike before the gods learn of it. Dying, Humbaba curses them both. They carry his head to Enlil in a leather sack, and the god is furious; the deed weighs heavily when the gods later condemn Enkidu to death.\n\nA tablet acquired by the Sulaymaniyah Museum in 2011 restored lost lines: the din of birds and monkeys in the cedar canopy, and the heroes' unease after felling the sacred trees."
+  },
+  "domains": {
+    "zh": [
+      "守卫",
+      "森林",
+      "恐怖光焰"
+    ],
+    "en": [
+      "Guardianship",
+      "Forest",
+      "Auras of terror"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "委任者",
+        "en": "Appointed by"
+      },
+      "value": {
+        "zh": "恩利尔",
+        "en": "Enlil"
+      }
+    },
+    {
+      "label": {
+        "zh": "护身之宝",
+        "en": "Armor"
+      },
+      "value": {
+        "zh": "七重恐怖光焰",
+        "en": "Seven auras of terror"
+      }
+    },
+    {
+      "label": {
+        "zh": "面容",
+        "en": "Face"
+      },
+      "value": {
+        "zh": "一根盘肠构成的五官",
+        "en": "Features formed of one coiled intestine"
+      }
+    }
+  ],
+  "related": [
+    "gilgamesh",
+    "enlil"
+  ],
+  "sources": [
+    {
+      "zh": "《吉尔伽美什史诗》第三至五块泥板",
+      "en": "Epic of Gilgamesh, Tablets III-V"
+    },
+    {
+      "zh": "苏美尔语《吉尔伽美什与胡瓦瓦》",
+      "en": "Gilgamesh and Huwawa (Sumerian)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/humbaba.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_mask_of_Humbaba_(Huwawa)._From_Ur,_Iraq._Old-Babylonian_period_2004-1595_BCE._Sulaymaniyah_Museum.jpg",
+    "sourceTitle": "Terracotta mask of Humbaba (Huwawa). From Ur, Iraq. Old-Babylonian period 2004-1595 BCE. Sulaymaniyah Museum",
+    "artist": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 931
+  }
+}

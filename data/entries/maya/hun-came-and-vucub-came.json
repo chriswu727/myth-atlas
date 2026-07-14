@@ -1,0 +1,89 @@
+{
+  "id": "hun-came-and-vucub-came",
+  "tradition": "maya",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "浑·卡梅与维科布·卡梅",
+    "en": "Hun Came and Vucub Came",
+    "original": "Jun Kame, Wuqub' Kame",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "西巴尔巴的双主，“一死”与“七死”",
+    "en": "One Death and Seven Death, Chief Lords of Xibalba"
+  },
+  "summary": {
+    "zh": "西巴尔巴冥界的最高双主，名意“一死”与“七死”。他们遣四枭为使，召人间球手赴死，最终在自己央求观看的献祭戏法中被双子英雄杀死。",
+    "en": "The paired supreme lords of Xibalba, \"One Death\" and \"Seven Death.\" They sent owl messengers to summon ballplayers to their doom, until the Hero Twins killed them in the sacrifice trick they begged to see."
+  },
+  "description": {
+    "zh": "西巴尔巴的王座上并坐着两位死神：浑·卡梅（一死）与维科布·卡梅（七死）。他们之下的死神也都成对办差，各管一种置人于死地的病痛——希基里帕特与库丘马基克使人血败，阿哈尔普与阿哈尔加纳使人化脓浮肿，持骨杖的查米亚巴克与查米亚霍洛姆把人熬成骷髅，阿哈尔梅斯与阿哈尔托科布让人祸起家门、暴毙于内，希克与帕坦则扼住赶路人的喉咙，使其吐血死在途中。传令的是四只枭：箭枭、独脚枭、鹦鹉枭与头颅枭。\n\n《波波尔·乌》里，二主因人间球场的踏地声吵扰头顶而动怒，遣枭召浑·乌纳普与维科布·乌纳普携球具下界比赛。兄弟俩一到就中了圈套：向座中木偶问安，惹得满堂死神哄笑；坐上待客的石凳，被烫得跳起；进暗屋又没能保住火把与雪茄。次日二人被杀，葬于球场，浑·乌纳普的头颅被挂上葫芦树——树顷刻结满果实，头颅混在其间难以分辨，西巴尔巴由此下了禁近之令。\n\n多年后双子英雄下界复仇，二主的每一步都落了空：一只由乌纳普胫毛化成的蚊子叮遍全场，把十二位死神的名字一一套出；诸屋杀不死这对兄弟；连蝠屋中斩落的头颅也被调换回去。最后，扮作流浪艺人的双子表演“杀人复活”的戏法，看得二主心痒，争相要求以身一试。双子先杀一死，再杀七死，不再复活。群臣跪伏请降，双子宣判：西巴尔巴从此不得再享洁净的祭品，只配收树脂的焦烟，只与作恶之人为伍。",
+    "en": "Two death gods share the throne of Xibalba: Hun Came, One Death, and Vucub Came, Seven Death. Beneath them the lords likewise work in pairs, each pair holding a fatal affliction in its portfolio - Xiquiripat and Cuchumaquic corrupt the blood; Ahalpuh and Ahalgana raise pus and dropsy; Chamiabac and Chamiaholom, bearers of bone staffs, waste people to skeletons; Ahalmez and Ahaltocob strike people down in their own houses; Xic and Patan seize travelers by the throat so they die on the road vomiting blood. Four owls carry their summons: Shooting Owl, One-Legged Owl, Macaw Owl, and Skull Owl.\n\nIn the Popol Vuh the two lords, enraged by the stamping of a ballgame overhead, sent the owls to summon Hun Hunahpu and Vucub Hunahpu down for a match. The brothers walked straight into every snare: they greeted the dressed-up mannequins seated among the lords and were laughed to scorn; they sat on the guest bench and leapt up scalded, for it was glowing stone; in the House of Darkness they let the torch and cigars burn away. The next day they were sacrificed and buried in the ballcourt, and Hun Hunahpu's head was hung in a calabash tree - which at once fruited so thickly the skull could hardly be told from the gourds, and Xibalba declared the tree forbidden.\n\nWhen the Hero Twins came down a generation later, every device of the two lords misfired. A mosquito made from a hair of Hunahpu's shin bit its way down the assembled court and harvested all twelve names; the killing houses failed; even the head the bat took in the Bat House was swapped back. At the last, the twins in their beggar-dancer disguise performed the marvel of sacrificing a victim and restoring him to life, and the two lords, beside themselves, demanded to be the next subjects. The twins killed One Death, then Seven Death, and revived neither. As the court groveled, the twins passed sentence: Xibalba would receive no more clean offerings, only the smoke of burnt sap, and would keep company with none but wrongdoers."
+  },
+  "domains": {
+    "zh": [
+      "死亡",
+      "疾病",
+      "冥界"
+    ],
+    "en": [
+      "Death",
+      "Disease",
+      "Underworld"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "信使",
+        "en": "Messengers"
+      },
+      "value": {
+        "zh": "箭枭、独脚枭、鹦鹉枭、头颅枭",
+        "en": "Shooting Owl, One-Legged Owl, Macaw Owl, Skull Owl"
+      }
+    },
+    {
+      "label": {
+        "zh": "属官",
+        "en": "Court"
+      },
+      "value": {
+        "zh": "成对司病的十位死神",
+        "en": "Ten lords in pairs, each pair holding an affliction"
+      }
+    },
+    {
+      "label": {
+        "zh": "败亡",
+        "en": "Downfall"
+      },
+      "value": {
+        "zh": "央求以身试演献祭戏法",
+        "en": "Begged to star in the sacrifice trick"
+      }
+    }
+  ],
+  "related": [
+    "xibalba",
+    "hunahpu-and-xbalanque",
+    "camazotz",
+    "maya-maize-god"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶；希门内斯抄本，约1701—1703年）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century; Ximénez copy, c. 1701-1703)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hun-came-and-vucub-came.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_column_of_Ah_Puch_-_71.1967.37.1_-_black_background.jpg",
+    "sourceTitle": "Relief column of Ah Puch - 71.1967.37.1 - black background",
+    "artist": "Sukkoria",
+    "license": "CC BY-SA 4.0",
+    "width": 750,
+    "height": 1000
+  }
+}

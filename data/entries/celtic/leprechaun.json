@@ -1,0 +1,97 @@
+{
+  "id": "leprechaun",
+  "tradition": "celtic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "矮妖",
+    "en": "Leprechaun",
+    "original": "leipreachán",
+    "originalLang": "爱尔兰语"
+  },
+  "title": {
+    "zh": "藏金的独行鞋匠精",
+    "en": "The solitary fairy shoemaker with a hidden hoard"
+  },
+  "summary": {
+    "zh": "爱尔兰的独行小仙，以做鞋为业，埋藏金币。被人捉住须以金子或三个愿望赎身，却总能用话术脱身，抓住他的人从没落着好处。",
+    "en": "Ireland's solitary fairy cobbler, hoarder of buried gold. Caught, he must ransom himself with treasure or three wishes, yet he talks his way free every time."
+  },
+  "description": {
+    "zh": "矮妖是爱尔兰仙灵谱系里的独行者，不与仙冢中的群仙来往，独居野外，以给仙人做鞋为业——民间说法认为仙人夜夜跳舞，最费鞋。他的形象是一个巴掌高到膝盖高的小老头，围皮革围裙，衔烟斗，锤声嗒嗒是他暴露行踪的标志。矮妖以埋藏的金币罐闻名：谁能盯住他不眨眼，他就得交出金子或应允三个愿望；可他总有办法让人移开视线——喊一声“你身后”是最经典的一招——眨眼之间已无踪影。另一类故事里，得手的人用红袜带在埋金处的千里光草茎上做记号，回去取铲子，再来时满田的千里光都系着一模一样的袜带。\n\n这个形象的书面源头可以追到8世纪的传奇《费古斯·麦克莱蒂历险记》：阿尔斯特王费古斯在海边睡着，被一群叫 luchorpáin（“小身子”）的水中小人抬向大海，惊醒后抓住三个，换得在水下呼吸的本领。中世纪的水中小人如何演变成近代的旱地鞋匠，链条并不完整；托马斯·克罗夫顿·克罗克1825年的故事集记录了它在芒斯特的近亲“醉仙”克鲁里坎（cluricaune），叶芝1888年编《爱尔兰农民的仙灵与民间故事》时把矮妖归入“独行仙灵”一类。\n\n19世纪以来，绿衣、红须、金币罐、彩虹尽头的矮妖形象经移民文化与商业广告不断增殖，成为圣帕特里克节和“爱尔兰风情”的全球符号——本土民俗学者对这个卡通化的形象多有保留。",
+    "en": "The leprechaun is the solitary among Irish fairies, keeping apart from the trooping si-folk, living alone in the wild and working as cobbler to the fairy kind, who are said to wear out their shoes with nightly dancing. He appears as an old man somewhere between a hand's span and knee height, in a leather apron, pipe in mouth, betrayed by the tap-tap of his hammer. His fame rests on buried crocks of gold: hold him in your gaze without blinking and he must buy his freedom with treasure or three wishes, but he always contrives to make you look away, the classic trick being a cry of 'behind you!', and in that blink he is gone. In another well-worn tale a man marks the ragwort over the treasure with a red garter and goes for a spade, only to return and find every ragwort in the field wearing one.\n\nThe written trail begins with the eighth-century saga Echtra Fergusa maic Leti, in which King Fergus of Ulster, asleep on the shore, is carried toward the sea by luchorpain, 'small bodies', water sprites from whom he wins the power to travel under water. How the medieval water-dwarf became the modern land-bound cobbler is not fully documented. Thomas Crofton Croker's 1825 collection records his Munster cousin the cluricaune, a tippling cellar-haunter, and W. B. Yeats classed the leprechaun among the 'solitary fairies' in his 1888 anthology of Irish peasant tales.\n\nSince the nineteenth century the green coat, red beard, crock of gold and rainbow's end have multiplied through emigrant culture and advertising into a global shorthand for Irishness, a cartoon that Irish folklorists regard with limited enthusiasm."
+  },
+  "domains": {
+    "zh": [
+      "独行仙灵",
+      "藏金",
+      "机巧",
+      "鞋匠"
+    ],
+    "en": [
+      "Solitary fairy",
+      "Hidden gold",
+      "Trickery",
+      "Cobbler"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First recorded"
+      },
+      "value": {
+        "zh": "8世纪《费古斯·麦克莱蒂历险记》中的水中小人 luchorpáin",
+        "en": "The luchorpain in Echtra Fergusa maic Leti, 8th century"
+      }
+    },
+    {
+      "label": {
+        "zh": "捕获规则",
+        "en": "Rule of capture"
+      },
+      "value": {
+        "zh": "盯住不眨眼可索金子或三个愿望",
+        "en": "An unbroken gaze wins gold or three wishes"
+      }
+    },
+    {
+      "label": {
+        "zh": "行踪标志",
+        "en": "Tell"
+      },
+      "value": {
+        "zh": "灌木丛里传出的鞋锤敲击声",
+        "en": "The tap of a cobbler's hammer from the hedge"
+      }
+    }
+  ],
+  "related": [
+    "banshee",
+    "tir-na-nog"
+  ],
+  "sources": [
+    {
+      "zh": "《费古斯·麦克莱蒂历险记》（Echtra Fergusa maic Léti，8世纪传奇）",
+      "en": "Echtra Fergusa maic Leti (The Adventure of Fergus mac Leti), 8th-century saga"
+    },
+    {
+      "zh": "托马斯·克罗夫顿·克罗克《爱尔兰南部仙灵传说》（1825）",
+      "en": "Thomas Crofton Croker, Fairy Legends and Traditions of the South of Ireland, 1825"
+    },
+    {
+      "zh": "叶芝编《爱尔兰农民的仙灵与民间故事》（1888）",
+      "en": "W. B. Yeats (ed.), Fairy and Folk Tales of the Irish Peasantry, 1888"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/leprechaun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goble-Book_of_Fairy_Poetry024Lupracaun_or_Fairy_Shoemaker.jpg",
+    "sourceTitle": "Goble-Book of Fairy Poetry024Lupracaun or Fairy Shoemaker",
+    "artist": "Author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 756
+  }
+}

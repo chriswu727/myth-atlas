@@ -1,0 +1,95 @@
+{
+  "id": "david-and-goliath",
+  "tradition": "abrahamic",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "大卫与歌利亚",
+    "en": "David and Goliath",
+    "original": "דָּוִד וְגָלְיָת",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "牧童以机弦胜巨人",
+    "en": "The Shepherd's Sling Against the Giant"
+  },
+  "summary": {
+    "zh": "非利士巨人歌利亚在以拉谷骂阵四十天，少年大卫不披铠甲，用机弦甩石击中他的额头，再用巨人自己的刀割下其首级。",
+    "en": "For forty days the Philistine giant Goliath taunted Israel in the Valley of Elah, until the young David, unarmored, felled him with a sling stone to the forehead and beheaded him with his own sword."
+  },
+  "description": {
+    "zh": "《撒母耳记上》第十七章记载，非利士人与以色列人在以拉谷两边的山上对阵。迦特人歌利亚从非利士营中出来讨战：身高六肘零一虎口（约三米；较早的希腊译本与死海古卷作四肘零一虎口，约两米），头戴铜盔，身穿重五千舍客勒的铠甲，腿上有铜护膝，两肩之中背负铜戟，枪杆粗如织布的机轴，铁枪头重六百舍客勒。他早晚出来骂阵，共四十天，扫罗和以色列众人极其害怕。\n\n伯利恒人耶西的小儿子大卫此时还在放羊，奉父命给从军的哥哥们送干粮，正遇歌利亚骂阵。他对扫罗说：你仆人为父亲放羊，有狮子或熊来叼羊羔，我就追上去击打它，从它口中救出羊羔来——这未受割礼的非利士人也必像狮子和熊一样。扫罗把自己的战衣给他穿，大卫走不惯又脱下，只拿手杖，在溪中挑了五块光滑的石子放进牧人袋，手拿机弦迎向巨人。歌利亚见他年轻面色红润便藐视他：你拿杖到我这里来，我岂是狗呢？大卫答：你来攻击我是靠刀枪和铜戟，我来攻击你是靠万军之耶和华的名。他用机弦甩石，正中歌利亚的额头，石子陷入额内，巨人仆倒。大卫没有刀，就跑过去拔出歌利亚自己的刀，割下他的头。非利士军见勇士已死，四散奔逃。\n\n这一战开启了大卫从牧童到以色列王的上升之路。\"大卫对歌利亚\"从此成为西方语言中以弱胜强的通用成语；米开朗基罗一五〇四年立于佛罗伦萨的大理石像刻画的正是投石前凝视对手的大卫，是文艺复兴雕塑最著名的作品之一。",
+    "en": "1 Samuel 17 sets the Philistine and Israelite armies on facing hillsides of the Valley of Elah. From the Philistine camp comes Goliath of Gath, a champion six cubits and a span tall (about three meters; the older Greek text and a Dead Sea scroll read four cubits and a span, about two), wearing a bronze helmet and a coat of mail weighing five thousand shekels, bronze greaves on his legs and a bronze javelin slung between his shoulders, his spear shaft like a weaver's beam, its iron head weighing six hundred shekels. Morning and evening for forty days he strides out and defies the ranks of Israel, and Saul and all Israel are dismayed.\n\nDavid, youngest son of Jesse of Bethlehem, is still keeping sheep; sent with provisions for his brothers at the front, he hears the taunt. To Saul he says that when a lion or a bear carried off a lamb from his father's flock, he struck it down and rescued the lamb from its mouth — this uncircumcised Philistine will fare like them. He tries on Saul's armor, cannot walk in it, and puts it off, taking instead his staff, five smooth stones from the streambed in his shepherd's bag, and his sling. Goliath, seeing a ruddy youth, is contemptuous: am I a dog, that you come to me with sticks? David answers that Goliath comes with sword, spear, and javelin, but he comes in the name of the Lord of hosts. He slings a stone that sinks into the giant's forehead; Goliath falls face down, and David, having no sword, draws the giant's own blade and cuts off his head. The Philistine army breaks and flees.\n\nThe duel begins David's rise from shepherd to king of Israel. 'David and Goliath' became the West's standing phrase for the weak defeating the strong, and Michelangelo's marble David of 1504, set up in Florence, catches the youth in the moment of appraisal before the throw — among the most famous sculptures of the Renaissance."
+  },
+  "domains": {
+    "zh": [
+      "以弱胜强",
+      "单挑决斗",
+      "王者兴起"
+    ],
+    "en": [
+      "The weak against the strong",
+      "Single combat",
+      "Rise of a king"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "机弦与五块光滑的石子，对铜盔铁枪",
+        "en": "A sling and five smooth stones, against bronze and iron"
+      }
+    },
+    {
+      "label": {
+        "zh": "歌利亚身高",
+        "en": "Goliath's height"
+      },
+      "value": {
+        "zh": "六肘零一虎口（约3米）；早期抄本作四肘零一虎口",
+        "en": "Six cubits and a span (c. 3 m); four in earlier manuscripts"
+      }
+    },
+    {
+      "label": {
+        "zh": "决斗地点",
+        "en": "Site of the duel"
+      },
+      "value": {
+        "zh": "以拉谷",
+        "en": "The Valley of Elah"
+      }
+    }
+  ],
+  "related": [
+    "nephilim",
+    "ark-of-the-covenant"
+  ],
+  "sources": [
+    {
+      "zh": "《撒母耳记上》17章",
+      "en": "1 Samuel 17"
+    }
+  ],
+  "geo": {
+    "lat": 31.69,
+    "lon": 34.96,
+    "label": {
+      "zh": "以拉谷（以色列）",
+      "en": "Valley of Elah, Israel"
+    }
+  },
+  "image": {
+    "file": "/images/entries/david-and-goliath.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg",
+    "sourceTitle": "Italian: Davide con la testa di Golia David with the Head of Goliathtitle QS:P1476,it:\"Davide con la testa di Golia \"label QS:Lit,\"Davide con la testa di Golia \"label QS:Les,\"David con la cabeza de Goliat\"label QS:Lfr,\"David avec la tête de Goliath\"label QS:Lhr,\"David s Golijatovom glavom\"label QS:Llv,\"Dāvids ar Goliāta galvu\"label QS:Lru,\"Давид с головой Голиафа\"label QS:Lbr,\"David gant penn Goliat\"label QS:Lde,\"David mit dem Haupt des Goliath\"label QS:Lpt,\"Davi com a Cabeça de Golias\"label QS:Lhy,\"Դավիթը Գողիաթի գլխով\"label QS:Lzh,\"大衛與歌利亞的頭顱\"label QS:Lth,\"เดวิดกับหัวโกไลแอธ\"label QS:Ltr,\"Golyat'ın Kafasıyla Davut\"label QS:Lja,\"ゴリアテの首を持つダヴィデ (カラヴァッジョ、ボルゲーゼ美術館)\"label QS:Lsv,\"David med Goljats huvud\"label QS:Lsh,\"David s Golijatovom glavom\"label QS:Larz,\"داود مع راس جليات\"label QS:Lpl,\"Dawid z głową Goliata\"label QS:Lhe,\"דוד עם ראשו של גוליית\"label QS:Lnl,\"David met het hoofd van Goliath\"label QS:Luk,\"Давид із головою Голіафа (Караваджо, Рим)\"label QS:Lavk,\"Davide dem taka ke Golia (2) (trutca ke Caravaggio)\"label QS:Lko,\"골리앗의 머리를 든 다윗\"label QS:Len,\"David with the Head of Goliath\"label QS:Lar,\"داود مع رأس جليات\"label QS:Lca,\"David amb el cap de Goliat\"",
+    "artist": "Caravaggio",
+    "license": "Public domain",
+    "width": 808,
+    "height": 1000
+  }
+}

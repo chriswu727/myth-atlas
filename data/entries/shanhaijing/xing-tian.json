@@ -1,0 +1,94 @@
+{
+  "id": "xing-tian",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "刑天",
+    "en": "Xingtian"
+  },
+  "title": {
+    "zh": "断首之后仍操干戚而舞的战神",
+    "en": "The Headless God Who Still Dances with Shield and Axe"
+  },
+  "summary": {
+    "zh": "与天帝争神位而被斩首的神，葬首常羊之山后以双乳为目、肚脐为口，一手持盾一手持斧，永不停歇地挥舞。",
+    "en": "A god beheaded for challenging the Supreme God's throne. With nipples for eyes and navel for mouth, he brandishes shield and axe in an endless war dance."
+  },
+  "description": {
+    "zh": "《海外西经》记：\"刑天与帝至此争神。帝断其首，葬之常羊之山。乃以乳为目，以脐为口，操干戚以舞。\"干是盾，戚是斧。他与天帝（旧注多以为即黄帝）争夺神位，战败被斩首，头颅埋进常羊山。失去头颅的身躯没有倒下，两乳化为眼睛，肚脐化为嘴，双手仍握着盾与斧，向着看不见的敌人挥舞不止。\n\n经文只有二十余字，却是《山海经》里最著名的败者形象之一。\"刑\"是戮；\"天\"一说指天帝，一说通\"颠\"、即头颅。这个名字本身就像战败后追加的刑名。东晋陶渊明《读山海经》组诗咏道\"刑天舞干戚，猛志固常在\"，把这具无首之躯读作至死不屈的意志，从此刑天与精卫填海并举，成为后世咏叹抗争的现成典故，也频繁出现在今天的小说、漫画与游戏里。",
+    "en": "The Classic of Regions Beyond the Seas: West devotes barely two dozen characters to him: Xingtian contended with the Supreme God for divinity; the god cut off his head and buried it on Mount Changyang; whereupon Xingtian made his nipples into eyes and his navel into a mouth, and danced brandishing shield and battle-axe. Early commentators often identify his opponent as the Yellow Emperor. The headless trunk never falls: it keeps swinging its weapons at an enemy it can no longer see.\n\nThe name itself reads like a sentence passed on the loser, roughly 'punished by Heaven' or 'the severed head'. The poet Tao Yuanming (365-427) fixed the figure's meaning for all later ages in his cycle 'On Reading the Shanhaijing': 'Xingtian dances with shield and axe; his fierce resolve endures forever.' Paired ever since with the sea-filling bird Jingwei as an emblem of defiance beyond defeat, Xingtian remains a stock figure in modern Chinese fiction, comics, and games."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "断首",
+      "不屈"
+    ],
+    "en": [
+      "War",
+      "Decapitation",
+      "Defiance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "干（盾）与戚（斧）",
+        "en": "Shield (gan) and battle-axe (qi)"
+      }
+    },
+    {
+      "label": {
+        "zh": "五官",
+        "en": "Features"
+      },
+      "value": {
+        "zh": "以乳为目，以脐为口",
+        "en": "Nipples for eyes, navel for mouth"
+      }
+    },
+    {
+      "label": {
+        "zh": "葬首之地",
+        "en": "Burial of the Head"
+      },
+      "value": {
+        "zh": "常羊之山",
+        "en": "Mount Changyang"
+      }
+    }
+  ],
+  "related": [
+    "huangdi",
+    "kua-fu",
+    "jing-wei"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外西经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: West'"
+    },
+    {
+      "zh": "陶渊明《读山海经十三首》",
+      "en": "Tao Yuanming, 'On Reading the Shanhaijing', thirteen poems"
+    }
+  ],
+  "volume": {
+    "zh": "海外西经",
+    "en": "Classic of Regions Beyond the Seas: West"
+  },
+  "image": {
+    "file": "/images/entries/xing-tian.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiang_Yinghao_-_Xingtian.jpg",
+    "sourceTitle": "Jiang Yinghao - Xingtian",
+    "artist": "Jiang Yinghao",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 809
+  }
+}

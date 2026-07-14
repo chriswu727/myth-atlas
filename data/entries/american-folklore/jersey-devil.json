@@ -1,0 +1,99 @@
+{
+  "id": "jersey-devil",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "泽西恶魔",
+    "en": "Jersey Devil"
+  },
+  "title": {
+    "zh": "松林泥炭地的利兹家第十三子",
+    "en": "The Thirteenth Child of the Pine Barrens"
+  },
+  "summary": {
+    "zh": "新泽西松林泥炭地的殖民时代传说：利兹夫人1735年生下的第十三个孩子化为马头蝠翼的怪物飞出烟囱，1909年1月的目击潮令费城周边陷入恐慌。",
+    "en": "A colonial New Jersey legend: Mother Leeds' thirteenth child, born in 1735, turned into a horse-headed, bat-winged fiend and flew up the chimney; a January 1909 sighting wave panicked the Delaware Valley."
+  },
+  "description": {
+    "zh": "泽西恶魔通常被描述为一种拼合式的怪物：马或山羊般的长脸，蝙蝠的皮翼，细长的后腿末端是分趾的蹄，还有一条分叉的尾巴，行动时发出刺耳的尖啸。它盘踞在新泽西州南部的松林泥炭地（Pine Barrens）——一片一百多万英亩的沙质松林，殖民时代以来一直是走私者、逃亡者与偏僻村落的藏身处。\n\n流传最广的起源故事发生在1735年：松林边缘利兹角（Leeds Point）的利兹夫人发现自己第十三次怀孕，诅咒道「让这个孩子当魔鬼去吧」。孩子生下时是正常婴儿，随即在众人眼前变形，长出翅膀与蹄子，尖叫着杀出产房，从烟囱飞进松林。这一传说与当地真实的利兹家族有关：丹尼尔·利兹是十七世纪末的历书作者，因占星内容与贵格会社区交恶，家族纹章上恰好绘着生翼的龙形怪兽。1859年《大西洋月刊》的松林见闻《In the Pines》已记载居民对「利兹恶魔」的恐惧。\n\n1909年1月16日至23日，恶魔迎来最著名的一周：从费城到特伦顿的数十个城镇报告雪地怪蹄印、屋顶怪影和电车站的翼兽，部分学校停课、工厂停工，费城动物园悬赏一万美元捉拿活体。此后它退回传说领域，成为新泽西的非官方吉祥物——1982年迁入新泽西的NHL球队「新泽西恶魔」即以它命名。",
+    "en": "The Jersey Devil is a patchwork monster: a long horse- or goat-like face, leathery bat wings, thin hind legs ending in cloven hooves, and a forked tail, all announced by a piercing shriek. Its haunt is the Pine Barrens of southern New Jersey, more than a million acres of sandy pine forest that has sheltered smugglers, fugitives, and isolated villages since colonial times.\n\nThe standard origin tale is set in 1735 at Leeds Point on the forest's edge. Mother Leeds, finding herself pregnant a thirteenth time, cursed the child to be a devil. The baby was born normal, then transformed before the household's eyes, sprouting wings and hooves before screaming up the chimney and into the pines. The story shadows a real family: Daniel Leeds, a late-seventeenth-century almanac writer, feuded with his Quaker neighbors over astrology, and the Leeds family crest happens to bear winged dragon-like creatures. An 1859 Atlantic Monthly sketch of the region, \"In the Pines,\" already records local dread of the Leeds Devil.\n\nThe creature's most famous week ran from January 16 to 23, 1909, when dozens of towns between Philadelphia and Trenton reported strange hoofprints in the snow, shapes on rooftops, and a winged thing at a trolley stop; some schools closed, mills shut early, and the Philadelphia Zoo posted a $10,000 reward for a live specimen. It has since settled into the role of New Jersey's unofficial mascot, lending its name to the NHL's New Jersey Devils when the franchise arrived in the state in 1982."
+  },
+  "domains": {
+    "zh": [
+      "殖民时代传说",
+      "松林泥炭地",
+      "第十三子诅咒",
+      "目击恐慌"
+    ],
+    "en": [
+      "Colonial legend",
+      "Pine Barrens",
+      "Thirteenth-child curse",
+      "Sighting panic"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "体貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "马头、蝠翼、分趾蹄、分叉尾",
+        "en": "Horse head, bat wings, cloven hooves, forked tail"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说起源",
+        "en": "Legendary origin"
+      },
+      "value": {
+        "zh": "1735年利兹角，利兹夫人的第十三个孩子",
+        "en": "Mother Leeds' thirteenth child, Leeds Point, 1735"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名事件",
+        "en": "Famous episode"
+      },
+      "value": {
+        "zh": "1909年1月费城—特伦顿目击潮",
+        "en": "The January 1909 sighting wave from Philadelphia to Trenton"
+      }
+    }
+  ],
+  "related": [
+    "mothman",
+    "goatman"
+  ],
+  "sources": [
+    {
+      "zh": "W·F·梅耶《In the Pines》，《大西洋月刊》（1859）",
+      "en": "W. F. Mayer, \"In the Pines,\" The Atlantic Monthly (1859)"
+    },
+    {
+      "zh": "1909年1月费城及新泽西各报报道",
+      "en": "Philadelphia and New Jersey newspaper coverage, January 1909"
+    }
+  ],
+  "geo": {
+    "lat": 39.53,
+    "lon": -74.47,
+    "label": {
+      "zh": "新泽西州利兹角与松林泥炭地",
+      "en": "Leeds Point and the Pine Barrens, New Jersey"
+    }
+  },
+  "image": {
+    "file": "/images/entries/jersey-devil.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jersey_Devil_Philadelphia_Post_1909.jpg",
+    "sourceTitle": "Jersey Devil Philadelphia Post 1909",
+    "artist": "Philadelphia Newspaper",
+    "license": "Public domain",
+    "width": 711,
+    "height": 1000
+  }
+}

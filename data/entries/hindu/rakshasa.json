@@ -1,0 +1,104 @@
+{
+  "id": "rakshasa",
+  "tradition": "hindu",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "罗刹",
+    "en": "Rakshasa",
+    "original": "राक्षस",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "食人的夜行魔族",
+    "en": "The man-eating demons of the night"
+  },
+  "summary": {
+    "zh": "昼伏夜出的食人魔族，獠牙利爪、随意变形，专爱搅乱祭祀。十首魔王罗波那是其王者；但也有弃暗投明者，如罗波那之弟维毗沙那。",
+    "en": "Shape-shifting man-eaters strongest after dark, fanged and clawed, defilers of sacrifices. Ten-headed Ravana is their king—though some, like his brother Vibhishana, chose the side of dharma."
+  },
+  "description": {
+    "zh": "罗刹是印度神话中的食人魔族：獠牙外露，利爪如钩，眼如燃炭，能随意变化形貌——化作美人、隐去身形或胀成山岳般的巨躯。他们昼弱夜强，新月之夜最为凶悍，最爱在仙人举行祭祀时掷血污秽祭坛。《阿闼婆吠陀》中已有驱除罗刹的咒文；《罗摩衍那》尾篇说，创造之初生主造出众生守护原初之水，喊出“我们来守护”（rakṣāma）的得名罗刹，喊出“yakṣāma”的则成了夜叉。\n\n《罗摩衍那》是罗刹的大舞台：十首二十臂的魔王罗波那统治楞伽金城，麾下罗刹大军甲坚兵利；他的弟弟鸠姆婆迦哩那身躯如山，一睡六月、醒来一日，醒时食量惊人；妹妹首哩薄那迦向罗摩求爱被拒、遭割去鼻耳，由此引燃了劫持悉多的整场大战。但罗刹并非尽数邪恶：罗波那的幼弟维毗沙那苦劝兄长归还悉多不成，毅然投奔罗摩，战后受封为楞伽新王；《摩诃婆罗多》中怖军之子、半罗刹瓶首（Ghatotkacha）更为般度族战死沙场。\n\n随佛经汉译，“罗刹”一词进入汉语世界，成为食人恶鬼的通称，《西游记》里铁扇公主即号“罗刹女”；罗刹形象也流入东南亚戏剧与皮影，斯里兰卡与爪哇的面具舞中至今可见獠牙圆眼的罗刹面容。",
+    "en": "Rakshasas are the ogres of Hindu myth: fangs bared, claws hooked, eyes like burning coals, able to change shape at will—into a beautiful woman, into invisibility, or into a bulk vast as a hill. Weak by day and mighty by night, fiercest under the new moon, they delight in hurling blood and carrion onto the altars of sacrificing sages. The Atharvaveda already carries spells to drive them off; the Ramayana's last book says that when the first beings were created to guard the primordial waters, those who cried 'we shall guard' (rakshama) were named rakshasas, and those who cried 'yakshama' became the yakshas.\n\nThe Ramayana is their great stage. Ravana, ten-headed and twenty-armed, rules the golden city of Lanka at the head of a rakshasa host. His brother Kumbhakarna, mountainous in size, sleeps six months and wakes for a single ravenous day; his sister Shurpanakha, spurned by Rama and mutilated for her advances, sets in motion the abduction of Sita and the war that follows. Yet not all rakshasas are wicked: Ravana's youngest brother Vibhishana, failing to persuade the king to return Sita, crosses over to Rama and is crowned lord of Lanka after the war, and in the Mahabharata the half-rakshasa Ghatotkacha, son of Bhima, dies fighting for the Pandavas.\n\nThrough Buddhist translation the word entered Chinese as luocha, a general term for man-eating fiends—Princess Iron Fan of Journey to the West bears the title 'Rakshasa Woman'—and the fanged, round-eyed rakshasa mask survives in the dance dramas of Sri Lanka and Java."
+  },
+  "domains": {
+    "zh": [
+      "夜晚",
+      "变形",
+      "食人",
+      "扰祭"
+    ],
+    "en": [
+      "Night",
+      "Shape-shifting",
+      "Man-eating",
+      "Defiling Sacrifice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habits"
+      },
+      "value": {
+        "zh": "昼弱夜强，新月之夜最凶",
+        "en": "Weak by day, fiercest on new-moon nights"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名个体",
+        "en": "Famous figures"
+      },
+      "value": {
+        "zh": "罗波那、鸠姆婆迦哩那、维毗沙那",
+        "en": "Ravana, Kumbhakarna, Vibhishana"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《阿闼婆吠陀》驱魔咒文",
+        "en": "Exorcism spells of the Atharvaveda"
+      }
+    },
+    {
+      "label": {
+        "zh": "汉译流变",
+        "en": "In Chinese"
+      },
+      "value": {
+        "zh": "经佛典汉译为“罗刹”，泛指食人恶鬼",
+        "en": "Entered Chinese via Buddhist scripture as luocha"
+      }
+    }
+  ],
+  "related": [
+    "rama",
+    "hanuman",
+    "naga"
+  ],
+  "sources": [
+    {
+      "zh": "《阿闼婆吠陀》",
+      "en": "Atharvaveda"
+    },
+    {
+      "zh": "蚁垤《罗摩衍那》",
+      "en": "Valmiki, Ramayana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/rakshasa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ravana_water_painting.jpg",
+    "sourceTitle": "Ravana water painting",
+    "artist": "19thC(early)",
+    "license": "Public domain",
+    "width": 722,
+    "height": 1000
+  }
+}

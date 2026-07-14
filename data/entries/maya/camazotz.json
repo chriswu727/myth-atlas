@@ -1,0 +1,92 @@
+{
+  "id": "camazotz",
+  "tradition": "maya",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "卡马佐兹",
+    "en": "Camazotz",
+    "original": "Kama Sotz'",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "西巴尔巴蝠屋的斩首巨蝠",
+    "en": "The Death Bat of the House of Bats"
+  },
+  "summary": {
+    "zh": "西巴尔巴蝠屋中的巨蝠，鼻叶如石刃。双子英雄藏身吹箭筒中过夜，乌纳普探头察看天亮与否，头颅应声被它掠走，挂上球场作球。",
+    "en": "The great bat of Xibalba's Bat House, its snout a blade. When Hunahpu peeked from his blowgun shelter to check for dawn, Camazotz snatched his head away to hang as the game ball."
+  },
+  "description": {
+    "zh": "卡马佐兹之名由基切语的“死亡”与“蝙蝠”合成，可解作“骤夺之蝠”。《波波尔·乌》里有两处断颈的蝙蝠：木头人遭天谴覆灭时，一头名为卡马洛茨的怪物从天而降，专断人颈，学界多认为与卡马佐兹同属一类；而在西巴尔巴的蝠屋里，卡马佐兹是满屋刃鼻巨蝠之首——那些蝙蝠“鼻吻如刀”，扑翼之声彻夜不息。\n\n双子英雄闯到蝠屋这一关时，钻进各自的吹箭筒里躲过扑击。挨到后半夜，蝠群忽然静了，乌纳普从筒口探出头去看天亮了没有——卡马佐兹俯冲而下，一击掠走他的头颅。死神们欢呼着把头颅挂上球场充当皮球。斯巴兰克召集百兽各献食物，长鼻浣熊运来一只南瓜，众兽将它雕成假头安在乌纳普颈上；球赛开场后，一只兔子伏在场边，趁球飞出时蹦跳而去，引得死神们追赶，斯巴兰克便在此刻换回真头颅。重整旗鼓的双子最终赢下了这场球。\n\n蝙蝠在玛雅世界始终与黑夜、洞穴和献祭相邻。古典期彩绘陶器上常见獠牙外露、缀着死亡符号的叶鼻怪蝠；科潘王国的徽记文字正是一颗叶鼻蝠头。恰帕斯高地的索西人至今自称“蝙蝠之民”，部族名号里仍住着这只黑暗中的巨蝠。",
+    "en": "The name Camazotz joins the K'iche' words for death and bat: the snatch-bat. Twice in the Popol Vuh a bat comes for heads. When the wooden people were destroyed, a monster called Camalotz - generally taken as a creature of the same kind - dropped from the sky to cut them off; and in Xibalba's House of Bats, Camazotz is the greatest of the blade-snouted horde, bats whose muzzles are described as knives, their wings clattering through the dark all night.\n\nWhen the Hero Twins reached that house, they crawled inside their own blowguns to wait out the assault. Late in the night the bats fell silent, and Hunahpu slid his head out of the muzzle to see whether dawn had come. Camazotz swept down and carried the head away in one stroke, and the death lords hung it over the ballcourt as the game ball. Xbalanque summoned the animals to bring their foods; the coati arrived rolling a chilacayote squash, which the beasts carved into a substitute head for Hunahpu's shoulders. During the next match a rabbit crouched by the court and bounded off when the ball flew wide, decoying the lords long enough for Xbalanque to swap the true head back. The twins went on to win the game.\n\nIn the Maya world the bat keeps company with night, caves, and sacrifice. Classic painted vases show snarling leaf-nosed bats hung with death signs; the emblem glyph of the kingdom of Copán is a leaf-nosed bat's head; and the Tzotzil of highland Chiapas still call themselves the People of the Bat."
+  },
+  "domains": {
+    "zh": [
+      "蝙蝠",
+      "黑暗",
+      "斩首"
+    ],
+    "en": [
+      "Bat",
+      "Darkness",
+      "Decapitation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "西巴尔巴蝠屋",
+        "en": "The House of Bats, Xibalba"
+      }
+    },
+    {
+      "label": {
+        "zh": "战利品",
+        "en": "Trophy"
+      },
+      "value": {
+        "zh": "乌纳普的头颅",
+        "en": "The head of Hunahpu"
+      }
+    },
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "鼻吻如刀的巨蝠",
+        "en": "A great bat with a blade for a snout"
+      }
+    }
+  ],
+  "related": [
+    "xibalba",
+    "hunahpu-and-xbalanque",
+    "hun-came-and-vucub-came"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶；希门内斯抄本，约1701—1703年）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century; Ximénez copy, c. 1701-1703)"
+    },
+    {
+      "zh": "古典期玛雅陶器上的叶鼻怪蝠图像",
+      "en": "Monstrous leaf-nosed bat imagery on Classic Maya ceramics"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/camazotz.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Honduras-0334_(2213598531).jpg",
+    "sourceTitle": "Honduras-0334 (2213598531)",
+    "artist": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "width": 1000,
+    "height": 750
+  }
+}

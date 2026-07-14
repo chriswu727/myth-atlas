@@ -1,0 +1,105 @@
+{
+  "id": "jonah-and-the-great-fish",
+  "tradition": "abrahamic",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "约拿与大鱼",
+    "en": "Jonah and the Great Fish",
+    "original": "יוֹנָה",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "鱼腹中三日三夜的先知",
+    "en": "The Prophet Three Days in the Belly of the Fish"
+  },
+  "summary": {
+    "zh": "先知约拿抗命逃往他施，被抛入海中，耶和华安排一条大鱼吞下他。他在鱼腹中三日三夜祷告，被吐上旱地，终往尼尼微传警告。",
+    "en": "Fleeing his commission, the prophet Jonah is thrown into the sea and swallowed by a great fish the Lord appoints. After three days and nights of prayer in its belly, he is cast ashore and goes at last to Nineveh."
+  },
+  "description": {
+    "zh": "《约拿书》开篇，耶和华命亚米太的儿子约拿往亚述大城尼尼微去，向其宣告罪恶。约拿却起身逃往相反方向的他施：他下到约帕港，付了船价，上了船。耶和华使海中起大风，船几乎破坏，水手们各求各的神，把货物抛进海里，约拿却在舱底沉睡。掣签掣出约拿后，他坦白自己敬畏那创造沧海旱地的天上之神，并说：将我抬起抛进海里，海就必平静。水手们先竭力荡桨不忍，终于把他抛下，海浪立刻止息。\n\n耶和华安排一条大鱼吞了约拿——经文只说\"大鱼\"（dag gadol），未言鲸——他在鱼腹中三日三夜，从\"阴间的深处\"发出祷告：诸水环绕我，海草缠绕我的头，我却要再看见你的圣殿。耶和华吩咐鱼，鱼就把约拿吐在旱地上。第二次奉命，约拿进了尼尼微宣告：再等四十日，尼尼微必倾覆。出人意料，全城从王到民都披麻蒙灰禁食悔改，神就不降所说的灾。约拿反而大大不悦，出城坐在东边看结局；神安排一棵蓖麻一夜长成为他遮荫，又安排一条虫子次日咬死它，借此反问：你尚且爱惜一夜发生的蓖麻，何况这有十二万多不能分辨左右手之人的大城呢？全书在这个问句上收束。\n\n《马太福音》第十二章引此为\"约拿的神迹\"，以鱼腹三日预表基督葬而复活，约拿因此成为早期基督教墓窟壁画最常见的题材之一。《古兰经》称他为优努斯（Yunus），别号\"鱼之人\"（Dhu al-Nun），第三十七章记述了他的被吞与获救。传统上认作其葬地的尼尼微\"先知优努斯\"清真寺（位于今伊拉克摩苏尔）于二〇一四年被极端组织炸毁，废墟下反而暴露出亚述王宫的遗构。",
+    "en": "The Book of Jonah opens with the Lord commanding Jonah son of Amittai to go to Nineveh, the great Assyrian city, and cry out against its wickedness. Jonah instead rises to flee to Tarshish, in the opposite direction: down to the port of Joppa, fare paid, aboard ship. The Lord hurls a great wind on the sea; the ship threatens to break apart, the sailors cry each to his own god and throw the cargo overboard, while Jonah sleeps in the hold. The lot falls on him; he confesses that he fears the God of heaven who made the sea and the dry land, and tells them to throw him in — the sea will grow calm. The sailors row hard rather than do it, then at last cast him over, and the raging stops.\n\nThe Lord appoints a great fish — the text says only dag gadol, never 'whale' — to swallow Jonah, and from its belly, three days and three nights, he prays 'out of the belly of Sheol': the waters closed in over me, weeds were wrapped about my head, yet I shall look again upon your holy temple. The Lord speaks to the fish, and it vomits Jonah onto dry land. Commissioned a second time, he walks into Nineveh proclaiming: forty days more, and Nineveh shall be overthrown. Astonishingly, the whole city repents in sackcloth and ashes, from king to commoner, and God relents. Jonah is furious; he sits east of the city to watch, where God grows a qiqayon plant overnight to shade him and appoints a worm to kill it at dawn, then asks: you pity the plant that came up in a night — should I not pity that great city, with more than 120,000 people who cannot tell their right hand from their left? The book ends on the question.\n\nMatthew 12 cites the 'sign of Jonah,' the three days in the fish prefiguring burial and resurrection, which made Jonah a favorite subject of early Christian catacomb painting. The Quran calls him Yunus, 'the man of the fish' (Dhu al-Nun), and recounts his swallowing and rescue in sura 37. The Mosque of the Prophet Yunus in Mosul, Iraq, traditionally held to house his tomb at Nineveh, was blown up by extremists in 2014; the ruins exposed remains of an Assyrian palace beneath."
+  },
+  "domains": {
+    "zh": [
+      "抗命与悔改",
+      "海难",
+      "鱼腹",
+      "神的怜悯"
+    ],
+    "en": [
+      "Flight and repentance",
+      "Peril at sea",
+      "The fish's belly",
+      "Divine mercy"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "鱼腹时长",
+        "en": "Time in the fish"
+      },
+      "value": {
+        "zh": "三日三夜",
+        "en": "Three days and three nights"
+      }
+    },
+    {
+      "label": {
+        "zh": "逃亡路线",
+        "en": "The flight"
+      },
+      "value": {
+        "zh": "从约帕乘船逃往他施",
+        "en": "By ship from Joppa, bound for Tarshish"
+      }
+    },
+    {
+      "label": {
+        "zh": "伊斯兰传统",
+        "en": "In Islam"
+      },
+      "value": {
+        "zh": "优努斯，别号\"鱼之人\"",
+        "en": "Yunus, called Dhu al-Nun, 'the man of the fish'"
+      }
+    }
+  ],
+  "related": [
+    "leviathan",
+    "noahs-ark"
+  ],
+  "sources": [
+    {
+      "zh": "《约拿书》",
+      "en": "The Book of Jonah"
+    },
+    {
+      "zh": "《马太福音》12:39-41",
+      "en": "Matthew 12:39-41"
+    },
+    {
+      "zh": "《古兰经》37:139-148",
+      "en": "Quran 37:139-148"
+    }
+  ],
+  "geo": {
+    "lat": 36.36,
+    "lon": 43.155,
+    "label": {
+      "zh": "尼尼微遗址（伊拉克摩苏尔）",
+      "en": "Ruins of Nineveh, Mosul, Iraq"
+    }
+  },
+  "image": {
+    "file": "/images/entries/jonah-and-the-great-fish.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:137.Jonah_Is_Spewed_Forth_by_the_Whale.jpg",
+    "sourceTitle": "137.Jonah Is Spewed Forth by the Whale",
+    "artist": "Gustave Doré",
+    "license": "Public domain",
+    "width": 798,
+    "height": 1000
+  }
+}

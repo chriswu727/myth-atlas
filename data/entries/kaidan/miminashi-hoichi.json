@@ -1,0 +1,101 @@
+{
+  "id": "miminashi-hoichi",
+  "tradition": "kaidan",
+  "type": "hero",
+  "era": "folk",
+  "name": {
+    "zh": "无耳芳一",
+    "en": "Hoichi the Earless",
+    "original": "耳なし芳一",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "为平家亡灵弹唱的盲琵琶师",
+    "en": "The blind biwa player who performed for the Heike dead"
+  },
+  "summary": {
+    "zh": "下关阿弥陀寺的盲僧芳一被平家亡灵夜夜带去墓地弹唱《平家物语》。住持在他全身写满经文护体，唯独漏了双耳——亡灵便把耳朵撕了去。",
+    "en": "Hoichi, a blind biwa player at Amidaji temple in Shimonoseki, is led nightly by Heike ghosts to sing their fall. The priest inks sutras over his whole body but misses his ears, and the ghost tears them off."
+  },
+  "description": {
+    "zh": "芳一是长门国赤间关（今山口县下关市）阿弥陀寺寄居的盲眼琵琶法师，最擅弹唱《平家物语》中坛之浦合战一段——1185年平家在此海峡覆灭，八岁的安德天皇随祖母投海。某夜，一个甲胄武士唤走芳一，说贵人想听他弹唱。此后芳一夜夜失踪，寺僧提灯寻他，发现他独自坐在安德天皇陵前的墓地里，四周磷火明灭，对着累累墓石弹到弦裂声嘶——所谓贵人的府邸，是平家一门的坟场。\n\n住持知道亡灵听完整部曲子便会把芳一撕碎，命寺僧在他从头到脚写满《般若心经》，嘱他整夜不动不应。入夜武士来唤，只见一片虚空中悬着两只耳朵——写经时唯独漏掉了它们。武士说：贵人之命不可空回，便把双耳揪了下来。芳一忍痛未出一声，保住性命，「无耳芳一」之名从此传遍诸国，前来听曲的贵人络绎不绝。\n\n故事的近世底本是1782年刊《卧游奇谈》卷二「琵琶秘曲泣幽灵」；小泉八云收入《怪谈》（1904年）的英文重述使它成为世界最知名的日本怪谈之一。阿弥陀寺明治年间改为赤间神宫，境内至今有供奉芳一的芳一堂与平家一门之墓，小林正树的电影《怪谈》（1964年）中此篇的坛之浦海战场面是日本电影史的名段。",
+    "en": "Hoichi was a blind biwa-playing lay priest lodged at Amidaji temple in Akamagaseki, now Shimonoseki, famed for his recitation of the sea battle of Dan-no-ura, where the Heike clan perished in these straits in 1185 and the child emperor Antoku drowned in his grandmother's arms. One night an armored samurai summons him to perform before a great personage. Night after night Hoichi vanishes; when temple servants finally track him with lanterns, he is sitting alone in the cemetery before the memorial tomb of Antoku, ghost-fires flickering around him, playing until his voice cracks to ranks of mossy gravestones. The nobleman's mansion is the burial ground of the Heike.\n\nKnowing the ghosts will tear the player apart once the whole tale is sung, the head priest has the Heart Sutra written over every inch of Hoichi's body and orders him to sit motionless and silent. When the samurai returns he sees nothing in the darkness but two ears hanging in air, the one part of the body the scribe forgot. Unwilling to return empty-handed, he wrenches them off. Hoichi endures without a sound, survives, and as 'Hoichi the Earless' becomes the most sought-after performer in the land.\n\nThe early-modern source is 'Biwa no hikyoku yurei o nakashimu' in the 1782 collection Gayu Kidan; Lafcadio Hearn's retelling opened his Kwaidan (1904) and carried the story worldwide. Amidaji became the Akama shrine in the Meiji era, where a small hall to Hoichi and the graves of the Heike still stand; the Hoichi episode of Kobayashi's film Kwaidan (1964) restaged Dan-no-ura as one of Japanese cinema's great set pieces."
+  },
+  "domains": {
+    "zh": [
+      "亡灵",
+      "琵琶法师",
+      "平家",
+      "经文护体"
+    ],
+    "en": [
+      "Ghosts",
+      "Biwa minstrels",
+      "The Heike",
+      "Sutra wards"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "舞台",
+        "en": "Setting"
+      },
+      "value": {
+        "zh": "下关阿弥陀寺（今赤间神宫）",
+        "en": "Amidaji temple, Shimonoseki (now Akama shrine)"
+      }
+    },
+    {
+      "label": {
+        "zh": "护身失误",
+        "en": "The fatal omission"
+      },
+      "value": {
+        "zh": "写经护体独漏双耳",
+        "en": "Sutra covered the whole body except the ears"
+      }
+    },
+    {
+      "label": {
+        "zh": "历史背景",
+        "en": "Historical anchor"
+      },
+      "value": {
+        "zh": "1185年坛之浦合战平家覆灭",
+        "en": "The Heike destroyed at Dan-no-ura, 1185"
+      }
+    }
+  ],
+  "related": [
+    "botan-doro",
+    "yotsuya-kaidan"
+  ],
+  "sources": [
+    {
+      "zh": "一夕散人《卧游奇谈》「琵琶秘曲泣幽灵」（1782年刊）",
+      "en": "Gayu Kidan, 'The secret biwa piece that made the ghosts weep' (1782)"
+    },
+    {
+      "zh": "小泉八云《怪谈》（1904年）",
+      "en": "Lafcadio Hearn, Kwaidan (1904)"
+    }
+  ],
+  "geo": {
+    "lat": 33.959,
+    "lon": 130.947,
+    "label": {
+      "zh": "下关·赤间神宫",
+      "en": "Akama shrine, Shimonoseki"
+    }
+  },
+  "image": {
+    "file": "/images/entries/miminashi-hoichi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miminashi_houichi_gayuu_kidan_volume_2.jpg",
+    "sourceTitle": "Miminashi houichi gayuu kidan volume 2",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 723
+  }
+}

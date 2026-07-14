@@ -1,0 +1,101 @@
+{
+  "id": "mount-olympus",
+  "tradition": "greek",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "奥林波斯山",
+    "en": "Mount Olympus",
+    "original": "Ὄλυμπος",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "诸神的居所",
+    "en": "Home of the Gods"
+  },
+  "summary": {
+    "zh": "希腊最高峰，主峰米提卡斯海拔2917米。希腊人相信十二主神居于云雾缭绕的峰顶，诸神因此统称\"奥林波斯的\"。",
+    "en": "The highest mountain in Greece, its peak Mytikas at 2,917 meters. Greeks placed the home of the twelve chief gods on its cloud-wrapped summit, hence the name Olympians."
+  },
+  "description": {
+    "zh": "奥林波斯山是希腊最高峰，主峰米提卡斯海拔2917米，耸立在色萨利与马其顿交界处，可以望见爱琴海。希腊人相信十二主神居住在云雾缭绕的峰顶：荷马描写那里无风无雨、不见落雪，长年澄明。宙斯在此设王座召集众神议事，时序女神看守云门，众神宴饮神食与琼浆，赫柏与伽倪墨得斯司酒，阿波罗奏里拉琴，缪斯们应和而歌。\n\n十二主神由此统称\"奥林波斯的\"（Olympian）。山麓的狄翁古城是马其顿人祭祀宙斯的圣地，亚历山大大帝东征前曾在此举行盛大献祭。米提卡斯峰直到1913年才由瑞士登山者与当地猎人首次登顶；1938年，全山划为希腊第一座国家公园，如今山径上仍能同时看到登山客与朝圣般前来的神话爱好者。",
+    "en": "Mount Olympus is the highest mountain in Greece; its summit Mytikas rises 2,917 meters on the border of Thessaly and Macedonia, within sight of the Aegean. Greeks placed the home of the twelve principal gods on its cloud-wrapped heights: Homer describes a seat never shaken by winds, never wet by rain or snow, bathed in clear radiance. There Zeus holds his throne and calls the gods to council; the Horae keep the gates of cloud, the gods feast on ambrosia and nectar poured by Hebe and Ganymede, Apollo plays the lyre, and the Muses answer in song.\n\nFrom the mountain the ruling gods take their collective name, the Olympians. At its foot lay Dion, the sanctuary where the Macedonians honored Zeus and where Alexander the Great held lavish sacrifices before marching east. Mytikas itself was not climbed until 1913, when two Swiss mountaineers reached it with a local hunter as guide; in 1938 the mountain became Greece's first national park, and its trails now carry hikers and mythology pilgrims alike."
+  },
+  "domains": {
+    "zh": [
+      "诸神居所",
+      "圣山",
+      "希腊最高峰"
+    ],
+    "en": [
+      "Seat of the gods",
+      "Sacred mountain",
+      "Highest peak of Greece"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "海拔",
+        "en": "Elevation"
+      },
+      "value": {
+        "zh": "主峰米提卡斯2917米",
+        "en": "Mytikas, 2,917 m"
+      }
+    },
+    {
+      "label": {
+        "zh": "山麓圣地",
+        "en": "Sanctuary at its foot"
+      },
+      "value": {
+        "zh": "狄翁古城",
+        "en": "Ancient Dion"
+      }
+    },
+    {
+      "label": {
+        "zh": "首次登顶",
+        "en": "First ascent"
+      },
+      "value": {
+        "zh": "1913年",
+        "en": "1913"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "apollo",
+    "athena",
+    "aphrodite"
+  ],
+  "sources": [
+    {
+      "zh": "荷马《伊利亚特》《奥德赛》",
+      "en": "Homer, Iliad and Odyssey"
+    },
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    }
+  ],
+  "geo": {
+    "lat": 40.0859,
+    "lon": 22.3584,
+    "label": {
+      "zh": "奥林波斯山",
+      "en": "Mount Olympus"
+    }
+  },
+  "image": {
+    "file": "/images/entries/mount-olympus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mytikas_at_sunset_(Olympus_mt.).jpg",
+    "sourceTitle": "Mytikas at sunset (Olympus mt.)",
+    "artist": "Teogera",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "tian-ma",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "天马",
+    "en": "Tianma"
+  },
+  "title": {
+    "zh": "见人即飞的黑头白犬",
+    "en": "The White Dog with a Black Head That Takes Flight at the Sight of People"
+  },
+  "summary": {
+    "zh": "马成之山的怪兽，形状像白狗而脑袋是黑的，一见到人就腾空飞走，叫声像在喊自己的名字。",
+    "en": "A beast of Macheng Mountain shaped like a white dog with a black head. The moment it sees a person it takes to the air, crying out what sounds like its own name."
+  },
+  "description": {
+    "zh": "北次三经的马成之山，山上多文石，北坡多金玉。山中有兽，名叫天马：形状像白色的狗，唯独脑袋是黑的，见到人就腾身飞去，鸣叫的声音像在喊自己的名字。经文没有交代翅膀——它似乎不需要，见人则飞，是本能，也是它与人打交道的全部方式。\n\n名为“马”而状如犬，这类名实错位在《山海经》中并不罕见。同一座山上还栖着鶌鶋，一种白头、青身、黄脚的乌鸦模样的鸟，吃了它可以不觉饥饿。一兽一鸟，一个避人、一个充饥，马成之山的物产由此写尽。\n\n“天马”之名后来另有一段更显赫的历史：汉武帝得大宛汗血马，作《天马歌》，“天马来兮从西极”，此后天马在中原语汇里定型为西域神骏，与龙相配。后世又有“天马行空”一语，形容才思纵逸。这些都与马成之山那只见人就飞的黑头白犬无关——它是同名序列里更早也更奇怪的那一个，在后世的天马图像里没有留下位置。",
+    "en": "Macheng Mountain, in the third guideway of the Northern Mountains, bears patterned stones on its heights and gold and jade on its northern slope. Its beast is called the tianma, the Heavenly Horse: it is shaped like a white dog with a black head, and the instant it catches sight of a human being it launches itself into the air and flies away, crying what sounds like its own name. The text mentions no wings; it does not seem to need them. Flight at the sight of people is its instinct, and the whole of its dealings with mankind.\n\nA 'horse' shaped like a dog is a typical mismatch of name and form in the classic. The same mountain hosts the jueju, a crow-like bird with a white head, blue-green body, and yellow feet, whose flesh keeps hunger away. One beast that flees people and one bird that feeds them: with that, the mountain's inventory closes.\n\nThe name Heavenly Horse later acquired a grander career. When Emperor Wu of Han obtained the blood-sweating horses of Ferghana, he composed the 'Song of the Heavenly Horse' — 'the tianma comes from the western limit' — and the term settled into Chinese as the celestial steed of the western regions, companion of dragons, eventually yielding the idiom 'a heavenly horse crossing the sky' for unbounded imagination. None of this descends from the black-headed white dog of Macheng Mountain, the earlier and stranger bearer of the name, which found no place in later tianma iconography."
+  },
+  "domains": {
+    "zh": [
+      "飞行",
+      "避人",
+      "名实之辨",
+      "北山"
+    ],
+    "en": [
+      "Flight",
+      "Shunning Humans",
+      "Names and Forms",
+      "Northern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如白犬而黑头",
+        "en": "Like a white dog with a black head"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habits"
+      },
+      "value": {
+        "zh": "见人则飞，其鸣自訆",
+        "en": "Flies off at the sight of people; its cry names itself"
+      }
+    }
+  ],
+  "related": [
+    "er-shu",
+    "jing-wei",
+    "zhu-jian"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（北次三经·马成之山）",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Macheng Mountain)"
+    },
+    {
+      "zh": "《史记·大宛列传》（汉代“天马”名义流变的参照）",
+      "en": "Records of the Grand Historian, 'Dayuan' chapter (for the later Han usage of the name)"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/tian-ma.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic275_-_%E5%A4%A9%E9%A6%AC%E5%9C%96.svg",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic275 - 天馬圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 854
+  }
+}

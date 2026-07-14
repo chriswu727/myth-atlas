@@ -1,0 +1,104 @@
+{
+  "id": "susanoo",
+  "tradition": "japanese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "须佐之男",
+    "en": "Susanoo",
+    "original": "須佐之男命（すさのおのみこと）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "暴风与海原之神，斩蛇的英雄",
+    "en": "Storm God Who Slew the Eight-Headed Serpent"
+  },
+  "summary": {
+    "zh": "天照之弟，性情暴烈的风暴神。被逐出高天原后降临出云，用八瓮烈酒灌醉八岐大蛇并将其斩杀，从蛇尾取得草薙剑。",
+    "en": "Amaterasu's tempestuous younger brother. Expelled from heaven, he descended to Izumo, got the eight-headed serpent drunk on strong sake, slew it, and drew the sword Kusanagi from its tail."
+  },
+  "description": {
+    "zh": "须佐之男是伊邪那岐洗鼻时生出的神，三贵子之末，受命统治海原。他却不治其国，日夜啼哭思念亡母，哭得青山枯萎、河海干涸，被父亲放逐。临行前他上高天原向姐姐天照辞别，两神隔天安河立誓生子以明心迹；自认胜出后他得意忘形，毁坏田埂、污秽御殿，最终把剥皮的马驹掷进织殿，闯下天岩户之祸，被众神科以重罚、剪须拔爪逐出高天原。\n\n他降临出云国斐伊川上游的鸟上，遇见脚摩乳、手摩乳老夫妇和他们最后一个女儿栉名田比卖——前七个女儿都被八岐大蛇逐年吞食。须佐之男让老夫妇酿出反复重酿的八盐折之酒，分置八瓮，待大蛇八头各自探入瓮中醉倒后拔十拳剑将其斩碎，斐伊川为之变成血河。斩到蛇尾时剑刃缺损，剖开一看，里面藏着一把大刀，即天丛云剑（后来的草薙剑），他将其献给天照。此后他娶栉名田比卖，在须贺建宫，咏出「八云立 出云八重垣」一首，传为和歌之始。\n\n须佐之男是出云系神话的源头，大国主是他的后裔。中世以降他与佛教的牛头天王习合，成为祇园信仰的主神，京都八坂神社的祇园祭至今仍以他为祭神。",
+    "en": "Susanoo was born when Izanagi washed his nose, the last of the three noble children, and was given the sea to rule. Instead he wept and howled for his dead mother until the green mountains withered, and was banished by his father. Ascending to heaven to take leave of his sister Amaterasu, he claimed victory in a vow-contest against her, then ran amok, wrecking rice fields and hurling a flayed colt into the sacred weaving hall. For provoking the Rock Cave crisis the gods fined him, cut his beard and nails, and cast him out.\n\nHe descended at Torikami on the upper Hii River in Izumo, where an old couple wept over Kushinada-hime, the last of eight daughters not yet devoured by the serpent Yamata-no-Orochi. Susanoo had them brew eightfold-refined sake and set out eight vats; when the serpent's eight heads drank themselves senseless, he hacked it to pieces, turning the river red. Inside its middle tail his blade struck a great sword, Ame-no-Murakumo, later called Kusanagi, which he presented to Amaterasu. He married Kushinada-hime, built a palace at Suga, and sang the verse counted as the first waka poem.\n\nAs ancestor of Okuninushi he stands at the head of the Izumo mythic line; in medieval times he merged with the Buddhist deity Gozu Tenno, and Kyoto's Yasaka Shrine and its Gion Festival honor him to this day."
+  },
+  "domains": {
+    "zh": [
+      "风暴",
+      "海原",
+      "出云",
+      "和歌"
+    ],
+    "en": [
+      "Storms",
+      "The sea",
+      "Izumo",
+      "Waka poetry"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "十拳剑",
+        "en": "The ten-span sword Totsuka-no-Tsurugi"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "栉名田比卖",
+        "en": "Kushinada-hime"
+      }
+    },
+    {
+      "label": {
+        "zh": "习合",
+        "en": "Syncretism"
+      },
+      "value": {
+        "zh": "与牛头天王习合，为祇园信仰主神",
+        "en": "Merged with Gozu Tenno as chief deity of the Gion cult"
+      }
+    }
+  ],
+  "related": [
+    "amaterasu",
+    "yamata-no-orochi",
+    "kusanagi",
+    "izanagi",
+    "ama-no-iwato"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "geo": {
+    "lat": 35.33,
+    "lon": 132.8,
+    "label": {
+      "zh": "出云·斐伊川流域（岛根县）",
+      "en": "Hii River basin, Izumo (Shimane)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/susanoo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yoshitoshi_Nihon-ryakushi_Susanoo-no-mikoto.jpg",
+    "sourceTitle": "Yoshitoshi Nihon-ryakushi Susanoo-no-mikoto",
+    "artist": "Tsukioka Yoshitoshi (月岡芳年, Japanese, *1839, †1892)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 562
+  }
+}

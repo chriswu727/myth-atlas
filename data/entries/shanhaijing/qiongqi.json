@@ -1,0 +1,107 @@
+{
+  "id": "qiongqi",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "穷奇",
+    "en": "Qiongqi"
+  },
+  "title": {
+    "zh": "颠倒是非的食人凶兽",
+    "en": "Man-eating Beast that Devours the Righteous"
+  },
+  "summary": {
+    "zh": "邽山上状如牛、毛如刺猬的食人恶兽；后世与浑敦、梼杌、饕餮并称四凶，传说它专食忠直、豢养奸恶。",
+    "en": "A man-eating beast of Mount Gui, ox-like with porcupine bristles; later counted among the Four Fiends, said to devour the loyal and reward the wicked."
+  },
+  "description": {
+    "zh": "《山海经·西次四经》记邽山之上有兽，“其状如牛，猬毛，名曰穷奇，音如獋狗，是食人”——形如牛而浑身猬刺，叫声像狗嗥。《海内北经》里它换了一副模样：状如虎，生双翼，吃人先从头开始，被吃的多是披发之人。\n\n穷奇很早就进入了政治神话。《左传·文公十八年》说少皞氏有个不才子，毁信废忠、崇饰恶言，天下之民谓之穷奇；《史记·五帝本纪》记舜把浑敦、穷奇、梼杌、饕餮四凶族一并流放到四方边裔去抵御魑魅。《神异经》把它的性情写得更加刻薄：这兽能听懂人话，遇到有人争斗就吃掉有理的一方，听说谁忠信就咬掉他的鼻子，听说谁恶逆不善反倒捕来野兽相赠。\n\n吊诡的是，汉代宫廷大傩的十二神兽里也有穷奇，《后汉书·礼仪志》所载傩仪咒辞命“穷奇腾根共食蛊”——这头颠倒是非的恶兽，在驱疫仪式上被派去吞食蛊毒。",
+    "en": "The 'Classic of the Western Mountains' places Qiongqi on Mount Gui: a beast shaped like an ox, bristled like a hedgehog, howling like a dog, and an eater of men. The 'Classic of Regions Within the Seas: North' gives it another body — a winged tiger that devours people head first, favoring those who wear their hair loose.\n\nQiongqi entered political myth early. The Zuozhuan tells of a worthless son of the Shaohao clan who wrecked trust and dressed up slander, whom the people of the world named Qiongqi; in the Shiji, the sage-king Shun banishes him to the frontiers together with Hundun, Taowu, and Taotie — the Four Fiends. The Shenyijing sharpens the malice: the beast understands human speech, eats the party in the right whenever it finds a quarrel, bites the nose off the loyal and honest, and rewards the wicked with game it has caught.\n\nYet in the great exorcism of the Han court Qiongqi served the other side: the Book of the Later Han lists it among the twelve spirit-beasts of the Nuo rite, charged together with Tenggen to devour gu-poison."
+  },
+  "domains": {
+    "zh": [
+      "四凶",
+      "食人",
+      "是非颠倒",
+      "傩仪"
+    ],
+    "en": [
+      "Four Fiends",
+      "Man-eater",
+      "Inverted Justice",
+      "Nuo Exorcism"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如牛，猬毛；一说如虎有翼",
+        "en": "An ox with hedgehog bristles; elsewhere a winged tiger"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "音如嗥狗",
+        "en": "Howls like a dog"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "邽山（西次四经）",
+        "en": "Mount Gui, fourth guideway of the Western Mountains"
+      }
+    }
+  ],
+  "related": [
+    "dijiang",
+    "pao-xiao"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《山海经·海内北经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: North'"
+    },
+    {
+      "zh": "《左传·文公十八年》",
+      "en": "Zuozhuan, 18th year of Duke Wen"
+    },
+    {
+      "zh": "《神异经》",
+      "en": "Shenyijing (Classic of Divine Marvels)"
+    },
+    {
+      "zh": "《后汉书·礼仪志》",
+      "en": "Book of the Later Han, 'Treatise on Rites'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/qiongqi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic257_-_%E7%AA%AE%E5%A5%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic257 - 窮奇圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 683,
+    "height": 1000
+  }
+}

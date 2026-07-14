@@ -1,0 +1,99 @@
+{
+  "id": "ogopogo",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "欧戈波戈",
+    "en": "Ogopogo"
+  },
+  "title": {
+    "zh": "奥卡纳根湖的多峰水怪",
+    "en": "The Many-Humped Serpent of Okanagan Lake"
+  },
+  "summary": {
+    "zh": "不列颠哥伦比亚省奥卡纳根湖传说的巨型水蛇，暗色蛇身在水面拱起数个驼峰。其根源是原住民锡尔克斯人的湖中神灵N'ha-a-itk，「欧戈波戈」之名定于1926年。",
+    "en": "A giant lake serpent of Okanagan Lake, British Columbia, showing dark humps above the surface. It descends from N'ha-a-itk, the sacred lake spirit of the Syilx people; the name \"Ogopogo\" dates to 1926."
+  },
+  "description": {
+    "zh": "欧戈波戈被描述为一条六到十五米长的深色水蛇，游动时背部拱出水面形成数个驼峰，头部像马或山羊，出没于不列颠哥伦比亚省内陆135公里长的奥卡纳根湖。传统上它的巢穴被指认在湖东岸响尾蛇岛（Rattlesnake Island）附近斯夸利角（Squally Point）的水下洞穴一带。\n\n在成为观光怪物之前，它首先是原住民的神灵。世居此地的锡尔克斯人（Syilx，奥卡纳根人）称湖中之灵为N'ha-a-itk（一作n'x̌ax̌aitkʷ，「湖中圣灵」）：划船经过斯夸利角水域时，人们会向水中投放鲑鱼或小动物作为敬献，以求平安通过。这套敬献传统讲的是人与水域之间的分寸；后世把N'ha-a-itk直接等同于水怪欧戈波戈的做法，一直受到锡尔克斯社区的批评。殖民定居者的目击记录始于十九世纪七十年代，苏珊·艾利森等早期移民留下了最初的书面记述。\n\n「欧戈波戈」这个滑稽的名字借自1924年的一首英国音乐厅歌曲，1926年前后被套在湖怪头上并沿用至今；同年湖滨还出现过多人同时目击的报道。1968年阿特·福尔登在湖边拍下的影片是最著名的影像证据，后被分析为可能是水獭或漂木激起的尾波。如今基洛纳市滨湖立着绿色的欧戈波戈雕像；2021年，持有欧戈波戈版权的弗农市把它移交给锡尔克斯人的部族组织奥卡纳根族联盟——湖怪的形象主权部分回到了最初讲述它的人手中。",
+    "en": "Ogopogo is described as a dark serpent six to fifteen meters long that raises a chain of humps as it swims, with a head likened to a horse or goat, dwelling in the 135-kilometer Okanagan Lake of interior British Columbia. Tradition places its lair in underwater caves near Squally Point by Rattlesnake Island on the lake's eastern shore.\n\nBefore it was a tourist monster it was a sacred being. The Syilx (Okanagan) people, in whose territory the lake lies, know the spirit of the lake as N'ha-a-itk — rendered also as n'x̌ax̌aitkʷ, the sacred spirit of the water. Paddlers crossing the waters off Squally Point offered salmon or small animals for safe passage. The tradition concerns the proper conduct between people and the water, and the flattening of N'ha-a-itk into \"Ogopogo the cryptid\" has drawn steady criticism from Syilx communities. Settler accounts begin in the 1870s, with early colonists such as Susan Allison leaving the first written descriptions.\n\nThe comic name was lifted from a 1924 British music-hall song and attached to the lake creature around 1926, the same year newspapers reported a crowd of bathers sighting it near Okanagan Mission. The best-known footage, shot by Art Folden in 1968, has since been analyzed as likely otters or a drifting log's wake. A green Ogopogo statue stands on the Kelowna waterfront, and in 2021 the City of Vernon, which held the Ogopogo copyright, transferred it to the Okanagan Nation Alliance, returning a measure of the story to its first tellers."
+  },
+  "domains": {
+    "zh": [
+      "湖怪",
+      "原住民湖中神灵",
+      "目击传统",
+      "地方象征"
+    ],
+    "en": [
+      "Lake monster",
+      "Indigenous lake spirit",
+      "Sighting tradition",
+      "Regional emblem"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "原住民根源",
+        "en": "Indigenous root"
+      },
+      "value": {
+        "zh": "锡尔克斯人的湖中圣灵N'ha-a-itk",
+        "en": "N'ha-a-itk, the Syilx sacred spirit of the lake"
+      }
+    },
+    {
+      "label": {
+        "zh": "得名",
+        "en": "Naming"
+      },
+      "value": {
+        "zh": "借自1924年英国音乐厅歌曲，1926年定名",
+        "en": "From a 1924 music-hall song, applied around 1926"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名影像",
+        "en": "Key footage"
+      },
+      "value": {
+        "zh": "阿特·福尔登影片（1968）",
+        "en": "The Art Folden film (1968)"
+      }
+    }
+  ],
+  "related": [
+    "bigfoot",
+    "michigan-dogman"
+  ],
+  "sources": [
+    {
+      "zh": "苏珊·艾利森等早期定居者记述（19世纪70年代起）",
+      "en": "Early settler accounts including Susan Allison's (from the 1870s)"
+    },
+    {
+      "zh": "玛丽·穆恩《欧戈波戈：奥卡纳根之谜》（1977）",
+      "en": "Mary Moon, Ogopogo: The Okanagan Mystery (1977)"
+    }
+  ],
+  "geo": {
+    "lat": 49.77,
+    "lon": -119.74,
+    "label": {
+      "zh": "奥卡纳根湖斯夸利角与响尾蛇岛",
+      "en": "Squally Point and Rattlesnake Island, Okanagan Lake"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ogopogo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ogo-Pogo,_The_Funny_Fox-Trot.jpg",
+    "sourceTitle": "Ogo-Pogo, The Funny Fox-Trot",
+    "artist": "Fred Low",
+    "license": "Public domain",
+    "width": 666,
+    "height": 1000
+  }
+}

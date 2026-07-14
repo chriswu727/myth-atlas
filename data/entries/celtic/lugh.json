@@ -1,0 +1,102 @@
+{
+  "id": "lugh",
+  "tradition": "celtic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "鲁格",
+    "en": "Lugh",
+    "original": "Lug",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "百艺俱通的长臂神",
+    "en": "The long-armed master of every art"
+  },
+  "summary": {
+    "zh": "达努神族的年轻战神与百艺之神，绰号“长臂”与“百艺俱通”。在莫伊图拉之战中以投石击穿外祖父巴罗尔的毒眼，收获节庆卢纳萨以他命名。",
+    "en": "Young champion of the Tuatha De Danann, called 'of the long arm' and 'skilled in all arts together'. At Mag Tuired he put out his grandfather Balor's poisonous eye with a sling-stone; the harvest festival Lughnasadh bears his name."
+  },
+  "description": {
+    "zh": "鲁格是达努神族中最年轻耀眼的神，绰号“Lámfada”（长臂）指他掷矛与投石的射程，“Samildánach”意为“百艺俱通”。他的身世横跨敌我两族：父亲基安出自达努神族，外祖父却是弗摩尔族的独眼巨怪巴罗尔——那只眼睛的目光所及，成军的战士也会瘫倒。《莫伊图拉之战》记载了他著名的入场：塔拉宫门卫拦下他，逐一询问技艺，木工、铁匠、勇士、竖琴手、诗人、史家、法师、医者……每报一项，门内都答“已有此人”，鲁格反问“可有一人身兼全部”，于是入座智者之位。\n\n第二次莫伊图拉之战中，努阿达王让鲁格执掌全军。决战时巴罗尔的眼睑被四人用杠杆撬开，鲁格抢在目光扫来之前掷出投石，将毒眼从后脑贯出，翻转的目光反而杀伤了弗摩尔自己的军阵。战后他饶恕了半族兄弟布雷斯，换取农耕节令的知识。为纪念养母塔尔提乌开垦平原而死，他设立了八月初的丰收节卢纳萨（Lughnasadh），至今仍是爱尔兰语中八月的名字。\n\n在阿尔斯特故事群里，鲁格是英雄库丘林在神界的生父。他的名字也留在欧陆地名里——里昂（Lugdunum）即“鲁格之堡”，学者常把他与恺撒笔下高卢人最尊崇的“墨丘利”对应。",
+    "en": "Lugh is the brilliant young god of the Tuatha De Danann, called Lamfada, 'of the long arm', for the reach of his spear and sling, and Samildanach, 'skilled in all arts together'. His blood straddles the war between god-races: his father Cian was of the Tuatha De Danann, his grandfather the Fomorian giant Balor, whose single eye laid low whole companies when its lid was raised. Cath Maige Tuired preserves his famous arrival at Tara: the doorkeeper demands his trade, and Lugh names them one by one, wright, smith, champion, harper, poet, historian, sorcerer, physician, each time told the court already has such a man, until he asks whether any one man there commands them all, and is admitted to the sage's seat.\n\nGiven command of the army at the second battle of Mag Tuired, Lugh faced Balor as four men levered the great eyelid open. His sling-stone struck first, driving the eye out through the back of Balor's skull so that its gaze fell on the Fomorian ranks behind. After the victory he spared the half-Fomorian king Bres in exchange for the lore of ploughing, sowing and reaping. He founded the August harvest festival of Lughnasadh in mourning for his foster-mother Tailtiu, who died clearing the plains; the festival still gives Irish its word for the month of August.\n\nIn the Ulster Cycle Lugh is the otherworld father of the hero Cu Chulainn. His name is written across the continent as well: Lugdunum, 'fort of Lugus', became Lyon, and scholars have long matched him with the Gaulish god Caesar called Mercury."
+  },
+  "domains": {
+    "zh": [
+      "百艺",
+      "战争",
+      "王权",
+      "丰收"
+    ],
+    "en": [
+      "All crafts",
+      "War",
+      "Kingship",
+      "Harvest"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "投石索与永不失手的长矛（四大宝物之一）",
+        "en": "Sling and the unerring spear, one of the four treasures"
+      }
+    },
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "八月初的卢纳萨丰收节",
+        "en": "Lughnasadh, the August harvest festival"
+      }
+    },
+    {
+      "label": {
+        "zh": "后裔",
+        "en": "Offspring"
+      },
+      "value": {
+        "zh": "阿尔斯特英雄库丘林的神界生父",
+        "en": "Divine father of Cu Chulainn"
+      }
+    }
+  ],
+  "related": [
+    "dagda",
+    "cu-chulainn",
+    "balor"
+  ],
+  "sources": [
+    {
+      "zh": "《莫伊图拉之战》（Cath Maige Tuired）",
+      "en": "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+    },
+    {
+      "zh": "《入侵之书》（Lebor Gabála Érenn）",
+      "en": "Lebor Gabala Erenn (The Book of Invasions)"
+    }
+  ],
+  "geo": {
+    "lat": 53.717,
+    "lon": -6.785,
+    "label": {
+      "zh": "塔尔陶（米斯郡，卢纳萨节发源地）",
+      "en": "Teltown (Tailtiu), Co. Meath"
+    }
+  },
+  "image": {
+    "file": "/images/entries/lugh.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lugh_spear_Millar.jpg",
+    "sourceTitle": "Lugh spear Millar",
+    "artist": "Harold Robert Millar",
+    "license": "Public domain",
+    "width": 619,
+    "height": 1000
+  }
+}

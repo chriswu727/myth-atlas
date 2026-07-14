@@ -1,0 +1,108 @@
+{
+  "id": "enki",
+  "tradition": "mesopotamian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "恩基",
+    "en": "Enki",
+    "original": "En-ki",
+    "originalLang": "苏美尔语"
+  },
+  "title": {
+    "zh": "智慧与淡水之神",
+    "en": "God of Wisdom and the Deep"
+  },
+  "summary": {
+    "zh": "智慧、淡水与技艺之神，阿卡德语名埃阿，居于地下淡水渊，圣城埃利都。造人出自他的提议，大洪水前隔着芦苇墙向人泄密的也是他。",
+    "en": "God of wisdom, fresh water, and crafts, Akkadian Ea, dwelling in the Abzu at Eridu. He proposed the creation of humankind and leaked the secret of the coming Flood through a reed wall."
+  },
+  "description": {
+    "zh": "恩基是智慧、淡水与技艺之神，阿卡德语称埃阿。他住在地下淡水渊“阿普苏”之中，圣城是苏美尔传统里的第一座城市埃利都，神庙称“渊之屋”。阿卡德时期的滚印（如大英博物馆藏“阿达印”）刻他肩头涌出两道带鱼的水流，头戴多重角冠；山羊鱼是他的标志兽，后世界碑上常以它代表恩基。众神里他是动脑子的那一位：擅长法术与咒语，执掌文明诸技艺“梅”。\n\n他一再充当人类的庇护者。《阿特拉哈西斯史诗》里，小辈神祇因劳役太苦而罢工，是恩基提议造人代劳，由母神用黏土掺上被宰之神的血肉捏成；后来恩利尔以大洪水灭人，又是恩基隔着芦苇墙向阿特拉哈西斯泄露天机，教他拆屋造船。苏美尔诗《伊南娜与恩基》说他醉酒后把“梅”一件件送给伊南娜，酒醒追悔，权柄已被运往乌鲁克。《恩基与宁胡尔萨格》则把他安置在净土迪尔蒙，讲他误食八株草而病倒，靠八位为此新造的小神一一治愈。\n\n在《埃努玛·埃利什》里，他以埃阿之名成为马尔杜克之父：用咒语迷倒并杀死原初淡水阿普苏，在其尸身上建起居所，后来又按马尔杜克的谋划以钦古之血造人。埃利都遗址（今阿布沙赫赖因丘）的神庙序列可上溯至公元前六千纪，是两河宗教建筑延续最久的地层之一。",
+    "en": "Enki, called Ea in Akkadian, is the god of wisdom, fresh water, and crafts. He dwells in the Abzu, the subterranean freshwater deep, and his holy city is Eridu — in Sumerian tradition the first city of all — where his temple was the E-abzu, 'House of the Deep.' Akkadian cylinder seals such as the Adda seal in the British Museum show him with two fish-filled streams springing from his shoulders and a many-horned crown; his emblem beast is the goat-fish, which stands for him on later boundary stones. Among the gods he is the schemer and problem-solver, master of spells and keeper of the me, the arts of civilization.\n\nHe repeatedly shields humankind. In the Atrahasis epic, when the junior gods strike against their toil, Enki proposes creating humans to do the work, shaped from clay mixed with the flesh and blood of a slaughtered god; when Enlil later sends the Flood, Enki leaks the secret through a reed wall and teaches Atrahasis to build the ark. In the Sumerian poem Inanna and Enki he drunkenly gives away the me one by one to Inanna and sobers up to find them shipped off to Uruk. Enki and Ninhursag sets him in the pure land of Dilmun, sickened by eating eight plants and healed by eight deities created for the purpose.\n\nIn Enuma Elish, as Ea, he becomes the father of Marduk: he lulls and kills the primeval freshwater Apsu with a spell, founds his dwelling upon the body, and later fashions mankind from the blood of Qingu. At Eridu, modern Tell Abu Shahrain, the temple sequence reaches back to the sixth millennium BCE, one of the longest continuous sacred sites in Mesopotamia."
+  },
+  "domains": {
+    "zh": [
+      "智慧",
+      "淡水",
+      "法术",
+      "技艺"
+    ],
+    "en": [
+      "Wisdom",
+      "Fresh water",
+      "Magic",
+      "Crafts"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣城",
+        "en": "Holy city"
+      },
+      "value": {
+        "zh": "埃利都，神庙“渊之屋”",
+        "en": "Eridu, temple E-abzu"
+      }
+    },
+    {
+      "label": {
+        "zh": "象征",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "肩涌双流与山羊鱼",
+        "en": "Twin streams and the goat-fish"
+      }
+    },
+    {
+      "label": {
+        "zh": "阿卡德名",
+        "en": "Akkadian name"
+      },
+      "value": {
+        "zh": "埃阿",
+        "en": "Ea"
+      }
+    }
+  ],
+  "related": [
+    "enlil",
+    "ishtar",
+    "marduk",
+    "tiamat",
+    "mesopotamian-flood"
+  ],
+  "sources": [
+    {
+      "zh": "《阿特拉哈西斯史诗》",
+      "en": "Epic of Atrahasis"
+    },
+    {
+      "zh": "苏美尔诗《伊南娜与恩基》《恩基与宁胡尔萨格》",
+      "en": "Sumerian poems Inanna and Enki; Enki and Ninhursag"
+    },
+    {
+      "zh": "《埃努玛·埃利什》",
+      "en": "Enuma Elish"
+    }
+  ],
+  "geo": {
+    "lat": 30.82,
+    "lon": 46,
+    "label": {
+      "zh": "埃利都（今阿布沙赫赖因丘）",
+      "en": "Eridu (Tell Abu Shahrain)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/enki.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sceau_Enki_Agade_MNB1905.jpg",
+    "sourceTitle": "Sceau Enki Agade MNB1905",
+    "artist": "Zunkir",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 557
+  }
+}

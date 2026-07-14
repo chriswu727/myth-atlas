@@ -1,0 +1,106 @@
+{
+  "id": "botan-doro",
+  "tradition": "kaidan",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "牡丹灯笼",
+    "en": "The Peony Lantern",
+    "original": "怪談牡丹燈籠",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "提灯夜访的亡灵恋人",
+    "en": "The dead lover who visits by lantern light"
+  },
+  "summary": {
+    "zh": "浪人新三郎夜夜与提牡丹灯笼来访的恋人阿露幽会，木屐声咔啷咔啷。邻人窥见他怀中抱着的是一具骷髅——江户三大怪谈中最缠绵的一篇。",
+    "en": "Night after night the ronin Shinzaburo meets his lover Otsuyu, who arrives with a peony lantern, geta clacking. A neighbor peers in and sees a skeleton in his arms. The most romantic of Edo's great ghost tales."
+  },
+  "description": {
+    "zh": "故事的日本定型出自落语家三游亭圆朝。浪人萩原新三郎与旗本饭岛平左卫门之女阿露一见倾心，之后阿露思恋成疾而死，侍女阿米也相继亡故。盂兰盆节的夜里，新三郎听见咔啷咔啷的木屐声，阿米提着缀牡丹花的灯笼，引着阿露来到他家，两人从此夜夜幽会。邻人伴藏从墙缝窥看，见新三郎灯下拥着的是一具白骨。相士与和尚为新三郎贴符护宅、挂海音如来像，亡灵进不了门，在墙外哀哀呼唤。伴藏受亡灵之托，得了百两黄金，揭去了符——次日清晨，新三郎死在屋里，怀中抱着骷髅。后半部转写伴藏夫妇携赃款还乡后的因果报应。\n\n故事的源头是明代瞿佑文言小说集《剪灯新话》中的《牡丹灯记》（约1378年），写元末明州（宁波）书生乔生与符丽卿的人鬼之恋；浅井了意《伽婢子》（1666年）把它翻案成日本故事。圆朝在幕末（1861年前后）将其扩写成长篇落语，1884年由速记者若林玵藏笔录出版——这是日本第一部速记本，其口语文体影响了明治言文一致运动。\n\n1892年三世河竹新七改编为歌舞伎《怪异谈牡丹灯笼》。「咔啷咔啷」的木屐声由此成为日本怪谈里亡灵来访的标准音效。",
+    "en": "The Japanese canonical version belongs to the rakugo master San'yutei Encho. The ronin Hagiwara Shinzaburo and Otsuyu, daughter of the hatamoto Iijima Heizaemon, fall in love at a single meeting; Otsuyu pines and dies, followed by her maid Oyone. During the Bon festival of the dead, Shinzaburo hears the karan-koron clack of geta: Oyone approaches carrying a lantern hung with peony blossoms, leading Otsuyu to his door, and the lovers meet night after night. The neighbor Tomozo peeps through a wall and sees that what Shinzaburo embraces in the lamplight is a skeleton. A diviner and a priest seal the house with sutra-slips and a gold image of the Buddha Kaion Nyorai; the ghosts, unable to enter, call plaintively from outside until they bribe Tomozo with a hundred gold ryo to peel the wards away. At dawn Shinzaburo lies dead with the bones in his arms. The tale's second half follows the corrupting gold as retribution overtakes Tomozo and his wife.\n\nThe root text is 'Mudan deng ji' in Qu You's Ming-dynasty collection Jiandeng Xinhua (c. 1378); Asai Ryoi's Otogi Boko (1666) transplanted it to Japan. Encho expanded it into a serial rakugo around 1861, and the 1884 shorthand transcription by Wakabayashi Kanzo became Japan's first stenographic book, a landmark of the movement to write as people speak. A kabuki version by Kawatake Shinshichi III followed in 1892, and the karan-koron of ghostly geta has been the sound of a dead lover's visit ever since."
+  },
+  "domains": {
+    "zh": [
+      "人鬼恋",
+      "盂兰盆",
+      "落语",
+      "因果报应"
+    ],
+    "en": [
+      "Ghost romance",
+      "Bon festival",
+      "Rakugo",
+      "Karmic retribution"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志声音",
+        "en": "Signature sound"
+      },
+      "value": {
+        "zh": "咔啷咔啷的木屐声",
+        "en": "The karan-koron clack of geta"
+      }
+    },
+    {
+      "label": {
+        "zh": "中国源头",
+        "en": "Chinese source"
+      },
+      "value": {
+        "zh": "瞿佑《剪灯新话·牡丹灯记》",
+        "en": "'Mudan deng ji' in Qu You's Jiandeng Xinhua"
+      }
+    },
+    {
+      "label": {
+        "zh": "出版史地位",
+        "en": "Publishing landmark"
+      },
+      "value": {
+        "zh": "1884年速记本为日本第一部速记出版物",
+        "en": "The 1884 transcription was Japan's first shorthand book"
+      }
+    }
+  ],
+  "related": [
+    "yotsuya-kaidan",
+    "sarayashiki",
+    "kasane-ga-fuchi"
+  ],
+  "sources": [
+    {
+      "zh": "瞿佑《剪灯新话》「牡丹灯记」（约1378年）",
+      "en": "Qu You, Jiandeng Xinhua, 'Mudan deng ji' (c. 1378)"
+    },
+    {
+      "zh": "浅井了意《伽婢子》（1666年）",
+      "en": "Asai Ryoi, Otogi Boko (1666)"
+    },
+    {
+      "zh": "三游亭圆朝《怪谈牡丹灯笼》（1884年速记本）",
+      "en": "San'yutei Encho, Kaidan Botan Doro (shorthand edition, 1884)"
+    }
+  ],
+  "geo": {
+    "lat": 35.72,
+    "lon": 139.764,
+    "label": {
+      "zh": "东京根津（故事舞台）",
+      "en": "Nezu, Tokyo (setting of the tale)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/botan-doro.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Peony_Lantern,_by_Warwick_Goble.jpg",
+    "sourceTitle": "The Peony Lantern, by Warwick Goble",
+    "artist": "Warwick Goble",
+    "license": "Public domain",
+    "width": 697,
+    "height": 1000
+  }
+}

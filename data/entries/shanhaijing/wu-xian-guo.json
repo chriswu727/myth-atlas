@@ -1,0 +1,98 @@
+{
+  "id": "wu-xian-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "巫咸国",
+    "en": "Country of Wuxian"
+  },
+  "title": {
+    "zh": "群巫上下于天的国度",
+    "en": "The Land Where Shamans Climb Between Heaven and Earth"
+  },
+  "summary": {
+    "zh": "海外之西的巫者之国，国人右手操青蛇、左手操赤蛇；登葆山是群巫往来天地的天梯。大荒西经又记灵山十巫，巫咸为首，百药所聚。",
+    "en": "A nation of shamans in the far west, each gripping a green snake in the right hand and a red one in the left; Mount Dengbao is their ladder to heaven, and all medicines grow on nearby Mount Ling."
+  },
+  "description": {
+    "zh": "海外西经记：巫咸国在女丑尸的北面，国人右手握一条青蛇，左手握一条赤蛇。国中有登葆山，是「群巫所从上下」的地方——巫师们由此登天、由此下地，像走一道天梯。操蛇在《山海经》里是神与巫共用的仪仗，两手各持一色，是这个国度的通行装束。\n\n大荒西经另记一座灵山：巫咸、巫即、巫朌、巫彭、巫姑、巫真、巫礼、巫抵、巫谢、巫罗十巫「从此升降，百药爰在」——十位巫师沿灵山上天下地，各种药材都聚生在这里。上古的巫兼掌通神与治病，采药与登天是同一趟差事，「巫医不分」的早期图景在这两段经文里最为完整。\n\n为首的巫咸在传世文献里是个显赫名字：《尚书·君奭》记他辅佐商王太戊、安治王家；《世本》说「巫咸作筮」，把筮占的发明归于他；《离骚》里屈原失路彷徨时，正是「巫咸将夕降兮」，诗人怀揣椒糈等他降神决疑。一位商代名臣、一门占卜技艺、一个海外之国、一座百药灵山，都收拢在这个名字之下——巫咸国正是上古巫者集团在《山海经》地理里的投影。",
+    "en": "The Country of Wuxian lies north of the corpse of Nüchou, says the Beyond the Seas: West chapter; its people hold a green snake in the right hand and a red snake in the left. In the country rises Mount Dengbao, 'whence the assembled shamans ascend and descend' — a ladder between earth and heaven. Gripping snakes is regalia shared by gods and shamans throughout the Classic; here, one color to each hand is the national dress.\n\nThe Great Wilderness: West records a parallel institution on Mount Ling, where ten shamans — Wuxian, Wuji, Wufen, Wupeng, Wugu, Wuzhen, Wuli, Wudi, Wuxie, Wuluo — 'ascend and descend, and the hundred medicines are found there.' The archaic shaman worked both jobs at once: climbing to heaven to speak with spirits and gathering herbs to heal the sick. No passage preserves the early unity of shaman and physician more completely.\n\nWuxian himself is a famous name in transmitted literature. The Book of Documents has him steadying the royal house under the Shang king Taiwu; the Shiben credits him with inventing yarrow divination; and in the Li Sao it is Wuxian who 'descends at dusk' while the poet waits with offerings of pepper and rice for an oracle. A Shang minister, a divining art, an overseas nation, and a mountain of medicines all gather under one name: the Country of Wuxian is the ancient shamans' guild projected onto the map of the world."
+  },
+  "domains": {
+    "zh": [
+      "巫",
+      "天梯",
+      "医药",
+      "操蛇"
+    ],
+    "en": [
+      "Shamans",
+      "Sky Ladder",
+      "Medicine",
+      "Snake Regalia"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "位置",
+        "en": "Location"
+      },
+      "value": {
+        "zh": "女丑之北，有登葆山",
+        "en": "North of Nüchou, containing Mount Dengbao"
+      }
+    },
+    {
+      "label": {
+        "zh": "国人装束",
+        "en": "National dress"
+      },
+      "value": {
+        "zh": "右手操青蛇，左手操赤蛇",
+        "en": "Green snake in the right hand, red in the left"
+      }
+    },
+    {
+      "label": {
+        "zh": "对应记载",
+        "en": "Parallel passage"
+      },
+      "value": {
+        "zh": "大荒西经灵山十巫，百药爰在",
+        "en": "The ten shamans of Mount Ling, where all medicines grow"
+      }
+    }
+  ],
+  "related": [
+    "san-shen-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外西经》《大荒西经》",
+      "en": "Classic of Mountains and Seas, 'Beyond the Seas: West' and 'Great Wilderness: West'"
+    },
+    {
+      "zh": "《尚书·君奭》",
+      "en": "Book of Documents, 'Jun Shi' chapter"
+    },
+    {
+      "zh": "屈原《离骚》",
+      "en": "Qu Yuan, Li Sao"
+    }
+  ],
+  "volume": {
+    "zh": "海外西经",
+    "en": "Classic of Regions Beyond the Seas: West"
+  },
+  "image": {
+    "file": "/images/entries/wu-xian-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic055_-_%E5%B7%AB%E5%92%B8%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic055 - 巫咸國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 659,
+    "height": 1000
+  }
+}

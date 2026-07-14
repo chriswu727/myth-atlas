@@ -1,0 +1,90 @@
+{
+  "id": "hua-she",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "化蛇",
+    "en": "Huashe"
+  },
+  "title": {
+    "zh": "人面豺身、见则大水的怪蛇",
+    "en": "Human-Faced, Jackal-Bodied Serpent That Portends Floods"
+  },
+  "summary": {
+    "zh": "阳山水中怪蛇，人面豺身，背生鸟翼而以蛇形游走，叫声像人叱喝；它现身之处，城邑将发大水。",
+    "en": "A creature of Mount Yang's waters with a human face, a jackal's body and bird's wings, moving with a serpent's crawl; its voice is a shouted rebuke, its appearance a flood warning."
+  },
+  "description": {
+    "zh": "《中次二经》记阳山“多石，无草木”，阳水从山中流出，北注伊水，水中多化蛇：“其状如人面而豺身，鸟翼而蛇行，其音如叱呼，见则其邑大水。”一张人脸，豺的身子，背上生着鸟翼，行动起来却像蛇一样蜿蜒；叫声像有人在高声叱喝。\n\n化蛇是拼合式怪物的标本，人、豺、鸟、蛇四种形骸缝在一具身体里。《山海经》的灾兆之兽各有所司，水兆一系还有敖岸山那头四角白鹿夫诸；与化蛇同出伊水流域的鸣蛇则司大旱。一主涝、一主旱，这对怪蛇构成了《中次二经》里成对的水文之兆。",
+    "en": "Mount Yang is stony and bare of vegetation; the Yang River flows from it north into the Yi. In its waters live the Huashe: creatures with a human face, a jackal's body, and bird's wings, yet moving with a serpent's crawl. Their voice sounds like a person shouting rebukes. Wherever one shows itself, that town will be flooded.\n\nThe Huashe is a specimen of the composite monster, four bodies stitched into one silhouette — human, jackal, bird and snake. Among the portent beasts of the classic it sits in the flood column beside the Fuzhu, the four-horned white deer of Mount Ao'an, while its neighbor in the same Yi basin, the Mingshe of Mount Xian, governs the opposite sign of drought. One serpent for deluge and one for drought make a matched pair of water omens in the second central sequence."
+  },
+  "domains": {
+    "zh": [
+      "水兆",
+      "拼合怪物",
+      "伊水"
+    ],
+    "en": [
+      "Flood Omens",
+      "Composite Beasts",
+      "The Yi River"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "阳山阳水",
+        "en": "Mount Yang and the Yang River"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如人叱呼",
+        "en": "Like a person shouting rebukes"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆示",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其邑大水",
+        "en": "Its appearance portends a great flood"
+      }
+    }
+  ],
+  "related": [
+    "ming-she",
+    "fu-zhu",
+    "ma-fu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/hua-she.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic509_-_%E5%8C%96%E8%9B%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic509 - 化蛇圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 667,
+    "height": 1000
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "kikimora",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "基基莫拉",
+    "en": "Kikimora",
+    "original": "Кикимора",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "夜半纺线的宅中女怪",
+    "en": "Night Spinner of the House"
+  },
+  "summary": {
+    "zh": "藏在灶后地板下的干瘦女怪，夜里出来乱纺乱扯，弄坏主妇的纱线；听见她的纺车响被视为家宅不宁的凶兆。",
+    "en": "The scrawny female spirit under the floorboards who comes out at night to spin, tangling and fouling the housewife's yarn; the whirr of her wheel was an omen of trouble."
+  },
+  "description": {
+    "zh": "基基莫拉是宅中的女性精怪，常被说成多莫沃伊的对应者或妻子。她身形干瘦矮小，头发不梳、衣衫褴褛，白天躲在灶后、地板下，夜里出来坐到纺车前——但她纺不出好线，只会把主妇的纱弄乱扯断，弄脏没收起来的活计。夜里听见纺车嗡嗡、麻线簌簌，被当作家宅不宁乃至丧事将近的凶兆。她还折磨家禽，鸡若整夜扑腾脱毛，就说是基基莫拉在拔。\n\n民间对她的来历有几种说法：未受洗夭折或遭父母诅咒的女孩所化；也有说是木匠、砌炉匠受了主家亏待，在房梁或灶里做手脚\"放\"进来的。对付她的办法随之而来：在鸡窝挂\"鸡神石\"（带天然孔的石头）护住家禽，拆出匠人埋下的木偶咒物，或请神父行洁净礼。另有\"沼泽基基莫拉\"一路，被说成林中莱希之妻，在林沼雾气里出没。\n\n达利19世纪中叶的词典与民俗著作都收录了这个形象，词条把她释作\"宅中妖魔\"。1909年里亚多夫据民间传说写成管弦乐小品《基基莫拉》，阴森的慢板序奏与倏然消失的结尾，是这位夜纺女怪最著名的音乐肖像。",
+    "en": "The kikimora is the female spirit of the house, often called the counterpart or wife of the domovoy. Small, scrawny and unkempt, she hides by day behind the stove or under the floorboards and comes out at night to sit at the spinning wheel — yet she spins nothing useful, only tangling and snapping the housewife's yarn and soiling any work left out. The whirr of her wheel and the rustle of flax in the dark were read as omens of trouble in the house, even of a coming death. She torments poultry too: hens found frantic and half-plucked in the morning were said to have suffered her attentions.\n\nFolk accounts give her several origins: a girl who died unbaptized or under a parent's curse, or a spirit \"planted\" in the beams or stove by a carpenter or stove-builder cheated of his pay. The countermeasures follow: a \"chicken god\" — a stone with a natural hole — hung in the coop to protect the birds, the hidden charm-doll of the offended craftsman dug out and destroyed, or a priest called in to cleanse the house. A separate line of tradition speaks of the swamp kikimora, said to be the wife of the forest master leshy, glimpsed in the mists of the marshes.\n\nVladimir Dal recorded the figure in his mid-nineteenth-century dictionary and folklore writings, glossing her as a house demon. In 1909 Anatoly Lyadov drew on the legends for his orchestral miniature Kikimora, whose brooding introduction and abruptly vanishing ending remain the night spinner's best-known portrait in music."
+  },
+  "domains": {
+    "zh": [
+      "家宅",
+      "纺线",
+      "凶兆",
+      "沼泽"
+    ],
+    "en": [
+      "Household",
+      "Spinning",
+      "Ill omens",
+      "Swamp"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "藏身处",
+        "en": "Hiding place"
+      },
+      "value": {
+        "zh": "灶后、地板下",
+        "en": "Behind the stove, under the floorboards"
+      }
+    },
+    {
+      "label": {
+        "zh": "克制物",
+        "en": "Ward"
+      },
+      "value": {
+        "zh": "带天然孔的\"鸡神石\"",
+        "en": "The \"chicken god,\" a naturally holed stone"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶（异文）",
+        "en": "Spouse (variant)"
+      },
+      "value": {
+        "zh": "多莫沃伊，或林中的莱希",
+        "en": "The domovoy, or the forest leshy"
+      }
+    }
+  ],
+  "related": [
+    "domovoy",
+    "leshy",
+    "rusalka"
+  ],
+  "sources": [
+    {
+      "zh": "达利《大俄罗斯语详解词典》（1863-1866）",
+      "en": "Vladimir Dal, Explanatory Dictionary of the Living Great Russian Language, 1863-66"
+    },
+    {
+      "zh": "阿法纳西耶夫《斯拉夫人对自然的诗意观照》（1865-1869）",
+      "en": "Alexander Afanasyev, The Poetic Outlook of the Slavs on Nature, 1865-69"
+    },
+    {
+      "zh": "里亚多夫管弦乐《基基莫拉》（1909）",
+      "en": "Anatoly Lyadov, Kikimora (orchestral piece), 1909"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/kikimora.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kikimora.jpg",
+    "sourceTitle": "Kikimora",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 735,
+    "height": 1000
+  }
+}

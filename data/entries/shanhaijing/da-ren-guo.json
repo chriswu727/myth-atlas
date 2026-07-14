@@ -1,0 +1,88 @@
+{
+  "id": "da-ren-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "大人国",
+    "en": "Land of the Giants"
+  },
+  "title": {
+    "zh": "东海之外的巨人之国",
+    "en": "A Country of Giants Beyond the Eastern Sea"
+  },
+  "summary": {
+    "zh": "海外东经所记的巨人之国，其人身形巨大，坐在船上操舟。海内北经又记海中有大人之市。",
+    "en": "A country of huge people in the eastern seas, glimpsed sitting at work in their boats; another chapter records a giants' market out on the open sea."
+  },
+  "description": {
+    "zh": "《海外东经》记：\"大人国在其北，为人大，坐而削船。\"寥寥数字给出一个劳作中的巨人形象：身量远超常人，坐着造船或操舟。\"削船\"二字旧注纷纭，有人解作用刀斧削木造船，有人读作撑船、操舟，无论哪一解，巨人与船的组合都暗示这是个滨海的国度。《海内北经》又记\"大人之市在海中\"，海面上竟有巨人赶集的集市；《大荒东经》则记东海之外有波谷山，大人国在其间，又有一处名为\"大人之堂\"的大人之市，一个巨人蹲踞其上。\n\n巨人传说在东方海上蔓延得很远。《列子·汤问》讲龙伯之国的大人抬脚没走几步就跨到了渤海之东的五座仙山，一钩连钓六只驮山的巨鳌，害得岱舆、员峤二山沉入海底。清代小说《镜花缘》里，唐敖一行游历海外，大人国被写成人人脚下踏着云彩的国度，云的颜色随人心善恶而变。从坐而造船的巨人到脚踏彩云的君子，这个国度被后世越写越温和。",
+    "en": "The Classic of Regions Beyond the Seas: East catches its giants in mid-task: the people of the Land of Giants are enormous, and they sit working at their boats. Commentators quarrel over the verb, some reading it as carving hulls with adze and axe, others as poling or rowing, but either way the image ties the giants to the sea. The Classic of Regions Within the Seas: North adds a stranger note, a giants' market held out on the open water, and the Great Wilderness: East chapter locates the country by Wave Valley Mountain, with a giants' market called the Giants' Hall and a giant squatting on top of it.\n\nGiant lore kept growing in these eastern waters. The Liezi tells of the Land of Longbo, whose giant crossed to the five floating immortal isles in a few strides and hooked six of the sea turtles that carried them, sinking two mountains for good. In the Qing novel Flowers in the Mirror, the Land of Giants has softened into a moral fable: every inhabitant walks on a personal cloud whose color shifts with the goodness of his heart."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "巨人",
+      "东海"
+    ],
+    "en": [
+      "Far Lands",
+      "Giants",
+      "Eastern Sea"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "经文形象",
+        "en": "Image"
+      },
+      "value": {
+        "zh": "为人大，坐而削船",
+        "en": "Huge people, seated at work on boats"
+      }
+    },
+    {
+      "label": {
+        "zh": "海中奇观",
+        "en": "Sea Marvel"
+      },
+      "value": {
+        "zh": "大人之市在海中",
+        "en": "A giants' market on the open sea"
+      }
+    }
+  ],
+  "related": [
+    "jun-zi-guo",
+    "chang-bi-guo",
+    "ling-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外东经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: East'"
+    },
+    {
+      "zh": "《列子·汤问》",
+      "en": "Liezi, 'Questions of Tang'"
+    },
+    {
+      "zh": "李汝珍《镜花缘》",
+      "en": "Li Ruzhen, Flowers in the Mirror"
+    }
+  ],
+  "volume": {
+    "zh": "海外东经",
+    "en": "Classic of Regions Beyond the Seas: East"
+  },
+  "image": {
+    "file": "/images/entries/da-ren-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic019_-_%E5%A4%A7%E4%BA%BA%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic019 - 大人國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 662,
+    "height": 1000
+  }
+}

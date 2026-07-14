@@ -1,0 +1,119 @@
+{
+  "id": "odin",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥丁",
+    "en": "Odin",
+    "original": "Óðinn",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "众神之父，战争与智慧之神",
+    "en": "Allfather, God of War and Wisdom"
+  },
+  "summary": {
+    "zh": "阿萨神族之主，独眼的智慧追寻者。为求知识以一眼抵押于密弥尔之泉，又自缢于世界树九夜换取卢恩文字。",
+    "en": "One-eyed chief of the Aesir who pledged an eye at Mimir's well and hung nine nights on the world tree to win the runes."
+  },
+  "description": {
+    "zh": "奥丁是阿萨神族的首领，常以缺了一目的老者形象出现：宽檐帽压住眉眼，身披深色斗篷，手持投出必中的长枪冈格尼尔。他坐在至高王座希利德斯凯拉夫上俯瞰九界，肩头的两只渡鸦福金与雾尼每日飞遍世界，回来向他耳语见闻；脚边卧着双狼基利与弗力奇，八足神驹斯莱普尼尔供他驰骋于天地之间。\n\n他对智慧的渴求近乎自毁。《女占卜者的预言》记载他将一只眼睛沉入巨人密弥尔看守的智慧之泉，以此换取一饮；《高人的箴言》则由他自述：以枪刺身，吊在风中的树上九天九夜，「以自己献祭给自己」，坠落之际拾得卢恩文字的奥秘。作为战争之神，他派瓦尔基里挑选阵亡勇士入英灵殿瓦尔哈拉，为诸神黄昏储备军队——他早已从女占卜者口中得知，自己命中注定在末日被巨狼芬里尔吞噬。\n\n奥丁的信仰在维京时代盛行于武士与诗人之间，斯堪的纳维亚各地出土的图像石上常见持枪独眼骑者。英语星期三（Wednesday）一词即源于他的古英语名沃登（Woden）。",
+    "en": "Odin rules the Aesir from the high seat Hlidskjalf, from which he surveys all the nine worlds. He appears as a one-eyed wanderer in a broad-brimmed hat and dark cloak, carrying the spear Gungnir, which never misses its mark. Two ravens, Huginn and Muninn, fly across the world each day and whisper what they have seen into his ears; two wolves, Geri and Freki, crouch at his feet, and the eight-legged horse Sleipnir bears him between the worlds.\n\nHis hunger for knowledge borders on self-destruction. The Voluspa tells how he left one eye in the well of Mimir as the price of a single drink of its wisdom. In the Havamal he speaks in his own voice: wounded by a spear, he hung nine nights on a wind-swept tree, sacrificed 'myself to myself', and seized the runes as he fell. As god of war he sends the valkyries to gather slain champions into Valhalla, building an army for Ragnarok, though the prophecy has already told him he will die in the jaws of the wolf Fenrir.\n\nOdin's cult flourished among warriors and poets of the Viking Age; picture stones across Scandinavia show a one-eyed rider with a spear. The English word Wednesday preserves his Old English name, Woden."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "智慧",
+      "诗歌",
+      "死亡",
+      "卢恩魔法"
+    ],
+    "en": [
+      "War",
+      "Wisdom",
+      "Poetry",
+      "Death",
+      "Rune Magic"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "长枪冈格尼尔",
+        "en": "The spear Gungnir"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Steed"
+      },
+      "value": {
+        "zh": "八足神驹斯莱普尼尔",
+        "en": "Sleipnir, the eight-legged horse"
+      }
+    },
+    {
+      "label": {
+        "zh": "随从",
+        "en": "Companions"
+      },
+      "value": {
+        "zh": "渡鸦福金与雾尼，双狼基利与弗力奇",
+        "en": "Ravens Huginn and Muninn; wolves Geri and Freki"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿命",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "诸神黄昏时被芬里尔吞噬",
+        "en": "Devoured by Fenrir at Ragnarok"
+      }
+    }
+  ],
+  "related": [
+    "thor",
+    "loki",
+    "fenrir",
+    "valkyrie",
+    "valhalla",
+    "yggdrasil",
+    "ragnarok",
+    "baldr"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·女占卜者的预言》《高人的箴言》",
+      "en": "Poetic Edda: Voluspa and Havamal"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "geo": {
+    "lat": 59.9,
+    "lon": 17.63,
+    "label": {
+      "zh": "老乌普萨拉神庙遗址",
+      "en": "Gamla Uppsala temple site"
+    }
+  },
+  "image": {
+    "file": "/images/entries/odin.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
+    "sourceTitle": "Georg von Rosen - Oden som vandringsman, 1886 (Odin, the Wanderer)",
+    "artist": "Georg von Rosen",
+    "license": "Public domain",
+    "width": 682,
+    "height": 1000
+  }
+}

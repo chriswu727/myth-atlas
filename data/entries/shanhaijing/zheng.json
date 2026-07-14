@@ -1,0 +1,92 @@
+{
+  "id": "zheng",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "狰",
+    "en": "Zheng"
+  },
+  "title": {
+    "zh": "独角五尾的赤豹",
+    "en": "Scarlet Leopard with One Horn and Five Tails"
+  },
+  "summary": {
+    "zh": "章莪之山的怪兽，形如赤豹，独角五尾，吼声像两块石头相击。",
+    "en": "A beast of Mount Zhang'e shaped like a scarlet leopard, with a single horn and five tails, its voice like stones striking together."
+  },
+  "description": {
+    "zh": "《西次三经》记章莪之山无草木，多瑶碧，“所为甚怪”——是一座盛产美玉而怪事频出的石山。山中有兽，“其状如赤豹，五尾一角，其音如击石，其名曰狰”：通体赤红如豹，头顶一只独角，身后五条尾巴，吼声像两块石头相击。\n\n《山海经》描述异兽，惯以肢体的增减为记：狰的一角五尾，与同经中一目三尾的讙、三首六尾的鵸鵌属于同一套造形语言。狰与预示怪火的独脚鸟毕方同住章莪之山；经文没有给它安排任何吉凶兆验，也没有食用佩服之效，在动辄“见则大旱”“服之已瘅”的西山经诸兽中，这份沉默反而少见。明清各种《山海经》图本多把狰画作立于山石之上的五尾独角豹，这一形象也进入了现代的图鉴、游戏与插画。",
+    "en": "Mount Zhang'e, says the 'Classic of the Western Mountains', bears no plants but abounds in fine jade, and 'strange things happen there'. Among them prowls the Zheng: 'shaped like a scarlet leopard, with five tails and a single horn, its voice like the striking of stones.'\n\nThe Shanhaijing habitually marks its beasts by adding or subtracting body parts, and the Zheng — one horn, five tails — belongs to the same figural grammar as the one-eyed, three-tailed Huan and the three-headed, six-tailed Qitu elsewhere in the same classic. It shares Mount Zhang'e with the Bifang, the one-legged bird of fire omens, yet the text assigns the Zheng itself no omen, no cure, and no use — an unusual silence in a book where most western beasts either portend drought and flood or heal ills when eaten or worn. Ming and Qing illustrated editions draw it as a five-tailed, horned leopard poised on bare rock, an image that has passed into modern bestiaries, games, and illustration."
+  },
+  "domains": {
+    "zh": [
+      "独角",
+      "五尾",
+      "赤豹",
+      "章莪之山"
+    ],
+    "en": [
+      "Single Horn",
+      "Five Tails",
+      "Scarlet Leopard",
+      "Mount Zhang'e"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "如赤豹，五尾一角",
+        "en": "A scarlet leopard with five tails and one horn"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "其音如击石",
+        "en": "Like stones struck together"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "章莪之山，无草木多瑶碧",
+        "en": "Mount Zhang'e, barren but rich in jade"
+      }
+    }
+  ],
+  "related": [
+    "bifang",
+    "huan",
+    "qi-tu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/zheng.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic252_-_%E7%8C%99%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic252 - 猙圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 996,
+    "height": 1000
+  }
+}

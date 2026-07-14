@@ -1,0 +1,89 @@
+{
+  "id": "fenghuang",
+  "tradition": "chinese",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "凤凰",
+    "en": "Fenghuang"
+  },
+  "title": {
+    "zh": "百鸟之王的五彩神鸟",
+    "en": "Five-Colored Sovereign of All Birds"
+  },
+  "summary": {
+    "zh": "雄曰凤，雌曰凰，百鸟之王。五色备举，非梧桐不栖、非醴泉不饮；凤鸣岐山预兆周兴，后与龙并为帝后象征。",
+    "en": "King of birds — feng the male, huang the female — clothed in the five colors, perching only on wutong trees and drinking only from sweet springs. Its cry at Mount Qi heralded the rise of Zhou."
+  },
+  "description": {
+    "zh": "凤凰是百鸟之王，雄者称凤，雌者称凰。《说文解字》说它出于东方君子之国，翱翔四海之外，过昆仑、饮砥柱、宿风穴，\"见则天下大安宁\"。《尔雅·释鸟》郭璞注勾画其形：鸡头、燕颔、蛇颈、龟背、鱼尾，五彩色，高六尺许。\n\n凤凰自古居祥瑞之首。《尚书·益稷》记舜廷奏《箫韶》之乐，\"凤皇来仪\"；《国语·周语上》说\"周之兴也，鸑鷟鸣于岐山\"，鸑鷟即凤属，\"凤鸣岐山\"从此成为王朝将兴的第一吉兆。《诗经·大雅·卷阿》咏\"凤凰于飞，翙翙其羽\"，用作贺颂的套语流传至今。《庄子·秋水》里的鹓鶵为凤属，\"非梧桐不止，非练实不食，非醴泉不饮\"，把这只神鸟写成高洁不可污的化身。\n\n楚文化尤其尊凤，楚墓帛画与漆器上凤鸟昂然立于龙虎之上。汉代以后凤凰渐与皇后相配，与龙组成\"龙凤呈祥\"；凤冠霞帔成为后妃与民间新娘的礼服，凤穿牡丹的纹样布满织绣与建筑，湖南凤凰县、各地凤凰台则把这只鸟钉进了地名。",
+    "en": "The fenghuang reigns over all birds: feng names the male, huang the female. The Shuowen Jiezi locates its home in the Country of Gentlemen in the east, whence it soars beyond the four seas, past Kunlun, drinks at the Dizhu rapids, and roosts in the Cave of Winds; its appearance signals great peace under heaven. Guo Pu's commentary on the Erya assembles its anatomy: cock's head, swallow's chin, snake's neck, tortoise's back, fish's tail, feathers of the five colors, standing some six feet tall.\n\nIt heads the roster of auspicious signs. When the Xiaoshao music played at Shun's court, the Book of Documents says, 'the phoenix came and danced'; the Guoyu records that the rise of Zhou was announced by a phoenix-kind crying on Mount Qi, ever after the classic omen of a dynasty about to flourish. The Book of Songs sings 'the phoenixes fly, whirring their wings', still a stock phrase of congratulation, while the yuanchu of Zhuangzi's parable — a phoenix that perches only on wutong trees, eats only bamboo seed, and drinks only from sweet springs — fixed the bird as an emblem of incorruptible purity.\n\nThe culture of Chu was especially devoted to the feng, whose image stands triumphant over dragons and tigers on Chu silk paintings and lacquers. From Han times the phoenix was paired with the empress as the dragon was with the emperor: phoenix crowns dressed brides and consorts alike, and the motif of the phoenix among peonies spread across textiles, porcelain, and rooflines."
+  },
+  "domains": {
+    "zh": [
+      "祥瑞",
+      "百鸟",
+      "王朝气运",
+      "后妃"
+    ],
+    "en": [
+      "Auspicious Omens",
+      "Birds",
+      "Dynastic Fortune",
+      "Empresses"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "鸡头、燕颔、蛇颈、龟背、鱼尾，五彩色",
+        "en": "Cock's head, swallow's chin, snake's neck, tortoise's back, fish's tail, five colors"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habits"
+      },
+      "value": {
+        "zh": "非梧桐不栖，非醴泉不饮",
+        "en": "Perches only on wutong trees, drinks only from sweet springs"
+      }
+    }
+  ],
+  "related": [
+    "chinese-dragon",
+    "qilin"
+  ],
+  "sources": [
+    {
+      "zh": "《说文解字》",
+      "en": "Shuowen Jiezi"
+    },
+    {
+      "zh": "《诗经·大雅·卷阿》",
+      "en": "Book of Songs, 'Juan A' (Daya)"
+    },
+    {
+      "zh": "《国语·周语上》",
+      "en": "Guoyu, 'Discourses of Zhou I'"
+    },
+    {
+      "zh": "《尔雅》郭璞注",
+      "en": "Guo Pu's commentary on the Erya"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/fenghuang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B2%88%E5%8D%97%E8%98%8B_%E4%B8%B9%E9%B3%B3%E6%9C%9D%E9%99%BD%E5%9B%B3_%E9%9B%8D%E6%AD%A313(1735)_Shen_Nanpi_Pair_of_Phoenixes_in_the_Morning_Glow_A_Hanging_scroll_Color_on_sil_a_dynasty.jpg",
+    "sourceTitle": "沈南蘋 丹鳳朝陽図 雍正13(1735) Shen Nanpi Pair of Phoenixes in the Morning Glow A Hanging scroll Color on sil a dynasty",
+    "artist": "沈南蘋 Shen Nanpi",
+    "license": "Public domain",
+    "width": 487,
+    "height": 1000
+  }
+}

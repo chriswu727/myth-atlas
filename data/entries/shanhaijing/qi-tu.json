@@ -1,0 +1,94 @@
+{
+  "id": "qi-tu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "鵸鵌",
+    "en": "Qitu"
+  },
+  "title": {
+    "zh": "三首六尾的善笑之鸟",
+    "en": "Laughing Bird with Three Heads and Six Tails"
+  },
+  "summary": {
+    "zh": "翼望之山的怪鸟，形如乌鸦，三首六尾而喜笑；佩带它不做噩梦，还能抵御凶邪。",
+    "en": "A bird of Mount Yiwang like a crow with three heads and six tails, given to laughter; worn on the body it keeps nightmares away and wards off evil."
+  },
+  "description": {
+    "zh": "翼望之山的怪鸟。《西次三经》：“有鸟焉，其状如乌，三首六尾而善笑，名曰鵸鵌，服之使人不厌，又可以御凶。”形如乌鸦，长着三个头、六条尾巴，性喜发笑；佩带它可以不做噩梦——“厌”即“魇”——又能抵御凶邪。一只笑声不断的三头怪鸟，功效却是安眠护身，《山海经》的兆验逻辑常有这种错位。\n\n《北山经》带山另有一种同名的鵸鵌：状如乌而五彩赤纹，“自为牝牡”，一身兼具雌雄，吃了可以不生痈疽。两地鵸鵌同名而形态、功效全异，注家多以为同名异物。\n\n与鵸鵌同住翼望之山的，是独眼三尾的怪兽讙。这座西次三经的末山不产草木，却集中了全经造形最离奇的一鸟一兽，历代图本多把它们画在同一幅山景里。",
+    "en": "The 'Classic of the Western Mountains' places this bird on Mount Yiwang: 'shaped like a crow, with three heads and six tails, and given to laughter; its name is Qitu. Worn on the body, it keeps a person from nightmares, and it can also ward off evil.' The character yan in the formula is read as 'nightmare' — so a perpetually laughing, three-headed prodigy serves, of all things, as a charm for quiet sleep, one of the pleasant inversions in the book's logic of omens and virtues.\n\nThe 'Classic of the Northern Mountains' records another Qitu on Mount Dai: crow-like but five-colored with red markings, 'both male and female in one body', and a preventive against abscesses when eaten. The two share nothing but the name, and commentators treat them as distinct creatures.\n\nThe Qitu shares Mount Yiwang with the Huan, a one-eyed, three-tailed beast whose cry holds a hundred voices. The last mountain of the guideway grows no plants at all, yet houses the most extravagantly shaped bird and beast in the classic, and illustrated editions have traditionally drawn the pair into a single mountainscape."
+  },
+  "domains": {
+    "zh": [
+      "三首六尾",
+      "善笑",
+      "安梦",
+      "御凶"
+    ],
+    "en": [
+      "Three Heads, Six Tails",
+      "Laughter",
+      "Guarded Sleep",
+      "Warding off Evil"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如乌，三首六尾",
+        "en": "A crow with three heads and six tails"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "服之不魇，可以御凶",
+        "en": "Worn, it bars nightmares and wards off evil"
+      }
+    },
+    {
+      "label": {
+        "zh": "同名者",
+        "en": "Namesake"
+      },
+      "value": {
+        "zh": "北山经带山鵸鵌，自为牝牡",
+        "en": "The hermaphrodite Qitu of Mount Dai in the northern classic"
+      }
+    }
+  ],
+  "related": [
+    "huan"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《山海经·北山经》",
+      "en": "Shanhaijing, 'Classic of the Northern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/qi-tu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic115_-_%E9%B5%B8%E9%B5%8C%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic115 - 鵸鵌圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 973,
+    "height": 1000
+  }
+}

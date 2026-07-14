@@ -1,0 +1,45 @@
+{
+  "id": "hanako-san",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "厕所里的花子",
+    "en": "Hanako-san of the Toilet",
+    "original": "トイレの花子さん",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "住在三楼第三间厕所隔间的女孩", "en": "The girl in the third stall on the third floor" },
+  "summary": {
+    "zh": "在学校三楼厕所第三个隔间敲门三下，问「花子小姐，在吗」，会有细小的声音回答「在——」。日本学校怪谈的头号角色，1980年代风行全国。",
+    "en": "Knock three times on the third stall of the third-floor school toilet and ask, 'Hanako-san, are you there?' A small voice answers, 'I'm here.' The best-known figure of Japanese school ghost lore, a nationwide craze by the 1980s."
+  },
+  "description": {
+    "zh": "召唤花子有一套全国大同小异的仪式：放学后去旧校舍三楼的女厕，在从里数第三个隔间门上敲三下，问「花子小姐，在吗？」（花子さん、いらっしゃいますか）。如果里面传来细小的「在——」，推开门，会看见一个红色背带裙、妹妹头的小女孩——接下来发生什么，每所学校有自己的版本：被拖进便器、被拖进异界，或者什么都没有。她的身世也随地域各异：空袭时躲进厕所死去的孩子、被虐待致死的孩子、在校舍里被杀的孩子。\n\n民俗学者常光彻收集的案例把「厕所里的花子」类型追溯到1950年前后：岩手县当时已有「第三个隔间的花子」的说法。1980年代中期，这个放学后的试胆游戏在全国小学骤然流行，1990年常光彻《学校的怪谈》丛书出版后，「学校怪谈」成为出版与影视门类，花子稳居头牌：1995年电影《学校怪谈》与《厕所里的花子》先后上映，动画、漫画与综艺层出不穷。\n\n学校厕所是校园里最后一个独处、封闭、带排水口的空间，几乎每个文化都在这里安放怪谈——韩国有类似的厕所鬼，欧美有「血腥玛丽」的镜子仪式。花子的特别之处在于她的驯化程度：在许多版本里她只是回答一声「在」，是孩子们用来测量胆量的、几乎温和的存在。",
+    "en": "Summoning Hanako follows a ritual that varies little across Japan: after school, go to the girls' toilet on the third floor of the old wing, knock three times on the third stall from the end, and ask, 'Hanako-san, are you there?' If a small voice answers 'I'm here,' open the door and you may see a girl in a red suspender skirt with bobbed hair. What happens next depends on the school: dragged into the bowl, pulled into another world, or nothing at all. Her backstory shifts by region too, a child killed in an air raid while hiding in the toilet, a victim of abuse, a murder in the school building.\n\nCase material collected by the folklorist Tsunemitsu Toru traces the type to around 1950, when an Iwate school already spoke of a Hanako in the third stall. In the mid-1980s the after-school dare spread explosively through elementary schools nationwide, and after Tsunemitsu's Gakko no Kaidan series began publishing in 1990, 'school ghost stories' became a full media genre with Hanako as its headliner: the films Gakko no Kaidan and Toire no Hanako-san both reached cinemas in 1995, followed by decades of anime, manga, and variety-show revivals.\n\nThe school toilet is the last enclosed, solitary, drain-fitted space in a child's day, and most cultures keep a ghost there; Korea has its own toilet spirits and the anglophone world summons Bloody Mary in a mirror. What marks Hanako is how tame she became, in many tellings no more than a small voice saying 'I'm here,' a nearly gentle instrument for measuring courage."
+  },
+  "domains": {
+    "zh": ["学校怪谈", "召唤仪式", "厕所", "试胆"],
+    "en": ["School ghost lore", "Summoning rituals", "Toilets", "Dares"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "召唤法", "en": "Summoning" },
+      "value": { "zh": "三楼女厕第三隔间，敲门三下发问", "en": "Third stall, third-floor toilet; knock three times and ask" }
+    },
+    {
+      "label": { "zh": "形貌", "en": "Appearance" },
+      "value": { "zh": "红背带裙、妹妹头的小女孩", "en": "A bobbed-haired girl in a red suspender skirt" }
+    },
+    {
+      "label": { "zh": "最早案例", "en": "Earliest trace" },
+      "value": { "zh": "1950年前后，岩手县", "en": "Around 1950, Iwate prefecture" }
+    }
+  ],
+  "related": ["aka-manto", "mary-san", "kokkuri-san"],
+  "sources": [
+    { "zh": "常光彻《学校的怪谈》丛书（1990年起）", "en": "Tsunemitsu Toru, Gakko no Kaidan series (from 1990)" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "image": null
+}

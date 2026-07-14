@@ -1,0 +1,89 @@
+{
+  "id": "yong",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "颙",
+    "en": "Yong"
+  },
+  "title": {
+    "zh": "令丘山上预示大旱的人面枭",
+    "en": "Human-Faced Owl That Portends Great Drought"
+  },
+  "summary": {
+    "zh": "令丘山怪鸟，形状像猫头鹰，人的面孔，四只眼睛，长着耳朵，叫声就是自己的名字；它一出现，天下大旱。",
+    "en": "A bird of Mount Lingqiu shaped like an owl, with a human face, four eyes, and ears, calling out its own name; wherever it appears, great drought follows across the land."
+  },
+  "description": {
+    "zh": "令丘之山寸草不生，遍地多火，山南有一道中谷，东北风（条风）从谷中吹出。《南山经》记这里的怪鸟：\"有鸟焉，其状如枭，人面四目而有耳，其名曰颙，其鸣自号也，见则天下大旱。\"它像一只猫头鹰，却生人脸，脸上四只眼，头侧还有明显的耳朵；叫声\"颙、颙\"，正是自己的名字。\n\n颙属于《山海经》征兆体系中分量最重的一类——影响所及是\"天下\"而非一县一郡。同样\"见则天下大旱\"的还有《西山经》太华山上六足四翼的肥遗蛇；而在本卷之内，长右现则郡县大水，颙现则天下大旱，水旱两端各有司职的怪物。它栖身的山本就多火无草木，仿佛旱象在地貌里先行写好。历代图本多画一只圆睁四目的人面鸮，蹲在焦土之上——在靠雨水吃饭的农耕世界，这是能让人失眠的鸟。",
+    "en": "Mount Lingqiu bears no vegetation and burns with constant fires; from the Middle Valley on its south side blows the northeast wind. Here lives the yong. The Classic of the Southern Mountains describes an owl-like bird with a human face set with four eyes, and ears plainly visible on its head; its call, 'yong, yong', is its own name. The closing clause carries the weight: when it is seen, great drought comes to all under heaven.\n\nThat scope places the yong in the heaviest class of the book's portents — those whose effects reach the whole world rather than a single county. Its counterpart in the west is the six-legged, four-winged serpent Feiyi of Mount Taihua, another harbinger of universal drought, while within this same volume the ape-like Changyou brings floods to whichever district it visits: water and drought each have their appointed monster. Fittingly, the yong roosts on a mountain already scorched and grassless, as if the drought were written into the landscape before the bird arrives. Illustrated editions draw a four-eyed, human-faced owl squatting on bare earth — in a world that lived by rainfall, a bird to lose sleep over."
+  },
+  "domains": {
+    "zh": [
+      "旱兆",
+      "怪鸟",
+      "人面"
+    ],
+    "en": [
+      "Drought Omens",
+      "Strange Birds",
+      "Human Faces"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "令丘之山",
+        "en": "Mount Lingqiu"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "如枭，人面四目而有耳",
+        "en": "Owl-like, human-faced, four-eyed, with ears"
+      }
+    },
+    {
+      "label": {
+        "zh": "征兆",
+        "en": "Portent"
+      },
+      "value": {
+        "zh": "见则天下大旱",
+        "en": "Its appearance brings drought to all under heaven"
+      }
+    }
+  ],
+  "related": [
+    "chang-you",
+    "fenghuang-shanhaijing"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/yong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%B1%B1%E7%B6%93-%E9%A1%92.svg",
+    "sourceTitle": "南山經-顒",
+    "artist": "胡文焕 (1596-1650)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 875
+  }
+}

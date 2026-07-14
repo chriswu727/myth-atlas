@@ -1,0 +1,79 @@
+{
+  "id": "ungnyeo",
+  "tradition": "korean",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "熊女",
+    "en": "Ungnyeo",
+    "original": "웅녀（熊女）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "由熊化身的女子，檀君之母",
+    "en": "The Bear Who Became a Woman, Mother of Dangun"
+  },
+  "summary": {
+    "zh": "与虎同穴而居的母熊，靠一炷灵艾、二十枚蒜在暗穴中熬过二十一天化为人身，在神坛树下祈子，与桓雄生下檀君。",
+    "en": "A she-bear who shared a cave with a tiger; by enduring darkness on mugwort and twenty cloves of garlic she became human, prayed for a child, and bore Dangun to Hwanung."
+  },
+  "description": {
+    "zh": "《三国遗事》记载：桓雄降临太伯山时，有一熊一虎同住在一个洞穴里，常向神坛树祷告，愿化为人。桓雄给了它们一炷灵艾和二十枚蒜，吩咐吃下之后一百天不见日光。老虎熬不住，中途出了洞；熊守足了三七二十一天，化成女子之身，人称熊女。\n\n熊女没有配偶，便又每天到坛树下祝祷，求能怀上一个孩子。桓雄暂时变作人形与她成婚，生下檀君王俭——古朝鲜的开国之君。在整个故事里熊女没有一句台词，忍耐与祈愿就是她全部的事迹，却位居半岛王统谱系的最顶端。\n\n后世研究者常把这段记载读作部族记忆：奉熊为图腾的族群与自居天神后裔的族群联姻，虎图腾的族群则在竞争中退场。类似的熊崇拜广泛见于西伯利亚与东北亚诸民族，因此这一比较也成了讨论半岛上古文化归属时反复引用的材料。艾与蒜至今仍是朝鲜半岛饮食里最日常的两样东西，民间也乐于把这一点同熊女的考验联系起来。",
+    "en": "According to the Samguk Yusa, when Hwanung descended to Mount Taebaek a bear and a tiger were living together in a cave, praying constantly at the divine tree to be made human. Hwanung gave them a bundle of sacred mugwort and twenty cloves of garlic, telling them to eat these and avoid sunlight for one hundred days. The tiger could not bear it and left the cave; the bear held out for twenty-one days and took the body of a woman, called Ungnyeo, the bear-woman.\n\nHaving no husband, she prayed daily beneath the tree for a child. Hwanung briefly assumed human form and married her, and she bore Dangun Wanggeom, founding king of Gojoseon. Ungnyeo speaks not a single word in the story; endurance and prayer are her entire recorded deed, yet she stands at the head of the peninsula's royal genealogy.\n\nLater scholars have often read the episode as tribal memory: a bear-totem people allying by marriage with newcomers who claimed heavenly descent, while a tiger-totem people lost out. Bear cults of this kind are widely documented across Siberia and Northeast Asia, which has made the passage a standard reference point in debates about the peninsula's earliest cultural ties. Mugwort and garlic remain everyday staples of Korean cooking, a coincidence folk tradition happily links back to her ordeal."
+  },
+  "domains": {
+    "zh": [
+      "化身",
+      "忍耐",
+      "母性",
+      "熊图腾"
+    ],
+    "en": [
+      "Transformation",
+      "Endurance",
+      "Motherhood",
+      "Bear totem"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "考验",
+        "en": "The trial"
+      },
+      "value": {
+        "zh": "食灵艾与蒜，避日光；熊守二十一日化人，虎中途放弃",
+        "en": "Mugwort and garlic in darkness; the bear lasted 21 days, the tiger gave up"
+      }
+    },
+    {
+      "label": {
+        "zh": "初见文献",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《三国遗事》（1281年）",
+        "en": "Samguk Yusa (1281)"
+      }
+    }
+  ],
+  "related": [
+    "dangun",
+    "asadal"
+  ],
+  "sources": [
+    {
+      "zh": "一然《三国遗事·纪异·古朝鲜》（1281年）",
+      "en": "Iryeon, Samguk Yusa, 'Gojoseon' (1281)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ungnyeo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memorabilia_of_the_Three_Kingdoms_in_museum.jpg",
+    "sourceTitle": "Memorabilia of the Three Kingdoms in museum",
+    "artist": "Salamander724",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 750
+  }
+}

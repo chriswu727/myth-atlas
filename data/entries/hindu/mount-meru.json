@@ -1,0 +1,105 @@
+{
+  "id": "mount-meru",
+  "tradition": "hindu",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "须弥山",
+    "en": "Mount Meru",
+    "original": "मेरु",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "宇宙中央的黄金圣山",
+    "en": "The golden mountain at the centre of the universe"
+  },
+  "summary": {
+    "zh": "矗立于世界正中的黄金巨山，高八万四千由旬，日月星辰绕其旋转，山巅是梵天之城与诸神居所。佛教承其宇宙观，汉译“须弥山”。",
+    "en": "The golden mountain at the world's centre, 84,000 yojanas tall, around which sun, moon and stars revolve; on its summit stand Brahma's city and the seats of the gods. Buddhism inherited it as Sumeru."
+  },
+  "description": {
+    "zh": "在往世书的宇宙图景中，须弥山（弥卢山）矗立于世界正中央：山体黄金铸成，高八万四千由旬，另有一万六千由旬扎入地底，山形上宽下窄，如一座倒立的山峰。它是宇宙的轴心——太阳、月亮与众星辰皆绕山旋转，山巅坐落着梵天的黄金之城，八方环列着因陀罗等方位护法神的都城。四大部洲围绕圣山铺展，人类所居的赡部洲（Jambudvipa）在其南方；天河恒河自天而降，先落于山顶，再分流四方灌溉大地。\n\n须弥山在诸神话中反复现身：它是众神集会之所，《摩诃婆罗多》开篇诸神正是在弥卢山顶商议搅乳海之策；般度五子在史诗末篇的最后旅程，也是朝着弥卢山方向登天。需要分辨的是，搅乳海用作搅杵的是曼陀罗山，并非须弥山本体。后世传统常把冈仁波齐峰视作须弥山在人间的对应。\n\n这套“中央圣山”宇宙观被佛教与耆那教整体继承：汉译佛典作“须弥山”，山腰四层为四天王天，山顶即帝释天所居的忉利天，成为汉传佛教宇宙论的基本骨架。它也凝固为建筑范式——爪哇的婆罗浮屠、柬埔寨的吴哥窟五塔、印度教神庙的中央高塔（shikhara），都是须弥山的缩影；缅甸与泰国王宫正殿的多重尖顶同样以此为原型。",
+    "en": "In the cosmology of the Puranas, Mount Meru stands at the exact centre of the world: a mountain of solid gold, 84,000 yojanas high with 16,000 more sunk beneath the earth, wider at the summit than at the base, like a mountain set upside down. It is the axis of the universe—sun, moon and stars wheel around it, Brahma's golden city crowns its peak, and the cities of Indra and the other guardians of the directions ring it on eight sides. The continents spread around it like petals, with Jambudvipa, the land of men, to the south; the celestial Ganges falls first upon its summit before dividing to water the world.\n\nMeru recurs throughout the myths: it is the assembly ground of the gods—at the opening of the Mahabharata they gather on its summit to plan the churning of the ocean—and in the epic's final book the Pandavas walk toward Meru on their last journey to heaven. One distinction matters: the churning rod of the ocean of milk was Mount Mandara, not Meru itself. Later tradition often points to Mount Kailash as Meru's earthly counterpart.\n\nBuddhism and Jainism inherited this central-mountain cosmology whole: in Chinese Buddhist texts it is Xumi Shan, Sumeru, with the Four Heavenly Kings dwelling on its slopes and Indra's heaven of the Thirty-three at its peak. It also froze into architecture—Borobudur in Java, the five towers of Angkor Wat, the shikhara spire above every Hindu sanctum are all miniatures of Meru, as are the tiered roofs of Burmese and Thai royal halls."
+  },
+  "domains": {
+    "zh": [
+      "宇宙轴心",
+      "天界",
+      "圣山",
+      "宇宙观"
+    ],
+    "en": [
+      "World Axis",
+      "The Heavens",
+      "Sacred Mountain",
+      "Cosmology"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "高度",
+        "en": "Height"
+      },
+      "value": {
+        "zh": "八万四千由旬，入地一万六千由旬",
+        "en": "84,000 yojanas, with 16,000 below the earth"
+      }
+    },
+    {
+      "label": {
+        "zh": "山巅",
+        "en": "Summit"
+      },
+      "value": {
+        "zh": "梵天之城，八方护法环列",
+        "en": "Brahma's city, ringed by the guardians of the directions"
+      }
+    },
+    {
+      "label": {
+        "zh": "人间对应",
+        "en": "Earthly counterpart"
+      },
+      "value": {
+        "zh": "传统上多指冈仁波齐峰",
+        "en": "Traditionally identified with Mount Kailash"
+      }
+    },
+    {
+      "label": {
+        "zh": "建筑回响",
+        "en": "In architecture"
+      },
+      "value": {
+        "zh": "婆罗浮屠、吴哥窟、神庙高塔",
+        "en": "Borobudur, Angkor Wat, the temple shikhara"
+      }
+    }
+  ],
+  "related": [
+    "brahma",
+    "indra",
+    "shiva",
+    "samudra-manthan"
+  ],
+  "sources": [
+    {
+      "zh": "《毗湿奴往世书》",
+      "en": "Vishnu Purana"
+    },
+    {
+      "zh": "《摩诃婆罗多》",
+      "en": "Mahabharata"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mount-meru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Meru.jpg",
+    "sourceTitle": "Mount Meru",
+    "artist": "Anishshah19",
+    "license": "Public domain",
+    "width": 432,
+    "height": 1000
+  }
+}

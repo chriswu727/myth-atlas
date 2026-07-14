@@ -1,0 +1,101 @@
+{
+  "id": "zashiki-warashi",
+  "tradition": "japanese",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "座敷童子",
+    "en": "Zashiki-warashi",
+    "original": "座敷童子（ざしきわらし）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "守宅招福的孩童精灵",
+    "en": "The Child Spirit That Brings a House Fortune"
+  },
+  "summary": {
+    "zh": "栖居东北地方旧宅座敷的孩童精灵，垂发红颜，夜里发出脚步声、翻动枕头。有它在的人家兴旺，它一离开，家运随之衰败。",
+    "en": "A child spirit dwelling in the parlors of old houses in northeastern Japan, heard as night footsteps and pillow-turning pranks. A house it inhabits prospers; when it leaves, the family's fortune goes with it."
+  },
+  "description": {
+    "zh": "座敷童子是日本东北地方、尤其岩手县旧宅里的家中精灵，多作五六岁孩童模样，剪着齐眉的垂发，脸色微红，有时是女孩，有时是男孩。它平日不露形迹，深夜在无人的座敷（客间）里发出沙沙的脚步声，翻转睡者的枕头，或与孩子们一起玩耍——往往只有孩子和有缘的人看得见它。\n\n柳田国男《远野物语》（1910年）第17、18话是关于座敷童子最著名的记录：远野土渊村山口的旧家孙左卫门家，有人在路上遇见两个陌生的童女，说是「从孙左卫门家来的」，要搬去别村某家；不久，孙左卫门一家二十余口吃了毒蘑菇一日之内死绝，只活下一个七岁的女孩。家道兴衰系于座敷童子的去留，是这类传说共同的骨架，佐佐木喜善的《奥州的座敷童子故事》（原题〈奥州のザシキワラシの話〉，1920年）搜集了更多例子。民俗学者多把它解作古老的家神信仰的零落形态。\n\n如今座敷童子成了岩手的地方名片：二户市金田一温泉的旅馆绿风庄，以「槐之间」出没的座敷童子「龟麿」闻名，据说见到它的客人会走好运，客房预约常年排到数年之后；2009年该馆毁于火灾，2016年重建后传说依旧延续。",
+    "en": "The zashiki-warashi is a household spirit of old farmhouses in northeastern Japan, above all in Iwate. It takes the shape of a child of five or six with bobbed hair and a faintly red face, sometimes a girl, sometimes a boy. It rarely shows itself: at night it patters across the empty zashiki parlor, flips sleepers' pillows, or joins children at play, and as a rule only children or the fated can see it.\n\nThe most famous record is items 17 and 18 of Yanagita Kunio's Tono Monogatari (1910). A villager met two unfamiliar girls on the road who said they had come from the old Yamaguchi Magozaemon house and were moving to another family in the next village; soon afterward more than twenty members of the Magozaemon household died in a single day of mushroom poisoning, leaving only a seven-year-old girl. The rise and ruin of a house following the spirit's arrival and departure is the constant skeleton of these tales, and Sasaki Kizen's 1920 collection on the zashiki-warashi of Oshu gathered many more. Folklorists generally read the figure as a faded form of an old household-god cult.\n\nToday the spirit is an emblem of Iwate. The inn Ryokufuso at Kindaichi Onsen in Ninohe is famous for the child spirit Kamemaro of its Enju room, said to bring luck to guests who glimpse it, with reservations booked years ahead; the inn burned down in 2009 and the legend carried on after its 2016 rebuilding."
+  },
+  "domains": {
+    "zh": [
+      "家宅",
+      "福运",
+      "孩童",
+      "东北地方"
+    ],
+    "en": [
+      "The household",
+      "Fortune",
+      "Children",
+      "Tohoku"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "五六岁孩童，垂发红颜",
+        "en": "A child of five or six with bobbed hair and a reddish face"
+      }
+    },
+    {
+      "label": {
+        "zh": "征兆",
+        "en": "Signs"
+      },
+      "value": {
+        "zh": "夜半脚步声、枕返、孩童嬉戏声",
+        "en": "Night footsteps, flipped pillows, sounds of children playing"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名居所",
+        "en": "Famous abode"
+      },
+      "value": {
+        "zh": "金田一温泉旅馆绿风庄「槐之间」",
+        "en": "The Enju room of the Ryokufuso inn, Kindaichi Onsen"
+      }
+    }
+  ],
+  "related": [
+    "kappa",
+    "yuki-onna"
+  ],
+  "sources": [
+    {
+      "zh": "柳田国男《远野物语》（1910年）",
+      "en": "Yanagita Kunio, Tono Monogatari (1910)"
+    },
+    {
+      "zh": "佐佐木喜善《奥州的座敷童子故事》（〈奥州のザシキワラシの話〉，1920年）",
+      "en": "Sasaki Kizen, Oshu no Zashiki-warashi no Hanashi (1920)"
+    }
+  ],
+  "geo": {
+    "lat": 40.27,
+    "lon": 141.31,
+    "label": {
+      "zh": "金田一温泉（岩手县二户市）",
+      "en": "Kindaichi Onsen (Ninohe, Iwate)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/zashiki-warashi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akinari_Zeni-no-sei.jpg",
+    "sourceTitle": "Akinari Zeni-no-sei",
+    "artist": "Ueda Akinari (上田秋成, Japanese, *1734, †1809)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 593
+  }
+}

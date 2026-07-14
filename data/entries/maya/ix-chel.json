@@ -1,0 +1,103 @@
+{
+  "id": "ix-chel",
+  "tradition": "maya",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊希切尔",
+    "en": "Ix Chel",
+    "original": "Ix Chel",
+    "originalLang": "尤卡坦玛雅语"
+  },
+  "title": {
+    "zh": "司助产、医药与织布的老年女神",
+    "en": "Aged Goddess of Midwifery, Medicine, and Weaving"
+  },
+  "summary": {
+    "zh": "玛雅老年女神，司助产、医药、织布与占卜。德累斯顿手抄本末页倾罐降下毁世洪水的正是她。科苏梅尔岛是妇女向她朝圣求子之地。",
+    "en": "The aged Maya goddess of midwifery, medicine, weaving, and divination. On the last page of the Dresden Codex she pours the world-ending flood from her jar. Women made pilgrimage to her shrine on Cozumel."
+  },
+  "description": {
+    "zh": "手抄本中的伊希切尔是一位老妪，学界编为“神O”，铭文名号可读作“恰克·切尔”（大彩虹）：头顶盘着一条蛇作为头饰，裙上绣着交叉的骨纹，有时手足化为豹爪。德累斯顿手抄本第74页上，她倒悬水罐，倾泻出淹没世界的洪水，头顶的天蛇张口吐水，身旁立着执矛的黑色神L——这是玛雅书页上最著名的末日图景。\n\n她掌管的都是妇人与身体的事：接生、用药、蒸汗浴、织布与占卜。兰达《尤卡坦纪事》记载，医师与巫师在“西普”月的节庆上尊她为医药之神；产妇则把她的小像置于床下。尤卡坦妇女一生要设法去一次科苏梅尔岛，向她的神像求子问卜，兰达把这条朝圣路与基督徒去耶路撒冷、罗马相比。1518年格里哈尔瓦船队在岛上见到的石塔神庙，正是这处圣所；殖民记载还说神像中空，祭司藏身其后代神答话。\n\n流行说法称伊希切尔为月亮女神，这出自殖民文献的混同；现代研究一般把年轻的月亮女神（神I）与老年的恰克·切尔区分开来。她的名字通常解作“彩虹夫人”。",
+    "en": "In the codices Ix Chel appears as an old woman, catalogued as Goddess O and named in the glyphs Chak Chel, \"Great Rainbow\": a serpent coils on her head as a headdress, crossed bones pattern her skirt, and her hands and feet sometimes end in jaguar claws. On page 74 of the Dresden Codex she upends her water jar to pour out the flood that drowns the world, while a sky serpent vomits water above her and the black God L stands by with his spear. It is the most famous doomsday image on any Maya page.\n\nHer provinces are the affairs of women and the body: childbirth, medicine, the sweatbath, weaving, and divination. Landa's Relación records that physicians and shamans honored her at the feast of the month Zip as a goddess of healing, and expectant mothers kept her image under their beds. A Yucatec woman tried at least once in her life to reach the island of Cozumel to consult her idol about children; Landa compared the pilgrimage to those of Christians to Jerusalem and Rome. The masonry shrine the Grijalva expedition saw there in 1518 was this sanctuary, and colonial accounts add that the idol was hollow, with a priest hidden behind it to speak the oracles.\n\nThe popular label \"moon goddess\" comes from colonial conflations; modern scholarship separates the youthful moon goddess (Goddess I) from the aged Chak Chel. Her name is usually read as \"Lady Rainbow.\""
+  },
+  "domains": {
+    "zh": [
+      "助产",
+      "医药",
+      "织布",
+      "占卜",
+      "洪水"
+    ],
+    "en": [
+      "Midwifery",
+      "Medicine",
+      "Weaving",
+      "Divination",
+      "Flood"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "手抄本代号",
+        "en": "Codex designation"
+      },
+      "value": {
+        "zh": "神O（恰克·切尔）",
+        "en": "Goddess O (Chak Chel)"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Shrine"
+      },
+      "value": {
+        "zh": "科苏梅尔岛",
+        "en": "Island of Cozumel"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Emblems"
+      },
+      "value": {
+        "zh": "蛇形头饰、倾泻洪水的陶罐",
+        "en": "Serpent headdress, jar pouring the flood"
+      }
+    }
+  ],
+  "related": [
+    "itzamna",
+    "chaac"
+  ],
+  "sources": [
+    {
+      "zh": "《德累斯顿手抄本》第74页",
+      "en": "Dresden Codex, page 74"
+    },
+    {
+      "zh": "迭戈·德·兰达《尤卡坦纪事》（约1566年）",
+      "en": "Diego de Landa, Relación de las cosas de Yucatán (c. 1566)"
+    }
+  ],
+  "geo": {
+    "lat": 20.5,
+    "lon": -86.85,
+    "label": {
+      "zh": "科苏梅尔岛圣赫瓦西奥遗址",
+      "en": "San Gervasio, Cozumel"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ix-chel.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fundacion_La_Ruta_Maya_Figure_of_Ixchel.jpg",
+    "sourceTitle": "Fundacion La Ruta Maya Figure of Ixchel",
+    "artist": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

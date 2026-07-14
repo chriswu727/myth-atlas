@@ -1,0 +1,48 @@
+{
+  "id": "the-backrooms",
+  "tradition": "american-folklore",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "后室",
+    "en": "The Backrooms"
+  },
+  "title": { "zh": "从现实「穿模」跌入的无尽黄色房间", "en": "The Endless Yellow Rooms You Noclip Into" },
+  "summary": {
+    "zh": "2019年5月4chan匿名帖创造的异空间怪谈：不小心从现实「穿模」出去的人会跌入约六亿平方英里的空旷黄房间，只有潮湿的地毯、单调的黄与嗡鸣的日光灯。",
+    "en": "Born in a May 2019 anonymous 4chan post: those who \"noclip out of reality\" fall into some 600 million square miles of empty yellow rooms — damp carpet, mono-yellow walls, buzzing fluorescent light."
+  },
+  "description": {
+    "zh": "后室的原始设定只有一段文字和一张照片：如果你不够小心，从现实的错误位置「穿模」（noclip，游戏术语，指穿过本应是实体的墙壁）出去，就会掉进后室——约六亿平方英里随机分割的空房间，受潮的旧地毯，一切墙面都是发黄的单调色，日光灯以最大嗡鸣声进行「嗡鸣照明」，而且，如果你听见附近有什么东西在游荡，愿上帝保佑你。这段匿名文字于2019年5月发布在4chan灵异版（/x/）一个「发令人不安的图片」的帖子里，回复的正是那张著名照片：微微倾斜的视角、刺眼的黄墙、看不到出口的房间。\n\n这套「一图一文」的极简恐怖迅速膨胀为集体创作宇宙：爱好者wiki把后室扩展成编号的「层级」（Level 0是原初黄房间，此后有停车场、酒店走廊、无尽泳池等数百层）、生存指南、杏仁水与实体图鉴，吸收了「阈限空间」（liminal spaces）美学——那些本该有人却空无一人的场所照片。2022年1月，十六岁的Kane Parsons（YouTube频道Kane Pixels）发布伪档案短片《The Backrooms (Found Footage)》，以1990年代摄像机质感与压倒性的空间感把后室推向主流，系列播放量以亿计，A24于2023年宣布与Parsons合作开发同名电影。\n\n2024年5月，网络侦探们找到了原图出处：那是2003年美国威斯康星州奥什科什一家店铺改装施工期间拍摄的照片——后室的「现实原点」被钉在了地图上，而这丝毫没有削弱它作为网络时代集体噩梦的地位。",
+    "en": "The original Backrooms was one paragraph and one photograph: if you're not careful and you noclip out of reality in the wrong areas — a gaming term for slipping through solid walls — you end up in the Backrooms, roughly six hundred million square miles of randomly segmented empty rooms, old moist carpet, walls in mono-yellow, fluorescent lights at maximum hum-buzz; and God save you if you hear something wandering nearby. The anonymous text appeared in May 2019 on 4chan's paranormal board /x/, replying to a thread for \"disquieting images\" with the now-famous photo: a tilted view of harsh yellow rooms with no exit in sight.\n\nThat minimal seed swelled into a collaborative universe. Fan wikis expanded the Backrooms into numbered levels — Level 0 the original yellow expanse, then endless parking garages, hotel corridors, a poolrooms level, hundreds more — plus survival guides, almond water, and a bestiary of entities, absorbing the wider \"liminal spaces\" aesthetic of photographs showing places that should be occupied but are not. In January 2022, sixteen-year-old Kane Parsons (YouTube's Kane Pixels) released The Backrooms (Found Footage), a fake-archival short with 1990s camcorder grain and crushing scale that carried the mythos into the mainstream; the series drew hundreds of millions of views, and in 2023 A24 announced a feature film developed with Parsons.\n\nIn May 2024, internet sleuths traced the original photo to a store in Oshkosh, Wisconsin, shot in 2003 during renovation — the Backrooms' real-world origin pinned to a map, without diminishing its standing as the internet's shared bad dream."
+  },
+  "domains": {
+    "zh": ["异空间", "阈限空间", "集体创作", "网络怪谈"],
+    "en": ["Otherspace", "Liminal spaces", "Collaborative fiction", "Internet horror"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "起源", "en": "Origin" },
+      "value": { "zh": "4chan /x/版匿名帖，2019年5月", "en": "Anonymous post on 4chan /x/, May 2019" }
+    },
+    {
+      "label": { "zh": "关键推手", "en": "Breakout work" },
+      "value": { "zh": "Kane Parsons（Kane Pixels）伪档案短片系列（2022）", "en": "Kane Parsons's (Kane Pixels) found-footage series (2022)" }
+    },
+    {
+      "label": { "zh": "原图出处", "en": "Source photo" },
+      "value": { "zh": "2024年被追溯为威斯康星州奥什科什2003年施工照片", "en": "Traced in 2024 to a 2003 renovation photo from Oshkosh, Wisconsin" }
+    }
+  ],
+  "related": ["slender-man", "siren-head"],
+  "sources": [
+    { "zh": "4chan /x/版原帖（2019年5月）", "en": "The original 4chan /x/ thread (May 2019)" },
+    { "zh": "Kane Pixels《The Backrooms (Found Footage)》（2022）", "en": "Kane Pixels, The Backrooms (Found Footage) (2022)" }
+  ],
+  "geo": {
+    "lat": 44.02,
+    "lon": -88.54,
+    "label": { "zh": "威斯康星州奥什科什（原图拍摄地）", "en": "Oshkosh, Wisconsin (source photo location)" }
+  },
+  "image": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": "maya-maize-god",
+  "tradition": "maya",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "玉米神",
+    "en": "Maize God"
+  },
+  "title": {
+    "zh": "死而复生的青年玉米之神",
+    "en": "The Young God Who Dies and Rises with the Corn"
+  },
+  "summary": {
+    "zh": "古典期玛雅艺术中的俊美青年，剃发的长头颅模仿抽穗的玉米。他在冥界被斩，又破开龟甲状的大地重生——玛雅人相信，人的血肉正是玉米所造。",
+    "en": "A beautiful youth of Classic Maya art whose elongated, tonsured head mimics an ear of corn. Slain in the underworld, he rises again through the cracked turtle shell of the earth."
+  },
+  "description": {
+    "zh": "古典期（公元250—900年）陶器与壁画上的玉米神是整个玛雅艺术里最俊美的形象：青年男子，头颅拉长并剃发，只留一绺顶发如玉米缨，周身缀满玉饰——玉的青绿正是嫩玉米叶的颜色。他常作舞蹈姿态，学界称这一型为“剃发玉米神”。危地马拉圣巴尔托洛遗址的壁画（约公元前100年）上他已居于画面中心，可见其崇拜在前古典期便已成形。\n\n他的神话是一场随农时循环的死与生。“抄本风格”陶盘上有一幅著名的重生图：大地化作一只龟，龟甲裂开，玉米神从裂缝中直身而出，两侧正是双子英雄乌纳普与斯巴兰克，一人浇水，一人搀扶——如同一粒种子在雨水中破土。种下即埋葬，抽芽即复活，玛雅农人每年都在田里重演这位神的生死。\n\n学者卡尔·陶贝（1985年）把这一形象与《波波尔·乌》中双子的父亲浑·乌纳普对接：他在西巴尔巴被死神斩首，头颅挂上葫芦树，终由两个儿子在冥界为其复仇。而玉米与人的关系在《波波尔·乌》里说得再直白不过——诸神最终用帕希尔山的白黄玉米磨面和水，捏出了真正的人类。",
+    "en": "On Classic period (250-900 CE) vases and murals the Maize God is the handsomest figure in all Maya art: a young man with an artificially elongated, tonsured head crowned by a single tuft of hair like corn silk, his body hung with jade, the blue-green stone that matches young corn leaves. He is often shown dancing; scholars call this form the Tonsured Maize God. In the murals of San Bartolo, Guatemala (c. 100 BCE), he already commands the center of the scene, proof that his cult was fully formed in the Preclassic.\n\nHis myth is a death and rebirth keyed to the farming year. A famous codex-style plate paints the resurrection: the earth is a great turtle, its carapace split open, and the Maize God rises straight up through the crack while the Hero Twins flank him, one pouring water, the other steadying him - a seed breaking ground under the rain. To plant is to bury him; to sprout is to raise him. Maya farmers restaged the god's death and return in their fields every year.\n\nKarl Taube (1985) linked this figure to Hun Hunahpu of the Popol Vuh, the father of the twins, beheaded in Xibalba and hung as a skull in the calabash tree until his sons avenged him below. The bond between maize and humankind could not be stated more plainly than the Popol Vuh states it: the gods finally shaped true human beings from ground white and yellow corn brought from the mountain of Paxil."
+  },
+  "domains": {
+    "zh": [
+      "玉米",
+      "丰饶",
+      "死而复生",
+      "舞蹈"
+    ],
+    "en": [
+      "Maize",
+      "Abundance",
+      "Death and rebirth",
+      "Dance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "古典期形态",
+        "en": "Classic form"
+      },
+      "value": {
+        "zh": "剃发玉米神，长颅玉饰",
+        "en": "Tonsured Maize God, elongated head and jade"
+      }
+    },
+    {
+      "label": {
+        "zh": "重生场景",
+        "en": "Resurrection scene"
+      },
+      "value": {
+        "zh": "破开龟甲状的大地而出",
+        "en": "Rising through the cracked turtle-shell earth"
+      }
+    },
+    {
+      "label": {
+        "zh": "对应人物",
+        "en": "Popol Vuh counterpart"
+      },
+      "value": {
+        "zh": "双子之父浑·乌纳普（陶贝提出）",
+        "en": "Hun Hunahpu, father of the twins (per Taube)"
+      }
+    }
+  ],
+  "related": [
+    "hunahpu-and-xbalanque",
+    "xibalba",
+    "popol-vuh-creation",
+    "itzamna"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century)"
+    },
+    {
+      "zh": "圣巴尔托洛壁画（危地马拉，约公元前100年）",
+      "en": "San Bartolo murals, Guatemala (c. 100 BCE)"
+    },
+    {
+      "zh": "卡尔·陶贝《古典玛雅玉米神再考》（1985年）",
+      "en": "Karl Taube, \"The Classic Maya Maize God: A Reappraisal\" (1985)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/maya-maize-god.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maya_maize_god_statue.jpg",
+    "sourceTitle": "Maya maize god statue",
+    "artist": "BabelStone",
+    "license": "CC BY-SA 3.0",
+    "width": 563,
+    "height": 1000
+  }
+}

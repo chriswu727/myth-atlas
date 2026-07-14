@@ -1,0 +1,90 @@
+{
+  "id": "yu-min-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "羽民国",
+    "en": "Land of the Feathered Folk"
+  },
+  "title": {
+    "zh": "国人长头生羽、能飞不能远的南方之国",
+    "en": "A Southern Country of Long-Headed People Fledged with Feathers"
+  },
+  "summary": {
+    "zh": "海外南经所记之国，其民头颅长而周身生羽毛。郭璞注说他们卵生，能飞却飞不远，样子像画中的仙人。",
+    "en": "A country in the far south whose long-headed people grow feathers over their bodies. Guo Pu's commentary adds that they hatch from eggs and can fly, though never far."
+  },
+  "description": {
+    "zh": "《海外南经》记：\"羽民国在其东南，其为人长头，身生羽。一曰在比翼鸟东南，其为人长颊。\"这个国家的人头颅细长，浑身覆着羽毛，住处邻近比翼鸟出没之地。郭璞注补足了细节：他们\"能飞不能远\"，是卵生的，模样\"画似仙人\"。《淮南子·墬形训》列海外三十六国，羽民也在其中。\n\n生羽之民与不死、登天的想象很早就纠缠在一起。《楚辞·远游》有\"仍羽人于丹丘兮，留不死之旧乡\"之句，羽人所居的丹丘正是不死之乡；汉代人把得道升仙者画成肩生羽翼的\"羽人\"，墓室壁画与铜镜纹样里随处可见，\"羽化\"至今仍是成仙的代称。羽民国这个想象中的国度，可以看作后世羽人仙话的先声：先有一国生羽的异民，后有肩插双翎的仙人。",
+    "en": "The Classic of Regions Beyond the Seas: South locates the Feathered Folk to the southeast, near the haunts of the paired one-winged birds: their people have elongated heads and bodies covered in plumage. Guo Pu's fourth-century commentary supplies the memorable details: they hatch from eggs, they can fly but not far, and they look like the immortals in paintings. The Huainanzi includes the Feathered Folk in its roster of thirty-six countries beyond the seas.\n\nFeathered bodies attached themselves early to Chinese dreams of deathlessness and ascent. The 'Far Roaming' poem in the Songs of Chu speaks of joining the feathered ones at Cinnabar Hill, the old homeland of the undying. Han-dynasty tomb murals and bronze mirrors are full of winged beings called yuren, feathered men, who have shed mortality; to this day the standard idiom for becoming an immortal is yuhua, 'to transform into the feathered'. The Land of the Feathered Folk stands at the head of that lineage: first a far country of egg-born bird-people, later the winged immortals of the ascension cult."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "羽人",
+      "飞行",
+      "仙话"
+    ],
+    "en": [
+      "Far Lands",
+      "Feathered Beings",
+      "Flight",
+      "Immortality Lore"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "长头，身生羽毛",
+        "en": "Long heads, feathered bodies"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "卵生，能飞不能远（郭璞注）",
+        "en": "Egg-born; fly only short distances (Guo Pu)"
+      }
+    }
+  ],
+  "related": [
+    "guan-xiong-guo",
+    "chang-bi-guo",
+    "san-shou-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外南经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: South'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms'"
+    },
+    {
+      "zh": "《楚辞·远游》",
+      "en": "Songs of Chu, 'Far Roaming' (Yuan You)"
+    }
+  ],
+  "volume": {
+    "zh": "海外南经",
+    "en": "Classic of Regions Beyond the Seas: South"
+  },
+  "image": {
+    "file": "/images/entries/yu-min-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic120_-_%E7%BE%BD%E6%B0%91%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic120 - 羽民國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 651,
+    "height": 1000
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "quetzalcoatl",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "克察尔科亚特尔",
+    "en": "Quetzalcoatl",
+    "original": "Quetzalcōātl",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "羽蛇神，风与晨星之主",
+    "en": "The Feathered Serpent, Lord of Wind and the Morning Star"
+  },
+  "summary": {
+    "zh": "羽蛇神，名意为\"披绿咬鹃羽的蛇\"。司风与知识，曾下冥界取回人骨、以自身之血再造人类，是第五太阳纪人类的造主之一。",
+    "en": "The Feathered Serpent, god of wind and knowledge. He retrieved the bones of past humanity from the underworld and bled on them to create the people of the Fifth Sun."
+  },
+  "description": {
+    "zh": "克察尔科亚特尔的名字由\"克察尔鸟\"（绿咬鹃）与\"科亚特尔\"（蛇）合成，形象是一条覆满翠绿长羽的巨蛇。作为风神埃埃卡特尔（Ehecatl）显形时，他戴锥形豹皮帽与截半海螺胸饰，面覆鸭喙状风嘴；供奉风神的神庙筑成圆形，以免棱角阻挡气流。他同时是祭司、历法与工艺知识的守护者，晨星金星是他的另一重身份特拉维斯卡尔潘特库特利。\n\n第四太阳纪的洪水灭世之后，克察尔科亚特尔下到死界米克特兰，向米克特兰特库特利索要前代人类的骨殖。死主设局刁难，他在逃离时坠入陷阱，骨殖摔碎散落；他将碎骨带回塔莫安昌，由地母西瓦科亚特尔磨成骨粉，众神刺破自己的身体放血和入粉中，捏出了新的人类。此后他又化作黑蚁，潜入\"粮山\"托纳卡特佩特尔盗出玉米粒，交给人类作为食粮。\n\n《库奥蒂特兰编年史》另记有半人半神的托兰祭司王\"一芦苇·托皮尔岑·克察尔科亚特尔\"：他治下的托兰（今图拉遗址）棉花自生五色、穗玉米大如石磨，后被特斯卡特利波卡以镜子与龙舌兰酒设计破戒，羞愧东行，在海滨自焚，心脏升空化为晨星。西班牙人到来后流传的\"科尔特斯被误认为归来的羽蛇神\"一说，多为征服之后追述成形的叙事，研究者对其可靠性存有争议。",
+    "en": "Quetzalcoatl's name joins quetzal, the emerald-plumed bird of the southern cloud forests, with coatl, serpent: a great snake sheathed in long green feathers. In his wind aspect, Ehecatl, he wears a conical ocelot-skin cap, a duck-like buccal mask through which he blows the winds, and a pectoral cut from a cross-sectioned conch shell; his temples were built round so that no corner would break the flowing air. He is also patron of priests, of the calendar, and of learned crafts, and as Tlahuizcalpantecuhtli he is Venus rising as the morning star.\n\nAfter the flood that ended the Fourth Sun, Quetzalcoatl descended to Mictlan to claim the bones of the previous human race from Mictlantecuhtli. The death lord set traps; fleeing, Quetzalcoatl fell into a pit and the bones shattered. He carried the fragments to Tamoanchan, where the goddess Cihuacoatl ground them into meal, and the gods bled themselves over the flour to knead the new humanity into being. He later turned himself into a black ant to steal maize kernels from Tonacatepetl, the Mountain of Sustenance, and gave them to people as food.\n\nThe Anales de Cuauhtitlan tells also of Ce Acatl Topiltzin Quetzalcoatl, priest-king of Tollan (the site of Tula), under whom cotton grew already colored and ears of maize were the size of grindstones, until Tezcatlipoca tricked him with a mirror and cups of pulque. Disgraced, he traveled east to the sea and burned himself on a pyre, his heart rising as the morning star. The famous claim that Moctezuma took Cortés for the returning god took shape largely in post-conquest accounts, and scholars treat it with caution."
+  },
+  "domains": {
+    "zh": [
+      "风",
+      "知识",
+      "晨星",
+      "创造",
+      "祭司"
+    ],
+    "en": [
+      "Wind",
+      "Knowledge",
+      "Morning star",
+      "Creation",
+      "Priesthood"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "绿咬鹃羽、截半海螺胸饰、风嘴面具",
+        "en": "Quetzal plumes, cut-conch pectoral, wind mask"
+      }
+    },
+    {
+      "label": {
+        "zh": "风神显形",
+        "en": "Wind aspect"
+      },
+      "value": {
+        "zh": "埃埃卡特尔，圆形神庙",
+        "en": "Ehecatl, worshipped in round temples"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief site"
+      },
+      "value": {
+        "zh": "托兰（图拉）",
+        "en": "Tollan (Tula)"
+      }
+    }
+  ],
+  "related": [
+    "tezcatlipoca",
+    "mictlantecuhtli",
+    "xolotl",
+    "five-suns",
+    "cipactli"
+  ],
+  "sources": [
+    {
+      "zh": "《诸太阳传说》（《奇马尔波波卡手抄本》，1558年）",
+      "en": "Leyenda de los Soles (Codex Chimalpopoca, 1558)"
+    },
+    {
+      "zh": "《库奥蒂特兰编年史》（《奇马尔波波卡手抄本》）",
+      "en": "Anales de Cuauhtitlan (Codex Chimalpopoca)"
+    },
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》",
+      "en": "Bernardino de Sahagún, Florentine Codex"
+    }
+  ],
+  "geo": {
+    "lat": 20.064,
+    "lon": -99.34,
+    "label": {
+      "zh": "图拉遗址（古托兰）",
+      "en": "Tula archaeological site (ancient Tollan)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/quetzalcoatl.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quetzalc%C3%B3atl_5.jpg",
+    "sourceTitle": "Quetzalcóatl 5",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 847
+  }
+}

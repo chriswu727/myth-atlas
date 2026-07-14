@@ -1,0 +1,105 @@
+{
+  "id": "naga",
+  "tradition": "hindu",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "那伽",
+    "en": "Naga",
+    "original": "नाग",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "地底与水域的蛇族",
+    "en": "The serpent race of the waters and the underworld"
+  },
+  "summary": {
+    "zh": "半人半蛇的神族，居于地底蛇界守护珍宝。千头蛇王舍沙承托毗湿奴与大地，婆苏吉充当搅乳海的绞绳，德叉迦的复仇引出蛇祭大典。",
+    "en": "Half-human, half-cobra beings dwelling in the jewel-lit underworld. Shesha the thousand-headed bears Vishnu and the earth; Vasuki served as the churning rope; Takshaka's vengeance sparked the great snake sacrifice."
+  },
+  "description": {
+    "zh": "那伽是蛇形的神族：或作巨大的眼镜蛇，颈后张开多头蛇兜，或上半身为人、下半身为蛇。他们是蛇母迦德卢的千名子嗣，居住在地底第七层的蛇界（Nagaloka）——那里宫殿以宝石照明，蛇王头顶的摩尼宝珠是无尽财富的象征。那伽司掌水域与降雨，守护地下宝藏，既能施福也能喷毒。\n\n蛇族中最显赫的三王各有一段著名故事：千头蛇王舍沙（又名阿难陀，“无尽”）以蛇身承托大地，毗湿奴在两劫之间便卧于他盘绕的身躯上；婆苏吉在搅乳海时被诸神与阿修罗当作绞绳缠住曼陀罗山，事后成为湿婆颈间的饰蛇；德叉迦咬死了般度族后裔继绝王（Parikshit），继绝王之子镇群王（Janamejaya）为报父仇举行蛇祭，烈火中蛇类成千上万坠入祭坑，最后被少年阿斯底迦劝止——《摩诃婆罗多》正是在这场蛇祭上首次被完整诵出。\n\n那伽信仰至今是活的传统：印度与尼泊尔在雨季有“蛇节”（Nag Panchami），信徒以牛奶祭蛇；佛教中蛇王目支邻陀以七头蛇兜为禅定中的佛陀挡雨，汉译佛典把那伽译作“龙”，天龙八部中的“龙众”即是那伽；柬埔寨王室与湄公河流域诸民族都自认那伽后裔，吴哥的桥栏就是巨蛇的身躯。",
+    "en": "The nagas are a race of divine serpents, pictured either as great hooded cobras with many heads or as human above the waist and snake below. The thousand children of the serpent mother Kadru, they dwell in Nagaloka in the seventh world beneath the earth, where palaces glow with gemlight and the jewel on a naga king's hood stands for inexhaustible wealth. They command the waters and the rains, guard buried treasure, and can bless as readily as poison.\n\nThree serpent kings dominate their lore. Shesha, also called Ananta, 'the Endless,' bears the earth on his thousand heads, and Vishnu sleeps on his coils between the ages of the world. Vasuki was wound around Mount Mandara as the rope when gods and asuras churned the ocean of milk, and afterwards became the serpent at Shiva's throat. Takshaka killed King Parikshit, heir of the Pandavas, with his bite; the king's son Janamejaya answered with a sacrificial rite that drew serpents by the thousand into the flames until the youth Astika talked him into mercy—and it was at that snake sacrifice that the Mahabharata itself was first recited in full.\n\nNaga worship remains a living tradition. On Nag Panchami, in the monsoon season, devotees across India and Nepal offer milk to snakes. In Buddhism the naga king Mucalinda sheltered the meditating Buddha under his sevenfold hood; Chinese translators rendered naga as 'dragon,' making them the dragon legion of the eight classes of protectors. The Khmer royal house traced its descent from a naga princess, and the balustrades of Angkor are the bodies of giant serpents."
+  },
+  "domains": {
+    "zh": [
+      "水域",
+      "宝藏",
+      "地底",
+      "降雨"
+    ],
+    "en": [
+      "Waters",
+      "Treasure",
+      "The Underworld",
+      "Rain"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "地底蛇界（那伽楼迦）",
+        "en": "Nagaloka, beneath the earth"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名蛇王",
+        "en": "Great kings"
+      },
+      "value": {
+        "zh": "舍沙、婆苏吉、德叉迦",
+        "en": "Shesha, Vasuki, Takshaka"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "金翅鸟迦楼罗",
+        "en": "Garuda"
+      }
+    },
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "蛇节（七八月雨季）",
+        "en": "Nag Panchami"
+      }
+    }
+  ],
+  "related": [
+    "garuda",
+    "vishnu",
+    "shiva",
+    "samudra-manthan"
+  ],
+  "sources": [
+    {
+      "zh": "《摩诃婆罗多·初篇》",
+      "en": "Mahabharata, Adi Parva"
+    },
+    {
+      "zh": "《毗湿奴往世书》",
+      "en": "Vishnu Purana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/naga.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:42._Nagaraja,_the_serpent_king-9th_Century_CE-Chlorite-_Bihar-_Sculpture_Gallery-_Indian_Museum-Kolkata-3960-A25129.jpg",
+    "sourceTitle": "42. Nagaraja, the serpent king-9th Century CE-Chlorite- Bihar- Sculpture Gallery- Indian Museum-Kolkata-3960-A25129",
+    "artist": "SuvadipSanyal",
+    "license": "CC BY-SA 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

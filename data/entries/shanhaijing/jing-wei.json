@@ -1,0 +1,108 @@
+{
+  "id": "jing-wei",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "精卫",
+    "en": "Jingwei"
+  },
+  "title": {
+    "zh": "衔石填海的帝女之魂",
+    "en": "The Emperor's Daughter Who Fills the Sea with Stones"
+  },
+  "summary": {
+    "zh": "炎帝小女儿女娃溺死于东海，化为花脑袋、白嘴壳、红脚爪的小鸟，日复一日衔西山木石去填东海。",
+    "en": "Nüwa, youngest daughter of the Flame Emperor, drowned in the Eastern Sea and became a small bird with a patterned head, white beak, and red feet, forever dropping twigs and pebbles into the sea that killed her."
+  },
+  "description": {
+    "zh": "北次三经的发鸠之山上多柘木，栖着一种形状像乌鸦的鸟：脑袋有花纹，嘴壳白色，脚爪赤红，叫声听起来像在喊自己的名字——精卫。经文接着交代它的来历：这只鸟原是炎帝的小女儿，名叫女娃。女娃到东海游玩，溺水而死，再没有回来，于是化作精卫，常常衔着西山的树枝和石子，投进东海，要把大海填平。\n\n以人化鸟、以鸟抗海，这在《山海经》通篇的简短物志里是极少见的完整故事，也因此成为全书流传最广的段落之一。晋代陶渊明《读山海经》组诗第十首写下“精卫衔微木，将以填沧海”，把它与断头犹舞的刑天并举；南朝梁任昉《述异记》则记下民间给它的一串别名：冤禽、誓鸟、志鸟，俗称帝女雀，并说它立誓不饮东海之水。\n\n“精卫填海”后来凝成成语，与愚公移山并称，指以微小之力对抗近乎不可能之事的执念。发鸠山实有其地，在今山西省长子县城西，山脚下浊漳河的源头立有精卫庙的旧迹，当地至今以“精卫故里”自称。",
+    "en": "On Fajiu Mountain in the third guideway of the Northern Mountains grows a forest of wild mulberry, and in it lives a bird shaped like a crow, with a patterned head, a white beak, and red feet; its cry sounds like it is calling its own name, jingwei. The classic then gives the bird a biography, rare in a book of terse catalogue entries: she was once a girl called Nüwa — written with different characters from the creator goddess whose name romanizes the same way — the youngest daughter of the Flame Emperor Yandi. Swimming in the Eastern Sea, she drowned and never returned, and so became the jingwei, which forever carries twigs and stones from the Western Mountains in its beak and drops them into the Eastern Sea, trying to fill it in.\n\nThe story became one of the most quoted passages of the entire classic. The poet Tao Yuanming, writing around 400 CE, paired the bird with the headless rebel Xingtian in his cycle 'Reading the Classic of Mountains and Seas': 'Jingwei carries slivers of wood to dam the boundless sea.' Ren Fang's sixth-century Shuyiji records the folk names the bird had accumulated: the Wronged Bird, the Oath Bird, the Resolute Bird, or simply the Emperor's Daughter Sparrow, said to have sworn never to drink the water that killed her.\n\nThe phrase 'Jingwei fills the sea' hardened into a proverb for unyielding effort against impossible odds. Fajiu Mountain is a real place in Zhangzi County, Shanxi, at the source of the Zhuozhang River, where a temple to Jingwei once stood."
+  },
+  "domains": {
+    "zh": [
+      "化生",
+      "复仇",
+      "执念",
+      "东海"
+    ],
+    "en": [
+      "Transformation",
+      "Vengeance",
+      "Perseverance",
+      "Eastern Sea"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如乌鸦，文首、白喙、赤足",
+        "en": "Crow-like, patterned head, white beak, red feet"
+      }
+    },
+    {
+      "label": {
+        "zh": "前身",
+        "en": "Former life"
+      },
+      "value": {
+        "zh": "炎帝少女女娃，溺于东海",
+        "en": "Nüwa, the Flame Emperor's youngest daughter, drowned in the Eastern Sea"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "发鸠之山，今山西长子县",
+        "en": "Fajiu Mountain, in present-day Zhangzi County, Shanxi"
+      }
+    }
+  ],
+  "related": [
+    "yandi",
+    "chang-she",
+    "tian-ma"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（北次三经·发鸠之山）",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Fajiu Mountain)"
+    },
+    {
+      "zh": "陶渊明《读山海经十三首》其十",
+      "en": "Tao Yuanming, 'Reading the Classic of Mountains and Seas', poem 10"
+    },
+    {
+      "zh": "任昉《述异记》",
+      "en": "Ren Fang, Shuyiji (Records of Strange Things)"
+    }
+  ],
+  "geo": {
+    "lat": 36.1,
+    "lon": 112.6,
+    "label": {
+      "zh": "发鸠山（山西长子）",
+      "en": "Fajiu Mountain, Zhangzi, Shanxi"
+    }
+  },
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/jing-wei.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic130_-_%E7%B2%BE%E8%A1%9B%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic130 - 精衛圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 884,
+    "height": 1000
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tuo-fei",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "橐𩇯",
+    "en": "Tuofei"
+  },
+  "title": {
+    "zh": "佩之不畏雷的人面独脚鸟",
+    "en": "Human-faced One-legged Bird, a Charm against Thunder"
+  },
+  "summary": {
+    "zh": "羭次之山的怪鸟，枭形人面而独脚，冬天现身夏天蛰伏；佩带它的羽毛，可以不惧雷霆。",
+    "en": "A strange bird of Mount Yuci, owl-bodied with a human face and one leg, active in winter and dormant in summer; wearing its feathers protects a person from thunder."
+  },
+  "description": {
+    "zh": "羭次之山，漆水从这里发源，北流注入渭水；“其上多棫橿，其下多竹箭”。山中有鸟“其状如枭，人面而一足，曰橐𩇯，冬见夏蛰，服之不畏雷”——猫头鹰的身形配一张人脸，只有一条腿，冬天出来活动，夏天反而蛰伏起来；佩带它的羽毛，可以不惧雷霆。名字又写作橐蜚。\n\n冬见夏蛰，恰好颠倒了鸟兽冬眠的常理，是经文特意标出的反常；“服之不畏雷”则属《山海经》典型的佩服之效，与佩讙已瘅、佩鵸鵌不魇同为一类——雷电正是夏季之物，一只夏天沉睡的鸟成为避雷之符，兆验的逻辑自相呼应。同山还住着一只“状如禺而长臂”的兽，名嚣，最善投掷。\n\n人面、独脚、避雷三事集于一身，历代图本乐于描绘橐𩇯，多画作一只单腿立于枝头的人面枭。",
+    "en": "From Mount Yuci the River Qi rises and flows north into the Wei; oaks grow on its heights and arrow-bamboo below. Its bird is the Tuofei: 'shaped like an owl, with a human face and one leg; it appears in winter and lies dormant in summer; wear it, and you will not fear thunder.' Some editions write the second character of the name differently.\n\nWaking in winter and sleeping through summer inverts the ordinary rhythm of hibernation, an anomaly the text is careful to flag. The thunder-charm belongs to the classic's standard grammar of worn virtues — as the Huan worn on the body cures jaundice and the Qitu bars nightmares — and the logic is neatly self-consistent: thunder is a creature of summer, and a bird that sleeps all summer makes the fitting amulet against it. The same mountain houses the Xiao, a long-armed ape-like beast and expert thrower.\n\nHuman face, single leg, proof against lightning: the combination endeared the Tuofei to generations of illustrators, who usually draw it as a human-faced owl balanced one-legged on a branch."
+  },
+  "domains": {
+    "zh": [
+      "避雷",
+      "人面鸟",
+      "冬见夏蛰",
+      "独足"
+    ],
+    "en": [
+      "Thunder Ward",
+      "Human-faced Bird",
+      "Winter Waking",
+      "One Leg"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如枭，人面而一足",
+        "en": "An owl with a human face and one leg"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "冬见夏蛰",
+        "en": "Active in winter, dormant in summer"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "服之不畏雷",
+        "en": "Worn, it makes one fearless of thunder"
+      }
+    }
+  ],
+  "related": [
+    "bifang",
+    "huan"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/tuo-fei.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic103.svg",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic103",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 980
+  }
+}

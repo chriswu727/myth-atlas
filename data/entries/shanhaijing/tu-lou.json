@@ -1,0 +1,90 @@
+{
+  "id": "tu-lou",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "土蝼",
+    "en": "Tulou"
+  },
+  "title": {
+    "zh": "昆仑山上的四角食人羊",
+    "en": "Four-horned Man-eating Ram of Kunlun"
+  },
+  "summary": {
+    "zh": "昆仑之丘的食人兽，形状如羊，头生四角，与守山神陆吾、毒鸟钦原同居天帝下都。",
+    "en": "A man-eating beast of the Mound of Kunlun, shaped like a ram with four horns, sharing the High God's lower capital with the warden Luwu and the venomous Qinyuan."
+  },
+  "description": {
+    "zh": "昆仑之丘上的食人兽。《西次三经》记天帝下都昆仑由神陆吾把守，接着写“有兽焉，其状如羊而四角，名曰土蝼，是食人”。它的形状是最温驯的家畜，头上却多出四只角，习性是吃人——经文对它的记载只有这短短一句，反差全在“如羊”与“食人”四字之间。\n\n它在昆仑的位次却很清楚：天帝的下都并非乐土，守门的陆吾虎身九尾、人面虎爪，空中有螫人即死、螫木即枯的毒鸟钦原，地上有羊形食人的土蝼；能赐福的沙棠果与薲草，就长在这些凶物之间，采得到采不到全凭造化。明清《山海经》图本画土蝼，多作一只神情安详的四角山羊，与经文“是食人”三字并置，取其惊悚的反差。",
+    "en": "On the Mound of Kunlun, just after naming the tiger-bodied warden Luwu, the 'Classic of the Western Mountains' adds: 'there is a beast there, shaped like a ram but with four horns, named Tulou; it eats men.' That single sentence is the creature's whole textual life, and its force lies entirely in the gap between the two halves — the mildest of domestic animals in outline, a man-eater in habit.\n\nIts place in the geography of Kunlun is clear enough. The High God's lower capital is no paradise for travelers: the gatekeeper Luwu bears nine tails and tiger's claws, the air belongs to the Qinyuan, whose sting kills beasts and withers trees, and the ground to the ram-shaped Tulou; the shatang fruit that keeps one from drowning and the pin herb that banishes weariness grow in among the killers, to be gathered by whoever survives the approach. Ming and Qing illustrated editions usually draw the Tulou as a placid-looking four-horned goat, letting the caption 'it eats men' do the work of horror."
+  },
+  "domains": {
+    "zh": [
+      "食人",
+      "四角羊",
+      "昆仑"
+    ],
+    "en": [
+      "Man-eater",
+      "Four-horned Ram",
+      "Kunlun"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如羊而四角",
+        "en": "A ram with four horns"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "是食人",
+        "en": "It eats men"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "昆仑之丘，帝之下都",
+        "en": "The Mound of Kunlun, the High God's lower capital"
+      }
+    }
+  ],
+  "related": [
+    "luwu",
+    "qin-yuan",
+    "kunlun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/tu-lou.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic250_-_%E5%9C%9F%E8%9E%BB%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic250 - 土螻圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 673,
+    "height": 1000
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "prometheus",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "普罗米修斯",
+    "en": "Prometheus",
+    "original": "Προμηθεύς",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "盗火的提坦，人类的恩主",
+    "en": "The Titan Who Stole Fire, Benefactor of Mankind"
+  },
+  "summary": {
+    "zh": "提坦伊阿珀托斯之子，名意\"先见者\"。为人类盗火而被钉在高加索山崖，巨鹰日啄其肝，后为赫拉克勒斯所救。",
+    "en": "Son of the Titan Iapetus, his name meaning forethought. For stealing fire for mankind he was nailed to a Caucasian crag, an eagle feeding daily on his liver, until Heracles freed him."
+  },
+  "description": {
+    "zh": "普罗米修斯是提坦伊阿珀托斯之子，名字意为\"先见者\"。在墨科涅的祭肉分配中，他把好肉藏进牛胃，把白骨裹上油亮的肥脂让宙斯挑选；宙斯选了骨头，从此人类献祭只需焚烧骨脂而自留肉食。宙斯怒而藏起火种，普罗米修斯把火藏在中空的茴香秆里偷回人间。\n\n作为惩罚，宙斯命人把他锁在高加索的山崖上，派巨鹰每日啄食他的肝脏，肝脏夜间复生，酷刑循环不止，直到赫拉克勒斯射杀巨鹰将他解救。宙斯又命赫菲斯托斯用泥土造出第一个女人潘多拉，送给普罗米修斯的弟弟厄庇墨透斯；她揭开罐盖，疾病与灾祸由此散入人间，只有希望留在罐底。埃斯库罗斯的悲剧《被缚的普罗米修斯》把他写成明知受难仍不肯向强权低头的先知，雪莱1820年的诗剧《解放了的普罗米修斯》延续了这一形象。",
+    "en": "Prometheus, son of the Titan Iapetus, bears a name meaning 'forethought.' At Mecone he divided a sacrificial ox into two portions — the good meat hidden inside the stomach, bare bones dressed in gleaming fat — and let Zeus choose; the god took the bones, which is why mortals thereafter burned bones and fat on the altar and kept the meat for themselves. When Zeus withheld fire in anger, Prometheus stole it back inside a hollow fennel stalk and carried it down to mankind.\n\nFor this Zeus had him bound to a crag in the Caucasus, where an eagle fed daily on his liver, which grew whole again each night, until Heracles shot the bird and released him. Zeus also had Hephaestus mold from clay the first woman, Pandora, and sent her to Prometheus's brother Epimetheus; she lifted the lid of her jar and loosed sickness and sorrow upon the world, leaving only hope inside. Aeschylus's tragedy Prometheus Bound fixed his image as the seer who suffers rather than submit to power, an image Shelley renewed in Prometheus Unbound (1820)."
+  },
+  "domains": {
+    "zh": [
+      "火种",
+      "先见",
+      "技艺",
+      "反抗"
+    ],
+    "en": [
+      "Fire",
+      "Forethought",
+      "Craft",
+      "Defiance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父亲",
+        "en": "Father"
+      },
+      "value": {
+        "zh": "提坦伊阿珀托斯",
+        "en": "The Titan Iapetus"
+      }
+    },
+    {
+      "label": {
+        "zh": "受刑地",
+        "en": "Place of punishment"
+      },
+      "value": {
+        "zh": "高加索山崖",
+        "en": "A crag in the Caucasus"
+      }
+    },
+    {
+      "label": {
+        "zh": "解救者",
+        "en": "Rescuer"
+      },
+      "value": {
+        "zh": "赫拉克勒斯",
+        "en": "Heracles"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "heracles"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》《工作与时日》",
+      "en": "Hesiod, Theogony and Works and Days"
+    },
+    {
+      "zh": "埃斯库罗斯《被缚的普罗米修斯》",
+      "en": "Aeschylus, Prometheus Bound"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/prometheus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg",
+    "sourceTitle": "Prometheus Bound title QS:P1476,en:\"Prometheus Bound \"label QS:Len,\"Prometheus Bound \"label QS:Les,\"Prometeo encadenado\"label QS:Lja,\"繋がれたプロメテウス\"label QS:Lfr,\"Prométhée supplicié\"label QS:Lpl,\"Prometeusz skowany\"label QS:Luk,\"Прометей закутий (картина Рубенса)\"label QS:Lnl,\"De bestraffing van Prometheus door de adelaar van Zeus\"label QS:Lit,\"Prometeo incatenato\"label QS:Lsl,\"Vklenjeni Prometej (Rubens)\"label QS:Lde,\"Gefesselter Prometheus\"label QS:Lru,\"Прометей прикованный (Рубенс)\"",
+    "artist": "Frans Snyders / Peter Paul Rubens",
+    "license": "Public domain",
+    "width": 868,
+    "height": 1000
+  }
+}

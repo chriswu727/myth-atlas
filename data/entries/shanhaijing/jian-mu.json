@@ -1,0 +1,96 @@
+{
+  "id": "jian-mu",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "建木",
+    "en": "Jianmu"
+  },
+  "title": {
+    "zh": "都广之野的通天神木",
+    "en": "The Sky-Ladder Tree at the Center of the World"
+  },
+  "summary": {
+    "zh": "长在天地之中都广之野的神木：青叶紫茎，黑花黄果，高百仞而不生旁枝，太昊曾缘之上下于天；正午立于树下没有影子。",
+    "en": "A god-tree at the world's center on the plain of Duguang: green leaves, purple trunk, black flowers, yellow fruit, a hundred ren tall without side branches. Fuxi climbed it between heaven and earth; at noon it casts no shadow."
+  },
+  "description": {
+    "zh": "海内经记：南海之内、黑水青水之间有九座土丘，被水环绕。那里生着一棵树，青色的叶子，紫色的茎干，黑色的花，黄色的果实，名叫建木。它高达百仞，通体不生旁枝，只在树顶有九根盘曲的欘枝，树根处有九条盘绕的枸根；果实像麻子，叶子像芒树叶。「大暤爰过」——太昊伏羲曾由此登天下地；「黄帝所为」，旧注解为这棵树由黄帝栽培看护。\n\n《淮南子·墬形训》点明它的方位意义：「建木在都广，众帝所自上下。日中无景，呼而无响，盖天地之中也。」建木长在都广之野，众天帝沿着它上天下地；正午时分树下没有影子，大声呼喊听不到回响——因为这里是天地的正中央。海内经同样记有都广之野：后稷葬在这里，膏菽膏稻膏黍膏稷百谷自生，冬夏都能播种，鸾鸟自歌，凤鸟自舞。世界之轴脚下，是一片不劳而获的沃野。\n\n扶桑在东方载日，若木在西方接日，建木居中通天，三棵神树撑起《山海经》的宇宙骨架。蒙文通等学者主张都广即成都平原；1986年三星堆出土的青铜神树高近四米、分层栖鸟，研究者论及其原型时，建木与扶桑始终是被引用最多的两个名字。",
+    "en": "Within the southern seas, between the Black and Green rivers, lie nine mounds ringed by water, says the final chapter. There grows a tree with green leaves, a purple trunk, black flowers, and yellow fruit: the Jianmu, the 'Erected Tree'. It rises a hundred ren without a single side branch, bearing nine twisting boughs only at its crown and nine coiling roots at its base; its fruit is like hemp seed, its leaves like those of the mang tree. Taihao — Fuxi — passed up and down by it, and the Yellow Emperor, in the old commentaries' reading, planted and tended it.\n\nThe Huainanzi states its cosmic office: 'The Jianmu is in Duguang, whence the assembled gods ascend and descend. At noon it casts no shadow; a shout raises no echo; for it stands at the very center of heaven and earth.' The final chapter describes the plain around it: Houji, lord of millet, is buried there; rich beans, rice, and millets grow of themselves, sowable in winter and summer alike, while luan-birds sing and phoenixes dance unbidden. At the foot of the world-axis lies a field that farms itself.\n\nWith the Fusang lifting the suns in the east and the Ruomu receiving them in the west, the Jianmu completes the tree-frame of the book's cosmos. Scholars following Meng Wentong identify Duguang with the Chengdu Plain, and when researchers discuss the four-meter bronze trees unearthed at Sanxingdui in 1986, tiered with perching birds, Jianmu and Fusang remain the two names most often invoked."
+  },
+  "domains": {
+    "zh": [
+      "神木",
+      "天梯",
+      "天地之中",
+      "都广之野"
+    ],
+    "en": [
+      "World-Tree",
+      "Sky Ladder",
+      "Center of the World",
+      "Plain of Duguang"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "青叶紫茎，玄华黄实，百仞无枝",
+        "en": "Green leaves, purple trunk, black flowers, yellow fruit; a hundred ren without branches"
+      }
+    },
+    {
+      "label": {
+        "zh": "异象",
+        "en": "Signs"
+      },
+      "value": {
+        "zh": "日中无影，呼而无响",
+        "en": "No shadow at noon, no echo to a shout"
+      }
+    },
+    {
+      "label": {
+        "zh": "功能",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "众帝缘之上下于天",
+        "en": "The gods' ladder between heaven and earth"
+      }
+    }
+  ],
+  "related": [
+    "fu-sang-shi-ri",
+    "fuxi",
+    "huangdi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内经》",
+      "en": "Classic of Mountains and Seas, final chapter ('Within the Seas')"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms' chapter"
+    }
+  ],
+  "volume": {
+    "zh": "海内经",
+    "en": "Classic of Regions Within the Seas"
+  },
+  "image": {
+    "file": "/images/entries/jian-mu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_Tree,_Sanxingdui_1a.jpg",
+    "sourceTitle": "Bronze Tree, Sanxingdui 1a",
+    "artist": "Gary Todd",
+    "license": "CC0",
+    "width": 666,
+    "height": 1000
+  }
+}

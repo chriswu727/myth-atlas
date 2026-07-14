@@ -1,0 +1,103 @@
+{
+  "id": "xibalba",
+  "tradition": "maya",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "西巴尔巴",
+    "en": "Xibalba",
+    "original": "Xib'alb'a",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "恐惧之地——玛雅冥界",
+    "en": "The Place of Fright: the Maya Underworld"
+  },
+  "summary": {
+    "zh": "玛雅冥界，基切语意为“恐惧之地”。去路要下陡阶、渡蝎河、血河与脓河；四色路口的黑路会开口引人。死神在此以羞辱、球赛与凶屋收割来客。",
+    "en": "The Maya underworld, \"place of fright\" in K'iche'. The road down crosses rivers of scorpions, blood, and pus to a crossroads where the black road speaks, and the death lords kill their guests by humiliation, ballgame, and trial houses."
+  },
+  "description": {
+    "zh": "西巴尔巴在大地之下，由“一死”与“七死”率领成对的死神主宰，每一对司掌一种病痛。《波波尔·乌》细写了去路：先下一段极陡的石阶，过湍急的峡谷，再渡三条河——蝎子翻涌的河、血河、脓河；然后是四条路交会的路口，红、黑、白、黄各指一方，其中黑路会开口说话，把来客引向死神的议事厅。厅中礼数处处是陷阱：座中混着穿戴齐整的木偶，向它们问安便沦为笑柄；请客人坐的石凳其实烧得通红。\n\n真正的杀招是凶屋。暗屋里交给来客一支点燃的火把和雪茄，天亮时必须原样奉还；此外还有寒屋、豹屋、火屋、飞舞着刃鼻巨蝠的蝠屋，以及四壁刀刃蠢动的刃屋。双子英雄的父辈浑·乌纳普与维科布·乌纳普在第一关就败下阵来，被杀后葬在球场，头颅挂上葫芦树。多年后双子下界复仇，闯遍诸屋、赢下球赛，最终以献祭戏法诛杀二主。战败的西巴尔巴被贬：从此得不到洁净的祭品，只配收树脂的焦烟，只与有罪之人为伍。\n\n在玛雅人的地理观念里，洞穴与灰岩坑就是西巴尔巴的门口。伯利兹的阿克吞·图尼奇尔·穆克纳尔洞穴深处发现了钙化的人骨与成堆的祭器，考古学家把这类洞穴祭祀读作对雨神与冥界诸主的供奉。今日尤卡坦与危地马拉高地的玛雅社区，仍视深洞为不可轻慢的地界。",
+    "en": "Xibalba lies beneath the earth, ruled by One Death and Seven Death at the head of paired lords, each pair administering its own affliction. The Popol Vuh maps the road down in detail: a plunge of steep steps, a rushing canyon, then three rivers to cross - one churning with scorpions, one of blood, one of pus - before a crossroads where four roads meet, red, black, white, and yellow. The black road speaks aloud and beckons travelers on toward the council place of the lords. There the etiquette itself is a trap: dressed mannequins sit among the lords so that a polite greeting earns howls of mockery, and the bench offered to guests is a stone slab heated glowing hot.\n\nThe killing is done in the trial houses. In the House of Darkness each guest receives a lit torch and cigar that must be returned whole at dawn; beyond wait the Cold House, the Jaguar House, the Fire House, the Bat House with its blade-snouted bats, and the Razor House whose blades stir on the walls. The first pair of visitors, Hun Hunahpu and Vucub Hunahpu, failed at the very first test and were sacrificed, buried in the ballcourt, one skull hung in a calabash tree. A generation later the Hero Twins survived every house, won the ballgame, and destroyed the two chief lords with their sacrifice trick. Defeated Xibalba was demoted: no more clean offerings, only the smoke of burnt sap, and no company but the guilty.\n\nIn Maya geography, caves and cenotes are the doorways of Xibalba. Deep inside Actun Tunichil Muknal cave in Belize lie calcified human skeletons and heaps of shattered offering vessels, read by archaeologists as gifts to the rain god and the lords below. Maya communities in Yucatán and the Guatemalan highlands still treat deep caves as ground not to be taken lightly."
+  },
+  "domains": {
+    "zh": [
+      "冥界",
+      "试炼",
+      "疾病",
+      "洞穴"
+    ],
+    "en": [
+      "Underworld",
+      "Trials",
+      "Disease",
+      "Caves"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "统治者",
+        "en": "Rulers"
+      },
+      "value": {
+        "zh": "浑·卡梅（一死）与维科布·卡梅（七死）",
+        "en": "Hun Came (One Death) and Vucub Came (Seven Death)"
+      }
+    },
+    {
+      "label": {
+        "zh": "名义",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "基切语“恐惧之地”",
+        "en": "K'iche' for \"place of fright\""
+      }
+    },
+    {
+      "label": {
+        "zh": "试炼",
+        "en": "Ordeals"
+      },
+      "value": {
+        "zh": "暗屋、刃屋、寒屋、豹屋、火屋、蝠屋",
+        "en": "Houses of Darkness, Razors, Cold, Jaguars, Fire, and Bats"
+      }
+    }
+  ],
+  "related": [
+    "hun-came-and-vucub-came",
+    "hunahpu-and-xbalanque",
+    "camazotz",
+    "maya-maize-god"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶；希门内斯抄本，约1701—1703年）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century; Ximénez copy, c. 1701-1703)"
+    },
+    {
+      "zh": "伯利兹阿克吞·图尼奇尔·穆克纳尔洞穴的考古发现",
+      "en": "Archaeological finds in Actun Tunichil Muknal cave, Belize"
+    }
+  ],
+  "geo": {
+    "lat": 17.1,
+    "lon": -88.89,
+    "label": {
+      "zh": "阿克吞·图尼奇尔·穆克纳尔洞穴（伯利兹）",
+      "en": "Actun Tunichil Muknal cave, Belize"
+    }
+  },
+  "image": {
+    "file": "/images/entries/xibalba.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vessel_depicting_gods_in_the_court_of_Xibalba,_the_underworld,_Maya,_Late_Classic_Period,_600-900_AD,_ceramic_-_Royal_Ontario_Museum_-_DSC04491.JPG",
+    "sourceTitle": "Vessel depicting gods in the court of Xibalba, the underworld, Maya, Late Classic Period, 600-900 AD, ceramic - Royal Ontario Museum - DSC04491",
+    "artist": "Daderot",
+    "license": "CC0",
+    "width": 723,
+    "height": 1000
+  }
+}

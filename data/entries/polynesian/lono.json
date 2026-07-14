@@ -1,0 +1,106 @@
+{
+  "id": "lono",
+  "tradition": "polynesian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "罗诺",
+    "en": "Lono",
+    "original": "Lono",
+    "originalLang": "夏威夷语"
+  },
+  "title": {
+    "zh": "和平、雨水与丰饶之神",
+    "en": "God of Peace, Rain and Fertility"
+  },
+  "summary": {
+    "zh": "夏威夷四大神之一，司雨水、农耕与和平。昴星团升起即开启他的玛卡希基节：数月禁战、纳贡与竞技。1779年库克在节期驶入凯阿拉凯夸湾，数周后死于岸边冲突。",
+    "en": "One of the four great Hawaiian gods, lord of rain, agriculture and peace. The rising of the Pleiades opened his Makahiki festival of truce, tribute and games; Cook reached Kealakekua Bay during it in 1779 and died there weeks later."
+  },
+  "description": {
+    "zh": "罗诺与库恰成对照：库主战争与人牲，罗诺主和平、雨云、雷声与田间的丰收。祈雨与祈丰的祷词归他，医者与农人向他献祭，甘薯田的第一批收成属于他。他的祭仪不用人牲。\n\n每年昴星团（夏威夷语称玛卡利伊）于日落后升起时，属于罗诺的玛卡希基节开始，为期约四个月：战争被禁止，重体力劳作停歇，罗诺的神体巡行全岛收取贡赋——那是一根高杆，顶端横木上悬挂白色树皮布幡与羽饰，称作\"罗诺玛库阿\"，意为\"父亲罗诺\"。巡行之后是拳斗、摔跤、滑坡橇等竞技。1778至1779年，詹姆斯·库克的船队两度抵达夏威夷岛，第二次恰在玛卡希基节期间驶入罗诺祭仪的中心凯阿拉凯夸湾，船帆桅杆与罗诺的杆幡形似，库克在希基奥神庙受到隆重仪式接待。至于夏威夷人是否真将他视为罗诺本身，二十世纪末的人类学界曾有著名论战（萨林斯与奥贝赛克拉之争），并无定论；可考的是库克于1779年2月14日在该湾的冲突中身亡。\n\n一则传统叙事解释了节日的由来：罗诺自天虹降下，娶凡间女子卡伊基拉尼为妻，因疑其不贞而误杀之，悔恨之下遍历各岛设擂竞技以为哀祭，随后乘独木舟离去，允诺有朝一日归来。玛卡希基的竞技即是他留下的遗规。",
+    "en": "Lono stands opposite Ku: where Ku takes war and human sacrifice, Lono takes peace, rain clouds, thunder and the fruitfulness of fields. Prayers for rain and harvest were his, healers and farmers made offerings to him, and the first sweet potatoes of the season were his portion. His rites required no human victims.\n\nEach year, when the Pleiades (Makalii) rose at sunset, Lono's festival of Makahiki began and ran some four months: war was forbidden, heavy labor ceased, and the god's standard toured each island collecting tribute — a tall pole with a crosspiece hung with white bark-cloth banners and feathers, called Lonomakua. The circuit was followed by games: boxing, wrestling, holua sled racing. In 1778-79 James Cook's ships twice reached Hawaii Island; the second visit brought them into Kealakekua Bay, a center of Lono's cult, at the height of Makahiki, and Cook's masts and sails echoed the god's pole and banners. He was received with elaborate ceremony at Hikiau Heiau. Whether Hawaiians took him for Lono himself became a famous anthropological controversy in the late twentieth century, between Marshall Sahlins and Gananath Obeyesekere, and remains unsettled; what is documented is that Cook was killed in a skirmish on the bay's shore on February 14, 1779.\n\nOne tradition explains the festival's origin: Lono descended on a rainbow and married the mortal woman Kaikilani, killed her in a fit of unfounded jealousy, and in remorse traveled the islands holding games in her memory before departing by canoe with a promise to return. The Makahiki contests are the rule he left behind."
+  },
+  "domains": {
+    "zh": [
+      "雨水",
+      "农耕",
+      "和平",
+      "竞技"
+    ],
+    "en": [
+      "Rain",
+      "Agriculture",
+      "Peace",
+      "Games"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "神体",
+        "en": "Standard"
+      },
+      "value": {
+        "zh": "高杆横木悬白色树皮布幡，称\"罗诺玛库阿\"",
+        "en": "Pole and crosspiece with white bark-cloth banners, called Lonomakua"
+      }
+    },
+    {
+      "label": {
+        "zh": "节期",
+        "en": "Season"
+      },
+      "value": {
+        "zh": "玛卡希基节，昴星团升起后约四个月",
+        "en": "Makahiki, about four months from the rising of the Pleiades"
+      }
+    },
+    {
+      "label": {
+        "zh": "祭仪中心",
+        "en": "Cult center"
+      },
+      "value": {
+        "zh": "凯阿拉凯夸湾希基奥神庙",
+        "en": "Hikiau Heiau, Kealakekua Bay"
+      }
+    }
+  ],
+  "related": [
+    "ku",
+    "pele",
+    "hawaiki"
+  ],
+  "sources": [
+    {
+      "zh": "戴维·马洛《夏威夷古俗》（约1840年代成稿，1903年英译刊行）",
+      "en": "David Malo, Hawaiian Antiquities (written c. 1840s, published in translation 1903)"
+    },
+    {
+      "zh": "玛莎·贝克威思《夏威夷神话》（1940年）",
+      "en": "Martha Beckwith, Hawaiian Mythology (1940)"
+    },
+    {
+      "zh": "库克与金《太平洋航行记》（1784年）",
+      "en": "James Cook and James King, A Voyage to the Pacific Ocean (1784)"
+    }
+  ],
+  "geo": {
+    "lat": 19.48,
+    "lon": -155.93,
+    "label": {
+      "zh": "凯阿拉凯夸湾（夏威夷岛）",
+      "en": "Kealakekua Bay, Hawaii Island"
+    }
+  },
+  "image": {
+    "file": "/images/entries/lono.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Engraving_-_An_Offering_before_Captain_Cook_in_the_Sandwich_Islands.jpg",
+    "sourceTitle": "Engraving - An Offering before Captain Cook in the Sandwich Islands",
+    "artist": "John Webber",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 699
+  }
+}

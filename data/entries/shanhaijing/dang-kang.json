@@ -1,0 +1,82 @@
+{
+  "id": "dang-kang",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "当康",
+    "en": "Dangkang"
+  },
+  "title": {
+    "zh": "预告丰年的有牙之豚",
+    "en": "The Tusked Pig That Heralds the Bumper Harvest"
+  },
+  "summary": {
+    "zh": "钦山的瑞兽，形状像猪而长着獠牙，叫声像在喊自己的名字；它一出现，天下就要大丰收。",
+    "en": "An auspicious beast of Qin Mountain, shaped like a pig with prominent tusks, its cry naming itself. When it appears, the world is due a great harvest."
+  },
+  "description": {
+    "zh": "东次四经的钦山多金玉而不产石头。山中有兽名当康：形状是一头猪，却生着外露的獠牙，叫起来像在喊自己的名字。它的兆应写作“见则天下大穰”——当康现身之年，天下五谷丰登。\n\n在灾异密布的东次四经里，当康是唯一的好消息。它的邻居们个个面目狰狞：北号之山的猲狙食人，剡山的合窳带来大水，太山的蜚带来大疫，女烝之山的薄鱼带来大旱。唯独这头有牙的猪，扛着“大穰”二字行走。以猪为丰年之兆并不难解：豕是六畜之一、祭祀与年节的主角，仓廪实则猪圈满，一头膘肥牙壮的野豚，本身就是好年成的样子。\n\n历代图本多画当康作奔走回首状，獠牙上翘，体态浑圆，几乎带着喜气。后世谈《山海经》祥瑞，兽类常举当康与狪狪并称——同为豕形，一个报丰年，一个怀珍珠，东山经把两件好事都派给了猪。",
+    "en": "Qin Mountain, in the fourth eastern guideway, abounds in gold and jade and has no common stone at all. Its beast is the dangkang: a pig in shape, but with tusks protruding, and a cry that sounds like its own name. Its omen reads 'when it is seen, all under heaven enjoys a great harvest' — the year the dangkang shows itself, the granaries fill.\n\nIn the disaster-ridden fourth eastern guideway, the dangkang is the only piece of good news. Its neighbours are uniformly grim: the man-eating xieju of Beihao Mountain, the flood-bringing heyu of Yan Mountain, the plague-bearing fei of Tai Mountain, the drought-fish of Nüzheng Mountain. Alone among them, the tusked pig walks under the sign of abundance. A pig as harvest omen needs little explaining: swine head the sacrificial and festival table among the six domestic animals, and full granaries mean full sties — a fat, strong-tusked boar simply looks like a good year.\n\nIllustrated editions favour a running dangkang glancing back over its shoulder, tusks upturned, body round, almost festive. Later writers on the classic's auspicious beasts habitually pair it with the tongtong — both pig-shaped, one announcing plenty, the other carrying pearls. The eastern mountains assigned both of their blessings to pigs."
+  },
+  "domains": {
+    "zh": [
+      "祥瑞",
+      "丰收",
+      "豕形",
+      "东山"
+    ],
+    "en": [
+      "Auspicious Omens",
+      "Harvest",
+      "Pig-Shaped",
+      "Eastern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如豚而有牙",
+        "en": "Pig-like, with protruding tusks"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆应",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则天下大穰",
+        "en": "Its appearance brings a great harvest under heaven"
+      }
+    }
+  ],
+  "related": [
+    "tong-tong",
+    "fei",
+    "he-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次四经·钦山）",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Qin Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/dang-kang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic291_-_%E7%95%B6%E5%BA%B7%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic291 - 當康圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 963
+  }
+}

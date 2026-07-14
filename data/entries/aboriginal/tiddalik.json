@@ -1,0 +1,48 @@
+{
+  "id": "tiddalik",
+  "tradition": "aboriginal",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "蒂达利克",
+    "en": "Tiddalik",
+    "original": "Tiddalik",
+    "originalLang": "贡艾库尔奈语"
+  },
+  "title": { "zh": "喝干天下水的巨蛙", "en": "The Frog Who Drank the Waters" },
+  "summary": {
+    "zh": "维多利亚州吉普斯兰贡艾库尔奈人的叙事：巨蛙一口喝干河湖，大地枯焦，众兽设法逗它发笑，笑声一开洪水奔涌，世界复得活水。",
+    "en": "From the Gunaikurnai of Gippsland, Victoria: a giant frog drinks every river and lake dry, and the parched animals must make him laugh so the waters burst free again."
+  },
+  "description": {
+    "zh": "梦创时代的一个清晨，巨蛙蒂达利克醒来觉得渴，便开始喝水：先喝干了身边的水潭，再喝干溪流、大河与湖泊，最后连沼泽里的泥浆也吸得一滴不剩，肚腹涨成一座光亮的小山。大地随之枯焦，草木垂死，兽群聚到巨蛙面前商议：谁也没有力气剖开它的肚子，唯一的指望是逗它发笑，让水从嘴里涌出来。袋鼠跳滑稽的舞，笑翠鸟讲最好笑的故事，蜥蜴鼓起颈边的皱领走圈——蒂达利克眼皮都不抬。最后上场的是鳗鱼诺云努姆：它离了水，在滚烫的干泥上不由自主地扭摆、打结、竖起身子抽搐。巨蛙嘴角一裂，笑声轰然而出，河水湖水随之奔涌四野，大地重新有了活水。\n\n这则叙事出自维多利亚州吉普斯兰的贡艾库尔奈人，常在旱季讲给孩童，既解释洪枯交替，也告诫贪多独占的下场。有博物学者指出，故事与澳洲内陆的储水蛙相映成趣——这类蛙在雨季把水囊满全身钻入地下，原住民旱时确会掘蛙取水。\n\n二十世纪中叶，作家里德将它收入《澳大利亚原住民寓言与传奇》，此后蒂达利克成为澳洲儿童读物与课堂上流传最广的原住民叙事之一，绘本、木偶剧与动画反复重讲这只绷着脸的巨蛙。",
+    "en": "One morning in the Dreaming the giant frog Tiddalik woke up thirsty and began to drink. He drained the waterhole beside him, then the creeks, the rivers, and the lakes, and finally sucked the last moisture from the swamps, his belly swelling into a gleaming hill. The land withered. The animals gathered before him and took counsel: none had the strength to cut him open, so their only hope was to make him laugh and let the water pour from his mouth. The kangaroo danced absurdly, the kookaburra told his best stories, the frill-necked lizard strutted in circles with his collar spread — Tiddalik did not so much as lift an eyelid. Last came Nabunum the eel, who, stranded on the hot cracked mud, began helplessly to writhe, knot, and rear. The frog's mouth split into a grin, laughter burst out of him, and the rivers and lakes came flooding back across the country.\n\nThe story belongs to the Gunaikurnai of Gippsland, Victoria, traditionally told to children in the dry season — an account of the swing between drought and flood, and a warning against hoarding. Naturalists have noted its resonance with Australia's water-holding frogs, which swell with stored water and burrow underground through the dry; desert peoples really did dig them up for drinking water in drought.\n\nIn the mid-twentieth century the writer A. W. Reed included the tale in his Aboriginal Fables and Legendary Tales, and Tiddalik went on to become one of the most widely retold Aboriginal stories in Australian classrooms, picture books, puppet plays, and animation."
+  },
+  "geo": { "lat": -37.9, "lon": 147.0, "label": { "zh": "吉普斯兰（维多利亚州）", "en": "Gippsland, Victoria" } },
+  "domains": {
+    "zh": ["旱与洪", "贪婪之诫", "众兽逗笑", "儿童讲述"],
+    "en": ["Drought and flood", "Greed cautionary tale", "Animal comedy", "Children's telling"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "民族来源", "en": "People" },
+      "value": { "zh": "贡艾库尔奈（维多利亚州吉普斯兰）", "en": "Gunaikurnai of Gippsland, Victoria" }
+    },
+    {
+      "label": { "zh": "解围者", "en": "The one who broke the drought" },
+      "value": { "zh": "鳗鱼诺云努姆的扭摆之舞", "en": "The writhing dance of Nabunum the eel" }
+    },
+    {
+      "label": { "zh": "现实回响", "en": "Natural echo" },
+      "value": { "zh": "内陆储水蛙旱季蓄水入土，旱时可掘蛙取水", "en": "Australian water-holding frogs store water underground and were dug up in drought" }
+    }
+  ],
+  "related": ["bunyip", "the-dreaming"],
+  "sources": [
+    {
+      "zh": "里德《澳大利亚原住民寓言与传奇》（1965）",
+      "en": "A. W. Reed, Aboriginal Fables and Legendary Tales (1965)"
+    }
+  ],
+  "image": null
+}

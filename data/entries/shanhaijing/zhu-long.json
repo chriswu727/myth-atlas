@@ -1,0 +1,99 @@
+{
+  "id": "zhu-long",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "烛龙",
+    "en": "Zhulong"
+  },
+  "title": {
+    "zh": "睁眼为昼、闭眼为夜的烛照之神",
+    "en": "The Torch Dragon Whose Open Eyes Are Day"
+  },
+  "summary": {
+    "zh": "章尾山上人面蛇身、通体赤红的巨神：睁眼是白昼，闭眼是黑夜，吹气成冬，呼气成夏，不食不寝不息。海外北经称烛阴，身长千里。",
+    "en": "A scarlet, human-faced, serpent-bodied god of Mount Zhangwei: day when its eyes open, night when they close, winter when it inhales, summer when it exhales. Called Zhuyin in another chapter, a thousand li long."
+  },
+  "description": {
+    "zh": "大荒北经记：西北海之外、赤水之北有座章尾山，山上有神，人的面孔，蛇的身子，通体赤红，眼睛是直立的一条缝（「直目正乘」，郭璞注：目纵）。它闭上眼，天下就是黑夜；睁开眼，天下就是白昼。它不吃、不睡、不呼吸，风雨都来朝谒。它照亮九重幽阴之地，所以叫烛龙——「烛」是动词，燃烛般照彻黑暗。\n\n海外北经另有一段互见的记载：钟山之神名叫烛阴，视为昼，瞑为夜，吹为冬，呼为夏；不饮不食不息，一旦呼吸便成风；身长千里，人面蛇身，赤色，住在钟山之下。烛阴与烛龙，历来被认为是同一神的两种写法。昼夜、冬夏与风，全系在它的眼皮与呼吸之间——它握着时间本身的开关。\n\n《楚辞·天问》发问：「日安不到？烛龙何照？」太阳照不到的地方，靠烛龙来照——可见战国人已用它解释极北无日之地的光。《淮南子·墬形训》说「烛龙在雁门北，蔽于委羽之山，不见日」。近代以来不断有学者提出，这个居于极北、司昼夜明暗的形象，或是远古人群对极地极昼极夜乃至极光的传闻加工，此说虽无从坐实，却让烛龙成为《山海经》里最常被重读的神祇之一。",
+    "en": "Beyond the northwest sea, north of the Red River, stands Mount Zhangwei, says the Great Wilderness: North. On it lives a god with a human face and a serpent's body, scarlet from head to tail, its eyes set as vertical slits. When it closes its eyes, the world goes dark; when it opens them, the world is day. It does not eat, sleep, or breathe, and wind and rain come to wait upon it. Because it lights the ninefold darkness it is called Zhulong, the Torch Dragon.\n\nA parallel passage in Beyond the Seas: North calls the god of Bell Mountain Zhuyin, 'Torch Shade': sight is day and blinking is night, an inhalation makes winter and an exhalation summer; it neither drinks nor eats nor breathes, yet when it does breathe there is wind; it is a thousand li long, red, human-faced and snake-bodied, dwelling below the mountain. The two names have always been read as one god, whose eyelids and breath govern day and night, winter and summer, and the wind — the switch of time itself.\n\nThe Heavenly Questions asks: 'Where does the sun not reach? What does the Torch Dragon light?' — showing that Warring States poets already used it to explain light in sunless polar lands. The Huainanzi locates it north of Yanmen, screened from the sun by Mount Weiyu. Modern scholars have repeatedly suggested the figure distills far-northern hearsay of polar day, polar night, even the aurora; unprovable, but it keeps Zhulong among the most reread gods of the entire classic."
+  },
+  "domains": {
+    "zh": [
+      "昼夜",
+      "烛照",
+      "蛇身",
+      "极北"
+    ],
+    "en": [
+      "Day and Night",
+      "Illumination",
+      "Serpent Body",
+      "Far North"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人面蛇身，通体赤红，直目，身长千里",
+        "en": "Human face, serpent body, scarlet, vertical eyes, a thousand li long"
+      }
+    },
+    {
+      "label": {
+        "zh": "神能",
+        "en": "Powers"
+      },
+      "value": {
+        "zh": "视为昼，瞑为夜，吹为冬，呼为夏",
+        "en": "Open eyes make day, closed eyes night; inhaling winter, exhaling summer"
+      }
+    },
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Other name"
+      },
+      "value": {
+        "zh": "烛阴（海外北经，钟山之神）",
+        "en": "Zhuyin, god of Bell Mountain (Beyond the Seas: North)"
+      }
+    }
+  ],
+  "related": [
+    "yu-qiang",
+    "chinese-dragon"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒北经》《海外北经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: North' and 'Beyond the Seas: North'"
+    },
+    {
+      "zh": "《楚辞·天问》",
+      "en": "Heavenly Questions (Tianwen)"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms' chapter"
+    }
+  ],
+  "volume": {
+    "zh": "大荒北经",
+    "en": "Classic of the Great Wilderness: North"
+  },
+  "image": {
+    "file": "/images/entries/zhu-long.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic45_-_%E7%87%AD%E9%99%B0%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic45 - 燭陰神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 667,
+    "height": 1000
+  }
+}

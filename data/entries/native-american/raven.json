@@ -1,0 +1,101 @@
+{
+  "id": "raven",
+  "tradition": "native-american",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "渡鸦",
+    "en": "Raven",
+    "original": "Yéil",
+    "originalLang": "特林吉特语"
+  },
+  "title": {
+    "zh": "西北海岸的盗光者与变形者",
+    "en": "Light-Stealer and Transformer of the Northwest Coast"
+  },
+  "summary": {
+    "zh": "海达、特林吉特等西北海岸民族的骗子神与变形者：他偷出日月星辰挂上天空，又从蚌壳里放出最初的人类。",
+    "en": "Trickster and transformer of the Haida, Tlingit, and other Northwest Coast peoples: he stole the sun, moon, and stars for the sky, and coaxed the first humans out of a clamshell."
+  },
+  "description": {
+    "zh": "在阿拉斯加东南部到不列颠哥伦比亚海岸的雨林民族中，渡鸦（海达语称 Xhuuya，特林吉特语称 Yéil）是塑造现今世界的主角。他贪吃、狡黠、永不满足，却在满足私欲的过程中一件件造就了世间的秩序：光、火、潮汐、河流里的鲑鱼，多半是他偷来或骗来的。\n\n最著名的故事是盗光：太初世界一片黑暗，日月星辰锁在一位老首领家中的匣子里。渡鸦化作一根铁杉针漂入首领女儿汲水的篮中，使她受孕，转生为首领溺爱的外孙。婴儿哭闹索要匣子，老人一件件递出，他便逐一放走星辰与月亮，最后衔着太阳从烟囱飞出，把光散给世界——烟灰也从此把他熏成黑色。海达人还讲述：大洪水退去后，渡鸦在海达瓜依的玫瑰沙嘴听见一枚巨蚌里传出细小人声，他连哄带骗把畏缩的小人们唤出壳来，那便是最初的人类。\n\n渡鸦与鹰（或狼）构成西北海岸社会的两大偶族，海达与特林吉特人至今以\"渡鸦方\"确定婚姻与继承。海达艺术家比尔·里德1980年的黄雪松巨雕《渡鸦与最初的人类》再现蚌壳一幕，现藏温哥华的不列颠哥伦比亚大学人类学博物馆。",
+    "en": "Among the rainforest peoples from southeast Alaska down the British Columbia coast, Raven (Xhuuya in Haida, Yéil in Tlingit) is the chief shaper of the present world. Greedy, cunning, and never satisfied, he built the order of things almost by accident, piece by piece, while pursuing his own appetites: light, fire, the tides, and the salmon in the rivers were mostly stolen or swindled into being.\n\nThe most famous story is the theft of light. The world lay in darkness, the sun, moon, and stars locked in boxes in the house of an old chief. Raven turned himself into a hemlock needle floating in the basket of the chief's daughter as she drank; she conceived, and he was born as the old man's adored grandson. Crying for the boxes one by one, he released the stars and the moon, then seized the sun and flew out through the smokehole to scatter light over the world; the soot of that escape is why the raven is black. The Haida also tell that after the great flood receded, Raven heard small voices inside a giant clamshell at Rose Spit on Haida Gwaii and coaxed the frightened little beings out: the first humans.\n\nRaven and Eagle (or Wolf) form the two moieties of Northwest Coast society, still governing marriage and inheritance among the Haida and Tlingit. Bill Reid's monumental cedar carving The Raven and the First Men (1980) renders the clamshell scene, and stands in the Museum of Anthropology at the University of British Columbia in Vancouver."
+  },
+  "geo": {
+    "lat": 54.17,
+    "lon": -131.66,
+    "label": {
+      "zh": "玫瑰沙嘴（海达瓜依）",
+      "en": "Rose Spit, Haida Gwaii"
+    }
+  },
+  "domains": {
+    "zh": [
+      "盗光",
+      "变形",
+      "创世",
+      "氏族偶族"
+    ],
+    "en": [
+      "Theft of light",
+      "Shapeshifting",
+      "World-making",
+      "Clan moiety"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "海达、特林吉特、钦西安、夸夸嘉夸等西北海岸民族",
+        "en": "Haida, Tlingit, Tsimshian, Kwakwaka'wakw, and other Northwest Coast peoples"
+      }
+    },
+    {
+      "label": {
+        "zh": "海达语名",
+        "en": "Haida name"
+      },
+      "value": {
+        "zh": "Xhuuya",
+        "en": "Xhuuya"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名事迹",
+        "en": "Famous deeds"
+      },
+      "value": {
+        "zh": "从匣中盗出日月星辰、从蚌壳唤出最初人类",
+        "en": "Stealing the sun, moon, and stars from a box; calling the first humans out of a clamshell"
+      }
+    }
+  ],
+  "related": [
+    "coyote",
+    "nanabozho",
+    "thunderbird"
+  ],
+  "sources": [
+    {
+      "zh": "约翰·R·斯旺顿《海达文本与神话：斯基德盖特方言》（1905）",
+      "en": "John R. Swanton, Haida Texts and Myths: Skidegate Dialect (1905)"
+    },
+    {
+      "zh": "约翰·R·斯旺顿《特林吉特神话与文本》（1909）",
+      "en": "John R. Swanton, Tlingit Myths and Texts (1909)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/raven.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raven_Rattle_MET_DP152110.jpg",
+    "sourceTitle": "Raven Rattle",
+    "license": "CC0",
+    "width": 999,
+    "height": 1000
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "the-dreaming",
+  "tradition": "aboriginal",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "梦创时代",
+    "en": "The Dreaming",
+    "original": "Tjukurpa",
+    "originalLang": "皮坚加加拉语"
+  },
+  "title": {
+    "zh": "创世、律法与土地合一的宇宙观",
+    "en": "The Cosmology of Creation, Law, and Country"
+  },
+  "summary": {
+    "zh": "澳洲原住民宇宙观的总称：创世祖先行走大地、塑造山川、留下律法与歌之路，且从未真正过去——它至今仍在土地与仪式中延续。",
+    "en": "The framework of Aboriginal cosmology: ancestral beings walked the land, shaped it, and laid down law and songlines — an age that never closed, still present in country and ceremony."
+  },
+  "description": {
+    "zh": "“梦创时代”是英语词 the Dreaming 的汉译，各民族有各自的称法：中部沙漠阿兰达人称阿尔杰雷（Altyerre），皮坚加加拉人称楚库尔帕（Tjukurpa），约伦古人称汪加尔（Wangarr）。1899年，斯宾塞与吉伦在记录阿兰达人时把 Alcheringa 译作“梦的时代”，这个不甚准确却流传极广的译名由此而来。它讲述的是：太初大地平坦沉睡，袋鼠、鸸鹋、巨蛇、七姐妹等祖先存在从地下醒来，行走、狩猎、争斗、相爱，所到之处隆起山岭、陷出水潭，最后化入岩石、树木与星空，行迹成为纵横大陆的“歌之路”。\n\n与“神话时代”最大的不同在于时态：梦创并未结束。人类学家斯坦纳1953年造出 everywhen（“无时不在”）一词来描述它——祖先仍在他们化成的岩石与水潭里，土地本身就是叙事的正文。每个人经由出生地与亲属制度继承特定的梦创叙事，随之而来的是照看那片土地的责任、可以猎取什么、必须回避什么。叙事同时就是律法、地图与产权凭证：1992年“马博案”后，歌之路与梦创叙事被澳洲法庭接受为原住民土地权的证据。\n\n梦创知识分层流传：一部分是讲给孩子和外人的公开版本，另一部分只在仪式中传给受戒者。本图鉴所录，均为各民族公开讲述的层面。",
+    "en": "\"The Dreaming\" is the English rendering of concepts each people names in its own language: Altyerre among the Arrernte of the Central Desert, Tjukurpa among the Pitjantjatjara, Wangarr among the Yolngu. The translation dates to 1899, when Spencer and Gillen glossed the Arrernte word Alcheringa as \"dream times\" — imprecise, but it stuck. The narratives it covers share a shape: the first earth lay flat and asleep until ancestral beings — kangaroo, emu, great serpents, the Seven Sisters — woke from beneath it and walked, hunted, fought, and loved. Where they travelled, ranges rose and waterholes sank; when they finished, they lay down into rock, tree, and star, their tracks becoming the songlines that cross the continent.\n\nWhat sets the Dreaming apart from a \"mythic age\" is its tense: it has not ended. The anthropologist W. E. H. Stanner coined the word \"everywhen\" in 1953 to capture this — the ancestors remain in the landforms they became, and the land itself is the primary text. Each person inherits particular Dreamings through birthplace and kinship, and with them the duty to look after that country, what may be hunted, and what must be avoided. The narratives function at once as law, map, and title: after the Mabo decision of 1992, Australian courts came to accept songlines and Dreaming narratives as evidence in native title claims.\n\nDreaming knowledge is layered. One stratum is told openly to children and outsiders; another passes only to the initiated in ceremony. Everything recorded in this atlas belongs to the public layer."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "律法",
+      "歌之路",
+      "土地"
+    ],
+    "en": [
+      "Creation",
+      "Law",
+      "Songlines",
+      "Country"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "各族称法",
+        "en": "Regional terms"
+      },
+      "value": {
+        "zh": "阿尔杰雷（阿兰达）、楚库尔帕（皮坚加加拉）、汪加尔（约伦古）",
+        "en": "Altyerre (Arrernte), Tjukurpa (Pitjantjatjara), Wangarr (Yolngu)"
+      }
+    },
+    {
+      "label": {
+        "zh": "术语由来",
+        "en": "Coinage"
+      },
+      "value": {
+        "zh": "斯宾塞与吉伦1899年将 Alcheringa 译作“梦的时代”",
+        "en": "Spencer and Gillen rendered Alcheringa as \"dream times\" in 1899"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键概念",
+        "en": "Key concept"
+      },
+      "value": {
+        "zh": "斯坦纳的 everywhen：过去、现在与律法同在",
+        "en": "Stanner's \"everywhen\": past, present, and law coexisting"
+      }
+    }
+  ],
+  "related": [
+    "rainbow-serpent",
+    "seven-sisters",
+    "uluru",
+    "baiame",
+    "wandjina"
+  ],
+  "sources": [
+    {
+      "zh": "斯宾塞、吉伦《中澳大利亚的土著部落》（1899）",
+      "en": "Baldwin Spencer and F. J. Gillen, The Native Tribes of Central Australia (1899)"
+    },
+    {
+      "zh": "斯坦纳《梦创》（1953年讲稿，收入《白人没有梦创》，1979）",
+      "en": "W. E. H. Stanner, \"The Dreaming\" (1953 lecture, collected in White Man Got No Dreaming, 1979)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/the-dreaming.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakadu_(AU),_Kakadu_National_Park,_Ubirr_Rock_Art_--_2019_--_4171.jpg",
+    "sourceTitle": "Kakadu (AU), Kakadu National Park, Ubirr Rock Art -- 2019 -- 4171",
+    "artist": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 666
+  }
+}

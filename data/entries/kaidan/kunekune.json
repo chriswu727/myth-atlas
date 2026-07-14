@@ -1,0 +1,45 @@
+{
+  "id": "kunekune",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "Kunekune",
+    "en": "Kunekune",
+    "original": "くねくね",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "远处田里扭动的白色细长物", "en": "The white shape writhing in a distant field" },
+  "summary": {
+    "zh": "盛夏的水田或海面远处，一个白色细长的人形在无风处扭来扭去。远远看没事，看清楚它的人会发疯。2003年夏经2ch灵异板扩散。",
+    "en": "Far off across summer paddies or open water, a slender white figure writhes where there is no wind. Seen from afar it is harmless; whoever makes out what it is goes mad. Spread via 2channel's occult board in summer 2003."
+  },
+  "description": {
+    "zh": "Kunekune（意为「扭来扭去」）的规则只有一条：不要看清它。它出现在盛夏的白天，水田尽头、河对岸或远海上，样子像一条挂在晾衣竿上的白布，细长、素白，在没有一丝风的空气里以人体做不到的方式扭动。肉眼远远看只觉得怪；一旦用望远镜看清它的形状，或者走近弄明白「那是什么」，精神就会不可逆地失常。对策同样简单：当作没看见，转过头去。\n\n定型的故事2003年夏天出现在2ch灵异板：兄弟俩暑假回乡下祖父母家，哥哥注意到远处田里的白色影子，用望远镜看了一眼，从此目光涣散，再也没有恢复；弟弟始终没敢看清，平安无事。此后「目击谈」在帖子间滚雪球，秋田、山形等东北农村是最常见的舞台，也有海上、雪原的变体，白色之外偶有黑色的报告。\n\n作为2ch时代最早一批「创作系怪谈」的代表，Kunekune的恐怖机制在于把「认知」本身设为触发器——危险与距离无关，与理解程度成正比。这套「看清即疯」的逻辑与克苏鲁式恐怖同构，却生长在日本农村最日常的风景里：正午、蝉声、白花花的水田，以及远处那个你最好别弄明白的东西。",
+    "en": "Kunekune, 'the wriggler,' has a single rule: do not find out what it is. It appears in broad summer daylight, at the far edge of flooded rice paddies, across a river, or out at sea, looking like a strip of white cloth on a drying pole, long, thin, and blank, twisting in windless air in ways a human body cannot. Seen with the naked eye at a distance it is merely odd; look through binoculars, or walk close enough to understand it, and the mind gives way for good. The countermeasure is equally plain: pretend you saw nothing and turn away.\n\nThe canonical story surfaced on 2channel's occult board in the summer of 2003. Two brothers spend the holidays at their grandparents' farmhouse; the elder notices the white shape far out in the paddies and raises binoculars to it, and his eyes never focus again, while the younger, who never looked closely, is untouched. Sighting reports snowballed thread by thread, most often set in the rural northeast, Akita and Yamagata, with variants at sea and on snowfields, and occasional black specimens among the white.\n\nAmong the earliest composed legends of the 2channel era, Kunekune makes cognition itself the trigger: danger scales with comprehension, never with distance. The logic is that of cosmic horror, but the scenery is the most ordinary Japan has, noon, cicadas, the glare of paddy water, and that thing in the distance you would do well not to understand."
+  },
+  "domains": {
+    "zh": ["网络怪谈", "禁忌之视", "田园", "发狂"],
+    "en": ["Net folklore", "Forbidden sight", "Farmland", "Madness"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "初出", "en": "First appearance" },
+      "value": { "zh": "2003年夏，2ch灵异板", "en": "Summer 2003, 2channel occult board" }
+    },
+    {
+      "label": { "zh": "触发条件", "en": "Trigger" },
+      "value": { "zh": "看清它的形状或弄明白它是什么", "en": "Making out its shape or understanding what it is" }
+    },
+    {
+      "label": { "zh": "对策", "en": "Countermeasure" },
+      "value": { "zh": "不看、不想、转头离开", "en": "Do not look, do not wonder, walk away" }
+    }
+  ],
+  "related": ["hasshaku-sama", "kisaragi-station"],
+  "sources": [
+    { "zh": "2ch灵异板帖文（2003年）", "en": "2channel occult-board threads (2003)" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "image": null
+}

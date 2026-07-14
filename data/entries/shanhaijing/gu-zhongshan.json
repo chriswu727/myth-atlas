@@ -1,0 +1,95 @@
+{
+  "id": "gu-zhongshan",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "鼓",
+    "en": "Gu"
+  },
+  "title": {
+    "zh": "被诛于瑶崖的钟山之子",
+    "en": "Son of Mount Zhong, Executed at Yao Cliff"
+  },
+  "summary": {
+    "zh": "钟山之子，人面龙身；因与钦䲹合谋杀死天神葆江，被天帝诛于钟山之东，死后化为预示大旱的鵕鸟。",
+    "en": "The dragon-bodied, human-faced son of Mount Zhong who murdered the god Baojiang, was executed by the High God east of the mountain, and rose again as the drought-bird Jun."
+  },
+  "description": {
+    "zh": "《西次三经》记钟山“其子曰鼓，其状如人面而龙身”。钟山之子鼓，人面龙身，与神钦䲹合谋，在昆仑山的南坡杀死了天神葆江（一作祖江）。天帝震怒，把两名凶手诛戮于钟山之东一处叫瑶崖的地方。\n\n被诛的神并没有就此消失，而是各自化作了鸟。钦䲹化为大鹗，“其状如雕而黑文白首，赤喙而虎爪”，声如晨鹄，它一出现天下就有大战；鼓化为鵕鸟，“其状如鸱，赤足而直喙，黄文而白首”，声音如鹄，它落在哪座城邑，哪里就要大旱。生前行凶，死后成灾，杀戮以旱兵之祸的形式延续下去。\n\n这是《山海经》中情节最完整的神话片段之一，谋杀、天罚、变形三幕俱全。神话学者常把它与刑天断首犹操干戚而舞、鲧死三岁不腐的传说并观：被天帝诛戮的神，总以另一种形态拒绝消亡。",
+    "en": "The 'Classic of the Western Mountains' says of Mount Zhong: 'its son is called Gu, human-faced and dragon-bodied.' This Gu conspired with the god Qinpi to murder the deity Baojiang (Zujiang in some recensions) on the southern slopes of Kunlun. The High God, enraged, had both killers executed east of Mount Zhong, at a place called Yao Cliff.\n\nExecution did not end them; each rose again as a bird. Qinpi became a great osprey 'like an eagle, black-marked and white-headed, red-beaked and tiger-clawed', whose cry is like a morning swan and whose appearance brings great war. Gu became the Jun bird, 'like a kite, red-footed and straight-beaked, yellow-marked and white-headed', its voice like a swan; whatever town it alights on will suffer great drought. Murderers in life, they persist as calamities — war and drought — after death.\n\nThis is one of the most complete narrative episodes in the entire Shanhaijing, with murder, divine punishment, and metamorphosis in three acts. Mythographers habitually read it beside Xingtian, who danced with axe and shield after losing his head, and Gun, whose corpse lay three years without rotting: the gods slain by the High God refuse, in one form or another, to be annihilated."
+  },
+  "domains": {
+    "zh": [
+      "诛神",
+      "化鸟",
+      "旱兆",
+      "钟山"
+    ],
+    "en": [
+      "Divine Execution",
+      "Bird Transformation",
+      "Drought Omen",
+      "Mount Zhong"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人面而龙身",
+        "en": "Human face, dragon body"
+      }
+    },
+    {
+      "label": {
+        "zh": "罪状",
+        "en": "Crime"
+      },
+      "value": {
+        "zh": "与钦䲹杀葆江于昆仑之阳",
+        "en": "Murdered Baojiang with Qinpi, south of Kunlun"
+      }
+    },
+    {
+      "label": {
+        "zh": "死后",
+        "en": "Afterlife"
+      },
+      "value": {
+        "zh": "化为鵕鸟，见则其邑大旱",
+        "en": "Became the Jun bird, whose coming brings drought"
+      }
+    }
+  ],
+  "related": [
+    "xing-tian",
+    "fei-yi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "袁珂《山海经校注》",
+      "en": "Yuan Ke, Shanhaijing Jiaozhu (critical edition with commentary)"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/gu-zhongshan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic13_-_%E9%BC%93%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic13 - 鼓神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 683,
+    "height": 1000
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "mu",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "姆大陆",
+    "en": "Mu"
+  },
+  "title": {
+    "zh": "误译中诞生的太平洋失落大陆",
+    "en": "The lost Pacific continent born of a mistranslation"
+  },
+  "summary": {
+    "zh": "十九世纪学者误译玛雅抄本造出的\"沉没之地\"，经詹姆斯·丘奇沃德1926年的著作被搬进太平洋，成为神秘学中的失落大陆。",
+    "en": "A \"sunken land\" conjured from a nineteenth-century mistranslation of a Maya codex, relocated to the Pacific by James Churchward in 1926 and adopted by esoteric lore."
+  },
+  "description": {
+    "zh": "姆大陆是一场十九世纪学术误译的产物，任何古代神话里都找不到它。1869至1870年，法国神甫布拉瑟·德·布尔堡刊布《特罗阿诺抄本》（今马德里抄本的一部分）的释读，凭借兰达主教那套本身就靠不住的\"玛雅字母表\"，从中\"读出\"一片毁于灾变的沉没之地，并将两个无法辨识的字符拼为其名\"Mu\"。摄影师奥古斯特·勒普隆冈随后宣称姆大陆的\"莫皇后\"逃亡埃及创建了尼罗河文明——他把这片大陆放在大西洋，与亚特兰蒂斯几乎重合。\n\n1926年，英裔美国人詹姆斯·丘奇沃德出版《消失的姆大陆》，把故事彻底改写：他自称年轻时在印度一座寺庙里由高僧传授了解读\"那迦尔石板\"的秘法，得知太平洋中央曾横亘一块东西约八千公里的大陆，居民六千四百万，一万两千年前在火山与地陷中一夜沉没，复活节岛石像与波利尼西亚诸岛皆是残骸。那批石板从未有第二人见过。\n\n二十世纪中叶以后，玛雅文字的科学破译证明布尔堡的释读全属虚构，板块构造学也表明太平洋洋壳之下不可能藏有沉没的大陆壳。姆大陆遂彻底退入亚文化：日本与那国岛海底岩台常被附会为其遗迹，它也频繁出现在动漫、特摄与奇幻游戏之中。",
+    "en": "Mu is the product of a nineteenth-century scholarly blunder; no ancient myth mentions it. In 1869-70 the French abbé Brasseur de Bourbourg published a reading of the Troano Codex (part of the Madrid Codex) based on Bishop Diego de Landa's unreliable \"Maya alphabet\", claimed to find in it the record of a land destroyed by catastrophe, and assembled two undecipherable glyphs into its name, Mu. The photographer Augustus Le Plongeon then announced that Queen Móo of Mu had fled to Egypt and founded Nile civilization, placing the continent in the Atlantic, nearly on top of Atlantis.\n\nIn 1926 the Anglo-American writer James Churchward published The Lost Continent of Mu and rewrote the story wholesale. He claimed that as a young man in India a temple priest had taught him to read the \"Naacal tablets\", which revealed a continent some eight thousand kilometres wide spanning the central Pacific, home to sixty-four million people, swallowed overnight by volcanoes and collapsing land twelve thousand years ago; Easter Island's statues and the islands of Polynesia were its remnants. No one else ever saw the tablets.\n\nThe modern decipherment of Maya script proved Brasseur's reading pure invention, and plate tectonics rules out any sunken continental crust beneath the Pacific. Mu survives instead in subculture: the submerged rock terraces off Japan's Yonaguni Island are often claimed as its ruins, and it recurs in anime, tokusatsu, and fantasy games."
+  },
+  "domains": {
+    "zh": [
+      "沉没大陆",
+      "太平洋",
+      "伪考古",
+      "神秘学"
+    ],
+    "en": [
+      "Sunken continent",
+      "Pacific",
+      "Pseudoarchaeology",
+      "Esoterica"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名称来源",
+        "en": "Origin of the name"
+      },
+      "value": {
+        "zh": "1869至1870年布尔堡误译《特罗阿诺抄本》",
+        "en": "Brasseur de Bourbourg's 1869-70 misreading of the Troano Codex"
+      }
+    },
+    {
+      "label": {
+        "zh": "定型著作",
+        "en": "Defining work"
+      },
+      "value": {
+        "zh": "丘奇沃德《消失的姆大陆》（1926）",
+        "en": "James Churchward, The Lost Continent of Mu (1926)"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说方位",
+        "en": "Legendary location"
+      },
+      "value": {
+        "zh": "太平洋中央，夏威夷至斐济、复活节岛之间",
+        "en": "Central Pacific, between Hawaii, Fiji, and Easter Island"
+      }
+    }
+  ],
+  "related": [
+    "lemuria",
+    "atlantis"
+  ],
+  "sources": [
+    {
+      "zh": "布拉瑟·德·布尔堡《特罗阿诺抄本》释读（1869–1870）",
+      "en": "Brasseur de Bourbourg, Manuscrit Troano (1869-70)"
+    },
+    {
+      "zh": "詹姆斯·丘奇沃德《消失的姆大陆》（1926）",
+      "en": "James Churchward, The Lost Continent of Mu (1926)"
+    }
+  ],
+  "geo": {
+    "lat": -5,
+    "lon": -160,
+    "label": {
+      "zh": "太平洋中部（丘奇沃德所指方位）",
+      "en": "Central Pacific, per Churchward"
+    }
+  },
+  "image": {
+    "file": "/images/entries/mu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden-age-mu-map.jpg",
+    "sourceTitle": "Golden-age-mu-map",
+    "artist": "James Churchward (see image signature)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 787
+  }
+}

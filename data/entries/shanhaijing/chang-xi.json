@@ -1,0 +1,100 @@
+{
+  "id": "chang-xi",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "常羲",
+    "en": "Changxi"
+  },
+  "title": {
+    "zh": "生十二月、为月沐浴的月母",
+    "en": "Mother of the Twelve Moons"
+  },
+  "summary": {
+    "zh": "帝俊之妻，在大荒之西生下十二个月亮并为它们沐浴，是一年十二个月的人格化；学者多以为她是嫦娥的前身。",
+    "en": "A wife of Di Jun who bore twelve moons in the western wilderness and bathed them — the twelve months personified. Scholars widely take her as the prototype of the moon goddess Chang'e."
+  },
+  "description": {
+    "zh": "大荒西经的记载只有一句：「有女子方浴月。帝俊妻常羲，生月十有二，此始浴之。」在大荒的西部，一位女子正在给月亮洗浴——她是帝俊之妻常羲，生了十二个月亮，这是头一回为它们沐浴。与大荒南经里羲和浴日的场景恰成一对：东南方的妻子生十个太阳，西方的妻子生十二个月亮，日月各有其母，各在天地一隅被洗净后升空。\n\n十二个月亮对应一年十二个月，常羲即历法中「月」的人格化。传世文献里她以「常仪」「尚仪」的写法出现：《吕氏春秋·勿躬》历数上古发明者，有「尚仪作占月」一条，把观测月亮定朔望的发明归在她名下，与《尧典》里羲和化为历官的路径如出一辙。\n\n清代学者毕沅注《吕氏春秋》时指出：尚仪就是常仪，「仪」「娥」古音相通，后世的「嫦娥」正由此讹变而来。照这个被广泛接受的推断，《淮南子·览冥训》里偷吃不死之药、飞奔入月的姮娥，其源头就是这位在大荒之西为十二个月亮洗浴的母亲——月亮的母亲，最终变成了月亮里的人。",
+    "en": "The Classic of the Great Wilderness: West gives her a single line: a woman is bathing a moon; she is Changxi, wife of Di Jun, who bore twelve moons and is bathing them for the first time. The scene mirrors Xihe bathing the suns in the southern wilderness — one wife in the southeast bore ten suns, one in the west bore twelve moons, each luminary with its own mother washing it clean before it climbs the sky.\n\nTwelve moons answer to the twelve months of the year: Changxi is the calendar's 'month' personified. In transmitted texts she appears under the spellings Changyi or Shangyi. The Lüshi Chunqiu's catalogue of primordial inventors credits 'Shangyi' with devising lunar observation, the same historicizing move that turned Xihe into a college of calendar officials.\n\nThe Qing scholar Bi Yuan, annotating the Lüshi Chunqiu, noted that Shangyi is Changyi and that the graphs 'yi' and 'e' were interchangeable in ancient pronunciation — from which the later name Chang'e derives. On this widely accepted reading, the goddess who steals the elixir of immortality and flees to the moon in the Huainanzi began here: the mother of the moons became, over centuries of retelling, the woman in the moon."
+  },
+  "domains": {
+    "zh": [
+      "月亮",
+      "母神",
+      "历法",
+      "大荒之西"
+    ],
+    "en": [
+      "Moon",
+      "Mother Goddess",
+      "Calendar",
+      "Western Wilderness"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "身份",
+        "en": "Identity"
+      },
+      "value": {
+        "zh": "帝俊之妻，十二月之母",
+        "en": "Wife of Di Jun, mother of the twelve moons"
+      }
+    },
+    {
+      "label": {
+        "zh": "定格场景",
+        "en": "Signature scene"
+      },
+      "value": {
+        "zh": "方浴月——正为月亮沐浴",
+        "en": "Bathing a moon in the western wilderness"
+      }
+    },
+    {
+      "label": {
+        "zh": "流变",
+        "en": "Afterlife"
+      },
+      "value": {
+        "zh": "常仪、尚仪，学者以为嫦娥之原型",
+        "en": "Written Changyi/Shangyi; taken as the prototype of Chang'e"
+      }
+    }
+  ],
+  "related": [
+    "di-jun",
+    "xi-he",
+    "chang-e"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒西经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: West'"
+    },
+    {
+      "zh": "《吕氏春秋·勿躬》",
+      "en": "Lüshi Chunqiu, 'Wu Gong' chapter"
+    },
+    {
+      "zh": "《淮南子·览冥训》（嫦娥奔月）",
+      "en": "Huainanzi, 'Lan Ming' chapter (Chang'e's flight to the moon)"
+    }
+  ],
+  "volume": {
+    "zh": "大荒西经",
+    "en": "Classic of the Great Wilderness: West"
+  },
+  "image": {
+    "file": "/images/entries/chang-xi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changxi(deity).jpg",
+    "sourceTitle": "Changxi(deity)",
+    "artist": "Tao Kai",
+    "license": "Public domain",
+    "width": 931,
+    "height": 1000
+  }
+}

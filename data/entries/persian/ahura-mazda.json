@@ -1,0 +1,111 @@
+{
+  "id": "ahura-mazda",
+  "tradition": "persian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "阿胡拉·马兹达",
+    "en": "Ahura Mazda",
+    "original": "Ahura Mazdā",
+    "originalLang": "阿维斯陀语"
+  },
+  "title": {
+    "zh": "智慧之主，光明与真理的创造者",
+    "en": "The Wise Lord, Creator of Light and Truth"
+  },
+  "summary": {
+    "zh": "琐罗亚斯德教的至高神，名意为\"智慧之主\"。他创造天地与秩序（阿沙），与破坏之灵安格拉·曼纽进行贯穿宇宙史的对抗。",
+    "en": "Supreme god of Zoroastrianism, the \"Wise Lord\" who created the world and the order of asha, locked in a cosmic struggle with the destructive spirit Angra Mainyu."
+  },
+  "description": {
+    "zh": "阿胡拉·马兹达是琐罗亚斯德教的至高神，名字在阿维斯陀语中意为\"智慧之主\"。在归于先知琐罗亚斯德本人的《伽萨》颂诗中，他是唯一值得崇拜的神：他以思想创造世界，立下\"阿沙\"（真理与秩序）作为宇宙的法则，太阳的运行、四季的更替、诚实的言语都是阿沙的体现。《亚斯纳》第30章说，太初有两个孪生的灵在抉择中分道：一个选择了真理，一个选择了谎言——后者即破坏之灵安格拉·曼纽，自此善恶两军对垒，直到时间的尽头。\n\n中古波斯语文献《创世纪》（《本达希申》）详述了这场对抗的布局：阿胡拉·马兹达先创造无形的灵界，再造出天空、水、大地、植物、原牛与原人伽约马德，一切明亮完好；安格拉·曼纽从黑暗中扑来污染万物，世界史由此成为一场为期有限的战争，终局\"弗拉肖克勒提\"（更新之时）善将彻底获胜。阿契美尼德王朝的君主奉他为王权之源，大流士一世在贝希斯敦崖壁铭文中反复宣告自己凭阿胡拉·马兹达之佑得国、平定叛乱；其纳克什-鲁斯塔姆陵墓铭文则以这样的句子开篇：\"伟大的神是阿胡拉·马兹达，他创造了大地，创造了天空，创造了人，又使大流士为王。\"波斯波利斯与各地浮雕上展翼的法拉瓦哈符号，长期被与他或人的守护灵联系在一起。",
+    "en": "Ahura Mazda, the \"Wise Lord\" in Avestan, is the supreme god of Zoroastrianism. In the Gathas, the hymns attributed to the prophet Zarathustra himself, he alone is worthy of worship: he created the world through thought and established asha, the order of truth, by which the sun runs its course, the seasons turn, and honest speech holds. Yasna 30 tells of two primal twin spirits who parted ways at the moment of choice, one choosing truth and the other the lie; the latter is Angra Mainyu, the destructive spirit, and from that choice the war of good and evil runs to the end of time.\n\nThe Middle Persian Bundahishn lays out the campaign: Ahura Mazda first created the invisible spiritual world, then sky, water, earth, plants, the primordial bull, and Gayomard the first man, all luminous and whole, before Angra Mainyu burst in from the darkness to corrupt them, turning history into a bounded war that ends with the renovation of the world, when good triumphs completely. The Achaemenid kings claimed him as the source of their rule; in the Behistun inscription Darius I ascribes his throne and every victory to the favor of Ahura Mazda, and his tomb inscription at Naqsh-e Rustam opens by naming the great god who created this earth, yonder sky, and man, and who made Darius king. The winged Faravahar emblem carved at Persepolis and elsewhere has long been associated with him or with the guardian spirit of man."
+  },
+  "domains": {
+    "zh": [
+      "创造",
+      "智慧",
+      "真理秩序",
+      "光明",
+      "王权"
+    ],
+    "en": [
+      "Creation",
+      "Wisdom",
+      "Truth and order",
+      "Light",
+      "Kingship"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "教义核心",
+        "en": "Central doctrine"
+      },
+      "value": {
+        "zh": "阿沙（真理与秩序）对抗谎言（德鲁杰）",
+        "en": "Asha (truth and order) against the Lie (druj)"
+      }
+    },
+    {
+      "label": {
+        "zh": "对手",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "安格拉·曼纽（阿里曼）",
+        "en": "Angra Mainyu (Ahriman)"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest attestation"
+      },
+      "value": {
+        "zh": "《阿维斯陀·伽萨》，约公元前1000年",
+        "en": "Gathas of the Avesta, c. 1000 BCE"
+      }
+    },
+    {
+      "label": {
+        "zh": "中古波斯语名",
+        "en": "Middle Persian name"
+      },
+      "value": {
+        "zh": "奥赫尔马兹德（Ohrmazd）",
+        "en": "Ohrmazd"
+      }
+    }
+  ],
+  "related": [
+    "angra-mainyu",
+    "mithra",
+    "anahita",
+    "chinvat-bridge"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·伽萨》（《亚斯纳》第28-34、43-51、53章）",
+      "en": "Gathas of the Avesta (Yasna 28-34, 43-51, 53)"
+    },
+    {
+      "zh": "大流士一世贝希斯敦铭文",
+      "en": "Behistun Inscription of Darius I"
+    },
+    {
+      "zh": "《本达希申》（中古波斯语《创世纪》）",
+      "en": "Bundahishn (Middle Persian Book of Primal Creation)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ahura-mazda.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahuramazda_in_the_winged_disk,_from_the_Hall_of_100_Columns,_Persepolis,_Achaemenid_Persia,_486-460_BC,_limestone,_traces_of_paint_-_Sackler_Museum_-_Harvard_University_-_DSC01735.jpg",
+    "sourceTitle": "Ahuramazda in the winged disk, from the Hall of 100 Columns, Persepolis, Achaemenid Persia, 486-460 BC, limestone, traces of paint - Sackler Museum - Harvard University - DSC01735",
+    "artist": "Daderot",
+    "license": "Public domain",
+    "width": 707,
+    "height": 1000
+  }
+}

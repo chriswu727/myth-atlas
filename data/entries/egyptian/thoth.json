@@ -1,0 +1,108 @@
+{
+  "id": "thoth",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "托特",
+    "en": "Thoth",
+    "original": "ḏḥwtj",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "智慧、文字与月亮之神",
+    "en": "God of Wisdom, Writing and the Moon"
+  },
+  "summary": {
+    "zh": "朱鹭首的书写与智慧之神，众神的书记官。他发明文字、掌管历法，在冥界审判中记录称量结果，希腊人将他等同于赫尔墨斯。",
+    "en": "The ibis-headed god of writing and wisdom, scribe of the gods, inventor of script and keeper of the calendar, who records the verdict at the judgment of the dead; the Greeks equated him with Hermes."
+  },
+  "description": {
+    "zh": "托特通常是朱鹭首人身的男子，手执书记的调色板与芦苇笔，头顶新月托满月的月冠；他的另一个化身是狒狒。埃及人尊他为文字与一切知识的发明者，书记这个撑起埃及官僚制的职业奉他为祖师。作为月神，他掌管历法与时间的计算；作为'神言之主'，他是众神的书记官与仲裁者，在诸神争端中屡任调停。\n\n他在几场核心神话中都扮演关键配角。普鲁塔克记载，天空女神努特被拉诅咒不得在一年中任何一天生产，托特与月亮博弈赢得月光，凑出年历之外的五个闰日，努特才得以生下奥西里斯、伊西斯、塞特与奈芙蒂斯等神。荷鲁斯与塞特争斗中被挖去的眼睛也由托特补全复原为'完整之眼'。在《亡灵书》第125章的审判场景里，他立于天平旁，手持纸草卷逐一记下称量结果，向奥西里斯宣读裁决。\n\n他的崇拜中心在中埃及的赫尔莫波利斯（埃及语'赫姆努'，意为'八城'），附近图纳山崖的地下墓道中埋藏着数百万具朱鹭木乃伊。希腊人把他等同于赫尔墨斯，托勒密时代融合出'三重伟大的赫尔墨斯'，署名于晚期古代的赫尔墨斯主义文献，使这位埃及书记神成为欧洲神秘学传统追认的始祖。",
+    "en": "Thoth is usually an ibis-headed man holding the scribe's palette and reed pen, crowned with a lunar disk resting in a crescent; his other animal form is the baboon. Egyptians credited him with inventing writing and every branch of learning, and the scribes who ran the Egyptian state claimed him as patron. As a moon god he governed the calendar and the reckoning of time; as 'Lord of Divine Words' he served as secretary and arbiter of the gods.\n\nHe plays the decisive supporting role in several central myths. Plutarch relates that when Ra forbade the sky goddess Nut to give birth on any day of the year, Thoth won a portion of moonlight in a game and fashioned five extra days outside the calendar, on which Nut bore her children, Osiris, Isis, Set, and Nephthys among them. It was Thoth who healed the eye of Horus torn out by Set, restoring it as the wedjat, the whole eye. In the judgment scene of Book of the Dead spell 125 he stands beside the balance with his papyrus roll, records the result of the weighing, and announces the verdict to Osiris.\n\nHis cult center was Hermopolis in Middle Egypt, Egyptian Khemenu, 'Eight-Town'; the catacombs at nearby Tuna el-Gebel hold millions of mummified ibises. The Greeks identified him with Hermes, and in the Ptolemaic fusion he became Hermes Trismegistus, the named author of the Hermetic writings of late antiquity."
+  },
+  "domains": {
+    "zh": [
+      "文字",
+      "智慧",
+      "月亮",
+      "历法"
+    ],
+    "en": [
+      "Writing",
+      "Wisdom",
+      "Moon",
+      "Calendar"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "朱鹭首人身或狒狒",
+        "en": "Ibis-headed man or baboon"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Attribute"
+      },
+      "value": {
+        "zh": "书记调色板与芦苇笔",
+        "en": "Scribal palette and reed pen"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred site"
+      },
+      "value": {
+        "zh": "赫尔莫波利斯",
+        "en": "Hermopolis"
+      }
+    }
+  ],
+  "related": [
+    "horus",
+    "isis",
+    "maat",
+    "weighing-of-the-heart",
+    "book-of-the-dead"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《亡灵书》第125章",
+      "en": "Book of the Dead, spell 125"
+    },
+    {
+      "zh": "普鲁塔克《论伊西斯与奥西里斯》",
+      "en": "Plutarch, De Iside et Osiride"
+    }
+  ],
+  "geo": {
+    "lat": 27.78,
+    "lon": 30.8,
+    "label": {
+      "zh": "赫尔莫波利斯",
+      "en": "Hermopolis"
+    }
+  },
+  "image": {
+    "file": "/images/entries/thoth.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Ibis_Headed_God_-_Walters_571423.jpg",
+    "sourceTitle": "Standing Ibis Headed God",
+    "artist": "Anonymous (Egypt)Unknown author",
+    "license": "Public domain",
+    "width": 735,
+    "height": 1000
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "morrigan",
+  "tradition": "celtic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "摩莉甘",
+    "en": "The Morrigan",
+    "original": "Mórrígan",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "战争与命运的大女王",
+    "en": "Great queen of war and fate"
+  },
+  "summary": {
+    "zh": "爱尔兰的战争女神，名号可解作“大女王”或“幽灵女王”。化身乌鸦盘旋于战场，预言胜败与死亡，常与巴德布、玛查并称三相。",
+    "en": "The Irish goddess of war and fate, her name read as 'great queen' or 'phantom queen'. She circles battlefields as a crow, prophesies slaughter, and appears as a triad with Badb and Macha."
+  },
+  "description": {
+    "zh": "摩莉甘是爱尔兰神话中的战争女神，名号“Mórrígan”通常解作“大女王”，另一种词源读作“幽灵女王”。她很少直接持兵刃作战，而是以预言、蛊惑与恐惧左右战局：化作灰黑两色的冠小嘴乌鸦落在阵前，高声宣告谁将横尸；或化作在浅滩上洗涤血衣的老妇，被她洗到衣甲的人必死无疑。文献中她常与巴德布（Badb，“食腐乌鸦”）、玛查（Macha）并列，合称“三摩莉甘”（Morrígna）。\n\n在《夺牛记》（Táin Bó Cúailnge）里，她以贵族少女的形象向库丘林求爱，遭拒后先后化作鳗鱼缠他的脚、母狼惊他的牛群、无角红牛冲撞他，三次都被打伤；随后又扮作挤奶老妪，骗库丘林祝福三次，治好了自己的伤。库丘林战死时，正是一只乌鸦落上他的肩头，围攻者才敢上前——传统认为那就是摩莉甘。在《莫伊图拉之战》中，她于萨温节与达格达在河上相会，许诺神族胜利，战后又吟出一首预言诗，从太平盛世一直说到世界失序的末日。\n\n近代凯尔特复兴运动与奇幻创作把她重塑为“三相女神”的原型之一，亚瑟王传说中的摩根勒菲（Morgan le Fay）是否与她同源，学界至今没有定论。",
+    "en": "The Morrigan is the great war goddess of Irish tradition. Her name is usually read as 'great queen', though an older etymology gives 'phantom queen'. She rarely fights with weapons; her instruments are prophecy, shape-shifting and dread. She settles over armies as a hooded crow announcing who will fall, or appears as a hag washing bloody gear at a ford, and those whose armour she washes are doomed. Texts often set her in a triad, the Morrigna, alongside Badb the scald-crow and Macha.\n\nIn the Tain Bo Cuailnge she comes to Cu Chulainn as a young noblewoman offering love. Refused, she attacks him during his ford-combats as an eel about his legs, a she-wolf stampeding cattle, and a hornless red heifer, and is wounded in each shape; she then tricks a triple blessing out of him in the guise of an old milking woman, which heals her. When Cu Chulainn finally died bound to a standing stone, his enemies dared approach only after a crow settled on his shoulder, understood to be the Morrigan. In Cath Maige Tuired she meets the Dagda at a river at Samhain, pledges her aid, and closes the battle with a double prophecy, first of peace and plenty, then of a world sliding into ruin.\n\nModern Celtic revival and fantasy writing have remade her as a template of the triple goddess. Whether Morgan le Fay of Arthurian romance descends from her remains an open scholarly question."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "预言",
+      "变形",
+      "死亡"
+    ],
+    "en": [
+      "War",
+      "Prophecy",
+      "Shape-shifting",
+      "Death"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "化身",
+        "en": "Forms"
+      },
+      "value": {
+        "zh": "乌鸦、鳗鱼、母狼、红牛、洗衣老妇",
+        "en": "Crow, eel, she-wolf, red heifer, washer at the ford"
+      }
+    },
+    {
+      "label": {
+        "zh": "三相",
+        "en": "Triad"
+      },
+      "value": {
+        "zh": "与巴德布、玛查并称 Morrígna",
+        "en": "With Badb and Macha as the Morrigna"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "拉斯克罗根的“猫之洞”Oweynagat",
+        "en": "Oweynagat cave at Rathcroghan"
+      }
+    }
+  ],
+  "related": [
+    "dagda",
+    "cu-chulainn",
+    "tain-bo-cuailnge"
+  ],
+  "sources": [
+    {
+      "zh": "《夺牛记》（Táin Bó Cúailnge，见于12世纪《褐牛之书》）",
+      "en": "Tain Bo Cuailnge, in Lebor na hUidre (the Book of the Dun Cow), 12th century"
+    },
+    {
+      "zh": "《莫伊图拉之战》（Cath Maige Tuired）",
+      "en": "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+    }
+  ],
+  "geo": {
+    "lat": 53.8,
+    "lon": -8.305,
+    "label": {
+      "zh": "拉斯克罗根“猫之洞”（罗斯康芒郡）",
+      "en": "Oweynagat, Rathcroghan, Co. Roscommon"
+    }
+  },
+  "image": {
+    "file": "/images/entries/morrigan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morrigan.jpg",
+    "sourceTitle": "Morrigan",
+    "artist": "Artist Joseph Christian Leyendecker (1874 - 1951). Cropped and colours adjusted by CorbieVreccan 2 July 2016. Original at https://commons.wikimedia.org/wiki/File:Cuinbattle.jpg Date 1911 Inscriptions Signature bottom left: JCLeyendecker. Source/Photographer 1. T. W. Rolleston, Myths and Legends of the Celtic Race 2. Unknown 3. conceptart.org",
+    "license": "Public domain",
+    "width": 771,
+    "height": 1000
+  }
+}

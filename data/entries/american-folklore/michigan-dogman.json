@@ -1,0 +1,48 @@
+{
+  "id": "michigan-dogman",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "密歇根狗人",
+    "en": "Michigan Dogman"
+  },
+  "title": { "zh": "北密歇根林间的直立犬形怪", "en": "The Upright Canine of the Northern Michigan Woods" },
+  "summary": {
+    "zh": "密歇根州北部森林传说的直立犬头怪：人身狗首，蓝色或琥珀色的眼。1987年电台DJ史蒂夫·库克的愚人节歌曲《The Legend》意外引来大量「真实」目击来电。",
+    "en": "A dog-headed biped of northern Michigan's forests with blue or amber eyes. Radio DJ Steve Cook's 1987 April Fools' song \"The Legend\" unexpectedly drew waves of callers reporting real encounters."
+  },
+  "description": {
+    "zh": "密歇根狗人被描述为一种约两米高的直立怪物：人的躯干配上犬狼的头颅，眼睛发蓝光或琥珀色光，嚎叫声像人的尖叫。它的地盘是密歇根州下半岛西北部的森林与农场，以韦克斯福德县为中心。传说的「编年史」把第一次目击放在1887年：两名伐木工在林中遇到一只有着人身的犬首生物。另一桩常被引用的旧案发生在1938年的帕里斯附近，罗伯特·福特尼被一群野狗围攻，他坚称其中一只用后腿站立起来与他对视。\n\n狗人真正的成名方式在美国怪谈里独一无二：1987年愚人节，特拉弗斯城WTCM电台的DJ史蒂夫·库克播出自己录制的民谣《The Legend》，以每逢尾数是7的年份狗人便会现身为主线，本意是节日玩笑。歌曲播出后，电台电话被打爆，来电的听众一个接一个报告自己多年憋在心里的目击经历。库克此后收集了数百封目击来信，歌曲义卖为动物收容所筹款，狗人从广播玩笑长成了密歇根的头号怪物。\n\n2007年，一段号称拍摄于1970年代的8毫米胶片「盖布尔影片」（Gable Film）在网上流传，画面结尾一只低伏的兽形猛扑镜头，被吹捧为狗人铁证；2010年，纪录片节目《MonsterQuest》查明影片系当代伪造，拍摄者亲自现身说法。作家琳达·戈弗雷把密歇根狗人与威斯康星州的「布雷路野兽」并置研究，认为五大湖区存在一个完整的直立犬形怪目击传统。",
+    "en": "The Michigan Dogman is described as a biped roughly two meters tall: a man's frame under a canine head, eyes shining blue or amber, with a howl that ends like a human scream. Its range is the forest and farm country of the northwestern Lower Peninsula, centered on Wexford County. Legend chronology places the first sighting in 1887, when two lumberjacks met a dog-headed creature with a man's body. Another oft-cited early case is Robert Fortney's 1938 encounter near Paris, Michigan: attacked by feral dogs, he insisted one rose onto its hind legs to stare at him.\n\nNo other American monster became famous the way the Dogman did. On April Fools' Day 1987, Steve Cook, a DJ at radio station WTCM in Traverse City, aired \"The Legend,\" a ballad he had recorded as a holiday prank, built on the conceit that the Dogman appears in years ending in seven. The station's phones lit up with listeners reporting encounters they had kept quiet for years. Cook went on to collect hundreds of letters, the song raised money for animal shelters, and the radio gag grew into Michigan's premier monster.\n\nIn 2007 the \"Gable Film,\" an 8mm reel purportedly from the 1970s ending with a low-slung shape charging the camera, circulated online as prime evidence; in 2010 the series MonsterQuest exposed it as a modern fabrication, with its maker stepping forward. Author Linda S. Godfrey studied the Dogman alongside Wisconsin's Beast of Bray Road, arguing the Great Lakes region holds a coherent tradition of upright-canine sightings."
+  },
+  "domains": {
+    "zh": ["直立犬形怪", "广播怪谈", "五大湖区", "七年周期"],
+    "en": ["Upright canine", "Radio-born legend", "Great Lakes region", "Seven-year cycle"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "传说首见", "en": "First reported" },
+      "value": { "zh": "1887年，韦克斯福德县伐木工", "en": "Lumberjacks in Wexford County, 1887" }
+    },
+    {
+      "label": { "zh": "成名之作", "en": "Breakout" },
+      "value": { "zh": "史蒂夫·库克《The Legend》（WTCM电台，1987）", "en": "Steve Cook's \"The Legend\" (WTCM radio, 1987)" }
+    },
+    {
+      "label": { "zh": "著名伪证", "en": "Famous hoax" },
+      "value": { "zh": "「盖布尔影片」（2007，2010年被证伪）", "en": "The Gable Film (2007, exposed 2010)" }
+    }
+  ],
+  "related": ["bigfoot", "goatman"],
+  "sources": [
+    { "zh": "史蒂夫·库克《The Legend》及其目击来信档案（1987年起）", "en": "Steve Cook's \"The Legend\" and his sighting-letter archive (from 1987)" },
+    { "zh": "琳达·戈弗雷《密歇根狗人》（2010）", "en": "Linda S. Godfrey, The Michigan Dogman (2010)" }
+  ],
+  "geo": {
+    "lat": 44.33,
+    "lon": -85.58,
+    "label": { "zh": "密歇根州韦克斯福德县", "en": "Wexford County, Michigan" }
+  },
+  "image": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "baba-yaga",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "芭芭雅嘎",
+    "en": "Baba Yaga",
+    "original": "Баба-яга",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "鸡脚小屋里的林中女巫",
+    "en": "Witch of the Hut on Hen's Legs"
+  },
+  "summary": {
+    "zh": "住在会转动的鸡脚小屋里的\"骨头腿\"老巫婆，坐石臼、执杵、以扫帚扫去行迹，在故事里时而吃人，时而赠宝指路。",
+    "en": "The bony-legged crone of the spinning hut on hen's legs, who rides a mortar with a pestle; in the tales she devours heroes or, just as often, tests and rewards them."
+  },
+  "description": {
+    "zh": "芭芭雅嘎是东斯拉夫魔法故事里最著名的老巫婆。她瘦骨嶙峋，故事里的固定形容是\"骨头腿\"；住在密林深处一座会转动的鸡脚小屋里，要念\"小屋小屋，背朝森林，面朝我站\"它才肯转过门来。院子的篱笆以人骨搭成，桩顶插着骷髅，眼窝在夜里发光。她出行时坐在石臼里，以杵撑地滑行，再用扫帚扫去身后的痕迹。\n\n在阿法纳西耶夫19世纪中叶辑录的故事里，她时而是吃人的妖婆，时而是考验者与赠予者。《美丽的瓦西丽萨》中，少女被继母打发去向她借火，靠亡母留下的木偶做完了拣净麦粒等苦役，带回一盏骷髅灯，灯里的目光烧死了继母一家。在另一些故事里，她给远行的主人公指路，赠出神马或引路的线团。民俗学家普罗普在《神奇故事的历史根源》中把她的小屋解读为生死两界之间的关口，把这类情节同成年礼的结构相对照。\n\n她至今仍是俄语文化里最活跃的民间形象之一：穆索尔斯基《图画展览会》里有一段《鸡脚上的小屋》，比利宾为相关故事画过著名插图，苏联及后苏联的童话电影里她是常客，名字也进入日常口语，用来形容凶悍的老妇。",
+    "en": "Baba Yaga is the most famous witch of the East Slavic wonder tale. Skeletally thin, fixed in formula as \"bony leg,\" she lives deep in the forest in a hut that stands and turns on hen's legs; a visitor must recite \"little hut, turn your back to the forest and your front to me\" before the door will face them. Her fence is built of human bones, topped with skulls whose eye sockets glow at night. She travels seated in a mortar, punting with a pestle and sweeping away her tracks with a broom.\n\nIn the tales collected by Alexander Afanasyev in the mid-nineteenth century she is by turns an ogress who eats her guests and a tester who rewards them. In \"Vasilisa the Beautiful\" a girl is sent by her stepmother to borrow fire; with the help of a doll left by her dead mother she performs the witch's impossible chores, sorting grain from chaff, and carries home a skull-lantern whose gaze burns the stepmother's household to ash. In other tales Baba Yaga gives directions, a magic horse, or a ball of thread that rolls ahead to show the way. The folklorist Vladimir Propp, in Historical Roots of the Wonder Tale, read her hut as a checkpoint between the lands of the living and the dead and matched these plots against the structure of initiation rites.\n\nShe remains one of the liveliest folk figures in Russian culture: Mussorgsky gave her a movement in Pictures at an Exhibition, Ivan Bilibin drew celebrated illustrations of her, Soviet fairy-tale films made her a recurring character, and her name survives in everyday speech for a fearsome old woman."
+  },
+  "domains": {
+    "zh": [
+      "森林",
+      "巫术",
+      "考验",
+      "生死边界"
+    ],
+    "en": [
+      "Forest",
+      "Witchcraft",
+      "Trials",
+      "Threshold of death"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "会转动的鸡脚小屋，骨篱骷髅桩",
+        "en": "Turning hut on hen's legs, bone fence with skulls"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Conveyance"
+      },
+      "value": {
+        "zh": "石臼与杵，扫帚扫迹",
+        "en": "Mortar and pestle, broom to sweep her tracks"
+      }
+    },
+    {
+      "label": {
+        "zh": "固定形容",
+        "en": "Fixed epithet"
+      },
+      "value": {
+        "zh": "骨头腿（костяная нога）",
+        "en": "Bony leg (kostyanaya noga)"
+      }
+    }
+  ],
+  "related": [
+    "koschei",
+    "zhar-ptitsa"
+  ],
+  "sources": [
+    {
+      "zh": "阿法纳西耶夫《俄罗斯民间故事集》（1855-1863）",
+      "en": "Alexander Afanasyev, Russian Fairy Tales (Narodnye russkie skazki), 1855-63"
+    },
+    {
+      "zh": "普罗普《神奇故事的历史根源》（1946）",
+      "en": "Vladimir Propp, Historical Roots of the Wonder Tale, 1946"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/baba-yaga.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bilibin._Baba_Yaga.jpg",
+    "sourceTitle": "Bilibin. Baba Yaga",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 780,
+    "height": 1000
+  }
+}

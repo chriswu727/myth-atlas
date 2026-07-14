@@ -1,0 +1,90 @@
+{
+  "id": "rangi-and-papa",
+  "tradition": "polynesian",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "朗吉与帕帕",
+    "en": "Rangi and Papa",
+    "original": "Ranginui rāua ko Papatūānuku",
+    "originalLang": "毛利语"
+  },
+  "title": {
+    "zh": "天父地母的分离",
+    "en": "The Separation of Sky Father and Earth Mother"
+  },
+  "summary": {
+    "zh": "毛利创世叙事：天父朗吉与地母帕帕紧拥不分，众子困于黑暗，塔内将二者蹬开，光进入世间；雨是天父的眼泪，晨雾是地母的叹息。",
+    "en": "The Maori creation narrative: sky father Rangi and earth mother Papa lay locked in embrace until their son Tane forced them apart. Rain is the father's tears; morning mist, the mother's sighs."
+  },
+  "description": {
+    "zh": "毛利创世叙事的开端是漫长的黑夜\"特波\"：天父朗吉努伊与地母帕帕图阿努库紧紧相拥，他们的儿子们被夹在父母之间，蜷缩在无光的窄缝里。诸子密议出路，战争之神图马塔文加主张杀死父母，森林之神塔内主张只将二者分开，让天高悬、让地为母。主粮之神朗戈、海洋之神坦加罗阿、野蔬之神豪米亚、乃至图马塔文加自己轮番上前推撑，天地纹丝不动；最后塔内以背抵母、双脚蹬天，天父地母在哀号中被缓缓撑开，光涌入世间，被压伏在父母之间的人类后裔第一次直起身来。\n\n分离招来了报复。始终反对此事的风暴之神塔威里马泰阿随父亲升上高天，率飓风、暴雨、冰雹扑向兄弟：坦加罗阿逃入海中，朗戈与豪米亚被大地母亲藏进土里，唯有图马塔文加站立不退。他因兄弟们弃他而战，从此捕食他们的子孙——人类由此得以捕鱼、猎鸟、掘食蕨根与薯芋。\n\n分离并未终结父母的悲恸：朗吉的眼泪至今化作落向大地的雨，帕帕向天升起的叹息化作晨雾。这套叙事由罗托鲁阿的学者特朗吉卡赫克以毛利语写下，经乔治·格雷编入1855年《波利尼西亚神话》，是波利尼西亚口传文学中记录最完整的创世篇章之一。",
+    "en": "The Maori creation narrative opens in Te Po, the long night: the sky father Ranginui and the earth mother Papatuanuku lay locked together, and their sons were cramped in the lightless crevice between the parental bodies. The brothers debated a way out. Tumatauenga, god of war, proposed killing the parents; Tane, god of forests, argued for parting them instead, so the sky would stand high above and the earth lie below as a mother. Rongo of the cultivated food, Tangaroa of the sea, Haumia of the wild food, and Tumatauenga himself each strained against the parents and failed, until Tane set his back to the earth and his feet against the sky and slowly forced them apart. Light flooded in, and the offspring who had lain flattened between their parents stood upright for the first time.\n\nThe separation brought retribution. Tawhirimatea, god of storms, who had opposed it throughout, rose with his father and hurled hurricanes, rain and hail at his brothers. Tangaroa fled into the sea; Rongo and Haumia were hidden in the soil by their mother; only Tumatauenga stood unmoved. Because his brothers had abandoned him in the fight, he preys on their descendants ever after, which is why people may fish, snare birds, and dig fern-root and kumara.\n\nThe grief of the parents never ended: Rangi's tears still fall as rain, and the mists that rise at dawn are Papa's sighs toward the sky. The narrative was written down in Maori by Te Rangikaheke of Rotorua and published in George Grey's Polynesian Mythology (1855), one of the most fully recorded creation texts in Polynesian oral literature."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "天与地",
+      "光明",
+      "诸神谱系"
+    ],
+    "en": [
+      "Creation",
+      "Sky and earth",
+      "Light",
+      "Divine genealogy"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "分离者",
+        "en": "Separator"
+      },
+      "value": {
+        "zh": "森林之神塔内",
+        "en": "Tane, god of forests"
+      }
+    },
+    {
+      "label": {
+        "zh": "反对者",
+        "en": "Opponent"
+      },
+      "value": {
+        "zh": "风暴之神塔威里马泰阿",
+        "en": "Tawhirimatea, god of storms"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗响",
+        "en": "Echo"
+      },
+      "value": {
+        "zh": "雨为天父之泪，晨雾为地母之息",
+        "en": "Rain as the father's tears, mist as the mother's sighs"
+      }
+    }
+  ],
+  "related": [
+    "tane",
+    "tangaroa",
+    "maui"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年，据特朗吉卡赫克手稿）",
+      "en": "George Grey, Polynesian Mythology (1855), from the manuscripts of Te Rangikaheke"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/rangi-and-papa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Te_Tohunga_-_p11.png",
+    "sourceTitle": "Te Tohunga - p11",
+    "artist": "Wilhelm Dittmer",
+    "license": "Public domain",
+    "width": 792,
+    "height": 1000
+  }
+}

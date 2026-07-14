@@ -1,0 +1,55 @@
+{
+  "id": "skin-walker",
+  "tradition": "native-american",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "剥皮行者",
+    "en": "Skin-walker",
+    "original": "Yee naaldlooshii",
+    "originalLang": "纳瓦霍语"
+  },
+  "title": { "zh": "纳瓦霍传统中行邪术的变形者", "en": "Malevolent Shapeshifter of Navajo Tradition" },
+  "summary": {
+    "zh": "纳瓦霍传统中背弃正道、修习邪术的人，能披兽皮化为郊狼、狼或鸮夜行害人。属深度禁忌话题，纳瓦霍人传统上避而不谈。",
+    "en": "In Navajo tradition, a practitioner of witchcraft who dons an animal skin to travel by night as coyote, wolf, or owl and do harm. A deeply tabooed subject, traditionally not discussed."
+  },
+  "description": {
+    "zh": "纳瓦霍语称其为\"耶·纳尔德鲁希\"（yee naaldlooshii），意为\"借它四足而行者\"。在纳瓦霍传统中，剥皮行者本身是人：一个为求私利背弃\"美之道\"（Hózhǫ́，和谐正道）、修习邪术（ánt'įįhnii，行邪者）的男人或女人。据信入此道者须犯下杀害至亲之类的重罪作为代价。此后他们能披上郊狼、狼、鸮或熊的毛皮，在夜间以兽形疾行，散布疾病与灾祸；相关讲述中还有窃取死者之物、以\"尸毒\"（corpse poison）害人等细节。\n\n对纳瓦霍人而言，这是巫术信仰中最黑暗的部分，也是严格的言语禁忌：谈论剥皮行者被认为可能招来其注意，向外人讲述尤其不妥。人类学者克莱德·克拉克洪1944年的《纳瓦霍巫术》以田野访谈系统记录了这一信仰体系，也记下了报道人普遍的迟疑与恐惧。理解这一形象离不开它的社会语境：在纳瓦霍观念里，疾病与不幸源于和谐的破坏，而蓄意破坏和谐者，就是巫。\n\n1996年犹他州\"剥皮行者牧场\"的超自然报道与其后的真人秀节目，使 skinwalker 一词在英语流行文化中泛化为荒野怪物。这类再创作剥离了纳瓦霍语境。在纳瓦霍社会中，这一信仰至今是严肃且敏感的话题。",
+    "en": "The Navajo term is yee naaldlooshii, \"by means of it, it goes on all fours.\" In Navajo tradition the skin-walker is a human being: a man or woman who has abandoned Hózhǫ́, the way of beauty and harmony, to practice witchcraft (the ánt'įįhnii) for personal gain. Initiation is said to demand a terrible crime, such as the killing of a close relative. Thereafter the witch can don the pelt of a coyote, wolf, owl, or bear and travel the night in animal form, spreading sickness and misfortune; accounts speak of robbing graves and of harming victims with corpse poison.\n\nFor the Navajo this is the darkest region of witchcraft belief and a strict taboo of speech: talking about skin-walkers is thought to risk drawing their attention, and speaking of them to outsiders is especially improper. The anthropologist Clyde Kluckhohn's Navaho Witchcraft (1944) documented the belief system through fieldwork, recording along the way the hesitation and fear of those he interviewed. The figure makes sense only inside its social frame: in Navajo thought, illness and misfortune flow from broken harmony, and one who breaks harmony deliberately is a witch.\n\nReports from Utah's \"Skinwalker Ranch\" in 1996 and the reality shows that followed turned the English word into a generic wilderness monster, stripped of its Navajo context. Within Navajo society the belief remains a grave and sensitive subject."
+  },
+  "domains": {
+    "zh": ["邪术", "变形", "夜行", "禁忌"],
+    "en": ["Witchcraft", "Shapeshifting", "Night travel", "Taboo"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "民族来源", "en": "People" },
+      "value": { "zh": "纳瓦霍（迪内）", "en": "Navajo (Diné)" }
+    },
+    {
+      "label": { "zh": "词义", "en": "Meaning" },
+      "value": { "zh": "\"借它四足而行者\"", "en": "\"By means of it, it goes on all fours\"" }
+    },
+    {
+      "label": { "zh": "常取兽形", "en": "Common forms" },
+      "value": { "zh": "郊狼、狼、鸮、熊", "en": "Coyote, wolf, owl, bear" }
+    },
+    {
+      "label": { "zh": "语境提示", "en": "Context note" },
+      "value": { "zh": "纳瓦霍社会的深度禁忌话题，非娱乐性怪谈", "en": "A grave taboo subject in Navajo society, not folklore for entertainment" }
+    }
+  ],
+  "related": ["coyote", "wendigo"],
+  "sources": [
+    {
+      "zh": "克莱德·克拉克洪《纳瓦霍巫术》（1944，哈佛皮博迪博物馆论文集）",
+      "en": "Clyde Kluckhohn, Navaho Witchcraft (1944, Papers of the Peabody Museum, Harvard)"
+    },
+    {
+      "zh": "纳瓦霍口传传统（因言语禁忌，公开记载有限）",
+      "en": "Navajo oral tradition (public documentation is limited owing to speech taboos)"
+    }
+  ],
+  "image": null
+}

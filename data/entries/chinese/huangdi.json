@@ -1,0 +1,104 @@
+{
+  "id": "huangdi",
+  "tradition": "chinese",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "黄帝",
+    "en": "The Yellow Emperor"
+  },
+  "title": {
+    "zh": "五帝之首、华夏人文始祖",
+    "en": "First of the Five Sovereigns, Ancestor of the Huaxia"
+  },
+  "summary": {
+    "zh": "轩辕氏，五帝之首。阪泉胜炎帝、涿鹿擒蚩尤而定天下；干支、文字、音律皆托始于其世，铸鼎后乘龙升天。",
+    "en": "Xuanyuan, first of the Five Sovereigns, who defeated Yandi at Banquan and Chiyou at Zhuolu. The calendar, writing, and music were credited to his reign; he rose to heaven on a dragon."
+  },
+  "description": {
+    "zh": "黄帝名轩辕，号有熊氏，《史记·五帝本纪》以他开篇。传说他生而神灵，弱而能言。神农氏世衰之际诸侯相侵伐，黄帝修德振兵，在阪泉之野三战而胜炎帝，又在涿鹿之野擒杀作乱的蚩尤，于是诸侯尊他为天子，取代神农氏而有天下。\n\n大量发明创造被归于黄帝之世：命大挠作干支、伶伦制十二律、仓颉造字，妻子嫘祖教民养蚕缫丝；涿鹿之战中蚩尤作大雾，黄帝造指南车辨别方向。托名黄帝与岐伯问答的《黄帝内经》成为中医元典。《史记·封禅书》记载他在荆山下铸鼎，鼎成之日有龙垂下胡髯相迎，黄帝骑龙升天，随行小臣攀附龙髯坠落，抱着他遗落的弓号哭——鼎湖、乌号由此得名。\n\n战国至汉代，各系传说汇拢到黄帝身上，他被尊为华夏共祖，\"炎黄子孙\"之称由此而来。陕西黄陵县桥山的黄帝陵相传葬其衣冠，历代祭祀不绝，至今每年清明举行公祭。",
+    "en": "Huangdi, the Yellow Emperor, named Xuanyuan, opens the Records of the Grand Historian. Born preternaturally alert and able to speak in infancy, he rose in an age when the house of Shennong had declined and the lords warred on one another. He cultivated virtue and trained his troops, defeated Yandi, the Flame Emperor, in three battles on the plain of Banquan, then captured and killed the rebellious Chiyou at Zhuolu, whereupon the lords honored him as Son of Heaven.\n\nA remarkable inventory of inventions was credited to his reign: the sexagenary calendar of Da Nao, the twelve pitch-pipes of Ling Lun, the script of Cang Jie, and the silk-weaving taught by his consort Leizu. When Chiyou raised a great fog at Zhuolu, Huangdi built the south-pointing chariot to keep his bearings. The foundational text of Chinese medicine, the Huangdi Neijing, is framed as his dialogues with the physician Qi Bo. The Shiji's 'Fengshan shu' tells how he cast a bronze tripod at Mount Jing; when it was finished a dragon let down its whiskers to receive him, and he rode it into the sky while lesser officials, clinging to the whiskers, fell back to earth clutching his dropped bow.\n\nBy Han times Huangdi had become the common ancestor of the Huaxia people, the origin of the phrase 'descendants of Yan and Huang'. His mausoleum on Qiaoshan in Huangling, Shaanxi, said to hold his robes, still receives a state ceremony each Qingming festival."
+  },
+  "domains": {
+    "zh": [
+      "王权",
+      "战争",
+      "文明发明",
+      "医药"
+    ],
+    "en": [
+      "Sovereignty",
+      "War",
+      "Invention",
+      "Medicine"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名号",
+        "en": "Names"
+      },
+      "value": {
+        "zh": "名轩辕，号有熊氏",
+        "en": "Named Xuanyuan, of the Youxiong lineage"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键战役",
+        "en": "Key battles"
+      },
+      "value": {
+        "zh": "阪泉之战、涿鹿之战",
+        "en": "Banquan and Zhuolu"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "End"
+      },
+      "value": {
+        "zh": "荆山铸鼎，乘龙升天",
+        "en": "Rose to heaven on a dragon after casting the tripod"
+      }
+    }
+  ],
+  "related": [
+    "yandi",
+    "chiyou",
+    "chinese-dragon"
+  ],
+  "sources": [
+    {
+      "zh": "《史记·五帝本纪》",
+      "en": "Shiji, 'Annals of the Five Emperors'"
+    },
+    {
+      "zh": "《史记·封禅书》",
+      "en": "Shiji, 'Fengshan shu'"
+    },
+    {
+      "zh": "《国语·晋语》",
+      "en": "Guoyu, 'Discourses of Jin'"
+    }
+  ],
+  "geo": {
+    "lat": 35.58,
+    "lon": 109.26,
+    "label": {
+      "zh": "黄帝陵（陕西桥山）",
+      "en": "Mausoleum of the Yellow Emperor, Qiaoshan"
+    }
+  },
+  "image": {
+    "file": "/images/entries/huangdi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Yellow_Emperor_(Huangdi).jpg",
+    "sourceTitle": "Portraits of Famous Men: Yellow Emperor (Huangdi)",
+    "artist": "Unknown Chinese artist",
+    "license": "Public domain",
+    "width": 693,
+    "height": 1000
+  }
+}

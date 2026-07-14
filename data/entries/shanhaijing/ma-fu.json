@@ -1,0 +1,90 @@
+{
+  "id": "ma-fu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "马腹",
+    "en": "Mafu"
+  },
+  "title": {
+    "zh": "人面虎身、啼声如婴的食人兽",
+    "en": "Man-Eater with a Human Face, a Tiger's Body, and an Infant's Cry"
+  },
+  "summary": {
+    "zh": "蔓渠山食人异兽，人面虎身，叫声却像婴儿啼哭，闻声近前的人就成了它的猎物。伊水从它盘踞的山中发源。",
+    "en": "A man-eating beast of Mount Manqu with a human face on a tiger's body, whose cry mimics a wailing infant; the Yi River rises from its mountain."
+  },
+  "description": {
+    "zh": "《中次二经》记蔓渠之山“其上多金玉，其下多竹箭”，伊水由此发源，东流注入洛水。山中有兽名马腹，“其状如人面虎身，其音如婴儿，是食人”：一张人脸安在虎躯上，开口却是婴儿的啼哭，靠这声啼哭把人引到近前吞吃。\n\n用婴儿啼声作诱饵的食人兽在《山海经》里不止一头：南山经青丘山的九尾狐“其音如婴儿，能食人”，同在伊洛流域的犀渠也是“其音如婴儿，是食人”。最柔弱无害的声音配上最凶暴的胃口，是这部书写猛兽的惯用配方。\n\n人面兽身的形象在书中自成谱系：昆仑山神陆吾虎身九尾而人面虎爪，守昆仑门户的开明兽身大类虎而九首皆人面。马腹没有它们的神职，只在伊水源头做一头凶兽。",
+    "en": "From Mount Manqu, rich in gold and jade above and arrow-bamboo below, rises the Yi River, which flows east into the Luo. The mountain harbors the Mafu, a beast with a human face set on a tiger's body. Its voice is that of a crying infant, and it eats people: the helpless sound draws would-be rescuers within reach of the claws.\n\nThe infant-cry lure is a recurring device among the man-eaters of the Shanhaijing. The nine-tailed fox of Mount Qingqiu in the southern mountains wails like a baby and devours people, and the Xiqu, an ox-shaped man-eater of the same Yi-Luo basin, uses the identical call.\n\nHuman-faced beasts form their own lineage in the book. Lu Wu, warden of Kunlun, bears a tiger's body, nine tails, a human face and tiger claws; the Kaiming beast guarding Kunlun's gates carries nine human faces. The Mafu holds no such office. It simply hunts at the source of the Yi."
+  },
+  "domains": {
+    "zh": [
+      "食人兽",
+      "人面兽",
+      "伊水"
+    ],
+    "en": [
+      "Man-Eaters",
+      "Human-Faced Beasts",
+      "The Yi River"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "蔓渠之山",
+        "en": "Mount Manqu"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如婴儿啼哭",
+        "en": "Like a wailing infant"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "食人",
+        "en": "Devours people"
+      }
+    }
+  ],
+  "related": [
+    "xi-qu",
+    "jiu-wei-hu",
+    "hua-she"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/ma-fu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic297_-_%E9%A6%AC%E8%85%B9%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic297 - 馬腹圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 960,
+    "height": 1000
+  }
+}

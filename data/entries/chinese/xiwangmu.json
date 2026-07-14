@@ -1,0 +1,108 @@
+{
+  "id": "xiwangmu",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "西王母",
+    "en": "Queen Mother of the West"
+  },
+  "title": {
+    "zh": "执掌不死药的昆仑女神",
+    "en": "Keeper of the Elixir of Immortality on Kunlun"
+  },
+  "summary": {
+    "zh": "居昆仑之巅的女神。《山海经》中豹尾虎齿、蓬发戴胜，后化为雍容的王母娘娘，瑶池蟠桃三千年一熟。",
+    "en": "Goddess of the Kunlun heights, first pictured with leopard's tail and tiger's teeth, later transformed into the stately Queen Mother whose peaches of immortality ripen once in three thousand years."
+  },
+  "description": {
+    "zh": "西王母是中国神话中形象流变最剧烈的神祇。《山海经·西山经》里她住在玉山，\"其状如人，豹尾虎齿而善啸，蓬发戴胜\"，掌管上天的灾厉与五刑残杀之气，由三青鸟为她取食——这是一位半人半兽、令人生畏的凶神。\n\n《穆天子传》记周穆王驾八骏西巡，在瑶池之上宴饮西王母，两人赋诗相答、约期再会，凶神已变为雍容的西方之主。到汉代她成为不死药的执掌者，羿向她请药，才有嫦娥奔月；汉哀帝建平四年，关东民众传行\"西王母筹\"，数千人奔走聚会、歌舞祭祀西王母，《汉书·五行志》记下了这场正史罕见的民间造神运动。汉墓画像石上，西王母端坐昆仑柱状的悬圃之上，两侧环绕玉兔、蟾蜍与三青鸟。\n\n魏晋志怪《汉武帝内传》写她七月七日夜降汉宫，以蟠桃七枚与汉武帝分食，桃三千年一生实。道教尊她为金母元君，统领女仙，与东王公相对；明清以降她定型为玉皇大帝之妻王母娘娘，蟠桃盛会成为《西游记》中的名场面。甘肃泾川回山王母宫相传建于西汉，是至今仍在奉祀的祖庙。",
+    "en": "No Chinese deity changed shape more dramatically than the Queen Mother of the West. In the Shanhaijing she dwells on Jade Mountain 'like a human, with a leopard's tail and tiger's teeth, skilled at whistling, wild-haired and wearing the sheng headdress', presiding over plagues and the five punishments, fed by three azure birds — a fearsome, half-bestial power of the far west.\n\nIn the Mu Tianzi Zhuan she has become a gracious sovereign, exchanging verses with King Mu of Zhou over wine on the banks of the Turquoise Pond and inviting him to return. By Han times she held the elixir of immortality — it was from her that the archer Yi obtained the drug his wife Chang'e stole. In 3 BCE a millenarian frenzy swept the eastern commanderies as thousands passed tokens 'of the Queen Mother' from village to village, gathering to sing and sacrifice; the Book of Han recorded it among the portents. Han tomb reliefs seat her atop a pillar-like Mount Kunlun, flanked by the jade rabbit, the toad, and her azure birds.\n\nThe Han Wudi Neizhuan has her descend into the palace of Emperor Wu on the seventh night of the seventh month, sharing seven peaches that fruit once in three thousand years. Daoism enthroned her as Golden Mother, head of all female immortals and counterpart of the King Father of the East; late imperial religion made her the Jade Emperor's consort, hostess of the Peach Banquet immortalized in Journey to the West. Her ancestral shrine at Huishan in Jingchuan, Gansu, claims Han-dynasty origins and remains active."
+  },
+  "domains": {
+    "zh": [
+      "不死药",
+      "昆仑",
+      "西方",
+      "长生"
+    ],
+    "en": [
+      "Elixir of Immortality",
+      "Kunlun",
+      "The West",
+      "Longevity"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "使者",
+        "en": "Messengers"
+      },
+      "value": {
+        "zh": "三青鸟",
+        "en": "Three azure birds"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Attribute"
+      },
+      "value": {
+        "zh": "蟠桃，三千年一生实",
+        "en": "Peaches that ripen once in three thousand years"
+      }
+    },
+    {
+      "label": {
+        "zh": "初见",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《山海经·西山经》",
+        "en": "Shanhaijing, 'Classic of the Western Mountains'"
+      }
+    }
+  ],
+  "related": [
+    "chang-e",
+    "hou-yi",
+    "kunlun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《穆天子传》",
+      "en": "Mu Tianzi Zhuan (Travels of King Mu)"
+    },
+    {
+      "zh": "《汉书·五行志》",
+      "en": "Book of Han, 'Treatise on the Five Elements'"
+    },
+    {
+      "zh": "《汉武帝内传》",
+      "en": "Han Wudi Neizhuan (Esoteric Traditions of Emperor Wu)"
+    }
+  ],
+  "geo": {
+    "lat": 35.33,
+    "lon": 107.35,
+    "label": {
+      "zh": "回山王母宫（甘肃泾川）",
+      "en": "Wangmu Palace, Jingchuan, Gansu"
+    }
+  },
+  "image": {
+    "file": "/images/entries/xiwangmu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%91%B6%E6%B1%A0%E7%8C%AE%E5%AF%BF%E5%9B%BE%EF%BC%8C%E5%88%98%E6%9D%BE%E5%B9%B4%EF%BC%88%E4%BC%A0%EF%BC%89%EF%BC%8C%E5%8D%97%E5%AE%8B%EF%BC%8C%E8%A5%BF%E7%8E%8B%E6%AF%8D%E4%BC%9A%E5%91%A8%E7%A9%86%E7%8E%8B%EF%BC%8C%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB.jpg",
+    "sourceTitle": "瑶池献寿图，刘松年（传），南宋，西王母会周穆王，台北故宫",
+    "artist": "Liu Songnian (刘松年)",
+    "license": "Public domain",
+    "width": 550,
+    "height": 1000
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "tangaroa",
+  "tradition": "polynesian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "坦加罗阿",
+    "en": "Tangaroa",
+    "original": "Tangaroa / Taʻaroa / Kanaloa",
+    "originalLang": "毛利语／塔希提语／夏威夷语"
+  },
+  "title": {
+    "zh": "大洋之神",
+    "en": "God of the Ocean"
+  },
+  "summary": {
+    "zh": "波利尼西亚共有的海神：毛利传统中是朗吉与帕帕之子、鱼类之祖；塔希提传统中的塔阿罗阿则是从壳中破出的至高创世神。",
+    "en": "The great sea god shared across Polynesia: in Maori tradition a son of Rangi and Papa and ancestor of fish; in Tahiti, as Taaroa, the supreme creator who broke out of a primal shell."
+  },
+  "description": {
+    "zh": "坦加罗阿的名字遍布波利尼西亚三角：毛利语坦加罗阿、塔希提语塔阿罗阿、萨摩亚语塔加洛阿、夏威夷语卡纳罗阿，同名而地位各异。毛利传统中他是天父朗吉与地母帕帕的儿子之一，天地分离后风暴之神塔威里马泰阿兴兵报复，坦加罗阿避入大海，成为海洋与其中一切生灵之主。渔人下网前向他祝祷，将捕到的第一尾鱼放归，即是还给坦加罗阿的份。\n\n毛利叙事用一场家族分裂解释海陆之争：坦加罗阿的后裔里，鱼类之祖伊卡特雷逃入海中，爬虫之祖图特威希威逃上陆地、投靠了森林之神塔内。坦加罗阿由此与塔内结怨——塔内的子孙供人以独木舟、鱼叉与渔网去捕食坦加罗阿的子孙，坦加罗阿则以海浪吞噬独木舟、蚕食塔内的陆地。\n\n在社会群岛，塔阿罗阿的地位远高于此。特乌伊拉·亨利1928年《古塔希提》所录的创世咏唱说：太初唯有塔阿罗阿，蜷居在名为鲁米亚的壳中，于无边虚空里自存。他破壳而出，以壳造就天穹与岩基，以自己的身体造就万物，是众神与世界之父。夏威夷的卡纳罗阿则与巨章鱼相联系，常与大神卡内并祭，司深海与远航。同一个名字在各群岛间的升降，是波利尼西亚诸神谱系随航海迁徙而分化的显例。",
+    "en": "Tangaroa's name spans the Polynesian triangle: Tangaroa in Maori, Taaroa in Tahitian, Tagaloa in Samoan, Kanaloa in Hawaiian, one name with very different ranks. In Maori tradition he is a son of the sky father Rangi and earth mother Papa. When the storm god Tawhirimatea made war on his brothers after the separation of the parents, Tangaroa took refuge in the sea and became lord of the ocean and everything in it. Fishermen recited prayers to him before lowering nets, and returned the first fish of the catch as his portion.\n\nA family rupture explains the enmity of sea and land: among Tangaroa's descendants, Ikatere, ancestor of fish, fled into the ocean, while Tu-te-wehiwehi, ancestor of reptiles, fled ashore to shelter with Tane, god of forests. Tangaroa never forgave it. Tane's children furnish people with canoes, spears and nets to hunt Tangaroa's children, and Tangaroa answers by swallowing canoes and gnawing away the land.\n\nIn the Society Islands, Taaroa stands far higher. The creation chant recorded in Teuira Henry's Ancient Tahiti (1928) begins with Taaroa alone in the immensity, curled inside a shell called Rumia. He cracked the shell and built the sky dome and rock foundation from it, making the world and the gods from his own body. Hawaiian Kanaloa, associated with the octopus and the deep sea, was invoked alongside the great god Kane by voyagers. The rise and fall of this one name from island group to island group shows how the Polynesian pantheon diverged as the voyagers spread."
+  },
+  "domains": {
+    "zh": [
+      "海洋",
+      "鱼类",
+      "创世",
+      "航海"
+    ],
+    "en": [
+      "Ocean",
+      "Fish",
+      "Creation",
+      "Voyaging"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "毛利谱系",
+        "en": "Maori descent"
+      },
+      "value": {
+        "zh": "朗吉与帕帕之子",
+        "en": "Son of Rangi and Papa"
+      }
+    },
+    {
+      "label": {
+        "zh": "塔希提形态",
+        "en": "Tahitian aspect"
+      },
+      "value": {
+        "zh": "壳中自存的创世神塔阿罗阿",
+        "en": "Taaroa, self-existent creator in the shell Rumia"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Rival"
+      },
+      "value": {
+        "zh": "森林之神塔内",
+        "en": "Tane, god of forests"
+      }
+    }
+  ],
+  "related": [
+    "tane",
+    "rangi-and-papa",
+    "maui",
+    "taniwha"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年）",
+      "en": "George Grey, Polynesian Mythology (1855)"
+    },
+    {
+      "zh": "特乌伊拉·亨利《古塔希提》（1928年）",
+      "en": "Teuira Henry, Ancient Tahiti (1928)"
+    },
+    {
+      "zh": "玛莎·贝克威思《夏威夷神话》（1940年）",
+      "en": "Martha Beckwith, Hawaiian Mythology (1940)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/tangaroa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polynesian_Idol_Taaroa.jpg",
+    "sourceTitle": "Polynesian Idol Taaroa",
+    "artist": "Wooden_idols_of_Polynesia_(1830).jpg: William Ellis (1833) Polynesian researches, during a residence of nearly six years in the South Sea Islands, Volume 1, Fisher, Son &amp; Jackson derivative work: Hic et nunc",
+    "license": "Public domain",
+    "width": 437,
+    "height": 1000
+  }
+}

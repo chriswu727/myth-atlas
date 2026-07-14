@@ -1,0 +1,98 @@
+{
+  "id": "hunahpu-and-xbalanque",
+  "tradition": "maya",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "乌纳普与斯巴兰克",
+    "en": "Hunahpu and Xbalanque",
+    "original": "Junajpu, Xb'alanke",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "《波波尔·乌》的双子英雄",
+    "en": "The Hero Twins of the Popol Vuh"
+  },
+  "summary": {
+    "zh": "《波波尔·乌》的双胞胎英雄：吹箭射落僭称日月的七鹦鹉，下冥界西巴尔巴以球赛与诡计胜过死神，最终一人升为太阳、一人升为月亮。",
+    "en": "Twin heroes of the Popol Vuh: they shot down the false sun Seven Macaw, descended to Xibalba, and beat the death lords at their own game before rising as sun and moon."
+  },
+  "description": {
+    "zh": "双子的身世始于一颗头颅。父亲浑·乌纳普在西巴尔巴被死神杀死，头颅挂上葫芦树，向冥界少女斯奎克的掌心啐了一口唾沫，使她受孕。少女逃上地面投奔祖母斯穆卡内，生下乌纳普与斯巴兰克。兄弟俩自幼被兄长浑巴茨与浑丘恩欺凌，却练成了百发百中的吹箭手。\n\n在地面上，他们射落僭称日月的巨鸟七鹦鹉，又设计除掉它的两个儿子；把虐待过自己的兄长诱上树化作猴子；靠一只老鼠的告密，从祖母藏物的屋梁上找到了父亲留下的球具。球声惊动地底，西巴尔巴的死神循例发来传唤。\n\n双子不像父辈那样束手就擒。他们先派一只蚊子叮遍众死神，套出每一位的名字；识破木偶假神，绕开烧红的石凳；在暗屋里用萤火虫点缀雪茄头、拿金刚鹦鹉的红尾羽假充火把，把借来的东西完好奉还。刃屋、寒屋、豹屋、火屋一一闯过，只在蝠屋失手——乌纳普探头看天色，头颅被巨蝠卡马佐兹一掠而去，挂上球场作球。斯巴兰克召来百兽，用长鼻浣熊运来的南瓜雕成假头，又让一只兔子在场边冒充弹跳的皮球引开死神，趁乱换回了真头颅。\n\n最后一局是苦肉计。二人明知石灶是陷阱，径自跳入火中；遗骨被磨成粉撒进河里，五天后化作鱼人复生。他们扮成流浪艺人回到西巴尔巴，表演焚屋而屋不毁、杀人而人复活的戏法，看得死神心痒难耐，央求把这套戏法用在自己身上。双子杀了一死与七死，不再复活他们，就此压服冥界。《波波尔·乌》说，兄弟俩随后升上天空，一个成为太阳，一个成为月亮。古典期陶器上常见的“头带双子”——满身死斑的一阿豪与身带豹纹的雅什巴拉姆——被学界认定为二人早一千年的形象。",
+    "en": "The twins' story begins with a skull. Their father, Hun Hunahpu, was killed by the lords of Xibalba and his head hung in a calabash tree, where it spat into the palm of the underworld maiden Xquic and made her pregnant. She fled to the surface, to the grandmother Xmucane, and bore Hunahpu and Xbalanque. Bullied by their elder half-brothers, the boys grew up hunting with blowguns that never missed.\n\nOn the earth they shot down Seven Macaw, the boastful false sun, and disposed of his two giant sons; they lured their cruel half-brothers up a tree and turned them into monkeys; and, tipped off by a rat, they recovered their father's ballgame gear from the rafters where the grandmother had hidden it. The thud of the rubber ball rang through the floor of the world, and Xibalba sent its owl messengers with the customary summons.\n\nUnlike their father, the twins came prepared. They sent a mosquito ahead to bite each death lord and harvest their names; they ignored the wooden mannequins and the red-hot stone bench; in the House of Darkness they tipped their cigars with fireflies and passed off a macaw's scarlet tail as a burning torch, returning everything intact. Razor House, Cold House, Jaguar House, Fire House all failed to kill them. Only in the House of Bats did they slip: Hunahpu peered out to check for dawn and the great bat Camazotz snatched his head away to hang as the game ball. Xbalanque summoned the animals, carved a substitute head from a squash the coati brought, and stationed a rabbit by the court to bounce away like a stray ball while he swapped the real head back.\n\nThe endgame was a feint. Knowing the stone oven was a trap, the twins leapt into the fire; their ground bones, thrown in the river, brought them back on the fifth day. They returned disguised as vagabond dancers whose miracles - houses burned and restored, victims sacrificed and revived - so enthralled the lords that One Death and Seven Death begged to be sacrificed themselves. The twins obliged and did not bring them back. Xibalba was broken. The Popol Vuh says the brothers then rose into the sky, one as the sun, the other as the moon. The \"Headband Twins\" of Classic Maya vases - one spotted with death marks, the other patched with jaguar skin - are read by scholars as their portraits a thousand years earlier."
+  },
+  "domains": {
+    "zh": [
+      "球赛",
+      "诡计",
+      "日月",
+      "复生"
+    ],
+    "en": [
+      "Ballgame",
+      "Trickery",
+      "Sun and moon",
+      "Resurrection"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "吹箭筒",
+        "en": "Blowgun"
+      }
+    },
+    {
+      "label": {
+        "zh": "父亲",
+        "en": "Father"
+      },
+      "value": {
+        "zh": "浑·乌纳普（玉米神）",
+        "en": "Hun Hunahpu (the Maize God)"
+      }
+    },
+    {
+      "label": {
+        "zh": "古典期形象",
+        "en": "Classic period image"
+      },
+      "value": {
+        "zh": "陶器上的“头带双子”",
+        "en": "The Headband Twins on painted vases"
+      }
+    }
+  ],
+  "related": [
+    "xibalba",
+    "hun-came-and-vucub-came",
+    "vucub-caquix",
+    "camazotz",
+    "hun-batz-and-hun-chouen",
+    "maya-maize-god",
+    "popol-vuh-creation"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶；希门内斯抄本，约1701—1703年）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century; Ximénez copy, c. 1701-1703)"
+    },
+    {
+      "zh": "古典期玛雅彩绘陶器上的“头带双子”图像",
+      "en": "Headband Twins imagery on Classic Maya painted ceramics"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hunahpu-and-xbalanque.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hunahp%C3%BA_and_Xbalanqu%C3%A9_shooting_their_blowguns,_Yucatan,_Mexico_(Hunahp%C3%BA_e_Xbalanqu%C3%A9_disparando_sus_cerbatanas).jpg",
+    "sourceTitle": "Hunahpú and Xbalanqué shooting their blowguns, Yucatan, Mexico (Hunahpú e Xbalanqué disparando sus cerbatanas)",
+    "artist": "Instituto Nacional de Antropología e Historia, México",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 960
+  }
+}

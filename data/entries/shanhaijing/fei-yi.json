@@ -1,0 +1,103 @@
+{
+  "id": "fei-yi",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "肥遗",
+    "en": "Feiyi"
+  },
+  "title": {
+    "zh": "太华山上的旱兆之蛇",
+    "en": "Drought Serpent of Mount Taihua"
+  },
+  "summary": {
+    "zh": "太华山上六足四翼的怪蛇，一现身天下大旱；郭璞说商汤之世它曾出现于阳山之下。",
+    "en": "A serpent of Mount Taihua with six legs and four wings whose appearance brings drought to the whole world; Guo Pu records that it was seen at Mount Yang in the days of King Tang."
+  },
+  "description": {
+    "zh": "《西次一经》写太华之山“削成而四方，其高五千仞，其广十里，鸟兽莫居”——这就是今天的西岳华山，刀削般的方形石壁上飞鸟走兽都无处栖身。唯一的居民是一条蛇：“有蛇焉，名曰肥遗，六足四翼，见则天下大旱。”六只脚、四只翅膀的蛇一旦现身，大旱就要降临天下。郭璞注说，商汤的时候这条蛇曾出现在阳山之下——汤世正有连年大旱的传说。\n\n《山海经》里叫肥遗的不止一个。同属西山经的英山有肥遗鸟，状如鹌鹑，黄身赤喙，吃了能治疠病、驱杀体内的寄生虫；《北山经》浑夕之山另有一条一首两身的肥遗蛇，见则其国大旱。同一个名字兼跨蛇与鸟、旱兆与药用，注家多以为同名异物。\n\n在西山经的兆验体系里，肥遗与见则大水的胜遇、见则大穰的文鳐鱼互为对照：异物的现身，就是上天预先张贴的告示。",
+    "en": "Mount Taihua — today's Mount Hua, westernmost of the Five Sacred Peaks — is described in the 'Classic of the Western Mountains' as 'cut sheer and four-square, five thousand ren high and ten li across, where no bird or beast can dwell'. Its sole inhabitant is a snake: 'there is a serpent there named Feiyi, with six legs and four wings; when it appears, there is great drought under heaven.' Guo Pu's commentary adds that the creature was seen at the foot of Mount Yang in the reign of Tang, founder of the Shang — a reign remembered for years of catastrophic drought.\n\nThe name Feiyi is worn by more than one creature in the book. Mount Ying, also in the western range, has a Feiyi bird like a quail, yellow-bodied and red-beaked, which cures pestilence and kills intestinal worms when eaten; the 'Classic of the Northern Mountains' has yet another Feiyi serpent, one-headed and two-bodied, whose appearance dries up a single kingdom. Commentators generally treat these as distinct creatures sharing a name.\n\nWithin the omen-system of the western mountains, the Feiyi stands opposite the Shengyu, whose coming brings flood, and the Wenyao fish, whose coming brings bumper harvests: the appearance of a prodigy is heaven's notice posted in advance."
+  },
+  "domains": {
+    "zh": [
+      "旱兆",
+      "六足四翼",
+      "灾异",
+      "太华山"
+    ],
+    "en": [
+      "Drought Omen",
+      "Six Legs and Four Wings",
+      "Portents",
+      "Mount Taihua"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "蛇身，六足四翼",
+        "en": "A serpent with six legs and four wings"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆验",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则天下大旱",
+        "en": "Its appearance brings drought to all under heaven"
+      }
+    },
+    {
+      "label": {
+        "zh": "同名者",
+        "en": "Namesakes"
+      },
+      "value": {
+        "zh": "英山肥遗鸟、北山经两身肥遗蛇",
+        "en": "The Feiyi bird of Mount Ying; the two-bodied Feiyi of the north"
+      }
+    }
+  ],
+  "related": [
+    "sheng-yu",
+    "wen-yao-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经注》",
+      "en": "Guo Pu, Commentary on the Shanhaijing"
+    }
+  ],
+  "geo": {
+    "lat": 34.48,
+    "lon": 110.08,
+    "label": {
+      "zh": "华山（陕西渭南）",
+      "en": "Mount Hua, Weinan, Shaanxi"
+    }
+  },
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/fei-yi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic506_-_%E8%82%A5%E9%81%BA%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic506 - 肥遺圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 672,
+    "height": 1000
+  }
+}

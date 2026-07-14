@@ -1,0 +1,102 @@
+{
+  "id": "roc",
+  "tradition": "arabian",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "鲁克鸟",
+    "en": "Roc",
+    "original": "رُخّ",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "能攫大象的巨鸟",
+    "en": "The bird that carries off elephants"
+  },
+  "summary": {
+    "zh": "阿拉伯航海传说中的巨鸟，蛋大如穹顶，能攫起大象哺育幼雏。辛巴达第二次航海时用头巾把自己绑上它的脚脱困，马可·波罗则说它出没于马达加斯加以南的海上。",
+    "en": "The giant bird of Arab seafaring lore, its egg the size of a dome, able to carry off elephants to feed its young. Sinbad escaped an island tied to its leg; Marco Polo placed it in the seas off Madagascar."
+  },
+  "description": {
+    "zh": "鲁克（rukh）是印度洋航路上水手们口中的巨鸟。《一千零一夜》辛巴达第二次航海讲得最细：他被遗落在无人岛上，望见远处一座白色穹顶，走近量了量，周长足有五十步，却找不到门——那是鲁克鸟的蛋。天色骤暗，巨鸟归巢覆蛋而眠，辛巴达解下头巾把自己捆在它的脚上，次日清晨随它起飞，被带到一座四面峭壁的深谷，谷底铺满钻石与巨蟒。第五次航海中，同船商人敲开一枚鲁克蛋分食雏鸟，一对亲鸟衔来磨盘大的巨石，从高空掷下，把船砸沉。\n\n这只鸟并非全然的空想。马可·波罗在游记里说，马达加斯加以南的海域有称作 ruc 的巨禽，形如放大的鹰，能抓起大象飞上高空再摔死取食，忽必烈还曾遣使求证，带回一根巨羽。后世学者多认为传说与马达加斯加的象鸟有关——这种三米高、不会飞的巨鸟至迟于十七世纪灭绝，它的蛋壳周长近一米，曾作为奇珍流入阿拉伯商人之手。\n\n鲁克与波斯的神鸟西摩格、阿拉伯的安卡在文献中常相互混同。经由《一千零一夜》的欧洲译本，roc 成为西方语汇里巨鸟的通名，从博物志、棋子词源考据一路飞进现代奇幻游戏的怪物图鉴。",
+    "en": "The rukh was the giant bird of sailors' talk on the Indian Ocean routes. Sinbad's second voyage in the Thousand and One Nights gives the classic account: marooned on an empty island, he sights a white dome in the distance, paces off its circumference at fifty steps, and finds no door — it is a roc's egg. The sky darkens as the parent bird settles over it; Sinbad unwinds his turban and lashes himself to its leg, and at dawn is carried to a valley walled with cliffs, floored with diamonds and serpents. On the fifth voyage his shipmates crack open a roc egg and eat the chick, and the parent birds sink the ship with boulders the size of millstones dropped from the sky.\n\nThe bird was not pure fancy. Marco Polo reports that in the seas south of Madagascar lives a bird called the ruc, like an eagle grown beyond measure, which seizes elephants, carries them aloft and drops them to feed on the carcass; he adds that the Great Khan sent envoys to inquire and received a gigantic feather. Modern scholars connect the legend to Madagascar's elephant bird, a flightless giant three metres tall, extinct by the seventeenth century at the latest, whose eggs — nearly a metre around — reached Arab merchants as curiosities.\n\nIn the texts the roc blurs into the Persian simurgh and the Arabian anqa. Through European translations of the Nights, 'roc' became the West's standard name for any impossible bird, migrating from natural histories into the bestiaries of modern fantasy games."
+  },
+  "domains": {
+    "zh": [
+      "巨鸟",
+      "航海传说",
+      "钻石谷",
+      "印度洋"
+    ],
+    "en": [
+      "Giant bird",
+      "Seafaring legend",
+      "Valley of diamonds",
+      "Indian Ocean"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "蛋",
+        "en": "Egg"
+      },
+      "value": {
+        "zh": "白色如穹顶，周长五十步",
+        "en": "A white dome, fifty paces around"
+      }
+    },
+    {
+      "label": {
+        "zh": "猎物",
+        "en": "Prey"
+      },
+      "value": {
+        "zh": "大象与巨蟒，掷石可沉海船",
+        "en": "Elephants and serpents; its dropped boulders sink ships"
+      }
+    },
+    {
+      "label": {
+        "zh": "可能原型",
+        "en": "Possible origin"
+      },
+      "value": {
+        "zh": "马达加斯加象鸟（已灭绝）",
+        "en": "Madagascar's elephant bird, now extinct"
+      }
+    }
+  ],
+  "related": [
+    "sinbad",
+    "bahamut",
+    "mount-qaf"
+  ],
+  "sources": [
+    {
+      "zh": "《一千零一夜》“辛巴达航海记”第二、五次航海",
+      "en": "The Thousand and One Nights, Sinbad's second and fifth voyages"
+    },
+    {
+      "zh": "马可·波罗《游记》（约1298）",
+      "en": "Marco Polo, The Travels, c. 1298"
+    }
+  ],
+  "geo": {
+    "lat": -18.9,
+    "lon": 47.5,
+    "label": {
+      "zh": "马达加斯加（马可·波罗所指海域）",
+      "en": "Madagascar, per Marco Polo's account"
+    }
+  },
+  "image": {
+    "file": "/images/entries/roc.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinbad_the_sailor_%26_other_stories_from_the_Arabian_nights_-_Dulac_color_plate_facing_page_024.jpg",
+    "sourceTitle": "Sinbad the sailor & other stories from the Arabian nights - Dulac color plate facing page 024",
+    "artist": "Edmund Dulac",
+    "license": "Public domain",
+    "width": 786,
+    "height": 1000
+  }
+}

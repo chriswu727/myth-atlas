@@ -1,0 +1,95 @@
+{
+  "id": "qilin",
+  "tradition": "chinese",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "麒麟",
+    "en": "Qilin"
+  },
+  "title": {
+    "zh": "不履生草的仁兽",
+    "en": "The Benevolent Beast That Treads on No Living Thing"
+  },
+  "summary": {
+    "zh": "麋身、牛尾、独角的仁兽，行不践生草、不伤生灵，唯圣王在位时现身；孔子闻\"西狩获麟\"而绝笔《春秋》。",
+    "en": "A one-horned beast with a deer's body and ox's tail that steps on no living grass and appears only under sage rulers; word that a lin had been caught made Confucius lay down his brush."
+  },
+  "description": {
+    "zh": "麒麟位列\"四灵\"，雄曰麒，雌曰麟。《说文解字》释\"麒\"为仁兽，\"麋身牛尾一角\"；旧注补足细节：独角之端有肉，示其有武而不用。传说它行走时不践生草、不踩活虫，不入陷阱、不罹罗网，音中钟吕、行中规矩，唯有圣王在位、天下太平之时才肯现身，因此是最高等级的祥瑞。\n\n最著名的记载在《春秋》的末尾：鲁哀公十四年春，\"西狩获麟\"。《公羊传》说孔子听闻猎获的是麟，反袂拭面，涕泪沾袍，叹道\"吾道穷矣\"——仁兽出非其时而被捕获，孔子于是搁笔，《春秋》至此而终，\"获麟绝笔\"成为后世典故。《礼记·礼运》将\"麟、凤、龟、龙\"并称四灵，麟居其首。\n\n民间信仰里麒麟主送子，宋以后\"麒麟送子\"年画盛行，童子骑麟自天而降；杰出子弟被赞为\"麒麟儿\"。明永乐十二年（1414年），榜葛剌国（今孟加拉一带）使团向明成祖进献长颈鹿，朝野以为麒麟降世，沈度所绘《瑞应麒麟图》存世至今；日语至今仍称长颈鹿为\"麒麟\"。",
+    "en": "The qilin heads the Four Numinous Beasts; qi names the male and lin the female. The Shuowen Jiezi defines it as the 'benevolent beast', with the body of a deer, the tail of an ox, and a single horn — a horn tipped with flesh, the commentators add, a weapon carried but never used. It walks without crushing a blade of living grass or a single insect, falls into no pit and springs no snare, its call matching the pitch-pipes and its gait the compass and square. It shows itself only when a sage rules and the world is at peace, which made it the highest omen of all.\n\nIts most famous appearance closes the Spring and Autumn Annals: in the spring of the fourteenth year of Duke Ai, 'in a hunt to the west, a lin was taken'. The Gongyang commentary describes Confucius wiping his face with his sleeve, tears soaking his robe: 'My way has run its course.' The benevolent beast had come in the wrong age and been captured, and the master laid down his brush; 'the capture of the lin' has meant a great work's final line ever since. The Book of Rites lists lin, phoenix, tortoise, and dragon together as the Four Numinous Beasts.\n\nPopular religion made the qilin a bringer of sons: New Year prints from the Song onward show an infant riding one down from heaven, and gifted children are still praised as 'qilin boys'. When a Bengali embassy presented a giraffe to the Yongle emperor in 1414, court and country hailed it as a qilin — Shen Du's commemorative painting survives — and Japanese still uses 'kirin' as the word for giraffe."
+  },
+  "domains": {
+    "zh": [
+      "仁德",
+      "祥瑞",
+      "太平",
+      "送子"
+    ],
+    "en": [
+      "Benevolence",
+      "Auspicious Omens",
+      "Peace",
+      "Granting of Sons"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "麋身、牛尾、独角，角端有肉",
+        "en": "Deer's body, ox's tail, one flesh-tipped horn"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habits"
+      },
+      "value": {
+        "zh": "不践生草，不伤生灵",
+        "en": "Treads on no living grass, harms no creature"
+      }
+    },
+    {
+      "label": {
+        "zh": "名场面",
+        "en": "Famous moment"
+      },
+      "value": {
+        "zh": "西狩获麟，孔子绝笔",
+        "en": "The lin captured in the west; Confucius lays down his brush"
+      }
+    }
+  ],
+  "related": [
+    "chinese-dragon",
+    "fenghuang"
+  ],
+  "sources": [
+    {
+      "zh": "《春秋·哀公十四年》及《公羊传》",
+      "en": "Spring and Autumn Annals, 14th year of Duke Ai, with the Gongyang commentary"
+    },
+    {
+      "zh": "《说文解字》",
+      "en": "Shuowen Jiezi"
+    },
+    {
+      "zh": "《礼记·礼运》",
+      "en": "Book of Rites, 'Liyun' chapter"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/qilin.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qilin_in_sancai_tuhui.jpg",
+    "sourceTitle": "Qilin in sancai tuhui",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 1000
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "yemoja",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "叶莫嘉",
+    "en": "Yemoja",
+    "original": "Yemọja",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "众水之母",
+    "en": "Mother of Waters"
+  },
+  "summary": {
+    "zh": "众水之母，名字意为\"孩子多如鱼群的母亲\"。在故土是奥贡河的女神、孕产妇女的守护者；渡过大西洋后化身古巴与巴西的海洋女神。",
+    "en": "Mother of waters, her name meaning 'mother whose children are as fish'. Goddess of the Ogun River at home, she crossed the Atlantic to become the sea goddess Yemaya of Cuba and Iemanja of Brazil."
+  },
+  "description": {
+    "zh": "叶莫嘉的名字由\"Yèyé ọmọ ẹja\"缩合而来——\"孩子多如鱼群的母亲\"。在约鲁巴故土她司掌淡水，是流经阿贝奥库塔的奥贡河的女神，埃格巴人聚居的伊巴拉区供奉着她的主龛，每年为她举行河祭。她身着蓝白二色，庇护孕产、婴儿与渔获，许多谱系把整整一代奥里沙都算作她的儿女。\n\n关于她的身世各地说法不一。流传较广的一支说她远嫁受辱后出走，随身的水罐倾覆碎裂，罐中之水漫开成了大河——约鲁巴地方的河流既是她的身体，也是她逃离的路。\n\n跨大西洋奴隶贸易把她带到美洲，她在那里长成了海的母神：古巴桑特里亚称她耶玛亚（Yemayá），与雷格拉圣母合一；巴西称耶曼雅（Iemanjá），萨尔瓦多红河区（Rio Vermelho）的渔民每年2月2日驾船把成篮的鲜花与礼物送入海中，里约热内卢的新年夜，数百万身穿白衣的人向浪里抛掷白花向她许愿。",
+    "en": "Yemoja's name contracts the phrase Yeye omo eja, 'mother whose children are as numerous as fish'. In her homeland she is a goddess of fresh water, mistress of the Ogun River that flows past Abeokuta, where the Ibara quarter keeps her principal shrine and holds an annual river festival. Dressed in blue and white, she watches over pregnancy, infants, and fishing, and many genealogies name her the mother of a whole generation of orishas.\n\nStories of her origins vary by region. In one widely told version she fled a humiliating marriage, and the water jar she carried broke and spread into a great river: the rivers of Yorubaland are at once her body and her road of escape.\n\nThe Atlantic slave trade carried her to the Americas, where she grew into a sea goddess: Yemaya in Cuban Santeria, merged with the Virgin of Regla, and Iemanja in Brazil. Every February 2nd the fishermen of Rio Vermelho in Salvador ferry baskets of flowers and gifts out to sea for her, and on New Year's Eve in Rio de Janeiro millions dressed in white cast white flowers into the surf with their wishes."
+  },
+  "domains": {
+    "zh": [
+      "众水",
+      "母性",
+      "孕产",
+      "渔业"
+    ],
+    "en": [
+      "Waters",
+      "Motherhood",
+      "Childbirth",
+      "Fishing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "\"孩子多如鱼群的母亲\"",
+        "en": "'Mother whose children are as fish'"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣色",
+        "en": "Colors"
+      },
+      "value": {
+        "zh": "蓝与白",
+        "en": "Blue and white"
+      }
+    },
+    {
+      "label": {
+        "zh": "故土圣地",
+        "en": "Homeland shrine"
+      },
+      "value": {
+        "zh": "阿贝奥库塔伊巴拉区，奥贡河畔",
+        "en": "Ibara, Abeokuta, on the Ogun River"
+      }
+    }
+  ],
+  "related": [
+    "oshun",
+    "oya",
+    "olodumare"
+  ],
+  "sources": [
+    {
+      "zh": "皮埃尔·维尔热《关于奥里沙与伏都崇拜的笔记》（1957）",
+      "en": "Pierre Verger, Notes sur le culte des Orisa et Vodun (1957)"
+    },
+    {
+      "zh": "威廉·巴斯科姆《十六贝壳占卜》（1980）",
+      "en": "William Bascom, Sixteen Cowries: Yoruba Divination from Africa to the New World (1980)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/yemoja.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nigeria_o_benin,_yoruba,_iemanj%C3%A0_e_ibeji,_xx_sec..JPG",
+    "sourceTitle": "Nigeria o benin, yoruba, iemanjà e ibeji, xx sec.",
+    "artist": "Sailko",
+    "license": "CC BY 3.0",
+    "width": 695,
+    "height": 1000
+  }
+}

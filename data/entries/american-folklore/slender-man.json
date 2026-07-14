@@ -1,0 +1,43 @@
+{
+  "id": "slender-man",
+  "tradition": "american-folklore",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "瘦长鬼影",
+    "en": "Slender Man"
+  },
+  "title": { "zh": "西装革履的无面掳童者", "en": "The Faceless Abductor in the Black Suit" },
+  "summary": {
+    "zh": "2009年6月Eric Knudsen（网名Victor Surge）在Something Awful论坛创造的无面细长怪人，网络时代最有影响的集体创作怪物。",
+    "en": "A faceless, impossibly tall figure in a black suit created by Eric Knudsen (as \"Victor Surge\") in a June 2009 Something Awful photoshop thread — the internet era's most influential crowd-built monster."
+  },
+  "description": {
+    "zh": "瘦长鬼影身着黑西装，四肢细长得超出人体比例，面部是一片空白的苍白皮肤，有些版本从背后伸出多条黑色触手。他站在儿童游乐场边缘、树林深处或照片背景里，被他盯上的人会出现失忆、咳嗽、偏执（爱好者称之为「瘦长症」），最终失踪。他从不奔跑，只是出现在更近的地方。\n\n他的诞生时间精确到天：2009年6月10日，Something Awful论坛的「制造超自然图片」P图比赛中，Eric Knudsen以网名Victor Surge发布了两张黑白照片——成群的儿童面前立着一个模糊的细长身影——并配上伪造的档案说明，称照片摄于1983年和1986年，拍摄者均已失踪。其他用户立刻跟进伪造「史料」，同月YouTube伪纪录片剧集《Marble Hornets》开播（剧中称他为「操作者」），随后是游戏《Slender: The Eight Pages》（2012）引爆的实况热潮。瘦长鬼影成为「creepypasta」（网络怪谈）的旗舰角色，也是研究网络集体创作神话（有学者称之为「开源恐怖」）的标准样本。\n\n2014年5月，威斯康星州沃基肖两名十二岁女孩为「取悦瘦长鬼影」将同学诱入树林刺伤十九刀（受害者幸存），案件震动全美，引发关于网络怪谈与未成年人的大讨论，HBO纪录片《当心瘦长鬼影》（2016）记录了始末。Knudsen本人极少受访，角色的商业改编（2018年同名电影）反响平平——瘦长鬼影最有效的形态，始终是论坛帖子里那两张来历不明的黑白照片。",
+    "en": "Slender Man wears a black suit over limbs stretched past human proportion; his face is a blank stretch of pale skin, and in many versions black tentacles unfold from his back. He stands at the edge of playgrounds, deep in treelines, or in the background of photographs. Those he fixes on suffer memory gaps, coughing fits, and paranoia — fans call it \"slender sickness\" — and then disappear. He never runs; he is simply closer each time.\n\nHis birth is dated to the day: on June 10, 2009, in a Something Awful forum contest to \"create paranormal images,\" Eric Knudsen, posting as Victor Surge, uploaded two black-and-white photographs of children with a blurred, elongated figure behind them, captioned as archival prints from 1983 and 1986 whose photographers had vanished. Other users piled on with fabricated documents; the YouTube found-footage series Marble Hornets began that same month (calling him \"the Operator\"), and the 2012 game Slender: The Eight Pages ignited a streaming craze. Slender Man became the flagship of creepypasta and the standard case study of crowd-built \"open-source horror.\"\n\nIn May 2014 in Waukesha, Wisconsin, two twelve-year-old girls lured a classmate into the woods and stabbed her nineteen times, saying they acted to appease Slender Man; the victim survived, and the case set off a national debate about internet horror and children, chronicled in the HBO documentary Beware the Slenderman (2016). Knudsen rarely gives interviews, and the 2018 feature film landed flat — the monster has never been more effective than in those two grainy forum photographs."
+  },
+  "domains": {
+    "zh": ["网络怪谈", "无面怪人", "集体创作", "Creepypasta"],
+    "en": ["Internet horror", "Faceless figure", "Collaborative fiction", "Creepypasta"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "创作者", "en": "Creator" },
+      "value": { "zh": "Eric Knudsen（网名Victor Surge），2009年6月10日", "en": "Eric Knudsen (\"Victor Surge\"), June 10, 2009" }
+    },
+    {
+      "label": { "zh": "诞生地", "en": "Birthplace" },
+      "value": { "zh": "Something Awful论坛P图比赛帖", "en": "A Something Awful photoshop contest thread" }
+    },
+    {
+      "label": { "zh": "衍生代表作", "en": "Key spin-offs" },
+      "value": { "zh": "《Marble Hornets》（2009）、《Slender: The Eight Pages》（2012）", "en": "Marble Hornets (2009); Slender: The Eight Pages (2012)" }
+    }
+  ],
+  "related": ["siren-head", "the-backrooms", "black-eyed-children"],
+  "sources": [
+    { "zh": "Something Awful论坛「制造超自然图片」帖（2009年6月）", "en": "Something Awful forums, \"Create Paranormal Images\" thread (June 2009)" },
+    { "zh": "HBO纪录片《当心瘦长鬼影》（2016）", "en": "HBO documentary Beware the Slenderman (2016)" }
+  ],
+  "image": null
+}

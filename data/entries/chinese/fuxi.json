@@ -1,0 +1,94 @@
+{
+  "id": "fuxi",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伏羲",
+    "en": "Fuxi"
+  },
+  "title": {
+    "zh": "始画八卦的人文初祖",
+    "en": "First of the Three Sovereigns, Deviser of the Eight Trigrams"
+  },
+  "summary": {
+    "zh": "三皇之首，人首蛇身。仰观天文俯察地理始画八卦，教民结网渔猎、定嫁娶之礼，与女娲为对偶神。",
+    "en": "First of the Three Sovereigns, serpent-bodied like his consort Nüwa. He devised the eight trigrams from the patterns of sky and earth, taught net-fishing, and instituted marriage rites."
+  },
+  "description": {
+    "zh": "伏羲又写作包牺、庖牺、宓羲，位列三皇之首。汉代画像石中他人首蛇身，与女娲蛇尾相交，手执矩尺，与女娲手中的圆规相对，象征规天矩地。《周易·系辞下》记载：古者包牺氏之王天下也，仰则观象于天，俯则观法于地，观鸟兽之文与地之宜，于是始作八卦，\"以通神明之德，以类万物之情\"。\n\n传说他结绳为网罟，教民渔猎畜牧；制定嫁娶之礼，以成对的鹿皮为聘礼，使先民脱离\"知母不知父\"的时代。又传有龙马负图出于黄河，伏羲依河图画出八卦。唐代司马贞为《史记》补写《三皇本纪》，把这些传说汇入正史的开篇；西晋皇甫谧《帝王世纪》则详载其世系，称其母华胥氏履大人迹而孕。\n\n甘肃天水相传是伏羲出生地\"成纪\"所在，明代所建伏羲庙保存至今，每年举行公祭；河南淮阳太昊陵则把伏羲与东方上帝太昊合为一体奉祀，庙会号称\"人祖庙会\"。",
+    "en": "Fuxi, also written Paoxi, heads the traditional list of the Three Sovereigns. Han-dynasty reliefs pair him with Nüwa, both human-headed and serpent-bodied, their tails entwined; he holds the carpenter's square to her compass, together measuring earth and heaven. The 'Great Commentary' to the Book of Changes credits him with the eight trigrams: ruling the world in high antiquity, he looked up to observe the figures in the sky and down to observe the patterns of the earth, studied the markings of birds and beasts, and devised the trigrams to reach the powers of the spirits and classify the natures of the ten thousand things.\n\nTradition further makes him the inventor of knotted-cord nets for fishing and hunting, and the founder of marriage rites sealed with paired deerskins. A dragon-horse was said to have risen from the Yellow River bearing the River Chart, from which he drew the trigrams. The Tang scholar Sima Zhen gathered these traditions into his 'Annals of the Three Sovereigns', a supplement to the Records of the Grand Historian, while Huangfu Mi's Diwang Shiji records that his mother conceived him after stepping in a giant's footprint.\n\nTianshui in Gansu claims his birthplace, the ancient Chengji, and its Ming-dynasty Fuxi Temple still hosts annual state ceremonies; at Huaiyang in Henan he is worshipped merged with Taihao, god of the east, at the Taihao Mausoleum."
+  },
+  "domains": {
+    "zh": [
+      "八卦",
+      "渔猎",
+      "婚姻制度",
+      "文明开创"
+    ],
+    "en": [
+      "The Eight Trigrams",
+      "Fishing and Hunting",
+      "Marriage Rites",
+      "Founding of Civilization"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人首蛇身，手执矩",
+        "en": "Human head, serpent body, holding the square"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Cult sites"
+      },
+      "value": {
+        "zh": "甘肃天水伏羲庙、河南淮阳太昊陵",
+        "en": "Fuxi Temple in Tianshui; Taihao Mausoleum in Huaiyang"
+      }
+    }
+  ],
+  "related": [
+    "nuwa",
+    "pangu",
+    "chinese-dragon"
+  ],
+  "sources": [
+    {
+      "zh": "《周易·系辞下》",
+      "en": "Book of Changes, 'Xici II'"
+    },
+    {
+      "zh": "司马贞《补三皇本纪》",
+      "en": "Sima Zhen, 'Annals of the Three Sovereigns' (supplement to the Shiji)"
+    },
+    {
+      "zh": "皇甫谧《帝王世纪》",
+      "en": "Huangfu Mi, Diwang Shiji"
+    }
+  ],
+  "geo": {
+    "lat": 34.58,
+    "lon": 105.72,
+    "label": {
+      "zh": "伏羲庙（甘肃天水）",
+      "en": "Fuxi Temple, Tianshui"
+    }
+  },
+  "image": {
+    "file": "/images/entries/fuxi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ma-Lin-Fuxi-and-turtle.jpg",
+    "sourceTitle": "Seated Portrait of Fu Xilabel QS:Len,\"Seated Portrait of Fu Xi\"label QS:Lzh-hans,\"伏羲坐像\"label QS:Lzh,\"伏羲坐像\"label QS:Lzh-tw,\"伏羲坐像 軸\"",
+    "artist": "Ma Lin",
+    "license": "Public domain",
+    "width": 462,
+    "height": 1000
+  }
+}

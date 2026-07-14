@@ -1,0 +1,93 @@
+{
+  "id": "yuki-onna",
+  "tradition": "japanese",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "雪女",
+    "en": "Yuki-onna",
+    "original": "雪女（ゆきおんな）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "风雪之夜的白衣女妖",
+    "en": "The Snow Woman of Blizzard Nights"
+  },
+  "summary": {
+    "zh": "雪夜出没的白衣女妖，肌肤苍白近乎透明，以冰息冻毙旅人。小泉八云《怪谈》中她饶恕少年巳之吉并与之成婚，因誓言被破而离去。",
+    "en": "A pale woman in white who appears in snowstorms and freezes travelers with her breath. In Hearn's Kwaidan she spares young Minokichi, marries him in disguise, and vanishes when he breaks his vow of silence."
+  },
+  "description": {
+    "zh": "雪女身着白衣，长发乌黑，肌肤白得近乎透明，在暴风雪的深夜出现于山路、渡口与雪原。日本东北、北陆多雪地带流传着她的种种异型：有的对人吹出白气，把人冻成冰；有的在雪夜抱着婴儿站在路口，请行人代抱，接过的人便被冻死——这一型与「产女」传说相通。江户时代鸟山石燕的《画图百鬼夜行》（1776年）中已绘有雪女的形象。\n\n今天流传最广的版本出自小泉八云（拉夫卡迪奥·赫恩）《怪谈》（1904年）：武藏国的老樵夫茂作与十八岁的巳之吉在风雪夜困于渡船小屋，深夜一个白衣女子推门而入，向茂作吹出白气将他冻死，却因巳之吉年轻俊美而饶他一命，只叮嘱他终生不得对任何人说起，否则必来取命。次年冬天，巳之吉遇见一个名叫「阿雪」的美丽姑娘，两人成婚，生下十个孩子，阿雪多年容颜不改。某夜巳之吉望着灯下的妻子，说起当年雪屋里的奇遇。阿雪陡然变色：「那就是我。」她念在孩子们的份上没有杀他，叮嘱他好好抚养儿女，随后化作一缕白雾，从屋顶的排烟口消散。八云自记这个故事听自武藏国西多摩郡调布村的一个农夫。\n\n雪女后来成为怪谈影视的常客，小林正树的电影《怪谈》（1964年）中「雪女」一段即改编自八云的版本。",
+    "en": "The yuki-onna wears white, her long hair black, her skin pale to the point of translucence; she appears on mountain paths, ferry crossings, and snowfields in the dead of a blizzard night. The snow country of Tohoku and Hokuriku knows her in many forms: some freeze travelers with a puff of white breath, others stand at crossroads on snowy nights holding an infant and asking passersby to take it, and whoever accepts is frozen where he stands, a variant that shades into the ubume legend. Toriyama Sekien had already drawn her in his 1776 bestiary Gazu Hyakki Yagyo.\n\nThe version everyone now knows comes from Lafcadio Hearn's Kwaidan (1904). Old Mosaku and eighteen-year-old Minokichi, woodcutters of Musashi province, are trapped by a storm in a ferryman's hut. At midnight a woman in white bends over Mosaku and freezes him with her breath, but spares Minokichi for his youth and beauty, on the condition that he never speak of her. The next winter he meets a lovely girl called O-Yuki; they marry and raise ten children while her face never ages. One night, watching her sew by lamplight, he tells her of the night in the hut. She rises: 'That was I.' For the children's sake she spares him, and dissolves into white mist through the smoke hole. Hearn noted that he heard the tale from a farmer of Chofu in Nishitama, Musashi.\n\nShe has haunted film ever since; the Yuki-onna episode of Masaki Kobayashi's Kwaidan (1964) adapts Hearn's telling."
+  },
+  "domains": {
+    "zh": [
+      "风雪",
+      "寒冷",
+      "禁忌",
+      "异类婚"
+    ],
+    "en": [
+      "Snowstorms",
+      "Cold",
+      "Taboo",
+      "Otherworldly marriage"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "白衣黑发，肌肤近乎透明",
+        "en": "White-robed, black-haired, skin nearly translucent"
+      }
+    },
+    {
+      "label": {
+        "zh": "手段",
+        "en": "Method"
+      },
+      "value": {
+        "zh": "吹出白气把人冻毙",
+        "en": "Freezes victims with a puff of white breath"
+      }
+    },
+    {
+      "label": {
+        "zh": "经典文本",
+        "en": "Classic text"
+      },
+      "value": {
+        "zh": "小泉八云《怪谈》所收《雪女》",
+        "en": "'Yuki-Onna' in Hearn's Kwaidan"
+      }
+    }
+  ],
+  "related": [
+    "zashiki-warashi",
+    "tamamo-no-mae"
+  ],
+  "sources": [
+    {
+      "zh": "鸟山石燕《画图百鬼夜行》（1776年）",
+      "en": "Toriyama Sekien, Gazu Hyakki Yagyo (1776)"
+    },
+    {
+      "zh": "小泉八云《怪谈》（1904年）",
+      "en": "Lafcadio Hearn, Kwaidan (1904)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/yuki-onna.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SekienYukionna.jpg",
+    "sourceTitle": "SekienYukionna",
+    "artist": "Toriyama Sekien",
+    "license": "Public domain",
+    "width": 737,
+    "height": 1000
+  }
+}

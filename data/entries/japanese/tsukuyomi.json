@@ -1,0 +1,82 @@
+{
+  "id": "tsukuyomi",
+  "tradition": "japanese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "月读",
+    "en": "Tsukuyomi",
+    "original": "月読命（つくよみのみこと）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "月神，夜之国的统治者",
+    "en": "Moon God, Ruler of the Night"
+  },
+  "summary": {
+    "zh": "三贵子之一的月神，出自伊邪那岐洗涤的右眼，受命统治夜之国。记纪中事迹极少，仅《日本书纪》留下他斩杀食物女神保食神的一段。",
+    "en": "The moon god born from Izanagi's right eye, given the realm of night. The chronicles record almost nothing of him beyond one episode: his killing of the food goddess Ukemochi."
+  },
+  "description": {
+    "zh": "月读命是伊邪那岐在阿波岐原禊祓时洗右眼生出的神，与天照大神、须佐之男并列三贵子，受命统治夜之食国。名字在文献中写法不一，《古事记》作月读命，《日本书纪》多作月夜见尊；「月读」一名通常被解为数算月龄之意，暗示月神与历法岁时的关联。\n\n记纪为这位地位崇高的神，只留下寥寥数笔。最完整的一段出自《日本书纪》神代卷的一书：月读奉天照之命下界探望保食神，保食神从口中吐出饭食、鱼类与走兽款待他，月读认为这是以秽物相待，拔剑杀了保食神。天照闻讯大怒，宣称不愿再与他相见，从此日月分居一日一夜，昼夜由此隔开。保食神的尸体化生出牛马、蚕、稻谷与豆类，成为五谷起源神话。《古事记》里同一类型的故事主角换成了须佐之男与大气都比卖。\n\n月读的祭祀远不及天照兴盛，但伊势神宫内宫的别宫月读宫、外宫的别宫月夜见宫都奉祀他。《日本书纪》显宗天皇三年条记载月神托宣求地，朝廷在山背国献上土地立社，这被视为京都月读神社的起源。",
+    "en": "Tsukuyomi-no-Mikoto was born when Izanagi washed his right eye during his purification, one of the three noble children alongside Amaterasu and Susanoo, and was assigned the realm of night. His name, usually understood as \"moon counting,\" hints at the moon's role in reckoning months and seasons, and the chronicles spell it in several ways.\n\nFor so exalted a deity the records are strikingly thin. The fullest episode appears in a variant passage of the Nihon Shoki: sent by Amaterasu to call on the food goddess Ukemochi, Tsukuyomi watched her produce boiled rice, fish, and game from her mouth to feast him. Judging the offering defiled, he drew his sword and killed her. Amaterasu was furious and refused ever to see him again, which is why sun and moon have kept to day and night ever since. From Ukemochi's corpse came cattle and horses, silkworms, rice, and beans, an origin myth of the five grains. In the Kojiki the same story is told of Susanoo and the goddess Ogetsu-hime instead.\n\nHis cult is modest beside his sister's, but auxiliary shrines at both the Inner and Outer Shrines of Ise are dedicated to him, and the Nihon Shoki records a moon-god oracle under Emperor Kenzo that is counted as the origin of the Tsukiyomi Shrine in Kyoto."
+  },
+  "domains": {
+    "zh": [
+      "月亮",
+      "黑夜",
+      "岁时"
+    ],
+    "en": [
+      "Moon",
+      "Night",
+      "Time-reckoning"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "诞生",
+        "en": "Birth"
+      },
+      "value": {
+        "zh": "伊邪那岐禊祓时洗右眼所生",
+        "en": "Born from Izanagi's right eye during his purification"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要神社",
+        "en": "Principal shrines"
+      },
+      "value": {
+        "zh": "伊势神宫别宫月读宫、月夜见宫",
+        "en": "Tsukiyomi-no-Miya auxiliary shrines at both the Inner and Outer Shrines of Ise"
+      }
+    }
+  ],
+  "related": [
+    "amaterasu",
+    "susanoo",
+    "izanagi"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/tsukuyomi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsukuyomi_shinbutsu-zue.jpg",
+    "sourceTitle": "Tsukuyomi shinbutsu-zue",
+    "artist": "玉蘭斎貞秀",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 1000
+  }
+}

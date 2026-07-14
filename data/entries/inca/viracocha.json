@@ -1,0 +1,106 @@
+{
+  "id": "viracocha",
+  "tradition": "inca",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "维拉科查",
+    "en": "Viracocha",
+    "original": "Wiraqucha",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "创世神，万物的塑造者",
+    "en": "Creator and Shaper of All Things"
+  },
+  "summary": {
+    "zh": "安第斯创世神。他在黑暗中自的的喀喀湖现身，令日月星辰升空，在蒂瓦纳科以石塑造各族人类，又化作持杖旅人巡行大地，最后从海岸踏浪西去。",
+    "en": "The Andean creator: he rose from Lake Titicaca in darkness, set sun, moon and stars in the sky, shaped the nations in stone at Tiahuanaco, then walked the land as a staff-bearing wanderer before departing across the sea."
+  },
+  "description": {
+    "zh": "早期编年史家把他的全名记作“孔·蒂西·维拉科查”。在贝坦索斯与谢萨·德莱昂转述的传说里，他显形为一个身着及踝白袍、手持长杖的老者，貌不惊人，沿路行走时常被人当作乞丐。他造过两次世界：第一次造出的人类生活在没有太阳的幽暗里，因触怒于他而被洪水吞没或化为石头；第二次，他在的的喀喀湖畔的蒂瓦纳科令太阳、月亮与星辰从湖中升起，天地由此有了光。\n\n随后他在蒂瓦纳科以石头刻出各族人类的原型，为每一族定下服饰、语言与歌谣，派两名助手——贝坦索斯记其名为伊迈马纳·维拉科查与托卡波·维拉科查——分走山路与海路，沿途呼唤各族从洞穴、泉眼与山岩中走出，自己则取道高原向北巡行。行至卡查（今拉克奇），当地的卡纳人持械围攻他，他唤天火焚山，卡纳人伏地请罪，火随之熄灭；后人在焚痕旁为他立庙，拉克奇的维拉科查神庙残墙至今犹存。传说他最终抵达厄瓜多尔海岸的曼塔，与助手一道踏着海水向西而去，从此不返。\n\n第八代印加王以“维拉科查”为名，据说因为此神托梦助他退敌。西班牙人渡海而来时，安第斯人也用“维拉科查”称呼这些白皮肤的异乡人——这个词在秘鲁的西班牙语口语里沿用至今。",
+    "en": "The early chroniclers give his full name as Con Tici Viracocha. In the accounts of Betanzos and Cieza de León he appears as an unremarkable old man in a white robe that fell to his ankles, staff in hand, so plain that villagers took him for a beggar on the road. He made the world twice. His first people lived in a sunless dark and angered him, and he ended them by flood or turned them to stone. Then, at Tiahuanaco beside Lake Titicaca, he commanded the sun, the moon and the stars to rise out of the lake, and the world had light.\n\nAt Tiahuanaco he carved the prototypes of every nation in stone, assigning each its dress, its language and its songs. Two helpers — Betanzos names them Imaymana Viracocha and Tocapo Viracocha — went out along the mountain road and the coast road, calling the peoples up from caves, springs and rock faces, while Viracocha himself walked north through the highlands. At Cacha, now Raqchi, the Cana people came at him with weapons; he called fire down upon the hill, and when they threw themselves at his feet the flames died. A temple to him rose beside the scorched ground, and the walls of the Temple of Wiracocha at Raqchi still stand. At Manta on the coast of Ecuador he and his companions walked out over the sea toward the west and were gone.\n\nThe eighth Inca ruler took the name Viracocha, claiming the god had aided him in a dream against invaders. When the Spaniards landed, Andeans called the pale strangers viracochas — a usage that survives in Peruvian Spanish to this day."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "日月星辰",
+      "教化",
+      "洪水"
+    ],
+    "en": [
+      "Creation",
+      "Sun, moon and stars",
+      "Civilizing",
+      "The flood"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "显形",
+        "en": "Guise"
+      },
+      "value": {
+        "zh": "白袍持杖的老者",
+        "en": "An old man in a white robe, bearing a staff"
+      }
+    },
+    {
+      "label": {
+        "zh": "助手",
+        "en": "Helpers"
+      },
+      "value": {
+        "zh": "伊迈马纳·维拉科查、托卡波·维拉科查",
+        "en": "Imaymana Viracocha and Tocapo Viracocha"
+      }
+    },
+    {
+      "label": {
+        "zh": "离世之地",
+        "en": "Departure"
+      },
+      "value": {
+        "zh": "厄瓜多尔曼塔海岸，踏海西去",
+        "en": "Walked over the sea at Manta, Ecuador"
+      }
+    }
+  ],
+  "related": [
+    "titicaca-creation",
+    "inti",
+    "manco-capac"
+  ],
+  "sources": [
+    {
+      "zh": "胡安·德·贝坦索斯《印加人的总述与叙事》（1551）",
+      "en": "Juan de Betanzos, Suma y narración de los Incas (1551)"
+    },
+    {
+      "zh": "佩德罗·萨米恩托·德·甘博亚《印加史》（1572）",
+      "en": "Pedro Sarmiento de Gamboa, Historia de los Incas (1572)"
+    },
+    {
+      "zh": "佩德罗·谢萨·德莱昂《秘鲁编年史》",
+      "en": "Pedro Cieza de León, Crónica del Perú"
+    }
+  ],
+  "geo": {
+    "lat": -14.174,
+    "lon": -71.369,
+    "label": {
+      "zh": "拉克奇的维拉科查神庙",
+      "en": "Temple of Wiracocha at Raqchi"
+    }
+  },
+  "image": {
+    "file": "/images/entries/viracocha.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drawing_from_the_Coricancha_altar.jpeg",
+    "sourceTitle": "Drawing from the Coricancha altar",
+    "artist": "Jiménez de la Espada, Marcos, 1831-1898 (Editor) Santa Cruz Pachacuti Yamqui Salcamayhua, Juan de (Author)",
+    "license": "Public domain",
+    "width": 792,
+    "height": 1000
+  }
+}

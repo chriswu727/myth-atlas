@@ -1,0 +1,106 @@
+{
+  "id": "aphrodite",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "阿佛洛狄忒",
+    "en": "Aphrodite",
+    "original": "Ἀφροδίτη",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "爱与美之女神",
+    "en": "Goddess of Love and Beauty"
+  },
+  "summary": {
+    "zh": "爱与美之女神，据赫西俄德所述从海沫中诞生，登岸于塞浦路斯。帕里斯的裁判使她成为特洛伊战争的引线。",
+    "en": "Goddess of love and beauty, born from sea foam in Hesiod's account and landing on Cyprus. Her victory in the Judgement of Paris set the Trojan War in motion."
+  },
+  "description": {
+    "zh": "阿佛洛狄忒是爱与美之女神。赫西俄德《神谱》说她诞生于海沫：克洛诺斯以镰刀阉割父亲乌拉诺斯，坠入海中的部分泛起白沫，女神从沫中升起，先经基西拉岛，再登上塞浦路斯的帕福斯海岸，足迹所至青草生发；荷马则称她是宙斯与狄俄涅之女。她的圣物有鸽子、天鹅与桃金娘，腰间的绣带能令神与人心生爱欲。\n\n她嫁给匠神赫菲斯托斯，却与战神阿瑞斯私通，《奥德赛》第八卷唱到赫菲斯托斯以细如蛛丝的金网将二人当场缚住，招来诸神围观大笑。特洛伊战争因她而起：在帕里斯的裁判中，她以\"世上最美的女人\"为许诺胜过赫拉与雅典娜赢得金苹果，帕里斯遂带走斯巴达王后海伦。塞浦路斯帕福斯的圣所自青铜时代晚期起延续祭祀逾千年，是古代地中海最著名的爱神崇拜中心。",
+    "en": "Aphrodite is the goddess of love and beauty. In Hesiod's Theogony she is born from sea foam: when Cronus castrated his father Uranus with a sickle, the severed flesh fell into the sea and white foam gathered around it, from which the goddess rose, passing Cythera before stepping ashore at Paphos on Cyprus, grass springing up beneath her feet. Homer instead makes her a daughter of Zeus and Dione. Doves, swans, and myrtle are sacred to her, and the embroidered band at her waist kindles desire in gods and mortals alike.\n\nMarried to the smith god Hephaestus, she loved Ares; the eighth book of the Odyssey sings of how her husband snared the pair in an invisible net of gold, fine as spider silk, before the laughing assembly of the gods. Her promise of the world's most beautiful woman won her the golden apple over Hera and Athena in the Judgement of Paris, and Paris carried off Helen of Sparta in consequence. Her sanctuary at Paphos on Cyprus received worshippers from the late Bronze Age for over a thousand years, the most famous center of her cult in the ancient Mediterranean."
+  },
+  "domains": {
+    "zh": [
+      "爱情",
+      "美",
+      "欲望",
+      "航海庇护"
+    ],
+    "en": [
+      "Love",
+      "Beauty",
+      "Desire",
+      "Protection at sea"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "鸽子、天鹅、桃金娘",
+        "en": "Dove, swan, myrtle"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "赫菲斯托斯（私通阿瑞斯）",
+        "en": "Hephaestus; lover of Ares"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief sanctuary"
+      },
+      "value": {
+        "zh": "塞浦路斯帕福斯",
+        "en": "Paphos, Cyprus"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "trojan-war",
+    "mount-olympus"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "荷马《奥德赛》",
+      "en": "Homer, Odyssey"
+    },
+    {
+      "zh": "《荷马颂歌·阿佛洛狄忒颂》",
+      "en": "Homeric Hymn to Aphrodite"
+    }
+  ],
+  "geo": {
+    "lat": 34.7061,
+    "lon": 32.5757,
+    "label": {
+      "zh": "帕福斯阿佛洛狄忒圣所",
+      "en": "Sanctuary of Aphrodite, Paphos"
+    }
+  },
+  "image": {
+    "file": "/images/entries/aphrodite.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "sourceTitle": "Polish: Narodziny Wenus The Birth of Venustitle QS:P1476,pl:\"Narodziny Wenus \"label QS:Lpl,\"Narodziny Wenus \"label QS:Les,\"El nacimiento de Venus\"label QS:Lms,\"Kelahiran Venus\"label QS:Lbg,\"Раждането на Венера\"label QS:Lksh,\"D Jeburt van d Venus\"label QS:Lzh-hk,\"維納斯的誕生\"label QS:Lsk,\"Zrodenie Venuše\"label QS:Luk,\"Народження Венери\"label QS:Lzh-hant,\"維納斯的誕生\"label QS:Lzh-cn,\"维纳斯的诞生\"label QS:Lko,\"비너스의 탄생\"label QS:Lkk,\"Венераның дүниеге келуі\"label QS:Leo,\"Naskiĝo de Venuso\"label QS:Lcs,\"Zrození Venuše\"label QS:Lbs,\"Rođenje Venere.\"label QS:Lfr,\"La Naissance de Vénus\"label QS:Lhr,\"Rođenje Venere\"label QS:Lvi,\"Sự ra đời của thần Vệ Nữ\"label QS:Llv,\"Veneras dzimšana\"label QS:Lsr,\"Рођење Венере\"label QS:Lzh-sg,\"维纳斯的诞生\"label QS:Lnb,\"Venus' fødsel\"label QS:Laz,\"Veneranın doğulması\"label QS:Len,\"The Birth of Venus\"label QS:Lar,\"مولد فينوس\"label QS:Lbr,\"Ganedigezh Gwener\"label QS:Lyue,\"維納斯出世\"label QS:Leu,\"Venusen jaiotza\"label QS:Lru,\"Рождение Венеры\"label QS:Lde,\"Die Geburt der Venus\"label QS:Lga,\"Breith Véineas\"label QS:Lsr-ec,\"Рођење Венере\"label QS:Lzh,\"维纳斯的诞生\"label QS:Lda,\"Venus' fødsel\"label QS:Lka,\"ვენერას დაბადება\"label QS:Lja,\"ヴィーナスの誕生\"label QS:Lnrm,\"La Naîté de Vénus (Botticelli)\"label QS:Larz,\"مولد فينوس\"label QS:Lhe,\"הולדת ונוס\"label QS:Lla,\"Ortus Veneris\"label QS:Lfi,\"Venuksen syntymä\"label QS:Lit,\"Nascita di Venere\"label QS:Let,\"Venuse sünd\"label QS:Lfa,\"زایش ونوس\"label QS:Lvec,\"Nàsita de Venare\"label QS:Lpap,\"Nacimento di Venus di Botticelli\"label QS:Lpt,\"O Nascimento de Vênus\"label QS:Lmt,\"It-Twelid ta’ Venere\"label QS:Lhy,\"Վեներայի ծնունդը\"label QS:Lbe,\"Нараджэнне Венеры\"label QS:Llt,\"Veneros gimimas\"label QS:Lsl,\"Rojstvo Venere\"label QS:Lmk,\"Раѓањето на Венера\"label QS:Lcy,\"Genedigaeth Gwener\"label QS:Lzh-tw,\"維納斯的誕生\"label QS:Lth,\"กำเนิดวีนัส\"label QS:Lsh,\"Rođenje Venere\"label QS:Lsi,\"botticelli\"label QS:Lnl,\"De Geboorte van Venus\"label QS:Lca,\"El naixement de Venus\"label QS:Ltr,\"Venüs'ün Doğuşu\"label QS:Lsv,\"Venus födelse\"label QS:Lcv,\"Венера çурални\"label QS:Lgl,\"O nacemento de Venus\"label QS:Lzh-hans,\"维纳斯的诞生\"label QS:Lel,\"Η Γέννηση της Αφροδίτης\"label QS:Lro,\"Nașterea zeiței Venus\"",
+    "artist": "Sandro Botticelli",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 628
+  }
+}

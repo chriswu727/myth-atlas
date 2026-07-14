@@ -1,0 +1,100 @@
+{
+  "id": "aztlan",
+  "tradition": "aztec",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "阿兹特兰",
+    "en": "Aztlan",
+    "original": "Aztlān",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "白鹭之地，墨西卡人传说中的祖居之岛",
+    "en": "Place of the Herons, Legendary Island Homeland of the Mexica"
+  },
+  "summary": {
+    "zh": "墨西卡人传说中的祖居之岛，名意多释为\"白鹭之地\"。族人奉维齐洛波奇特利之命离岛南迁，漂泊约两百年后建立特诺奇蒂特兰；\"阿兹特克\"一名即源于此。",
+    "en": "The legendary island homeland of the Mexica, often read as Place of the Herons. At Huitzilopochtli's command they left it for a two-century migration ending at Tenochtitlan; the name Aztec derives from it."
+  },
+  "description": {
+    "zh": "阿兹特兰是墨西卡人传说中的祖居之地：湖心的一座白色岛屿，名字通常解作\"白鹭之地\"或\"白色之地\"。传说中的阿兹特兰岁月安逸，居民驾独木舟往来，捕鱼植木，不知衰老。后世通称的\"阿兹特克人\"（Aztecah，意为\"来自阿兹特兰的人\"）即由此得名——这个族群自称墨西卡人，\"阿兹特克\"作为通行族名是19世纪经洪堡与普雷斯科特等人的著作才流行开的。\n\n据迁徙传说，部族守护神维齐洛波奇特利命族人离开阿兹特兰南迁，神像由祭司背负前行，神谕沿途指路。传统纪年将启程之年系于\"一燧石\"年，学者多推算为公元1064年或1168年。迁徙途中还穿过七洞穴之地奇科莫斯托克——一说为阿兹特兰的别名或其相邻的圣地，纳瓦诸部族皆自称出于七穴。约两百年漂泊之后，墨西卡人在特斯科科湖的岛上见到鹰立仙人掌的神示，建立了特诺奇蒂特兰。《博图里尼手抄本》（又称《迁徙长卷》）的首页正是这段出走：一人荡舟离岛，岸上的神龛中维齐洛波奇特利开口说话。\n\n据杜兰记载，帝国鼎盛时的君主蒙特苏马一世曾遣六十名巫师携厚礼北上寻访祖地；巫师们在一处湖山之间见到了传说中的阿兹特兰，岛上的人不见衰老，还见到了守护神年迈的母亲。阿兹特兰的真实位置至今无考，从墨西哥西北部到美国西南部的候选地众多，纳亚里特州的湖心小镇墨西卡尔蒂坦因形似手抄本中的环形岛而最负盛名；20世纪以来，\"阿兹特兰\"又成为墨西哥裔美国人奇卡诺运动的文化符号。",
+    "en": "Aztlan is the legendary homeland of the Mexica: a white island in a lake, its name usually read as Place of the Herons or Place of Whiteness. In the tales life there was easy — people paddled canoes among the reeds, fished, tended gardens, and did not grow old. From it comes the word Aztec, from Aztecah, \"people from Aztlan\"; the people themselves said Mexica, and \"Aztec\" became the common label only in the nineteenth century through the works of Humboldt and Prescott.\n\nMigration lore holds that the patron god Huitzilopochtli ordered his people out of Aztlan, his effigy borne ahead by priests who relayed his commands. Tradition fixes the departure in a year 1 Flint, which scholars correlate to 1064 or 1168 CE. On the road the migrants passed through Chicomoztoc, the Place of Seven Caves — in some accounts another name for Aztlan or a sanctuary beside it — from which all the Nahua peoples claimed descent. After some two centuries of wandering, the Mexica saw the promised eagle on a cactus in Lake Texcoco and founded Tenochtitlan. The opening page of the Codex Boturini, the Strip of the Pilgrimage, shows the leaving itself: a lone figure paddling from the island while Huitzilopochtli speaks from a shrine on the shore.\n\nDurán records that at the empire's height Moctezuma I sent sixty sorcerers north with rich gifts to find the ancestral land; they reached a lake and a hill where no one aged, and met the god's ancient mother. No real location has ever been established — candidates run from northwest Mexico to the American Southwest, the ring-shaped island town of Mexcaltitán in Nayarit being the most celebrated for its resemblance to the codex image. In the twentieth century Aztlán was taken up again as a cultural emblem of the Chicano movement in the United States."
+  },
+  "domains": {
+    "zh": [
+      "祖居地",
+      "迁徙",
+      "失落之岛",
+      "族源"
+    ],
+    "en": [
+      "Ancestral homeland",
+      "Migration",
+      "Lost island",
+      "Origins"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "启程之年",
+        "en": "Departure"
+      },
+      "value": {
+        "zh": "\"一燧石\"年，约1064或1168年",
+        "en": "Year 1 Flint, correlated to 1064 or 1168 CE"
+      }
+    },
+    {
+      "label": {
+        "zh": "相关圣地",
+        "en": "Linked site"
+      },
+      "value": {
+        "zh": "七洞穴之地奇科莫斯托克",
+        "en": "Chicomoztoc, the Seven Caves"
+      }
+    },
+    {
+      "label": {
+        "zh": "最著名候选地",
+        "en": "Best-known candidate"
+      },
+      "value": {
+        "zh": "纳亚里特州墨西卡尔蒂坦岛",
+        "en": "Mexcaltitán, Nayarit"
+      }
+    }
+  ],
+  "related": [
+    "huitzilopochtli",
+    "tenochtitlan"
+  ],
+  "sources": [
+    {
+      "zh": "《博图里尼手抄本》（《迁徙长卷》）",
+      "en": "Codex Boturini (Tira de la Peregrinación)"
+    },
+    {
+      "zh": "迭戈·杜兰《新西班牙印第安人史》（1581年）",
+      "en": "Diego Durán, Historia de las Indias de Nueva España (1581)"
+    }
+  ],
+  "geo": {
+    "lat": 21.9047,
+    "lon": -105.4753,
+    "label": {
+      "zh": "墨西卡尔蒂坦岛（后世比附的候选地）",
+      "en": "Mexcaltitán, a later-proposed candidate site"
+    }
+  },
+  "image": {
+    "file": "/images/entries/aztlan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aztlan_codex_boturini.jpg",
+    "sourceTitle": "Aztlan codex boturini",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 1000
+  }
+}

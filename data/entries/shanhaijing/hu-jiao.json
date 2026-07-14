@@ -1,0 +1,32 @@
+{
+  "id": "hu-jiao",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": { "zh": "虎蛟", "en": "Hujiao" },
+  "title": { "zh": "泿水中鱼身蛇尾的蛟属", "en": "Fish-Bodied, Serpent-Tailed Dragon-Kin of the Yin River" },
+  "summary": {
+    "zh": "祷过山泿水中的蛟，鱼的身子、蛇的尾巴，叫声像鸳鸯；吃它的肉不生痈肿，还能治痔疮。",
+    "en": "A jiao-dragon of the Yin River below Mount Daoguo, with a fish's body and a serpent's tail, calling like a mandarin duck; eating it prevents swellings and cures hemorrhoids."
+  },
+  "description": {
+    "zh": "泿水发源于祷过之山，向南流入大海。《南山经》记：\"其中有虎蛟，其状鱼身而蛇尾，其音如鸳鸯，食者不肿，可以已痔。\"祷过之山本身就是一座南国异兽库——山上多金玉，山下多犀、兕，多象；虎蛟盘踞在山下的河里，鱼身蛇尾，叫声却柔婉如鸳鸯。\n\n蛟是龙属的水兽。郭璞注称蛟似蛇而四足、小头细颈，大者十数围，能吞人——虎蛟冠以\"虎\"字，旧注多以为言其凶猛。但《南山经》给它的落点不在凶，而在吃：食其肉者不生痈肿，还能治痔。让一头龙属水怪最终归入食疗名录，正是《山海经》博物志笔法的本色——再神异的生物，也要交代产地、叫声与用途，如同渔人问得着的行情。后世蛟的故事越长越大，兴风作浪、走蛟化龙，虎蛟却安静地留在泿水里，做它的一味药。",
+    "en": "The Yin River rises on Mount Daoguo and flows south into the sea, and in its waters coils the hujiao, the 'tiger jiao'. Mount Daoguo is itself a storehouse of southern fauna — gold and jade above, rhinoceroses, buffalo, and elephants below — and the river adds this: a creature with a fish's body and a serpent's tail whose voice, incongruously, is the soft call of a mandarin duck.\n\nThe jiao is a water-beast of the dragon kind; Guo Pu describes the type as snake-like with four legs, small-headed and thin-necked, the great ones a dozen spans around and able to swallow a man, and the 'tiger' in this one's name has usually been read as a mark of ferocity. Yet the Classic of the Southern Mountains is not interested in its menace. The entry closes as a recipe: whoever eats it will suffer no tumorous swellings, and it can cure hemorrhoids. Filing a dragon-kin monster under dietary medicine is the book's naturalist manner at its purest — every marvel must declare its locality, its cry, and its use, like goods a fisherman could price. Later lore let jiao grow into flood-raising serpents striving to become dragons; the hujiao stayed quietly in the Yin River, an item in the pharmacopoeia."
+  },
+  "domains": {
+    "zh": ["蛟龙", "水族", "医药"],
+    "en": ["Jiao Dragons", "Water Creatures", "Healing"]
+  },
+  "traits": [
+    { "label": { "zh": "出没地", "en": "Haunt" }, "value": { "zh": "祷过山泿水", "en": "The Yin River, Mount Daoguo" } },
+    { "label": { "zh": "叫声", "en": "Cry" }, "value": { "zh": "如鸳鸯", "en": "Like a mandarin duck" } },
+    { "label": { "zh": "功效", "en": "Virtue" }, "value": { "zh": "食者不肿，可以已痔", "en": "Prevents swellings; cures hemorrhoids" } }
+  ],
+  "related": ["qu-ru", "lu-fish", "chinese-dragon"],
+  "sources": [
+    { "zh": "《山海经·南山经》", "en": "Shanhaijing, 'Classic of the Southern Mountains'" },
+    { "zh": "郭璞《山海经传》", "en": "Guo Pu, commentary on the Shanhaijing" }
+  ],
+  "volume": { "zh": "南山经", "en": "Classic of the Southern Mountains" },
+  "image": null
+}

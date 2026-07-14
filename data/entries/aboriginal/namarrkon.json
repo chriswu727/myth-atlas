@@ -1,0 +1,102 @@
+{
+  "id": "namarrkon",
+  "tradition": "aboriginal",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "纳玛尔贡",
+    "en": "Namarrkon",
+    "original": "Namarrkon",
+    "originalLang": "库温库语"
+  },
+  "title": {
+    "zh": "雷季的闪电之人",
+    "en": "The Lightning Man of the Storm Season"
+  },
+  "summary": {
+    "zh": "西阿纳姆地比宁人的闪电之灵：身绕一圈闪电弧带，头膝各缚石斧，雷季自积雨云中劈斧作雷。诺尔朗吉岩画中的形象举世闻名。",
+    "en": "The lightning being of the Bininj of western Arnhem Land: a band of lightning arcs around his body, and the stone axes at his head and knees strike thunder from the clouds. His Nourlangie rock painting is world famous."
+  },
+  "description": {
+    "zh": "纳玛尔贡的形象一望即知：一条发光的弧带自头顶绕过双手直到胯下，把整个身体圈在闪电之环里；头顶、双肘与双膝上缚着石斧。雨季雷暴逼近时，他高坐积雨云顶巡视大地，以斧击云便是霹雳，弧带闪动便是闪电。旱季里他远居天际，比宁人抬头能在天空的某处指出他蛰伏的方位。对惊雷的规矩由此而来：雷暴当头时不可高声喧哗、不可嘲弄雷声，以免引他掷斧。\n\n他的孩子是一种橙蓝相间的艳丽蝗虫——氏族语称阿尤尔，通称莱卡特蝗。这种蝗虫恰在雨季雷暴将临的十一、十二月间现身岩地，传统解释为纳玛尔贡的儿女出来呼唤父亲降雨，见到它们就知道雷季已至。生物物候与叙事在此严密对应，是阿纳姆地口传知识以叙事编码季节历法的典型例子。\n\n1964年，巴迪玛尔画师纳永博尔米（人称“梭鱼查理”）在卡卡杜布伦古伊（旧称诺尔朗吉）的安邦邦岩窟重绘了纳玛尔贡与家族群像，这是他一生所绘数百处岩画的收官之作。如今这幅X光风格的闪电之人是卡卡杜国家公园解说步道的核心站点，每年雨季前后仍有比宁向导在画前向来客讲述他的规矩。",
+    "en": "Namarrkon is instantly recognisable: a luminous band runs from his head, out through his hands, and down past his hips, enclosing his whole body in a hoop of lightning, and stone axes are bound to his head, elbows, and knees. When the monsoon storms build, he rides the tops of the thunderheads surveying the country; a blow of his axe against the cloud is the thunderclap, the flicker of his band the lightning. Through the dry season he keeps his distance in the sky, and Bininj can point to where he waits. From him come the rules for behaviour under a storm: no shouting, no mocking the thunder, lest he be provoked to throw an axe.\n\nHis children are the alyurr — Leichhardt's grasshoppers, brilliant in orange and blue — which emerge on the stone country in November and December, just as the first storms of the wet season gather. Tradition reads their appearance as Namarrkon's children calling their father to bring the rain: a precise interlocking of insect phenology and narrative, and a textbook case of how Arnhem Land oral knowledge encodes the seasonal calendar in story.\n\nIn 1964 the Badmardi painter Nayombolmi, known as Barramundi Charlie, repainted Namarrkon and his family group at the Anbangbang shelter at Burrungkuy (Nourlangie) in Kakadu — the final work in a lifetime of hundreds of rock paintings. The X-ray-style Lightning Man is now the centrepiece of the park's interpretive walk, where Bininj guides still tell visitors his rules as the storm season turns."
+  },
+  "geo": {
+    "lat": -12.865,
+    "lon": 132.81,
+    "label": {
+      "zh": "布伦古伊安邦邦岩窟（卡卡杜国家公园）",
+      "en": "Anbangbang shelter, Burrungkuy (Nourlangie), Kakadu National Park"
+    }
+  },
+  "domains": {
+    "zh": [
+      "闪电",
+      "雷暴",
+      "雨季",
+      "岩画"
+    ],
+    "en": [
+      "Lightning",
+      "Thunderstorms",
+      "Wet season",
+      "Rock art"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "比宁（库温库语诸群体，西阿纳姆地）",
+        "en": "Bininj (Kunwinjku-speaking groups of western Arnhem Land)"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Attributes"
+      },
+      "value": {
+        "zh": "环身闪电弧带，头膝缚石斧",
+        "en": "A lightning band encircling the body, stone axes at head and knees"
+      }
+    },
+    {
+      "label": {
+        "zh": "儿女",
+        "en": "Children"
+      },
+      "value": {
+        "zh": "阿尤尔（莱卡特蝗），雷季来临的信使",
+        "en": "Alyurr, the Leichhardt's grasshoppers, heralds of the storm season"
+      }
+    }
+  ],
+  "related": [
+    "mimih",
+    "rainbow-serpent",
+    "wandjina"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·查卢普卡《时间之旅：世界上延续最久的艺术传统》（1993）",
+      "en": "George Chaloupka, Journey in Time: The World's Longest Continuing Art Tradition (1993)"
+    },
+    {
+      "zh": "卡卡杜国家公园官方解说材料（比宁传统所有者与澳大利亚公园局共同发布）",
+      "en": "Official interpretive materials of Kakadu National Park (published jointly by Bininj traditional owners and Parks Australia)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/namarrkon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anbangbang_gallery_Namondjok,_Namarrgon,_and_Barrginj_rock_art.jpg",
+    "sourceTitle": "Anbangbang gallery Namondjok, Namarrgon, and Barrginj rock art",
+    "artist": "Dustin M. Ramsey (Kralizec!), 2002",
+    "license": "CC BY-SA 2.5",
+    "width": 1000,
+    "height": 664
+  }
+}

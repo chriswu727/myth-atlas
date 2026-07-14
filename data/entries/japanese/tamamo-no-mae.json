@@ -1,0 +1,104 @@
+{
+  "id": "tamamo-no-mae",
+  "tradition": "japanese",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "玉藻前",
+    "en": "Tamamo no Mae",
+    "original": "玉藻前（たまものまえ）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "化身宠姬的妖狐，杀生石的由来",
+    "en": "The Fox Courtesan Behind the Killing Stone"
+  },
+  "summary": {
+    "zh": "化身绝世美女、迷惑鸟羽上皇的妖狐，被阴阳师识破后逃往那须野；死后化为喷吐毒气的杀生石，后世又把她与九尾狐、妲己相连。",
+    "en": "A fox spirit who charmed Retired Emperor Toba as a peerless court lady; unmasked by a diviner, hunted down on the Nasu plain, she became the poison-breathing Killing Stone, later tied to the nine-tailed fox and Daji."
+  },
+  "description": {
+    "zh": "室町时代御伽草子《玉藻草纸》讲述这个故事：鸟羽上皇身边有一位才貌无双的宠姬玉藻前，通晓和汉典籍，身上散发异香，据说黑夜里通体发光。上皇却日渐病重，药石无效。阴阳师安倍泰成占出病根就在玉藻前——她是一头年岁久远的妖狐。在为上皇祈禳的泰山府君祭上，玉藻前被逼现出原形，化作白狐逃出宫廷，遁往下野国那须野。\n\n朝廷命三浦介、上总介两名东国武士率大军追讨。传说武士们先以放犬骑射的「犬追物」演练围猎之术，而后在那须野射杀妖狐。狐死后怨气凝成一块巨石，鸟兽虫豸近之即毙，得名「杀生石」。南北朝时代，曹洞宗名僧玄翁和尚以禅杖击碎此石、超度狐灵，「玄能」由此成为日语中铁锤的名称。能剧《杀生石》搬演的正是这段石头向游僧自述前世的故事。\n\n早期文本里的玉藻前是双尾狐；江户时代的读本与净琉璃把她扩写成祸乱三国的九尾金毛白面狐——在印度为华阳夫人、在殷商为妲己、再渡日本为玉藻前，高井兰山《绘本三国妖妇传》（1803至1805年）是集大成之作。那须温泉乡的杀生石至今立在硫气弥漫的山坡上，2022年3月巨石自然断裂，一时成为全国新闻。",
+    "en": "The Muromachi-period tale Tamamo no Soshi tells the story. At the court of Retired Emperor Toba lived a favorite of matchless beauty and learning called Tamamo no Mae, whose body gave off a strange fragrance and was said to glow in the dark. The emperor sickened, and no medicine availed, until the diviner Abe no Yasunari traced the illness to the lady herself: she was a fox of great age. Forced to reveal her true shape during a rite of exorcism, she fled the palace as a white fox and made for the Nasu moor in the east.\n\nThe court sent the warriors Kazusa-no-suke and Miura-no-suke with a great host. Legend has them first perfecting their mounted archery by shooting at running dogs, an origin claimed for the inuoumono exercise, before they brought the fox down on the plain. Her malice congealed into a boulder that killed every bird and beast that came near, the Sessho-seki or Killing Stone. In the fourteenth century the Zen monk Genno shattered it with his staff and released the spirit, which is why a heavy hammer is still called a genno in Japanese; the noh play Sessho-seki stages the stone confessing its past to a traveling priest.\n\nEarly texts give the fox two tails; Edo-period fiction, culminating in Takai Ranzan's Ehon Sangoku Yofuden (1803-05), rewrote her as the nine-tailed fox who had ruined courts in India and China as Lady Kayo and Daji before crossing to Japan. The stone still stands among the sulfur vents of Nasu, and its natural splitting in March 2022 made national news."
+  },
+  "domains": {
+    "zh": [
+      "妖狐",
+      "宫廷",
+      "怨灵",
+      "杀生石"
+    ],
+    "en": [
+      "Fox spirits",
+      "The court",
+      "Vengeful spirits",
+      "The Killing Stone"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "原形",
+        "en": "True form"
+      },
+      "value": {
+        "zh": "白面金毛妖狐（早期为二尾，后世作九尾）",
+        "en": "A golden-furred white fox, two-tailed in early texts, nine-tailed later"
+      }
+    },
+    {
+      "label": {
+        "zh": "识破者",
+        "en": "Unmasked by"
+      },
+      "value": {
+        "zh": "阴阳师安倍泰成",
+        "en": "The onmyoji Abe no Yasunari"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗迹",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "栃木县那须的杀生石，2022年自然断裂",
+        "en": "The Killing Stone at Nasu, which split naturally in 2022"
+      }
+    }
+  ],
+  "related": [
+    "shuten-doji",
+    "yuki-onna"
+  ],
+  "sources": [
+    {
+      "zh": "御伽草子《玉藻草纸》（室町时代）",
+      "en": "Otogizoshi Tamamo no Soshi (Muromachi period)"
+    },
+    {
+      "zh": "能《杀生石》（室町时代）",
+      "en": "Noh play Sessho-seki (Muromachi period)"
+    },
+    {
+      "zh": "高井兰山《绘本三国妖妇传》（1803—1805年）",
+      "en": "Takai Ranzan, Ehon Sangoku Yofuden (1803-05)"
+    }
+  ],
+  "geo": {
+    "lat": 37.1,
+    "lon": 139.98,
+    "label": {
+      "zh": "杀生石（栃木县那须町）",
+      "en": "The Killing Stone (Nasu, Tochigi)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tamamo-no-mae.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yoshitoshi_The_Death_Stone_of_Nasu_Moor.jpg",
+    "sourceTitle": "Yoshitoshi The Death Stone of Nasu Moor",
+    "license": "Public domain",
+    "width": 666,
+    "height": 1000
+  }
+}

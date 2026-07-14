@@ -1,0 +1,106 @@
+{
+  "id": "tain-bo-cuailnge",
+  "tradition": "celtic",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "夺牛记",
+    "en": "The Cattle Raid of Cooley",
+    "original": "Táin Bó Cúailnge",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "阿尔斯特故事群的中心史诗",
+    "en": "The central epic of the Ulster Cycle"
+  },
+  "summary": {
+    "zh": "爱尔兰最重要的史诗：康诺特女王梅芙为一头褐色神牛举兵入侵阿尔斯特，全境男丁遭诅咒瘫软，十七岁的库丘林独守浅滩。",
+    "en": "Ireland's great epic: Queen Medb of Connacht invades Ulster to seize the Brown Bull of Cooley while the province's men lie cursed, leaving the boy Cu Chulainn to hold the fords alone."
+  },
+  "description": {
+    "zh": "《夺牛记》是古爱尔兰文学的中心作品，常被称作“爱尔兰的伊利亚特”。故事从一场枕边斗富开始：康诺特女王梅芙与丈夫艾利尔清点家产，样样相当，唯独艾利尔有一头白角神牛芬本纳赫。梅芙听说阿尔斯特库利地方有与之匹敌的褐牛唐·库林格，先礼后兵借牛不成，便集结四省联军入侵。此时阿尔斯特男丁正受玛查的诅咒——因国王曾逼怀胎的女神赛跑——在危难时刻集体瘫软如产妇，只有十七岁、不在诅咒之列的库丘林一人迎敌。\n\n库丘林援引单挑古法，在浅滩上逐一斩杀联军派出的勇士，拖住大军整整一冬。梅芙不断毁约偷进，战争女神摩莉甘也来搅局。全诗最沉痛的段落是浅滩三日之战：库丘林与同门义兄弗迪亚被迫相斗，夜里还互赠药草食物，第三天库丘林以加·博尔加杀死对方，抱尸恸哭。最终阿尔斯特人苏醒参战，梅芙兵败，但褐牛已被掳走；两头神牛随即自行决斗，褐牛把白角牛撕碎，遗骸洒落各地化为地名，自己也力竭而死——两省为之流血的战利品归于乌有。\n\n史诗今存三个校订本，最早的抄本是约1106年的《褐牛之书》，12世纪《伦斯特书》本末尾留有抄经僧的拉丁文按语：“身为抄写者，我不为此中故事作保，有些是魔鬼的欺哄，有些是诗人的虚构。”1969年诗人托马斯·金塞拉的英译使它进入现代读者视野。",
+    "en": "The Tain Bo Cuailnge is the centrepiece of Old Irish literature, often called the Irish Iliad. It opens with a marital audit: Queen Medb of Connacht and her husband Ailill compare their possessions and find them equal in everything except Ailill's white-horned bull, Finnbennach. Hearing that the district of Cooley in Ulster holds its match, the brown bull Donn Cuailnge, Medb first tries to borrow it, then raises the armies of four provinces to take it. Ulster meanwhile lies under Macha's curse, its men struck down in crisis with the weakness of a woman in labour, punishment for a king who once forced the pregnant goddess to race his horses. Only Cu Chulainn, seventeen and exempt, stands in the invaders' path.\n\nInvoking the right of single combat at the fords, he kills Medb's champions one by one through a winter while she cheats and probes and the war goddess Morrigan meddles. The epic's most mourned episode is the three days' fight at the ford between Cu Chulainn and his foster-brother Ferdiad, who exchange healing herbs and food each night until the gae bolga ends it, and the victor laments over the body. When the Ulstermen finally rise, Medb's host is routed, but the brown bull has already been driven west. The two bulls then fight their own war: Donn Cuailnge tears Finnbennach apart, scatters pieces of him across Ireland into place-names, and dies of the effort, leaving both provinces bereaved of the prize.\n\nThe tale survives in three recensions, the earliest in Lebor na hUidre, the Book of the Dun Cow, written about 1106. The Book of Leinster copy ends with the scribe's Latin verdict: he will not vouch for the stories, some of which are 'the deceptions of demons' and some 'poetic figments'. Thomas Kinsella's 1969 translation carried the epic to modern readers."
+  },
+  "domains": {
+    "zh": [
+      "史诗",
+      "战争",
+      "神牛",
+      "诅咒"
+    ],
+    "en": [
+      "Epic",
+      "War",
+      "Divine bulls",
+      "Curse"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早抄本",
+        "en": "Earliest manuscript"
+      },
+      "value": {
+        "zh": "《褐牛之书》，约1106年",
+        "en": "Lebor na hUidre, c. 1106"
+      }
+    },
+    {
+      "label": {
+        "zh": "两头神牛",
+        "en": "The two bulls"
+      },
+      "value": {
+        "zh": "库利褐牛与白角牛芬本纳赫",
+        "en": "Donn Cuailnge and Finnbennach"
+      }
+    },
+    {
+      "label": {
+        "zh": "舞台",
+        "en": "Setting"
+      },
+      "value": {
+        "zh": "库利半岛至康诺特的行军线",
+        "en": "From the Cooley Peninsula to Connacht"
+      }
+    }
+  ],
+  "related": [
+    "cu-chulainn",
+    "morrigan",
+    "medb"
+  ],
+  "sources": [
+    {
+      "zh": "《褐牛之书》（Lebor na hUidre，约1106年）",
+      "en": "Lebor na hUidre (the Book of the Dun Cow), c. 1106"
+    },
+    {
+      "zh": "《伦斯特书》（Book of Leinster，12世纪）",
+      "en": "The Book of Leinster, 12th century"
+    },
+    {
+      "zh": "托马斯·金塞拉英译《The Táin》（1969）",
+      "en": "Thomas Kinsella (trans.), The Tain, 1969"
+    }
+  ],
+  "geo": {
+    "lat": 54.03,
+    "lon": -6.25,
+    "label": {
+      "zh": "库利半岛（劳斯郡）",
+      "en": "Cooley Peninsula, Co. Louth"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tain-bo-cuailnge.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Maev_by_J.C._Leyendecker_(1911).jpg",
+    "sourceTitle": "Queen Maev by J.C. Leyendecker (1911)",
+    "artist": "Joseph Christian Leyendecker (1874 - 1951)",
+    "license": "Public domain",
+    "width": 683,
+    "height": 1000
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "xi-he",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "羲和",
+    "en": "Xihe"
+  },
+  "title": {
+    "zh": "生十日、浴日于甘渊的日母",
+    "en": "Mother of the Ten Suns"
+  },
+  "summary": {
+    "zh": "帝俊之妻，住在东南海外甘水之间的羲和之国，生下十个太阳，在甘渊为太阳沐浴；后世演变为替太阳驾车的御者。",
+    "en": "Wife of Di Jun, dwelling in her own country beyond the southeastern sea, she bore the ten suns and bathes them in the Sweet Gulf; later tradition made her the sun's charioteer."
+  },
+  "description": {
+    "zh": "大荒南经在东南海之外、甘水之间安置了一个羲和之国，国中有一位女子名叫羲和，正在甘渊为太阳沐浴。经文交代她的身份：羲和是帝俊之妻，生了十个太阳。十个孩子轮流当值，栖息在东方汤谷的扶桑树上，九日居下枝，一日居上枝，每天一个升上天空。为初生的太阳洗浴，是这位日母被定格的姿态。\n\n进入传世文献后，羲和经历了两条相反的路。《尚书·尧典》把她拆成羲氏与和氏两族历官，尧命羲仲、羲叔、和仲、和叔分驻四方，「历象日月星辰，敬授民时」——生太阳的母亲被历史化成制定历法的官员。《楚辞》则保留了神话的路线：《离骚》「吾令羲和弭节兮，望崦嵫而勿迫」，羲和成了为太阳驾车的御者，诗人请她放慢鞭子，别让日头急着落山。汉代以后，六龙驾日车、羲和执辔的形象基本定型。\n\n日母、历官、日御三种身份都从这段几十字的经文里生长出来。2021年中国发射的首颗太阳探测科学技术试验卫星命名为「羲和号」，这个名字至今仍与观测太阳的事业绑在一起。",
+    "en": "The Classic of the Great Wilderness: South places a Country of Xihe beyond the southeastern sea, between the waters of Gan. There a woman named Xihe is bathing a sun in the Sweet Gulf. The text states her identity plainly: she is a wife of Di Jun and gave birth to ten suns. Her children roost on the Fusang tree in the hot springs valley of the east, nine on the lower branches and one on the upper, taking the sky in turn; bathing each newborn sun is the pose in which the classic fixes her forever.\n\nIn transmitted literature she traveled two opposite roads. The 'Canon of Yao' in the Book of Documents split her into the Xi and He clans of calendar officials, four brothers dispatched to the four quarters to 'observe the sun, moon and stars and respectfully give the seasons to the people' — the mother of suns historicized into astronomers. The Songs of Chu kept the myth alive: in the Li Sao the poet begs 'Xihe, slacken your pace, do not press toward Yanzi mountain', casting her as the sun's charioteer. From the Han period onward the image settled: six dragons drawing the sun's chariot, Xihe holding the reins.\n\nChina's first solar observation satellite, launched in 2021, was named Xihe, keeping the sun-mother's name attached to the business of watching the sun."
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "母神",
+      "历法",
+      "甘渊"
+    ],
+    "en": [
+      "Sun",
+      "Mother Goddess",
+      "Calendar",
+      "Sweet Gulf"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "身份",
+        "en": "Identity"
+      },
+      "value": {
+        "zh": "帝俊之妻，十日之母",
+        "en": "Wife of Di Jun, mother of the ten suns"
+      }
+    },
+    {
+      "label": {
+        "zh": "居地",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "东南海外、甘水之间的羲和之国",
+        "en": "The Country of Xihe beyond the southeastern sea"
+      }
+    },
+    {
+      "label": {
+        "zh": "定格场景",
+        "en": "Signature scene"
+      },
+      "value": {
+        "zh": "方日浴于甘渊——正为太阳沐浴",
+        "en": "Bathing a sun in the Sweet Gulf"
+      }
+    }
+  ],
+  "related": [
+    "di-jun",
+    "chang-xi",
+    "fu-sang-shi-ri",
+    "hou-yi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒南经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: South'"
+    },
+    {
+      "zh": "《尚书·尧典》",
+      "en": "Book of Documents, 'Canon of Yao'"
+    },
+    {
+      "zh": "屈原《离骚》",
+      "en": "Qu Yuan, Li Sao"
+    }
+  ],
+  "volume": {
+    "zh": "大荒南经",
+    "en": "Classic of the Great Wilderness: South"
+  },
+  "image": {
+    "file": "/images/entries/xi-he.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xihe(deity).jpg",
+    "sourceTitle": "Xihe(deity)",
+    "artist": "Unknown artistUnknown artist",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 956
+  }
+}

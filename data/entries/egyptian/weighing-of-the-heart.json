@@ -1,0 +1,95 @@
+{
+  "id": "weighing-of-the-heart",
+  "tradition": "egyptian",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "心脏称量",
+    "en": "Weighing of the Heart"
+  },
+  "title": {
+    "zh": "冥界审判",
+    "en": "The Judgment of the Dead"
+  },
+  "summary": {
+    "zh": "死者在双重真理之殿受审：心脏与玛亚特的羽毛同置天平，托特记录，怪兽阿米特候在一旁——心脏过重者被当场吞噬，魂飞魄散。",
+    "en": "The dead stand trial in the Hall of Two Truths: the heart is balanced against Maat's feather while Thoth records and the monster Ammit waits — a heavy heart is devoured on the spot."
+  },
+  "description": {
+    "zh": "每个埃及死者都要走进'双重真理之殿'接受终审。仪程在《亡灵书》第125章中定型：死者先向奥西里斯致意，再依次面对四十二位陪审神，逐条宣告'我未杀人''我未窃取神庙口粮''我未使人流泪'——这套'否定忏悔'相当于一份来世的无罪陈述。随后进行称量：阿努比斯把死者的心脏放上天平一端，另一端是玛亚特的鸵鸟羽毛。埃及人视心脏为记忆与良知的居所，一生的作为都存于其中，谎言会让它变沉。托特立在天平旁执笔记录，鹰首的荷鲁斯引导死者，天平顶端常蹲着一只狒狒。\n\n殿中还候着阿米特——'吞噬亡者之兽'，鳄鱼的头、狮子的前半身、河马的后半身，集尼罗河谷三大食人猛兽于一体。心脏若重于羽毛，托特宣读罪状，阿米特当场将心脏吞下，死者就此'第二次死亡'，彻底湮灭，没有地狱，只有不存在。通过称量者被宣告'声音真实'，由荷鲁斯引见奥西里斯，获准进入芦苇之野。\n\n最著名的图像出自大英博物馆藏《阿尼纸草》（约公元前1250年）：书记阿尼夫妇躬身立于天平旁，整套审判班底一一在列。生者的对策也早有准备——葬仪中放在木乃伊胸口的心形圣甲虫护身符刻着《亡灵书》第30B章咒文，恳请自己的心脏在称量时不要出言作证反对主人。",
+    "en": "Every Egyptian dead person faced a final trial in the Hall of Two Truths, its procedure fixed in spell 125 of the Book of the Dead. The deceased greets Osiris, then addresses each of forty-two assessor gods with a declaration of innocence — 'I have not killed,' 'I have not stolen the god's offerings,' 'I have not caused anyone to weep' — the so-called Negative Confession. Then comes the weighing: Anubis sets the heart on one pan of the balance and the ostrich feather of Maat on the other. The heart was held to be the seat of memory and conscience, the ledger of a lifetime; falsehood makes it heavy. Thoth stands by with his pen to record, falcon-headed Horus escorts the deceased, and a baboon often squats atop the balance post.\n\nAlso present is Ammit, 'devourer of the dead': crocodile head, lion forequarters, hippopotamus hindquarters — the three great man-killers of the Nile valley in one body. If the heart outweighs the feather, Thoth reads out the verdict and Ammit swallows the heart on the spot; this is the 'second death,' complete annihilation. There is no hell in the scheme, only non-existence. Those who pass are declared 'true of voice' and led by Horus before Osiris, cleared to enter the Field of Reeds.\n\nThe most famous rendering of the scene is in the Papyrus of Ani (c. 1250 BCE, British Museum), where the scribe Ani and his wife bow beside the balance amid the full judicial cast. The living prepared countermeasures in advance: the heart scarab laid on the mummy's chest carries spell 30B, imploring the heart not to testify against its owner at the weighing."
+  },
+  "domains": {
+    "zh": [
+      "审判",
+      "来世",
+      "道德",
+      "天平"
+    ],
+    "en": [
+      "Judgment",
+      "Afterlife",
+      "Morality",
+      "The Balance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "审判地点",
+        "en": "Venue"
+      },
+      "value": {
+        "zh": "双重真理之殿",
+        "en": "Hall of Two Truths"
+      }
+    },
+    {
+      "label": {
+        "zh": "执事诸神",
+        "en": "Officiants"
+      },
+      "value": {
+        "zh": "阿努比斯掌秤，托特记录，奥西里斯主审",
+        "en": "Anubis at the scales, Thoth recording, Osiris presiding"
+      }
+    },
+    {
+      "label": {
+        "zh": "败诉后果",
+        "en": "Penalty"
+      },
+      "value": {
+        "zh": "心脏被阿米特吞噬，第二次死亡",
+        "en": "Heart devoured by Ammit; the second death"
+      }
+    }
+  ],
+  "related": [
+    "osiris",
+    "anubis",
+    "thoth",
+    "maat",
+    "duat",
+    "book-of-the-dead"
+  ],
+  "sources": [
+    {
+      "zh": "《亡灵书》第125章",
+      "en": "Book of the Dead, spell 125"
+    },
+    {
+      "zh": "《阿尼纸草》（大英博物馆藏，约公元前1250年）",
+      "en": "Papyrus of Ani, British Museum, c. 1250 BCE"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/weighing-of-the-heart.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BD_Weighing_of_the_Heart.jpg",
+    "sourceTitle": "BD Weighing of the Heart",
+    "artist": "Photographed by the British Museum; original artist unknown",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 515
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "bahamut",
+  "tradition": "arabian",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "巴哈姆特",
+    "en": "Bahamut",
+    "original": "بهموت",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "驮着世界的宇宙巨鱼",
+    "en": "The cosmic fish that bears the world"
+  },
+  "summary": {
+    "zh": "中世纪伊斯兰宇宙图景中托住大地的巨鱼：大地立于天使肩头，天使立于巨岩，巨岩驮在巨牛背上，巨牛立于巴哈姆特之背。诸海入其鼻孔，不过如荒漠中的一粒芥子。",
+    "en": "The immense fish at the base of medieval Islamic cosmography: the earth rests on an angel, the angel on a rock, the rock on a bull, the bull on Bahamut. All the seas in its nostril: a mustard seed."
+  },
+  "description": {
+    "zh": "在中世纪阿拉伯宇宙志描绘的世界构造里，巴哈姆特位于一切的底层。大地被造出时摇晃不定，真主便遣一位天使背负它；天使脚下须有立处，于是有了一块宝石巨岩；巨岩之下是一头长着无数眼睛与犄角的巨牛（常称库尤萨）；巨牛立在一条大鱼的背上——这就是巴哈姆特，鱼下是水，水下是风，风下是幽暗。幽暗之下为何物，人的知识到此为止。卡兹维尼十三世纪的《创造物之奇迹与万物之异象》等宇宙志著作记录了这一层层相驮的图景。形容它的巨大有一个流传很广的比方：把世上所有的海放进它的一个鼻孔，不过像荒漠里的一粒芥子。\n\n巴哈姆特的名字来自希伯来语的贝希摩斯（Behemoth）——《约伯记》中那头陆上巨兽，进入阿拉伯语传统后变成了水中巨鱼，与另一头巨兽利维坦的水陆属性正好对调。伯顿英译《一千零一夜》第四九六夜有伊萨（耶稣）蒙允得见巴哈姆特的异象，看了三日昏迷不醒。\n\n博尔赫斯在《幻兽辞典》里为它立传，把这层层叠叠的宇宙比作显示因果无穷倒退的图解。现代奇幻彻底改写了它的形态：《龙与地下城》让巴哈姆特当上白金龙神，《最终幻想》让它成为召唤兽里的龙王——巨鱼上岸化龙，原典里那片驮着世界的沉默脊背反而少有人知。",
+    "en": "In the layered world-picture of medieval Arab cosmography, Bahamut lies at the bottom of everything. When the earth was created it swayed, so God sent an angel to bear it up; the angel needed footing, so a rock of gem was set beneath him; under the rock stands a colossal bull, often called Kuyutha, with uncounted eyes and horns; and the bull stands on the back of a fish — Bahamut. Beneath the fish is water, beneath the water wind, beneath the wind darkness, and there human knowledge ends. Cosmographies such as al-Qazwini's thirteenth-century Wonders of Creation record the scheme, along with a famous measure of the fish's size: all the seas of the world, set in one of its nostrils, would be as a mustard seed in a desert.\n\nThe name descends from the Hebrew Behemoth, the land beast of the Book of Job, which in Arabic tradition became a fish of the abyss — trading elements, as it were, with the watery Leviathan. In Burton's English translation of the Thousand and One Nights, the 496th night grants Isa (Jesus) a vision of Bahamut; he falls senseless for three days.\n\nBorges gave the fish an entry in The Book of Imaginary Beings, reading the tower of angel, rock, bull and fish as a figure for the infinite regress of causes. Modern fantasy rebuilt the creature entirely: Dungeons and Dragons crowned Bahamut a platinum dragon god, Final Fantasy made him the king of summoned dragons, and the silent back that carries the world in the old texts is now the least-known thing about him."
+  },
+  "domains": {
+    "zh": [
+      "宇宙构造",
+      "巨鱼",
+      "深渊",
+      "世界之基"
+    ],
+    "en": [
+      "Cosmography",
+      "Giant fish",
+      "The abyss",
+      "Foundation of the world"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "位置",
+        "en": "Position"
+      },
+      "value": {
+        "zh": "巨牛库尤萨之下，水、风与幽暗之上",
+        "en": "Beneath the bull Kuyutha, above water, wind and darkness"
+      }
+    },
+    {
+      "label": {
+        "zh": "体量比方",
+        "en": "Measure"
+      },
+      "value": {
+        "zh": "诸海入其鼻孔，如荒漠一芥子",
+        "en": "All seas in its nostril, a mustard seed in a desert"
+      }
+    },
+    {
+      "label": {
+        "zh": "词源",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "希伯来语“贝希摩斯”的阿拉伯语化",
+        "en": "Arabicised from the Hebrew Behemoth"
+      }
+    }
+  ],
+  "related": [
+    "mount-qaf",
+    "roc"
+  ],
+  "sources": [
+    {
+      "zh": "卡兹维尼《创造物之奇迹与万物之异象》（13世纪）",
+      "en": "Al-Qazwini, The Wonders of Creation ('Aja'ib al-makhluqat), 13th century"
+    },
+    {
+      "zh": "《一千零一夜》理查德·伯顿英译本第496夜（1885）",
+      "en": "The Thousand and One Nights, night 496 in Richard Burton's translation, 1885"
+    },
+    {
+      "zh": "博尔赫斯《幻兽辞典》（1967）",
+      "en": "Jorge Luis Borges, The Book of Imaginary Beings, 1967"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/bahamut.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Qazwini_Cosmology.jpg",
+    "sourceTitle": "Al Qazwini Cosmology",
+    "artist": "Al Qazwini",
+    "license": "Public domain",
+    "width": 633,
+    "height": 1000
+  }
+}

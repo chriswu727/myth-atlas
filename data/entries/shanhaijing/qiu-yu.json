@@ -1,0 +1,92 @@
+{
+  "id": "qiu-yu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "犰狳",
+    "en": "Qiuyu"
+  },
+  "title": {
+    "zh": "见人装睡的蝗灾之兆",
+    "en": "The Beast That Feigns Sleep and Portends Locusts"
+  },
+  "summary": {
+    "zh": "余峨之山的怪兽：兔身鸟嘴，鸱鸮的眼，蛇的尾巴，见人就闭眼装死；它一出现，蝗虫成灾、庄稼败坏。两千年后，这个名字被借给了美洲的犰狳。",
+    "en": "A beast of Yu'e Mountain: hare's body, bird's beak, owl's eyes, snake's tail, playing dead at the sight of people. Its appearance heralds locust plagues. Two millennia later the name was borrowed for the armadillo."
+  },
+  "description": {
+    "zh": "东次二经的余峨之山，山上多梓树和楠木，山下多牡荆和枸杞。山中有兽：兔子的身形，鸟的尖喙，鸱鸮一样的圆眼，拖一条蛇尾，名叫犰狳，叫声像在喊自己的名字。它有一个招牌动作——“见人则眠”，一见到人就闭眼躺倒，装死装睡。但这份无害是假象：“见则螽蝗为败”，它现身之处，蝗虫将起，庄稼要毁。\n\n在《山海经》的灾兆体系里，犰狳对应的是农人最具体的恐惧。旱涝还可以等待，蝗灾是眼看着一年的收成在几天内被吃空。一只见人就装死的小兽，携带的却是遮天蔽日的虫群，反差让这一条在东次二经的凶兆序列里显得格外不动声色。\n\n这个名字的第二次生命在近代：动物学家为美洲的披甲兽找中文名时，取了“犰狳”二字——那种受惊便蜷缩不动、伏地装死的习性，与“见人则眠”几乎严丝合缝。今天绝大多数人说起犰狳指的都是美洲的甲兽，山海经原典里那只兔身鸟喙的蝗灾之兆，反而成了这个名字的注脚。",
+    "en": "Yu'e Mountain, in the second eastern guideway, grows catalpa and nanmu above, chaste-tree and wolfberry below. Its beast has a hare's body, a bird's beak, the round eyes of an owl, and a snake's tail; it is called the qiuyu, and its cry sounds like its own name. It has a signature move: 'when it sees a person, it sleeps' — it drops down, closes its eyes, and plays dead. The harmlessness is a false front, for 'when it is seen, locusts ruin the crops': wherever it appears, the swarms rise and the harvest fails.\n\nWithin the classic's system of omens, the qiuyu answers to the farmer's most concrete terror. Drought and flood can be waited out; a locust plague devours a year's work in days, in plain sight. A timid animal that faints at the sight of people, yet carries sky-darkening swarms in its wake — the contrast makes this one of the quieter horrors of the eastern catalogue.\n\nThe name had a second life. When zoologists needed a Chinese word for the armoured mammals of the Americas, they reached for 'qiuyu': the armadillo's habit of freezing and curling up when startled matches 'when it sees a person, it sleeps' almost clause for clause. Today the word almost always means the American animal, and the hare-bodied, bird-beaked locust omen of the original text survives as a footnote to its own name."
+  },
+  "domains": {
+    "zh": [
+      "凶兆",
+      "蝗灾",
+      "装死",
+      "名称流变"
+    ],
+    "en": [
+      "Ill Omens",
+      "Locust Plagues",
+      "Feigning Death",
+      "Afterlife of Names"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "兔身，鸟喙，鸱目，蛇尾",
+        "en": "Hare's body, bird's beak, owl's eyes, snake's tail"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habits"
+      },
+      "value": {
+        "zh": "见人则眠（装死）",
+        "en": "Plays dead at the sight of people"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆应",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则螽蝗为败",
+        "en": "Its appearance brings locusts that ruin the crops"
+      }
+    }
+  ],
+  "related": [
+    "zhu-ru",
+    "you-you",
+    "fei"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次二经·余峨之山）",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Yu'e Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/qiu-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic283_-_%E7%8A%B0%E7%8B%B3%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic283 - 犰狳圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 685,
+    "height": 1000
+  }
+}

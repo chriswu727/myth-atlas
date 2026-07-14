@@ -1,0 +1,102 @@
+{
+  "id": "garden-of-eden",
+  "tradition": "abrahamic",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "伊甸园",
+    "en": "Garden of Eden",
+    "original": "גַּן־עֵדֶן",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "人类失去的乐园",
+    "en": "The Lost Paradise of Humankind"
+  },
+  "summary": {
+    "zh": "《创世记》中神在东方栽种的园子，四条河由此分流，园中有生命树与分别善恶树。人偷吃禁果被逐后，基路伯与火焰剑把守归路。",
+    "en": "The garden God planted in the east in Genesis, source of four rivers, home to the tree of life and the tree of knowledge. After the expulsion, cherubim and a flaming sword bar the way back."
+  },
+  "description": {
+    "zh": "《创世记》第二章记载，耶和华神在东方的伊甸立了一个园子，把他用尘土所造的人安置在那里，使他修理看守。园中各样树木悦人眼目、果实好作食物，正中有两棵树：生命树，与分别善恶树。有河从伊甸流出滋润园子，从那里分为四道：比逊河环绕有金子的哈腓拉全地，基训河环绕古实全地，第三道是希底结河（底格里斯河），第四道是幼发拉底河。神吩咐人园中各树的果子都可以吃，唯独分别善恶树的果子不可吃，\"因为你吃的日子必定死\"。\n\n第三章讲述失乐园：蛇引诱女人说\"你们不一定死\"，吃的日子眼睛就明亮了，如神能知道善恶。女人见那果子好作食物、悦人眼目，就摘下吃了，又给丈夫吃。二人眼睛明亮，才知道自己赤身露体，便拿无花果树的叶子编作裙子。神在天起凉风时行走园中，追问之下宣布惩罚：蛇必用肚子行走终身吃土，女人生产必多受苦楚，地必为亚当的缘故受咒诅。神用皮子做衣服给二人穿上，将他们逐出伊甸园，在园子东边安设基路伯和四面转动发火焰的剑，把守生命树的道路。\n\n经文提到底格里斯与幼发拉底两条真实河流，历代注家因此多把伊甸想象在美索不达米亚，但比逊与基训无法确指，园址终究悬而未决。《以西结书》第二十八章另存一个传统，称伊甸为\"神的园\"，在圣山之上，佩满宝石。\"乐园\"（paradise）一词经波斯语\"围苑\"（pairidaeza）入希腊语，七十士译本用它翻译伊甸园。弥尔顿《失乐园》（1667年）铺陈从天使反叛到人被逐出园子的全过程，是这一题材的文学定本。",
+    "en": "Genesis 2 tells how the Lord God planted a garden in Eden, in the east, and set there the man he had formed from dust, to till and keep it. Every tree pleasant to the sight and good for food grew in it, and in its midst two trees: the tree of life, and the tree of the knowledge of good and evil. A river flowed out of Eden to water the garden and divided into four: the Pishon, winding through Havilah where there is gold; the Gihon, around the land of Cush; the Hiddekel, which is the Tigris; and the Euphrates. Of every tree the man might eat, save the tree of knowledge — 'for in the day that you eat of it you shall surely die.'\n\nChapter 3 tells the loss. The serpent assures the woman that they will not die, but that their eyes will be opened and they will be like God, knowing good and evil. Seeing that the tree was good for food and a delight to the eyes, she took its fruit and ate, and gave it to her husband. Their eyes were opened, they knew themselves naked, and they sewed fig leaves for coverings. God, walking in the garden in the cool of the day, pronounced the sentences: the serpent to go on its belly and eat dust, the woman to bear children in pain, the ground to be cursed for the man's sake. He clothed the pair in garments of skins, drove them out, and stationed cherubim east of the garden with a flaming, turning sword to guard the way to the tree of life.\n\nBecause the text names the real Tigris and Euphrates, commentators have long placed Eden somewhere in Mesopotamia, but the Pishon and Gihon resist identification and the site remains unfixed. Ezekiel 28 preserves another tradition, calling Eden 'the garden of God' on the holy mountain, adorned with precious stones. The word 'paradise' reached Greek from the Persian pairidaeza, a walled park, and the Septuagint used it for Eden. Milton's Paradise Lost (1667) retold the rebellion of the angels and the expulsion from the garden at epic length, and remains the story's definitive literary treatment."
+  },
+  "domains": {
+    "zh": [
+      "乐园",
+      "禁果",
+      "失落之地",
+      "生命树"
+    ],
+    "en": [
+      "Paradise",
+      "The forbidden fruit",
+      "Lost places",
+      "The tree of life"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "四条河",
+        "en": "Four rivers"
+      },
+      "value": {
+        "zh": "比逊、基训、底格里斯、幼发拉底",
+        "en": "Pishon, Gihon, Tigris, Euphrates"
+      }
+    },
+    {
+      "label": {
+        "zh": "两棵树",
+        "en": "Two trees"
+      },
+      "value": {
+        "zh": "生命树、分别善恶树",
+        "en": "The tree of life; the tree of the knowledge of good and evil"
+      }
+    },
+    {
+      "label": {
+        "zh": "守卫",
+        "en": "Guardians"
+      },
+      "value": {
+        "zh": "基路伯与四面转动的火焰剑",
+        "en": "Cherubim and a flaming, turning sword"
+      }
+    }
+  ],
+  "related": [
+    "cherubim",
+    "noahs-ark",
+    "lucifer"
+  ],
+  "sources": [
+    {
+      "zh": "《创世记》2-3章",
+      "en": "Genesis 2-3"
+    },
+    {
+      "zh": "《以西结书》28:13-14",
+      "en": "Ezekiel 28:13-14"
+    }
+  ],
+  "geo": {
+    "lat": 31,
+    "lon": 47.4,
+    "label": {
+      "zh": "两河下游（历代注家推测的园址之一）",
+      "en": "Lower Mesopotamia (one traditional conjecture)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/garden-of-eden.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_(I)_-_Garden_of_Eden_-_WGA03559.jpg",
+    "sourceTitle": "The Garden of Eden label QS:Lit,\"Giardino dell'Eden\" label QS:Lfr,\"Le Jardin d'Eden\" label QS:Let,\"Eedeni aed\" label QS:Lca,\"Jardí de l'Edèn\" label QS:Lmk,\"Рајската градина\" label QS:Lde,\"Garten Eden\" label QS:Lpt,\"O Jardim do Éden\" label QS:Len,\"The Garden of Eden\" label QS:Leo,\"Edena ĝardeno\" label QS:Lcs,\"Zahrada Eden\" label QS:Lcy,\"Gardd Eden\"",
+    "artist": "Jan Brueghel the Elder",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 615
+  }
+}

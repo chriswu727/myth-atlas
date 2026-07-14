@@ -1,0 +1,46 @@
+{
+  "id": "teke-teke",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "Teke-Teke",
+    "en": "Teke-Teke",
+    "original": "テケテケ",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "以肘代足疾行的半身女鬼", "en": "The half-bodied ghost that runs on its elbows" },
+  "summary": {
+    "zh": "被列车拦腰轧断的女子只剩上半身，用手肘撑地疾行，发出「哐哐（teke-teke）」声，追上人便把对方也切成两半。1980年代学校怪谈的名角。",
+    "en": "A woman cut in half by a train survives as a torso that sprints on its elbows with a 'teke-teke' clatter and slices those it catches in two. A staple of 1980s Japanese school ghost lore."
+  },
+  "description": {
+    "zh": "Teke-Teke的名字来自它移动的声音：失去下半身的女子用双肘和手掌交替撑地，「哐、哐、哐」地在地面上疾行，速度快得能追上汽车。传说她生前在铁道边被列车拦腰轧断，严寒使断面的血冻住，她没有立刻死去，拖着上半身爬了很久——如今她在黄昏的车站、天桥和校舍附近出没，见到她的人会被镰刀或锯子拦腰切成两半，变成同类。许多版本附带「听了这个故事的人，三天之内她就会来」的锁链式结尾。\n\n这个形象在1980年代的小学生之间口耳相传，1990年代随「学校怪谈」出版热定型。北海道常被说成传说的发源地，与她关系密切的变体「卡希玛小姐」（カシマさん，一说名为Kashima Reiko）也多被安在北海道：夜里她会打电话或出现在枕边，问「我的腿在哪里」，答错即死，正解是「在名神高速公路」，再被追问「你怎么知道」，要答「卡希玛小姐告诉我的」。这类一问一答的口令结构，和裂口女的问答、学校怪谈的召唤仪式同属一个语法。\n\n2009年白石晃士执导的电影《Teke Teke》上下两部上映。作为「下半身缺失的疾行者」，她与更古老的传说角色——雪地里只有上半身的幽灵、能剧里的怨女——之间没有可考的传承线，是战后铁道都市里长出的新怪谈。",
+    "en": "The name is the sound it makes. A woman severed at the waist propels her torso on elbows and palms, teke, teke, teke, fast enough to run down a car. In life, the story goes, she was cut in half by a train; the winter cold froze the wound and she did not die at once, dragging herself along the ballast. Now she haunts stations, footbridges, and schoolyards at dusk, and whoever meets her is scythed or sawed in two at the waist and joins her kind. Many versions close with a chain-letter clause: now that you have heard this, she will come within three days.\n\nThe figure passed by word of mouth among elementary schoolers in the 1980s and hardened into canon during the 1990s school-kaidan publishing boom. Hokkaido is often named as the legend's home ground, as it is for the closely related Kashima-san, sometimes given the full name Kashima Reiko: she telephones at night or appears at the bedside to ask, 'Where are my legs?' The wrong answer kills; the right one is 'On the Meishin Expressway,' and to the follow-up 'How do you know?' one must answer, 'Kashima-san told me.' This call-and-response grammar runs through the kuchisake-onna's questions and the summoning rituals of school lore alike.\n\nShiraishi Koji's two Teketeke films appeared in 2009. No documented lineage connects her to older half-bodied ghosts of the snow country or the vengeful women of the noh stage; she is a new creature, grown in the postwar landscape of railways and station platforms."
+  },
+  "domains": {
+    "zh": ["学校怪谈", "铁道", "连锁诅咒", "问答口令"],
+    "en": ["School ghost lore", "Railways", "Chain curses", "Call-and-response"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "标志声音", "en": "Signature sound" },
+      "value": { "zh": "肘掌击地的「teke-teke」声", "en": "The teke-teke clatter of elbows and palms" }
+    },
+    {
+      "label": { "zh": "武器", "en": "Weapon" },
+      "value": { "zh": "镰刀或锯子，拦腰两断", "en": "A scythe or saw, cutting victims in half" }
+    },
+    {
+      "label": { "zh": "近缘变体", "en": "Close variant" },
+      "value": { "zh": "问「我的腿在哪里」的卡希玛小姐", "en": "Kashima-san, who asks 'Where are my legs?'" }
+    }
+  ],
+  "related": ["kuchisake-onna", "hanako-san", "mary-san"],
+  "sources": [
+    { "zh": "1980—1990年代日本学校怪谈口传", "en": "Japanese school-kaidan oral tradition, 1980s-1990s" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "geo": { "lat": 42.32, "lon": 140.97, "label": { "zh": "北海道室兰（发源传说地之一）", "en": "Muroran, Hokkaido (one claimed origin)" } },
+  "image": null
+}

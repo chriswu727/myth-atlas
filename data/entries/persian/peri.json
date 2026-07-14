@@ -1,0 +1,97 @@
+{
+  "id": "peri",
+  "tradition": "persian",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "佩里",
+    "en": "Peri",
+    "original": "پری",
+    "originalLang": "波斯语"
+  },
+  "title": {
+    "zh": "生翼的仙灵",
+    "en": "The Winged Fairy Spirits"
+  },
+  "summary": {
+    "zh": "波斯传说中美丽的生翼仙灵，前身是《阿维斯陀》里的女妖帕里卡。后世传说中她们以香气为食，常被迪弗掳入铁笼，是绝色的化身。",
+    "en": "The beautiful winged spirits of Persian lore, descended from the sorcerous pairikas of the Avesta. Later tales have them living on fragrance, caged by divs, a byword for beauty."
+  },
+  "description": {
+    "zh": "佩里是波斯传说中生有双翼的仙灵，多为绝美的女性形象，身形轻盈，出没于花园、泉边与云端。她们的前身却并不可爱：《阿维斯陀》中的\"帕里卡\"（pairikā）是与妖术相连的女妖，以魅惑侍奉黑暗，经文点名的帕里卡\"杜日亚伊里亚\"专司歉收，星辰亚什特里还有伪装成流星的帕里卡扰乱天象。在琐罗亚斯德教的分类里，她们与迪弗同属恶灵阵营，是需要以祷词驱逐的对象。\n\n伊斯兰时代以后，佩里在波斯语文学与民间故事里完成了从女妖到仙女的转身。她们被想象为以香气为食的轻灵种族，介于天使与人之间，常与粗蛮的迪弗为敌，故事里屡屡有佩里被迪弗掳去锁进铁笼、待英雄搭救的桥段；《一千零一夜》波斯来源的故事与波斯-突厥语世界的民间叙事诗里，娶佩里为妻是英雄奇遇的高潮。\"佩里之貌\"（pari-chehr）\"佩里所生\"（pari-zad）成为波斯语里形容美人的现成词汇，后者还演变成常见人名。这个词随文学西传：托马斯·穆尔1817年的长诗集《拉拉·鲁克》中《天堂与佩里》一篇写被逐出天堂的佩里三献礼物求得重返，风行欧洲，舒曼据此谱写了清唱剧，佩里从此进入英语词典，成为西方想象里\"东方仙女\"的定型。",
+    "en": "Peris are the winged spirits of Persian legend, imagined most often as women of surpassing beauty who haunt gardens, springs, and the edges of clouds. Their ancestry is far less lovely: the pairikas of the Avesta are witch-spirits in the service of darkness, seduction their weapon — scripture names the pairika Duzhyairya, \"bad harvest,\" and the star hymns speak of pairikas disguised as shooting stars to disorder the sky. In Zoroastrian reckoning they belong with the divs among the beings to be exorcised by prayer.\n\nIn the Islamic centuries the peri turned from witch to fairy in Persian literature and folktale. They became an airy race living on fragrance, ranked between angels and mankind, perennial enemies of the brutish divs — story after story has a peri carried off and locked in an iron cage by a div until a hero frees her, and winning a peri bride is a standard crown of heroic adventure in Persian and Turkic oral epic. Pari-chehr, \"peri-faced,\" and pari-zad, \"peri-born,\" became stock Persian terms for human beauty, the latter surviving as a personal name. The word traveled west with literature: in Thomas Moore's Lalla Rookh (1817), the poem \"Paradise and the Peri\" tells of a peri barred from heaven who wins readmission with three gifts; it swept Europe, Schumann set it as an oratorio in 1843, and the peri entered English dictionaries as the fixed image of the Oriental fairy."
+  },
+  "domains": {
+    "zh": [
+      "仙灵",
+      "绝色",
+      "香气",
+      "魅惑"
+    ],
+    "en": [
+      "Fairy spirits",
+      "Beauty",
+      "Fragrance",
+      "Enchantment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "前身",
+        "en": "Forerunner"
+      },
+      "value": {
+        "zh": "《阿维斯陀》女妖帕里卡",
+        "en": "The pairikas of the Avesta"
+      }
+    },
+    {
+      "label": {
+        "zh": "食物",
+        "en": "Sustenance"
+      },
+      "value": {
+        "zh": "香气",
+        "en": "Fragrance"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Foes"
+      },
+      "value": {
+        "zh": "迪弗（常将佩里锁入铁笼）",
+        "en": "Divs, who cage captured peris"
+      }
+    }
+  ],
+  "related": [
+    "div",
+    "simurgh"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀》（帕里卡诸段）",
+      "en": "Avesta (passages on the pairikas)"
+    },
+    {
+      "zh": "菲尔多西《列王纪》（约1010年）",
+      "en": "Ferdowsi, Shahnameh (c. 1010)"
+    },
+    {
+      "zh": "托马斯·穆尔《拉拉·鲁克》（1817年）",
+      "en": "Thomas Moore, Lalla Rookh (1817)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/peri.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_airborne_peri_with_a_rosary_(6124504583).jpg",
+    "sourceTitle": "An airborne peri with a rosary (6124504583)",
+    "artist": "thesandiegomuseumofartcollection",
+    "license": "Public domain",
+    "width": 805,
+    "height": 1000
+  }
+}

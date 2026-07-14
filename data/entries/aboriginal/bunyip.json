@@ -1,0 +1,97 @@
+{
+  "id": "bunyip",
+  "tradition": "aboriginal",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "本耶普",
+    "en": "Bunyip",
+    "original": "banib",
+    "originalLang": "文巴文巴语"
+  },
+  "title": {
+    "zh": "潜伏水潭的夜嚎怪兽",
+    "en": "The Bellowing Lurker of the Waterholes"
+  },
+  "summary": {
+    "zh": "澳洲东南部水潭与沼泽中的怪兽：昼伏夜嚎，掳走近水之人。名字出自维多利亚州文巴文巴语，殖民时代起风靡全澳。",
+    "en": "A monster of the billabongs and swamps of south-eastern Australia: it bellows in the night and seizes those who linger at the water's edge. The name comes from the Wemba-Wemba language of Victoria."
+  },
+  "description": {
+    "zh": "本耶普栖息在澳洲东南部的死水潭、沼泽与河湾深处，白天沉在水底，夜里发出低沉的吼声。各地描述相去甚远：有的说它狗脸长牙、周身黑毛，有的说它像巨大的海豹或牛犊，还有的说它长着鸸鹋般的长颈与马尾。共同点是与深水的绑定和明确的警示作用——长辈以它告诫孩童不可独自近水，妇女在特定水潭汲水前须出声通报。“本耶普”一词出自维多利亚州西北部文巴文巴人的语言（banib），随殖民者的转述传遍全澳，成为各地水怪叙事的统称。\n\n殖民时代的“本耶普热”留下不少可考记录：曾在原住民社群生活三十二年的逃犯威廉·巴克利在1852年口述回忆录中说，他在莫德瓦雷湖多次见到水中灰色的隆背；1845年《吉朗广告报》报道当地出土“本耶普巨骨”；1847年，一枚所谓“本耶普头骨”在悉尼的博物馆公开展出，轰动一时，后被鉴定为畸形马驹或牛犊的头骨。学者们则注意到，部分叙事或许保存着对已灭绝双门齿兽的远古记忆，或源于海豹偶尔溯河而上的目击。\n\n十九世纪中叶起，“本耶普”一词进入澳洲英语，泛指骗子或冒牌货，也成为儿童文学的常客：1973年绘本《贝克莱溪的本耶普》里那只追问“我是什么”的忧郁怪物，让它彻底家喻户晓。",
+    "en": "The bunyip haunts the billabongs, swamps, and river bends of south-eastern Australia, lying on the bottom by day and bellowing in the dark. Descriptions vary wildly from district to district: a dog-faced beast with tusks and black shaggy hair, something like an enormous seal or calf, or a creature with an emu's neck and a horse's tail. What the accounts share is the bond to deep water and a plain cautionary purpose — elders invoked it to keep children from wandering to the water alone, and at certain pools women called out before drawing water. The word itself comes from banib in the Wemba-Wemba language of north-western Victoria, and spread through colonial retelling until it became the blanket name for water monsters across the country.\n\nThe colonial bunyip craze left a paper trail. William Buckley, the escaped convict who lived thirty-two years among Aboriginal communities, said in his 1852 memoir that he had repeatedly seen a grey humped back in Lake Modewarre. In July 1845 the Geelong Advertiser reported the unearthing of giant \"bunyip bones\", and in 1847 a supposed bunyip skull drew crowds at the museum in Sydney before being identified as the malformed skull of a foal or calf. Scholars have since suggested that some accounts may preserve distant memories of the extinct Diprotodon, or record seals that occasionally travel far up the rivers.\n\nBy the mid-nineteenth century \"bunyip\" had also entered Australian English as a word for an impostor, and the creature settled into children's literature: the mournful monster of the 1973 picture book The Bunyip of Berkeley's Creek, forever asking what a bunyip is, made it a household figure."
+  },
+  "domains": {
+    "zh": [
+      "水潭",
+      "夜嚎",
+      "警示",
+      "殖民志异"
+    ],
+    "en": [
+      "Waterholes",
+      "Night bellowing",
+      "Cautionary tales",
+      "Colonial lore"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "词源",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "维多利亚州文巴文巴语 banib",
+        "en": "From banib in the Wemba-Wemba language of Victoria"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没之处",
+        "en": "Haunts"
+      },
+      "value": {
+        "zh": "东南部死水潭、沼泽、河湾",
+        "en": "Billabongs, swamps, and river bends of the south-east"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名事件",
+        "en": "Famous episode"
+      },
+      "value": {
+        "zh": "1847年悉尼展出“本耶普头骨”，后鉴定为畸形马驹头骨",
+        "en": "The \"bunyip skull\" exhibited in Sydney in 1847, later identified as a deformed foal's skull"
+      }
+    }
+  ],
+  "related": [
+    "rainbow-serpent",
+    "tiddalik"
+  ],
+  "sources": [
+    {
+      "zh": "约翰·摩根《威廉·巴克利的生平与冒险》（1852）",
+      "en": "John Morgan, The Life and Adventures of William Buckley (1852)"
+    },
+    {
+      "zh": "罗伯特·布拉夫·史密斯《维多利亚的土著》（1878）",
+      "en": "Robert Brough Smyth, The Aborigines of Victoria (1878)"
+    },
+    {
+      "zh": "《吉朗广告报》1845年7月关于“本耶普巨骨”的报道",
+      "en": "Geelong Advertiser, July 1845 report of \"bunyip bones\""
+    }
+  ],
+  "image": {
+    "file": "/images/entries/bunyip.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bunyip_1890.jpg",
+    "sourceTitle": "Bunyip 1890",
+    "artist": "Macfarlane, J.",
+    "license": "Public domain",
+    "width": 721,
+    "height": 1000
+  }
+}

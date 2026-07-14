@@ -1,0 +1,100 @@
+{
+  "id": "inkarri",
+  "tradition": "inca",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "印卡里",
+    "en": "Inkarri",
+    "original": "Inkarrí",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "被斩首的印加王将会归来",
+    "en": "The Beheaded Inca King Who Will Return"
+  },
+  "summary": {
+    "zh": "安第斯口传的弥赛亚式传说：印加王被西班牙人斩首，头颅埋于地下，身体正朝头颅缓缓生长；待身首重合之日，印卡里归来，天地翻转复序。",
+    "en": "An Andean oral legend of return: the Inca king was beheaded by the Spaniards and his buried head is slowly growing a new body; when it is whole, Inkarri will come back and the world will turn right again."
+  },
+  "description": {
+    "zh": "“印卡里”一名由克丘亚语的“印加”与西班牙语的“国王”（rey）拼合而成。传说的骨干在各地版本中大体一致：印加王被西班牙人捕获斩首，头颅被埋在地下——有说在利马的宫殿之下，有说在库斯科；但头颅没有死，正朝着躯体缓缓生长，待身首重新合一之日，印卡里将从地下归来，那时天地翻转（克丘亚语“帕查库蒂”），旧的秩序回到人间。阿亚库乔省普基奥的版本还讲他的来历：印卡里是太阳之子，曾把太阳拴在山上，让时日走得更慢，又以神力奠定库斯科。\n\n传说背后叠着两桩史实，口头记忆将其揉成了一个人：1533年阿塔瓦尔帕在卡哈马卡被西班牙人处死——史载死于绞刑，传说却记成斩首；1572年比尔卡班巴的末代印加图帕克·阿马鲁在库斯科广场被公开斩首。可考的行刑与不可考的头颅，在四个世纪的讲述里长成了同一株传说。\n\n这一口头传统直到20世纪50年代中期才见诸文字：作家兼人类学家何塞·玛丽亚·阿格达斯与何塞法特·罗埃尔·皮内达在普基奥采录到最早的几个版本，此后研究者又在阿亚库乔、库斯科、普诺等地录得数十种异文。印卡里由此进入秘鲁思想界，成为20世纪讨论安第斯认同与历史创伤时反复援引的核心意象。",
+    "en": "The name Inkarri fuses Quechua 'Inka' with Spanish 'rey', king. The spine of the legend is stable across its many versions: the Inca king was captured and beheaded by the Spaniards, and his head lies buried — beneath the palace in Lima, some say, or in Cusco. But the head is not dead. A body is slowly growing back from it, and on the day head and body are whole, Inkarri will return from under the earth; the world will turn over — pachakuti — and the old order come back. The versions from Puquio in Ayacucho add his origins: Inkarri was a son of the Sun who once tethered the sun on a mountain so the days would pass more slowly, and founded Cusco by his power.\n\nTwo documented events lie pressed together beneath the story, fused by oral memory into one man: the execution of Atahualpa at Cajamarca in 1533 — by garrote in the records, though the legend remembers a beheading — and the public beheading of Túpac Amaru, last Inca of Vilcabamba, on the plaza of Cusco in 1572. A verifiable execution and an unverifiable buried head grew into a single tale across four centuries of telling.\n\nThe tradition reached writing only in the mid-1950s, when the novelist and anthropologist José María Arguedas and Josafat Roel Pineda recorded the first versions at Puquio; researchers have since collected dozens of variants across Ayacucho, Cusco and Puno. Inkarri passed from the villages into Peruvian intellectual life, an image returned to again and again in twentieth-century debates over Andean identity and historical loss."
+  },
+  "domains": {
+    "zh": [
+      "王的归来",
+      "口头传说",
+      "殖民记忆"
+    ],
+    "en": [
+      "The king's return",
+      "Oral legend",
+      "Colonial memory"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "词源",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "克丘亚语“印加”+西班牙语“国王”",
+        "en": "Quechua Inka + Spanish rey"
+      }
+    },
+    {
+      "label": {
+        "zh": "历史原型",
+        "en": "Historical kernel"
+      },
+      "value": {
+        "zh": "阿塔瓦尔帕（1533）与图帕克·阿马鲁（1572）之死",
+        "en": "The deaths of Atahualpa (1533) and Túpac Amaru (1572)"
+      }
+    },
+    {
+      "label": {
+        "zh": "首次采录",
+        "en": "First recorded"
+      },
+      "value": {
+        "zh": "1950年代中期，阿亚库乔省普基奥",
+        "en": "Mid-1950s, Puquio, Ayacucho"
+      }
+    }
+  ],
+  "related": [
+    "manco-capac",
+    "inti",
+    "amaru"
+  ],
+  "sources": [
+    {
+      "zh": "何塞·玛丽亚·阿格达斯与何塞法特·罗埃尔·皮内达在普基奥采录的口述版本（1950年代中期）",
+      "en": "Oral versions recorded at Puquio by José María Arguedas and Josafat Roel Pineda (mid-1950s)"
+    },
+    {
+      "zh": "阿亚库乔、库斯科、普诺等地延续至今的口头流传",
+      "en": "Continuing oral tradition in Ayacucho, Cusco and Puno"
+    }
+  ],
+  "geo": {
+    "lat": -14.7,
+    "lon": -74.125,
+    "label": {
+      "zh": "普基奥（首批版本采录地）",
+      "en": "Puquio, where the first versions were recorded"
+    }
+  },
+  "image": {
+    "file": "/images/entries/inkarri.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GuamanPomadeAyala-MuertedeAtagualpaInca.jpg",
+    "sourceTitle": "GuamanPomadeAyala-MuertedeAtagualpaInca",
+    "artist": "Felipe Huaman Puma de Ayala",
+    "license": "Public domain",
+    "width": 669,
+    "height": 1000
+  }
+}

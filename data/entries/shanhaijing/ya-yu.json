@@ -1,0 +1,100 @@
+{
+  "id": "ya-yu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "窫窳",
+    "en": "Yayu"
+  },
+  "title": {
+    "zh": "被杀又被药石救回、终成食人凶兽的天神",
+    "en": "A Slain God Revived by Shamans, Returned as a Man-Eater"
+  },
+  "summary": {
+    "zh": "本为蛇身人面的天神，被贰负与其臣危所杀；群巫以不死之药救其尸，复活后化为龙首食人的凶兽，居于弱水，后为羿所杀。",
+    "en": "Once a snake-bodied, human-faced god, murdered by Erfu and his minister Wei. Shamans tended the corpse with drugs of deathlessness; it revived as a dragon-headed man-eater of the Weak River, later slain by the archer Yi."
+  },
+  "description": {
+    "zh": "窫窳的故事分散在《山海经》数处，拼起来是一桩完整的神界命案。《海内西经》记：\"贰负之臣曰危，危与贰负杀窫窳。帝乃梏之疏属之山，桎其右足，反缚两手与发，系之山上木。\"天神贰负与臣子危合谋杀死了蛇身人面的窫窳，天帝把凶手枷锁在疏属之山，桎住右脚，双手与头发反绑，拴在山上的大树上。同卷又记，开明兽之东有巫彭、巫抵、巫阳、巫履、巫凡、巫相六巫，\"夹窫窳之尸，皆操不死之药以距之\"——群巫围着尸体，手持不死之药抵御死气。\n\n复活的窫窳没有回到神位。《海内南经》记：\"窫窳龙首，居弱水中\"，以人为食；《北山经》少咸之山又记一种同名怪兽，状如牛、赤身、人面、马足，\"其音如婴儿，是食人\"。《淮南子·本经训》把它列入尧时为民害的诸凶，与凿齿、九婴、大风并列，最终被羿诛杀。郭璞注解此经时还录下一桩汉代轶事：汉宣帝时上郡开凿磐石，石室中发现一个反绑双手、一脚戴械的人，群臣莫能识，刘向引贰负之臣的经文作答，朝廷因此惊异，一时人人争读《山海经》。",
+    "en": "Yayu's story lies scattered through the book, and assembles into a complete divine murder case. The Classic of Regions Within the Seas: West states it flatly: the god Erfu and his minister Wei killed Yayu, a deity with a snake's body and a human face. The Supreme God had the culprit shackled on Mount Shushu, his right foot fettered, his hands and hair bound behind him, tied to a tree on the mountainside. The same chapter shows the aftermath east of the Kaiming beast: six shamans, Wu Peng, Wu Di, Wu Yang, Wu Lü, Wu Fan, and Wu Xiang, flanking Yayu's corpse, each holding the drugs of deathlessness to hold decay at bay.\n\nThe revival went wrong. In the Classic of Regions Within the Seas: South, Yayu has become a dragon-headed thing living in the Weak River that eats men; the Classic of the Northern Mountains records under the same name an ox-like beast with red body, human face, and horse's hooves, whose cry sounds like an infant. The Huainanzi lists it among the scourges of Yao's reign, alongside Zaochi and the nine-headed Jiuying, all destroyed by the archer Yi. Guo Pu's commentary preserves a Han coda: when quarrymen under Emperor Xuan opened a stone chamber and found a figure bound hand and foot, only Liu Xiang could identify it, citing this very passage, and the court's astonishment set off a fashion for reading the Shanhaijing."
+  },
+  "domains": {
+    "zh": [
+      "食人凶兽",
+      "复活",
+      "神界命案",
+      "弱水"
+    ],
+    "en": [
+      "Man-Eaters",
+      "Resurrection",
+      "Divine Murder",
+      "Weak River"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "生前",
+        "en": "Before Death"
+      },
+      "value": {
+        "zh": "蛇身人面的天神",
+        "en": "A god with snake body and human face"
+      }
+    },
+    {
+      "label": {
+        "zh": "复活后",
+        "en": "After Revival"
+      },
+      "value": {
+        "zh": "龙首，居弱水中，食人",
+        "en": "Dragon-headed man-eater of the Weak River"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "End"
+      },
+      "value": {
+        "zh": "尧时为羿所杀（《淮南子》）",
+        "en": "Slain by Yi in the days of Yao (Huainanzi)"
+      }
+    }
+  ],
+  "related": [
+    "kai-ming-shou",
+    "hou-yi",
+    "ba-she"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内西经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: West'"
+    },
+    {
+      "zh": "《山海经·海内南经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: South'"
+    },
+    {
+      "zh": "《淮南子·本经训》",
+      "en": "Huainanzi, 'The Basic Warp'"
+    }
+  ],
+  "volume": {
+    "zh": "海内西经",
+    "en": "Classic of Regions Within the Seas: West"
+  },
+  "image": {
+    "file": "/images/entries/ya-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic266_-_%E7%AA%AB%E7%AA%B3%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic266 - 窫窳圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 660,
+    "height": 1000
+  }
+}

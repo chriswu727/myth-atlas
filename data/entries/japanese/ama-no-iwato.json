@@ -1,0 +1,100 @@
+{
+  "id": "ama-no-iwato",
+  "tradition": "japanese",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "天岩户",
+    "en": "Ama-no-Iwato",
+    "original": "天岩戸（あまのいわと）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "太阳隐没的岩户神话",
+    "en": "The Myth of the Heavenly Rock Cave"
+  },
+  "summary": {
+    "zh": "天照大神因须佐之男的暴行闭居岩窟，天地陷入长夜。八百万神在天安河原定计，以镜、玉与天钿女命之舞诱她重现光明。",
+    "en": "Outraged by Susanoo's violence, Amaterasu sealed herself in a rock cave and the world went dark, until the gods lured her out with a mirror, jewels, and Ame-no-Uzume's wild dance."
+  },
+  "description": {
+    "zh": "须佐之男在与天照的誓约中自认得胜，得意忘形：他毁坏天照神田的田埂、填埋沟渠，在举行尝新祭的御殿里排泄秽物，最后把倒剥了皮的天斑驹从屋顶掷进忌服屋，正在织神衣的织女被梭子刺中身亡。天照大神怒不可遏，打开天岩户躲了进去，紧闭石门。高天原与苇原中国顿成长夜，恶神的喧声如夏日的苍蝇滋生，各种灾祸一齐涌现。\n\n八百万神聚集在天安河原商议对策，由智慧之神思金神定计。众神先聚集长鸣鸟（鸡）使之齐鸣，又命锻冶与作镜之神伊斯许理度卖命铸成八咫镜，玉祖命作八尺琼勾玉，一并悬挂在连根拔起的真贤木上；天儿屋命诵念祝词，天手力男神隐身于岩户旁。随后天钿女命踏在倒扣的木槽上起舞，神灵附体，袒露胸乳，裳带垂落，八百万神哄然大笑，笑声震动高天原。天照在洞中疑惑：天地俱暗，何来歌舞欢笑？她把岩户推开一条缝，天钿女命答道：「有比您更尊贵的神降临了。」两位神趁势把八咫镜递到她面前，天照望见镜中光辉的「贵神」，不觉探身细看，天手力男神一把将她拽出，布刀玉命立即在她身后拉起注连绳：「不得再入。」光明重归天地。\n\n众神向须佐之男科以千座置户的重罚，剪须拔爪逐出高天原。这则神话被奉为神乐歌舞与注连绳的起源；宫崎县高千穗町的天岩户神社隔着岩户川遥拜传为岩户的洞窟，附近天安河原的洞窟里，至今堆满参拜者祈愿的叠石。",
+    "en": "Susanoo, judging himself the winner of the vow-contest with Amaterasu, ran wild: he broke down the ridges of her rice fields, filled in the ditches, defiled the hall of the first-fruits festival, and finally flung a backwards-flayed piebald colt through the roof of the sacred weaving house, where a weaving maiden, struck by her shuttle, died. Amaterasu, enraged, opened the Heavenly Rock Cave, went in, and shut the stone door. The Plain of High Heaven and the Central Land of Reed Plains fell into unbroken night; the voices of wicked gods swarmed like summer flies, and every calamity broke loose at once.\n\nThe eight million gods gathered on the dry bed of the Tranquil River of Heaven, where the wise god Omoikane laid the plan. They set the long-crying cocks crowing, had the mirror Yata-no-Kagami forged and the great curved jewels strung, and hung both on an uprooted sakaki tree; Ame-no-Koyane intoned liturgies while the strongman Ame-no-Tajikarao hid beside the door. Then Ame-no-Uzume overturned a wooden tub, stamped upon it, and danced possessed, baring her breasts and letting her skirt-cord fall, until the gods' laughter shook the heavens. Puzzled that anyone could rejoice in a darkened world, Amaterasu cracked open the door; told that a nobler deity had appeared, she saw her own radiance in the proffered mirror and leaned out, at which Tajikarao hauled her forth and a rope of straw was stretched across the entrance behind her. Light returned to the world.\n\nSusanoo was fined, shorn, and expelled. The myth is honored as the origin of kagura dance and of the shimenawa rope; at Takachiho in Miyazaki, Amanoiwato Shrine faces the cave across the Iwato River, and pilgrims' stacked stones fill the nearby grotto of Amano Yasukawara."
+  },
+  "domains": {
+    "zh": [
+      "日蚀长夜",
+      "神乐起源",
+      "注连绳"
+    ],
+    "en": [
+      "The hidden sun",
+      "Origin of kagura",
+      "The shimenawa rope"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "献策者",
+        "en": "Strategist"
+      },
+      "value": {
+        "zh": "思金神",
+        "en": "Omoikane, god of wisdom"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键道具",
+        "en": "Key objects"
+      },
+      "value": {
+        "zh": "八咫镜、八尺琼勾玉、注连绳",
+        "en": "The mirror, the curved jewels, and the straw rope"
+      }
+    },
+    {
+      "label": {
+        "zh": "传承地",
+        "en": "Traditional site"
+      },
+      "value": {
+        "zh": "宫崎县高千穗町天岩户神社",
+        "en": "Amanoiwato Shrine, Takachiho, Miyazaki"
+      }
+    }
+  ],
+  "related": [
+    "amaterasu",
+    "susanoo",
+    "takamagahara"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "geo": {
+    "lat": 32.74,
+    "lon": 131.35,
+    "label": {
+      "zh": "天岩户神社（宫崎县高千穗町）",
+      "en": "Amanoiwato Shrine (Takachiho, Miyazaki)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ama-no-iwato.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Origin_of_Iwato_Kagura_Dance_Amaterasu_by_Toyokuni_III_(Kunisada)_1856.png",
+    "sourceTitle": "Origin of Iwato Kagura Dance Amaterasu by Toyokuni III (Kunisada) 1856",
+    "artist": "Toyokuni III (Kunisada)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 477
+  }
+}

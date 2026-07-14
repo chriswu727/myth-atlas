@@ -1,0 +1,83 @@
+{
+  "id": "kumiho",
+  "tradition": "korean",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "九尾狐",
+    "en": "Kumiho",
+    "original": "구미호（九尾狐）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "化作美人的九尾妖狐",
+    "en": "The Nine-Tailed Fox in Human Guise"
+  },
+  "summary": {
+    "zh": "活过千年的狐狸长出九条尾巴，化作新娘、寡妇或迷路的女子接近人，掏食人的肝；也有苦熬千日想变成人的九尾狐，总在最后关头功亏一篑。",
+    "en": "A fox that has lived a thousand years grows nine tails and takes the shape of a bride or lost woman to eat human livers; in other tales it endures long trials to become human, failing at the last moment."
+  },
+  "description": {
+    "zh": "九尾狐的形象东亚各国共有，朝鲜半岛的版本以凶恶著称：它多化作年轻女子——新娘、寡妇、山路上求宿的旅人——月夜现出原形，掘新坟啃食尸骨，或伸手掏走活人的肝。识破它的办法散见各地民谭：猎狗会对它狂吠，它吃饭时手指弯不拢，宴席上不沾一滴酒。\n\n最有名的故事是口传民谭《狐狸妹妹》：老夫妇求来的独生女儿其实是狐精，家里的牛马夜夜暴毙，三个哥哥轮流守夜，看见妹妹深夜潜入牛棚掏食牲畜肝脏。说出实情的哥哥反被父亲逐出家门，多年后带着三只法瓶回家，妹妹已吃光全家，追来时他依次掷出瓶子，化作荆棘、大水与烈火，狐狸终被烧死。另一类故事讲“狐珠”：狐女夜夜与书生接吻，把一颗珠子渡进他口中又收回，书生日渐枯槁；先生教他吞珠后先看天，他慌乱中先看了地，于是通晓地理而错失了通晓天文的机会。\n\n还有流传很广的一类故事，说九尾狐只要忍住千日不害人、不食人肝，便能真正成为人，而它总在期满前夜被揭穿或被辜负。这个母题在现代影视里被反复翻演：KBS自1977年开播的《传说的故乡》系列一再搬演九尾狐故事，此后的电视剧更把它写成悲情女主角，凶兽的旧形象与恋人的新形象至今并行。",
+    "en": "Nine-tailed foxes appear across East Asia, but the Korean kumiho is notorious for its malice. It usually takes the form of a young woman, a bride, a widow, a traveler asking for lodging on a mountain road, and by moonlight reverts to a fox that digs up fresh graves to gnaw corpses or reaches into the living to pull out their livers. Village tales list the ways to unmask one: dogs bark at it wildly, its fingers will not curl properly around a spoon, and it never touches wine at a feast.\n\nThe best-known tale is the oral story of the Fox Sister. An old couple's long-awaited daughter is a fox in disguise; livestock die night after night until her brothers keep watch and see her slip into the barn to eat the animals' livers. The brother who tells the truth is driven from home, and returns years later with three magic bottles to find the fox has devoured the whole household. Thrown one by one as it chases him, the bottles become a thicket of thorns, a flood, and a fire that finally consumes it. Another cycle concerns the fox bead, passed in and out of a student's mouth with each kiss until he wastes away; told to swallow it and look first at the sky, he stumbles and looks at the earth, gaining mastery of geography but losing the heavens.\n\nA widespread later motif holds that a kumiho who refrains from harming humans for a thousand days becomes truly human, and is always exposed or betrayed on the eve of success. Korean television has replayed the figure since the KBS anthology Hometown of Legends began in 1977, and modern dramas have recast the man-eater as a tragic heroine, so that the old monster and the new lover now circulate side by side."
+  },
+  "domains": {
+    "zh": [
+      "变形",
+      "魅惑",
+      "食肝",
+      "执念成人"
+    ],
+    "en": [
+      "Shapeshifting",
+      "Seduction",
+      "Liver-eating",
+      "Longing to be human"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "原形标志",
+        "en": "Telltale signs"
+      },
+      "value": {
+        "zh": "九条尾巴；猎狗狂吠、持匙的手指弯不拢",
+        "en": "Nine tails; dogs bark at it, and its fingers cannot curl around a spoon"
+      }
+    },
+    {
+      "label": {
+        "zh": "代表故事",
+        "en": "Signature tales"
+      },
+      "value": {
+        "zh": "《狐狸妹妹》《狐珠》",
+        "en": "The Fox Sister; the fox bead"
+      }
+    }
+  ],
+  "related": [
+    "dokkaebi",
+    "cheonyeo-gwisin"
+  ],
+  "sources": [
+    {
+      "zh": "任晳宰《韩国口传说话》所录各地民谭",
+      "en": "Oral tales collected in Im Seok-jae, Hanguk Gujeon Seolhwa (Korean Oral Tales)"
+    },
+    {
+      "zh": "《韩国口碑文学大系》（韩国学中央研究院，1980—1988年）",
+      "en": "Compendium of Korean Oral Literature (Academy of Korean Studies, 1980-88)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/kumiho.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yanju%27s_tomb,_nine-tailed_fox.jpg",
+    "sourceTitle": "Yanju's tomb, nine-tailed fox",
+    "artist": "Unknown painter from late 4th to mid 5th century A.D., unknown photographer",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 734
+  }
+}

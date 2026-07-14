@@ -1,0 +1,98 @@
+{
+  "id": "tian-wu",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "天吴",
+    "en": "Tianwu"
+  },
+  "title": {
+    "zh": "八首八足八尾的朝阳之谷水伯",
+    "en": "Water Lord of the Sunrise Valley, Eight-Headed and Eight-Tailed"
+  },
+  "summary": {
+    "zh": "朝阳之谷的水神，号称水伯：兽形之躯生八个人面头颅、八足八尾，通身青黄。杜甫诗中仍以它指称绣袍上的水神纹样。",
+    "en": "The water god of Sunrise Valley, styled Lord of Waters: a beast with eight human-faced heads, eight legs, and eight tails, colored green and yellow throughout. Du Fu still names it as an embroidery motif."
+  },
+  "description": {
+    "zh": "《海外东经》记：\"朝阳之谷，神曰天吴，是为水伯。在𧈫𧈫北两水间。其为兽也，八首人面，八足八尾，皆青黄。\"朝阳之谷是日出所照的山谷，谷中之神天吴执掌水事，号为水伯。它的躯干是兽形，颈上八个头一律人面，身下八条腿，身后八条尾巴，通体青黄二色。《大荒东经》又记：\"有神人，八首人面，虎身十尾，名曰天吴\"——虎身十尾，与海外经所记略有出入，正是同一神祇在书中不同层次文本里的两个影子。\n\n有学者以为天吴与吴人先祖的\"吴\"有渊源，此说难考；可考的是它在后世文学里留下的痕迹——杜甫《北征》写离乱中儿女衣衫褴褛，\"天吴及紫凤，颠倒在裋褐\"：旧绣袍拆改成粗布衣，绣着的天吴与紫凤都缝倒了。八首水神成了锦绣纹样的代称，一场安史之乱里最心酸的细节之一，借这头《山海经》异兽传诵至今。",
+    "en": "The Classic of Regions Beyond the Seas: East installs this god in the Valley of Sunrise, between two rivers: Tianwu, styled the Lord of Waters. Its trunk is a beast's, carrying eight human-faced heads, eight legs, and eight tails, the whole body patterned green and yellow. The Classic of the Great Wilderness: East records the same name with a tiger's body and ten tails, a variant that shows the book's layered texts casting two slightly different shadows of one deity.\n\nSome scholars have connected the name with the ancestors of the state of Wu, a guess beyond proving. What can be traced is the god's afterlife in poetry. In 'The Journey North', written amid the An Lushan rebellion, Du Fu describes his children in patched clothes cut from an old embroidered robe: 'Tianwu and the purple phoenix hang upside down on their coarse jackets.' The eight-headed water lord had become shorthand for the finest brocade figures, and one of the most quietly devastating images of a dynasty's collapse rides on this Shanhaijing beast."
+  },
+  "domains": {
+    "zh": [
+      "水神",
+      "八首",
+      "朝阳之谷"
+    ],
+    "en": [
+      "Water Gods",
+      "Eight Heads",
+      "Sunrise Valley"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "神职",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "水伯，司水事",
+        "en": "Lord of Waters"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "兽身八首人面，八足八尾，皆青黄",
+        "en": "Beast body, eight human faces, eight legs, eight tails, green and yellow"
+      }
+    },
+    {
+      "label": {
+        "zh": "异文",
+        "en": "Variant"
+      },
+      "value": {
+        "zh": "大荒东经作虎身十尾",
+        "en": "Tiger-bodied with ten tails in the Great Wilderness: East"
+      }
+    }
+  ],
+  "related": [
+    "lei-shen",
+    "da-ren-guo",
+    "jun-zi-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外东经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: East'"
+    },
+    {
+      "zh": "《山海经·大荒东经》",
+      "en": "Shanhaijing, 'Classic of the Great Wilderness: East'"
+    },
+    {
+      "zh": "杜甫《北征》",
+      "en": "Du Fu, 'The Journey North' (Bei Zheng)"
+    }
+  ],
+  "volume": {
+    "zh": "海外东经",
+    "en": "Classic of Regions Beyond the Seas: East"
+  },
+  "image": {
+    "file": "/images/entries/tian-wu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic49_-_%E5%A4%A9%E5%90%B3%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic49 - 天吳神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 678,
+    "height": 1000
+  }
+}

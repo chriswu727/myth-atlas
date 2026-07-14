@@ -1,0 +1,98 @@
+{
+  "id": "tai-feng",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "泰逢",
+    "en": "Taifeng"
+  },
+  "title": {
+    "zh": "司掌和山、能动天地之气的吉神",
+    "en": "Auspicious God of Mount He Who Stirs the Breath of Heaven and Earth"
+  },
+  "summary": {
+    "zh": "和山之神，人形虎尾，出入有光，能搅动天地之气；郭璞注引夏后孔甲田猎遇大风晦冥事为其注脚。",
+    "en": "The auspicious god of Mount He, human in form with a tiger's tail, moving in light and able to stir the qi of heaven and earth — blamed by commentators for the storm that once bewildered King Kongjia of Xia."
+  },
+  "description": {
+    "zh": "《中次三经》末山和山“五曲，九水出焉”，九条水合流北注黄河，水中多苍玉，“实惟河之九都”。吉神泰逢司掌此山：“其状如人而虎尾，是好居于萯山之阳，出入有光。泰逢神动天地气也。”人形拖一条虎尾，爱住在萯山向阳的南坡，出入时带着光，能搅动天地之气。\n\n“动天地气”四字有一桩旧事作注脚。郭璞注引《吕氏春秋》：夏后孔甲在萯山田猎，天起大风，白昼晦暗如夜，孔甲迷了路，走进一户民家。注家以为那场大风正是泰逢所为——号称吉神，翻起脸来也能搅得天昏地暗。\n\n中次三经末尾开列祠礼：泰逢与熏池、武罗三神同礼，“皆一牡羊副，婴用吉玉”——劈开一头公羊为牲，以吉玉礼神。三神并列，同领敖岸、青要、和山这一列黄河南岸的山。",
+    "en": "Mount He, last peak of the third central sequence, bends five times, and nine streams rise on it, joining to flow north into the Yellow River; the text calls it 'the ninefold gathering-place of the River.' Its warden is the auspicious god Taifeng, human in form with a tiger's tail, who favors the sunny south side of Mount Fu and moves in an aura of light. The classic closes the notice with a single line of power: Taifeng stirs the qi of heaven and earth.\n\nGuo Pu's commentary glosses that line with a story from the Lüshi Chunqiu. King Kongjia of the Xia was hunting on Mount Fu when a great wind rose and the day turned dark as night; the bewildered king blundered into a commoner's house. That storm, the commentators held, was Taifeng's doing — an auspicious god who could still black out the sky.\n\nThe sequence ends with his cult: Taifeng, Xunchi and Wuluo are served alike, a ram cleft in sacrifice and fine jade presented to the gods, three wardens sharing the hills along the south bank of the Yellow River."
+  },
+  "domains": {
+    "zh": [
+      "吉神",
+      "风与气",
+      "和山"
+    ],
+    "en": [
+      "Auspicious Gods",
+      "Winds and Vapors",
+      "Mount He"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "和山，河之九都",
+        "en": "Mount He, ninefold gathering-place of the River"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如人而虎尾",
+        "en": "Human form with a tiger's tail"
+      }
+    },
+    {
+      "label": {
+        "zh": "祠礼",
+        "en": "Rite"
+      },
+      "value": {
+        "zh": "一牡羊副，婴用吉玉",
+        "en": "A ram cleft in sacrifice, fine jade to greet the god"
+      }
+    }
+  ],
+  "related": [
+    "wu-luo",
+    "fu-zhu",
+    "ji-meng"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经注》",
+      "en": "Guo Pu, Commentary on the Shanhaijing"
+    },
+    {
+      "zh": "《吕氏春秋·音初》",
+      "en": "Lüshi Chunqiu, 'Yin Chu'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/tai-feng.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic30_-_%E5%A4%AA%E9%80%A2%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic30 - 太逢神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 650,
+    "height": 1000
+  }
+}

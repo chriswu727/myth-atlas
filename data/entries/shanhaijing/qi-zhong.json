@@ -1,0 +1,40 @@
+{
+  "id": "qi-zhong",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": { "zh": "跂踵之山", "en": "Mount Qizhong" },
+  "title": { "zh": "流沙尽头的大蛇之山与涌泉深泽", "en": "The Serpent Mountain Beyond the Flowing Sands, with Its Welling Deep Marsh" },
+  "summary": {
+    "zh": "东次三经中渡水穿越流沙才能抵达的山：方圆二百里寸草不生，有大蛇，多美玉；山中深泽四十里泉水皆涌，产蠵龟和六足鸟尾的鮯鮯之鱼。",
+    "en": "A mountain of the eastern third guideway reached across water and flowing sands: two hundred li of bare rock, great serpents, and jade, with a forty-li marsh of welling springs, sea turtles, and six-legged gege fish."
+  },
+  "description": {
+    "zh": "东次三经是一条水路山系，山与山之间以“水行”若干里相接。行到这一段，先南行水路五百里，再穿过五百里流沙，才抵达跂踵之山。山方圆二百里，不生草木，有大蛇盘踞，山上多美玉。这是《山海经》里典型的绝域之山：路程以水和沙计，山上没有可食之物，只有蛇与玉。\n\n山中有水，名叫深泽，方圆四十里，泉水处处上涌。泽中多蠵龟——郭璞注谓即觜蠵大龟，甲有文彩。水里还有一种鱼，形状像鲤鱼，却生着六只足和鸟的尾巴，名叫鮯鮯之鱼，叫声像在喊自己的名字。一片沸涌的泽水，龟行其下，六足之鱼鸣于其中，是东次三经里画面感最完整的一处水景。\n\n“跂踵”意为踮起脚跟、脚跟不着地。同名者在书中还有两处：中次十一经复州之山有跂踵鸟，模样像鸱鸮而只有一只脚、猪尾巴，见则其国大疫；海外北经又有跂踵国。三者名同实异。这座山本身不出灾兆，它的威慑全在抵达之难。",
+    "en": "The third eastern guideway is a maritime range: its mountains are linked by legs of travel 'by water'. To reach this one, the itinerary runs five hundred li south by water, then five hundred li across flowing sands, and arrives at Mount Qizhong. The mountain measures two hundred li around, grows nothing, harbours great serpents, and is rich in jade. It is the classic's ideal of a terminal place: the distance counted in water and sand, and nothing on the summit but snakes and stone.\n\nOn the mountain lies a body of water called the Deep Marsh, forty li around, its springs welling up everywhere. In it live xi turtles — glossed by Guo Pu as great sea turtles of the hawksbill kind, their shells patterned — and a fish shaped like a carp but bearing six legs and a bird's tail, called the gege fish, whose cry sounds like its own name. A boiling marsh, turtles moving beneath, six-legged fish calling their name in the water: it is the most fully drawn waterscape in the third eastern guideway.\n\n'Qizhong' means to walk on tiptoe, heels never touching the ground. The book holds two more bearers of the name: a bird of Fuzhou Mountain in the central guideways, owl-like, one-legged, and pig-tailed, whose appearance brings plague; and a Kingdom of Qizhong in the lands beyond the northern sea. Same name, different things. The mountain itself issues no omen; its menace lies entirely in the difficulty of arriving."
+  },
+  "domains": {
+    "zh": ["绝域", "流沙", "大蛇", "涌泉"],
+    "en": ["Remote Realms", "Flowing Sands", "Great Serpents", "Welling Springs"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "路程", "en": "Approach" },
+      "value": { "zh": "水行五百里，流沙五百里", "en": "Five hundred li by water, five hundred across flowing sands" }
+    },
+    {
+      "label": { "zh": "地貌", "en": "Terrain" },
+      "value": { "zh": "方圆二百里，无草木，多玉，有大蛇", "en": "Two hundred li around, barren, jade-rich, serpent-haunted" }
+    },
+    {
+      "label": { "zh": "水泽", "en": "Waters" },
+      "value": { "zh": "深泽四十里皆涌，多蠵龟与鮯鮯之鱼", "en": "The forty-li Deep Marsh of springs, with xi turtles and gege fish" }
+    }
+  ],
+  "related": ["chang-she", "he-luo-yu", "tong-tong"],
+  "sources": [
+    { "zh": "《山海经·东山经》（东次三经·跂踵之山）", "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Mount Qizhong)" }
+  ],
+  "volume": { "zh": "东山经", "en": "Classic of the Eastern Mountains" },
+  "image": null
+}

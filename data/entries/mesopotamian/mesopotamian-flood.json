@@ -1,0 +1,103 @@
+{
+  "id": "mesopotamian-flood",
+  "tradition": "mesopotamian",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "大洪水传说",
+    "en": "The Mesopotamian Flood"
+  },
+  "title": {
+    "zh": "灭世之水与最早的方舟",
+    "en": "The Deluge and the First Ark"
+  },
+  "summary": {
+    "zh": "两河反复重写的灭世传说：恩利尔嫌人类吵闹发洪水，恩基泄密教义人造船，放鸟探水、献祭息怒——比诺亚方舟早了千余年。",
+    "en": "Enlil sends a flood to silence noisy mankind; Enki leaks the secret, and a righteous man builds a boat and releases birds to test the waters. The story predates Noah's ark by over a millennium."
+  },
+  "description": {
+    "zh": "大洪水是两河文献里被反复重写的核心传说，比《创世记》的诺亚故事早了一千年以上。骨架大体一致：众神决意灭人，一位智神提前泄密，一位义人造船携家眷生灵渡劫，事后众神追悔并立誓不再灭世。主角在苏美尔语洪水故事里叫祖苏德拉，是舒鲁帕克城的王；在古巴比伦语史诗里叫阿特拉哈西斯（“大智者”）；在《吉尔伽美什史诗》第十一块泥板里叫乌特纳皮什提姆。\n\n《阿特拉哈西斯史诗》交代了动机：人类本是造来替神服役的，繁衍日盛，喧闹搅得恩利尔睡不着；瘟疫、旱灾、饥荒轮番失效后，他发动洪水做绝。恩基受誓约所缚不能直告，便隔着芦苇墙自言自语：“芦墙啊，听着——拆屋造船，弃财保命。”《吉尔伽美什》版里风暴肆虐六天七夜，连众神都吓得“如犬伏于外墙之下”；船搁浅在尼穆什山，乌特纳皮什提姆先后放出鸽子、燕子与乌鸦，乌鸦不返，方知水退。他焚香献祭，多日没有供奉的众神“如苍蝇般聚在祭品上”。恩利尔见有人漏网而震怒，被埃阿责问一番后改赐乌特纳皮什提姆夫妇永生，安置在“诸河之口”。\n\n1872年12月，大英博物馆的乔治·史密斯在尼尼微泥板中认出这段与《圣经》平行的记载并当众宣读，是亚述学史上最著名的时刻之一。苏美尔王表也以洪水为界，把历代君王分为“洪水之前”与“洪水扫荡之后”。",
+    "en": "The Flood is the most rewritten story in Mesopotamian literature, older by well over a millennium than the Noah narrative of Genesis. The skeleton stays constant: the gods resolve to destroy mankind, one wise god leaks the plan, one righteous man builds a boat and rides out the deluge with his household and animals, and the repentant gods swear never to do it again. The hero is Ziusudra, king of Shuruppak, in the Sumerian flood story; Atrahasis, 'exceedingly wise,' in the Old Babylonian epic of that name; and Utnapishtim in Tablet XI of Gilgamesh.\n\nAtrahasis supplies the motive: humans, created to relieve the gods of toil, multiply until their noise robs Enlil of sleep, and when plague, drought, and famine each fail, he decrees the Flood. Enki, bound by oath, addresses the reed wall of his devotee's house: 'Wall, listen — tear down the house, build a boat, spurn possessions, save life.' In the Gilgamesh version the storm rages six days and seven nights, so fierce that the gods themselves cower 'like dogs against the outer wall'; the boat grounds on Mount Nimush, and Utnapishtim releases a dove, a swallow, and a raven — the raven does not return. At his sacrifice the famished gods gather 'like flies over the offering.' Enlil rages that anyone escaped, but Ea shames him, and Utnapishtim and his wife are granted eternal life at the mouth of the rivers.\n\nIn December 1872 George Smith of the British Museum announced his reading of the Nineveh flood tablet, one of the most celebrated moments in Assyriology. The Sumerian King List likewise splits all kingship into reigns before the Flood and 'after the Flood swept over.'"
+  },
+  "domains": {
+    "zh": [
+      "洪水",
+      "灭世",
+      "方舟",
+      "永生"
+    ],
+    "en": [
+      "Flood",
+      "Destruction",
+      "Ark",
+      "Immortality"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "主角三名",
+        "en": "Three heroes"
+      },
+      "value": {
+        "zh": "祖苏德拉、阿特拉哈西斯、乌特纳皮什提姆",
+        "en": "Ziusudra, Atrahasis, Utnapishtim"
+      }
+    },
+    {
+      "label": {
+        "zh": "探水之鸟",
+        "en": "The birds"
+      },
+      "value": {
+        "zh": "鸽子、燕子、乌鸦",
+        "en": "Dove, swallow, raven"
+      }
+    },
+    {
+      "label": {
+        "zh": "现代释读",
+        "en": "Modern reading"
+      },
+      "value": {
+        "zh": "乔治·史密斯，1872年12月",
+        "en": "George Smith, December 1872"
+      }
+    }
+  ],
+  "related": [
+    "gilgamesh",
+    "enki",
+    "enlil"
+  ],
+  "sources": [
+    {
+      "zh": "《阿特拉哈西斯史诗》",
+      "en": "Epic of Atrahasis"
+    },
+    {
+      "zh": "《吉尔伽美什史诗》第十一块泥板",
+      "en": "Epic of Gilgamesh, Tablet XI"
+    },
+    {
+      "zh": "苏美尔语洪水故事（“埃利都创世纪”）",
+      "en": "The Sumerian Flood Story ('Eridu Genesis')"
+    }
+  ],
+  "geo": {
+    "lat": 31.77,
+    "lon": 45.51,
+    "label": {
+      "zh": "舒鲁帕克（今法拉遗址）",
+      "en": "Shuruppak (Tell Fara)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/mesopotamian-flood.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg",
+    "sourceTitle": "British Museum Flood Tablet",
+    "license": "CC0",
+    "width": 883,
+    "height": 1000
+  }
+}

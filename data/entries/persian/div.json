@@ -1,0 +1,102 @@
+{
+  "id": "div",
+  "tradition": "persian",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "迪弗",
+    "en": "Div",
+    "original": "دیو",
+    "originalLang": "波斯语"
+  },
+  "title": {
+    "zh": "波斯的巨魔",
+    "en": "The Demons of Persia"
+  },
+  "summary": {
+    "zh": "波斯传说中的巨魔，源自《阿维斯陀》被贬为恶灵的旧神\"达埃瓦\"。《列王纪》中盘踞马赞德兰，首领白迪弗曾以妖法囚禁波斯全军。",
+    "en": "The ogre-demons of Persian legend, descended from the daevas, old gods demonized in the Avesta. In the Shahnameh they haunt Mazandaran, where the White Div blinded a Persian army."
+  },
+  "description": {
+    "zh": "迪弗是波斯传说中的巨魔，词源是阿维斯陀语的\"达埃瓦\"（daēva）——与印度吠陀诸神（deva）同源的古老神名，在琐罗亚斯德的改革中被整体贬为受安格拉·曼纽驱使的恶灵，《维提吠达特》（意即\"驱魔法\"）通篇是对付它们的洁净仪轨。经过千年流变，它们在新波斯语文学与民间故事里定型为形象具体的巨魔：身躯如塔，皮糙如砺，生角獠牙，或牛头或猪面，掷石如雨，通妖术，能隐形，居于荒山深洞。\n\n《列王纪》给了迪弗最著名的舞台。上古君王塔赫穆拉斯以缚魔闻名，号\"迪弗之缚者\"，被降伏的迪弗以传授三十种文字换取活命——波斯传说因此把文字的来历归于魔怪。里海南岸的马赞德兰是它们的国度：国王凯·卡乌斯率军来犯，魔王白迪弗（Div-e Sepid）唤起黑云妖法夺去全军视力，把国王囚入洞窟；鲁斯塔姆闯七关来援，途中杀死魔将阿尔章格，最终与白迪弗在山洞中角力，撕裂其躯，取肝血点眼为大军复明。这场人魔之战成为波斯细密画最爱描绘的场面之一，白山羊须、豹斑皮肤的白迪弗形象反复出现在历代《列王纪》抄本插图里。今日波斯语中\"迪弗\"仍是童话里巨魔的通称。",
+    "en": "The div is the ogre-demon of Persian legend. The word descends from Avestan daeva, cognate with the Vedic deva — old gods demoted wholesale to evil spirits in Zarathustra's reform; the Vendidad, the \"law against the demons,\" is one long manual of purities for keeping them at bay. Over the centuries they hardened in New Persian literature and folktale into concrete monsters: tower-tall, rough-hided, horned and tusked, sometimes bull- or boar-headed, hurling stones like rain, versed in sorcery, able to walk unseen, and laired in mountain caves.\n\nThe Shahnameh gave the divs their most famous stage. The primeval king Tahmuras, called the Binder of Demons, spared the divs he had conquered in exchange for the arts of writing in thirty scripts — Persian legend thus owes its letters to demons. Mazandaran, south of the Caspian, is their kingdom: when King Kay Kavus invaded it, the White Div (Div-e Sepid) raised a black cloud of sorcery that blinded the whole Persian army and threw the king into a cavern. Rostam rode the Seven Trials to the rescue, slaying the div captain Arzhang on the way, and at last wrestled the White Div in its cave, tore it apart, and restored the army's sight with the blood of its liver. That cave duel became one of the favorite scenes of Persian miniature painting, the White Div rendered with goat's beard and leopard-spotted hide in manuscript after manuscript. In modern Persian, div remains the ordinary word for the giant of fairy tales."
+  },
+  "domains": {
+    "zh": [
+      "妖魔",
+      "妖术",
+      "荒山洞窟",
+      "蛮力"
+    ],
+    "en": [
+      "Demons",
+      "Sorcery",
+      "Mountain caves",
+      "Brute strength"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "词源",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "阿维斯陀语达埃瓦（被贬黜的旧神）",
+        "en": "Avestan daeva, the demonized old gods"
+      }
+    },
+    {
+      "label": {
+        "zh": "国度",
+        "en": "Realm"
+      },
+      "value": {
+        "zh": "马赞德兰（里海南岸）",
+        "en": "Mazandaran, south of the Caspian"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名个体",
+        "en": "Famous divs"
+      },
+      "value": {
+        "zh": "白迪弗、阿克万迪弗",
+        "en": "The White Div; Akvan Div"
+      }
+    }
+  ],
+  "related": [
+    "angra-mainyu",
+    "rostam",
+    "peri"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·维提吠达特》",
+      "en": "Avesta, Vendidad"
+    },
+    {
+      "zh": "菲尔多西《列王纪》（约1010年）",
+      "en": "Ferdowsi, Shahnameh (c. 1010)"
+    }
+  ],
+  "geo": {
+    "lat": 36.4,
+    "lon": 52.6,
+    "label": {
+      "zh": "马赞德兰（伊朗）",
+      "en": "Mazandaran, Iran"
+    }
+  },
+  "image": {
+    "file": "/images/entries/div.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tahmuras_Defeating_the_Divs.jpg",
+    "sourceTitle": "Tahmuras Defeating the Divs",
+    "artist": "Attributed to Reza Abbasi",
+    "license": "Public domain",
+    "width": 652,
+    "height": 1000
+  }
+}

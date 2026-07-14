@@ -1,0 +1,106 @@
+{
+  "id": "shambhala",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "香巴拉",
+    "en": "Shambhala",
+    "original": "शम्भल",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "时轮密法守护的雪山隐国",
+    "en": "The hidden kingdom that guards the Kalachakra"
+  },
+  "summary": {
+    "zh": "藏传佛教时轮系统中雪山环抱的隐秘王国，形如八瓣莲花，由持明法王世系统治；末法之世其王将出，荡涤浊世。",
+    "en": "The hidden kingdom of the Kalachakra tradition in Tibetan Buddhism, shaped like an eight-petalled lotus behind snow mountains, ruled by a line of dharma kings who will ride out at the end of the age."
+  },
+  "description": {
+    "zh": "香巴拉出自时轮密法体系。据传统叙事，香巴拉国王月贤（苏禅德拉）亲赴南印度请佛陀宣说《时轮怛特罗》，将法本带回北方的王国；该文献于十一世纪前后传入西藏，成为藏传佛教时轮传承的根本经典。经文描绘的香巴拉由重重雪山环抱，国土形如八瓣莲花，中央的迦拉波王宫居住着持明法王，居民皆修时轮法门。预言称月贤之后先传七位法王，继以二十五位具种王，末代具种王\"猛怒持轮王\"将在浊世大战中击溃蛮军，开启新的黄金时代。\n\n在西藏传统中，香巴拉是真实与净土之间的存在：方位在雪域以北、悉达河彼岸，但唯有业缘清净者循\"香巴拉指南\"类文献的路径方能抵达，肉眼凡胎纵然行至其地也只见荒山。历代均有高僧撰写赴香巴拉的路引，六世班禅罗桑巴丹益西1775年所著《香巴拉道路记》流传最广。\n\n十九世纪末起，香巴拉进入西方视野：布拉瓦茨基的神智学把它说成地上圣哲的秘密驻地；尼古拉·罗里赫1925至1928年穿越中亚的考察队沿途搜集香巴拉传闻，归后著《香巴拉》一书；詹姆斯·希尔顿1933年的小说《消失的地平线》以之为蓝本虚构出\"香格里拉\"，这个名字后来被云南中甸县在2001年正式采作县名。",
+    "en": "Shambhala belongs to the Kalachakra system. In the traditional account, King Suchandra of Shambhala travelled to South India to request the Kalachakra Tantra from the Buddha and carried the teaching home to his northern kingdom; the text reached Tibet around the eleventh century and became the root scripture of the Kalachakra lineage. The tantra describes a realm sealed behind ranges of snow mountains, its territory shaped like an eight-petalled lotus around the central palace of Kalapa, seat of a line of dharma kings whose subjects all practise the Kalachakra. Prophecy names seven dharma kings followed by twenty-five Kalki kings; the last, Raudra Chakrin, will ride out in a degenerate age, crush the armies of barbarism, and open a new golden era.\n\nIn Tibetan tradition Shambhala hovers between geography and pure land: it lies north of the Himalayas, beyond the River Sita, yet only those of purified karma, following itineraries set down in \"guidebooks to Shambhala\", can arrive; ordinary travellers would find nothing but empty mountains. The best known of these guides was written in 1775 by the Sixth Panchen Lama, Lobsang Palden Yeshe.\n\nFrom the late nineteenth century Shambhala entered Western imagination: Blavatsky's Theosophy made it a secret seat of earthly adepts; Nicholas Roerich gathered Shambhala lore across Central Asia during his 1925-1928 expedition and published a book under that name; and James Hilton's 1933 novel Lost Horizon spun it into \"Shangri-La\", a name the Chinese county of Zhongdian in Yunnan officially adopted in 2001."
+  },
+  "domains": {
+    "zh": [
+      "隐秘王国",
+      "藏传佛教",
+      "时轮密法",
+      "香格里拉"
+    ],
+    "en": [
+      "Hidden kingdom",
+      "Tibetan Buddhism",
+      "Kalachakra",
+      "Shangri-La"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "根本文献",
+        "en": "Root text"
+      },
+      "value": {
+        "zh": "《时轮怛特罗》，约11世纪传入西藏",
+        "en": "The Kalachakra Tantra, reaching Tibet c. 11th century"
+      }
+    },
+    {
+      "label": {
+        "zh": "国土形制",
+        "en": "Shape of the realm"
+      },
+      "value": {
+        "zh": "雪山环抱，形如八瓣莲花，中央迦拉波王宫",
+        "en": "An eight-petalled lotus behind snow mountains, Kalapa at its heart"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名路引",
+        "en": "Famous guidebook"
+      },
+      "value": {
+        "zh": "六世班禅《香巴拉道路记》（1775）",
+        "en": "The Sixth Panchen Lama's guide to Shambhala (1775)"
+      }
+    }
+  ],
+  "related": [
+    "agartha",
+    "penglai",
+    "tao-hua-yuan"
+  ],
+  "sources": [
+    {
+      "zh": "《时轮怛特罗》及其注释传统",
+      "en": "The Kalachakra Tantra and its commentarial tradition"
+    },
+    {
+      "zh": "六世班禅罗桑巴丹益西《香巴拉道路记》（1775）",
+      "en": "Lobsang Palden Yeshe, Sixth Panchen Lama, guidebook to Shambhala (1775)"
+    },
+    {
+      "zh": "尼古拉·罗里赫《香巴拉》（1930）",
+      "en": "Nicholas Roerich, Shambhala (1930)"
+    }
+  ],
+  "geo": {
+    "lat": 39,
+    "lon": 84,
+    "label": {
+      "zh": "传说方位：雪域以北、悉达河彼岸",
+      "en": "Legendary bearing: north of the Himalayas, beyond the River Sita"
+    }
+  },
+  "image": {
+    "file": "/images/entries/shambhala.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eight_Kings_from_Shambala.jpg",
+    "sourceTitle": "Eight Kings from Shambala",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 688,
+    "height": 1000
+  }
+}

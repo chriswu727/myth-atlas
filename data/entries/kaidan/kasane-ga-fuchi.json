@@ -1,0 +1,102 @@
+{
+  "id": "kasane-ga-fuchi",
+  "tradition": "kaidan",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "累渊",
+    "en": "Kasane-ga-fuchi",
+    "original": "累ヶ淵",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "两代冤魂盘踞的河渊",
+    "en": "A river pool haunted by two generations of the murdered"
+  },
+  "summary": {
+    "zh": "下总国羽生村的农妇累被丈夫溺死于鬼怒川，怨灵附身后妻之女作祟，经名僧祐天超度才揭出上一代溺死继子的旧案。日本因果怪谈的代表。",
+    "en": "Kasane, a farm wife of Hanyu village, is drowned by her husband in the Kinugawa river; her ghost possesses a later daughter until the priest Yuten uncovers an identical murder a generation earlier."
+  },
+  "description": {
+    "zh": "累（かさね）是下总国冈田郡羽生村（今茨城县常总市羽生町）的农家女，相貌与腿脚都有残疾。入赘的丈夫与右卫门嫌恶她，1647年（正保四年）借口渡河，在鬼怒川的深渊把她按进水里溺死。此后与右卫门续娶的妻子接连暴亡，多年后所生之女菊在1672年（宽文十二年）突然被累的怨灵附体，口述被杀经过，闹动四乡。念佛僧祐天（后来的祐天上人）前来施法，怨灵却层层剥开：累之前，她的母亲还带来过一个前夫之子、面目溃烂的男孩「助」，也被这家人沉进了同一处河渊。名字「累」本身就应在这桩旧案上——罪是叠着的。祐天为两代冤魂授戒念佛，作祟方止。\n\n这桩事件由僧人残寿写成《死灵解脱物语闻书》，1690年刊行，体裁是纪实说教书，在江户畅销，「累渊」从此成为地名兼怪谈通名。歌舞伎与净琉璃反复搬演，鹤屋南北系统的舞踊剧《色彩间苅豆》（1823年）写累与与右卫门在夜色芒草间的杀场；幕末三游亭圆朝的长篇落语《真景累渊》另起炉灶，把因果链延伸到江户的针医皆川宗悦一族，「真景」谐音「神经」，是圆朝对文明开化时代「鬼由心生」的回答。\n\n常总市羽生町的法藏寺至今存有累一族的墓，鬼怒川边立着「累渊」的旧迹碑。",
+    "en": "Kasane was a farm woman of Hanyu village in Shimosa province, present-day Joso, Ibaraki, born with a disfigured face and a lame leg. Her adopted-in husband Yoemon, who despised her, drowned her in a deep pool of the Kinugawa river in 1647 on the pretext of a river crossing. His later wives died one after another, and in 1672 his daughter Kiku was seized by Kasane's spirit, which spoke through the girl and described the murder to the assembled village. The nenbutsu priest Yuten, later the celebrated Yuten Shonin, came to exorcise her, and the haunting opened like a nested box: before Kasane, her mother had brought to the household a boy called Suke, a stepchild with a diseased face, and he had been sunk in the same pool a generation earlier. The name Kasane, 'piled up,' already carried the verdict, sin stacked on sin. Only when both ghosts received the precepts did the possession end.\n\nThe monk Zanju wrote the case up as the Shiryo Gedatsu Monogatari Kikigaki, published in 1690, a documentary sermon-book that sold widely in Edo and made Kasane-ga-fuchi both a place name and a byword. The kabuki dance-drama Iro Moyo Chotto Karimame (1823), of the Tsuruya Nanboku line, stages Kasane and Yoemon's murder scene among night reeds; San'yutei Encho's late-Edo rakugo epic Shinkei Kasane-ga-fuchi respun the karma into a new family saga, its title punning 'true view' against 'nerves' in an age told that ghosts were all in the mind.\n\nThe graves of Kasane's family survive at Hozoji temple in Hanyu, and a marker stands by the Kinugawa where the pool once ran deep."
+  },
+  "domains": {
+    "zh": [
+      "怨灵",
+      "附身",
+      "因果报应",
+      "河川"
+    ],
+    "en": [
+      "Vengeful ghosts",
+      "Possession",
+      "Karmic retribution",
+      "Rivers"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "事发年代",
+        "en": "Dates in the record"
+      },
+      "value": {
+        "zh": "累1647年被害，1672年附身作祟",
+        "en": "Kasane murdered 1647; possession recorded 1672"
+      }
+    },
+    {
+      "label": {
+        "zh": "驱灵者",
+        "en": "Exorcist"
+      },
+      "value": {
+        "zh": "念佛僧祐天（后为祐天上人）",
+        "en": "The nenbutsu priest Yuten (later Yuten Shonin)"
+      }
+    },
+    {
+      "label": {
+        "zh": "现存遗迹",
+        "en": "Relics"
+      },
+      "value": {
+        "zh": "常总市法藏寺累一族墓、鬼怒川累渊旧迹",
+        "en": "Family graves at Hozoji, Joso; Kasane-ga-fuchi marker on the Kinugawa"
+      }
+    }
+  ],
+  "related": [
+    "yotsuya-kaidan",
+    "botan-doro",
+    "sarayashiki"
+  ],
+  "sources": [
+    {
+      "zh": "残寿《死灵解脱物语闻书》（1690年刊）",
+      "en": "Zanju, Shiryo Gedatsu Monogatari Kikigaki (published 1690)"
+    },
+    {
+      "zh": "三游亭圆朝《真景累渊》（幕末创作，1888年速记本）",
+      "en": "San'yutei Encho, Shinkei Kasane-ga-fuchi (late Edo; shorthand edition 1888)"
+    }
+  ],
+  "geo": {
+    "lat": 36.08,
+    "lon": 139.96,
+    "label": {
+      "zh": "茨城县常总市羽生·鬼怒川",
+      "en": "Hanyu, Joso, Ibaraki, on the Kinugawa"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kasane-ga-fuchi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unuma_%E9%B5%9C%E6%B2%BC_Yoemon_%E4%B8%8E%E5%8F%B3%E3%83%B1%E9%96%80_et_sa_femme_Kasane_%E5%A5%B3%E6%88%BF%E7%B4%AF,_Paris_Mus%C3%A9es_20231006080747.jpg",
+    "sourceTitle": "Unuma 鵜沼 Yoemon 与右ヱ門 et sa femme Kasane 女房累, Paris Musées 20231006080747",
+    "artist": "Utagawa, Kuniyoshi 歌川 国芳 (Tōkyō, 01–01–1798 - Tōkyō, 14–04–1861), dessinateur",
+    "license": "CC0",
+    "width": 688,
+    "height": 1000
+  }
+}

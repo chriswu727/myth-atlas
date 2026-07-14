@@ -1,0 +1,51 @@
+{
+  "id": "wendigo",
+  "tradition": "native-american",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "温迪戈",
+    "en": "Wendigo",
+    "original": "Wiindigoo",
+    "originalLang": "奥吉布瓦语"
+  },
+  "title": { "zh": "冬日饥荒的食人之灵", "en": "Cannibal Spirit of Winter Famine" },
+  "summary": {
+    "zh": "阿尔冈昆语系诸族传统中的食人恶灵：与严冬、饥荒和无度的贪婪相连。人若在绝境中食人，或被其附身，便会化为温迪戈。",
+    "en": "A cannibal spirit in Algonquian traditions, bound to deep winter, famine, and insatiable greed. A person who eats human flesh in extremity, or is possessed, may become one."
+  },
+  "description": {
+    "zh": "温迪戈见于奥吉布瓦、克里、因努、索托等阿尔冈昆语系民族的传统，是与严冬绑定的恶灵。各地描述不尽相同，常见的形象是一个瘦到皮包骨的巨人：肋骨根根凸起，嘴唇被自己啃烂，心脏是一块不化的坚冰。它越吃越饿，吃得越多长得越大，因此永远处于饿死边缘。在阿尔冈昆诸族的讲述里，温迪戈就是贪婪本身：占有越多，匮乏越深。\n\n传统叙事把最深的恐惧放在\"人会变成温迪戈\"这件事上。漫长冬季断粮的营地里，倘若有人越过食人的禁忌，或梦中被温迪戈之灵附着，就会渐渐失去人性，视亲人为猎物。因此相关故事承担着严肃的社会功能：警戒极端环境下的禁忌，谴责囤积与自私。历史上，克里与奥吉布瓦社区确曾处决过被认定\"温迪戈化\"的人，如1907年奥吉-克里首领杰克·菲德勒因处死\"温迪戈化\"病人被捕一案（他在羁押中自尽，其弟约瑟夫受审定罪）；二十世纪精神医学文献一度使用\"温迪戈精神病\"一词，其真实性至今存在争议。\n\n在相关民族中，温迪戈至今是被严肃对待的信仰内容，许多长者避免在夏季或轻率场合谈论它。奥吉布瓦学者巴兹尔·约翰斯顿等人则把温迪戈用作对资源掠夺与消费主义的批评意象。恐怖小说、影视与游戏中鹿角兽化的\"温迪戈\"形象，是二十世纪以来的外来再创作，与原住民传统中的形象相去甚远。",
+    "en": "The wendigo belongs to the traditions of Algonquian-speaking peoples including the Ojibwe, Cree, Innu, and Saulteaux, a malevolent spirit bound to deep winter. Descriptions vary by region, but a common image is an emaciated giant: ribs pressing through its skin, lips chewed ragged by its own teeth, and a heart of ice that never thaws. The more it eats, the larger and hungrier it grows, so that it is forever starving. In Algonquian telling the wendigo is greed itself: the more it possesses, the deeper its want.\n\nTraditional narrative places the deepest horror in the possibility that a person can become a wendigo. In a snowbound camp with the food gone, someone who crosses the taboo against eating human flesh, or whose dreams are entered by the wendigo spirit, slowly loses humanity and begins to see kin as prey. The stories thus carry serious social weight, guarding the gravest taboo of subsistence life and condemning hoarding and selfishness. Historically, Cree and Ojibwe communities did execute people judged to have turned wendigo; the Oji-Cree leader Jack Fiddler was arrested in 1907 over such a killing and died in custody, while his brother Joseph was tried and convicted; and the psychiatric label \"wendigo psychosis,\" used in twentieth-century literature, remains disputed.\n\nFor the peoples concerned the wendigo remains part of living belief, treated with gravity; many elders avoid speaking of it in summer or in careless settings. The Ojibwe scholar Basil Johnston turned the wendigo into a critique of resource extraction and consumerism, while the antlered beast of horror fiction, film, and games is a twentieth-century outsider invention far removed from the tradition."
+  },
+  "domains": {
+    "zh": ["严冬", "饥荒", "贪婪", "食人禁忌"],
+    "en": ["Deep winter", "Famine", "Greed", "Cannibalism taboo"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "民族来源", "en": "Peoples" },
+      "value": { "zh": "奥吉布瓦、克里、因努等阿尔冈昆语系民族", "en": "Ojibwe, Cree, Innu, and other Algonquian peoples" }
+    },
+    {
+      "label": { "zh": "标志", "en": "Signature" },
+      "value": { "zh": "冰做的心脏，永不餍足的饥饿", "en": "A heart of ice and a hunger that grows with every meal" }
+    },
+    {
+      "label": { "zh": "语境提示", "en": "Context note" },
+      "value": { "zh": "活态信仰内容，传统上不宜轻率谈论", "en": "Part of living belief; traditionally not spoken of lightly" }
+    }
+  ],
+  "related": ["nanabozho", "skin-walker"],
+  "sources": [
+    {
+      "zh": "巴兹尔·约翰斯顿《马尼托：奥吉布瓦人的灵性世界》（1995）",
+      "en": "Basil Johnston, The Manitous: The Spiritual World of the Ojibway (1995)"
+    },
+    {
+      "zh": "克里、奥吉布瓦口传传统；1907年杰克·菲德勒案的加拿大法庭记录",
+      "en": "Cree and Ojibwe oral traditions; Canadian court records of the Jack Fiddler case (1907)"
+    }
+  ],
+  "image": null
+}

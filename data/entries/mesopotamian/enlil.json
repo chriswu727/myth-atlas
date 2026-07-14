@@ -1,0 +1,104 @@
+{
+  "id": "enlil",
+  "tradition": "mesopotamian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "恩利尔",
+    "en": "Enlil",
+    "original": "En-líl",
+    "originalLang": "苏美尔语"
+  },
+  "title": {
+    "zh": "风之主、众神首领",
+    "en": "Lord Wind, Head of the Pantheon"
+  },
+  "summary": {
+    "zh": "“风之主”，苏美尔众神的实际首领，执掌天命泥板，圣城尼普尔。他用镐头分开天地，也因嫌人类吵闹而发动大洪水。",
+    "en": "'Lord Wind,' effective head of the Sumerian pantheon and keeper of the Tablet of Destinies, worshipped at Nippur. He split heaven from earth with a pickaxe — and sent the Flood because humans grew too noisy."
+  },
+  "description": {
+    "zh": "恩利尔是大气与大地之主，苏美尔万神殿的实际首领，名号意为“风之主”。天神安努位分更尊却形同虚设，发号施令、执掌天命泥板的一直是恩利尔；“恩利尔之职”一词在两河文献里就是最高神权的代称。他的圣城是尼普尔，神庙埃库尔意为“山之屋”——尼普尔从未称霸一方，却是全苏美尔的宗教中枢，想称“天下之王”的君主都要到这里求恩利尔认可。\n\n苏美尔诗《锄之歌》说他用镐头劈开天地相连之处，让人类像草一样从土里冒头。《恩利尔与宁利尔》讲他在尼普尔运河边强占少女宁利尔，被众神议决逐出城去冥界；宁利尔怀着月神南纳一路追随，途中又孕下三位冥界神祇。他的威严始终带着灾祸的一面：《阿特拉哈西斯史诗》里，人类繁衍日盛，喧闹搅得他睡不着，瘟疫、旱灾、饥荒轮番失效后，他索性发动大洪水；事败后与恩基妥协，为人类设下夭折与不育作为节制。\n\n公元前二千纪后期起，他的地位先后被巴比伦的马尔杜克与亚述国家神阿舒尔接管——《埃努玛·埃利什》的亚述抄本干脆把主角换成阿舒尔。尼普尔遗址自19世纪90年代起经宾夕法尼亚大学等反复发掘，埃库尔神庙区出土的数万块泥板是苏美尔文学存世的最大来源。",
+    "en": "Enlil, 'Lord Wind,' god of air and earth, was the effective head of the Sumerian pantheon. The sky god An outranked him in theory, but it was Enlil who issued decrees and held the Tablet of Destinies; Mesopotamian texts use 'Enlilship' as a byword for supreme divine authority. His holy city was Nippur, his temple the Ekur, 'Mountain House.' Nippur never ruled an empire, yet it was the religious center of Sumer, and kings who claimed lordship over the land sought Enlil's sanction there.\n\nThe Sumerian Song of the Hoe has him split the junction of heaven and earth with his pickaxe so that humans could sprout from the soil. In Enlil and Ninlil he forces himself on the young goddess Ninlil by the canal at Nippur and is banished to the netherworld by the assembly of the gods; Ninlil follows him, pregnant with the moon god Nanna, and along the way conceives three infernal deities. His majesty always carried a destructive edge: in the Atrahasis epic the din of multiplying humanity robs him of sleep, and after plague, drought, and famine fail he unleashes the Flood, settling afterward with Enki on infant mortality and barrenness as permanent checks on human numbers.\n\nFrom the later second millennium BCE his rank passed to Marduk of Babylon and to Ashur, the Assyrian state god — Assyrian copies of Enuma Elish simply substitute Ashur as hero. The Ekur precinct at Nippur, dug repeatedly since the 1890s by the University of Pennsylvania and others, has yielded tens of thousands of tablets, the single richest source of Sumerian literature."
+  },
+  "domains": {
+    "zh": [
+      "大气",
+      "王权",
+      "天命",
+      "风暴"
+    ],
+    "en": [
+      "Air",
+      "Kingship",
+      "Destiny",
+      "Storm"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣城",
+        "en": "Holy city"
+      },
+      "value": {
+        "zh": "尼普尔，神庙“山之屋”埃库尔",
+        "en": "Nippur, temple Ekur"
+      }
+    },
+    {
+      "label": {
+        "zh": "权柄",
+        "en": "Regalia"
+      },
+      "value": {
+        "zh": "天命泥板",
+        "en": "The Tablet of Destinies"
+      }
+    },
+    {
+      "label": {
+        "zh": "后继者",
+        "en": "Successors"
+      },
+      "value": {
+        "zh": "巴比伦的马尔杜克、亚述的阿舒尔",
+        "en": "Marduk of Babylon; Ashur of Assyria"
+      }
+    }
+  ],
+  "related": [
+    "enki",
+    "anzu",
+    "tablet-of-destinies",
+    "mesopotamian-flood",
+    "humbaba"
+  ],
+  "sources": [
+    {
+      "zh": "苏美尔诗《恩利尔与宁利尔》《锄之歌》",
+      "en": "Sumerian poems Enlil and Ninlil; Song of the Hoe"
+    },
+    {
+      "zh": "《阿特拉哈西斯史诗》",
+      "en": "Epic of Atrahasis"
+    }
+  ],
+  "geo": {
+    "lat": 32.13,
+    "lon": 45.23,
+    "label": {
+      "zh": "尼普尔（今努法尔遗址）",
+      "en": "Nippur (Nuffar)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/enlil.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:God_Enlil,_seated,_from_Nippur,_Iraq._1800-1600_BCE._Iraq_Museum.jpg",
+    "sourceTitle": "God Enlil, seated, from Nippur, Iraq. 1800-1600 BCE. Iraq Museum",
+    "artist": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "license": "CC BY-SA 4.0",
+    "width": 618,
+    "height": 1000
+  }
+}

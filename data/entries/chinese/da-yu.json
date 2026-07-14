@@ -1,0 +1,101 @@
+{
+  "id": "da-yu",
+  "tradition": "chinese",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "大禹",
+    "en": "Yu the Great"
+  },
+  "title": {
+    "zh": "治水定九州的夏朝奠基者",
+    "en": "Tamer of the Great Flood, Founder of the Xia"
+  },
+  "summary": {
+    "zh": "改堵为疏治平洪水，居外十三年、三过家门而不入；划定九州、铸九鼎，会稽会盟诸侯，其子启开创夏朝。",
+    "en": "He tamed the great flood by dredging instead of damming, passing his own gate three times in thirteen years without entering, mapped the Nine Provinces, cast the Nine Tripods, and fathered the Xia dynasty."
+  },
+  "description": {
+    "zh": "禹是鲧之子。尧的时代洪水滔天，鲧受命治水，一味筑堤堵塞，九年无功，被殛于羽山；舜举禹继承父业。《史记·夏本纪》记载禹\"劳身焦思，居外十三年，过家门不敢入\"，他改堵为疏，随山刊木、开山导河，使洪水各归其道注入四海，百姓才得以从丘陵下到平地耕种。\n\n治水途中禹娶涂山氏之女，新婚数日即离家赴工，儿子启出生时他仍在外奔波。水患既平，禹分天下为九州，《尚书·禹贡》逐州记载山川、土壤与贡赋，成为中国最早的系统地理文献。传说他收九州之金铸成九鼎，象征天下一统，此后\"问鼎\"即觊觎王权（《左传·宣公三年》）。\n\n舜死后禹即天子位。他东巡至会稽大会诸侯，防风氏迟到被处死；禹死后葬于会稽，其子启继位，从此\"公天下\"变为\"家天下\"，夏朝由此开端。绍兴会稽山麓的大禹陵历代奉祀不绝，大禹治水至今是克己奉公的第一典范。",
+    "en": "Yu was the son of Gun. In the age of Yao the floodwaters mounted to the sky; Gun was commissioned to control them, but after nine years of futile dike-building he was executed at Feather Mountain, and Shun appointed Yu to finish his father's work. The Records of the Grand Historian says Yu wore out his body and burned his thoughts, living away from home for thirteen years and not daring to enter his own gate though he passed it — three times, in the famous telling. Reversing his father's method, he dredged channels and cut through hills so the waters found their courses to the four seas, and the people came down from the hills to farm the plains.\n\nMidway through the labor he married a daughter of the Tushan clan and left her days after the wedding; his son Qi was born in his absence. With the flood subdued, Yu divided the realm into Nine Provinces, each described with its mountains, soils, and tribute in the 'Tribute of Yu' chapter of the Book of Documents, China's earliest systematic geography. He gathered the metals of the nine regions and cast the Nine Tripods, thereafter the very emblem of legitimate rule.\n\nSucceeding Shun as sovereign, he assembled the lords at Kuaiji, where the late-arriving chief of Fangfeng was executed. Yu was buried at Kuaiji, near present-day Shaoxing, and his son Qi's succession began the hereditary Xia dynasty. His mausoleum there has been maintained for centuries."
+  },
+  "domains": {
+    "zh": [
+      "治水",
+      "九州",
+      "王权"
+    ],
+    "en": [
+      "Flood Control",
+      "The Nine Provinces",
+      "Kingship"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "治水方略",
+        "en": "Method"
+      },
+      "value": {
+        "zh": "改堵为疏，开山导河",
+        "en": "Dredging and channeling instead of damming"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Regalia"
+      },
+      "value": {
+        "zh": "九鼎",
+        "en": "The Nine Tripods"
+      }
+    },
+    {
+      "label": {
+        "zh": "陵墓",
+        "en": "Tomb"
+      },
+      "value": {
+        "zh": "浙江绍兴大禹陵",
+        "en": "Mausoleum of Yu, Shaoxing, Zhejiang"
+      }
+    }
+  ],
+  "related": [
+    "gonggong",
+    "huangdi"
+  ],
+  "sources": [
+    {
+      "zh": "《尚书·禹贡》",
+      "en": "Book of Documents, 'Tribute of Yu'"
+    },
+    {
+      "zh": "《史记·夏本纪》",
+      "en": "Shiji, 'Annals of Xia'"
+    },
+    {
+      "zh": "《左传·宣公三年》",
+      "en": "Zuozhuan, 3rd year of Duke Xuan"
+    }
+  ],
+  "geo": {
+    "lat": 29.97,
+    "lon": 120.58,
+    "label": {
+      "zh": "大禹陵（浙江绍兴）",
+      "en": "Mausoleum of Yu, Shaoxing"
+    }
+  },
+  "image": {
+    "file": "/images/entries/da-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Da_Yu.jpg",
+    "sourceTitle": "Portraits of Famous Men: Da Yu",
+    "artist": "Unknown Chinese artist",
+    "license": "Public domain",
+    "width": 685,
+    "height": 1000
+  }
+}

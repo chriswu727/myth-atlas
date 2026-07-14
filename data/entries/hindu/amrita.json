@@ -1,0 +1,112 @@
+{
+  "id": "amrita",
+  "tradition": "hindu",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "不死甘露",
+    "en": "Amrita",
+    "original": "अमृत",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "令诸神不死的仙液",
+    "en": "The nectar that makes the gods deathless"
+  },
+  "summary": {
+    "zh": "搅乳海千年方得的不死仙液，由神医昙梵陀利捧壶带出。诸神饮之不死，罗睺偷饮被斩首，迦楼罗为赎母只身夺壶。大壶节因这只宝壶得名。",
+    "en": "The nectar of immortality churned from the milky sea, borne up in a pot by Dhanvantari. Rahu stole a sip and lost his head; Garuda seized it to free his mother; the Kumbh Mela bears its vessel's name."
+  },
+  "description": {
+    "zh": "不死甘露（amrita，字面即“不死”，与希腊语 ambrosia 同源）是诸神不死之力的来源。它并非天然存在：提婆与阿修罗以曼陀罗山搅动乳海千年，宝物次第浮出，最后才由神医昙梵陀利手捧宝壶（kumbha）将它带出海面。它与吠陀祭祀中的神酒苏摩关系密切，《梨俱吠陀》里苏摩即被称为“甘露”，二者在后世文献中时常互指。\n\n围绕这一壶仙液生出了两则大故事。其一：甘露出海后被阿修罗抢走，毗湿奴化作天女莫西妮巧言分酒，把甘露尽数斟给诸神；混入神列的阿修罗罗睺刚咽下一口便被日月神识破，毗湿奴掷轮宝斩首——那颗已获不死的头颅从此在天上追逐吞噬日月，印度传统以此解释日月食。其二见于《摩诃婆罗多·初篇》：金翅鸟迦楼罗为赎回被蛇族奴役的母亲，独闯天界破火阵、碎刀轮，夺壶而去，却分毫未饮；蛇族依约放人后，甘露又被因陀罗收回，蛇信舔过盛放宝壶的利草，从此裂成两叉。\n\n民间传说讲，诸神与阿修罗争夺宝壶时，甘露曾洒落人间四处——普拉亚格拉杰（安拉阿巴德）、赫尔德瓦尔、乌贾因与纳西克。四城轮流举办的大壶节（Kumbh Mela）由此得名，信徒相信节期入河沐浴可涤罪障；2025年初普拉亚格拉杰大壶节的官方统计到访人次以亿计，是地球上规模最大的人类聚集之一。",
+    "en": "Amrita—literally 'deathless,' cognate with the Greek ambrosia—is the source of the gods' immortality. It did not exist ready-made: devas and asuras churned the ocean of milk with Mount Mandara for a thousand years, treasure after treasure rising, until Dhanvantari, physician of the gods, surfaced holding the nectar in a pot, the kumbha. It is closely entwined with soma, the sacrificial draught of the Vedas, which the Rigveda itself calls amrita; later texts often use the names interchangeably.\n\nTwo great stories orbit the pot. In the first, the asuras snatched the nectar as it came ashore, and Vishnu, in the form of the enchantress Mohini, talked his way into serving it—pouring every drop to the gods. The asura Rahu slipped into their ranks and swallowed a mouthful before the sun and moon exposed him; Vishnu's discus struck off his head, which, already deathless, has pursued and devoured the sun and moon ever since—the Indian explanation of eclipses. In the second, told in the Adi Parva of the Mahabharata, the eagle king Garuda stormed heaven and carried off the pot to ransom his enslaved mother from the serpents, without drinking a drop himself; once she was freed, Indra reclaimed the nectar, and the snakes, licking the sharp kusha grass where the pot had rested, split their tongues in two.\n\nPopular tradition adds that during the struggle over the pot, drops of nectar fell to earth at four places—Prayagraj, Haridwar, Ujjain and Nashik. The Kumbh Mela, the 'festival of the pot,' rotates among these four cities, where bathing in the rivers during the festival is held to wash away sin; the 2025 gathering at Prayagraj counted attendance in the hundreds of millions, among the largest assemblies of human beings on earth."
+  },
+  "domains": {
+    "zh": [
+      "不死",
+      "神酒",
+      "神魔之争"
+    ],
+    "en": [
+      "Immortality",
+      "Divine Draught",
+      "Gods versus Demons"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "来历",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "搅乳海千年所得，昙梵陀利捧出",
+        "en": "Won by churning the ocean; borne up by Dhanvantari"
+      }
+    },
+    {
+      "label": {
+        "zh": "容器",
+        "en": "Vessel"
+      },
+      "value": {
+        "zh": "宝壶（kumbha），大壶节由此得名",
+        "en": "The kumbha pot, namesake of the Kumbh Mela"
+      }
+    },
+    {
+      "label": {
+        "zh": "词源",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "a-mrita“不死”，与ambrosia同源",
+        "en": "a-mrita, 'deathless,' cognate with ambrosia"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名窃取者",
+        "en": "Famous thieves"
+      },
+      "value": {
+        "zh": "罗睺（被斩首）、迦楼罗（未饮一滴）",
+        "en": "Rahu (beheaded), Garuda (never drank)"
+      }
+    }
+  ],
+  "related": [
+    "samudra-manthan",
+    "garuda",
+    "vishnu",
+    "indra",
+    "naga"
+  ],
+  "sources": [
+    {
+      "zh": "《梨俱吠陀》苏摩颂歌",
+      "en": "Rigveda, soma hymns"
+    },
+    {
+      "zh": "《摩诃婆罗多·初篇》",
+      "en": "Mahabharata, Adi Parva"
+    }
+  ],
+  "geo": {
+    "lat": 25.43,
+    "lon": 81.88,
+    "label": {
+      "zh": "普拉亚格拉杰（大壶节圣地）",
+      "en": "Prayagraj, site of the Kumbh Mela"
+    }
+  },
+  "image": {
+    "file": "/images/entries/amrita.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mohini_with_amrit.jpg",
+    "sourceTitle": "Mohini with amrit",
+    "artist": "http://picasaweb.google.com/injamaven",
+    "license": "CC BY 3.0",
+    "width": 639,
+    "height": 1000
+  }
+}

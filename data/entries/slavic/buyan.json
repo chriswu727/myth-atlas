@@ -1,0 +1,92 @@
+{
+  "id": "buyan",
+  "tradition": "slavic",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "布扬岛",
+    "en": "Buyan",
+    "original": "Буян",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "咒语中的海上神岛",
+    "en": "The Charm-Island in the Ocean-Sea"
+  },
+  "summary": {
+    "zh": "俄罗斯咒语的固定开头\"在海洋-大洋上，在布扬岛上\"所指的神岛，岛上有众石之父阿拉特尔石，有的故事还把科舍伊的死亡藏在这里。",
+    "en": "The mythical island of Russian incantations — \"on the ocean-sea, on the island of Buyan\" — home of the Alatyr stone and, in some tales, hiding place of Koschei's death."
+  },
+  "description": {
+    "zh": "布扬是俄罗斯咒语与魔法故事里的海上神岛。19世纪辑录的民间咒语（заговоры）有一个固定的开头：\"在海洋-大洋上，在布扬岛上……\"止血、驱病、护身、定情的咒文都从这句起兴，念咒者把咒力的源头安在那座岛上。岛上立着\"众石之父\"阿拉特尔石，咒语说石下或坐着圣母与圣者，或盘着蛇王，一切咒语的效力据信由此发出。\n\n一些魔法故事又把不死的科舍伊的性命安放在布扬岛：橡树上（或树下）藏着箱子，箱里有兔，兔腹有鸭，鸭腹有蛋，蛋里那根针的针尖上，就是他的死亡。1831年普希金把这座岛写进诗体童话《萨尔坦王的故事》：商船\"驶过布扬岛\"去往光荣的萨尔坦王国，这个反复出现的韵脚让布扬岛在俄语世界家喻户晓。\n\n它的来历没有定论：一派把它当作纯粹的咒语程式，是口头文学里的\"世界中心\"；另一派把它同波罗的海的吕根岛相联系——那里的阿尔科纳角曾立着西斯拉夫神祇斯维托维特的神庙，1168年被丹麦人捣毁。两说都拿不出决定性的证据。",
+    "en": "Buyan is the mythical island of Russian incantations and wonder tales. The charms (zagovory) written down in the nineteenth century open with a fixed formula: \"On the ocean-sea, on the island of Buyan...\" Spells to stanch blood, drive off illness, protect a soldier or bind a lover all begin there, placing the source of their power on that island. Upon it stands the Alatyr, \"father of all stones\"; beneath or upon the stone the charms seat the Mother of God and the saints, or coil the king of serpents, and from it the force of every spell was believed to flow.\n\nSome of the wonder tales lodge Koschei the Deathless's life on Buyan as well: in or under an oak lies a chest, in the chest a hare, in the hare a duck, in the duck an egg, and on the point of the needle inside the egg, his death. In 1831 Pushkin wrote the island into his verse Tale of Tsar Saltan, whose merchants sail \"past the island of Buyan\" toward the glorious tsar's realm; the recurring rhyme made Buyan a household name in the Russian-speaking world.\n\nIts origin is unsettled. One school treats it as a pure verbal formula, the \"centre of the world\" of oral tradition; another links it with the Baltic island of Ruegen, where the temple of the West Slavic god Svetovit stood at Cape Arkona until Danish forces destroyed it in 1168. Neither side can produce decisive evidence."
+  },
+  "domains": {
+    "zh": [
+      "咒语",
+      "神岛",
+      "阿拉特尔石",
+      "世界中心"
+    ],
+    "en": [
+      "Incantations",
+      "Mythical island",
+      "Alatyr stone",
+      "World centre"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "固定程式",
+        "en": "Fixed formula"
+      },
+      "value": {
+        "zh": "\"在海洋-大洋上，在布扬岛上……\"",
+        "en": "\"On the ocean-sea, on the island of Buyan...\""
+      }
+    },
+    {
+      "label": {
+        "zh": "岛上圣物",
+        "en": "Sacred object"
+      },
+      "value": {
+        "zh": "众石之父阿拉特尔石",
+        "en": "The Alatyr, father of all stones"
+      }
+    },
+    {
+      "label": {
+        "zh": "藏匿之物",
+        "en": "What is hidden there"
+      },
+      "value": {
+        "zh": "科舍伊的死亡（蛋中之针）",
+        "en": "Koschei's death, the needle in the egg"
+      }
+    }
+  ],
+  "related": [
+    "koschei"
+  ],
+  "sources": [
+    {
+      "zh": "迈科夫辑《大俄罗斯咒语》（1869）",
+      "en": "Leonid Maykov (ed.), Great Russian Incantations (Velikorusskie zaklinaniya), 1869"
+    },
+    {
+      "zh": "普希金《萨尔坦王的故事》（1831）",
+      "en": "Alexander Pushkin, The Tale of Tsar Saltan, 1831"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/buyan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivanbilibin.jpg",
+    "sourceTitle": "Ivanbilibin",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 638,
+    "height": 1000
+  }
+}

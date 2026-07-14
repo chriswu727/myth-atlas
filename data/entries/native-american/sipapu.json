@@ -1,0 +1,101 @@
+{
+  "id": "sipapu",
+  "tradition": "native-american",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "西帕普",
+    "en": "Sipapu",
+    "original": "Sípàapuni",
+    "originalLang": "霍皮语"
+  },
+  "title": {
+    "zh": "人类跃出前世界的出口",
+    "en": "The Place of Emergence from the Former World"
+  },
+  "summary": {
+    "zh": "霍皮出世神话中人类从第三世界攀入当今第四世界的出口。实指小科罗拉多河峡谷中的一座泉丘，每座基瓦礼堂地面的小坑都是它的象征。",
+    "en": "In Hopi emergence tradition, the opening through which humanity climbed from the Third World into the present Fourth World; a spring mound in the Little Colorado River gorge, echoed by a small pit in every kiva floor."
+  },
+  "description": {
+    "zh": "霍皮传统讲述，人类曾先后居于三个世界，皆因失序败坏而弃。第三世界沉沦之际，人们听见头顶的天空传来脚步声，便种下一株芦苇（一说云杉），顺着中空的茎秆攀升，穿过天顶的孔洞进入当今的第四世界。这个出口就是西帕普尼。出来的人们与此世的主人玛萨乌（Màasaw）立约，领受各自的迁徙路线，最终定居于三座台地，这段出世与迁徙叙事是霍皮氏族制度与土地主张的根基。\n\n霍皮人所指认的西帕普尼是一处实地：小科罗拉多河峡谷深处、临近其与科罗拉多河汇流处的一座黄褐色钙华泉丘，直径数十米，穹顶中央有孔，矿泉自地底涌出。它与大峡谷一带同为霍皮圣地，传统上是盐朝圣路线的重要一站，霍皮社区不希望游人涉足。\n\n西帕普的意象被内化进普韦布洛建筑：霍皮与其他普韦布洛民族的基瓦（地下礼堂）地面上凿有一个小坑，即象征性的西帕普，标记人与地下世界的通路。考古学家在查科峡谷等地千年前的大基瓦遗址中同样发现了这一构造，出世叙事的深度由此可见。祖尼、阿科马等普韦布洛民族亦各有本族的出世地传统。",
+    "en": "Hopi tradition tells that humanity has lived in a succession of worlds, each abandoned as it fell into corruption. As the Third World failed, the people heard footsteps in the sky above them, planted a reed (in some tellings a spruce), and climbed up through its hollow stem, emerging through an opening in the sky into the present Fourth World. That opening is the Sípàapuni. On emerging, the people made a covenant with Màasaw, the guardian of this world, and received their migration routes, finally settling on the three mesas; this emergence and migration narrative underlies Hopi clan organization and land claims.\n\nThe Sípàapuni the Hopi point to is a real place: a tan travertine spring mound deep in the gorge of the Little Colorado River, near its confluence with the Colorado, tens of meters across, with an opening at the crown of its dome and mineral water welling up from below. Together with the Grand Canyon region it is Hopi sacred ground and a station on the traditional salt pilgrimage route; the Hopi ask that visitors not intrude upon it.\n\nThe sipapu has been built into Pueblo architecture: kivas, the sunken ceremonial chambers of the Hopi and other Pueblo peoples, carry a small pit in the floor as a symbolic sipapu marking the passage to the world below. Archaeologists find the same feature in great kivas a thousand years old at Chaco Canyon, a measure of the emergence narrative's depth. The Zuni, Acoma, and other Pueblo nations each hold their own traditions of an emergence place."
+  },
+  "geo": {
+    "lat": 36.2,
+    "lon": -111.79,
+    "label": {
+      "zh": "小科罗拉多河峡谷（亚利桑那）",
+      "en": "Little Colorado River gorge, Arizona"
+    }
+  },
+  "domains": {
+    "zh": [
+      "出世神话",
+      "圣地",
+      "地下世界",
+      "基瓦"
+    ],
+    "en": [
+      "Emergence myth",
+      "Sacred site",
+      "The world below",
+      "Kiva"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "People"
+      },
+      "value": {
+        "zh": "霍皮（普韦布洛诸族各有类似传统）",
+        "en": "Hopi (other Pueblo peoples hold parallel traditions)"
+      }
+    },
+    {
+      "label": {
+        "zh": "实地形态",
+        "en": "Physical form"
+      },
+      "value": {
+        "zh": "小科罗拉多河峡谷中的钙华泉丘",
+        "en": "A travertine spring mound in the Little Colorado River gorge"
+      }
+    },
+    {
+      "label": {
+        "zh": "建筑回响",
+        "en": "Architectural echo"
+      },
+      "value": {
+        "zh": "基瓦礼堂地面的象征性小坑",
+        "en": "The symbolic pit in the floor of every kiva"
+      }
+    }
+  ],
+  "related": [
+    "kachina",
+    "earth-diver-creation"
+  ],
+  "sources": [
+    {
+      "zh": "哈罗德·库兰德《霍皮人的第四世界》（1971，据霍皮长者口述辑录）",
+      "en": "Harold Courlander, The Fourth World of the Hopis (1971, compiled from Hopi elders' accounts)"
+    },
+    {
+      "zh": "杰西·沃尔特·菲克斯等美国民族学局的霍皮民族志（19世纪末—20世纪初）",
+      "en": "Hopi ethnographies of the Bureau of American Ethnology by Jesse Walter Fewkes and others (late 19th to early 20th century)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/sipapu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sipapu_(small_round_hole)_in_floor_of_ruined_kiva_in_Mesa_Verde_National_Park.jpg",
+    "sourceTitle": "Sipapu (small round hole) in floor of ruined kiva in Mesa Verde National Park",
+    "artist": "wvbailey",
+    "license": "CC BY-SA 3.0",
+    "width": 1000,
+    "height": 750
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "bell-witch",
+  "tradition": "american-folklore",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "贝尔女巫",
+    "en": "Bell Witch"
+  },
+  "title": {
+    "zh": "纠缠田纳西贝尔家的开口恶灵",
+    "en": "The Talking Spirit That Tormented the Bell Family"
+  },
+  "summary": {
+    "zh": "1817至1821年间据称纠缠田纳西州亚当斯镇贝尔家的隐形恶灵「凯特」：敲击、掀被、掌掴少女贝琪，还能开口说话唱诗；传说称它毒死了家主约翰·贝尔。",
+    "en": "\"Kate,\" an invisible entity said to torment the Bell family of Adams, Tennessee from 1817 to 1821 — knocking, slapping young Betsy, speaking and singing aloud; legend holds it poisoned patriarch John Bell."
+  },
+  "description": {
+    "zh": "贝尔女巫是美国最著名的闹鬼传说，主角是一个看不见却听得见的存在。据传1817年起，田纳西州罗伯逊县亚当斯镇的农场主约翰·贝尔一家开始受到侵扰：先是墙壁与床架上的敲击声、被单被掀开、如老鼠啃咬床柱的声响，继而升级为拉扯头发和响亮的耳光——首当其冲的是小女儿贝琪，她脸上常留着掌印。那东西逐渐「学会」说话，自称种种来历（最常被记住的名字是「凯特」，因它一度自称是邻居凯特·巴茨的巫灵），嗓音清晰，能整段复述两场同时进行的布道，会唱赞美诗，也会用下流话咒骂。它宣布的目标有两个：杀死约翰·贝尔，阻止贝琪与心上人乔舒亚·加德纳的婚约。1820年12月，约翰·贝尔死去，传说称人们在橱柜里发现一小瓶怪异的液体，恶灵得意宣称是它下的毒；1821年贝琪解除婚约后，侵扰渐息。\n\n这一传说最主要的文献是M·V·英格拉姆1894年出版的《贝尔女巫正史》，书中收录了据称由贝尔家幼子理查德·威廉姆斯·贝尔撰写的回忆手稿《Our Family Trouble》。由于该书出版时距事件已逾七十年，手稿原件从未面世，学者普遍视其为传说的定型文本而非可靠史料；书中「安德鲁·杰克逊来访、马车被无形之力钉在路上」的著名桥段，同样查无同时代记录。\n\n如今亚当斯镇的贝尔女巫洞与贝尔农场故地是田纳西州的招牌怪谈景点，每年秋天有主题戏剧上演。恐怖片《美国闹鬼实录》（2005）等多部电影取材于此，「不要在镜子前念她的名字」的地方禁忌也与血腥玛丽仪式合流。",
+    "en": "The Bell Witch is America's most famous haunting legend, starring an entity heard but never seen. From 1817, the story goes, the family of farmer John Bell of Adams in Robertson County, Tennessee suffered escalating disturbances: raps on walls and bedframes, blankets pulled away, gnawing sounds at the bedposts, then hair-pulling and loud slaps — with the youngest daughter Betsy bearing the brunt, her cheeks often marked by handprints. The thing gradually found its voice, offering contradictory identities (the name that stuck was \"Kate,\" after it claimed to be the witch-spirit of neighbor Kate Batts). It spoke distinctly, could repeat verbatim two sermons preached simultaneously miles apart, sang hymns, and swore obscenely. It announced two goals: to kill John Bell and to break Betsy's engagement to Joshua Gardner. In December 1820 John Bell died; a vial of strange liquid was reportedly found in the cupboard, and the spirit exulted that it had poisoned him. After Betsy ended her engagement in 1821, the torment faded.\n\nThe legend's principal text is M. V. Ingram's An Authenticated History of the Famous Bell Witch (1894), which prints a memoir, \"Our Family Trouble,\" attributed to the younger son Richard Williams Bell. Published more than seventy years after the events, with the manuscript never produced, the book is treated by scholars as the legend's canonizing document rather than reliable history; its celebrated episode of Andrew Jackson's visit, his wagon frozen on the road by an unseen force, likewise has no contemporary record.\n\nToday the Bell Witch Cave and the old Bell farm site make Adams a flagship haunted destination, with an outdoor play staged each fall. Films including An American Haunting (2005) draw on the story, and the local taboo against saying her name into a mirror has merged with the Bloody Mary ritual."
+  },
+  "domains": {
+    "zh": [
+      "闹鬼传说",
+      "开口恶灵",
+      "南方怪谈",
+      "家族诅咒"
+    ],
+    "en": [
+      "Haunting legend",
+      "Speaking spirit",
+      "Southern folklore",
+      "Family curse"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "活跃年代",
+        "en": "Active years"
+      },
+      "value": {
+        "zh": "1817-1821年，田纳西州亚当斯镇",
+        "en": "1817-1821, Adams, Tennessee"
+      }
+    },
+    {
+      "label": {
+        "zh": "定型文献",
+        "en": "Canonical text"
+      },
+      "value": {
+        "zh": "M·V·英格拉姆《贝尔女巫正史》（1894）",
+        "en": "M. V. Ingram, An Authenticated History of the Famous Bell Witch (1894)"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗迹",
+        "en": "Site"
+      },
+      "value": {
+        "zh": "贝尔女巫洞（亚当斯镇）",
+        "en": "The Bell Witch Cave, Adams"
+      }
+    }
+  ],
+  "related": [
+    "bloody-mary",
+    "headless-horseman"
+  ],
+  "sources": [
+    {
+      "zh": "M·V·英格拉姆《贝尔女巫正史》（1894）",
+      "en": "M. V. Ingram, An Authenticated History of the Famous Bell Witch (1894)"
+    }
+  ],
+  "geo": {
+    "lat": 36.58,
+    "lon": -87.07,
+    "label": {
+      "zh": "田纳西州亚当斯镇",
+      "en": "Adams, Tennessee"
+    }
+  },
+  "image": {
+    "file": "/images/entries/bell-witch.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:WmPorterBurnWitch.jpg",
+    "sourceTitle": "WmPorterBurnWitch",
+    "artist": "M. V. Ingram",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 679
+  }
+}

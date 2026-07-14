@@ -1,0 +1,106 @@
+{
+  "id": "noahs-ark",
+  "tradition": "abrahamic",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "诺亚方舟与大洪水",
+    "en": "Noah's Ark and the Great Flood",
+    "original": "תֵּבַת נֹחַ",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "灭世洪水中的一舟遗民",
+    "en": "One Vessel Through the World-Drowning Flood"
+  },
+  "summary": {
+    "zh": "神见世界满了强暴，命义人诺亚造方舟，长三百肘，载家人与各类活物躲过四十昼夜大雨。水退后方舟停于亚拉腊山，虹为立约记号。",
+    "en": "Seeing the earth filled with violence, God commands the righteous Noah to build an ark, 300 cubits long, for his family and every kind of creature. After the flood it rests on Ararat; the rainbow seals the covenant."
+  },
+  "description": {
+    "zh": "《创世记》第六至九章记载：耶和华见人在地上罪恶很大，地上满了强暴，就后悔造人，唯有诺亚在神眼前蒙恩。神吩咐他用歌斐木造一只方舟，里外抹上松香，长三百肘、宽五十肘、高三十肘，分上中下三层，旁边留门，顶上留透光处一肘。诺亚带着妻子、三个儿子闪、含、雅弗和儿媳进入方舟，各类洁净的畜类七公七母、不洁净的一公一母，飞鸟昆虫也各按其类，七天后大渊的泉源裂开，天上的窗户敞开，大雨降了四十昼夜。水势浩大，天下的高山都被淹没，凡在旱地上、鼻孔有气息的生灵都死了。\n\n水势渐退，七月十七日方舟停在亚拉腊山上。诺亚先放出乌鸦，飞来飞去不归；又放鸽子，第一次无处落脚而返，七天后再放，傍晚鸽子回来，嘴里叼着一片新拧下的橄榄叶；再等七天放出，鸽子不再回来。诺亚出方舟后筑坛献祭，神应许不再按人的作为咒诅大地，把虹放在云彩中，作他与地上一切有血肉之物立约的记号。\n\n洪水叙事在美索不达米亚有更古老的平行文本：《吉尔伽美什史诗》第十一块泥板中，乌特纳皮什提受神谕造船、放出鸽子燕子与乌鸦探水；更早的《阿特拉哈西斯史诗》讲述了几乎同构的灭世与幸存。一八七二年乔治·史密斯在大英博物馆释读出泥板上的洪水故事，震动欧洲学界。在伊斯兰传统中努哈（Nuh）位列大先知，《古兰经》第七十一章以他为名。历代寻访\"方舟遗骸\"的传闻集中于土耳其东端的亚拉腊山，均无实证。",
+    "en": "Genesis 6-9 tells the story. The Lord sees that human wickedness is great and the earth filled with violence, and regrets having made humankind; only Noah finds favor. God commands him to build an ark of gopher wood, coated inside and out with pitch: 300 cubits long, 50 wide, 30 high, with three decks, a door in its side, and an opening of one cubit at the top. Noah enters with his wife, his sons Shem, Ham, and Japheth, and their wives, taking seven pairs of every clean animal and one pair of the unclean, with birds and creeping things after their kinds. Then the fountains of the great deep burst open, the windows of heaven are opened, and rain falls forty days and forty nights, until the high mountains are covered and every breathing thing on dry land dies.\n\nAs the waters recede, the ark comes to rest on the mountains of Ararat on the seventeenth day of the seventh month. Noah sends out a raven, which goes to and fro; then a dove, which finds no rest and returns; seven days later the dove comes back at evening with a freshly plucked olive leaf in its beak; after seven days more it does not return. Leaving the ark, Noah builds an altar, and God promises never again to curse the ground for humankind's sake, setting the rainbow in the clouds as the sign of a covenant with all flesh.\n\nMesopotamia preserves older parallels. On the eleventh tablet of the Epic of Gilgamesh, Utnapishtim builds a boat at divine warning and releases a dove, a swallow, and a raven to test the waters; the earlier Atrahasis epic tells an almost identical tale of destruction and survival. George Smith's decipherment of the flood tablet at the British Museum in 1872 electrified European scholarship. In Islam, Nuh ranks among the great prophets, and sura 71 of the Quran bears his name. Claims of ark remains on Mount Ararat in eastern Turkey have recurred for centuries; none has withstood scrutiny."
+  },
+  "domains": {
+    "zh": [
+      "大洪水",
+      "方舟",
+      "立约",
+      "劫后重生"
+    ],
+    "en": [
+      "The Deluge",
+      "The Ark",
+      "Covenant",
+      "Survival"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "方舟尺寸",
+        "en": "Dimensions"
+      },
+      "value": {
+        "zh": "长300肘、宽50肘、高30肘，三层",
+        "en": "300 by 50 by 30 cubits, three decks"
+      }
+    },
+    {
+      "label": {
+        "zh": "降雨时长",
+        "en": "The rain"
+      },
+      "value": {
+        "zh": "大雨四十昼夜",
+        "en": "Forty days and forty nights"
+      }
+    },
+    {
+      "label": {
+        "zh": "平行文本",
+        "en": "Parallels"
+      },
+      "value": {
+        "zh": "《吉尔伽美什史诗》第十一块泥板、《阿特拉哈西斯史诗》",
+        "en": "Gilgamesh, Tablet XI; the Atrahasis epic"
+      }
+    }
+  ],
+  "related": [
+    "nephilim",
+    "tower-of-babel",
+    "leviathan"
+  ],
+  "sources": [
+    {
+      "zh": "《创世记》6-9章",
+      "en": "Genesis 6-9"
+    },
+    {
+      "zh": "《吉尔伽美什史诗》第十一块泥板（平行文本）",
+      "en": "Epic of Gilgamesh, Tablet XI (parallel text)"
+    },
+    {
+      "zh": "《古兰经》71章（努哈章）",
+      "en": "Quran, sura 71 (Nuh)"
+    }
+  ],
+  "geo": {
+    "lat": 39.702,
+    "lon": 44.2988,
+    "label": {
+      "zh": "亚拉腊山（土耳其东端）",
+      "en": "Mount Ararat, eastern Turkey"
+    }
+  },
+  "image": {
+    "file": "/images/entries/noahs-ark.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Hicks,_American_-_Noah%27s_Ark_-_Google_Art_Project.jpg",
+    "sourceTitle": "Noah's Arktitle QS:P1476,en:\"Noah's Ark\"label QS:Len,\"Noah's Ark\"",
+    "artist": "Edward Hicks, American, 1780 - 1849 (1780 - 1849) – Artist/Maker (American) Born in Langhorne, Pennsylvania, United States. Died in Newtown, Pennsylvania, United States. Details on Google Art Project",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 873
+  }
+}

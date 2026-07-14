@@ -1,0 +1,115 @@
+{
+  "id": "ishtar",
+  "tradition": "mesopotamian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊什塔尔",
+    "en": "Ishtar",
+    "original": "Ištar",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "爱欲与战争女神",
+    "en": "Goddess of Love and War"
+  },
+  "summary": {
+    "zh": "爱欲与战争女神，苏美尔名伊南娜，化身金星。她盛装下冥界闯七重门，被剥尽衣饰处死，又靠恩基之计复活；巴比伦伊什塔尔门以她命名。",
+    "en": "Goddess of love and war, Sumerian Inanna, embodied in the planet Venus. She stormed the seven gates of the underworld, was killed and hung on a hook, and returned; Babylon's Ishtar Gate bears her name."
+  },
+  "description": {
+    "zh": "伊什塔尔是爱欲与战争女神，苏美尔语名伊南娜，即行星金星——黎明与黄昏两见的那颗亮星。她的符号是八角星，坐骑是狮子，圣城乌鲁克的埃安纳神庙（“天之屋”）是两河最古老的圣所之一。床笫与战场在古人眼中同属她一人司掌，楔文文献径称战斗为“伊什塔尔之舞”。\n\n她最著名的神话是下冥界。苏美尔语《伊南娜下冥界》写她盛装叩响冥界七重门，看门人依冥界古规每过一门剥去她一件冠冕佩饰，到姐姐埃列什基伽勒座前时已一无所有，被判死罪，尸身挂上木钩。三天之后，恩基用指甲缝里的泥捏出两个不男不女的小东西潜入冥界，附和埃列什基伽勒的呻吟博得欢心，讨回尸体，以生命之水与生命之草将她救活。冥界要人抵命，她返回地上，见丈夫杜木兹端坐华服、毫无戚容，便令恶鬼把他拖下去顶替——后来改为杜木兹与其姐各居冥界半年。《吉尔伽美什史诗》第六块泥板里，她向吉尔伽美什求婚，被逐一历数旧情人的下场而拒，恼怒之下向天神安努讨来天牛毁城。\n\n她的崇拜随巴比伦与亚述的势力播散，西传后与腓尼基的阿斯塔特合流。尼布甲尼撒二世约公元前575年以蓝釉砖建成巴比伦伊什塔尔门，1930年复原于柏林佩加蒙博物馆。",
+    "en": "Ishtar, Sumerian Inanna, is the goddess of sexual love and of war, embodied in the planet Venus as both morning and evening star. Her emblem is the eight-pointed star, her beast the lion, and her holy city Uruk, where the Eanna, 'House of Heaven,' ranks among Mesopotamia's oldest sanctuaries. Bed and battlefield counted as a single domain: cuneiform texts call combat 'the dance of Ishtar.'\n\nHer most famous myth is the Descent. In the Sumerian poem she knocks at the seven gates of the netherworld in full regalia, and at each gate the doorkeeper strips away one crown, jewel, or garment by the ancient rule of the land below, until she stands naked before her sister Ereshkigal, is sentenced, killed, and hung on a hook. After three days Enki fashions two sexless creatures from the dirt under his fingernails; they slip below, win Ereshkigal's favor by echoing her groans, claim the corpse, and revive it with the water and plant of life. The netherworld demands a substitute, and finding her husband Dumuzi enthroned and unmourning, Ishtar hands him over — a sentence later commuted to half of each year. In Tablet VI of Gilgamesh she proposes to the hero, hears the fates of her former lovers recited back at her, and in fury borrows the Bull of Heaven from Anu to ravage Uruk.\n\nHer cult spread with Babylon and Assyria and merged westward with Astarte. The Ishtar Gate of Babylon, finished under Nebuchadnezzar II around 575 BCE in blue glazed brick, was reassembled in Berlin's Pergamon Museum in 1930."
+  },
+  "domains": {
+    "zh": [
+      "爱欲",
+      "战争",
+      "金星",
+      "丰饶"
+    ],
+    "en": [
+      "Love",
+      "War",
+      "Venus",
+      "Fertility"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "符号",
+        "en": "Emblem"
+      },
+      "value": {
+        "zh": "八角星",
+        "en": "Eight-pointed star"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣兽",
+        "en": "Sacred beast"
+      },
+      "value": {
+        "zh": "狮子",
+        "en": "Lion"
+      }
+    },
+    {
+      "label": {
+        "zh": "苏美尔名",
+        "en": "Sumerian name"
+      },
+      "value": {
+        "zh": "伊南娜",
+        "en": "Inanna"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣城",
+        "en": "Holy city"
+      },
+      "value": {
+        "zh": "乌鲁克埃安纳神庙",
+        "en": "The Eanna at Uruk"
+      }
+    }
+  ],
+  "related": [
+    "gilgamesh",
+    "enki",
+    "ereshkigal"
+  ],
+  "sources": [
+    {
+      "zh": "苏美尔诗《伊南娜下冥界》",
+      "en": "Inanna's Descent to the Netherworld (Sumerian)"
+    },
+    {
+      "zh": "阿卡德语《伊什塔尔下冥界》",
+      "en": "The Descent of Ishtar (Akkadian)"
+    },
+    {
+      "zh": "《吉尔伽美什史诗》第六块泥板",
+      "en": "Epic of Gilgamesh, Tablet VI"
+    }
+  ],
+  "geo": {
+    "lat": 31.32,
+    "lon": 45.64,
+    "label": {
+      "zh": "乌鲁克埃安纳神庙",
+      "en": "The Eanna, Uruk"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ishtar.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Queen_of_the_Night.jpg",
+    "sourceTitle": "British Museum Queen of the Night",
+    "license": "CC0",
+    "width": 751,
+    "height": 1000
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "rostam-and-sohrab",
+  "tradition": "persian",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "鲁斯塔姆与苏赫拉布",
+    "en": "Rostam and Sohrab",
+    "original": "رستم و سهراب",
+    "originalLang": "波斯语"
+  },
+  "title": {
+    "zh": "父子相残的悲剧",
+    "en": "The Tragedy of Father and Son"
+  },
+  "summary": {
+    "zh": "《列王纪》最著名的悲剧：鲁斯塔姆阵前刺倒年轻的图兰主将，才从对方臂上的玉石认出那是自己从未谋面的儿子苏赫拉布。",
+    "en": "The most famous tragedy of the Shahnameh: Rostam strikes down Turan's young champion in single combat, then sees his own token on the dying man's arm — his unmet son Sohrab."
+  },
+  "description": {
+    "zh": "这是《列王纪》中最负盛名的悲剧插曲。鲁斯塔姆行猎途中夜宿萨曼甘，与当地公主塔赫米娜成婚一夜，临别留下一枚缚臂的玉石信物：生女系于发辫，生男缚于臂上。塔赫米娜生下的男孩苏赫拉布长在图兰境内，力气与早熟都酷似其父，少年时便立下宏愿：找到从未谋面的父亲鲁斯塔姆，助他推翻两国昏君，父子共掌天下。图兰王阿夫拉西亚卜看穿了这个计划的危险，暗中设局：他派苏赫拉布领军攻打伊朗，又严令部下隐瞒鲁斯塔姆的身份，盼着父子在不相识中自相残杀。\n\n阴谋一步步收拢。两军阵前，苏赫拉布逢人便打听鲁斯塔姆，得到的全是搪塞；鲁斯塔姆则刻意隐去名号出战。父子连日单挑：角力中少年占了上风，将老英雄摔倒在地举刀欲杀，鲁斯塔姆诡称\"依规矩须两次摔倒方可取命\"逃过一死；再战时，鲁斯塔姆拼尽全力将苏赫拉布掼倒，不容喘息一刀刺入其肋。少年临死说出此行是为寻父鲁斯塔姆，并露出臂上玉石。鲁斯塔姆肝胆俱裂，遣人飞马向国王凯·卡乌斯讨取宫中灵药\"努什达鲁\"，多疑的国王迟迟不允——药未到，苏赫拉布已经断气。菲尔多西在篇首叹道：这场杀戮如狂风折断未熟的橙。马修·阿诺德1853年据此写成长诗《苏赫拉布与鲁斯图姆》，将结尾的奥克苏斯河写成了英语诗中著名的挽歌段落。",
+    "en": "This is the most celebrated tragic episode of the Shahnameh. Hunting near the border, Rostam spent a night in Samangan and married the princess Tahmina; at parting he left a jewel token — bind it in a daughter's hair, or on a son's arm. The boy Sohrab grew up in Turan with his father's strength and precocity, and formed a grand design while still a youth: to find the father he had never seen, overthrow the unworthy kings of both lands, and rule the world beside him. Afrasiyab, king of Turan, saw the danger and set his trap: he sent Sohrab to invade Iran at the head of an army, and ordered his men to keep Rostam's identity hidden, hoping father and son would destroy each other unknowing.\n\nThe snare closed step by step. Before the armies, Sohrab asked every prisoner for Rostam and was put off with lies, while Rostam entered the field with his name concealed. They met in single combat day after day: in the wrestling, the youth threw the old champion and raised his blade, but Rostam talked his way free with an invented rule that a champion's life could be taken only at the second fall; at the next encounter Rostam hurled Sohrab down with his last strength and drove a dagger between his ribs without pause. Dying, the young man said he had come only to find his father Rostam, and bared the jewel bound on his arm. The broken hero sent riders to King Kay Kavus begging the royal elixir nushdaru; the suspicious king delayed, and Sohrab was dead before it could come. Ferdowsi opens the tale with a sigh: the killing was a sudden storm snapping an unripe orange from the bough. Matthew Arnold retold it in his 1853 poem Sohrab and Rustum, whose closing lines on the river Oxus became a famous elegiac passage of English verse."
+  },
+  "domains": {
+    "zh": [
+      "悲剧",
+      "父子",
+      "单挑决斗",
+      "命运"
+    ],
+    "en": [
+      "Tragedy",
+      "Father and son",
+      "Single combat",
+      "Fate"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "信物",
+        "en": "Token"
+      },
+      "value": {
+        "zh": "缚于臂上的玉石",
+        "en": "A jewel bound on the arm"
+      }
+    },
+    {
+      "label": {
+        "zh": "未及的救药",
+        "en": "The elixir withheld"
+      },
+      "value": {
+        "zh": "凯·卡乌斯的努什达鲁",
+        "en": "Kay Kavus's nushdaru"
+      }
+    },
+    {
+      "label": {
+        "zh": "幕后推手",
+        "en": "Hidden hand"
+      },
+      "value": {
+        "zh": "图兰王阿夫拉西亚卜",
+        "en": "Afrasiyab, king of Turan"
+      }
+    }
+  ],
+  "related": [
+    "rostam",
+    "simurgh"
+  ],
+  "sources": [
+    {
+      "zh": "菲尔多西《列王纪》（约1010年）",
+      "en": "Ferdowsi, Shahnameh (c. 1010)"
+    },
+    {
+      "zh": "马修·阿诺德《苏赫拉布与鲁斯图姆》（1853年）",
+      "en": "Matthew Arnold, Sohrab and Rustum (1853)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/rostam-and-sohrab.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firdawsi_-_Rustam_Mortally_Wounds_Suhrab_-_Walters_W600115A_-_Full_Page.jpg",
+    "sourceTitle": "Rustam Mortally Wounds Suhrab",
+    "artist": "Ferdowsi",
+    "license": "Public domain",
+    "width": 581,
+    "height": 1000
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "yandi",
+  "tradition": "chinese",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "炎帝",
+    "en": "Yandi, the Flame Emperor"
+  },
+  "title": {
+    "zh": "尝百草的农耕之祖",
+    "en": "The Divine Farmer Who Tasted a Hundred Herbs"
+  },
+  "summary": {
+    "zh": "号神农氏。斫木为耜教民耕种，尝百草辨药性，一日而遇七十毒；阪泉败于黄帝后两部相合，炎黄并称至今。",
+    "en": "The Flame Emperor Shennong, who fashioned the plow, taught agriculture, and tasted a hundred herbs, meeting seventy poisons in a single day. After Banquan his people merged with Huangdi's."
+  },
+  "description": {
+    "zh": "炎帝号神农氏，姜姓部落的首领，《国语·晋语》说他与黄帝同出少典氏，一个成于姜水、一个成于姬水。后世传说他牛首人身，生而知稼穑。《周易·系辞下》记载神农氏\"斫木为耜，揉木为耒\"，教民耕种，又\"日中为市\"，让天下之民聚货交易而退，开创集市。\n\n《淮南子·修务训》记下他最悲壮的事迹：上古之民食草饮水、采食果蚌，时常中毒受害，神农于是亲口尝百草之滋味、水泉之甘苦，让民知所避就，\"一日而遇七十毒\"。后世医家尊他为药祖，中国最早的药物学著作即托名《神农本草经》。传说他还削桐为琴、练丝为弦，作五弦之琴。\n\n阪泉之战炎帝败于黄帝，两大部落联盟就此融合，华夏族群由此凝聚，\"炎黄子孙\"并称至今。湖南炎陵县的炎帝陵相传为其安葬之地，宋代已有奉祀记录；陕西宝鸡姜水之滨也建有炎帝祠庙，两地均延续着公祭。",
+    "en": "Yandi, the Flame Emperor, bears the title Shennong, the Divine Farmer. The Guoyu makes him and Huangdi both sons of the Shaodian lineage, one raised by the Jiang River and one by the Ji. Later tradition gives him an ox's head on a man's body, born with an instinct for husbandry. The 'Great Commentary' to the Book of Changes credits him with carving wood into plowshares and bending wood into handles, teaching the people to till, and instituting the midday market where goods were exchanged.\n\nThe Huainanzi preserves his most heroic labor: in remote antiquity people ate wild plants, drank untested water, and were constantly poisoned, so Shennong tasted the hundred herbs himself and sampled the springs, sweet and bitter, so that the people would know what to avoid, encountering seventy poisons in a single day. Physicians honored him as the founder of pharmacology, and China's earliest materia medica circulates under his name as the Shennong Bencao Jing. He is also said to have made the first five-stringed zither of tong wood and silk.\n\nDefeated by Huangdi at Banquan, his confederation merged with the victor's, and the Chinese have called themselves descendants of Yan and Huang ever since. His reputed tomb at Yanling in Hunan has received sacrifices since at least the Song dynasty, and Baoji in Shaanxi, by his native Jiang River, maintains a rival temple."
+  },
+  "domains": {
+    "zh": [
+      "农耕",
+      "医药",
+      "集市",
+      "火"
+    ],
+    "en": [
+      "Agriculture",
+      "Medicine",
+      "Markets",
+      "Fire"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "号",
+        "en": "Title"
+      },
+      "value": {
+        "zh": "神农氏",
+        "en": "Shennong, the Divine Farmer"
+      }
+    },
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "传说牛首人身",
+        "en": "Ox-headed with a human body, in later legend"
+      }
+    },
+    {
+      "label": {
+        "zh": "托名著作",
+        "en": "Attributed text"
+      },
+      "value": {
+        "zh": "《神农本草经》",
+        "en": "Shennong Bencao Jing"
+      }
+    }
+  ],
+  "related": [
+    "huangdi",
+    "chiyou",
+    "zhurong"
+  ],
+  "sources": [
+    {
+      "zh": "《周易·系辞下》",
+      "en": "Book of Changes, 'Xici II'"
+    },
+    {
+      "zh": "《淮南子·修务训》",
+      "en": "Huainanzi, 'Xiuwu' chapter"
+    },
+    {
+      "zh": "《国语·晋语》",
+      "en": "Guoyu, 'Discourses of Jin'"
+    }
+  ],
+  "geo": {
+    "lat": 26.48,
+    "lon": 113.77,
+    "label": {
+      "zh": "炎帝陵（湖南炎陵）",
+      "en": "Mausoleum of Yandi, Yanling"
+    }
+  },
+  "image": {
+    "file": "/images/entries/yandi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Shen_Nong_Wellcome_L0039313.jpg",
+    "sourceTitle": "Chinese woodcut, Famous medical figures: Shen Nong",
+    "artist": "Gan Bozong (Tang period, 618-907)",
+    "license": "CC BY 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

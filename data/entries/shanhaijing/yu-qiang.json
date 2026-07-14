@@ -1,0 +1,100 @@
+{
+  "id": "yu-qiang",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "禺强",
+    "en": "Yuqiang"
+  },
+  "title": {
+    "zh": "人面鸟身、珥蛇践蛇的北海之神",
+    "en": "God of the North Sea"
+  },
+  "summary": {
+    "zh": "北海之渚中的海神：人面鸟身，耳上挂两条青蛇，脚下踩两条赤蛇。黄帝之孙，与父禺猇分掌北海东海；又名禺京，字玄冥。",
+    "en": "The sea god on the islets of the North Sea: human face, bird body, two green snakes at his ears, two red snakes under his feet. Grandson of the Yellow Emperor, also called Yujing, styled Xuanming."
+  },
+  "description": {
+    "zh": "大荒北经记：北海的水中小洲上有一位神，人的面孔，鸟的身体，耳朵上穿挂着两条青蛇，脚下踩踏着两条赤蛇，名叫禺彊（禺强）。海外北经也记北方禺彊「人面鸟身，珥两青蛇，践两青蛇」。珥蛇践蛇是《山海经》里大神的标准仪仗，蛇是驱使的灵物，也是神格的凭证。\n\n他的家世见于大荒东经：黄帝生禺猇，禺猇生禺京；禺猇住东海，禺京住北海，父子都是海神。郭璞注明「禺京即禺彊」，又记他字玄冥——玄冥正是后世五行系统里北方之神的名号。有意思的是，海内经却说禺号（禺猇）是帝俊之子，同一部书里两套谱系并存，正见出文本层累拼合的痕迹。\n\n禺强在道家书里另有一番气象。《庄子·大宗师》历数得道者，说「禺强得之，立乎北极」；《列子·汤问》讲渤海之东的岱舆、员峤等五座仙山漂流无根，天帝担心它们流散，「命禺彊使巨鳌十五举首而戴之」，十五只巨龟轮班顶着仙山——安放蓬莱仙境的差事，落在这位北海之神肩上。因居北极、人面鸟身，旧注又有以他兼为北方风神的说法。",
+    "en": "On the islets of the North Sea, says the Great Wilderness: North, there is a god with a human face and a bird's body, two green snakes hung at his ears and two red snakes under his feet: Yuqiang. The Beyond the Seas: North chapter repeats the portrait. Wearing and treading snakes is the full regalia of a great god in this book — serpents are both servants and insignia.\n\nHis lineage appears in the Great Wilderness: East. The Yellow Emperor begat Yuxiao, and Yuxiao begat Yujing; the father rules the Eastern Sea, the son the Northern, both gods of the sea. Guo Pu's commentary identifies Yujing with Yuqiang and records his courtesy name Xuanming — the very title later given to the god of the north in five-phases cosmology. The final chapter, however, makes Yuxiao a son of Di Jun instead: two genealogies coexisting in one book, a seam left by its layered compilation.\n\nDaoist texts give him grander employment. The Zhuangzi counts him among those who attained the Way, 'standing at the northern pole'. In the Liezi, the five immortal mountains of the eastern sea, Penglai among them, drifted rootless on the waves; fearing they would wash away, the god on high 'ordered Yuqiang to have fifteen giant sea-turtles raise their heads and bear them' in relays. The keeping of paradise rests on the North Sea god's shoulders. Because he stands at the pole with a bird's body, older commentators sometimes made him double as the north wind's god."
+  },
+  "domains": {
+    "zh": [
+      "北海",
+      "海神",
+      "操蛇",
+      "北极"
+    ],
+    "en": [
+      "North Sea",
+      "Sea God",
+      "Snake Regalia",
+      "Northern Pole"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人面鸟身，珥两青蛇，践两赤蛇",
+        "en": "Human face, bird body, green snakes at the ears, red snakes underfoot"
+      }
+    },
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Other names"
+      },
+      "value": {
+        "zh": "禺京，字玄冥",
+        "en": "Yujing, styled Xuanming"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名差事",
+        "en": "Famous charge"
+      },
+      "value": {
+        "zh": "命十五巨鳌轮班背负五座仙山",
+        "en": "Set fifteen giant turtles to carry the five immortal mountains"
+      }
+    }
+  ],
+  "related": [
+    "zhu-long",
+    "huangdi",
+    "di-jun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒北经》《大荒东经》《海外北经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: North', 'East', and 'Beyond the Seas: North'"
+    },
+    {
+      "zh": "《庄子·大宗师》",
+      "en": "Zhuangzi, 'The Great Ancestral Teacher'"
+    },
+    {
+      "zh": "《列子·汤问》",
+      "en": "Liezi, 'Questions of Tang'"
+    }
+  ],
+  "volume": {
+    "zh": "大荒北经",
+    "en": "Classic of the Great Wilderness: North"
+  },
+  "image": {
+    "file": "/images/entries/yu-qiang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic05_-_%E7%A6%BA%E5%BD%8A%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic05 - 禺彊神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 688,
+    "height": 1000
+  }
+}

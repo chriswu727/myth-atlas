@@ -1,0 +1,103 @@
+{
+  "id": "mama-killa",
+  "tradition": "inca",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "妈妈基利亚",
+    "en": "Mama Killa",
+    "original": "Mama Killa",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "月神，太阳之妻",
+    "en": "Moon Goddess, Wife of the Sun"
+  },
+  "summary": {
+    "zh": "印加月神，因蒂的姐妹与妻子，妇女与婚姻的守护者，历法依她的圆缺推算。月食被解作巨蛇或美洲狮吞月，人们敲响器物、令犬吠叫为她解围。",
+    "en": "The Inca moon goddess, sister and wife of Inti, patroness of women and marriage; the ritual calendar followed her phases. An eclipse meant a serpent or puma devouring her, driven off with noise and howling dogs."
+  },
+  "description": {
+    "zh": "妈妈基利亚意为“月亮母亲”，是太阳神因蒂的姐妹与妻子。在王室的世系传说里，王朝始祖曼科·卡帕克与妈妈奥克略正是日月的儿女。白银是属于她的金属：科里坎查神庙中专辟月亮之室，墙面包覆银板，供一面绘着女子面容的月像，历代王后的遗体分列左右侍奉。人间与她对应的是印加王后“科娅”，王后主持月神祭仪，正如印加王侍奉太阳。\n\n她守护妇女的一生——婚嫁、纺织、生养都在她的照拂之下。帝国的祭祀历随月亮圆缺推算，每月节令依新月起算；九月的“科娅·拉伊米”是献给她与王后的节庆，其间举行洁净全城的西图阿仪式。\n\n印加人对月食另有一套解释：有巨蛇或美洲狮扑上天空撕咬月亮，若任它得手，月亮陨落人间，世界将归于黑暗。因此月食之夜全城鼎沸，人们敲击锅釜、吹响号角、鞭打犬只令其长嗥，直到阴影退去。科博在《新世界史》里记下了这套仪式的细节。的的喀喀湖中的月亮岛是她在库斯科之外最重要的圣地，岛上“伊尼亚克·乌尤”选女院的石墙至今残存。",
+    "en": "Mama Killa, Mother Moon, was sister and wife to the sun god Inti; in the royal genealogy the dynasty's founders Manco Cápac and Mama Ocllo were reckoned children of the sun and moon. Silver was her metal. Within the Coricancha a chamber was set aside for her, its walls sheathed in silver plate around an image of the moon with a woman's face, and the preserved bodies of dead queens kept watch on either side. Her earthly counterpart was the Coya, the Inca queen, who led the moon's rites as the king led the sun's.\n\nShe watched over the lives of women — marriage, weaving and childbirth all fell under her care — and the ritual calendar ran by her phases, each month reckoned from the new moon. Coya Raymi in September was her festival and the queen's, the month of the Situa rites that purified Cusco.\n\nAn eclipse had its own reading: a great serpent or a puma had sprung upon the moon to devour her, and if it succeeded she would fall to earth and the world go dark. So on eclipse nights the city erupted — pots beaten, trumpets blown, dogs whipped into howling — until the shadow withdrew. Cobo sets down the details in his Historia del Nuevo Mundo. Beyond Cusco her greatest sanctuary was the Island of the Moon in Lake Titicaca, where the stone walls of the Iñak Uyu house of chosen women still stand."
+  },
+  "domains": {
+    "zh": [
+      "月亮",
+      "婚姻",
+      "历法",
+      "妇女"
+    ],
+    "en": [
+      "Moon",
+      "Marriage",
+      "Calendar",
+      "Women"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "金属",
+        "en": "Metal"
+      },
+      "value": {
+        "zh": "白银",
+        "en": "Silver"
+      }
+    },
+    {
+      "label": {
+        "zh": "人间代表",
+        "en": "Earthly counterpart"
+      },
+      "value": {
+        "zh": "印加王后“科娅”",
+        "en": "The Coya, the Inca queen"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sanctuaries"
+      },
+      "value": {
+        "zh": "科里坎查月亮之室、的的喀喀湖月亮岛",
+        "en": "Moon chamber of Coricancha; Island of the Moon, Lake Titicaca"
+      }
+    }
+  ],
+  "related": [
+    "inti",
+    "coricancha",
+    "titicaca-creation",
+    "manco-capac"
+  ],
+  "sources": [
+    {
+      "zh": "印卡·加西拉索·德拉维加《印卡王室述评》（1609）",
+      "en": "Inca Garcilaso de la Vega, Royal Commentaries of the Incas (1609)"
+    },
+    {
+      "zh": "贝尔纳贝·科博《新世界史》（1653）",
+      "en": "Bernabé Cobo, Historia del Nuevo Mundo (1653)"
+    }
+  ],
+  "geo": {
+    "lat": -16.028,
+    "lon": -69.068,
+    "label": {
+      "zh": "的的喀喀湖月亮岛",
+      "en": "Island of the Moon, Lake Titicaca"
+    }
+  },
+  "image": {
+    "file": "/images/entries/mama-killa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Month_of_September_Situa_Festival_POMA_0254.jpg",
+    "sourceTitle": "Month of September Situa Festival POMA 0254",
+    "artist": "Aga Khan (IT)",
+    "license": "CC BY-SA 4.0",
+    "width": 707,
+    "height": 1000
+  }
+}

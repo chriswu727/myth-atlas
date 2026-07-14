@@ -1,0 +1,117 @@
+{
+  "id": "gilgamesh",
+  "tradition": "mesopotamian",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "吉尔伽美什",
+    "en": "Gilgamesh",
+    "original": "Gilgameš",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "乌鲁克之王",
+    "en": "King of Uruk"
+  },
+  "summary": {
+    "zh": "乌鲁克之王，三分之二为神。与挚友恩启都同杀胡姆巴巴与天牛；挚友死后远行寻求永生而不得。其史诗是现存最早的长篇文学之一。",
+    "en": "King of Uruk, two-thirds divine. With his friend Enkidu he slew Humbaba and the Bull of Heaven; after Enkidu's death he sought immortality in vain. His epic is among the oldest surviving works of literature."
+  },
+  "description": {
+    "zh": "吉尔伽美什是苏美尔城邦乌鲁克的王。苏美尔王表把他列为乌鲁克第一王朝第五位君主，称其在位一百二十六年；学者一般认为其原型是约公元前2700年前后的真实统治者，死后不久便被神化，名列神谱。史诗开篇说他“三分之二是神，三分之一是人”，母亲是野牛女神宁孙，父亲是先王卢加尔班达，身量与勇力皆非常人；乌鲁克那圈周长近十公里的窑烧砖城墙，传说就出自他的手笔。\n\n标准版史诗的情节：年轻的王恃力暴虐，众神捏出野人恩启都与之抗衡，两人在城门口摔跤之后结为挚友。他们远征雪松林，斩杀守林巨怪胡姆巴巴；女神伊什塔尔向凯旋的王求婚遭拒，放出天牛蹂躏乌鲁克，二人又宰了天牛。众神议决恩启都必须偿命，挚友病亡令吉尔伽美什第一次直视死亡。他披发远行，穿过蝎人把守的马什山隧道，渡过死亡之水，寻访大洪水的幸存者乌特纳皮什提姆求问永生。考验失败后，他得到一株“老者返少”的水底仙草，归途中在泉边沐浴时被蛇叼走。他两手空空回到乌鲁克，向船夫乌尔沙纳比指点那圈城墙——旅程到此为止。\n\n标准巴比伦语版共十一块泥板，另附译自苏美尔语诗篇的第十二块，古代书目题作《见过深渊之人》，传统上归于书吏辛-莱克-乌尼尼编定。主要抄本出自尼尼微的亚述巴尼拔王家藏书，19世纪50年代出土；1872年乔治·史密斯在其中释读出与《创世记》相似的洪水故事，举世震动。",
+    "en": "Gilgamesh was king of the Sumerian city of Uruk. The Sumerian King List places him fifth in the First Dynasty of Uruk with a reign of 126 years, and most scholars take him for a historical ruler of about 2700 BCE, deified soon after his death. The epic calls him two-thirds god and one-third man, son of the wild-cow goddess Ninsun and the former king Lugalbanda, and credits him with Uruk's baked-brick city wall, whose circuit ran nearly ten kilometers.\n\nIn the standard version of the epic the young king is a tyrant, so the gods fashion the wild man Enkidu as his match; the two wrestle at the city gate and become inseparable. Together they journey to the Cedar Forest and kill its guardian Humbaba, then slaughter the Bull of Heaven that Ishtar unleashes after Gilgamesh spurns her proposal. The gods decree Enkidu's death, and grief sends Gilgamesh wandering: through the scorpion-men's tunnel under Mount Mashu, across the Waters of Death, to Utnapishtim, survivor of the Flood, in search of immortality. He fails the test set for him, wins a plant that restores youth, and loses it to a snake while bathing in a pool. He returns empty-handed and shows the boatman Urshanabi the wall of Uruk, where the poem ends.\n\nThe Standard Babylonian version fills eleven tablets, with a twelfth appended from a Sumerian poem; ancient catalogues title it 'He who saw the Deep' and credit its redaction to the scribe Sin-leqi-unninni. The chief manuscripts came from Ashurbanipal's library at Nineveh, excavated in the 1850s; in 1872 George Smith's reading of its flood story caused a sensation across Europe."
+  },
+  "domains": {
+    "zh": [
+      "王权",
+      "友谊",
+      "死亡",
+      "求生之旅"
+    ],
+    "en": [
+      "Kingship",
+      "Friendship",
+      "Mortality",
+      "The Quest"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "血统",
+        "en": "Parentage"
+      },
+      "value": {
+        "zh": "女神宁孙之子，三分之二为神",
+        "en": "Son of the goddess Ninsun, two-thirds divine"
+      }
+    },
+    {
+      "label": {
+        "zh": "挚友",
+        "en": "Companion"
+      },
+      "value": {
+        "zh": "野人恩启都",
+        "en": "The wild man Enkidu"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要文本",
+        "en": "Chief text"
+      },
+      "value": {
+        "zh": "标准巴比伦语版史诗，十一块泥板",
+        "en": "Standard Babylonian epic, eleven tablets"
+      }
+    },
+    {
+      "label": {
+        "zh": "王表记载",
+        "en": "King List"
+      },
+      "value": {
+        "zh": "乌鲁克第一王朝第五王，在位126年",
+        "en": "Fifth king of Uruk I, reigned 126 years"
+      }
+    }
+  ],
+  "related": [
+    "humbaba",
+    "ishtar",
+    "mesopotamian-flood",
+    "enki"
+  ],
+  "sources": [
+    {
+      "zh": "《吉尔伽美什史诗》标准巴比伦语版",
+      "en": "Epic of Gilgamesh, Standard Babylonian version"
+    },
+    {
+      "zh": "苏美尔语吉尔伽美什诗篇",
+      "en": "The Sumerian Gilgamesh poems"
+    },
+    {
+      "zh": "苏美尔王表",
+      "en": "Sumerian King List"
+    }
+  ],
+  "geo": {
+    "lat": 31.32,
+    "lon": 45.64,
+    "label": {
+      "zh": "乌鲁克（今瓦尔卡遗址）",
+      "en": "Uruk (Warka)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/gilgamesh.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg",
+    "sourceTitle": "Hero lion Dur-Sharrukin Louvre AO19862",
+    "artist": "Unknown artistUnknown artist",
+    "license": "Public domain",
+    "width": 428,
+    "height": 1000
+  }
+}

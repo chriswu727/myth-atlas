@@ -1,0 +1,48 @@
+{
+  "id": "goatman",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "山羊人",
+    "en": "Goatman"
+  },
+  "title": { "zh": "持斧出没于马里兰乡道的半人半羊", "en": "The Axe-Wielding Half-Goat of Maryland's Back Roads" },
+  "summary": {
+    "zh": "马里兰州乔治王子县的都市传说：半人半羊的持斧怪物袭击情侣车辆与宠物。1971年一只狗被斩首的报道令传说登上《华盛顿邮报》。",
+    "en": "An urban legend of Prince George's County, Maryland: a half-man, half-goat armed with an axe stalks lovers' lanes and pets. A 1971 report of a beheaded dog put the Goatman in the Washington Post."
+  },
+  "description": {
+    "zh": "马里兰版的山羊人是一个上半身长满毛发、头生羊角、腿部如山羊后弯的人形怪物，身高近两米，手里拎着一把斧头。它的地盘是华盛顿特区东侧乔治王子县的博伊镇（Bowie）一带，尤其是弗莱彻敦路（Fletchertown Road）沿线的树林：传说它袭击停在「情侣巷」的汽车，砍击车顶车门，猎杀走失的宠物狗。最流行的起源故事说，它原是贝尔茨维尔农业研究中心的科学家，一场山羊实验事故使他变成半兽，持斧游荡乡间——这一情节把冷战时代对政府实验室的想象缝进了乡野怪谈。\n\n传说在1971年11月达到顶点：博伊镇爱德华兹家的小狗「姜姜」失踪后被发现斩首，当地少女声称当夜听到怪声、看到巨大身影，《乔治王子县新闻》与《华盛顿邮报》相继报道，「山羊人杀死了狗」成为传说定型的锚点事件。此后弗莱彻敦路成为青少年夜访试胆的「传说地点」，涂鸦、篝火与假目击层出不穷。马里兰大学民俗学者巴里·皮尔森收集了数十个版本的山羊人故事，把它作为「本地传说如何自我繁殖」的教学案例。\n\n美国各地另有多个不相干的「山羊人」：得克萨斯州沃思湖的「湖畔山羊人」在1969年7月引发数十人围观报道，肯塔基州路易斯维尔附近则有「教皇利克山羊人」把传说钉在一座铁路栈桥上。半人半羊的形象在各地反复独立出现，民俗学者常将其与古典牧神潘的图像记忆相联系。",
+    "en": "Maryland's Goatman is a humanoid nearly two meters tall, shaggy above the waist, horned, with the back-bent legs of a goat, and carrying an axe. Its territory is the woods around Bowie in Prince George's County east of Washington, D.C., above all along Fletchertown Road: it is said to attack cars parked on lovers' lanes, hacking at roofs and doors, and to kill wandering dogs. The favorite origin story makes him a scientist at the Beltsville Agricultural Research Center, transformed by a goat experiment gone wrong — Cold War anxiety about government laboratories stitched into a backwoods legend.\n\nThe legend peaked in November 1971, when a Bowie family's puppy, Ginger, disappeared and was found decapitated; local teenagers reported strange noises and a huge figure that night, and coverage in the Prince George's County News and then the Washington Post anchored the story permanently. Fletchertown Road became a legend-tripping destination for carloads of teenagers, generating graffiti, bonfires, and fresh \"sightings\" for decades. University of Maryland folklorist Barry Pearson collected dozens of Goatman variants, using the figure as a textbook case of how local legends propagate.\n\nAmerica keeps several unrelated Goatmen: the Lake Worth Monster drew crowds outside Fort Worth, Texas in July 1969, and the Pope Lick Monster of Louisville, Kentucky fixes the figure to a railroad trestle. The half-goat shape keeps reappearing independently, and folklorists often hear in it an echo of the classical god Pan."
+  },
+  "domains": {
+    "zh": ["都市传说", "情侣巷怪谈", "实验事故起源", "传说地点"],
+    "en": ["Urban legend", "Lovers' lane horror", "Lab-accident origin", "Legend tripping"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "核心地盘", "en": "Territory" },
+      "value": { "zh": "马里兰州博伊镇弗莱彻敦路", "en": "Fletchertown Road, Bowie, Maryland" }
+    },
+    {
+      "label": { "zh": "锚点事件", "en": "Anchor event" },
+      "value": { "zh": "1971年11月小狗「姜姜」被斩首案", "en": "The beheading of the dog Ginger, November 1971" }
+    },
+    {
+      "label": { "zh": "近亲传说", "en": "Cousins" },
+      "value": { "zh": "沃思湖山羊人（1969）、教皇利克山羊人", "en": "The Lake Worth Monster (1969); the Pope Lick Monster" }
+    }
+  ],
+  "related": ["bunny-man", "jersey-devil", "michigan-dogman"],
+  "sources": [
+    { "zh": "《华盛顿邮报》1971年11月报道", "en": "Washington Post coverage, November 1971" },
+    { "zh": "马里兰大学巴里·皮尔森的民俗采录", "en": "Folklore collections of Barry Pearson, University of Maryland" }
+  ],
+  "geo": {
+    "lat": 38.96,
+    "lon": -76.75,
+    "label": { "zh": "马里兰州博伊镇弗莱彻敦路一带", "en": "Fletchertown Road area, Bowie, Maryland" }
+  },
+  "image": null
+}

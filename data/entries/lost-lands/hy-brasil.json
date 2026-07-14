@@ -1,0 +1,102 @@
+{
+  "id": "hy-brasil",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "海布拉西尔",
+    "en": "Hy-Brasil",
+    "original": "Uí Breasail",
+    "originalLang": "爱尔兰语"
+  },
+  "title": {
+    "zh": "七年现身一次的爱尔兰幻岛",
+    "en": "The Irish phantom isle seen once in seven years"
+  },
+  "summary": {
+    "zh": "爱尔兰以西海上的幻岛，常年裹于浓雾，传说每七年显形一日。1325年前后登上波特兰海图，此后在地图上盘桓五百余年，1870年代才被除名。",
+    "en": "A phantom island west of Ireland, wrapped in mist and said to show itself one day in seven years; charted from about 1325, it haunted maps for over five centuries until the 1870s."
+  },
+  "description": {
+    "zh": "海布拉西尔是地图史上寿命最长的幻岛。约1325年，热那亚制图师安杰利诺·杜尔切特的波特兰海图在爱尔兰以西标出一座名为\"Bracile\"的圆形岛屿，此后五百多年间，它以Brasil、Hy-Brasil等拼法辗转于欧洲海图，形状常被画成一个被水道剖开的正圆。名称大约出自爱尔兰语Uí Breasail（布雷萨尔家族之地），与后来命名巴西的红木无关。在爱尔兰民间传说里，它是常年被浓雾封锁的福地，每七年雾开一日，岛影浮现海面，但驶近即退，无法登临。\n\n人们真的一次次去找它。1480与1481年，布里斯托尔商人两度专程遣船出海寻岛；1497年西班牙驻伦敦使节写信提及，约翰·卡博特发现的\"新发现之地\"被认为就是布里斯托尔人从前所寻的布拉西尔。1674年一份伦敦小册子绘声绘色地记述爱尔兰船长约翰·尼斯比特登岛遇魔法师与巨兔——学界一般认为出自作家理查德·黑德的虚构。随着测量精确化，这座岛在海图上步步退缩成\"布拉西尔礁\"，最终于1870年代从英国海军部海图上销声匿迹。\n\n它的原型可能是低云、海雾与蜃景在西爱尔兰海平线上的合谋，候选的\"真身\"包括位置与历代海图标绘大致吻合的水下豪猪浅滩（Porcupine Bank）。在爱尔兰文学与新纪元写作里，海布拉西尔至今仍是\"雾中乐土\"的代名词。",
+    "en": "Hy-Brasil is the longest-lived phantom island in the history of cartography. Around 1325 the Genoese chartmaker Angelino Dulcert marked a round island labelled \"Bracile\" west of Ireland on his portolan chart, and for more than five centuries it migrated across European maps under spellings like Brasil and Hy-Brasil, usually drawn as a neat circle split by a channel. The name likely derives from the Irish Uí Breasail, the clan-land of Breasal, and has nothing to do with the brazilwood that later named Brazil. In Irish folklore it is a blessed country sealed in fog that lifts for a single day every seven years, when the island stands on the horizon yet recedes from every ship that steers for it.\n\nPeople genuinely went looking. Bristol merchants sent ships out in 1480 and again in 1481 expressly to find the isle of Brasil; in 1497 a Spanish envoy in London reported that the \"new found land\" of John Cabot was taken to be the very Brasil the Bristol men had long sought. A London pamphlet of 1674 recounted how the Irish captain John Nisbet landed on the island and met a magician and monstrous rabbits, a tale scholars generally credit to the satirist Richard Head. As surveys sharpened, the island shrank on the charts to a mere \"Brasil Rock\" and was finally struck from British Admiralty charts in the 1870s.\n\nIts substance was probably a conspiracy of low cloud, sea fog, and mirage on the west Irish horizon; the submerged Porcupine Bank, lying roughly where the charts drew the island, is a favoured candidate for its \"real\" body. In Irish letters and New Age writing, Hy-Brasil remains the byword for a paradise glimpsed through fog."
+  },
+  "domains": {
+    "zh": [
+      "幻岛",
+      "波特兰海图",
+      "爱尔兰传说",
+      "地图幽灵"
+    ],
+    "en": [
+      "Phantom island",
+      "Portolan charts",
+      "Irish folklore",
+      "Cartographic ghost"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "首次上图",
+        "en": "First charted"
+      },
+      "value": {
+        "zh": "杜尔切特波特兰海图，约1325年",
+        "en": "Angelino Dulcert's portolan chart, c. 1325"
+      }
+    },
+    {
+      "label": {
+        "zh": "显形规律",
+        "en": "The apparition"
+      },
+      "value": {
+        "zh": "浓雾每七年散开一日",
+        "en": "The fog lifts one day in every seven years"
+      }
+    },
+    {
+      "label": {
+        "zh": "除名时间",
+        "en": "Struck from charts"
+      },
+      "value": {
+        "zh": "1870年代自英国海军部海图除名",
+        "en": "Removed from Admiralty charts in the 1870s"
+      }
+    }
+  ],
+  "related": [
+    "avalon",
+    "thule",
+    "ys"
+  ],
+  "sources": [
+    {
+      "zh": "安杰利诺·杜尔切特波特兰海图（约1325年）",
+      "en": "Angelino Dulcert's portolan chart (c. 1325)"
+    },
+    {
+      "zh": "《关于爱尔兰外海奥布拉西尔岛的记述》（伦敦小册子，1674）",
+      "en": "O'Brazile, or the Inchanted Island (London pamphlet, 1674)"
+    }
+  ],
+  "geo": {
+    "lat": 51.2,
+    "lon": -15.5,
+    "label": {
+      "zh": "爱尔兰西南外海（历代海图标绘海域）",
+      "en": "Southwest of Ireland, where the charts placed it"
+    }
+  },
+  "image": {
+    "file": "/images/entries/hy-brasil.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ortelius_1572_Ireland_Map_2.jpg",
+    "sourceTitle": "Ortelius 1572 Ireland Map 2",
+    "artist": "Abraham Ortelius",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 857
+  }
+}

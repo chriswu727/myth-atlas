@@ -1,0 +1,83 @@
+{
+  "id": "pangu",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "盘古",
+    "en": "Pangu"
+  },
+  "title": {
+    "zh": "开天辟地的创世巨人",
+    "en": "The Giant Who Separated Heaven and Earth"
+  },
+  "summary": {
+    "zh": "中国创世神话的主角。生于混沌鸡子之中，撑开天地一万八千年，死后身体化为日月、山川与草木。",
+    "en": "The primordial giant of Chinese creation myth, born inside a cosmic egg. He held sky and earth apart for eighteen thousand years, and his dying body became the sun, moon, mountains, and rivers."
+  },
+  "description": {
+    "zh": "盘古是华夏神话中的创世巨人。据三国时期吴人徐整《三五历纪》记载，天地未分之时混沌如鸡子，盘古生于其中。一万八千岁后天地开辟，阳清者上升为天，阴浊者下沉为地；盘古在天地之间每日长高一丈，天随之日高一丈，地随之日厚一丈。又过一万八千岁，天极高、地极深，盘古也成了顶天立地的巨人。\n\n《五运历年记》补足了他的结局：盘古垂死化身，呼出的气成为风云，声音化为雷霆，左眼变作太阳，右眼变作月亮，四肢五体化为四极五岳，血液为江河，筋脉为地理，肌肉为田土，须发为星辰，皮毛为草木，齿骨为金石，汗水化作雨泽。整个世界由他的身体铺展而成。\n\n盘古见于文字的时间相当晚，先秦典籍从未提及，学界一般认为这则神话在汉末三国之际才进入文人记录，可能吸收了南方民族的传说。南朝任昉《述异记》称南海有盘古氏墓、桂林有盘古祠，可见当时南方已有祭祀。后世\"盘古开天辟地\"成为中国创世叙事的标准开篇。",
+    "en": "Pangu is the primordial giant of the Chinese creation story. According to the Sanwu Liji by Xu Zheng, a scholar of the third-century state of Wu, the cosmos began as a chaos shaped like a hen's egg, with Pangu gestating inside it. After eighteen thousand years the egg split: the light, clear part rose to become heaven, and the heavy, murky part sank to become earth. Pangu then grew ten feet taller each day, and heaven rose ten feet with him, until after another eighteen thousand years sky and ground stood immensely far apart.\n\nThe Wuyun Linian Ji records his death. His breath became wind and cloud, his voice thunder; his left eye turned into the sun and his right eye into the moon. His limbs and trunk became the four quarters and the five sacred peaks, his blood the rivers, his flesh the fields, his hair the stars, his skin and body hair the plants and trees, his teeth and bones metals and stones, his sweat the falling rain.\n\nNo pre-Qin text mentions Pangu, and scholars generally date the myth's entry into written literature to the late Han or Three Kingdoms period, possibly drawing on traditions of southern peoples. The sixth-century Shuyiji already notes a tomb of Pangu by the southern sea and a shrine to him near Guilin, and his world-opening act became the standard opening of Chinese cosmogony."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "开天辟地",
+      "化生万物"
+    ],
+    "en": [
+      "Creation",
+      "Separation of Sky and Earth",
+      "World-Body"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次记载",
+        "en": "First recorded"
+      },
+      "value": {
+        "zh": "三国徐整《三五历纪》，佚文存于类书",
+        "en": "Xu Zheng's Sanwu Liji, 3rd century CE, surviving in fragments"
+      }
+    },
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "顶天立地的巨人，日长一丈",
+        "en": "A giant growing ten feet a day, propping up the sky"
+      }
+    }
+  ],
+  "related": [
+    "nuwa",
+    "fuxi"
+  ],
+  "sources": [
+    {
+      "zh": "徐整《三五历纪》（佚文见《艺文类聚》）",
+      "en": "Xu Zheng, Sanwu Liji (fragments in the Yiwen Leiju)"
+    },
+    {
+      "zh": "《五运历年记》（佚文）",
+      "en": "Wuyun Linian Ji (fragments)"
+    },
+    {
+      "zh": "任昉《述异记》",
+      "en": "Ren Fang, Shuyiji"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/pangu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pangu.jpg",
+    "sourceTitle": "Pangu",
+    "artist": "Wang Qi",
+    "license": "Public domain",
+    "width": 655,
+    "height": 1000
+  }
+}

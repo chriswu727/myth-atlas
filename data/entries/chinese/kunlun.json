@@ -1,0 +1,98 @@
+{
+  "id": "kunlun",
+  "tradition": "chinese",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "昆仑山",
+    "en": "Mount Kunlun"
+  },
+  "title": {
+    "zh": "众神所居的西方神山",
+    "en": "Mythic Mountain of the Gods in the Far West"
+  },
+  "summary": {
+    "zh": "传说中极西的神山，天帝设在下界的都城，西王母居于其间；层层登临可至不死、通神，黄河相传由此发源。",
+    "en": "The great mythic mountain of the far west, the High God's capital on earth and home of the Queen Mother of the West; to climb its successive terraces was to gain deathlessness and reach heaven."
+  },
+  "description": {
+    "zh": "昆仑（昆仑之丘、昆仑之虚）是中国神话中的第一神山，耸立于极西之地。《山海经·海内西经》说它方八百里、高万仞，是\"帝之下都\"，百神之所在；山上生着高四丈、粗五围的木禾，四面有九井九门。西王母的瑶池、周穆王的西游都以此山为舞台。\n\n《淮南子·墬形训》把昆仑写成一架通天的阶梯：登上昆仑之丘再上一倍，是凉风之山，登之而不死；再上一倍，是悬圃，登之乃灵，能使风雨；再上一倍便到上天，\"登之乃神，是谓太帝之居\"。凡人由此拾级而上，可以逐层换取不死、通灵与成神。传说黄河亦发源于昆仑。《史记·大宛列传》记张骞通西域后，汉使穷河源、探得河源出于于阗，汉武帝\"案古图书，名河所出山曰昆仑\"——神话地名从此被钉在现实山脉上，司马迁对此颇有保留。\n\n道教兴起后，昆仑被奉为万山之祖、西王母统领群仙的洞府，游仙诗文一再重访瑶池。今日横亘新疆、西藏之间绵延两千余公里的昆仑山脉，名字正来自这座想象中的神山。",
+    "en": "Kunlun — the Mound of Kunlun, the Ruins of Kunlun — is the paramount sacred mountain of Chinese myth, rising in the remotest west. The Shanhaijing measures it at eight hundred li on each side and ten thousand ren in height, 'the lower capital of the High God' where the hundred spirits dwell, planted with a tree-grain forty feet tall and ringed by nine wells and nine gates. The Turquoise Pond of the Queen Mother of the West lies here, and King Mu of Zhou drove his eight steeds to its slopes.\n\nThe Huainanzi turns the mountain into a ladder to heaven: climb to twice the height of Kunlun and you reach the Mountain of Cool Wind, where one no longer dies; double the height again to the Hanging Garden, where one gains power over wind and rain; double it once more and you stand in heaven itself, the residence of the Grand God, where the climber becomes a spirit. The Yellow River was believed to spring from the mountain, and when, after Zhang Qian opened the road west, Han envoys traced the river's source to Khotan, Emperor Wu consulted the old charts and formally bestowed the name Kunlun on those ranges — a decision the historian Sima Qian records with palpable skepticism.\n\nDaoism enthroned Kunlun as ancestor of all mountains and the paradise where the Queen Mother marshals her immortals, endlessly revisited in poetry of spirit-journeys. The real Kunlun range, stretching over two thousand kilometers between Xinjiang and Tibet, carries the mythic name to this day."
+  },
+  "domains": {
+    "zh": [
+      "神山",
+      "不死",
+      "通天",
+      "河源"
+    ],
+    "en": [
+      "Sacred Mountain",
+      "Immortality",
+      "Ladder to Heaven",
+      "River Source"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "地位",
+        "en": "Status"
+      },
+      "value": {
+        "zh": "帝之下都，万山之祖",
+        "en": "The High God's earthly capital, ancestor of all mountains"
+      }
+    },
+    {
+      "label": {
+        "zh": "居民",
+        "en": "Residents"
+      },
+      "value": {
+        "zh": "西王母与百神",
+        "en": "The Queen Mother of the West and the hundred spirits"
+      }
+    }
+  ],
+  "related": [
+    "xiwangmu",
+    "huangdi",
+    "chang-e"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内西经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: West'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Dixing' chapter"
+    },
+    {
+      "zh": "《穆天子传》",
+      "en": "Mu Tianzi Zhuan (Travels of King Mu)"
+    },
+    {
+      "zh": "《史记·大宛列传》",
+      "en": "Shiji, 'Account of Dayuan'"
+    }
+  ],
+  "geo": {
+    "lat": 36,
+    "lon": 84,
+    "label": {
+      "zh": "昆仑山脉",
+      "en": "Kunlun Mountains"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kunlun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cranes_and_Pines_in_the_Kunlun_Mountains_by_Lu_Qian.JPG",
+    "sourceTitle": "Cranes and Pines in the Kunlun Mountains by Lu Qian",
+    "artist": "Lu Qian",
+    "license": "Public domain",
+    "width": 488,
+    "height": 1000
+  }
+}

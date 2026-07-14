@@ -1,0 +1,42 @@
+{
+  "id": "aka-manto",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "红斗篷",
+    "en": "Aka Manto",
+    "original": "赤マント",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "在厕所里问「要红纸还是蓝纸」的怪人", "en": "The presence that asks 'Red paper or blue paper?'" },
+  "summary": {
+    "zh": "厕所隔间里响起声音：「要红斗篷还是蓝斗篷？」答红，浑身是血而死；答蓝，被吸干血而死。1939年2月东京小学生间的「赤マント」恐慌是最早可考的爆发。",
+    "en": "A voice in the toilet stall asks, 'Red cloak or blue cloak?' Red brings death drenched in blood, blue death drained of it. The earliest documented outbreak was the Aka Manto panic among Tokyo schoolchildren in February 1939."
+  },
+  "description": {
+    "zh": "红斗篷是学校厕所里的两难题。蹲在隔间里，会听见不知来处的声音问：「要红斗篷还是蓝斗篷？」（或「红纸还是蓝纸」）。答「红」，会被利刃放血或剥皮，死状浑身赤红；答「蓝」，会被勒住或吸干血，死状一身青紫；机灵的孩子答「黄色」，据说会被按进便池——任何颜色都通向某种死法，唯一的生路是回答「都不要」然后逃走。\n\n这个形象最早可考的爆发在战前：1939年（昭和14年）2月，「披红斗篷的怪人在傍晚掳走小孩」的流言在东京的小学生之间疯传，孩子们结伴回家不敢走夜路，学校与警察出面辟谣，当时报纸留下了记录。更早的1930年代，大阪等地已有类似的「红斗篷」绑架流言。民俗研究者松谷美代子在《现代民话考》里汇集了战前至战后各地的赤マント口述——它先是街头的掳人怪谈，战后才逐渐搬进学校厕所，与更老的厕所怪谈「给你红纸还是蓝纸的手」合流，固定成今天的问答形态。\n\n作为日本校园怪谈里资格最老的角色之一，红斗篷保存了流言的地层学：外面披着1930年代绑架恐慌的斗篷，里面是厕所这个古老怪谈空间的献祭逻辑。它与厕所里的花子共享同一片瓷砖地，一个负责回答，一个负责提问。",
+    "en": "Aka Manto sets a dilemma in the school toilet. From nowhere a voice asks the occupant of the stall, 'Red cloak or blue cloak?', in other tellings red paper or blue paper. Answer red, and you die slashed or flayed, drenched scarlet; answer blue, and you die strangled or drained, blue-faced. Clever children who try 'yellow' are said to be shoved into the bowl. Every color routes to a death; the one exit is to answer 'neither' and run.\n\nThe earliest documented outbreak is prewar. In February 1939 a rumor tore through Tokyo's elementary schools that a figure in a red cloak was snatching children at dusk; pupils walked home in groups, schools and police issued denials, and the newspapers of the day recorded the panic. Similar red-cloak abduction rumors had circulated in Osaka earlier in the 1930s. The folklorist Matsutani Miyoko gathered oral accounts from the prewar years onward in her Gendai Minwa Ko: first a street-corner kidnapper legend, Aka Manto moved indoors after the war, merging with an older toilet horror, the disembodied hand offering red or blue paper, to settle into today's question-and-answer form.\n\nAmong the school legends of Japan he is the elder statesman, a stratigraphy of rumor: the outer layer a 1930s abduction panic, the core the old sacrificial logic of the toilet as a haunted space. He shares the tiled floor with Hanako-san, one of them asking the questions, the other answering them."
+  },
+  "domains": {
+    "zh": ["学校怪谈", "厕所", "两难问答", "流言恐慌"],
+    "en": ["School ghost lore", "Toilets", "Deadly dilemmas", "Rumor panics"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "最早爆发", "en": "Earliest outbreak" },
+      "value": { "zh": "1939年2月，东京小学生流言恐慌", "en": "February 1939 rumor panic among Tokyo schoolchildren" }
+    },
+    {
+      "label": { "zh": "生路", "en": "The one way out" },
+      "value": { "zh": "回答「都不要」", "en": "Answer 'neither'" }
+    }
+  ],
+  "related": ["hanako-san", "kuchisake-onna", "mary-san"],
+  "sources": [
+    { "zh": "1939年东京「赤マント」流言（当时报纸有报道）", "en": "The 1939 Tokyo Aka Manto rumor, reported in contemporary newspapers" },
+    { "zh": "松谷美代子《现代民话考》", "en": "Matsutani Miyoko, Gendai Minwa Ko" }
+  ],
+  "geo": { "lat": 35.69, "lon": 139.75, "label": { "zh": "东京（1939年恐慌发生地）", "en": "Tokyo (site of the 1939 panic)" } },
+  "image": null
+}

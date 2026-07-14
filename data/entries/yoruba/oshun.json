@@ -1,0 +1,107 @@
+{
+  "id": "oshun",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥孙",
+    "en": "Oshun",
+    "original": "Ọ̀ṣun",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "奥孙河的女神",
+    "en": "Goddess of the Osun River"
+  },
+  "summary": {
+    "zh": "奥孙河的女神，司甘水、爱欲、生育与黄铜饰物。创世的十七位神使中唯一的女性——把她排除在外时万事不成。奥绍博圣林每年八月为她举行大祭。",
+    "en": "Goddess of the Osun River, orisha of fresh water, love, fertility, and brass. The only woman among the seventeen founding orishas: nothing succeeded until she was included. Her sacred grove at Osogbo holds an annual festival."
+  },
+  "description": {
+    "zh": "奥孙是流经约鲁巴腹地的奥孙河的女神，司甘水、爱欲、生育与财富的奥里沙。她的圣物是黄铜手镯、蜂蜜与团扇，圣色金黄；求子的妇女到她的河边取水祝祷，奥孙河水至今被信徒当作药水汲取。\n\n伊法经文《奥塞图拉》一篇讲述：奥罗杜马雷派十七位奥里沙下界经营大地，奥孙是其中唯一的女性。十六位男神事事把她撇在一边，结果雨不落、五谷不生、诸事皆败；他们回天庭问询，奥罗杜马雷答：不把那位女子请回议席，一切都不会成功。众神向她赔罪之后，世界才运转起来。巴巴拉沃在仪式上至今常诵这一篇。\n\n奥绍博城奉她为保护神：传说建城首领与女神立约，城市不侵占河畔圣林，女神则保城中人丁兴旺。城边的奥孙-奥绍博圣林保存至今，20世纪50年代起，奥地利艺术家苏珊娜·温格与当地祭司合力重修林中神龛，2005年圣林列入联合国教科文组织世界遗产。每年八月的奥孙大祭上，头顶圣葫芦的少女\"阿鲁格巴\"率全城人走向河边献祭。在古巴她称奥琼（Ochún），与科夫雷慈善圣母合一，被奉为全岛的主保。",
+    "en": "Oshun is the goddess of the river that bears her name, orisha of fresh water, love, fertility, and wealth. Brass bangles, honey, and fans are hers, and her color is gold; women hoping for children pray at her banks, and her river water is drawn as medicine to this day.\n\nA verse of the Ifa corpus, in the odu Osetura, tells how Olodumare sent seventeen orishas to set the world in order, Oshun the only woman among them. The sixteen men left her out of their councils, and nothing worked: rain failed, crops died, plans collapsed. Sent back to Olodumare, they were told that nothing would succeed until the woman was restored to her seat. They begged her pardon, and the world began to run. Babalawo priests still recite the verse in ritual.\n\nOsogbo keeps her as its patron: by covenant, the town spared her riverside grove, and the goddess prospers its people. The Osun-Osogbo Sacred Grove, its shrines rebuilt from the 1950s by the Austrian artist Susanne Wenger working with local priests, was inscribed as a UNESCO World Heritage site in 2005. At the annual August festival a votary girl, the Arugba, carries the sacred calabash at the head of the whole town down to the river. In Cuba she became Ochun, one with Our Lady of Charity of El Cobre, patroness of the island."
+  },
+  "domains": {
+    "zh": [
+      "河流",
+      "爱欲",
+      "生育",
+      "财富"
+    ],
+    "en": [
+      "Rivers",
+      "Love",
+      "Fertility",
+      "Wealth"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Sacred objects"
+      },
+      "value": {
+        "zh": "黄铜手镯、蜂蜜、团扇",
+        "en": "Brass bangles, honey, fans"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣色",
+        "en": "Color"
+      },
+      "value": {
+        "zh": "金黄",
+        "en": "Gold"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief sanctuary"
+      },
+      "value": {
+        "zh": "奥孙-奥绍博圣林（世界遗产，2005）",
+        "en": "Osun-Osogbo Sacred Grove (World Heritage, 2005)"
+      }
+    }
+  ],
+  "related": [
+    "shango",
+    "yemoja",
+    "oya",
+    "ifa-divination"
+  ],
+  "sources": [
+    {
+      "zh": "伊法口传经文《奥塞图拉》篇",
+      "en": "Ifa corpus, the odu Osetura"
+    },
+    {
+      "zh": "威廉·巴斯科姆《十六贝壳占卜》（1980）",
+      "en": "William Bascom, Sixteen Cowries: Yoruba Divination from Africa to the New World (1980)"
+    },
+    {
+      "zh": "联合国教科文组织世界遗产名录：奥孙-奥绍博圣林（2005）",
+      "en": "UNESCO World Heritage List: Osun-Osogbo Sacred Grove (2005)"
+    }
+  ],
+  "geo": {
+    "lat": 7.7554,
+    "lon": 4.5524,
+    "label": {
+      "zh": "奥孙-奥绍博圣林",
+      "en": "Osun-Osogbo Sacred Grove"
+    }
+  },
+  "image": {
+    "file": "/images/entries/oshun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_goddess_of_Osun%E2%80%99s_sacred_abode,_Osun_Osogbo,_Nigeria.jpg",
+    "sourceTitle": "The goddess of Osun’s sacred abode, Osun Osogbo, Nigeria",
+    "artist": "Tunde Akangbe",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 666
+  }
+}

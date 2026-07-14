@@ -1,0 +1,102 @@
+{
+  "id": "minotaur",
+  "tradition": "greek",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "弥诺陶洛斯",
+    "en": "Minotaur",
+    "original": "Μινώταυρος",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "迷宫中的牛首怪",
+    "en": "The Bull-headed Monster of the Labyrinth"
+  },
+  "summary": {
+    "zh": "人身牛首的怪物，克里特王后帕西法厄所生，被囚于代达罗斯建造的迷宫，靠雅典进贡的少年少女为食，终为忒修斯所杀。",
+    "en": "A monster with a man's body and a bull's head, confined in Daedalus's Labyrinth on Crete and fed on Athenian tribute-youths, until Theseus killed it."
+  },
+  "description": {
+    "zh": "弥诺陶洛斯意为\"弥诺斯之牛\"，人身牛首的怪物，本名阿斯忒里翁。克里特王弥诺斯扣下波塞冬送来作祭品的白色公牛，海神使王后帕西法厄迷恋此牛，工匠代达罗斯为她造了一头中空的木牛，怪物由此而生。弥诺斯命代达罗斯修建迷宫将其囚禁，迷宫甬道盘曲勾连，入者无法寻路而出。\n\n弥诺斯之子在雅典遇害后，雅典战败求和，被迫每九年进贡七对少年少女喂食怪物。第三次进贡时，雅典王子忒修斯自愿随行；克里特公主阿里阿德涅倾心于他，赠他线团，他把线头系在迷宫入口，在深处杀死弥诺陶洛斯，循线而返，携公主连夜出海。1900年起伊文思在克诺索斯发掘出房间层叠、廊道交错的青铜时代大宫殿，公牛壁画与双斧标记遍布其间，长期被公众与迷宫传说联系在一起。",
+    "en": "The Minotaur, 'bull of Minos,' had a man's body and a bull's head; his given name was Asterion. When King Minos of Crete kept back a white bull that Poseidon had sent for sacrifice, the god made Queen Pasiphae desire the animal; the craftsman Daedalus built her a hollow wooden cow, and the monster was the result. Minos ordered Daedalus to construct the Labyrinth, a maze of winding, interlocking passages, to confine it.\n\nAfter Minos's son was killed at Athens, the defeated city was forced to send seven youths and seven maidens every nine years as food for the beast. With the third tribute sailed the Athenian prince Theseus; the Cretan princess Ariadne, who loved him, gave him a ball of thread, which he tied at the Labyrinth's entrance, killed the Minotaur in its depths, and followed the thread back out, fleeing by night with the princess. From 1900 Arthur Evans excavated at Knossos a sprawling Bronze Age palace of stacked rooms and crossing corridors, its walls bearing bull frescoes and double-axe marks, long linked in the popular imagination with the Labyrinth of the tale."
+  },
+  "domains": {
+    "zh": [
+      "迷宫",
+      "人牛混形",
+      "活人献祭"
+    ],
+    "en": [
+      "The Labyrinth",
+      "Man-bull hybrid",
+      "Human tribute"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出身",
+        "en": "Parentage"
+      },
+      "value": {
+        "zh": "帕西法厄与波塞冬的白色公牛",
+        "en": "Pasiphae and Poseidon's white bull"
+      }
+    },
+    {
+      "label": {
+        "zh": "囚禁地",
+        "en": "Prison"
+      },
+      "value": {
+        "zh": "克诺索斯的迷宫",
+        "en": "The Labyrinth at Knossos"
+      }
+    },
+    {
+      "label": {
+        "zh": "克星",
+        "en": "Slayer"
+      },
+      "value": {
+        "zh": "忒修斯，借阿里阿德涅之线",
+        "en": "Theseus, with Ariadne's thread"
+      }
+    }
+  ],
+  "related": [
+    "poseidon"
+  ],
+  "sources": [
+    {
+      "zh": "阿波罗多洛斯《书藏》",
+      "en": "Apollodorus, Bibliotheca"
+    },
+    {
+      "zh": "普鲁塔克《忒修斯传》",
+      "en": "Plutarch, Life of Theseus"
+    },
+    {
+      "zh": "奥维德《变形记》",
+      "en": "Ovid, Metamorphoses"
+    }
+  ],
+  "geo": {
+    "lat": 35.298,
+    "lon": 25.163,
+    "label": {
+      "zh": "克诺索斯",
+      "en": "Knossos"
+    }
+  },
+  "image": {
+    "file": "/images/entries/minotaur.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Theseus_Minotaur_Ramey_Tuileries.jpg",
+    "sourceTitle": "Theseus Minotaur Ramey Tuileries",
+    "artist": "Jastrow",
+    "license": "Public domain",
+    "width": 903,
+    "height": 1000
+  }
+}

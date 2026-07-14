@@ -1,0 +1,96 @@
+{
+  "id": "gabriel",
+  "tradition": "abrahamic",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "加百列",
+    "en": "Gabriel",
+    "original": "גַּבְרִיאֵל",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "传信天使",
+    "en": "The Angel of Annunciation"
+  },
+  "summary": {
+    "zh": "名意\"神是我的力量\"。在《但以理书》中解释异象，在《路加福音》中向马利亚预告耶稣降生；伊斯兰传统中名为吉卜利勒，向穆罕默德传递《古兰经》。",
+    "en": "His name means 'God is my strength.' He interprets visions in Daniel and announces the birth of Jesus to Mary in Luke; in Islam, as Jibril, he delivers the Quran to Muhammad."
+  },
+  "description": {
+    "zh": "加百列是圣经传统中的传信天使，名字意为\"神是我的力量\"。他在《但以理书》中首次露面：第八章奉命向但以理讲解公绵羊与公山羊的异象，但以理见他站在面前便惊惶俯伏；第九章他\"迅速飞来\"，在晚祭时分向但以理解说七十个七的预言。与统兵作战的米迦勒不同，加百列的职分始终是解释与传达。\n\n《路加福音》第一章记载他最著名的两次显现。他先在圣殿香坛右边向祭司撒迦利亚预告施洗约翰的出生，并自报名号：\"我是站在神面前的加百列\"；六个月后他奉差遣往加利利的拿撒勒城，向童女马利亚说\"蒙大恩的女子，我问你安\"，预告她将怀孕生子并起名耶稣。这一\"天使报喜\"（Annunciation）场景成为基督教艺术最常描绘的主题之一，加百列常执白百合，象征马利亚的纯洁。\n\n在伊斯兰传统中，加百列即吉卜利勒（Jibril），地位更为崇高：穆斯林相信正是他在希拉山洞向穆罕默德传达了《古兰经》的最初启示，此后二十余年间陆续传递全部经文。《古兰经》第二章明言\"谁与吉卜利勒为敌\"便是与真主为敌。至于\"加百列吹响末日号角\"的形象，圣经并无明文，属后世基督教民间传统，在黑人灵歌与英语俗语中流传甚广。",
+    "en": "Gabriel is the messenger among the named angels of the biblical tradition; his name means 'God is my strength.' He first appears in the Book of Daniel: in chapter 8 he is sent to explain the vision of the ram and the goat, and Daniel falls prostrate in terror at his approach; in chapter 9 he comes 'in swift flight' at the hour of the evening sacrifice to expound the prophecy of the seventy weeks. Where Michael commands armies, Gabriel's office is always interpretation and announcement.\n\nLuke 1 records his two most famous appearances. Standing at the right side of the altar of incense, he foretells the birth of John the Baptist to the priest Zechariah, announcing himself: 'I am Gabriel, who stands in the presence of God.' Six months later he is sent to Nazareth in Galilee, greets the virgin Mary — 'Greetings, favored one' — and announces that she will bear a son and name him Jesus. This Annunciation became one of the most frequently painted scenes in Christian art, Gabriel often holding a white lily for Mary's purity.\n\nIn Islam he is Jibril, and his standing is higher still: Muslims hold that it was he who brought the first revelation of the Quran to Muhammad in the cave of Hira, and who continued to deliver the scripture over the following two decades. The image of Gabriel blowing the trumpet of doom has no biblical text behind it; it is a later Christian folk tradition, widespread in spirituals and English idiom."
+  },
+  "domains": {
+    "zh": [
+      "传信",
+      "启示",
+      "解梦释兆"
+    ],
+    "en": [
+      "Divine messages",
+      "Revelation",
+      "Interpretation of visions"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Meaning of name"
+      },
+      "value": {
+        "zh": "\"神是我的力量\"",
+        "en": "'God is my strength'"
+      }
+    },
+    {
+      "label": {
+        "zh": "图像标志",
+        "en": "Iconography"
+      },
+      "value": {
+        "zh": "报喜场景中手执白百合",
+        "en": "A white lily in Annunciation scenes"
+      }
+    },
+    {
+      "label": {
+        "zh": "伊斯兰传统",
+        "en": "In Islam"
+      },
+      "value": {
+        "zh": "吉卜利勒，向穆罕默德传《古兰经》",
+        "en": "Jibril, bearer of the Quran to Muhammad"
+      }
+    }
+  ],
+  "related": [
+    "michael",
+    "seraphim",
+    "cherubim"
+  ],
+  "sources": [
+    {
+      "zh": "《但以理书》8:16；9:21",
+      "en": "Daniel 8:16; 9:21"
+    },
+    {
+      "zh": "《路加福音》1:11-38",
+      "en": "Luke 1:11-38"
+    },
+    {
+      "zh": "《古兰经》2:97-98",
+      "en": "Quran 2:97-98"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/gabriel.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archangel_Gabriel_from_an_Annunciation_-_Google_Art_Project.jpg",
+    "sourceTitle": "Archangel Gabriel from an Annunciationtitle QS:P1476,en:\"Archangel Gabriel from an Annunciation\"label QS:Len,\"Archangel Gabriel from an Annunciation\"",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 733,
+    "height": 1000
+  }
+}

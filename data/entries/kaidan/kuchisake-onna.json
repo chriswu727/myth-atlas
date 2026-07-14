@@ -1,0 +1,46 @@
+{
+  "id": "kuchisake-onna",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "裂口女",
+    "en": "Kuchisake-onna",
+    "original": "口裂け女",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "问「我漂亮吗」的口罩女人", "en": "The masked woman who asks 'Am I pretty?'" },
+  "summary": {
+    "zh": "戴口罩的女人拦住放学的孩子问「我漂亮吗」，摘下口罩露出裂到耳根的嘴再问一遍。1978年冬从岐阜县发端，1979年春夏席卷全日本。",
+    "en": "A masked woman stops schoolchildren to ask 'Am I pretty?', then pulls the mask down on a mouth slit to the ears and asks again. The rumor rose in Gifu in winter 1978 and swept Japan by summer 1979."
+  },
+  "description": {
+    "zh": "裂口女的问答是一个死局：戴着大口罩的年轻女人在放学路上拦住孩子，问「我漂亮吗」。答「漂亮」，她摘下口罩，露出裂到耳根的血口再问「这样呢」；答「不漂亮」或转身逃跑，都会被她追上——传闻说她百米只要六秒，手里有一把剪刀，要把你的嘴剪成和她一样。孩子们也流传破解法：连说三遍「发蜡」（一说因为给她做整容手术失败的医生涂着发蜡），或扔出鳖甲糖趁她捡拾时逃走。她的来历各地说法不一，流传最广的是整容手术失败的女人。\n\n这场骚动的起点可以精确到时地：1978年12月前后，岐阜县出现「农家老婆婆看见裂口女站在院子角落」的传闻，1979年1月26日《岐阜日日新闻》最早见报。此后半年经孩子的口耳、补习班和地方媒体扩散到全国，各地小学一度组织教师护送放学，警察加强巡逻，甚至有人扮成裂口女被带走。1979年8月暑假开始后，流言迅速退潮——这条清晰的传播曲线使裂口女成为日本社会心理学与民俗学研究现代流言的标本，也是「口裂け女」一词进入辞典的开始。\n\n作为战后日本第一个全国级都市传说，她此后不断回炉：2007年白石晃士执导同名恐怖片，韩国、越南也有本地化变体。口罩这一日常物件从此在日本怪谈里带上了一层阴影。",
+    "en": "The kuchisake-onna's question has no safe answer. A young woman in a large surgical mask stops a child on the way home from school and asks, 'Am I pretty?' Say yes, and she pulls the mask down on a mouth slit ear to ear and asks, 'Even like this?' Say no, or run, and she catches you; rumor gave her a hundred meters in six seconds and a pair of scissors to cut your mouth to match hers. Children traded countermeasures: say 'pomade' three times, or throw hard candy and flee while she stoops for it. Her origin varied by prefecture, the most common being plastic surgery gone wrong.\n\nThe panic can be dated and placed. Around December 1978 a rumor spread in Gifu prefecture that an old farm woman had seen a slit-mouthed woman standing in the corner of her yard; the Gifu Nichi Nichi Shimbun printed the first newspaper account on 26 January 1979. Over the following six months the story traveled nationwide through schoolyards, cram schools, and local media. Elementary schools organized escorted walks home, police stepped up patrols, and at least one adult dressed as the woman was taken into custody. When summer vacation began in August 1979 the rumor collapsed, and that clean epidemic curve made the kuchisake-onna a standard case study for Japanese folklorists and social psychologists of rumor.\n\nAs postwar Japan's first truly national urban legend she keeps returning, in Shiraishi Koji's 2007 film Carved among many others, with localized variants in Korea and Vietnam. The everyday surgical mask has carried a faint shadow in Japanese horror ever since."
+  },
+  "domains": {
+    "zh": ["都市传说", "校园恐慌", "口罩", "流言传播"],
+    "en": ["Urban legends", "School panics", "Masks", "Rumor epidemics"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "初出", "en": "First appearance" },
+      "value": { "zh": "1978年12月前后岐阜县传闻，1979年1月26日见报", "en": "Gifu rumor c. December 1978; first press report 26 January 1979" }
+    },
+    {
+      "label": { "zh": "破解法", "en": "Countermeasure" },
+      "value": { "zh": "连说三遍「发蜡」，或扔鳖甲糖", "en": "Say 'pomade' three times, or throw hard candy" }
+    },
+    {
+      "label": { "zh": "传闻速度", "en": "Rumored speed" },
+      "value": { "zh": "百米六秒", "en": "100 meters in 6 seconds" }
+    }
+  ],
+  "related": ["hanako-san", "hasshaku-sama", "jinmenken"],
+  "sources": [
+    { "zh": "《岐阜日日新闻》1979年1月26日报道", "en": "Gifu Nichi Nichi Shimbun, 26 January 1979" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "geo": { "lat": 35.42, "lon": 136.76, "label": { "zh": "岐阜县（流言发端地）", "en": "Gifu prefecture (origin of the rumor)" } },
+  "image": null
+}

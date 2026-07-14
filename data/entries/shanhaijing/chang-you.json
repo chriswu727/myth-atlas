@@ -1,0 +1,90 @@
+{
+  "id": "chang-you",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "长右",
+    "en": "Changyou"
+  },
+  "title": {
+    "zh": "预示郡县大水的四耳猿",
+    "en": "Four-Eared Ape That Portends Great Floods"
+  },
+  "summary": {
+    "zh": "长右山异兽，形状像猕猴却长四只耳朵，叫声如人呻吟；它在哪个郡县现身，哪里就要发大水。",
+    "en": "A beast of Mount Changyou shaped like a macaque but with four ears, its voice like a human groan; whichever district it appears in will suffer great floods."
+  },
+  "description": {
+    "zh": "长右之山不长草木，遍山多水。《南山经》记：\"有兽焉，其状如禺而四耳，其名长右，其音如吟，见则郡县大水。\"这头兽与它栖身的山同名——山叫长右，兽也叫长右，山兽一体。它像禺（一种大猕猴），却生四只耳朵，叫声像人低声呻吟。\n\n长右属于《山海经》的\"见则\"征兆系统：它不伤人、不吃人，全部的可怕在于它的出现本身。经文的措辞很有分寸——它现身于哪个郡县，大水就落在哪个郡县，灾异的范围与它的行迹一一对应，比\"见则天下大旱\"的颙低一个量级，却也更贴近切身：山洪来时淹的正是自家田宅。南次二经的怪兽多带此类预言，柜山的狸力现则多土功，尧光山的猾褢现则大兴徭役，长右司水患，一列山系俨然一套地方灾异的预警名录。多耳的猿、呻吟般的叫声、随之而来的洪水，明清图本常画它攀在枯枝上侧耳作听水状。",
+    "en": "Mount Changyou bears no plants but abounds in streams, and the beast that lives there shares the mountain's name. The Classic of the Southern Mountains describes it as shaped like the yu, a large macaque, but with four ears, its voice like a low human groan. Then comes the clause that matters: wherever it is seen, that district will suffer great floods.\n\nThe changyou belongs to the book's system of 'when seen' portents. It neither attacks nor devours; all its menace lies in the fact of its appearance. The wording is precise about scale — the flood falls on exactly the county the beast visits, one register below the drought-bird Yong whose influence covers all under heaven, and for that reason more intimate: the water that follows it drowns one's own fields. The second southern range reads like a gazetteer of local calamities foretold by animals — the pig-like Lili of Mount Ju heralds heavy earthworks, the bristled Huahuai of Mount Yaoguang heralds mass corvee labor, and the changyou keeps the portfolio of floods. Ming and Qing illustrators liked to draw the four-eared ape clinging to a bare branch, head cocked as if listening for rising water."
+  },
+  "domains": {
+    "zh": [
+      "水患之兆",
+      "猿猴",
+      "灾异"
+    ],
+    "en": [
+      "Flood Omens",
+      "Apes",
+      "Calamities"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "长右之山",
+        "en": "Mount Changyou"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如人呻吟",
+        "en": "Like a human groan"
+      }
+    },
+    {
+      "label": {
+        "zh": "征兆",
+        "en": "Portent"
+      },
+      "value": {
+        "zh": "见则郡县大水",
+        "en": "Its appearance brings floods to the district"
+      }
+    }
+  ],
+  "related": [
+    "hua-huai",
+    "yong",
+    "xing-xing"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/chang-you.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic239_-_%E9%95%B7%E5%8F%B3%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic239 - 長右圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 790,
+    "height": 1000
+  }
+}

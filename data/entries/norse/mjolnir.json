@@ -1,0 +1,96 @@
+{
+  "id": "mjolnir",
+  "tradition": "norse",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "妙尔尼尔",
+    "en": "Mjolnir",
+    "original": "Mjölnir",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "托尔的雷霆之锤",
+    "en": "The Thunder Hammer of Thor"
+  },
+  "summary": {
+    "zh": "侏儒兄弟锻造的短柄战锤，掷出必中且自回掌中，既是屠巨人的凶器，也是祝圣婚礼与葬礼的圣物。",
+    "en": "The short-hafted hammer forged by dwarf brothers: it never misses, always returns to the hand, slays giants, and hallows weddings and funerals alike."
+  },
+  "description": {
+    "zh": "妙尔尼尔是托尔的战锤，出自侏儒兄弟布洛克与埃特里（后世也作辛德里）的锻炉。《诗艺语言》记载，洛基以自己的脑袋为赌注，激这对兄弟与伊瓦尔迪之子们比试手艺；锻锤时洛基化作牛虻叮咬拉风箱的布洛克，叮得他眼皮出血、手上一顿，锤柄因此短了一截。即便如此，诸神仍一致裁定它是六件宝物之首：掷出必中，无论飞出多远都会回到掌中，还能缩进衣襟里随身携带。洛基的脑袋按赌约归了侏儒，他狡辩说脖子不在赌注之内，布洛克便缝住了他的嘴。\n\n这柄锤是诸神对抗巨人的唯一屏障，也带着神圣的一面：托尔用它祝圣自己山羊的骨头使其复生，火葬巴德尔时用它祝圣柴堆，《特里姆之歌》里巨人按婚俗「把锤放上新娘膝头为她祝圣」，正好把它送回了假扮新娘的托尔手中。\n\n维京时代的人们把它戴在身上：斯堪的纳维亚各地出土的锤形护身符数以百计，与十字架吊坠在改宗时代并行流通；丹麦洛兰岛出土的一枚十世纪护身符上刻着卢恩铭文「这是锤」，坐实了这类吊坠的身份。",
+    "en": "Mjolnir is Thor's hammer, forged in the smithy of the dwarf brothers Brokk and Eitri (called Sindri in later retellings). As Skaldskaparmal tells it, Loki wagered his own head that the brothers could not outdo the sons of Ivaldi; while the hammer was in the forge Loki became a biting fly and stung the bellows-worker Brokk on the eyelid, making him falter, so the haft came out shorter than it should have been. Even so, the assembled gods judged it the best of the six treasures: it never misses, always flies back to the thrower's hand, and can be shrunk small enough to carry inside a shirt. Loki's head was forfeit; he argued his neck was not part of the bargain, so Brokk sewed his lips shut instead.\n\nThe hammer is the gods' one sure defence against the giants, and it is also an instrument of blessing. Thor hallows the bones of his slaughtered goats with it to bring them back to life, and hallows Baldr's funeral pyre; in the Thrymskvida the giants lay the hammer in the bride's lap 'to hallow her', delivering it straight back to Thor in his bridal disguise.\n\nViking Age people wore it: hundreds of hammer-shaped amulets have been unearthed across Scandinavia, circulating alongside cross pendants during the conversion era, and a tenth-century amulet from Lolland in Denmark carries the runic inscription 'this is a hammer'."
+  },
+  "domains": {
+    "zh": [
+      "雷霆",
+      "神锤",
+      "祝圣",
+      "护身符"
+    ],
+    "en": [
+      "Thunder",
+      "Divine Hammer",
+      "Hallowing",
+      "Amulet"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "工匠",
+        "en": "Makers"
+      },
+      "value": {
+        "zh": "侏儒兄弟布洛克与埃特里",
+        "en": "The dwarf brothers Brokk and Eitri"
+      }
+    },
+    {
+      "label": {
+        "zh": "特性",
+        "en": "Powers"
+      },
+      "value": {
+        "zh": "掷出必中，自回掌中，可缩小随身",
+        "en": "Never misses, returns to hand, shrinks to pocket size"
+      }
+    },
+    {
+      "label": {
+        "zh": "瑕疵",
+        "en": "Flaw"
+      },
+      "value": {
+        "zh": "锤柄过短，因洛基化虻搅局",
+        "en": "A too-short haft, thanks to Loki's fly bite"
+      }
+    }
+  ],
+  "related": [
+    "thor",
+    "loki",
+    "freyja",
+    "baldr",
+    "ragnarok"
+  ],
+  "sources": [
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·诗艺语言》",
+      "en": "Snorri Sturluson, Prose Edda: Skaldskaparmal"
+    },
+    {
+      "zh": "《诗体埃达·特里姆之歌》",
+      "en": "Poetic Edda: Thrymskvida"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mjolnir.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mj%C3%B6llnir_pendant_from_Birka_grave.jpg",
+    "sourceTitle": "Mjöllnir pendant from Birka grave",
+    "artist": "Ola Myrin",
+    "license": "CC BY 2.5",
+    "width": 775,
+    "height": 1000
+  }
+}

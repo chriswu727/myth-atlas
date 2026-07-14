@@ -1,0 +1,101 @@
+{
+  "id": "chupacabra",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "卓柏卡布拉",
+    "en": "Chupacabra",
+    "original": "Chupacabras",
+    "originalLang": "西班牙语"
+  },
+  "title": {
+    "zh": "吸食牲畜之血的「吸山羊者」",
+    "en": "The Goat-Sucker of the Americas"
+  },
+  "summary": {
+    "zh": "1995年源于波多黎各的吸血怪物传说，名字意为「吸山羊者」：牲畜离奇死亡、血液被吸干。传说迅速蔓延至墨西哥与美国南部，形象从背棘直立怪变为无毛野犬。",
+    "en": "A vampire-beast legend born in Puerto Rico in 1995 — the name means \"goat-sucker.\" Livestock were found drained of blood; the legend spread to Mexico and the U.S., its image shifting from a spined biped to a hairless canid."
+  },
+  "description": {
+    "zh": "卓柏卡布拉的传说始于1995年的波多黎各：3月起，岛上陆续发现山羊、鸡和兔子离奇死亡，尸体上有小孔，主人声称血被吸干。同年8月，卡诺瓦纳斯镇的目击者玛德琳·托伦蒂诺描述了一个直立行走的怪物——约一米二高，灰色皮肤，大而斜吊的眼睛，背脊上竖着一排尖刺。喜剧演员西尔维里奥·佩雷斯在节目里把它戏称为「chupacabras」（吸山羊者），名字就此定型，波多黎各媒体连篇报道，目击很快蔓延到墨西哥、中美洲和美国讲西班牙语的社区。\n\n进入二十一世纪，传说的形象发生了奇特的转变：在得克萨斯州和墨西哥北部，「卓柏卡布拉」越来越多地指人们捕获或拍到的无毛四足兽——蓝灰色皮肤、獠牙外露的犬形动物。经DNA检验，这些标本几乎全部是患严重疥癣的郊狼、野狗或二者杂交种，皮毛脱落后的怪异外观支撑了传说的第二形态。\n\n怀疑论调查者本杰明·拉德福德在《追踪卓柏卡布拉》（2011）中做了两个著名论证：其一，托伦蒂诺承认目击前不久看过科幻电影《异种》（Species，1995），她描述的怪物与片中生物Sil高度相似；其二，被称「吸血」的牲畜经解剖大多血量正常，小孔是犬科捕食者的犬齿痕。尽管如此，卓柏卡布拉已成为拉丁美洲与美国边境地带最有生命力的当代怪物，登上从《X档案》到动画片的无数银幕。",
+    "en": "The legend began in Puerto Rico in March 1995, when goats, chickens, and rabbits were found dead with small puncture wounds, their owners insisting the blood had been drained. In August, Madelyne Tolentino of Canovanas described an upright creature about four feet tall with gray skin, large slanted eyes, and a row of spines down its back. Comedian Silverio Perez jokingly dubbed it the chupacabras — \"goat-sucker\" — and the name stuck. Puerto Rican media ran story after story, and sightings soon spread to Mexico, Central America, and Spanish-speaking communities across the United States.\n\nIn the new century the creature's image mutated. In Texas and northern Mexico, \"chupacabra\" increasingly meant a hairless four-legged animal — blue-gray skinned, fanged, dog-like — that ranchers shot or photographed. DNA tests identified nearly every specimen as a coyote, feral dog, or hybrid with severe mange, whose naked skin gave the legend its second body.\n\nSkeptical investigator Benjamin Radford, in Tracking the Chupacabra (2011), made two famous points: Tolentino acknowledged having recently seen the 1995 science-fiction film Species, whose creature Sil closely matches her description, and necropsies of \"drained\" livestock generally found normal blood volume, the punctures matching canine teeth. None of this has slowed the goat-sucker, now the most vigorous modern monster of Latin America and the borderlands, appearing everywhere from The X-Files to children's cartoons."
+  },
+  "domains": {
+    "zh": [
+      "吸血怪物",
+      "牲畜袭击",
+      "拉丁美洲怪谈",
+      "媒体恐慌"
+    ],
+    "en": [
+      "Vampire beast",
+      "Livestock attacks",
+      "Latin American legend",
+      "Media panic"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "首次目击潮",
+        "en": "First wave"
+      },
+      "value": {
+        "zh": "1995年波多黎各卡诺瓦纳斯",
+        "en": "Canovanas, Puerto Rico, 1995"
+      }
+    },
+    {
+      "label": {
+        "zh": "两种形象",
+        "en": "Two forms"
+      },
+      "value": {
+        "zh": "背棘直立怪（加勒比）与无毛犬形兽（得州）",
+        "en": "A spined biped (Caribbean) and a hairless canid (Texas)"
+      }
+    },
+    {
+      "label": {
+        "zh": "科学解释",
+        "en": "Scientific verdict"
+      },
+      "value": {
+        "zh": "标本DNA多为患疥癣的郊狼或野狗",
+        "en": "DNA of specimens: mangy coyotes and feral dogs"
+      }
+    }
+  ],
+  "related": [
+    "hopkinsville-goblins",
+    "loveland-frogman"
+  ],
+  "sources": [
+    {
+      "zh": "1995年波多黎各媒体报道（《El Vocero》等）",
+      "en": "Puerto Rican press coverage, 1995 (El Vocero and others)"
+    },
+    {
+      "zh": "本杰明·拉德福德《追踪卓柏卡布拉》（2011）",
+      "en": "Benjamin Radford, Tracking the Chupacabra (2011)"
+    }
+  ],
+  "geo": {
+    "lat": 18.38,
+    "lon": -65.9,
+    "label": {
+      "zh": "波多黎各卡诺瓦纳斯",
+      "en": "Canovanas, Puerto Rico"
+    }
+  },
+  "image": {
+    "file": "/images/entries/chupacabra.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chupacabra_padayachee.jpg",
+    "sourceTitle": "Chupacabra padayachee",
+    "artist": "Alvin Padayachee",
+    "license": "Public Domain",
+    "width": 1000,
+    "height": 846
+  }
+}

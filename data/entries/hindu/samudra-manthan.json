@@ -1,0 +1,107 @@
+{
+  "id": "samudra-manthan",
+  "tradition": "hindu",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "搅乳海",
+    "en": "The Churning of the Ocean of Milk",
+    "original": "समुद्रमन्थन",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "提婆与阿修罗共搅大洋取甘露",
+    "en": "Devas and asuras churn the sea for the nectar of immortality"
+  },
+  "summary": {
+    "zh": "提婆与阿修罗以曼陀罗山为杵、蛇王婆苏吉为绳合力搅动乳海：先涌出足以灭世的毒液，再依次浮出神象、宝树、吉祥天女，最终得不死甘露。",
+    "en": "Gods and demons churned the milky sea with Mount Mandara as the rod and the serpent Vasuki as the rope: first world-killing poison, then treasure after treasure, and at last the nectar of immortality."
+  },
+  "description": {
+    "zh": "众神因仙人杜尔瓦萨的诅咒而衰弱，被阿修罗压制。毗湿奴献策：与其力敌，不如诱阿修罗合力搅动乳海，取不死甘露。于是两族拔起曼陀罗山作搅杵，请蛇王婆苏吉缠山为绞绳——提婆执蛇尾，阿修罗执蛇头——山体下沉时，毗湿奴化作巨龟俱利摩潜入海底，以龟甲驮山。\n\n搅动千年，先浮出的不是甘露，而是足以焚毁三界的毒液“哈拉哈拉”。危急关头湿婆将毒液一饮而尽，帕尔瓦蒂急扼其喉，毒停喉间，把他的喉咙灼成青黑色。此后宝物次第涌现，通行的说法是十四宝：如意神牛卡玛特努、七首白马乌柴什罗婆、四牙神象爱罗婆多、宝石俱斯图跋、天界宝树帕里贾塔、明月、司酒女神伐楼尼、翩然而出的天女（apsara）、执莲花而生的吉祥天女拉克什米——她当即选择毗湿奴为夫——最后，神医昙梵陀利手捧甘露宝壶浮出海面。阿修罗抢壶而走，毗湿奴化作绝色天女莫西妮，趁魔众神魂颠倒之际把甘露尽数分给诸神；阿修罗罗睺变形混入偷饮，日月神揭发，毗湿奴的轮宝当即斩落其头——头颅已得甘露不死，从此追吞日月，成为日食与月食的由来。\n\n搅乳海是印度教艺术最恢弘的母题之一：吴哥窟东侧长廊近50米的浮雕上，88尊阿修罗与92尊提婆分执巨蛇；曼谷素万那普机场大厅的群雕也取此景。每十二年一度、动辄聚集数千万人的大壶节，其名“壶”（kumbha）即指那只盛甘露的宝壶。",
+    "en": "Weakened by a sage's curse and hard-pressed by the asuras, the gods took Vishnu's counsel: rather than fight, entice the demons into churning the ocean of milk for the nectar of immortality. The two hosts tore up Mount Mandara for a churning rod and wound the serpent king Vasuki around it as the rope—the devas gripping the tail, the asuras the head. When the mountain began to sink, Vishnu became the great tortoise Kurma and bore it on his shell at the bottom of the sea.\n\nA thousand years of churning brought up first not nectar but halahala, a poison fit to burn the three worlds. Shiva drank it down; Parvati clutched his throat and the venom lodged there, staining it blue-black. Then the treasures rose in sequence—fourteen in the common count: Kamadhenu the wish-granting cow, the seven-headed white horse Ucchaihshravas, the four-tusked elephant Airavata, the Kaustubha jewel, the celestial parijata tree, the moon, the wine goddess Varuni, the dancing apsaras, and Lakshmi, goddess of fortune, who rose on a lotus and chose Vishnu for her husband on the spot. Last came Dhanvantari, physician of the gods, bearing the pot of amrita. The asuras seized it; Vishnu took the form of the enchantress Mohini and, while the demons stood spellbound, served all the nectar to the gods. The asura Rahu slipped into the divine ranks in disguise and got a mouthful; the sun and moon betrayed him, and Vishnu's discus took off his head—which, already immortal, has chased and swallowed sun and moon ever since, causing eclipses.\n\nThe churning is one of the grandest motifs of Hindu art: on the east gallery of Angkor Wat a relief nearly fifty metres long sets 88 asuras against 92 devas along the serpent's body, and a sculptural group in Bangkok's Suvarnabhumi airport restages the scene. The Kumbh Mela, which gathers tens of millions of pilgrims every twelve years, takes its name from that kumbha—the pot of nectar."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "甘露",
+      "神魔之争",
+      "宝物"
+    ],
+    "en": [
+      "Cosmogony",
+      "The Nectar",
+      "Gods versus Demons",
+      "Treasures"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "搅杵与绞绳",
+        "en": "Rod and rope"
+      },
+      "value": {
+        "zh": "曼陀罗山与蛇王婆苏吉",
+        "en": "Mount Mandara and the serpent Vasuki"
+      }
+    },
+    {
+      "label": {
+        "zh": "先兆之祸",
+        "en": "First yield"
+      },
+      "value": {
+        "zh": "灭世毒液哈拉哈拉，由湿婆吞下",
+        "en": "The poison halahala, swallowed by Shiva"
+      }
+    },
+    {
+      "label": {
+        "zh": "最终所得",
+        "en": "Final prize"
+      },
+      "value": {
+        "zh": "神医昙梵陀利捧出的不死甘露",
+        "en": "The amrita, borne up by Dhanvantari"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名图像",
+        "en": "Famous depiction"
+      },
+      "value": {
+        "zh": "吴哥窟东廊浮雕（12世纪）",
+        "en": "East gallery relief, Angkor Wat (12th century)"
+      }
+    }
+  ],
+  "related": [
+    "amrita",
+    "vishnu",
+    "shiva",
+    "naga",
+    "indra",
+    "mount-meru"
+  ],
+  "sources": [
+    {
+      "zh": "《摩诃婆罗多·初篇》",
+      "en": "Mahabharata, Adi Parva"
+    },
+    {
+      "zh": "《薄伽梵往世书》第八篇",
+      "en": "Bhagavata Purana, Book 8"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/samudra-manthan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_churning_of_the_Ocean_of_Milk,_in_a_bazaar_art_print,_c.1910%27s;_the_Suras_or_gods_are_on_the_right,_the_Asuras_or_demons_on_the_left.jpg",
+    "sourceTitle": "The churning of the Ocean of Milk, in a bazaar art print, c.1910's; the Suras or gods are on the right, the Asuras or demons on the left",
+    "artist": "bazaar art print",
+    "license": "Public domain",
+    "width": 715,
+    "height": 1000
+  }
+}

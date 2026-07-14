@@ -1,0 +1,104 @@
+{
+  "id": "huitzilopochtli",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "维齐洛波奇特利",
+    "en": "Huitzilopochtli",
+    "original": "Huītzilōpōchtli",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "左方蜂鸟，战争与太阳之神，墨西卡人的守护神",
+    "en": "Hummingbird of the Left, God of War and the Sun, Patron of the Mexica"
+  },
+  "summary": {
+    "zh": "墨西卡人的部族守护神，司战争与太阳。在蛇山全副武装降生，持火蛇斩杀姐姐科约尔绍基；曾一路引导族人从阿兹特兰迁往特诺奇蒂特兰。",
+    "en": "Tribal patron of the Mexica, god of war and the sun. Born fully armed on Serpent Hill, he slew his sister Coyolxauhqui with the fire serpent and guided his people from Aztlan to Tenochtitlan."
+  },
+  "description": {
+    "zh": "维齐洛波奇特利的名字意为\"左方（南方）的蜂鸟\"，形象是脸涂蓝色横纹、头戴蜂鸟羽盔、左腿饰羽的年轻战士，手持蓝色火蛇\"修考特尔\"与镜面盾。他是墨西卡人独有的部族守护神，司战争与正午的太阳；阵亡的战士与献祭的俘虏死后随太阳巡行天空，四年之后化作蜂鸟与蝴蝶，在花间永生。\n\n他的降生是阿兹特克神话最著名的场面之一。地母科亚特利库埃在蛇山科亚特佩克扫除神庙时，一团羽毛落入怀中使她受孕；她的女儿、月神科约尔绍基怒母失节，率四百南方星辰兄弟\"森琼·维茨纳瓦\"杀上山来。临刑之际，维齐洛波奇特利自母腹中全副武装跃出，以火蛇修考特尔一击斩落科约尔绍基的头颅，将她肢解抛下山坡，又追散了四百星辰。这场山巅之战被解作太阳每日破晓时驱散月亮与群星的图景。\n\n据迁徙传说，正是他命令族人离开阿兹特兰，由背神像的祭司代传神谕，历经约两百年漂泊，最终以\"鹰立于石上仙人掌\"为记，指引墨西卡人于特斯科科湖的岛上建立特诺奇蒂特兰。大神庙的南半座即他的神殿，与北侧的雨神特拉洛克神殿并立；1978年在庙前出土的科约尔绍基圆石浮雕，直径约3.25米，雕着被肢解的月神，正对着当年祭品滚落的台阶。",
+    "en": "Huitzilopochtli, Hummingbird of the Left — the left hand of the sun's path, the south — appears as a young warrior with blue-striped face paint, a hummingbird helmet, and a feathered left leg, carrying a mirrored shield and the blue fire serpent Xiuhcoatl. He was the Mexica's own tribal patron, god of war and of the sun at its height; warriors who fell in battle or on the sacrificial stone escorted the sun across the sky, and after four years returned as hummingbirds and butterflies among the flowers.\n\nHis birth is the most famous scene in Mexica myth. While the earth goddess Coatlicue swept the temple on Coatepec, Serpent Hill, a ball of feathers slipped into her bosom and left her pregnant. Her daughter, the moon goddess Coyolxauhqui, raged at the disgrace and led the Centzon Huitznahua, the four hundred southern stars, up the hill to kill her. At the last moment Huitzilopochtli sprang from the womb fully armed, struck off Coyolxauhqui's head with the fire serpent, hurled her dismembered body down the slope, and scattered the four hundred — a battle read as the sun's daily rout of moon and stars at dawn.\n\nMigration lore says it was he who ordered the Mexica out of Aztlan, speaking through the priests who carried his bundled effigy, and who, after some two centuries of wandering, gave the sign of an eagle perched on a stone-borne cactus that fixed the site of Tenochtitlan. The southern shrine of the Templo Mayor was his, paired with Tlaloc's on the north; the great Coyolxauhqui stone unearthed at its foot in 1978, about 3.25 meters across, shows the dismembered moon goddess lying exactly where sacrificed bodies once rolled down the steps."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "太阳",
+      "部族守护",
+      "献祭"
+    ],
+    "en": [
+      "War",
+      "Sun",
+      "Tribal patronage",
+      "Sacrifice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "火蛇修考特尔",
+        "en": "Xiuhcoatl, the fire serpent"
+      }
+    },
+    {
+      "label": {
+        "zh": "母亲",
+        "en": "Mother"
+      },
+      "value": {
+        "zh": "科亚特利库埃，因羽毛团受孕",
+        "en": "Coatlicue, conceived by a ball of feathers"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief shrine"
+      },
+      "value": {
+        "zh": "特诺奇蒂特兰大神庙南殿",
+        "en": "Southern shrine of the Templo Mayor"
+      }
+    }
+  ],
+  "related": [
+    "coatlicue",
+    "xiuhcoatl",
+    "tlaloc",
+    "aztlan",
+    "tenochtitlan",
+    "tezcatlipoca"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第三卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Book 3"
+    },
+    {
+      "zh": "迭戈·杜兰《新西班牙印第安人史》（1581年）",
+      "en": "Diego Durán, Historia de las Indias de Nueva España (1581)"
+    }
+  ],
+  "geo": {
+    "lat": 19.4349,
+    "lon": -99.1316,
+    "label": {
+      "zh": "大神庙遗址，墨西哥城",
+      "en": "Templo Mayor, Mexico City"
+    }
+  },
+  "image": {
+    "file": "/images/entries/huitzilopochtli.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huitzilopochtli_telleriano.jpg",
+    "sourceTitle": "Huitzilopochtli telleriano",
+    "license": "Public domain",
+    "width": 860,
+    "height": 1000
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "izanami",
+  "tradition": "japanese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊邪那美",
+    "en": "Izanami",
+    "original": "伊邪那美命（いざなみのみこと）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "创世女神，黄泉之国的主宰",
+    "en": "Creator Goddess Who Became Queen of the Dead"
+  },
+  "summary": {
+    "zh": "与伊邪那岐共同生下日本列岛与诸神的女神；因产火神被灼死，坠入黄泉成为黄泉津大神，立誓每日绞杀千人。",
+    "en": "The goddess who bore the islands of Japan with Izanagi. Burned to death delivering the fire god, she became ruler of Yomi and vowed to strangle a thousand people each day."
+  },
+  "description": {
+    "zh": "伊邪那美与伊邪那岐同为神世七代的最后一代，二神搅海造出淤能碁吕岛，成婚后生下大八岛与山、川、风、海的诸多神明。生产火神迦具土时，她的下身被烈火灼伤，在病榻上呕吐、排泄之间仍化生出矿山、黏土与灌溉之神，最终死去。《古事记》记她葬于出云国与伯耆国交界的比婆山。\n\n伊邪那岐追到黄泉之国求她回还。她答自己已吃过黄泉灶火煮出的食物，须与黄泉之神商量，请丈夫切勿窥视。禁忌被打破后，她因暴露了腐烂生蛆的身体而羞怒，先遣黄泉丑女、继遣八雷神与黄泉军追赶。追到黄泉比良坂，伊邪那岐以千引岩塞路，她隔岩宣告：「我将每日绞杀你国中一千人。」伊邪那岐答：「我将每日建起一千五百座产屋。」一日千人死、千五百人生的循环由此确立，这段对话也让她得名黄泉津大神，成为死亡的主宰。\n\n后世把黄泉比良坂比定于岛根县松江市东出云町的伊赋夜坂，坂下的揖夜神社祭祀伊邪那美；《日本书纪》一书则记她葬于纪伊国熊野的有马村，三重县熊野市的花窟神社据此奉巨岩为她的墓所。",
+    "en": "Izanami, last of the seven divine generations together with Izanagi, helped churn the primordial sea into land and bore the eight great islands along with gods of mountains, rivers, winds, and sea. Delivering the fire god Kagutsuchi she was fatally burned; even as she lay dying, deities of mining, clay, and irrigation issued from her body. The Kojiki says she was buried on Mount Hiba, on the border of Izumo and Hoki.\n\nWhen Izanagi came down to Yomi to bring her back, she replied that she had already eaten food cooked on the hearth of the dead and begged him not to look at her while she conferred with the gods of Yomi. He broke the taboo and saw her corpse crawling with maggots, eight thunder gods lodged in it. Shamed and enraged, she sent the hags of Yomi and then the thunder gods after him. At the pass of Yomotsu Hirasaka, blocked by a great boulder, she vowed to strangle a thousand of his people every day; he answered that he would raise fifteen hundred birthing huts daily. That exchange, fixing the rhythm of death and birth, made her Yomotsu Okami, great deity of the underworld.\n\nTradition places Yomotsu Hirasaka at Iya in Higashi-Izumo, Shimane, where Iya Shrine venerates her, while Hananoiwaya Shrine in Kumano marks the burial site named in a Nihon Shoki variant."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "死亡",
+      "黄泉"
+    ],
+    "en": [
+      "Creation",
+      "Death",
+      "The underworld"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "死因",
+        "en": "Death"
+      },
+      "value": {
+        "zh": "产火神迦具土时被灼伤而死",
+        "en": "Fatally burned giving birth to the fire god Kagutsuchi"
+      }
+    },
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Epithet"
+      },
+      "value": {
+        "zh": "黄泉津大神",
+        "en": "Yomotsu Okami, Great Deity of Yomi"
+      }
+    },
+    {
+      "label": {
+        "zh": "葬地传承",
+        "en": "Burial traditions"
+      },
+      "value": {
+        "zh": "比婆山（《古事记》）、熊野有马村（《日本书纪》一书）",
+        "en": "Mount Hiba (Kojiki); Arima in Kumano (Nihon Shoki variant)"
+      }
+    }
+  ],
+  "related": [
+    "izanagi",
+    "amaterasu",
+    "susanoo"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "geo": {
+    "lat": 35.43,
+    "lon": 133.13,
+    "label": {
+      "zh": "黄泉比良坂传承地（岛根县松江市东出云町）",
+      "en": "Traditional site of Yomotsu Hirasaka (Higashi-Izumo, Matsue, Shimane)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/izanami.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kobayashi_Eitaku_-_Izanami_and_Izanagi_creating_the_Japanese_Islands_different_version.jpg",
+    "sourceTitle": "Illustration of (Izanami and Izanagi) exploring the blue sea with the heavenly spear.",
+    "artist": "Kobayashi Eitaku",
+    "license": "Public domain",
+    "width": 358,
+    "height": 1000
+  }
+}

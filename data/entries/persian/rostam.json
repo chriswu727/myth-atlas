@@ -1,0 +1,116 @@
+{
+  "id": "rostam",
+  "tradition": "persian",
+  "type": "hero",
+  "era": "folk",
+  "name": {
+    "zh": "鲁斯塔姆",
+    "en": "Rostam",
+    "original": "رستم",
+    "originalLang": "波斯语"
+  },
+  "title": {
+    "zh": "《列王纪》第一勇士",
+    "en": "Foremost Champion of the Shahnameh"
+  },
+  "summary": {
+    "zh": "《列王纪》中锡斯坦的巨人英雄，扎尔与鲁达贝之子。他闯七关杀白迪弗救国王，却也在阵前误杀亲子苏赫拉布，最终死于兄弟的陷阱。",
+    "en": "The giant hero of Sistan in the Shahnameh, son of Zal and Rudaba. He passed the Seven Trials and slew the White Div, unknowingly killed his own son Sohrab, and died in a brother's trap."
+  },
+  "description": {
+    "zh": "鲁斯塔姆是菲尔多西《列王纪》的第一勇士，锡斯坦-扎布利斯坦领主扎尔与喀布尔公主鲁达贝之子。他在母腹中即大得无法顺产，神鸟西摩格飞临指点剖腹之法方才降生；幼年一餐抵五人，成年后身躯如山。他驯服了无人能骑的斑色神驹拉赫什，作战时身披虎皮战袍\"巴布尔·巴扬\"，手中牛头锤重逾常人合抱。作为历代波斯君王的\"塔赫姆坦\"（体魄无双者），他一次次把摇摇欲坠的王座从灾祸里扛回来。\n\n他最著名的功业是\"七关\"（Haft Khan）：国王凯·卡乌斯轻信谗言远征马赞德兰，全军被白迪弗的妖法夺去视力囚禁，鲁斯塔姆单骑穿越七重险关——沉睡中拉赫什独力搏杀猛狮，荒漠绝水，斩龙，诛女妖，杀魔将阿尔章格——最终潜入山洞撕杀白迪弗，以其肝血为国王与全军复明。他的一生同样布满悲剧的阴影：在与图兰的战争中，他阵前误杀了素未谋面的亲生儿子苏赫拉布；暮年又被同父异母的兄弟沙加德设计，连人带马坠入布满倒插刀枪的陷坑，临死引弓，一箭射穿藏在树后的仇人。锡斯坦民间长期流传他的传说，比《列王纪》更早的粟特语残篇里已有他的名字，马修·阿诺德1853年的长诗又把他的故事带进了英语文学。",
+    "en": "Rostam is the supreme champion of Ferdowsi's Shahnameh, son of Zal, lord of Sistan and Zabulistan, and the Kabul princess Rudaba. Too huge to be born by ordinary labor, he came into the world by a cesarean cut taught by the Simurgh; as an infant he ate for five, and grown he stood like a mountain. He alone could master the rose-dappled stallion Rakhsh, wore the tiger-skin cuirass called the babr-e bayan into battle, and swung an ox-headed mace no other man could lift. As the Tahamtan, the mighty-bodied one, he shored up the throne of Persia through the reigns of king after king.\n\nHis most famous exploit is the Haft Khan, the Seven Trials: when King Kay Kavus rashly invaded Mazandaran and his whole army was blinded and imprisoned by the sorcery of the White Div, Rostam rode alone through seven stations of peril — Rakhsh killing a lion while his master slept, a waterless desert, a dragon, a witch, the demon captain Arzhang — until he tore the White Div apart in its mountain cave and restored the army's sight with the blood of its liver. Tragedy shadowed him no less than glory: in the wars with Turan he killed his own unrecognized son Sohrab in single combat, and in old age his half-brother Shaghad lured him onto a pit floored with upturned blades, where the dying hero drew his bow one last time and shot his betrayer through the tree he hid behind. His legend circulated in Sistan long before Ferdowsi — a Sogdian fragment already names him — and Matthew Arnold's poem of 1853 carried his story into English letters."
+  },
+  "domains": {
+    "zh": [
+      "勇力",
+      "忠诚",
+      "七关试炼",
+      "悲剧命运"
+    ],
+    "en": [
+      "Strength",
+      "Loyalty",
+      "The Seven Trials",
+      "Tragic destiny"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Steed"
+      },
+      "value": {
+        "zh": "神驹拉赫什",
+        "en": "Rakhsh"
+      }
+    },
+    {
+      "label": {
+        "zh": "武器与战袍",
+        "en": "Arms"
+      },
+      "value": {
+        "zh": "牛头锤、虎皮战袍巴布尔·巴扬",
+        "en": "Ox-headed mace; the tiger-skin babr-e bayan"
+      }
+    },
+    {
+      "label": {
+        "zh": "故乡",
+        "en": "Homeland"
+      },
+      "value": {
+        "zh": "锡斯坦-扎布利斯坦",
+        "en": "Sistan-Zabulistan"
+      }
+    },
+    {
+      "label": {
+        "zh": "死因",
+        "en": "Death"
+      },
+      "value": {
+        "zh": "兄弟沙加德的陷坑之计",
+        "en": "Shaghad's pit of blades"
+      }
+    }
+  ],
+  "related": [
+    "simurgh",
+    "rostam-and-sohrab",
+    "div"
+  ],
+  "sources": [
+    {
+      "zh": "菲尔多西《列王纪》（约1010年）",
+      "en": "Ferdowsi, Shahnameh (c. 1010)"
+    },
+    {
+      "zh": "粟特语鲁斯塔姆残篇（敦煌出土）",
+      "en": "Sogdian Rustam fragment (from Dunhuang)"
+    },
+    {
+      "zh": "马修·阿诺德《苏赫拉布与鲁斯图姆》（1853年）",
+      "en": "Matthew Arnold, Sohrab and Rustum (1853)"
+    }
+  ],
+  "geo": {
+    "lat": 31.0287,
+    "lon": 61.5012,
+    "label": {
+      "zh": "锡斯坦（今伊朗扎博勒一带）",
+      "en": "Sistan, near modern Zabol, Iran"
+    }
+  },
+  "image": {
+    "file": "/images/entries/rostam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_illustrated_leaf_from_a_manuscript_of_Firdausi%E2%80%99s_Shahnameh;_Rustam_killing_the_White_Div,_Persia,_Shiraz,_Safavid,_circa_1560-80.jpg",
+    "sourceTitle": "An illustrated leaf from a manuscript of Firdausi’s Shahnameh; Rustam killing the White Div, Persia, Shiraz, Safavid, circa 1560-80",
+    "artist": "Sotheby's",
+    "license": "Public domain",
+    "width": 802,
+    "height": 1000
+  }
+}

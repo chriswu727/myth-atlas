@@ -1,0 +1,97 @@
+{
+  "id": "dokkaebi",
+  "tradition": "korean",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "独脚鬼怪",
+    "en": "Dokkaebi",
+    "original": "도깨비",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "捉弄人也散财的民间精怪",
+    "en": "The Trickster Goblin of Korean Folklore"
+  },
+  "summary": {
+    "zh": "由沾了人手泽的旧扫帚、火棍化成的精怪，好摔跤、荞麦凉粉和浊酒，手中宝棒一敲便出金银；捉弄贪心人，也糊里糊涂地报恩。",
+    "en": "A goblin spirit born from worn household objects; fond of wrestling, buckwheat jelly, and rice wine, it conjures gold with a strike of its club, punishes the greedy, and repays debts with absurd generosity."
+  },
+  "description": {
+    "zh": "도깨비与人死后所化的鬼是两路来历，它由旧物成精：沾了人的手泽或血污的破扫帚、簸箕、火棍、筛子，年深日久便化作它。传统民谭里它的样貌模糊，常在雨夜山路上现身，拦住行人要摔跤，纠缠到天亮，人低头一看，怀里抱着的原来是一把秃扫帚。民间说它一条腿有力一条腿虚，摔跤时勾它虚的那条腿就赢；汉文文献因此写作“独脚鬼”。它嗜好分明：荞麦凉粉、浊酒，怕马血和赤豆。\n\n它手里的宝棒（도깨비방망이）一敲就变出金银。口传故事《瘤爷爷》里，脸上长瘤的老人夜宿空屋唱歌，도깨비们信了“歌声出自瘤子”，用一棒子金银买走了他的瘤；邻村贪心的瘤爷爷如法炮制，反被按上了第二个瘤。另一类故事说它借了钱就忘记自己还过，天天来还，把债主还成富翁。它也记仇，被捉弄后会在人家田里撒石头，主人反着说“最怕石头肥田”，它便连夜把石头捡得干干净净。\n\n文字记录上，1447年的《释谱详节》已出现“돗가비”一词，是这个名字最早的书面形态；《三国遗事》里鼻荆郎夜率鬼众、一夜筑成“鬼桥”的记载，后世也常被视作도깨비信仰的渊源。今天流行的形象——头生双角、手持狼牙棒——多半来自日据时期教科书对日本“鬼”（オニ）插图的挪用，民俗学界近年不断为本土도깨비正名；2016年tvN电视剧《鬼怪》则让这个名字再度家喻户晓。",
+    "en": "Unlike ghosts of the dead, a dokkaebi comes from old things: a worn broom, winnowing basket, fire poker, or sieve, steeped in years of human touch, transforms into one. In traditional tales its appearance is vague. It waylays travelers on rainy mountain roads and demands a wrestling match that lasts till dawn, when the exhausted traveler finds himself hugging a bald broom. Folk wisdom says one of its legs is weak, and hooking that leg wins the bout; Sino-Korean documents accordingly wrote its name as 'one-legged demon.' Its tastes are exact: buckwheat jelly and cloudy rice wine, with a horror of horse blood and red beans.\n\nIts club conjures gold and silver at a stroke. In the tale of the old man with a lump, goblins buy the singing elder's facial lump with a heap of treasure, believing his voice comes from it; a greedy neighbor tries the same trick and is fitted with a second lump. In other stories a dokkaebi that borrows money forgets each repayment and pays the debt back daily, making its creditor rich. It also holds grudges, dumping stones in an offended farmer's field, until the farmer loudly claims stones are the best fertilizer, whereupon the goblin removes every one overnight.\n\nThe word is first written as 'dotgabi' in the Seokbo Sangjeol of 1447, and the Samguk Yusa episode of Bihyeongnang, who commanded a crowd of spirits to build a 'goblin bridge' in a single night, is often cited as an ancestor of the belief. The horned, spike-clubbed image common today owes much to Japanese oni illustrations in colonial-era textbooks, a conflation Korean folklorists have worked to undo; the 2016 tvN drama Goblin returned the name to everyday currency."
+  },
+  "domains": {
+    "zh": [
+      "恶作剧",
+      "财富",
+      "摔跤",
+      "旧物成精"
+    ],
+    "en": [
+      "Mischief",
+      "Wealth",
+      "Wrestling",
+      "Objects turned spirits"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "宝物",
+        "en": "Treasure"
+      },
+      "value": {
+        "zh": "点金宝棒（도깨비방망이）",
+        "en": "A club that conjures gold (dokkaebi bangmangi)"
+      }
+    },
+    {
+      "label": {
+        "zh": "喜好与禁忌",
+        "en": "Likes and banes"
+      },
+      "value": {
+        "zh": "喜荞麦凉粉与浊酒，怕马血与赤豆",
+        "en": "Loves buckwheat jelly and rice wine; fears horse blood and red beans"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早书面记录",
+        "en": "Earliest written form"
+      },
+      "value": {
+        "zh": "《释谱详节》（1447年）作“돗가비”",
+        "en": "'Dotgabi' in the Seokbo Sangjeol (1447)"
+      }
+    }
+  ],
+  "related": [
+    "kumiho",
+    "cheonyeo-gwisin"
+  ],
+  "sources": [
+    {
+      "zh": "《释谱详节》（1447年）",
+      "en": "Seokbo Sangjeol (1447)"
+    },
+    {
+      "zh": "一然《三国遗事·纪异·桃花女鼻荆郎》（1281年）",
+      "en": "Iryeon, Samguk Yusa, 'Dohwanyeo and Bihyeongnang' (1281)"
+    },
+    {
+      "zh": "口传民谭《瘤爷爷》等，见《韩国口碑文学大系》",
+      "en": "Oral tales such as the Old Man with a Lump, in the Compendium of Korean Oral Literature"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/dokkaebi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ridge-end_tile_with_demon_face_design,_excavated_from_former_temple_site_of_Gapsansa_temple,_Gyeongju,_Korea,_Unified_Silla_dynasty,_600s-700s_AD,_clay_-_Tokyo_National_Museum_-_Tokyo,_Japan_-_DSC08268.jpg",
+    "sourceTitle": "Ridge-end tile with demon face design, excavated from former temple site of Gapsansa temple, Gyeongju, Korea, Unified Silla dynasty, 600s-700s AD, clay - Tokyo National Museum - Tokyo, Japan - DSC08268",
+    "artist": "Daderot",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 961
+  }
+}

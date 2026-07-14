@@ -1,0 +1,32 @@
+{
+  "id": "qingqiu-shan",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": { "zh": "青丘之山", "en": "Mount Qingqiu" },
+  "title": { "zh": "九尾狐栖居的南方名山", "en": "Southern Mountain Where the Nine-Tailed Fox Dwells" },
+  "summary": {
+    "zh": "鹊山山系东段的名山，山南多玉，山北多青雘；九尾狐与灌灌栖居于此，英水中多人面的赤鱬。",
+    "en": "A famous peak near the eastern end of the first southern range, with jade on its south slope and green mineral pigment on its north; home to the nine-tailed fox, the guanguan bird, and the human-faced chiru fish."
+  },
+  "description": {
+    "zh": "青丘之山位于《南山经》首列山系——鹊山山系的东段，再往东行，便是踆于东海之滨的箕尾山，山系到此为止。经文记它的物产：\"其阳多玉，其阴多青雘\"，山南出玉，山北出青雘，一种青色的矿物颜料，是上古绘饰所珍。英水从山中发源，向南流入即翼之泽。\n\n这座山以住客闻名。山中之兽是状如狐而九尾的九尾狐，音如婴儿，能食人；山中之鸟是状如鸠的灌灌，佩其羽可以不惑；英水之中多赤鱬，鱼身人面，食之不疥。一座山凑齐兽、鸟、鱼三样奇物，各附一条用途，在《南山经》诸山中风头最盛。\n\n青丘的名声溢出了山经。《海外东经》记有青丘国，\"其狐四足九尾\"；《大荒东经》又记\"有青丘之国，有狐九尾\"——山名长成了国名，九尾狐也从一山之兽变成一国之物。汉代人说九尾狐出青丘，视为祥瑞；到今天的仙侠小说与影视里，\"青丘\"干脆成了狐族故乡的代名词，这座山大概是《山海经》里被当代流行文化引用得最勤的地名。",
+    "en": "Mount Qingqiu stands toward the eastern end of the first southern range; a further march east reaches Mount Jiwei, which squats upon the Eastern Sea, and there the chain ends. The text inventories the mountain in its usual manner: jade on the sunlit southern slope, and on the shaded north qinghuo, a green mineral pigment prized by ancient painters. The Ying River rises here and flows south into the Marsh of Jiyi.\n\nThe mountain is famous for its tenants. Its beast is the nine-tailed fox, infant-voiced and man-eating; its bird is the guanguan, whose feathers worn on the body dispel confusion; its river holds the chiru, fish-bodied and human-faced, a cure for scabies when eaten. One peak thus fields a marvel each of beast, bird, and fish, every one with a stated use — no other mountain in the southern classic is so well stocked.\n\nThe name outgrew the mountain. The Classic of Regions Beyond the Seas records a Land of Qingqiu whose foxes have four legs and nine tails, and the Classic of the Great Wilderness repeats it; Han writers counted a nine-tailed fox from Qingqiu among the auspicious signs. In today's fantasy fiction, film, and television, 'Qingqiu' has become shorthand for the homeland of fox spirits, making this perhaps the most frequently borrowed place-name in the entire book."
+  },
+  "domains": {
+    "zh": ["名山", "九尾狐故乡", "物产"],
+    "en": ["Famous Mountains", "Home of the Nine-Tailed Fox", "Natural Riches"]
+  },
+  "traits": [
+    { "label": { "zh": "物产", "en": "Riches" }, "value": { "zh": "山南多玉，山北多青雘", "en": "Jade to the south, green pigment to the north" } },
+    { "label": { "zh": "水系", "en": "Waters" }, "value": { "zh": "英水，南流注于即翼之泽", "en": "The Ying River, flowing south to the Marsh of Jiyi" } },
+    { "label": { "zh": "住客", "en": "Tenants" }, "value": { "zh": "九尾狐、灌灌、赤鱬", "en": "The nine-tailed fox, the guanguan, the chiru" } }
+  ],
+  "related": ["jiu-wei-hu", "guan-guan", "chi-ru", "nanshan-shen"],
+  "sources": [
+    { "zh": "《山海经·南山经》", "en": "Shanhaijing, 'Classic of the Southern Mountains'" },
+    { "zh": "《山海经·海外东经》", "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: East'" }
+  ],
+  "volume": { "zh": "南山经", "en": "Classic of the Southern Mountains" },
+  "image": null
+}

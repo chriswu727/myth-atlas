@@ -1,0 +1,46 @@
+{
+  "id": "sugisawa-village",
+  "tradition": "kaidan",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "杉泽村",
+    "en": "Sugisawa Village",
+    "original": "杉沢村",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "从地图上被抹去的灭村之地", "en": "The massacre village erased from the map" },
+  "summary": {
+    "zh": "传说青森山中有个杉泽村：昭和初年一名发狂的村民杀光全村，村子从地图和公文中被抹除。入口立着髑髅状的岩石与警告牌。2000年电视节目使其全国闻名。",
+    "en": "In the mountains of Aomori, the story goes, a villager went mad in the early Showa years and slaughtered Sugisawa entire; the village was struck from maps and records. A TV feature in 2000 made it famous nationwide."
+  },
+  "description": {
+    "zh": "杉泽村传说的要素相当完整：昭和初年，青森县山中一个叫杉泽的小村，一名村民突然发狂，一夜之间杀死全村人后自杀。村子从此荒废，因为「无人居住的村落有碍观瞻」，行政上被并入邻村，地名从地图、地籍与公文书中抹除。据说村子的入口至今还在：一块形似髑髅的岩石，旁边立着木牌——「由此前行者，性命不保」。找到并进入村子的人会失踪；有探险者声称在废屋里看到大量白骨，逃出后精神失常。\n\n传说在1990年代末的个人网站与BBS间流传，2000年8月富士电视台《奇迹体验！难以置信》（奇跡体験！アンビリバボー）以「地图上不存在的村庄」为题播出特辑，节目播出后青森县政府接到大量问询电话，寻村的探险者涌入山区，杉泽村一跃成为全国性话题。青森市郊外的小杉集落等地常被比定为「原型」，但青森县明确否认存在这样的灭村记录——传说内容与可考事实之间的落差本身成了话题的一部分。\n\n杉泽村是「犬鸣村」型隐匿村落怪谈在东北的镜像，两者共享同一套语法：被行政抹除的地名、立牌的入口、有去无回的探访者。它也常被视为2ch时代「异界探访」类创作的先声——在网络怪谈里，「地图上没有的地方」是比任何妖怪都持久的主角。",
+    "en": "The Sugisawa legend arrives fully furnished. In the early Showa years, in a small mountain village of Aomori prefecture called Sugisawa, one villager went suddenly mad, killed every other inhabitant in a night, and took his own life. The village lay abandoned, was administratively merged into a neighbor, and its name was struck from maps, land registers, and public documents. The entrance is said to survive: a rock shaped like a skull beside a wooden sign reading, 'Those who go beyond this point forfeit their lives.' Explorers who find the village disappear; one account has a party seeing heaps of bones in a ruined house, the survivors losing their minds.\n\nThe story circulated on personal websites and BBS boards in the late 1990s, and in August 2000 Fuji TV's variety program Unbelievable aired a feature on 'the village not on the map.' Aomori's prefectural offices fielded waves of inquiries, legend-trippers poured into the hills, and Sugisawa became a national byword. Hamlets outside Aomori city are regularly proposed as the original, but the prefecture has stated plainly that no record of such a massacre exists, and the gap between tale and record became part of the tale.\n\nSugisawa is the northern mirror of the Inunaki type of hidden-village legend, sharing its grammar: a name erased by officialdom, a signposted threshold, visitors who do not come back. It is also read as a forerunner of the 'otherworld expedition' genre of 2channel-era horror, in which the most durable monster is a place that maps refuse to show."
+  },
+  "domains": {
+    "zh": ["隐匿村落", "灭村传说", "禁地", "电视流言"],
+    "en": ["Hidden villages", "Massacre legends", "Forbidden places", "TV-borne rumor"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "入口标志", "en": "Threshold markers" },
+      "value": { "zh": "髑髅状岩石与警告木牌", "en": "A skull-shaped rock and a wooden warning sign" }
+    },
+    {
+      "label": { "zh": "全国化契机", "en": "Breakout moment" },
+      "value": { "zh": "2000年8月富士电视台特辑", "en": "Fuji TV feature, August 2000" }
+    },
+    {
+      "label": { "zh": "官方口径", "en": "Official record" },
+      "value": { "zh": "青森县否认存在灭村记录", "en": "Aomori prefecture denies any such record" }
+    }
+  ],
+  "related": ["inunaki-village", "kisaragi-station"],
+  "sources": [
+    { "zh": "1990年代末日本网络BBS与个人网站流传", "en": "Late-1990s Japanese BBS and personal-website lore" },
+    { "zh": "富士电视台《奇迹体验！难以置信》特辑（2000年8月）", "en": "Fuji TV, Kiseki Taiken! Unbelievable feature (August 2000)" }
+  ],
+  "geo": { "lat": 40.82, "lon": 140.75, "label": { "zh": "青森县青森市近郊山地（传说所在）", "en": "Mountains near Aomori city (legendary location)" } },
+  "image": null
+}

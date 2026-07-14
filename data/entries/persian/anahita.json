@@ -1,0 +1,102 @@
+{
+  "id": "anahita",
+  "tradition": "persian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "阿纳希塔",
+    "en": "Anahita",
+    "original": "Arədvī Sūrā Anāhitā",
+    "originalLang": "阿维斯陀语"
+  },
+  "title": {
+    "zh": "众水之女神",
+    "en": "Goddess of the Waters"
+  },
+  "summary": {
+    "zh": "司掌江河与丰饶的女神，全名\"湿润、强大、无垢者\"。她驾四马战车自神山泻入世界之海，英雄与暴君都曾向她献祭祈求胜利。",
+    "en": "Goddess of rivers and fertility, \"the moist, the strong, the immaculate.\" She pours from the divine mountain into the world sea; heroes and tyrants alike offered her sacrifice for victory."
+  },
+  "description": {
+    "zh": "阿纳希塔全名阿列德维·苏拉·阿纳希塔，意为\"湿润、强大、无垢者\"，是琐罗亚斯德教的众水女神，司掌河流、生育与繁盛。《阿维斯陀》第5亚什特《阿邦·亚什特》整篇献给她，描写细致入微：她是健美的少女，束高腰带，身披三十张海狸皮制成的闪光斗篷，头戴缀有一百颗星、张着八道光芒的金冠，耳饰与项圈皆为黄金；她的神河从胡卡里亚峰顶泻下，注入世界之海沃鲁卡沙，水量抵得上大地全部河流的总和。她的战车由四匹马牵引——风、雨、云与雹。\n\n《阿邦·亚什特》罗列了向她献祭的求告者名单：义人如伊玛与特拉埃塔奥纳（后世的贾姆希德与费里顿）祈求她赐胜，得偿所愿；三头巨蛇阿日·达哈卡献上百马千牛万羊，求她让大地空无人烟，被断然拒绝。这份名单本身就是一部微缩的波斯英雄谱。阿契美尼德王朝后期她的地位急升，阿尔塔薛西斯二世（公元前404-前358年在位）在铭文中将她与阿胡拉·马兹达、密特拉并列，古典作家记载他在各大城市为她立像。萨珊王朝奉她为王室守护神，开国君主阿尔达希尔一世的家族世代担任伊什塔赫尔的阿纳希德圣火祠祭司，今伊朗克尔曼沙阿省坎加瓦尔的巨石台基遗址长期被认为与她的神庙有关。",
+    "en": "Anahita, in full Aredvi Sura Anahita, \"the moist, the strong, the immaculate,\" is the Zoroastrian goddess of the waters, of fertility and increase. The fifth Yasht of the Avesta, the Aban Yasht, is devoted entirely to her and dresses her in exact detail: a strong fair maiden, high-girdled, wearing a gleaming mantle of thirty beaver skins and a golden crown set with a hundred stars and eight rays, with earrings and a necklace of gold. Her river falls from the peak of Hukairya into the world sea Vourukasha, equal in volume to all the rivers of the earth together, and her chariot is drawn by four horses: wind, rain, cloud, and sleet.\n\nThe Aban Yasht catalogues her petitioners, a miniature roll of Persian legend: righteous men such as Yima and Thraetaona — the later Jamshid and Fereydun — sacrifice to her and are granted victory, while the three-headed dragon Azhi Dahaka offers a hundred horses, a thousand oxen, and ten thousand sheep, praying to empty the earth of men, and is refused. Her standing rose sharply in the late Achaemenid period: Artaxerxes II (r. 404-358 BCE) names her beside Ahura Mazda and Mithra in his inscriptions, and classical authors record that he set up her statues in the great cities of the empire. The Sasanians made her a patron of kingship; the family of Ardashir I, founder of the dynasty, served as hereditary priests of the Anahid fire temple at Istakhr, and the great stone platform at Kangavar in western Iran has long been associated with her worship."
+  },
+  "domains": {
+    "zh": [
+      "江河众水",
+      "丰饶生育",
+      "胜利",
+      "王权庇护"
+    ],
+    "en": [
+      "Rivers and waters",
+      "Fertility",
+      "Victory",
+      "Royal patronage"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "衣冠",
+        "en": "Attire"
+      },
+      "value": {
+        "zh": "海狸皮斗篷、八芒百星金冠",
+        "en": "Beaver-skin mantle; gold crown of eight rays and a hundred stars"
+      }
+    },
+    {
+      "label": {
+        "zh": "战车",
+        "en": "Chariot"
+      },
+      "value": {
+        "zh": "风、雨、云、雹四马",
+        "en": "Four horses: wind, rain, cloud, sleet"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要祭祀地",
+        "en": "Cult centers"
+      },
+      "value": {
+        "zh": "伊什塔赫尔圣火祠、坎加瓦尔台基",
+        "en": "Istakhr fire temple; Kangavar platform"
+      }
+    }
+  ],
+  "related": [
+    "ahura-mazda",
+    "mithra",
+    "azhi-dahaka"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·阿邦·亚什特》（第5亚什特）",
+      "en": "Avesta, Aban Yasht (Yasht 5)"
+    },
+    {
+      "zh": "阿尔塔薛西斯二世铭文",
+      "en": "Inscriptions of Artaxerxes II"
+    }
+  ],
+  "geo": {
+    "lat": 34.5043,
+    "lon": 47.9653,
+    "label": {
+      "zh": "坎加瓦尔遗址（伊朗）",
+      "en": "Kangavar site, Iran"
+    }
+  },
+  "image": {
+    "file": "/images/entries/anahita.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anahita_Vessel,_300-500_AD,_Sasanian,_Iran,_silver_and_gilt_-_Cleveland_Museum_of_Art_-_DSC08130.JPG",
+    "sourceTitle": "Anahita Vessel, 300-500 AD, Sasanian, Iran, silver and gilt - Cleveland Museum of Art - DSC08130",
+    "artist": "Daderot",
+    "license": "CC0",
+    "width": 750,
+    "height": 1000
+  }
+}

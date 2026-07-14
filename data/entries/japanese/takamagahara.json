@@ -1,0 +1,105 @@
+{
+  "id": "takamagahara",
+  "tradition": "japanese",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "高天原",
+    "en": "Takamagahara",
+    "original": "高天原（たかまがはら）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "天津神居住的天上世界",
+    "en": "The Plain of High Heaven"
+  },
+  "summary": {
+    "zh": "记纪神话中天津神居住的天上世界，由天照大神统治。诸神在天安河原集议大事，天孙迩迩艺命自此降临苇原中国。",
+    "en": "The celestial realm of the heavenly gods in the eighth-century chronicles, ruled by Amaterasu; the gods held council on the bed of the Tranquil River of Heaven, and Ninigi descended from here to earth."
+  },
+  "description": {
+    "zh": "记纪神话把世界分为三层：天上的高天原、地上的苇原中国、地下的黄泉与根之国。高天原是天津神的居所，《古事记》开篇的天之御中主神等别天神即成于此。这里的图景颇似人间的放大：有天照大神经营的神田，有织造神衣的忌服屋，有天安河，干涸的河原是八百万神集会议事的场所；天浮桥连接天地，天岩户的洞窟也在此间。\n\n高天原是神代卷前半几乎所有大事的舞台：须佐之男升天时群山震动，天照全副武装相迎；姐弟隔天安河立誓生子；天岩户闭合，天地俱暗；此后众神又在河原上反复集议如何平定地上的苇原中国，先后派出天菩比神、天若日子，最终由建御雷神迫使大国主让国。收束这一切的是天孙降临——天照之孙迩迩艺命受命携三种神器，率五伴绪诸神拨开天之八重云，降落在日向的高千穗峰，神话的重心从此移到地上。\n\n高天原究竟在哪里，从近世起争论不休。江户国学家本居宣长在《古事记传》中主张它就是实在的天界，不必求诸人间；而各地的比定传承自成一格：宫崎县高千穗与雾岛的高千穗峰争天孙降临之地，奈良县御所市的葛城高天一带有高天彦神社，自古被附会为高天原故地。",
+    "en": "The eighth-century chronicles divide the cosmos into three tiers: Takamagahara, the Plain of High Heaven above; Ashihara-no-Nakatsukuni, the Central Land of Reed Plains, on earth; and Yomi and the Root Land below. Takamagahara is the seat of the heavenly gods, where the primordial deities of the Kojiki's opening lines came into being. Its landscape mirrors a magnified countryside: the rice fields tended by Amaterasu, the sacred weaving hall, and the dry bed of the Ame-no-Yasukawa, the Tranquil River of Heaven, where the eight million gods gathered in council. The Floating Bridge of Heaven linked it to the world below, and the Rock Cave of Heaven lay within its bounds.\n\nNearly every great event of the first age plays out here: Susanoo's thunderous ascent and Amaterasu meeting him armed for war, the vow-contest across the river, the darkness of the Rock Cave, and the long deliberations over subduing the land below, ending when the thunder god Takemikazuchi forced Okuninushi to cede it. The account closes with the heavenly descent, Ninigi parting the eightfold clouds to alight on the peak of Takachiho in Hyuga, bearing the three regalia.\n\nWhere Takamagahara might be has been argued since early modern times. The scholar Motoori Norinaga insisted in his Kojikiden that it was literally heaven and no place on earth, while local traditions claim it anyway: Takachiho in Miyazaki and the Kirishima peak dispute the descent, and the Katsuragi highlands of Nara keep a shrine, Takamahiko Jinja, on ground long identified with the heavenly plain."
+  },
+  "domains": {
+    "zh": [
+      "天界",
+      "众神集议",
+      "天孙降临"
+    ],
+    "en": [
+      "The heavens",
+      "Divine council",
+      "The heavenly descent"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "统治者",
+        "en": "Ruler"
+      },
+      "value": {
+        "zh": "天照大神",
+        "en": "Amaterasu"
+      }
+    },
+    {
+      "label": {
+        "zh": "集会地",
+        "en": "Council ground"
+      },
+      "value": {
+        "zh": "天安河原",
+        "en": "The bed of the Ame-no-Yasukawa river"
+      }
+    },
+    {
+      "label": {
+        "zh": "通往地上",
+        "en": "Link to earth"
+      },
+      "value": {
+        "zh": "天浮桥",
+        "en": "The Floating Bridge of Heaven"
+      }
+    }
+  ],
+  "related": [
+    "amaterasu",
+    "susanoo",
+    "ama-no-iwato",
+    "izanagi"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    },
+    {
+      "zh": "本居宣长《古事记传》（1798年成书）",
+      "en": "Motoori Norinaga, Kojikiden (completed 1798)"
+    }
+  ],
+  "geo": {
+    "lat": 32.71,
+    "lon": 131.31,
+    "label": {
+      "zh": "高千穗（宫崎县，天孙降临传承地）",
+      "en": "Takachiho (Miyazaki, traditional site of the heavenly descent)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/takamagahara.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%A0%88%E4%BD%90%E4%B9%8B%E7%94%B7%E5%91%BD%E3%81%AE%E4%B9%B1%E6%9A%B4_-_Susanoo%27s_Rampage.jpg",
+    "sourceTitle": "須佐之男命の乱暴 - Susanoo's Rampage",
+    "artist": "Hagino Yoshiyuki (萩野由之, 1860-1924)",
+    "license": "Public domain",
+    "width": 705,
+    "height": 1000
+  }
+}

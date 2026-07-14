@@ -1,0 +1,100 @@
+{
+  "id": "lemuria",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "雷姆利亚",
+    "en": "Lemuria"
+  },
+  "title": {
+    "zh": "为解释狐猴分布而假设的沉没陆桥",
+    "en": "The sunken land bridge invented to explain lemurs"
+  },
+  "summary": {
+    "zh": "1864年动物学家斯克莱特为解释狐猴分布假设的印度洋陆桥，被神智学改写成\"第三根源种族\"的沉没故乡，又衍生出沙斯塔山地底遗民传说。",
+    "en": "An Indian Ocean land bridge proposed by zoologist Philip Sclater in 1864, recast by Theosophy as the sunken home of the Third Root Race and later tied to Mount Shasta lore."
+  },
+  "description": {
+    "zh": "雷姆利亚起点是一篇正经的科学论文。1864年，英国动物学家菲利普·斯克莱特在《马达加斯加的哺乳动物》一文中提出：狐猴类动物见于马达加斯加与印度、却不见于非洲大陆和中东，或可用一块横跨印度洋、后来沉没的大陆解释，他以狐猴（lemur）为之命名\"Lemuria\"。恩斯特·海克尔进一步猜想它可能是人类的摇篮。这一假说在板块构造学与大陆漂移理论确立后即被科学界抛弃——狐猴分布用冈瓦纳古陆的分裂即可解释。\n\n让雷姆利亚不死的是神秘学。布拉瓦茨基夫人在《秘密教义》（1888）中把它写成\"第三根源种族\"的家园：身高数米、卵生、额间有第三只眼的雌雄同体巨人在此繁衍，大陆毁灭后其血脉延续为后世人类。二十世纪初，弗雷德里克·斯宾塞·奥利弗的通灵小说《两个星球上的居民》（1905年出版）又把雷姆利亚遗民安置到加利福尼亚的沙斯塔山中，衍生出白袍遗民出没山间小镇的都市传说，至今仍是该地新纪元运动的核心意象。\n\n在南印度，二十世纪泰米尔学者将雷姆利亚与本土文献中被海洋吞没的故土传说相缀合，称之为\"库马里坎达姆\"，用以论证泰米尔文明的古老；这一叙事至今活跃于泰米尔民族主义论述中。",
+    "en": "Lemuria began as sober science. In an 1864 paper, The Mammals of Madagascar, the English zoologist Philip Sclater noted that lemurs occur in Madagascar and India but not on the African mainland or in the Middle East, and proposed a since-sunken continent spanning the Indian Ocean to explain it, naming it after the lemurs. Ernst Haeckel went further and suggested it might be the cradle of mankind. Once continental drift and plate tectonics were established, science dropped the hypothesis: the breakup of Gondwana explains the distribution.\n\nEsoterica kept Lemuria alive. In The Secret Doctrine (1888) Helena Blavatsky made it the home of the Third Root Race, egg-laying hermaphrodite giants several metres tall with a third eye in the forehead, whose lineage survived the continent's destruction. In the early twentieth century Frederick Spencer Oliver's channelled novel A Dweller on Two Planets (published 1905) relocated Lemurian survivors to Mount Shasta in California, spawning tales of white-robed strangers slipping into mountain towns; the mountain remains a centre of New Age pilgrimage.\n\nIn South India, twentieth-century Tamil writers fused Lemuria with older literary traditions of a homeland swallowed by the sea, naming it Kumari Kandam and citing it as proof of the antiquity of Tamil civilization, a narrative still current in Tamil nationalist discourse."
+  },
+  "domains": {
+    "zh": [
+      "沉没大陆",
+      "印度洋",
+      "神智学",
+      "科学史"
+    ],
+    "en": [
+      "Sunken continent",
+      "Indian Ocean",
+      "Theosophy",
+      "History of science"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早提出",
+        "en": "First proposed"
+      },
+      "value": {
+        "zh": "菲利普·斯克莱特《马达加斯加的哺乳动物》（1864）",
+        "en": "Philip Sclater, The Mammals of Madagascar (1864)"
+      }
+    },
+    {
+      "label": {
+        "zh": "神秘学改写",
+        "en": "Esoteric turn"
+      },
+      "value": {
+        "zh": "布拉瓦茨基《秘密教义》（1888）第三根源种族",
+        "en": "Blavatsky's Third Root Race, The Secret Doctrine (1888)"
+      }
+    },
+    {
+      "label": {
+        "zh": "现代圣地",
+        "en": "Modern locus"
+      },
+      "value": {
+        "zh": "加利福尼亚沙斯塔山",
+        "en": "Mount Shasta, California"
+      }
+    }
+  ],
+  "related": [
+    "mu",
+    "atlantis",
+    "hyperborea"
+  ],
+  "sources": [
+    {
+      "zh": "菲利普·斯克莱特《马达加斯加的哺乳动物》，《科学季刊》（1864）",
+      "en": "Philip Sclater, \"The Mammals of Madagascar\", The Quarterly Journal of Science (1864)"
+    },
+    {
+      "zh": "海伦娜·布拉瓦茨基《秘密教义》（1888）",
+      "en": "Helena Blavatsky, The Secret Doctrine (1888)"
+    }
+  ],
+  "geo": {
+    "lat": -15,
+    "lon": 70,
+    "label": {
+      "zh": "印度洋中部（斯克莱特假设方位）",
+      "en": "Central Indian Ocean, per Sclater's hypothesis"
+    }
+  },
+  "image": {
+    "file": "/images/entries/lemuria.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Lemuria.jpg",
+    "sourceTitle": "Map of Lemuria",
+    "artist": "William Scott-Elliott (d 1930)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 842
+  }
+}

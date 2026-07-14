@@ -1,0 +1,95 @@
+{
+  "id": "wen-yao-yu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "文鳐鱼",
+    "en": "Wenyao Fish"
+  },
+  "title": {
+    "zh": "夜飞西海的丰年之鱼",
+    "en": "Night-flying Fish that Heralds Bumper Harvests"
+  },
+  "summary": {
+    "zh": "观水中的飞鱼，鲤身鸟翼，苍纹白首赤喙，夜里从西海飞往东海；它一现身，天下就要大丰收。",
+    "en": "A flying fish of the River Guan with a carp's body and bird's wings, white-headed and red-beaked, that flies by night from the western sea to the eastern; its appearance heralds a great harvest."
+  },
+  "description": {
+    "zh": "泰器之山，观水从这里发源，西流注于流沙。水中多文鳐鱼：“状如鲤鱼，鱼身而鸟翼，苍文而白首赤喙，常行西海，游于东海，以夜飞。”鲤鱼的身子生着鸟的翅膀，青色斑纹，白头赤喙，栖于西海而游于东海，总在夜间飞行。经文又记“其音如鸾鸡，其味酸甘，食之已狂，见则天下大穰”：叫声如鸾鸡，肉味酸中带甘，吃了能治癫狂，它一出现天下就要大丰收。\n\n《山海经》的异兽大多现身即是灾殃，文鳐鱼是少见的丰年之兆，而且可吃、可入药。它很早就进入了饮食典籍：《吕氏春秋·本味》借伊尹之口历数天下至味，“鱼之美者”便有“雚水之鱼，名曰鳐，其状若鲤而有翼，常从西海夜飞，游于东海”——与猩猩之唇、獾獾之炙同列于名馔。夜里成群掠过水面的有翼之鱼，此后成为历代图本乐于描绘的场面。",
+    "en": "From Mount Taiqi the River Guan flows west into the shifting sands, and in its waters swarm the Wenyao fish: 'shaped like a carp, a fish's body with bird's wings, grey-patterned with a white head and red beak, it ranges the western sea and swims to the eastern sea, flying by night.' The classic adds that its call is like the luan-fowl, its flesh tastes sour-sweet, eating it cures madness, and 'when it appears, all under heaven enjoys a great harvest'.\n\nMost prodigies in the Shanhaijing bring calamity by appearing; the Wenyao is the rare creature whose coming promises abundance — and which can, moreover, be eaten as food and medicine. It entered the literature of cuisine early: in the 'Original Flavors' chapter of the Lüshi Chunqiu, the legendary cook Yi Yin lists among the finest fish of the world 'the fish of the Guan waters, named Yao, shaped like a carp with wings, which flies by night from the western sea to swim in the eastern sea', ranking it with such delicacies as apes' lips and badger roasts. Winged fish streaming over the water at night became a favorite scene for the classic's later illustrators."
+  },
+  "domains": {
+    "zh": [
+      "丰年之兆",
+      "飞鱼",
+      "夜飞",
+      "至味"
+    ],
+    "en": [
+      "Harvest Omen",
+      "Flying Fish",
+      "Night Flight",
+      "Legendary Delicacy"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "鲤身鸟翼，苍文白首赤喙",
+        "en": "A carp with bird's wings, grey-patterned, white-headed, red-beaked"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "常行西海，游于东海，以夜飞",
+        "en": "Flies by night between the western and eastern seas"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆验",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则天下大穰",
+        "en": "Its appearance brings a great harvest to all under heaven"
+      }
+    }
+  ],
+  "related": [
+    "fei-yi",
+    "sheng-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《吕氏春秋·本味》",
+      "en": "Lüshi Chunqiu, 'Original Flavors'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/wen-yao-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic390_-_%E6%96%87%E9%B0%A9%E9%AD%9A%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic390 - 文鰩魚圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 704,
+    "height": 1000
+  }
+}

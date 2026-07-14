@@ -1,0 +1,94 @@
+{
+  "id": "xolotl",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "修洛特尔",
+    "en": "Xolotl",
+    "original": "Xōlōtl",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "犬首神，昏星与孪生之主",
+    "en": "The Dog-Headed God, Lord of the Evening Star and Twins"
+  },
+  "summary": {
+    "zh": "犬首人身的神，羽蛇神的孪生兄弟，司昏星、孪生与畸变，夜夜护送太阳穿越冥界。为逃避献祭几度变形，最后化作水中的美西螈。",
+    "en": "Dog-headed twin of Quetzalcoatl, god of the evening star, twins, and deformity, who escorts the sun through the underworld each night. Fleeing sacrifice, he transformed last into the axolotl."
+  },
+  "description": {
+    "zh": "修洛特尔是犬首人身的神，克察尔科亚特尔的孪生兄弟：兄长是黎明的晨星，他便是坠入黑暗的昏星——金星在日落后沉向地平线的那半程。手抄本中他常被画成狗头反折、眼窝空洞、耳朵破碎的模样，佩戴与兄长同款的截半海螺胸饰。\"修洛特尔\"在纳瓦特尔语里兼有\"狗\"与\"畸变、双生\"之意，孪生子、双穗玉米、双茎龙舌兰皆归他掌管；他也是球赛的守护神之一。作为狗形的引路者，他夜夜伴随太阳穿过米克特兰的黑暗，护送它在东方重生。\n\n《佛罗伦萨手抄本》第七卷记载了他最著名的故事：第五太阳在特奥蒂瓦坎点燃后悬在天边不肯移动，索求众神之血；诸神依次就死，唯独修洛特尔哭泣奔逃——他哭到双眼脱出眼窝。他先钻进田里化作双茎玉米\"修洛特\"，再化作双茎龙舌兰\"梅修洛特\"，最后跳入水中变成\"阿修洛特\"，却仍被执刑的风神埃埃卡特尔捉住杀死，太阳这才开始运行。\n\n墨西哥湖泊中那种终生保持幼态、能再生断肢的有尾两栖类至今沿用他的名字——axolotl（美西螈），西班牙语作 ajolote；无毛的墨西哥犬 xoloitzcuintli 同样得名于他，古人以这种狗陪葬，引亡魂渡过冥河。",
+    "en": "Xolotl is a dog-headed god, twin brother of Quetzalcoatl: where the elder twin is Venus rising as the morning star, Xolotl is Venus sinking after sunset, the evening star that falls into the dark. The codices draw him with a canine head, hollow or fallen eyes, and ragged ears, wearing the same cut-conch pectoral as his brother. In Nahuatl his name carries the senses of both dog and of doubling or malformation, so twins, double ears of maize, and double-stalked maguey all belonged to him, and he stood among the patrons of the ballgame. In dog form he escorts the sun through Mictlan every night and sees it reborn in the east.\n\nBook 7 of the Florentine Codex preserves his most famous story. When the Fifth Sun was kindled at Teotihuacan it hung motionless on the horizon, demanding the blood of the gods. One by one they submitted to death, but Xolotl wept until his eyes dropped from their sockets and fled. He hid in a field as a double maize stalk, the xolotl; then as a double maguey, the mexolotl; at last he leapt into the water as the axolotl. There the executioner, the wind god Ehecatl, caught and killed him, and only then did the sun begin to move.\n\nHis name survives in the axolotl — ajolote in Mexican Spanish — the neotenic salamander of the Mexican lakes that never outgrows its larval form and regrows lost limbs, and in the xoloitzcuintli, the Mexican hairless dog, buried with the dead in ancient times to guide souls across the river of the underworld."
+  },
+  "domains": {
+    "zh": [
+      "昏星",
+      "孪生",
+      "变形",
+      "引渡亡魂"
+    ],
+    "en": [
+      "Evening star",
+      "Twins",
+      "Transformation",
+      "Guiding the dead"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "孪生兄弟",
+        "en": "Twin"
+      },
+      "value": {
+        "zh": "克察尔科亚特尔",
+        "en": "Quetzalcoatl"
+      }
+    },
+    {
+      "label": {
+        "zh": "变形序列",
+        "en": "Transformations"
+      },
+      "value": {
+        "zh": "双茎玉米、双茎龙舌兰、美西螈",
+        "en": "Double maize, double maguey, axolotl"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗名",
+        "en": "Namesakes"
+      },
+      "value": {
+        "zh": "美西螈、墨西哥无毛犬",
+        "en": "The axolotl and the xoloitzcuintli dog"
+      }
+    }
+  ],
+  "related": [
+    "quetzalcoatl",
+    "mictlantecuhtli",
+    "five-suns"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第七卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Book 7"
+    },
+    {
+      "zh": "《博尔吉亚手抄本》",
+      "en": "Codex Borgia"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/xolotl.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xolotl_from_Codex_Borgia.jpg",
+    "sourceTitle": "Xolotl from Codex Borgia",
+    "artist": "Aztec artist",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 947
+  }
+}

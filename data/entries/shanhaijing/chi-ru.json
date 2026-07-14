@@ -1,0 +1,94 @@
+{
+  "id": "chi-ru",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "赤鱬",
+    "en": "Chiru"
+  },
+  "title": {
+    "zh": "英水中人面鱼身的怪鱼",
+    "en": "Human-Faced Fish of the Ying River"
+  },
+  "summary": {
+    "zh": "青丘山英水中的人面鱼，通体是鱼，面孔似人，叫声像鸳鸯；吃它的肉可以不生疥疮。",
+    "en": "A fish of the Ying River on Mount Qingqiu, wholly fish-bodied but with a human face and a call like a mandarin duck; eating it was said to prevent scabies."
+  },
+  "description": {
+    "zh": "英水发源于青丘之山，向南流入即翼之泽，水中多赤鱬。《南山经》说它\"其状如鱼而人面，其音如鸳鸯，食之不疥\"。它是一条长着人脸的鱼，名字里的\"赤\"暗示体色发红，叫声却温软如鸳鸯；功效很实在——吃了不生疥疮。它与九尾狐、灌灌同住青丘一山，一山之中兽、鸟、鱼各占一席。\n\n人面鱼在《山海经》里自成谱系：《海内北经》的陵鱼\"人面，手足，鱼身\"，《海内南经》的氐人国之民人面鱼身而无足，《北山经》龙侯山的人鱼\"如䱱鱼，四足\"。赤鱬是这一谱系在南方水系的代表。讨论这类形象时，人们也常把西安半坡出土的人面鱼纹彩陶盆放在一旁对照——那是远早于此书成书的图像，却与经文里的人面鱼遥相呼应。后世中国式\"人鱼\"故事的种种源头里，总有赤鱬的一席。",
+    "en": "The Ying River rises on Mount Qingqiu and runs south into the Marsh of Jiyi, and in its waters swarm the chiru. The Classic of the Southern Mountains describes a creature shaped entirely like a fish but wearing a human face, its call like the soft cry of a mandarin duck; the 'chi' of its name suggests a reddish body. The prescribed benefit is bluntly practical: eat it and you will not suffer scabies. It shares Mount Qingqiu with the nine-tailed fox and the guanguan bird, the mountain fielding one marvel each for beast, bird, and fish.\n\nHuman-faced fish form a family of their own in the Shanhaijing: the lingyu of the northern seaboard has a man's face with hands and feet on a fish's body, the people of the Land of Diren are fish-bodied and legless, and the northern mountains hold four-legged 'man-fish'. The chiru is the southern representative of the line. Discussions of the motif often set beside it the human-face-and-fish painted basin unearthed at Banpo near Xi'an — an image millennia older than the book, yet uncannily close to its text — and among the sources of later Chinese mermaid lore the chiru keeps a firm place."
+  },
+  "domains": {
+    "zh": [
+      "人面鱼",
+      "水族",
+      "医药"
+    ],
+    "en": [
+      "Human-Faced Fish",
+      "Water Creatures",
+      "Healing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "青丘山英水、即翼之泽",
+        "en": "The Ying River and Marsh of Jiyi, Mount Qingqiu"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如鸳鸯",
+        "en": "Like a mandarin duck"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食之不生疥疮",
+        "en": "Eating it prevents scabies"
+      }
+    }
+  ],
+  "related": [
+    "qingqiu-shan",
+    "jiu-wei-hu",
+    "guan-guan"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "《山海经·海内北经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: North'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/chi-ru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol6a-chiru.jpg",
+    "sourceTitle": "Shahaijing-chongzhen(1628–1644)-nanshanjing1-fol6a-chiru",
+    "artist": "Jiang Yinghao 蔣應鎬 (illustr.); Li Wenxiao 李文孝 (engr.)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 785
+  }
+}

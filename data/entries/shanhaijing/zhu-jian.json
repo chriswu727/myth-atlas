@@ -1,0 +1,82 @@
+{
+  "id": "zhu-jian",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "诸犍",
+    "en": "Zhujian"
+  },
+  "title": {
+    "zh": "行则衔尾的独目人面豹",
+    "en": "The One-Eyed, Human-Faced Leopard That Carries Its Own Tail"
+  },
+  "summary": {
+    "zh": "单张之山的怪兽：豹身长尾，人首牛耳，只有一只眼，吼声洪亮；走路时用嘴衔着尾巴，卧下时把尾巴盘起来。",
+    "en": "A beast of Danzhang Mountain: leopard's body with a long tail, human head, ox ears, a single eye, and a booming roar. It walks with its tail in its mouth and coils it up when it rests."
+  },
+  "description": {
+    "zh": "北山经首篇的单张之山，山上不生草木。山中之兽名诸犍：身形像豹，拖一条极长的尾巴，长着人的脑袋、牛的耳朵，脸上只有一只眼睛。经文说它“善吒”——擅长怒吼，声音洪亮慑人。\n\n最传神的是关于那条尾巴的两句：“行则衔其尾，居则蟠其尾。”尾巴长到拖地碍事，于是它走路时用嘴衔着，停下歇息时就把尾巴一圈圈盘起来。《山海经》写怪兽多止于罗列器官，像这样落到行为习性、近乎生活细节的笔墨并不多见，诸犍因此在历代《山海经》图本中形象格外稳定：明清刊本的插图里，它几乎总被画成回首衔尾的姿态。\n\n经文没有说它吃人，也没有把它系于任何灾祥之兆，在北山经密集的凶兽名单里，诸犍是少数只是“长得奇怪、叫得响亮”的存在。同一座单张之山上还记有白鵺，一种花脑袋、白翅膀、黄脚的雉鸟，据说吃了能治咽喉痛。",
+    "en": "Danzhang Mountain, in the first guideway of the Northern Mountains, is bare of plants and trees. Its beast is the zhujian: the body of a leopard trailing an exceptionally long tail, with a human head, the ears of an ox, and a single eye in its face. The text notes that it is 'good at roaring' — its cry is loud and intimidating.\n\nThe most vivid detail concerns the tail: 'when it walks it carries its tail in its mouth; when it settles it coils its tail up.' The appendage is evidently long enough to drag and tangle, so the animal manages it the way a traveller manages a rope. Entries in the classic usually stop at an inventory of body parts; a note on habit and behaviour like this is rare, and it fixed the creature's image for later illustrators — in Ming and Qing woodblock editions the zhujian is almost always drawn glancing back with its tail in its teeth.\n\nThe text does not call it a man-eater, nor does it attach any omen to its appearance. Among the crowded roster of northern horrors, the zhujian is one of the few beasts that is merely strange to look at and loud to hear. The same mountain also hosts the baiye, a pheasant-like bird with a patterned head, white wings, and yellow feet, whose flesh was said to cure a sore throat."
+  },
+  "domains": {
+    "zh": [
+      "独目",
+      "人面兽",
+      "异形",
+      "北山"
+    ],
+    "en": [
+      "One-Eyed",
+      "Human-Faced Beasts",
+      "Chimeras",
+      "Northern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "豹身长尾，人首牛耳，独目",
+        "en": "Leopard's body, long tail, human head, ox ears, one eye"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habits"
+      },
+      "value": {
+        "zh": "行则衔尾，居则蟠尾，善怒吼",
+        "en": "Carries its tail when walking, coils it at rest, roars mightily"
+      }
+    }
+  ],
+  "related": [
+    "meng-huai",
+    "er-shu",
+    "du-gu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（单张之山）",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Danzhang Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/zhu-jian.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic264_-_%E8%AB%B8%E7%8A%8D%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic264 - 諸犍圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 682,
+    "height": 1000
+  }
+}

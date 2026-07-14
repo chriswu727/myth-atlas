@@ -1,0 +1,93 @@
+{
+  "id": "samsin-halmoni",
+  "tradition": "korean",
+  "type": "deity",
+  "era": "folk",
+  "name": {
+    "zh": "三神奶奶",
+    "en": "Samsin Halmoni",
+    "original": "삼신할머니（三神）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "司掌生育的产神奶奶",
+    "en": "Grandmother Goddess of Childbirth"
+  },
+  "summary": {
+    "zh": "司掌怀胎、接生与幼儿平安的奶奶神，住在产房里受一碗白饭一碗海带汤的供奉；婴儿屁股上的青记，民间说是她催生时拍出的手印。",
+    "en": "The grandmother goddess of conception, safe delivery, and small children, honored with rice and seaweed soup in the birthing room; the blue spot on a newborn's bottom is said to be her hurrying slap."
+  },
+  "description": {
+    "zh": "三神奶奶掌管从求子、怀胎、接生到孩子七岁前平安的一切事务。她没有庙宇，就住在各家的内室：产妇临盆时家里设三神床，供上白饭、海带汤和清水；孩子落地后头三个七日（三七日）门口拉禁绳、日日供三神。产后与此后每年生日先喝一碗海带汤的习俗，至今仍是韩国人日常生活的一部分。新生儿骶尾的青色胎记，民间解作三神奶奶拍着婴儿屁股催他出世时留下的手印。\n\n她的来历由叙事巫歌《帝释本解》（당금애기）讲述，从咸镜道到庆尚道传唱着几十种异本。大意是：名门独女당금애기在家人尽数外出时，来了一位化缘的僧人，她因此有孕——有的版本说是吃下僧人给的三粒米。家人归来后视之为奇耻，把她关进后园石窟，她在窟中产下三胞胎男婴。孩子长大后追问生父，母子寻到僧人，僧人验明血脉，封三个儿子为帝释神，封당금애기为三神，从此专管人间生育。\n\n济州岛另有一套《三乘奶奶本解》：명진국家的女儿与东海龙王的女儿比赛养花，看谁配做产神，명진국따님的花开得繁盛，成为삼승할망；落败的一位成为저승할망，专门带走夭折的孩子。司生的产神与司夭的冥界奶奶在济州巫歌里被安排成一对彼此较劲的女神，生育的凶险由此有了神话的解释。",
+    "en": "Samsin Halmoni oversees everything from conception and childbirth to a child's safety before the age of seven. She has no temple; she lives in the inner room of each house. When labor begins, a Samsin table is laid with white rice, seaweed soup, and clear water, and for the first three weeks after a birth a taboo rope hangs at the gate while daily offerings are made. The custom of the mother drinking seaweed soup after delivery, and of Koreans eating it on every birthday since, descends from these offerings. The blue Mongolian spot on a newborn's lower back is explained as the goddess's handprint, left as she slapped the baby on its way into the world.\n\nHer origin is sung in the shamanic narrative Jeseok Bon-puri, known in dozens of versions from Hamgyong to Gyeongsang. Danggeum-aegi, the only daughter of a noble house, receives an alms-begging monk while her family is away and conceives, in some versions by eating three grains of rice he gives her. Her scandalized family shuts her in a stone grotto behind the garden, where she bears triplet boys. Grown, the sons demand their father; mother and children seek out the monk, who proves their blood, makes the three boys Jeseok gods, and appoints Danggeum-aegi the Samsin, goddess of childbirth.\n\nJeju Island sings a different account, the Samseung Halmang Bon-puri, in which the daughter of Myeongjinguk and the daughter of the Dragon King of the East Sea compete at growing flowers for the office of birth goddess. The winner becomes Samseung Halmang; the loser becomes the Halmang of the otherworld, who carries off children who die young, giving the perils of birth their mythic explanation."
+  },
+  "domains": {
+    "zh": [
+      "生育",
+      "安产",
+      "育儿",
+      "家宅神"
+    ],
+    "en": [
+      "Fertility",
+      "Safe childbirth",
+      "Child-rearing",
+      "Household deity"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "供品",
+        "en": "Offerings"
+      },
+      "value": {
+        "zh": "白饭、海带汤、清水（三神床）",
+        "en": "White rice, seaweed soup, and clear water on the Samsin table"
+      }
+    },
+    {
+      "label": {
+        "zh": "来历巫歌",
+        "en": "Origin narrative"
+      },
+      "value": {
+        "zh": "《帝释本解》（당금애기）",
+        "en": "Jeseok Bon-puri (Danggeum-aegi)"
+      }
+    },
+    {
+      "label": {
+        "zh": "民俗印记",
+        "en": "Folk mark"
+      },
+      "value": {
+        "zh": "新生儿的青色胎记是她的手印",
+        "en": "The newborn's blue spot is her handprint"
+      }
+    }
+  ],
+  "related": [
+    "bari-gongju",
+    "seolmundae-halmang"
+  ],
+  "sources": [
+    {
+      "zh": "叙事巫歌《帝释本解》各地口传本，见赤松智城、秋叶隆《朝鲜巫俗研究》（1937—1938年）",
+      "en": "Oral versions of the Jeseok Bon-puri, transcribed in Akamatsu Chijo and Akiba Takashi, Studies of Korean Shamanism (1937-38)"
+    },
+    {
+      "zh": "济州巫歌《三乘奶奶本解》，见玄容骏《济州岛巫俗资料事典》（1980年）",
+      "en": "Samseung Halmang Bon-puri, in Hyeon Yong-jun, Encyclopedia of Jeju Shamanic Materials (1980)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/samsin-halmoni.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%82%AC%EC%8B%A0%EB%8B%B9_%EB%AC%B4%EC%8B%A0%EB%8F%84_%EB%B0%8F_%ED%98%84%ED%8C%90_%EC%9D%BC%EA%B4%84_-_%EC%82%BC%EB%B6%88%EC%A0%9C%EC%84%9D%EB%8F%84.jpg",
+    "sourceTitle": "사신당 무신도 및 현판 일괄 - 삼불제석도",
+    "artist": "서울특별시",
+    "license": "CC BY-SA 4.0",
+    "width": 650,
+    "height": 1000
+  }
+}

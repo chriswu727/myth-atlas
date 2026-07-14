@@ -1,0 +1,99 @@
+{
+  "id": "rainbow-serpent",
+  "tradition": "aboriginal",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "虹蛇",
+    "en": "Rainbow Serpent",
+    "original": "Ngalyod",
+    "originalLang": "库温库语（西阿纳姆地）"
+  },
+  "title": {
+    "zh": "水源与雨季的巨蛇造物者",
+    "en": "Great Serpent of Waters and the Wet Season"
+  },
+  "summary": {
+    "zh": "遍布澳洲大陆的巨蛇造物者：开凿河道、坐镇水潭、化身雨后天虹。西阿纳姆地称恩加约德，努恩加人称瓦格尔，各族叙事不同而形象相通。",
+    "en": "A vast serpent creator known across the continent: it carved rivers, guards waterholes, and arcs overhead as the rainbow. Called Ngalyod in western Arnhem Land and Wagyl by the Noongar, among many regional names."
+  },
+  "description": {
+    "zh": "“虹蛇”是人类学家拉德克利夫-布朗在1926年为遍布澳洲大陆的一类巨蛇形创世者提出的统称，各民族各有自己的名号与讲法。西阿纳姆地的比宁人称其为恩加约德（Ngalyod），东阿纳姆地约伦古人的巨蟒名尤伦古尔（Yurlungur），西南部努恩加人的瓦格尔（Wagyl）蜿蜒开出了天鹅河，中部沙漠阿南古人则讲述住在水潭深处的瓦纳姆皮（Wanampi）。各地形象细节不一：有的长着袋鼠般的头与鳄鱼般的牙，有的鬃毛垂垂、拖曳着睡莲，共同点是与水的绝对关联——它盘踞在永不干涸的深潭底，雨季挟洪水而行，雨后横跨天际的虹便是它现身。\n\n在梦创时代叙事中，虹蛇多是塑造地貌的主角：它从地下钻行而过，隆起的脊背成为山岭，爬行的轨迹成为河道，歇息之处陷落为水潭。西阿纳姆地故事里，恩加约德会吞下惊扰圣地或触犯规矩的人，再把他们呕吐成岩石与地景；约伦古人广为流传的瓦吉拉格姐妹叙事中，尤伦古尔闻到血气吞下两姐妹与婴孩，又在众蛇质问下将其吐出，这一吞一吐奠定了阿纳姆地重要仪式的公开框架。\n\n阿纳姆地岩画中的虹蛇图像经岩画学者塔松等人研究，可上溯数千年，被认为是世界上延续时间最长的宗教图像传统之一。今天虹蛇仍是澳洲原住民艺术最常见的主题，树皮画与丙烯画中反复出现，也进入了全国性的公共符号：许多社区在谈及水潭与河流时，仍会提醒来客尊重蛇所居之地。",
+    "en": "\"Rainbow Serpent\" is an umbrella term coined by the anthropologist A. R. Radcliffe-Brown in 1926 for a family of great serpent creators found across the continent, each known to its own people by its own name. The Bininj of western Arnhem Land know Ngalyod; the Yolngu of eastern Arnhem Land tell of the python Yurlungur; the Noongar of the south-west say the Wagyl carved the winding course of the Swan River; Anangu of the Central Desert speak of Wanampi coiled at the bottom of waterholes. Details differ — some serpents bear a kangaroo-like head or a mane trailing waterlilies — but all are bound to water: they dwell in permanent pools, travel with the wet-season floods, and arch across the sky as the rainbow after rain.\n\nIn Dreaming narratives the serpent is a maker of country. Tunnelling beneath the flat first earth, it raised ridges with its back, left riverbeds where it crawled, and sank waterholes where it rested. In western Arnhem Land, Ngalyod swallows those who disturb sacred places and vomits them up as rock; in the widely published Yolngu narrative of the Wagilag Sisters, Yurlungur swallows two sisters and their children and later disgorges them, a sequence that frames major public ceremony in the region.\n\nRock-art research by Paul Taçon and colleagues traces rainbow serpent imagery in Arnhem Land back thousands of years, making it one of the longest-running religious motifs known anywhere. The serpent remains the most common subject of Aboriginal painting today, and around many communities visitors are still asked to respect the waterholes where a serpent is said to live."
+  },
+  "domains": {
+    "zh": [
+      "水源",
+      "雨季",
+      "创世",
+      "彩虹"
+    ],
+    "en": [
+      "Waters",
+      "Wet season",
+      "Creation",
+      "Rainbow"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "比宁（库温库）、约伦古、努恩加、阿南古等大陆各地民族",
+        "en": "Bininj (Kunwinjku), Yolngu, Noongar, Anangu, and peoples across the continent"
+      }
+    },
+    {
+      "label": {
+        "zh": "地方名号",
+        "en": "Regional names"
+      },
+      "value": {
+        "zh": "恩加约德、尤伦古尔、瓦格尔、瓦纳姆皮",
+        "en": "Ngalyod, Yurlungur, Wagyl, Wanampi"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没之处",
+        "en": "Haunts"
+      },
+      "value": {
+        "zh": "深水潭、河流源头、雨后天虹",
+        "en": "Deep waterholes, river sources, the rainbow after rain"
+      }
+    }
+  ],
+  "related": [
+    "the-dreaming",
+    "wandjina",
+    "uluru",
+    "bunyip"
+  ],
+  "sources": [
+    {
+      "zh": "拉德克利夫-布朗《澳大利亚的虹蛇神话》，《皇家人类学会志》（1926）",
+      "en": "A. R. Radcliffe-Brown, \"The Rainbow-Serpent Myth of Australia\", Journal of the Royal Anthropological Institute (1926)"
+    },
+    {
+      "zh": "劳埃德·沃纳《一个黑人文明》（1937，约伦古口传）",
+      "en": "W. Lloyd Warner, A Black Civilization (1937, Yolngu oral tradition)"
+    },
+    {
+      "zh": "塔松、威尔逊、奇平代尔《阿纳姆地岩画中虹蛇的诞生》，《大洋洲考古》（1996）",
+      "en": "Paul Taçon, Meredith Wilson and Christopher Chippindale, \"Birth of the Rainbow Serpent in Arnhem Land rock art\", Archaeology in Oceania (1996)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/rainbow-serpent.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RainbowSerpent.jpg",
+    "sourceTitle": "RainbowSerpent",
+    "artist": "The original uploader was Digitaltribes at English Wikipedia.",
+    "license": "CC BY 2.5",
+    "width": 1000,
+    "height": 750
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "xiuhcoatl",
+  "tradition": "aztec",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "修考特尔",
+    "en": "Xiuhcoatl",
+    "original": "Xiuhcōātl",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "绿松石火蛇，战神的灭星之兵",
+    "en": "The Turquoise Fire Serpent, Weapon of the War God"
+  },
+  "summary": {
+    "zh": "名意为\"绿松石之蛇\"的火蛇，维齐洛波奇特利降生时用它斩杀月神科约尔绍基。太阳石外缘由两条首尾相衔的火蛇环抱。",
+    "en": "The Turquoise Serpent, a weapon of living fire with which the newborn Huitzilopochtli slew the moon goddess Coyolxauhqui. Two fire serpents encircle the rim of the Sun Stone."
+  },
+  "description": {
+    "zh": "修考特尔意为\"绿松石之蛇\"，也可读作\"年之蛇\"——纳瓦特尔语中 xihuitl 一词兼指绿松石、年与草。它是一条通体如燃烧宝石的火蛇：吻部上翘如角、缀着星点，脊背分节，尾端是象征年份的\"梯形与射线\"符记。它是太阳灼热的化身，也被解作坠落的流星与闪电；火神修特库特利以它为背兽，太阳神托纳蒂乌以它为驮轿，载着白昼的太阳横过天空。\n\n作为兵器，它属于战神维齐洛波奇特利。在蛇山科亚特佩克，甫一降生的战神手擎修考特尔，火光一闪便斩落月神科约尔绍基的头颅，将她的躯体抛下山坡——《佛罗伦萨手抄本》第三卷所记的这一击，是这件神兵最著名的出场。每年冬季的潘克察利斯特利祭月重演此战：祭司持火炬与纸扎的火蛇自神庙顶端疾奔而下，在广场上将其焚化，如同流星坠地。\n\n阿兹特克工匠反复雕琢这一形象：太阳石外缘由两条巨大的修考特尔环抱，蛇首在盘底相对；大英博物馆藏有一件著名的绿松石镶嵌双头蛇胸饰，波曲的蛇身贴满细小的绿松石片，常被与火蛇的形象相联系。大神庙出土的多件火蛇石雕，今与科约尔绍基圆石同列于遗址博物馆。",
+    "en": "Xiuhcoatl means Turquoise Serpent — or equally Year Serpent, for the Nahuatl word xihuitl covers turquoise, year, and grass at once. It is a serpent of living fire, scaled like burning gemstone: an upcurved, star-studded snout, a back divided into segments, and a tail ending in the trapeze-and-ray sign that marks the year. It embodies the sun's burning heat, and was read too as the falling meteor and the lightning bolt; the fire god Xiuhtecuhtli bears it on his back, and it serves as the litter that carries the sun Tonatiuh across the daytime sky.\n\nAs a weapon it belongs to Huitzilopochtli. On Coatepec, Serpent Hill, the war god seized the Xiuhcoatl in the instant of his birth and with one stroke of fire cut off the head of the moon goddess Coyolxauhqui, casting her body down the slope — the famous scene recorded in Book 3 of the Florentine Codex. Each winter the festival of Panquetzaliztli restaged the battle: a priest carrying a paper-and-pine fire serpent raced down from the temple summit and burned it in the plaza below, like a meteor striking the earth.\n\nAztec craftsmen returned to the image constantly. Two colossal Xiuhcoatl encircle the rim of the Sun Stone, their heads meeting face to face at the bottom of the disk; a celebrated double-headed serpent pectoral in the British Museum, its undulating body sheathed in tiny turquoise plates, is often linked to the fire serpent; and several fire-serpent sculptures from the Templo Mayor now stand in the site museum beside the Coyolxauhqui stone."
+  },
+  "domains": {
+    "zh": [
+      "火",
+      "太阳",
+      "闪电",
+      "神兵"
+    ],
+    "en": [
+      "Fire",
+      "Sun",
+      "Lightning",
+      "Divine weapon"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "持有者",
+        "en": "Wielders"
+      },
+      "value": {
+        "zh": "维齐洛波奇特利、修特库特利",
+        "en": "Huitzilopochtli and Xiuhtecuhtli"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名图像",
+        "en": "Famous images"
+      },
+      "value": {
+        "zh": "太阳石外缘双蛇、大英博物馆绿松石胸饰",
+        "en": "The Sun Stone rim, the British Museum turquoise mosaic"
+      }
+    },
+    {
+      "label": {
+        "zh": "祭仪",
+        "en": "Rite"
+      },
+      "value": {
+        "zh": "潘克察利斯特利祭的焚蛇",
+        "en": "The serpent burned at Panquetzaliztli"
+      }
+    }
+  ],
+  "related": [
+    "huitzilopochtli",
+    "coatlicue",
+    "five-suns",
+    "tenochtitlan"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第二、三卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Books 2–3"
+    },
+    {
+      "zh": "阿兹特克太阳石（墨西哥国立人类学博物馆藏）",
+      "en": "The Aztec Sun Stone, National Museum of Anthropology, Mexico City"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/xiuhcoatl.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiuhcoatl,_British_Museum.jpg",
+    "sourceTitle": "Xiuhcoatl, Fire Serpent",
+    "artist": "Unknown artistUnknown artist",
+    "license": "CC BY-SA 4.0",
+    "width": 782,
+    "height": 1000
+  }
+}

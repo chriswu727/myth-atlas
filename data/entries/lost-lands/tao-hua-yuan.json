@@ -1,0 +1,101 @@
+{
+  "id": "tao-hua-yuan",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "桃花源",
+    "en": "Peach Blossom Spring",
+    "original": "桃花源",
+    "originalLang": "汉语"
+  },
+  "title": {
+    "zh": "避秦人隐居的溪尽头村落",
+    "en": "The village at the stream's end, hidden since Qin"
+  },
+  "summary": {
+    "zh": "陶渊明笔下武陵渔人误入的隐世村落：居民为避秦乱迁入，与世隔绝数百年，\"不知有汉，无论魏晋\"；渔人出而复寻，遂迷不复得路。",
+    "en": "The hidden village a Wuling fisherman stumbled into in Tao Yuanming's tale, settled by refugees from Qin who never heard of the Han; once he left, the path could never be found again."
+  },
+  "description": {
+    "zh": "桃花源出自东晋诗人陶渊明约421年所作《桃花源记》。晋太元年间，武陵一位渔人沿溪行舟，忽逢一片夹岸数百步的桃花林，芳草鲜美，落英缤纷；林尽水源处有一山，山有小口，舍船从口入，初极狭，才通人，复行数十步豁然开朗——土地平旷，屋舍俨然，有良田美池桑竹之属，黄发垂髫并怡然自乐。村人自言先世避秦时乱，率妻子邑人来此绝境，遂与外人间隔，\"不知有汉，无论魏晋\"。停留数日辞去时，村人嘱咐\"不足为外人道也\"。渔人出洞后处处志之，并报武陵太守遣人随往，寻向所志，遂迷，不复得路；南阳高士刘子骥闻之欣然规往，未果，寻病终，后遂无问津者。\n\n陶渊明身处晋宋易代的战乱之世，这篇不足四百字的记文以\"避秦\"寄托对无赋税、无兵戈的自治乡野的想象。文末刘子骥实有其人（见《晋书·隐逸传》），虚实相接的笔法让后世不断有人当真寻访。唐代王维《桃源行》、韩愈、刘禹锡以下题咏不绝，\"世外桃源\"凝为成语；湖南常德桃源县以此得名，沅江畔的桃花源景区自晋唐以来层累起寺观亭阁。它与西方\"失落之地\"的差别在于从头就是文人虚构，却成了中文里一切隐逸乌托邦的原点。",
+    "en": "The Peach Blossom Spring comes from a prose piece written around 421 by the Eastern Jin poet Tao Yuanming. During the Taiyuan era, a fisherman of Wuling followed a stream and came upon a grove of blossoming peach trees lining both banks for hundreds of paces, petals drifting over fresh grass. Where the grove ended at the stream's source stood a hill with a small opening; leaving his boat, he squeezed through a passage that widened suddenly onto level fields, trim houses, fine paddies, ponds, mulberry, and bamboo, where the old and the young alike were at ease. The villagers said their ancestors had fled the turmoil of Qin and never left; they had not heard of the Han dynasty, let alone the Wei or Jin. Leaving after several days, the fisherman was told the place was not worth mentioning to outsiders. He marked the route, reported to the prefect, and guides were sent, but the marks led nowhere. The recluse Liu Ziji of Nanyang planned his own search, died before setting out, and no one asked the way again.\n\nWriting amid the wars of the Jin-Song transition, Tao compressed into under four hundred characters a vision of a self-governing countryside without taxes or soldiers. Liu Ziji was a real man, listed among the recluses in the Book of Jin, and this splice of fact into fiction kept later readers half-believing. Wang Wei, Han Yu, and Liu Yuxi wrote famous poems on the theme; \"a Peach Blossom Spring beyond the world\" became a fixed idiom; and Taoyuan county in Hunan takes its name from the tale, its riverside shrine complex accreting since the Tang. Unlike most lost lands, it was fiction from the first line, yet it became the root image of every hidden utopia in Chinese."
+  },
+  "domains": {
+    "zh": [
+      "隐世村落",
+      "乌托邦",
+      "陶渊明",
+      "避世"
+    ],
+    "en": [
+      "Hidden village",
+      "Utopia",
+      "Tao Yuanming",
+      "Reclusion"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出典",
+        "en": "Source text"
+      },
+      "value": {
+        "zh": "陶渊明《桃花源记》并诗（约421年）",
+        "en": "Tao Yuanming, Peach Blossom Spring, prose and poem (c. 421)"
+      }
+    },
+    {
+      "label": {
+        "zh": "入口",
+        "en": "The entrance"
+      },
+      "value": {
+        "zh": "武陵溪尽头桃林后的山口，初极狭，才通人",
+        "en": "A cleft in a hill past the peach grove, barely wide enough for one"
+      }
+    },
+    {
+      "label": {
+        "zh": "地面锚点",
+        "en": "Ground anchor"
+      },
+      "value": {
+        "zh": "湖南常德桃源县桃花源",
+        "en": "Taohuayuan, Taoyuan county, Hunan"
+      }
+    }
+  ],
+  "related": [
+    "penglai",
+    "shambhala"
+  ],
+  "sources": [
+    {
+      "zh": "陶渊明《桃花源记》（约421年）",
+      "en": "Tao Yuanming, Record of the Peach Blossom Spring (c. 421)"
+    },
+    {
+      "zh": "《晋书·隐逸传》刘子骥条",
+      "en": "Book of Jin, Biographies of Recluses, entry on Liu Ziji"
+    }
+  ],
+  "geo": {
+    "lat": 28.83,
+    "lon": 111.44,
+    "label": {
+      "zh": "湖南常德桃源县（传统附会地）",
+      "en": "Taoyuan county, Changde, Hunan, the traditional identification"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tao-hua-yuan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8E_%E4%BB%87%E8%8B%B1_%E6%A1%83%E6%BA%90%E4%BB%99%E5%A2%83%E5%9C%96.jpg",
+    "sourceTitle": "桃源仙境圖",
+    "artist": "仇英",
+    "license": "Public domain",
+    "width": 376,
+    "height": 1000
+  }
+}

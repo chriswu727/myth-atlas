@@ -1,0 +1,102 @@
+{
+  "id": "hyperborea",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "许珀耳玻瑞亚",
+    "en": "Hyperborea",
+    "original": "Ὑπερβόρεοι",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "北风之外的极北乐土",
+    "en": "The blessed land beyond the North Wind"
+  },
+  "summary": {
+    "zh": "希腊传说中位于北风神玻瑞阿斯之外的极北乐土，居民无病无老，阿波罗每年冬天前往驻留；品达与希罗多德均有记述。",
+    "en": "The Greek far-northern paradise beyond Boreas the north wind, whose people knew neither sickness nor old age; Apollo wintered there. Described by Pindar and Herodotus."
+  },
+  "description": {
+    "zh": "许珀耳玻瑞亚意为\"北风之外的人们的土地\"——越过北风神玻瑞阿斯的居所、传说中的里斐山脉再往北，寒冬便不复存在。品达在《皮托凯歌》第十首（公元前498年）里写道：那里的人不知疾病与衰老，不必劳作、不必征战，终日以竖琴、笛声与月桂冠佩的歌舞侍奉阿波罗；珀耳修斯曾造访他们以百驴为牲的大祭。阿波罗每年冬季乘天鹅拉的车离开德尔斐，前往许珀耳玻瑞亚驻留，来年春天方归。\n\n希罗多德《历史》第四卷记下了传说与现实的一次奇妙交点：提洛岛的阿波罗圣所声称，许珀耳玻瑞亚人世代将裹在麦秸中的祭品经由斯基泰等一连串部族接力传到爱琴海，提洛人还为两位死在岛上的许珀耳玻瑞亚少女守着坟墓。希罗多德本人对这民族是否存在持保留态度。公元前四世纪，阿布德拉的赫卡泰俄斯另撰专书，把许珀耳玻瑞亚安置在凯尔特人以北海中的大岛上，后世常有人以之附会不列颠。\n\n近代神秘学没有放过这片乐土：布拉瓦茨基把它列为\"第二根源种族\"的居地，二十世纪的极地起源论者与雅利安主义者又将其挪作\"北方祖地\"的想象素材，此类流变与古典文本已无关系。",
+    "en": "Hyperborea means the land of those \"beyond Boreas\", the north wind: past the wind god's home and the fabled Riphean mountains, winter itself ended. In the tenth Pythian ode (498 BCE) Pindar describes a people who know neither disease nor old age, free of toil and war, feasting to the music of lyres and pipes with bay leaves in their hair in the service of Apollo; Perseus once joined their hecatombs of asses. Each winter Apollo left Delphi in a chariot drawn by swans to dwell among them, returning with the spring.\n\nHerodotus, in Book 4 of the Histories, records a strange junction of legend and practice: the sanctuary of Apollo on Delos claimed that offerings wrapped in wheat straw were relayed from the Hyperboreans through Scythia and a chain of peoples down to the Aegean, and the Delians kept the tombs of two Hyperborean maidens who had died on the island. Herodotus himself doubted the people existed. In the fourth century BCE Hecataeus of Abdera wrote a whole treatise placing Hyperborea on a great island in the ocean north of the Celts, which later readers liked to identify with Britain.\n\nModern esoterica claimed the land too: Blavatsky assigned it to her Second Root Race, and twentieth-century polar-origin and Aryanist writers borrowed it as an imagined northern homeland, a career remote from anything in the classical texts."
+  },
+  "domains": {
+    "zh": [
+      "极北乐土",
+      "阿波罗",
+      "古典地理",
+      "神秘学流变"
+    ],
+    "en": [
+      "Northern paradise",
+      "Apollo",
+      "Classical geography",
+      "Esoteric afterlife"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest sources"
+      },
+      "value": {
+        "zh": "品达《皮托凯歌》第十首（前498年）；希罗多德《历史》卷四",
+        "en": "Pindar, Pythian 10 (498 BCE); Herodotus, Histories Book 4"
+      }
+    },
+    {
+      "label": {
+        "zh": "居民特征",
+        "en": "Its people"
+      },
+      "value": {
+        "zh": "无病无老，不劳作不征战，歌舞侍奉阿波罗",
+        "en": "Ageless and free of sickness, toil, and war; devoted to Apollo"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说方位",
+        "en": "Legendary location"
+      },
+      "value": {
+        "zh": "北风与里斐山脉之外的极北",
+        "en": "Beyond Boreas and the Riphean mountains"
+      }
+    }
+  ],
+  "related": [
+    "thule",
+    "atlantis",
+    "lemuria"
+  ],
+  "sources": [
+    {
+      "zh": "品达《皮托凯歌》第十首（公元前498年）",
+      "en": "Pindar, Pythian Ode 10 (498 BCE)"
+    },
+    {
+      "zh": "希罗多德《历史》卷四（公元前5世纪）",
+      "en": "Herodotus, Histories, Book 4 (5th century BCE)"
+    }
+  ],
+  "geo": {
+    "lat": 70,
+    "lon": 60,
+    "label": {
+      "zh": "极北之地（一说里斐山即乌拉尔山，此取其北）",
+      "en": "The far north, here placed beyond the Urals, one reading of the Ripheans"
+    }
+  },
+  "image": {
+    "file": "/images/entries/hyperborea.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercator_north_pole_1595.jpg",
+    "sourceTitle": "Mercator north pole 1595",
+    "artist": "Gerardus Mercator",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 944
+  }
+}

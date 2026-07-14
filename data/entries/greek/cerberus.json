@@ -1,0 +1,96 @@
+{
+  "id": "cerberus",
+  "tradition": "greek",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "刻耳柏洛斯",
+    "en": "Cerberus",
+    "original": "Κέρβερος",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "冥府大门的看门犬",
+    "en": "The Watchdog at the Gate of the Underworld"
+  },
+  "summary": {
+    "zh": "看守冥府大门的巨犬，堤丰与厄喀德娜之子，通行形象为三头蛇尾。赫拉克勒斯的第十二件苦差是徒手将它活捉到人间。",
+    "en": "The monstrous hound guarding the gate of the underworld, offspring of Typhon and Echidna, commonly shown with three heads. Fetching him alive was the twelfth labor of Heracles."
+  },
+  "description": {
+    "zh": "刻耳柏洛斯是看守冥府大门的巨犬，堤丰与厄喀德娜之子。赫西俄德说它有五十个头、吼声如青铜，后世通行的形象是三个头、蛇为尾、颈背上竖着蛇。它蹲踞在冥河岸边的大门口，对入内的亡魂摇尾相迎，对企图逃出者则扑咬吞噬，使死者的国度有进无出。\n\n赫拉克勒斯的第十二件苦差就是把它活捉到人间：欧律斯透斯规定不得使用武器，赫拉克勒斯得哈迪斯允准后徒手扼住犬颈将其制服，扛上肩带到迈锡尼——欧律斯透斯吓得躲进大瓮——随后又送回冥府。琴手俄耳甫斯下冥府寻妻时曾以琴声使它安睡；维吉尔《埃涅阿斯纪》里，女先知库迈的西比尔用浸了蜂蜜与安眠药草的饼喂它，埃涅阿斯得以通行，西方谚语\"给刻耳柏洛斯的一块饼\"即由此而来。",
+    "en": "Cerberus, offspring of Typhon and Echidna, is the hound that guards the gate of the underworld. Hesiod gives him fifty heads and a voice like bronze; the standard later image has three heads, a serpent for a tail, and snakes bristling from his neck. He crouches at the threshold beside the river of the dead, fawning on the souls who enter and devouring any who try to leave, so that the realm of the dead admits all and releases none.\n\nThe twelfth labor of Heracles was to fetch him alive. Eurystheus forbade weapons, so with Hades's leave the hero wrestled the dog into submission with his bare hands, carried him on his shoulders to Mycenae — where Eurystheus hid in a storage jar at the sight — and then returned him below. Orpheus lulled the hound asleep with his lyre when he descended for Eurydice, and in Virgil's Aeneid the Sibyl of Cumae feeds him a cake soaked in honey and drugged herbs so that Aeneas may pass, the origin of the proverbial 'sop to Cerberus.'"
+  },
+  "domains": {
+    "zh": [
+      "冥府门卫",
+      "多头巨犬",
+      "有进无出"
+    ],
+    "en": [
+      "Guardian of the dead",
+      "Many-headed hound",
+      "No return"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "堤丰与厄喀德娜",
+        "en": "Typhon and Echidna"
+      }
+    },
+    {
+      "label": {
+        "zh": "头数",
+        "en": "Heads"
+      },
+      "value": {
+        "zh": "赫西俄德记五十，通行为三",
+        "en": "Fifty in Hesiod; three in the standard image"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "冥府大门",
+        "en": "The gate of Hades"
+      }
+    }
+  ],
+  "related": [
+    "hades",
+    "typhon",
+    "heracles"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "阿波罗多洛斯《书藏》",
+      "en": "Apollodorus, Bibliotheca"
+    },
+    {
+      "zh": "维吉尔《埃涅阿斯纪》",
+      "en": "Virgil, Aeneid"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/cerberus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Kerberos_Staatliche_Antikensammlungen_1493.jpg",
+    "sourceTitle": "Herakles Kerberos Staatliche Antikensammlungen 1493",
+    "artist": "Bucci Painter",
+    "license": "Public domain",
+    "width": 727,
+    "height": 1000
+  }
+}

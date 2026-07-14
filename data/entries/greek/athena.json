@@ -1,0 +1,105 @@
+{
+  "id": "athena",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "雅典娜",
+    "en": "Athena",
+    "original": "Ἀθηνᾶ",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "智慧与战略女神，雅典城的守护者",
+    "en": "Goddess of Wisdom and Strategy, Patron of Athens"
+  },
+  "summary": {
+    "zh": "全副武装从宙斯头颅中诞生的智慧与战略女神，以橄榄树赢得雅典的守护权，圣鸟为猫头鹰。",
+    "en": "Goddess of wisdom and strategic war, born in full armor from the head of Zeus. She won the patronage of Athens with the olive tree; the owl is her bird."
+  },
+  "description": {
+    "zh": "雅典娜是智慧、战略与技艺女神，全副武装地从宙斯的头颅中诞生：宙斯吞下怀孕的墨提斯后头痛欲裂，赫菲斯托斯以斧劈开他的头颅，女神持矛跃出，高声呐喊。她的标志是头盔、长矛与镶着戈耳工头颅的埃癸斯神盾，圣鸟为猫头鹰，圣树为橄榄。\n\n与波塞冬争夺阿提卡的守护权时，波塞冬以三叉戟在卫城岩石上凿出咸泉，雅典娜种下第一棵橄榄树，诸神判她获胜，城市由此得名雅典。她在史诗中始终站在英雄一边：为奥德修斯谋划归途，把磨亮的盾牌借给珀耳修斯助他斩下美杜莎的头颅，也掌管纺织、造船与制陶等技艺。公元前447年至前432年建成的帕特农神庙立于雅典卫城，庙内曾供奉菲狄亚斯以黄金象牙制作的雅典娜巨像，右手托着胜利女神。",
+    "en": "Athena, goddess of wisdom, strategic warfare, and craft, was born in full armor from the head of Zeus. Having swallowed her pregnant mother Metis, Zeus was seized by a splitting headache; Hephaestus opened his skull with an axe and the goddess sprang out with a war cry, spear in hand. Her emblems are the helmet, the spear, and the aegis bearing the Gorgon's head; her sacred bird is the owl, her tree the olive.\n\nCompeting with Poseidon for the patronage of Attica, she planted the first olive tree against the salt spring he struck from the acropolis rock, and the gods awarded her the city that bears her name. In epic she stands beside the heroes: she plots Odysseus's homecoming and lends Perseus the polished shield that lets him behead Medusa, and she presides over weaving, shipbuilding, and pottery. The Parthenon, built on the Athenian acropolis between 447 and 432 BCE, housed Phidias's colossal gold-and-ivory statue of the goddess, a winged Victory standing on her outstretched hand."
+  },
+  "domains": {
+    "zh": [
+      "智慧",
+      "战略",
+      "技艺",
+      "城邦守护"
+    ],
+    "en": [
+      "Wisdom",
+      "Strategy",
+      "Craft",
+      "City protection"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "猫头鹰、橄榄树、埃癸斯神盾",
+        "en": "Owl, olive tree, the aegis"
+      }
+    },
+    {
+      "label": {
+        "zh": "出生",
+        "en": "Birth"
+      },
+      "value": {
+        "zh": "自宙斯头颅中全副武装诞生",
+        "en": "Sprang fully armed from the head of Zeus"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief sanctuary"
+      },
+      "value": {
+        "zh": "雅典卫城帕特农神庙",
+        "en": "The Parthenon, Athens"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "poseidon",
+    "medusa",
+    "heracles",
+    "trojan-war",
+    "erinyes"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "荷马《奥德赛》",
+      "en": "Homer, Odyssey"
+    }
+  ],
+  "geo": {
+    "lat": 37.9715,
+    "lon": 23.7267,
+    "label": {
+      "zh": "雅典卫城",
+      "en": "Acropolis of Athens"
+    }
+  },
+  "image": {
+    "file": "/images/entries/athena.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klimt_-_Pallas_Athene.jpeg",
+    "sourceTitle": "Pallas Athena",
+    "artist": "Gustav Klimt",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 989
+  }
+}

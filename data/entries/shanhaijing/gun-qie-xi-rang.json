@@ -1,0 +1,43 @@
+{
+  "id": "gun-qie-xi-rang",
+  "tradition": "shanhaijing",
+  "type": "tale",
+  "era": "ancient",
+  "name": { "zh": "鲧窃息壤", "en": "Gun Steals the Swelling Earth" },
+  "title": { "zh": "窃神土堵洪水的悲剧，全书的最后一段", "en": "The Flood Tragedy That Closes the Book" },
+  "summary": {
+    "zh": "洪水滔天，鲧不等天帝之命，偷了能自行生长的息壤去堵洪水；帝令祝融杀鲧于羽郊。鲧腹中生出禹，帝乃命禹布土定九州。",
+    "en": "As the flood swelled to heaven, Gun stole the self-growing earth to dam it without the god's leave; Zhurong executed him at Yushan. From Gun's body Yu was born and charged to settle the Nine Provinces."
+  },
+  "description": {
+    "zh": "今本《山海经》的最后一段文字，是一场只有五句话的大悲剧：「洪水滔天。鲧窃帝之息壤以堙洪水，不待帝命。帝令祝融杀鲧于羽郊。鲧复生禹。帝乃命禹卒布土以定九州。」洪水漫上天际，鲧偷走天帝的息壤去堵——郭璞注：息壤是能自己生长、永不耗减的土壤，所以能填塞洪水。他没有等天帝下令。天帝派火神祝融把鲧杀死在羽山之郊。鲧的腹中却生出了禹，天帝转而命禹铺布息壤，最终安定九州。\n\n细节散落在别处。《楚辞·天问》追问鲧的冤屈：「永遏在羽山，夫何三年不施？」——为何囚禁羽山，三年不腐坏？「伯禹愎鲧，夫何以变化？」——禹从鲧腹中生出，是怎样的变化？郭璞注引《归藏·开筮》补足了这个画面：鲧死三年不腐，有人用吴刀剖开他的腹部，化出黄龙——那就是禹。《左传·昭公七年》则记另一种结局：鲧的神魂化为黄熊，跳进了羽渊。\n\n偷窃神物、拯救人间、被神处死、由后继者完成事业——这个骨架常被拿来与普罗米修斯盗火并读。而在中国治水叙事的内部，鲧的「堙」（堵）与禹的「导」（疏）构成了此后两千年水利与政论共用的一对隐喻。以这个故事收束全书，洪水初定、九州始奠，《山海经》的世界正好落成。",
+    "en": "The received text of the Classic ends with a tragedy five sentences long. The flood swelled up to heaven. Gun stole the god's xirang — the swelling earth — to dam the waters, without waiting for the god's command. The god ordered Zhurong to kill Gun in the outskirts of Yushan, Feather Mountain. From Gun's body Yu was born. The god then charged Yu to spread the soil and at last settle the Nine Provinces. Guo Pu's commentary explains the stolen treasure: xirang is earth that grows of itself without end, and so could fill a flood.\n\nThe details lie scattered in other books. The Heavenly Questions presses on the injustice: why was Gun pent up at Yushan three years without decaying? How did Yu issue from his father's belly? Guo Pu, quoting the Guizang, supplies the scene: after three years unrotted, Gun's belly was opened with a Wu blade, and a yellow dragon — Yu — emerged. The Zuo Commentary preserves another ending, in which Gun's spirit became a yellow bear and plunged into the Yu abyss.\n\nA theft of divine substance to save humankind, execution by the god, the work completed by a successor: the skeleton is often read alongside Prometheus and the theft of fire. Within China's own flood lore, Gun's damming against Yu's channeling became the paired metaphor of hydraulics and statecraft for two thousand years. And by closing with this story — flood subdued, provinces founded — the Classic of Mountains and Seas finishes building its world in its very last line."
+  },
+  "domains": {
+    "zh": ["洪水", "息壤", "治水", "父子相继"],
+    "en": ["Flood", "Swelling Earth", "Flood Control", "Father and Son"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "神物", "en": "Divine substance" },
+      "value": { "zh": "息壤——自生自长、永不耗减之土", "en": "Xirang, earth that grows of itself without end" }
+    },
+    {
+      "label": { "zh": "行刑者", "en": "Executioner" },
+      "value": { "zh": "火神祝融，杀鲧于羽郊", "en": "The fire god Zhurong, at the outskirts of Feather Mountain" }
+    },
+    {
+      "label": { "zh": "位置", "en": "Placement" },
+      "value": { "zh": "今本《山海经》全书最后一段", "en": "The final passage of the received text" }
+    }
+  ],
+  "related": ["da-yu", "zhurong"],
+  "sources": [
+    { "zh": "《山海经·海内经》", "en": "Classic of Mountains and Seas, final chapter ('Within the Seas')" },
+    { "zh": "《楚辞·天问》", "en": "Heavenly Questions (Tianwen)" },
+    { "zh": "《左传·昭公七年》", "en": "Zuo Commentary, Duke Zhao year 7" },
+    { "zh": "郭璞注引《归藏·开筮》", "en": "Guizang, 'Kaishi', as quoted in Guo Pu's commentary" }
+  ],
+  "volume": { "zh": "海内经", "en": "Classic of Regions Within the Seas" },
+  "image": null
+}

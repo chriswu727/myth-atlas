@@ -1,0 +1,105 @@
+{
+  "id": "kappa",
+  "tradition": "japanese",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "河童",
+    "en": "Kappa",
+    "original": "河童（かっぱ）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "河川池沼中的水怪",
+    "en": "Water Imp of Rivers and Ponds"
+  },
+  "summary": {
+    "zh": "栖息于河川池沼的水怪，孩童身形，头顶有盛水的碟形凹陷，嗜黄瓜与相扑，会把马拖下水、拔取人的尻子玉。",
+    "en": "A child-sized water imp with a water-filled dish atop its head, fond of cucumbers and sumo, notorious for dragging horses into rivers and stealing a ball said to reside in the human rump."
+  },
+  "description": {
+    "zh": "河童身量如四五岁孩童，背负龟甲，手脚有蹼，通体多作绿色——远野一带则说河童的脸是红的。它最要紧的部位是头顶那个碟形凹陷，里面盛着水：水在则力大能胜壮汉，水洒则瘫软无力，所以对付河童的老办法是先向它深深鞠躬，讲礼数的河童回礼时便自己泼掉了头上的水。各地称呼不一，九州叫川太郎、河太郎，近畿称ガタロ。江户时代《和汉三才图会》（1712年）在「川太郎」条下记其形如小儿、好相扑，鸟山石燕《画图百鬼夜行》（1776年）也画有河童。\n\n围绕河童有一整套定型故事：它在水边拉马下水（「河童驹引」），被马主捉住后写下谢罪状、承诺不再害人；被斩断手臂时，会以祖传的接骨药方换回断臂。它爱吃黄瓜，所以黄瓜寿司卷叫「河童卷」；它从人的肛门拔取传说中的「尻子玉」，是旧时对溺水的解释，也是大人吓阻孩子近水的话头。在民俗信仰里，河童常被视为水神的眷属或零落的水神，一些河边至今立着河童的小祠。\n\n柳田国男《远野物语》（1910年）记岩手县远野的河童屡屡恶作剧、与人纠缠，远野常坚寺后的小潭「河童渊」由此闻名，寺内还有一对罕见的河童狛犬，今天是远野民俗观光的地标。",
+    "en": "A kappa stands about as tall as a four- or five-year-old child, carries a turtle shell on its back, has webbed hands and feet, and is usually green, though around Tono the kappa are said to be red-faced. Its vital point is the saucer-like hollow on its crown, which holds water: full, the creature can out-wrestle a grown man; spilled, it goes limp. The classic countermeasure is a deep bow, which a well-mannered kappa must return, tipping out its own water. Regional names abound, kawataro in Kyushu, gataro around Osaka. The 1712 encyclopedia Wakan Sansai Zue describes it under 'kawataro' as child-shaped and fond of sumo, and Toriyama Sekien drew it in his 1776 bestiary.\n\nA whole cycle of stock tales surrounds it: caught trying to drag a horse into the water, a kappa writes a letter of apology and swears off mischief; when its arm is cut off, it trades a secret bone-setting salve to get it back. It loves cucumbers, whence the cucumber sushi roll called kappa-maki, and it extracts the legendary shirikodama ball from the human anus, an old explanation for drowning that doubled as a warning to keep children from the riverbank. In folk religion kappa are often counted as servants or diminished forms of the water god, and small riverside shrines to them survive.\n\nYanagita Kunio's Tono Monogatari (1910) records the pranks of the kappa of Tono in Iwate; the pool called Kappabuchi behind Jokenji temple, with its unique kappa guardian statues, remains a landmark of the town."
+  },
+  "domains": {
+    "zh": [
+      "河川",
+      "相扑",
+      "黄瓜",
+      "水难"
+    ],
+    "en": [
+      "Rivers",
+      "Sumo",
+      "Cucumbers",
+      "Drowning"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "弱点",
+        "en": "Weakness"
+      },
+      "value": {
+        "zh": "头顶碟中之水洒落即失力",
+        "en": "Loses its strength when the water in its head-dish spills"
+      }
+    },
+    {
+      "label": {
+        "zh": "嗜好",
+        "en": "Appetites"
+      },
+      "value": {
+        "zh": "黄瓜、相扑、尻子玉",
+        "en": "Cucumbers, sumo, and the shirikodama"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名出没地",
+        "en": "Famous haunt"
+      },
+      "value": {
+        "zh": "远野常坚寺后的河童渊",
+        "en": "Kappabuchi pool behind Jokenji temple, Tono"
+      }
+    }
+  ],
+  "related": [
+    "tengu",
+    "zashiki-warashi"
+  ],
+  "sources": [
+    {
+      "zh": "寺岛良安《和汉三才图会》（1712年）",
+      "en": "Terajima Ryoan, Wakan Sansai Zue (1712)"
+    },
+    {
+      "zh": "鸟山石燕《画图百鬼夜行》（1776年）",
+      "en": "Toriyama Sekien, Gazu Hyakki Yagyo (1776)"
+    },
+    {
+      "zh": "柳田国男《远野物语》（1910年）",
+      "en": "Yanagita Kunio, Tono Monogatari (1910)"
+    }
+  ],
+  "geo": {
+    "lat": 39.35,
+    "lon": 141.55,
+    "label": {
+      "zh": "河童渊（岩手县远野市）",
+      "en": "Kappabuchi (Tono, Iwate)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kappa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kappa_jap_myth.jpg",
+    "sourceTitle": "Kappa jap myth",
+    "artist": "Toriyama Sekien (Japanese, *1712, †1788)",
+    "license": "Public domain",
+    "width": 758,
+    "height": 1000
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "penglai",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "蓬莱",
+    "en": "Penglai",
+    "original": "蓬萊",
+    "originalLang": "汉语"
+  },
+  "title": {
+    "zh": "渤海中望之如云的海上仙山",
+    "en": "The immortal isle that recedes like cloud on the Bohai Sea"
+  },
+  "summary": {
+    "zh": "渤海三神山之首，仙人与不死之药所在，宫阙以黄金白银筑成；战国诸侯与秦皇汉武屡遣方士入海求之，船近辄为风引去。",
+    "en": "Chief of the three spirit-mountains in the Bohai Sea, home of immortals and the elixir of life, its palaces of gold and silver; kings and emperors sent fleets that the winds always turned away."
+  },
+  "description": {
+    "zh": "蓬莱是渤海三神山之首，与方丈、瀛洲并称。司马迁《史记·封禅书》记载最详：自齐威王、齐宣王、燕昭王起便遣人入海求三神山，据方士所言，山在渤海之中，去人不远，诸仙人及不死之药皆在焉，其上禽兽尽白，宫阙以黄金白银筑成；未至时望之如云，将到则三神山反居水下，船至辄被风引去，终莫能至。秦始皇统一后东巡至海上，遣徐福（徐巿）率童男女数千人入海求仙，一去不返；汉武帝亦多次东巡望祀蓬莱。《列子·汤问》给出另一谱系：渤海之东原有五座神山漂浮于归墟之上，由十五只巨鳌轮流负载，龙伯国巨人钓走六鳌，岱舆、员峤二山流沉北极，只余蓬莱等三山。\n\n蓬莱由此成为中国仙境想象的总代号。道教将\"蓬莱\"列为海上仙境之首，白居易《长恨歌》让方士在\"海上仙山\"寻得太真，八仙过海的起点也设在蓬莱。北宋嘉祐年间登州州治所在的丹崖山上建起蓬莱阁，此地海面春夏之交偶现海市蜃楼，历代文人皆视之为神山显影，苏轼知登州五日，留下《海市》诗。今山东烟台市辖有蓬莱区，八仙渡、蓬莱阁一带仍是这一传说的地面锚点。",
+    "en": "Penglai heads the three spirit-mountains of the Bohai Sea, named alongside Fangzhang and Yingzhou. Sima Qian's Records of the Grand Historian, in the Treatise on the Feng and Shan Sacrifices, gives the fullest account: from the fourth century BCE the kings of Qi and Yan sent men to sea in search of the mountains, where immortals kept the drug of deathlessness, every bird and beast was white, and the palaces were built of gold and silver. Seen from afar the isles hung like cloud; as ships drew near they sank beneath the water, or a wind rose and pulled the vessels away, so that no one ever landed. After unifying China, the First Emperor of Qin dispatched Xu Fu with thousands of boys and girls to find them; the fleet never returned. Emperor Wu of Han likewise made repeated progresses to the coast to gaze toward Penglai. The Liezi adds an older cosmology: five floating mountains once rode on the heads of fifteen giant sea-turtles until a giant of the Longbo kingdom fished six turtles away and two of the isles drifted off and sank, leaving three.\n\nPenglai became the master-word for the Chinese fairyland. Daoism ranked it first among the ocean paradises; in Bai Juyi's Song of Everlasting Sorrow a magician finds the dead consort on such an isle; and the Eight Immortals set out across the sea from Penglai. In the 1060s the Penglai Pavilion was built on Danya Hill in Dengzhou, where mirages sometimes rise off the coast in late spring, long read as glimpses of the spirit-mountains, and Su Shi wrote his Mirage poem while serving there. The district of Penglai in Yantai, Shandong, still anchors the legend on the map."
+  },
+  "domains": {
+    "zh": [
+      "海上仙山",
+      "不死之药",
+      "方士求仙",
+      "海市蜃楼"
+    ],
+    "en": [
+      "Immortal isles",
+      "Elixir of life",
+      "Imperial quests",
+      "Mirage"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest source"
+      },
+      "value": {
+        "zh": "《史记·封禅书》（约公元前91年成书）",
+        "en": "Records of the Grand Historian, Treatise on the Feng and Shan Sacrifices (c. 91 BCE)"
+      }
+    },
+    {
+      "label": {
+        "zh": "三神山",
+        "en": "The three isles"
+      },
+      "value": {
+        "zh": "蓬莱、方丈、瀛洲",
+        "en": "Penglai, Fangzhang, Yingzhou"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名求仙",
+        "en": "Famous quest"
+      },
+      "value": {
+        "zh": "秦始皇遣徐福率童男女数千人入海",
+        "en": "Xu Fu's fleet of thousands sent by the First Emperor"
+      }
+    }
+  ],
+  "related": [
+    "tao-hua-yuan",
+    "shambhala",
+    "hy-brasil"
+  ],
+  "sources": [
+    {
+      "zh": "司马迁《史记·封禅书》",
+      "en": "Sima Qian, Records of the Grand Historian, Treatise on the Feng and Shan Sacrifices"
+    },
+    {
+      "zh": "《列子·汤问》",
+      "en": "Liezi, \"The Questions of Tang\""
+    }
+  ],
+  "geo": {
+    "lat": 38.2,
+    "lon": 121.5,
+    "label": {
+      "zh": "渤海海域（传说所指）",
+      "en": "The Bohai Sea, per the legend"
+    }
+  },
+  "image": {
+    "file": "/images/entries/penglai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanJiang-Penglai_Island.jpg",
+    "sourceTitle": "Penglai Island",
+    "artist": "Yuan Jiang (袁江). Active: 1680-1730.",
+    "license": "Public domain",
+    "width": 600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "punchao",
+  "tradition": "inca",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "蓬乔",
+    "en": "Punchao",
+    "original": "Punchaw",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "科里坎查的太阳金像",
+    "en": "The Golden Sun Image of Coricancha"
+  },
+  "summary": {
+    "zh": "供于科里坎查的纯金太阳像，形如男童，胸腔中藏历代印加王心脏制成的粉团。1572年比尔卡班巴陷落时落入西班牙人之手，送往西班牙后下落不明。",
+    "en": "The solid-gold sun image of Coricancha, shaped as a boy, its hollow chest holding a paste made from the hearts of dead Inca kings. Seized at the fall of Vilcabamba in 1572, it vanished after being sent to Spain."
+  },
+  "description": {
+    "zh": "蓬乔——克丘亚语“白昼”——是太阳神因蒂最神圣的祭像，供奉在库斯科科里坎查神庙的太阳主殿。据总督托莱多1572年呈报西班牙国王的公文描述，这是一尊纯金铸成的男童像，周身环列反光的金盘；像的胸腔中空，封存着一团以历代印加王的心脏研制的粉泥。凭着这团心泥，死去的君王与太阳神在同一具金身里合为一体：礼敬蓬乔，便是同时礼敬神与王统。神像每日受祭，享奉的食物依礼焚化。\n\n1533年西班牙人洗劫库斯科，蓬乔却先一步被转移。此后近四十年，它随比尔卡班巴的新印加政权辗转于安第斯东坡的雨林山地，始终是流亡王廷最重要的圣物。1572年托莱多发兵攻灭比尔卡班巴，末代印加图帕克·阿马鲁在逃亡中被俘，蓬乔同时落入西班牙人之手——一同被押回库斯科的，是王与神像。\n\n图帕克·阿马鲁当年在库斯科广场被斩首。托莱多在公文中提出把蓬乔送呈国王腓力二世，此后文献中再无可靠的下落记载。这尊浓缩了整个王朝的金像就此消失，成为安第斯文物流传史上悬而未决的失物之一。",
+    "en": "Punchao — Quechua for 'daylight' — was the holiest image of the sun god Inti, enshrined in the principal hall of the Coricancha in Cusco. In the dispatch Viceroy Toledo sent to the King of Spain in 1572, it is described as a figure of a boy cast in solid gold, ringed with golden disks to catch and throw the light. Its chest was hollow, and sealed inside was a paste worked from the hearts of the dead Inca kings. Through that paste the deceased rulers and the sun god shared a single golden body: to venerate Punchao was to venerate at once the god and the royal line. The image received daily offerings, its portion of food burned according to rite.\n\nWhen the Spaniards sacked Cusco in 1533, Punchao had already been spirited away. For nearly forty years it moved with the neo-Inca court of Vilcabamba through the forested mountains of the eastern Andes, the most treasured object of the exiled dynasty. In 1572 Toledo's expedition destroyed Vilcabamba; the last Inca, Túpac Amaru, was run down in flight, and Punchao was taken with him — king and god carried back to Cusco together.\n\nTúpac Amaru was beheaded on the plaza of Cusco. Toledo proposed in his dispatches to send Punchao to King Philip II, and after that the reliable record goes silent. The golden image that condensed an entire dynasty vanished there, one of the enduring unsolved disappearances among Andean artifacts."
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "黄金",
+      "王朝祭仪"
+    ],
+    "en": [
+      "Sun",
+      "Gold",
+      "Dynastic cult"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形制",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "纯金男童像，周身环列反光金盘",
+        "en": "A golden boy ringed with light-catching disks"
+      }
+    },
+    {
+      "label": {
+        "zh": "胸中所藏",
+        "en": "Within the chest"
+      },
+      "value": {
+        "zh": "历代印加王心脏制成的粉团",
+        "en": "A paste made from the hearts of dead Inca kings"
+      }
+    },
+    {
+      "label": {
+        "zh": "下落",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "1572年被夺，拟送西班牙后失踪",
+        "en": "Seized in 1572, lost after dispatch toward Spain"
+      }
+    }
+  ],
+  "related": [
+    "inti",
+    "coricancha",
+    "inkarri"
+  ],
+  "sources": [
+    {
+      "zh": "总督弗朗西斯科·德·托莱多致西班牙国王的公文（1572）",
+      "en": "Viceroy Francisco de Toledo, dispatches to the King of Spain (1572)"
+    },
+    {
+      "zh": "贝尔纳贝·科博《新世界史》（1653）",
+      "en": "Bernabé Cobo, Historia del Nuevo Mundo (1653)"
+    }
+  ],
+  "geo": {
+    "lat": -13.5207,
+    "lon": -71.9752,
+    "label": {
+      "zh": "库斯科科里坎查（原供奉处）",
+      "en": "Coricancha, Cusco, its original shrine"
+    }
+  },
+  "image": {
+    "file": "/images/entries/punchao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pachacuteckoricancha.jpg",
+    "sourceTitle": "Pachacuteckoricancha",
+    "artist": "Chronicler Martín of Murúa (Cronista Martín de Murúa)",
+    "license": "Public domain",
+    "width": 709,
+    "height": 1000
+  }
+}

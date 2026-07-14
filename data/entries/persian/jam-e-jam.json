@@ -1,0 +1,93 @@
+{
+  "id": "jam-e-jam",
+  "tradition": "persian",
+  "type": "artifact",
+  "era": "folk",
+  "name": {
+    "zh": "贾姆之杯",
+    "en": "Cup of Jamshid",
+    "original": "جام جم",
+    "originalLang": "波斯语"
+  },
+  "title": {
+    "zh": "映照七界的观世之杯",
+    "en": "The World-Revealing Cup"
+  },
+  "summary": {
+    "zh": "波斯传说中能映照世间万象的神杯。《列王纪》里凯·霍斯陆借它寻得陷于图兰深坑的比詹，后世诗歌把它归于贾姆希德名下。",
+    "en": "The legendary cup that mirrors all the world. In the Shahnameh, Kay Khosrow uses it to find Bizhan trapped in a pit in Turan; later poetry attributed it to King Jamshid."
+  },
+  "description": {
+    "zh": "贾姆之杯（贾姆-埃·贾姆）是波斯传说中的观世神杯：注满酒液，杯中便映出大地七域的动静，无论多远的隐秘都无所遁形，因此又称\"观世杯\"（贾姆-埃·吉提-纳玛）。传说中它属于上古的辉煌君王贾姆希德——《列王纪》说他在位七百年，其中三百年人间无病无死，杯子与他的荣光一同成为波斯语中盛世与洞见的代名词。\n\n《列王纪》的\"比詹与玛尼杰\"篇给了这只杯子最完整的出场：伊朗勇士比詹与图兰公主玛尼杰相恋，被图兰王阿夫拉西亚卜投入荒野深坑，坑口压以巨石。伊朗上下遍寻不获，国王凯·霍斯陆斋戒祈祷之后捧起神杯注视，七界在杯中流转，终于在图兰的旷野认出坑底的比詹，随即密遣鲁斯塔姆假扮商人前往营救，夜里掀开巨石救出恋人。在波斯抒情诗传统里，这只杯子被反复吟咏并牢牢系于贾姆希德名下：哈菲兹的名篇写心向贾姆之杯求索多年，所求之物原在自身——杯子成了苏菲诗歌中\"照见真理的心\"的象征。伊朗国家广播电视机构曾以\"贾姆-埃·贾姆\"命名面向海外的电视频道，取其\"映照世界\"的旧意。",
+    "en": "The Cup of Jamshid, jam-e Jam in Persian, is the world-revealing vessel of Persian legend: filled with wine, it mirrors the doings of all seven regions of the earth, so that nothing remote or hidden escapes it — hence its other name, jam-e giti-nama, the world-showing cup. Tradition assigns it to Jamshid, the radiant primeval king whose reign the Shahnameh stretches over seven hundred years, three hundred of them without sickness or death, and cup and king together became Persian shorthand for golden ages and perfect insight.\n\nIts fullest appearance in the Shahnameh comes in the tale of Bizhan and Manizheh. The Iranian knight Bizhan, in love with the Turanian princess Manizheh, was cast by King Afrasiyab into a pit in the wilderness with a boulder rolled over its mouth. When all searching failed, King Kay Khosrow fasted, prayed, and gazed into the cup; the seven climes turned within it until he made out Bizhan at the bottom of a pit in the wastes of Turan. He then sent Rostam disguised as a merchant, who heaved the boulder aside by night and drew the lovers out. Persian lyric poetry returned to the cup again and again under Jamshid's name: a famous ghazal of Hafez tells of a heart that begged for the Cup of Jamshid for years, only to learn that what it sought it had carried all along — the cup becoming the Sufi image of the heart that mirrors truth. Iran's state broadcaster named its international television channels Jam-e Jam, after the vessel that showed the world."
+  },
+  "domains": {
+    "zh": [
+      "洞见",
+      "占视",
+      "王权",
+      "苏菲象征"
+    ],
+    "en": [
+      "Insight",
+      "Scrying",
+      "Kingship",
+      "Sufi symbolism"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Other name"
+      },
+      "value": {
+        "zh": "观世杯（贾姆-埃·吉提-纳玛）",
+        "en": "Jam-e giti-nama, the world-showing cup"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名使用者",
+        "en": "Famous user"
+      },
+      "value": {
+        "zh": "凯·霍斯陆（寻找比詹）",
+        "en": "Kay Khosrow, in the search for Bizhan"
+      }
+    },
+    {
+      "label": {
+        "zh": "归属传说",
+        "en": "Attributed owner"
+      },
+      "value": {
+        "zh": "上古君王贾姆希德",
+        "en": "The primeval king Jamshid"
+      }
+    }
+  ],
+  "related": [
+    "rostam",
+    "azhi-dahaka"
+  ],
+  "sources": [
+    {
+      "zh": "菲尔多西《列王纪·比詹与玛尼杰》（约1010年）",
+      "en": "Ferdowsi, Shahnameh, the tale of Bizhan and Manizheh (c. 1010)"
+    },
+    {
+      "zh": "哈菲兹《诗集》（14世纪）",
+      "en": "Hafez, Divan (14th century)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/jam-e-jam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jam%E2%80%99i_Jam_(The_Cup_of_Jamshid)_1.jpg",
+    "sourceTitle": "Jam’i Jam (The Cup of Jamshid) 1",
+    "artist": "1459-60 artist",
+    "license": "Public domain",
+    "width": 589,
+    "height": 1000
+  }
+}

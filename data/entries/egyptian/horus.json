@@ -1,0 +1,109 @@
+{
+  "id": "horus",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "荷鲁斯",
+    "en": "Horus",
+    "original": "ḥr.w",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "天空之神与王权守护者",
+    "en": "Sky God and Patron of Kingship"
+  },
+  "summary": {
+    "zh": "隼形天空之神，双眼为日月。作为奥西里斯遗腹子，他与杀父仇人塞特争夺王位八十年终获胜诉，在世法老皆被视为荷鲁斯的化身。",
+    "en": "The falcon sky god whose eyes are the sun and moon. Posthumous son of Osiris, he contested the throne with Set for eighty years and won; every living pharaoh was his incarnation."
+  },
+  "description": {
+    "zh": "荷鲁斯以游隼或隼首人身的形象出现，双眼被解作太阳与月亮，展开的双翼即是天空本身。他是埃及最古老的神祇之一：早王朝时期国王的名字就写在名为'塞雷赫'的宫墙纹章内，顶端立着一只隼——荷鲁斯名是埃及王衔中最早的组成部分，在世的法老被视为荷鲁斯在人间的化身，死去的法老则成为奥西里斯。\n\n流传最广的神话把他定位为奥西里斯与伊西斯的遗腹子。他在三角洲的芦苇丛中长大成人，随后向诸神法庭控告篡位的叔父塞特。《切斯特·贝蒂纸草一号》（约公元前12世纪）以近乎戏谑的笔法记录了这场绵延八十年的诉讼：两神比试潜水化作河马、驾驶石船竞渡，塞特挖去荷鲁斯的左眼，荷鲁斯扯下塞特的睾丸，最终众神裁定荷鲁斯继承王位，塞特被打发到天上司掌雷暴。被毁的左眼由托特复原，这只'完整之眼'（乌加特眼）成为埃及最流行的护身符，象征康复与完满。\n\n埃德富的荷鲁斯神庙是保存最完好的埃及神庙，建于托勒密王朝（公元前237年至前57年），庙墙浮雕完整刻画了荷鲁斯驾船以鱼叉击杀化身河马的塞特的圣剧，每年演出以庆祝他的胜利。",
+    "en": "Horus takes the form of a peregrine falcon or a falcon-headed man; his two eyes were read as the sun and the moon, his outstretched wings as the sky itself. He is among the oldest attested Egyptian gods: from the Early Dynastic period the king's name was written inside the serekh, a palace-facade emblem surmounted by a falcon, and the Horus name remained the most ancient element of the royal titulary. The living pharaoh was Horus incarnate, while the dead king became Osiris.\n\nThe dominant myth makes him the posthumous son of Osiris and Isis, raised in hiding among the Delta reeds until he came before the tribunal of the gods to claim the throne from his usurping uncle Set. Papyrus Chester Beatty I (c. twelfth century BCE) records the eighty-year lawsuit in an almost comic register: the rivals turn into hippopotamuses for a diving contest and race in stone boats; Set gouges out Horus's left eye and Horus tears away Set's testicles, until the gods award the kingship to Horus and assign Set to the sky as god of storms. The wounded eye, healed by Thoth, became the wedjat, the 'whole eye,' Egypt's most popular amulet of health and restoration.\n\nThe temple of Horus at Edfu, built between 237 and 57 BCE under the Ptolemies and the best-preserved temple in Egypt, carries wall reliefs of the annual sacred drama in which Horus harpoons Set in hippopotamus form."
+  },
+  "domains": {
+    "zh": [
+      "天空",
+      "王权",
+      "复仇",
+      "守护"
+    ],
+    "en": [
+      "Sky",
+      "Kingship",
+      "Vengeance",
+      "Protection"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "游隼或隼首人身，戴上下埃及双冠",
+        "en": "Falcon or falcon-headed man in the double crown"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbol"
+      },
+      "value": {
+        "zh": "乌加特眼（荷鲁斯之眼）",
+        "en": "Wedjat (Eye of Horus)"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred site"
+      },
+      "value": {
+        "zh": "埃德富神庙",
+        "en": "Temple of Edfu"
+      }
+    }
+  ],
+  "related": [
+    "osiris",
+    "isis",
+    "set",
+    "thoth",
+    "ra",
+    "great-sphinx"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《荷鲁斯与塞特之争》（切斯特·贝蒂纸草一号）",
+      "en": "The Contendings of Horus and Seth, Papyrus Chester Beatty I"
+    },
+    {
+      "zh": "普鲁塔克《论伊西斯与奥西里斯》",
+      "en": "Plutarch, De Iside et Osiride"
+    }
+  ],
+  "geo": {
+    "lat": 24.98,
+    "lon": 32.87,
+    "label": {
+      "zh": "埃德富",
+      "en": "Edfu"
+    }
+  },
+  "image": {
+    "file": "/images/entries/horus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Edfu,_Statue_of_Horus,_Egypt.jpg",
+    "sourceTitle": "Temple of Edfu, Statue of Horus, Egypt",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "width": 1000,
+    "height": 666
+  }
+}

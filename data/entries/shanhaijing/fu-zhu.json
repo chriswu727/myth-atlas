@@ -1,0 +1,90 @@
+{
+  "id": "fu-zhu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "夫诸",
+    "en": "Fuzhu"
+  },
+  "title": {
+    "zh": "预告大水的四角白鹿",
+    "en": "Four-Horned White Deer That Heralds Floods"
+  },
+  "summary": {
+    "zh": "敖岸山异兽，形如白鹿而生四角，它在哪座城邑现身，哪里就要发大水，属《山海经》灾兆之兽中的水兆一类。",
+    "en": "A beast of Mount Ao'an shaped like a white deer but bearing four horns; wherever it appears, that town will be struck by a great flood."
+  },
+  "description": {
+    "zh": "《中次三经》首山敖岸之山临黄河而立，南坡多㻬琈之玉，北坡多赭石与黄金，神熏池居于其中。山中有兽，“其状如白鹿而四角，名曰夫诸，见则其邑大水”：通体像一头白鹿，头顶却生出四只角，它在哪座城邑露面，那里随后就要遭大水。\n\n白鹿在古人眼里本是瑞兽，汉武帝时曾用白鹿皮制成一尺见方的皮币，王侯朝觐都要拿它衬垫玉璧，史书也屡以“获白鹿”记祥瑞。夫诸顶着多出的四只角，把瑞兽的皮相变成了水患的警报。《山海经》里以“见则”二字系连灾祥的兽各有分工：化蛇现则大水，鸣蛇现则大旱，朱厌现则大兵，夫诸与化蛇同司水兆。",
+    "en": "Mount Ao'an, first peak of the third central sequence, stands near the Yellow River; ornamental jade veins its southern slope, ochre and gold its northern, and the god Xunchi dwells on it. Among its animals the classic records the Fuzhu, a beast shaped like a white deer but carrying four horns. The text adds only the formula of consequence: wherever it shows itself, that settlement will suffer a great flood.\n\nA white deer was normally good news. Under Emperor Wu of the Han, foot-square pieces of white-deer hide served as ceremonial currency at court, and official histories logged each capture of a white deer among the auspicious omens. The Fuzhu wears that lucky shape with four extra horns and reverses the message. It belongs to the book's roster of portent beasts, each bound to a single calamity: the Huashe likewise signals flood, the Mingshe drought, the Zhuyan war."
+  },
+  "domains": {
+    "zh": [
+      "水兆",
+      "白鹿",
+      "灾异"
+    ],
+    "en": [
+      "Flood Omens",
+      "White Deer",
+      "Portents"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "敖岸之山",
+        "en": "Mount Ao'an"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如白鹿而四角",
+        "en": "A white deer with four horns"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆示",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其邑大水",
+        "en": "Its appearance portends a great flood"
+      }
+    }
+  ],
+  "related": [
+    "hua-she",
+    "ming-she",
+    "tai-feng"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/fu-zhu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic298_-_%E5%A4%AB%E8%AB%B8%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic298 - 夫諸圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 679,
+    "height": 1000
+  }
+}

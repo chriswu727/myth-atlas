@@ -1,0 +1,38 @@
+{
+  "id": "abiku",
+  "tradition": "yoruba",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "阿比库",
+    "en": "Abiku",
+    "original": "Àbíkú",
+    "originalLang": "约鲁巴语"
+  },
+  "title": { "zh": "\"生而求死\"的灵童", "en": "The Spirit Child Born to Die" },
+  "summary": {
+    "zh": "反复投生又夭折、折磨同一位母亲的灵童。家人在夭儿遗体上留记号以辨认归来者，给幸存的孩子取\"马洛莫\"（别再走）一类挽留的名字。",
+    "en": "Spirit children 'born to die', who die and return to the same mother again and again. Families mark the dead to recognize returners, and give survivors pleading names like Malomo, 'do not go again'."
+  },
+  "description": {
+    "zh": "阿比库意为\"生而求死\"的孩子。约鲁巴人相信，有一类童灵与荒野中的灵界同伴立有密约：投生人间只为在约定之日死去归队，随后再投回同一位母亲的腹中，如此往复，把接连的夭折带给同一个家庭。这样的孩子往往生得漂亮伶俐，却总在割礼、命名礼、订婚这类人生关口猝然离世。\n\n对付阿比库有一整套办法。夭折的婴孩下葬前，家人会在遗体上划下刻痕，若下一个新生儿带着同样的印记出生，便证实是同一个灵童归来；给孩子戴上铁镯与铃铛，请巴巴拉沃占卜献祭，斩断他与灵界同伴的盟约；更普遍的是取一个挽留的名字——马洛莫（\"别再走了\"）、杜罗贾伊耶（\"留下来享受人生\"）、科库莫（\"这个不会再死\"）、班乔科（\"坐下别走\"），这类名字在约鲁巴地区至今常见。\n\n阿比库是尼日利亚现代文学最著名的母题之一：沃莱·索因卡与约翰·佩珀·克拉克在1960年代各发表过一首《阿比库》，一首是灵童挑衅的自白，一首是父母恳求的祷词；本·奥克瑞1991年获布克奖的《饥饿之路》整部由灵童阿扎罗的眼睛叙事。伊博人的\"奥格班杰\"是同型信仰，阿契贝《瓦解》里的埃金玛即是一例。",
+    "en": "Abiku means a child 'born to die'. In Yoruba belief, certain spirit children keep a pact with their companions in the wilderness: they enter a womb only to die at an agreed hour and rejoin their band, then return to the same mother, again and again, bringing a family one burial after another. Such children are said to be beautiful and quick, and to slip away at life's thresholds — circumcision, naming, betrothal.\n\nAgainst an abiku, families keep a whole armory. The body of a dead infant may be nicked or scarred before burial, so that a later baby born with the same mark stands revealed as the returner. Iron anklets and bells are fastened on; a babalawo divines and sacrifices to cut the child's tie to its spirit company. Above all there are the pleading names, still common in Yorubaland: Malomo, 'do not go again'; Durojaiye, 'stay and enjoy life'; Kokumo, 'this one will not die again'; Banjoko, 'sit and stay with me'.\n\nThe abiku became one of modern Nigerian literature's great motifs. Wole Soyinka and J. P. Clark each published an 'Abiku' poem in the 1960s, the one a taunting monologue of the spirit child, the other a parent's plea; Ben Okri's Booker-winning The Famished Road (1991) is narrated by the spirit child Azaro. The Igbo ogbanje is the parallel belief, embodied by Ezinma in Achebe's Things Fall Apart."
+  },
+  "domains": {
+    "zh": ["转生", "夭折", "灵界盟约"],
+    "en": ["Rebirth", "Child death", "Spirit pacts"]
+  },
+  "traits": [
+    { "label": { "zh": "辨认之法", "en": "Identification" }, "value": { "zh": "在夭儿遗体上刻痕，验看新生儿印记", "en": "Marks cut on the dead infant, checked on the next child born" } },
+    { "label": { "zh": "防范之物", "en": "Protections" }, "value": { "zh": "铁镯、铃铛、占卜献祭", "en": "Iron anklets, bells, divination and sacrifice" } },
+    { "label": { "zh": "挽留之名", "en": "Pleading names" }, "value": { "zh": "马洛莫、杜罗贾伊耶、科库莫、班乔科", "en": "Malomo, Durojaiye, Kokumo, Banjoko" } }
+  ],
+  "related": ["ifa-divination", "olodumare"],
+  "sources": [
+    { "zh": "约鲁巴口传传统", "en": "Yoruba oral tradition" },
+    { "zh": "蒂莫西·莫博拉德《阿比库的概念》，《非洲艺术》第7卷（1973）", "en": "Timothy Mobolade, 'The Concept of Abiku', African Arts 7 (1973)" },
+    { "zh": "沃莱·索因卡《伊丹雷及其他诗》（1967）", "en": "Wole Soyinka, Idanre and Other Poems (1967)" },
+    { "zh": "本·奥克瑞《饥饿之路》（1991）", "en": "Ben Okri, The Famished Road (1991)" }
+  ],
+  "image": null
+}

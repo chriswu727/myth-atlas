@@ -1,0 +1,102 @@
+{
+  "id": "mimih",
+  "tradition": "aboriginal",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "米米灵",
+    "en": "Mimih Spirits",
+    "original": "Mimih",
+    "originalLang": "库温库语"
+  },
+  "title": {
+    "zh": "石城岩缝中的细长教导者",
+    "en": "Slender Teachers of the Stone Country"
+  },
+  "summary": {
+    "zh": "西阿纳姆地比宁人叙事中细如芦苇的岩缝精灵：在人类到来之前便已作画狩猎，教会先民用火、剥解袋鼠与绘画，性情顽皮易怒。",
+    "en": "Reed-thin spirits of the rock crevices in Bininj tradition of western Arnhem Land: they hunted and painted before humans arrived, and taught the first people fire, butchering, and painting. Playful, and quick to take offence."
+  },
+  "description": {
+    "zh": "米米灵瘦长到近乎透明，四肢细如苇秆，比宁长者说它们脆弱得经不起一阵劲风——风起时它们必须缩回阿纳姆地高原砂岩的裂缝里，吹一口气便能让岩石开合。它们过着与人类先民相仿的生活：狩猎、生火、婚嫁、作画，只是尺度轻细。传统上对它们的态度是敬而远之：米米灵大体无恶意，却极爱捉弄，若有人夜里独行石城，可能被它们引入岩缝再也找不到归路。\n\n在比宁叙事中，米米灵是最早的老师。人类初到这片土地时不识火、不懂如何剥解袋鼠、不会在岩壁上作画，都是米米灵一样样教会的。西阿纳姆地岩壁上那些奔跑、投矛、姿态飞动的细长红赭人形——考古学者称为“动态图形”的早期岩画层——传统解释即为米米灵的自画像：它们趁四下无人时把自己画上岩壁。岩画研究者查卢普卡在《时间之旅》中系统记录了这批图像与口传解释的对应。\n\n二十世纪下半叶，米米灵从岩壁走进当代艺术。1968年，库宁库雕刻家克鲁索·库宁巴尔把仪式中的细长木雕做成第一批可供出售的独立作品，其后马宁里达等艺术中心的米米木雕蔚为一派：细长的赭绘身躯微微歪头，站满美术馆展厅，成为西阿纳姆地艺术最易辨认的形象之一。",
+    "en": "Mimih spirits are so thin they are almost transparent, their limbs slender as reeds; Bininj elders say they are too frail to go out in a strong wind, and must retreat into the crevices of the Arnhem Land plateau, where a breath can open and close the sandstone. They live much as the first people did — hunting, keeping fires, marrying, painting — only on a slighter scale. The traditional attitude is wary respect: mimih are not malicious on the whole, but they love tricks, and someone walking the stone country alone at night may be lured into a crevice and never find the way back.\n\nIn Bininj narrative the mimih were the first teachers. When humans arrived they knew nothing of fire, of how to butcher a kangaroo, or of painting on rock; the mimih taught them each art in turn. The slender running red-ochre figures on the plateau walls — the early stratum archaeologists call dynamic figures — are traditionally explained as the mimihs' self-portraits, painted when no one was watching. The rock-art scholar George Chaloupka documented these images and their oral explanations at length in Journey in Time.\n\nIn the later twentieth century the mimih stepped off the rock into contemporary art. In 1968 the Kuninjku carver Crusoe Kuningbal made the first free-standing mimih sculptures for sale, adapted from the slender figures danced in ceremony, and mimih carving became a signature of art centres such as Maningrida: attenuated ochre-painted bodies, heads slightly tilted, now standing in gallery halls as one of the most recognisable forms of western Arnhem Land art."
+  },
+  "geo": {
+    "lat": -12.8,
+    "lon": 133.1,
+    "label": {
+      "zh": "阿纳姆地高原石城（北领地）",
+      "en": "The stone country of the Arnhem Land plateau, Northern Territory"
+    }
+  },
+  "domains": {
+    "zh": [
+      "岩缝",
+      "教导",
+      "岩画",
+      "恶作剧"
+    ],
+    "en": [
+      "Rock crevices",
+      "Teaching",
+      "Rock art",
+      "Mischief"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "比宁（库温库语诸群体，西阿纳姆地）",
+        "en": "Bininj (Kunwinjku-speaking groups of western Arnhem Land)"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "细长如苇，惧风，居于砂岩裂缝",
+        "en": "Reed-thin, afraid of wind, dwelling in sandstone crevices"
+      }
+    },
+    {
+      "label": {
+        "zh": "传授之艺",
+        "en": "Arts taught"
+      },
+      "value": {
+        "zh": "用火、剥解袋鼠、岩壁作画",
+        "en": "Fire, kangaroo butchering, rock painting"
+      }
+    }
+  ],
+  "related": [
+    "namarrkon",
+    "rainbow-serpent",
+    "the-dreaming"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·查卢普卡《时间之旅：世界上延续最久的艺术传统》（1993）",
+      "en": "George Chaloupka, Journey in Time: The World's Longest Continuing Art Tradition (1993)"
+    },
+    {
+      "zh": "卢克·泰勒《看见内里：西阿纳姆地树皮画》（1996）",
+      "en": "Luke Taylor, Seeing the Inside: Bark Painting in Western Arnhem Land (1996)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mimih.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anbangbang_gallery_Mimi_rock_art.jpg",
+    "sourceTitle": "Anbangbang gallery Mimi rock art",
+    "artist": "Dustin M. Ramsey (Kralizec!), 2002",
+    "license": "CC BY-SA 2.5",
+    "width": 1000,
+    "height": 696
+  }
+}

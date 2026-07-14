@@ -1,0 +1,101 @@
+{
+  "id": "el-dorado",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "黄金国",
+    "en": "El Dorado",
+    "original": "El Dorado",
+    "originalLang": "西班牙语"
+  },
+  "title": {
+    "zh": "从\"镀金人\"膨胀成的黄金之城",
+    "en": "From the Gilded Man to a city of gold"
+  },
+  "summary": {
+    "zh": "源于穆伊斯卡人瓜塔维塔湖\"镀金人\"即位仪式的传说，在西班牙征服者口中膨胀为黄金之城，驱动了三个世纪的南美探险。",
+    "en": "Born of the Muisca \"gilded man\" rite at Lake Guatavita, the tale swelled in Spanish mouths into a golden city that drove three centuries of South American expeditions."
+  },
+  "description": {
+    "zh": "黄金国的源头是一个人。西班牙人在十六世纪三十年代进入哥伦比亚高原时听说：穆伊斯卡人的新首领即位时，要在瓜塔维塔圣湖举行仪式——赤身涂满树脂再敷上金粉，乘满载黄金与祖母绿的木筏驶向湖心，将祭品沉入水中，再纵身入湖洗去金衣。此人被称作\"镀金人\"（el hombre dorado）。编年史家胡安·罗德里格斯·弗雷莱1636年的《公羊》一书留下了这一仪式最完整的记述；波哥大黄金博物馆藏的穆伊斯卡黄金筏（断代约公元600至1600年间）被视为仪式的实物印证。\n\n传闻经转述不断膨胀：镀金人变成黄金之城，再变成黄金之国\"马诺阿\"。1536至1538年，希门尼斯·德·克萨达征服穆伊斯卡；1541年贡萨洛·皮萨罗率队从基多东进，其部将奥雷利亚纳顺流而下，意外完成了人类首次亚马逊河全程航行；1595年沃尔特·雷利溯奥里诺科河寻找传说中帕里梅湖畔的马诺阿，归国后著《圭亚那发现记》，1617年他再赴圭亚那，其子1618年初死于部下对西班牙据点圣托梅的攻袭，雷利本人也因此役失败被处死。瓜塔维塔湖曾多次被凿渠排水寻宝，1580年代安东尼奥·德·塞普尔维达在湖缘切出的豁口至今可见。\n\n帕里梅湖在地图上悬置两百年，直到十九世纪初洪堡实地考察后才被除名。\"El Dorado\"一词从此转义，泛指一切黄金梦。",
+    "en": "El Dorado began as a man. Entering the Colombian highlands in the 1530s, the Spanish heard that each new ruler of the Muisca was initiated at the sacred lake of Guatavita: stripped, coated in resin and powdered gold, he was floated to the centre of the lake on a raft heaped with gold and emeralds, sank the offerings, then plunged in to wash the gold away. He was el hombre dorado, the gilded man. The chronicler Juan Rodríguez Freyle left the fullest account of the rite in El Carnero (1636), and the Muisca gold raft in Bogotá's Museo del Oro, dated between roughly 600 and 1600 CE, is taken as its material echo.\n\nRetelling inflated the gilded man into a golden city, then a golden kingdom called Manoa. Jiménez de Quesada conquered the Muisca in 1536-38; Gonzalo Pizarro marched east from Quito in 1541, and his lieutenant Orellana, carried downstream, completed the first descent of the Amazon; Walter Raleigh ascended the Orinoco in 1595 hunting Manoa on the shores of Lake Parime and published The Discoverie of Guiana, a quest he resumed in 1617; his son was killed early in 1618 when his men stormed the Spanish outpost of Santo Tomé, and the failure cost Raleigh his own head. Lake Guatavita itself was repeatedly cut and drained by treasure hunters; the notch sliced into its rim by Antonio de Sepúlveda in the 1580s is still visible.\n\nLake Parime lingered on maps for two centuries until Humboldt's fieldwork removed it in the early 1800s. The name El Dorado survived as a common noun for any dream of gold."
+  },
+  "domains": {
+    "zh": [
+      "黄金之城",
+      "穆伊斯卡",
+      "征服者探险",
+      "地图幽灵"
+    ],
+    "en": [
+      "City of gold",
+      "Muisca",
+      "Conquistador quests",
+      "Cartographic phantom"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "仪式原型",
+        "en": "The original rite"
+      },
+      "value": {
+        "zh": "穆伊斯卡新君涂金粉沉宝于瓜塔维塔湖",
+        "en": "The gilded Muisca ruler sinking gold into Lake Guatavita"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键文献",
+        "en": "Key account"
+      },
+      "value": {
+        "zh": "罗德里格斯·弗雷莱《公羊》（1636）",
+        "en": "Juan Rodríguez Freyle, El Carnero (1636)"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名远征",
+        "en": "Famous expeditions"
+      },
+      "value": {
+        "zh": "皮萨罗-奥雷利亚纳（1541）；雷利圭亚那远征（1595、1617–18）",
+        "en": "Pizarro-Orellana (1541); Raleigh's Guiana voyages (1595, 1617-18)"
+      }
+    }
+  ],
+  "related": [
+    "hy-brasil",
+    "atlantis"
+  ],
+  "sources": [
+    {
+      "zh": "胡安·罗德里格斯·弗雷莱《公羊》（1636）",
+      "en": "Juan Rodríguez Freyle, El Carnero (1636)"
+    },
+    {
+      "zh": "沃尔特·雷利《圭亚那发现记》（1596）",
+      "en": "Walter Raleigh, The Discoverie of Guiana (1596)"
+    }
+  ],
+  "geo": {
+    "lat": 4.9717,
+    "lon": -73.7736,
+    "label": {
+      "zh": "哥伦比亚瓜塔维塔湖",
+      "en": "Lake Guatavita, Colombia"
+    }
+  },
+  "image": {
+    "file": "/images/entries/el-dorado.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balsa_Muisca_BOG_03_2018_8506.jpg",
+    "sourceTitle": "Balsa Muisca BOG 03 2018 8506",
+    "artist": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 668
+  }
+}

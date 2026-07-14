@@ -1,0 +1,87 @@
+{
+  "id": "xing-xing",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "狌狌",
+    "en": "Xingxing"
+  },
+  "title": {
+    "zh": "招摇山上白耳善走的灵长异兽",
+    "en": "White-Eared Ape-Beast of Mount Zhaoyao"
+  },
+  "summary": {
+    "zh": "招摇山异兽，样子像猕猴而长着白耳朵，既能伏地爬行，也能像人一样直立行走；吃它的肉据说健步善走。",
+    "en": "A beast of Mount Zhaoyao shaped like a macaque with white ears, moving on all fours or walking upright like a man; eating its flesh was said to make one a swift runner."
+  },
+  "description": {
+    "zh": "狌狌住在《南山经》开篇第一座山——临于西海之上、多桂多金玉的招摇之山。经文说它\"状如禺而白耳，伏行人走\"：禺是一种大猕猴，狌狌像禺，却生一对白耳，能伏在地上爬，也能像人一样站起来走。它是全书出场的第一头异兽，附带的功效是\"食之善走\"——吃了它的肉，人便健步如飞。\n\n这种半人半兽的动物在古书里另有名声。《山海经·海内南经》说\"狌狌知人名\"，见人便能叫出对方的名字；《礼记·曲礼》有\"猩猩能言，不离禽兽\"之句，借它说明会说话也未必算人。狌狌后来写作\"猩猩\"，注家多认为其原型是长臂猿或猩猩一类的灵长动物，白耳、直立、能言诸说，都是人对近似自己的动物的端详与想象。",
+    "en": "The xingxing lives on Mount Zhaoyao, the very first mountain of the Classic of the Southern Mountains, a peak rich in cassia, gold, and jade overlooking the Western Sea. The text describes it as shaped like the yu, a large macaque, but with white ears; it crawls on all fours yet can also rise and walk like a man. As the first strange beast to appear in the whole book, it comes with the book's characteristic prescription: eat its flesh and you will become a swift runner.\n\nThe half-human animal had a wider reputation in early texts. The Classic of Regions Within the Seas: South claims the xingxing knows people's names and can call a stranger by name on sight, while the Book of Rites cites it in the maxim 'the xingxing can speak, yet remains a beast', a caution that speech alone does not make one human. The name was later written with the characters now used for orangutans and gibbons, and commentators generally take some such ape as the creature's original: the white ears, the upright gait, and the gift of speech all read as close observation of an animal uncomfortably like ourselves."
+  },
+  "domains": {
+    "zh": [
+      "灵长异兽",
+      "善走",
+      "能言"
+    ],
+    "en": [
+      "Ape-Beasts",
+      "Fleetness",
+      "Speech"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "招摇之山，临于西海",
+        "en": "Mount Zhaoyao, above the Western Sea"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食之善走",
+        "en": "Eating it makes one run swiftly"
+      }
+    }
+  ],
+  "related": [
+    "lu-shu",
+    "jiu-wei-hu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "《山海经·海内南经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: South'"
+    },
+    {
+      "zh": "《礼记·曲礼上》",
+      "en": "Book of Rites, 'Quli I'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/xing-xing.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_fu(1895)-shanhaijingcun1-fol5a-shengsheng.png",
+    "sourceTitle": "Wang fu(1895)-shanhaijingcun1-fol5a-shengsheng",
+    "artist": "Wang Fu 汪紱（1692年8月20日－1759年10月28日)",
+    "license": "Public domain",
+    "width": 994,
+    "height": 1000
+  }
+}

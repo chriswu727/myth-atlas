@@ -1,0 +1,102 @@
+{
+  "id": "wandjina",
+  "tradition": "aboriginal",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "万吉纳",
+    "en": "Wandjina",
+    "original": "Wandjina",
+    "originalLang": "沃罗拉语"
+  },
+  "title": {
+    "zh": "金伯利的云雨之灵",
+    "en": "Cloud and Rain Spirits of the Kimberley"
+  },
+  "summary": {
+    "zh": "西澳金伯利地区沃罗拉、恩加林因、乌南巴尔人的云雨之灵：白面黑目、头绕光晕、没有嘴，画在岩窟中掌管雨季与丰饶。",
+    "en": "Cloud and rain spirits of the Worrorra, Ngarinyin, and Wunambal peoples of the Kimberley: white-faced, dark-eyed, mouthless figures crowned with halo-like headdresses, painted in rock shelters to govern the monsoon."
+  },
+  "description": {
+    "zh": "万吉纳的形象极易辨认：白色的脸与身躯，一双大而黑的眼睛并排在鼻梁两侧，头部环绕着一圈或数圈放射状光晕——传统解释为云层、闪电与仪式羽饰——而没有嘴。金伯利的守护者们解释：万吉纳掌握雨与雷电，威力太大，若有嘴，雨便会下个不停。这些真人大小甚至更大的形象成组画在西北金伯利的砂岩岩窟里，沃罗拉、恩加林因、乌南巴尔三族同属万吉纳-温古尔信仰共同体，各家族世代照看自己的画窟。\n\n传统叙事中，万吉纳在梦创时代自云与海而来，塑造地貌、订立婚姻与分享的规矩，最后把自己的形象“躺”进岩壁，力量留驻画中。它们与地下水潭中的温古尔蛇相连，共同保证雨季按时到来、动植物繁衍。旱季末尾，有资格的长者会为画像补色描新，这既是养护，也是唤雨的责任；补绘传统延续至今，是这批岩画被称作“活着的画”的原因。\n\n1838年，探险家乔治·格雷在格伦内格河谷看到万吉纳岩画，其1841年出版的探险日志将这批“凝视的巨眼形象”首次介绍给欧洲读者，此后一度引来“外来文明作画”的种种臆测，均无根据。2000年悉尼奥运会开幕式上，巨幅万吉纳形象升起于体育场中央；而未经授权挪用万吉纳形象的商业与涂鸦行为，屡次遭到金伯利各族的公开抗议——按其律法，只有特定家族才有权绘制万吉纳。",
+    "en": "A Wandjina is unmistakable: a white face and body, two large dark eyes set close beside the nose, a head ringed by one or more radiating bands — traditionally read as cloud, lightning, and ceremonial feathers — and no mouth. Kimberley custodians explain that the Wandjina command rain and lightning, and that with mouths their power would be unbounded and the rain would never stop. Painted at life size and larger in the sandstone shelters of the north-west Kimberley, they belong to the Worrorra, Ngarinyin, and Wunambal peoples, who together form the Wanjina-Wunggurr community, each family keeping its own galleries.\n\nIn traditional narrative the Wandjina came from the clouds and the sea in the Dreaming, shaped the country, laid down the rules of marriage and sharing, and finally lay down into the rock, leaving their images and their power in the stone. They are linked to the Wunggurr serpents of the deep waterholes, and together they guarantee the coming of the monsoon and the increase of plants and animals. At the end of the dry season, authorised elders refresh the paintings — an act of care that is also a responsibility for bringing rain, and the reason these galleries are called living paintings.\n\nThe explorer George Grey saw Wandjina paintings in the Glenelg River country in 1838 and introduced the \"staring, great-eyed figures\" to European readers in his 1841 journals, prompting baseless speculation about foreign visitors. A giant Wandjina image rose over the stadium at the Sydney 2000 opening ceremony; unauthorised commercial and graffiti uses of the image, by contrast, have drawn formal protests from the Kimberley peoples, under whose law only certain families may paint a Wandjina."
+  },
+  "geo": {
+    "lat": -15.5,
+    "lon": 125,
+    "label": {
+      "zh": "金伯利西北部（西澳大利亚）",
+      "en": "North-west Kimberley, Western Australia"
+    }
+  },
+  "domains": {
+    "zh": [
+      "云雨",
+      "雷电",
+      "丰饶",
+      "岩画"
+    ],
+    "en": [
+      "Rain clouds",
+      "Lightning",
+      "Fertility",
+      "Rock art"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "沃罗拉、恩加林因、乌南巴尔（万吉纳-温古尔共同体）",
+        "en": "Worrorra, Ngarinyin, and Wunambal (the Wanjina-Wunggurr community)"
+      }
+    },
+    {
+      "label": {
+        "zh": "形象特征",
+        "en": "Iconography"
+      },
+      "value": {
+        "zh": "白面黑目、光晕头饰、无嘴",
+        "en": "White face, large dark eyes, halo headdress, no mouth"
+      }
+    },
+    {
+      "label": {
+        "zh": "欧洲最早记录",
+        "en": "First European record"
+      },
+      "value": {
+        "zh": "乔治·格雷，1838年格伦内格河谷",
+        "en": "George Grey, Glenelg River valley, 1838"
+      }
+    }
+  ],
+  "related": [
+    "rainbow-serpent",
+    "the-dreaming",
+    "namarrkon"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《澳大利亚西北与西部两次探险日志》（1841）",
+      "en": "George Grey, Journals of Two Expeditions of Discovery in North-West and Western Australia (1841)"
+    },
+    {
+      "zh": "伊恩·克劳福德《万吉纳艺术》（1968）",
+      "en": "Ian M. Crawford, The Art of the Wandjina (1968)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/wandjina.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wandjina_rock_art_painting.jpg",
+    "sourceTitle": "Wandjina rock art painting",
+    "artist": "Stephan Ridgway",
+    "license": "CC BY 2.0",
+    "width": 750,
+    "height": 1000
+  }
+}

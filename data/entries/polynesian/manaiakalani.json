@@ -1,0 +1,106 @@
+{
+  "id": "manaiakalani",
+  "tradition": "polynesian",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "马纳亚卡拉尼",
+    "en": "Manaiakalani",
+    "original": "Mānaiakalani",
+    "originalLang": "夏威夷语"
+  },
+  "title": {
+    "zh": "毛伊的神鱼钩",
+    "en": "The Fishhook of Maui"
+  },
+  "summary": {
+    "zh": "毛伊的神鱼钩：夏威夷传统称之为马纳亚卡拉尼，曾试图把群岛钓拢为一；毛利传统说它以祖母下颌骨制成，钓起了新西兰北岛。天蝎座尾端至今以它为名。",
+    "en": "Maui's magic fishhook, Manaiakalani in Hawaiian tradition, with which he tried to draw the islands together; in Maori telling it was his grandmother's jawbone and hauled up the North Island. Scorpius's tail still bears its name."
+  },
+  "description": {
+    "zh": "波利尼西亚各群岛都记得毛伊手中那枚鱼钩。夏威夷传统给了它名字：马纳亚卡拉尼。据贝克威思《夏威夷神话》所辑的各岛版本，毛伊想把散落的岛屿钓拢连成一片大陆，便以此钩垂入深海，钩住海底巨物（一说是名为皮莫埃的大鱼），令兄弟们奋力划桨并严禁回头；眼看陆地将出，兄弟中有人忍不住回望，钓线崩断，岛屿从此各自漂在海上。\n\n毛利版本见于乔治·格雷1855年的记录：鱼钩以祖母穆里朗加费努阿的下颌骨制成，毛伊藏身兄长的独木舟出海，以自己的鼻血为饵，一钩沉底，拽起的巨鱼就是新西兰北岛\"毛伊之鱼\"。霍克湾的毛利语名\"特马陶阿毛伊\"意即\"毛伊的鱼钩\"，指的是海湾南端弯曲如钩的岬角；南岛在同一套叙事里是毛伊的独木舟。\n\n这枚鱼钩最终挂上了夜空。夏威夷星象传统把天蝎座尾部那列弯成钩形的亮星称作\"毛伊的大鱼钩\"，即马纳亚卡拉尼；二十世纪七十年代以来，波利尼西亚航海复兴运动的领航者驾驶远航独木舟\"霍库莱阿\"号重走无仪器航路，马纳亚卡拉尼正是他们星路体系中的导航星组之一。",
+    "en": "Every Polynesian island group remembers the hook in Maui's hand. Hawaiian tradition gives it a name, Manaiakalani. In the versions gathered in Beckwith's Hawaiian Mythology, Maui meant to fish the scattered islands together into one land: he sank the hook into the deep, caught something vast on the sea floor — in one telling the great fish Pimoe — and set his brothers paddling with strict orders not to look back. Land was breaking the surface when one brother turned his head; the line snapped, and the islands have floated apart ever since.\n\nThe Maori version is in George Grey's 1855 record: the hook was made from the jawbone of his grandmother Murirangawhenua. Maui stowed away in his brothers' canoe, baited the hook with blood from his own nose, and hauled up the great fish that is the North Island of New Zealand, Te Ika-a-Maui. The Maori name of Hawke Bay, Te Matau-a-Maui, means \"Maui's fishhook,\" after the hook-shaped sweep of headland at its southern end; the South Island, in the same telling, is Maui's canoe.\n\nThe hook ended up in the night sky. Hawaiian star lore calls the curved line of bright stars in the tail of Scorpius the big fishhook of Maui, Manaiakalani, and since the 1970s the navigators of the Polynesian voyaging revival, sailing the canoe Hokulea without instruments, have used it as one of the star lines of their wayfinding system."
+  },
+  "domains": {
+    "zh": [
+      "神器",
+      "钓岛",
+      "星象",
+      "航海"
+    ],
+    "en": [
+      "Sacred implement",
+      "Fishing up land",
+      "Star lore",
+      "Navigation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "材质（毛利版）",
+        "en": "Material (Maori)"
+      },
+      "value": {
+        "zh": "祖母穆里朗加费努阿的下颌骨",
+        "en": "The jawbone of the grandmother Murirangawhenua"
+      }
+    },
+    {
+      "label": {
+        "zh": "钓获",
+        "en": "Catch"
+      },
+      "value": {
+        "zh": "新西兰北岛\"毛伊之鱼\"",
+        "en": "Te Ika-a-Maui, the North Island of New Zealand"
+      }
+    },
+    {
+      "label": {
+        "zh": "天上对应",
+        "en": "In the sky"
+      },
+      "value": {
+        "zh": "天蝎座尾部钩形星列",
+        "en": "The hook of stars in the tail of Scorpius"
+      }
+    }
+  ],
+  "related": [
+    "maui",
+    "tangaroa",
+    "hawaiki"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年）",
+      "en": "George Grey, Polynesian Mythology (1855)"
+    },
+    {
+      "zh": "W.D.韦斯特维尔特《半神毛伊传说》（1910年）",
+      "en": "W. D. Westervelt, Legends of Ma-ui, a Demi God of Polynesia (1910)"
+    },
+    {
+      "zh": "玛莎·贝克威思《夏威夷神话》（1940年）",
+      "en": "Martha Beckwith, Hawaiian Mythology (1940)"
+    }
+  ],
+  "geo": {
+    "lat": -39.645,
+    "lon": 177.089,
+    "label": {
+      "zh": "特马陶阿毛伊（霍克湾）",
+      "en": "Te Matau-a-Maui, Hawke Bay"
+    }
+  },
+  "image": {
+    "file": "/images/entries/manaiakalani.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bone_fishhook_(755f5121-3753-47e9-a789-2dac5fe3964b).JPG",
+    "sourceTitle": "KALA",
+    "artist": "NPS photo",
+    "license": "Public domain",
+    "width": 686,
+    "height": 1000
+  }
+}

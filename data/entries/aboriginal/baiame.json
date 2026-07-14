@@ -1,0 +1,105 @@
+{
+  "id": "baiame",
+  "tradition": "aboriginal",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "巴亚米",
+    "en": "Baiame",
+    "original": "Baayami",
+    "originalLang": "加米拉赖语"
+  },
+  "title": {
+    "zh": "东南诸族的天空之父",
+    "en": "Sky Father of the South-East"
+  },
+  "summary": {
+    "zh": "新南威尔士威拉朱里、加米拉赖等民族的创造者与立法者：造出河山与人类、订下成年礼博拉的规程，事毕返回天界。",
+    "en": "Creator and law-giver of the Wiradjuri, Gamilaraay, and neighbouring peoples of New South Wales: he shaped rivers and people, instituted the Bora initiation ground, then withdrew into the sky."
+  },
+  "description": {
+    "zh": "在澳洲东南部威拉朱里、加米拉赖、乌纳鲁阿等民族的传统叙事中，巴亚米是走在最前面的创造者：他在梦创时代自天而降，行走大地，造出河流、山岭与洞穴，教人类哪些动物可猎、哪些植物可食，订立亲属与婚姻的律法，随后登回天界，从此不再直接现身。与他相关的还有妻子比拉努卢与儿子达拉穆伦；在若干叙事中，达拉穆伦代父亲主持人间的成年礼。\n\n巴亚米最重要的遗产是博拉（Bora）仪式——东南诸族少年成为成年男子的入礼。传统上博拉场由一大一小两个土圈构成，其间以小径相连，其形制据说仿自巴亚米初次举行仪式的场地；他的名号在仪式之外不得轻易说出，妇女不得接近相关圣地。这些规矩在十九世纪传教士与人类学者的记录中反复出现：传教士里德利1875年的语言志、豪伊特1904年的东南部族志，以及朗洛·帕克夫人根据尤阿拉赖口传整理的故事集，都留下了关于“比亚米”的记载。\n\n新南威尔士猎人谷米尔布罗代尔附近的“巴亚米洞”保存着一幅著名岩画：白身巨人双臂横展，双目浑圆，当地乌纳鲁阿人传统认为画中正是张臂护佑土地的巴亚米。这处岩画至今由社区照看，是东南部少数与天空之父直接关联的可见圣迹。",
+    "en": "In the traditions of the Wiradjuri, Gamilaraay, Wonnarua, and neighbouring peoples of south-eastern Australia, Baiame walks first: he came down from the sky in the Dreaming, made the rivers, ranges, and caves, showed people which animals to hunt and which plants to eat, laid down the law of kinship and marriage, and then returned to the sky, never to appear directly again. Around him stand his wife Birrahgnooloo and his son Daramulum, who in several tellings presides over initiation on his father's behalf.\n\nBaiame's chief legacy is the Bora, the ceremony by which boys of the south-east became men. A Bora ground consists of two earthen circles, one large and one small, joined by a path — a layout said to copy the ground where Baiame first held the rite. His name was not to be spoken casually outside ceremony, and women were barred from the associated sites. These rules recur throughout the nineteenth-century record: the missionary William Ridley's 1875 linguistic work, A. W. Howitt's 1904 ethnography of the south-east, and K. Langloh Parker's collections from Yuwaalaraay tellers all set down accounts of \"Byamee\".\n\nNear Milbrodale in the Hunter Valley of New South Wales, Baiame Cave holds a famous painting: a white figure with round eyes and arms stretched wide across the rock. Local Wonnarua tradition identifies him as Baiame reaching out over his country. The site is still looked after by the community, one of the few visible landmarks in the south-east tied directly to the sky father."
+  },
+  "geo": {
+    "lat": -32.72,
+    "lon": 151.08,
+    "label": {
+      "zh": "巴亚米洞（新南威尔士米尔布罗代尔）",
+      "en": "Baiame Cave, Milbrodale, New South Wales"
+    }
+  },
+  "domains": {
+    "zh": [
+      "创造",
+      "律法",
+      "天空",
+      "成年礼"
+    ],
+    "en": [
+      "Creation",
+      "Law",
+      "Sky",
+      "Initiation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "威拉朱里、加米拉赖、尤阿拉赖、乌纳鲁阿等东南诸族",
+        "en": "Wiradjuri, Gamilaraay, Yuwaalaraay, Wonnarua, and other south-eastern peoples"
+      }
+    },
+    {
+      "label": {
+        "zh": "亲族",
+        "en": "Kin"
+      },
+      "value": {
+        "zh": "妻比拉努卢，子达拉穆伦",
+        "en": "Wife Birrahgnooloo, son Daramulum"
+      }
+    },
+    {
+      "label": {
+        "zh": "关联仪式",
+        "en": "Associated ceremony"
+      },
+      "value": {
+        "zh": "博拉成年礼（双圈土场）",
+        "en": "The Bora initiation ground of two earthen rings"
+      }
+    }
+  ],
+  "related": [
+    "the-dreaming",
+    "seven-sisters"
+  ],
+  "sources": [
+    {
+      "zh": "威廉·里德利《加米拉赖及其他澳大利亚语言》（1875）",
+      "en": "William Ridley, Kamilaroi and Other Australian Languages (1875)"
+    },
+    {
+      "zh": "豪伊特《澳大利亚东南部土著部落》（1904）",
+      "en": "A. W. Howitt, The Native Tribes of South-East Australia (1904)"
+    },
+    {
+      "zh": "朗洛·帕克《澳大利亚传奇故事》（1896，尤阿拉赖口传）",
+      "en": "K. Langloh Parker, Australian Legendary Tales (1896, Yuwaalaraay oral tradition)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/baiame.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:(1)Baiame_Cave005.jpg",
+    "sourceTitle": "(1)Baiame Cave005",
+    "artist": "Sardaka",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 645
+  }
+}

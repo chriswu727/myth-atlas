@@ -1,0 +1,114 @@
+{
+  "id": "inti",
+  "tradition": "inca",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "因蒂",
+    "en": "Inti",
+    "original": "Inti",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "太阳神，印加王室的祖神",
+    "en": "The Sun, Ancestor of the Inca Kings"
+  },
+  "summary": {
+    "zh": "印加帝国的太阳神与王室祖神，形象为带人面的金盘。萨帕·印加自称“太阳之子”，库斯科的科里坎查神庙与六月冬至的太阳节都以他为中心。",
+    "en": "Sun god and royal ancestor of the Inca empire, pictured as a golden disk with a human face. The Sapa Inca ruled as his son; Coricancha and the June solstice feast were his."
+  },
+  "description": {
+    "zh": "因蒂是印加国家崇拜的核心。他最常见的形象是一面纯金圆盘，盘心铸出人脸，四周放射金芒。作为帝国的守护神，他被奉为王族的直系祖先：在位的萨帕·印加称“因蒂丘林”，即太阳之子，以太阳在人间的化身自居。他的妻子是月神妈妈基利亚，日月成对，分掌昼夜。\n\n库斯科的科里坎查（“黄金围场”）是因蒂最重要的神庙，墙面覆着金板，庭园里陈列纯金打造的玉米与驼羊。每年六月冬至，帝国在库斯科举行太阳节“因蒂·拉伊米”：贵族先行禁食，黎明时分列队迎候初升的太阳，向他敬献奇恰酒，仪式由印加王亲自主持。加西拉索·德拉维加在《印卡王室述评》中留下了对这一庆典的详细追述。\n\n因蒂也是王朝合法性的源头。传说他怜悯蒙昧的人类，派儿子曼科·卡帕克与女儿妈妈奥克略从的的喀喀湖降临人间，教人耕织，建立库斯科。帝国每征服一地，便设立太阳神庙与侍奉太阳的“阿克利亚”贞女院，把因蒂崇拜推行到整个安第斯。西班牙人到来后神庙被拆毁，太阳节于1572年遭殖民当局禁绝；1944年起库斯科重新排演因蒂·拉伊米，如今仍是秘鲁规模最大的节庆之一。",
+    "en": "Inti stood at the center of the Inca state religion. His most familiar image was a disk of solid gold, a human face cast at its heart and rays flaring outward. He was worshipped as the direct ancestor of the royal line: the reigning Sapa Inca bore the name Intip Churin, Son of the Sun, and governed as the god's living representative. His consort was the moon goddess Mama Killa; sun and moon paired to divide day and night.\n\nHis greatest sanctuary was the Coricancha, the Golden Enclosure of Cusco, its walls sheeted in gold and its courtyard set with maize stalks and llamas worked in the same metal. At the June solstice the empire celebrated Inti Raymi in Cusco: nobles fasted beforehand, then assembled at dawn to salute the rising sun and offer it chicha, the maize beer, with the Inca himself presiding. Garcilaso de la Vega describes the festival at length in his Royal Commentaries.\n\nInti also anchored the dynasty's legend of origin. Pitying humankind in its ignorance, he sent his son Manco Cápac and daughter Mama Ocllo down to earth at Lake Titicaca to teach farming and weaving and to found Cusco. Wherever the empire conquered, it installed sun temples and houses of chosen women, the acllas, spreading the cult across the Andes. Spanish rule demolished the temples and banned Inti Raymi in 1572; since 1944 the festival has been restaged in Cusco and remains one of the largest celebrations in Peru."
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "王权",
+      "国家崇拜",
+      "丰收"
+    ],
+    "en": [
+      "Sun",
+      "Kingship",
+      "State cult",
+      "Harvest"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Image"
+      },
+      "value": {
+        "zh": "带人面与金芒的纯金圆盘",
+        "en": "Golden disk with a human face and rays"
+      }
+    },
+    {
+      "label": {
+        "zh": "主神庙",
+        "en": "Chief temple"
+      },
+      "value": {
+        "zh": "库斯科科里坎查",
+        "en": "Coricancha, Cusco"
+      }
+    },
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "因蒂·拉伊米（六月冬至太阳节）",
+        "en": "Inti Raymi, at the June solstice"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "月神妈妈基利亚",
+        "en": "Mama Killa, the moon"
+      }
+    }
+  ],
+  "related": [
+    "viracocha",
+    "mama-killa",
+    "manco-capac",
+    "coricancha",
+    "punchao"
+  ],
+  "sources": [
+    {
+      "zh": "印卡·加西拉索·德拉维加《印卡王室述评》（1609）",
+      "en": "Inca Garcilaso de la Vega, Royal Commentaries of the Incas (1609)"
+    },
+    {
+      "zh": "贝尔纳贝·科博《新世界史》（1653）",
+      "en": "Bernabé Cobo, Historia del Nuevo Mundo (1653)"
+    }
+  ],
+  "geo": {
+    "lat": -13.5207,
+    "lon": -71.9752,
+    "label": {
+      "zh": "库斯科科里坎查神庙",
+      "en": "Coricancha, Cusco"
+    }
+  },
+  "image": {
+    "file": "/images/entries/inti.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A1pac_Inti_Raimi.jpg",
+    "sourceTitle": "Cápac Inti Raimi",
+    "artist": "Felipe Guaman Poma de Ayala",
+    "license": "Public domain",
+    "width": 731,
+    "height": 1000
+  }
+}

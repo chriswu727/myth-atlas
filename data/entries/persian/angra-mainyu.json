@@ -1,0 +1,99 @@
+{
+  "id": "angra-mainyu",
+  "tradition": "persian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "安格拉·曼纽",
+    "en": "Angra Mainyu",
+    "original": "Aŋra Mainiiu",
+    "originalLang": "阿维斯陀语"
+  },
+  "title": {
+    "zh": "破坏之灵，谎言的选择者",
+    "en": "The Destructive Spirit, Chooser of the Lie"
+  },
+  "summary": {
+    "zh": "琐罗亚斯德教中与阿胡拉·马兹达对立的破坏之灵，中古波斯语称阿里曼。他污染光明的造物，制造毒虫、疾病与死亡，终将在世界更新时被击败。",
+    "en": "The destructive spirit opposed to Ahura Mazda, known in Middle Persian as Ahriman. He corrupts creation with vermin, disease, and death, and will be defeated at the world's renovation."
+  },
+  "description": {
+    "zh": "安格拉·曼纽，阿维斯陀语意为\"破坏之灵\"或\"敌意之灵\"，中古波斯语作阿里曼（Ahriman），是琐罗亚斯德教二元宇宙观中恶的一极。《亚斯纳》第30章说太初两灵为孪生，在思想、言语与行为上做出相反的选择：一个选了真理，一个选了谎言。他不能创造生命，只会\"反创造\"：《维提吠达特》第一章列举阿胡拉·马兹达造出的十六片美好国土，安格拉·曼纽逐一投下对应的灾祸——严冬、蛇虫、瘟疫、疑惑与哀哭。蛇、蝎、蛙类等\"赫拉夫斯特拉\"（毒害生物）都被视为他的造物。\n\n《本达希申》描绘了他对世界的总攻：他从北方的黑暗中跃入天空，咬穿天球冲进大地，使清水变咸、绿树枯萎，杀死原牛与原人伽约马德，又把死亡带给一切活物；但他随即被困在世界之内，如同闯入陷阱的野兽，宇宙史就是把他耗尽的过程。教义许诺，在末日\"弗拉肖克勒提\"（更新之时），救世主将降临，死者复活，熔化的金属流过大地涤净一切，安格拉·曼纽将永远无力。祆教徒日常打死毒虫、保持水火洁净的戒律，都是这场战争中站在光明一方的具体动作。后世波斯文学中，阿里曼成为一切阴谋与蛊惑的代称，《列王纪》里引诱扎哈克弑父的魔鬼伊卜利斯延续着他的角色。",
+    "en": "Angra Mainyu, Avestan for \"destructive spirit,\" called Ahriman in Middle Persian, is the evil pole of Zoroastrian dualism. Yasna 30 describes the two primal spirits as twins who chose opposite paths in thought, word, and deed, one choosing truth and the other the lie. He cannot create life, only counter-create: the first chapter of the Vendidad lists sixteen good lands made by Ahura Mazda, and for each Angra Mainyu casts a matching plague — killing winter, serpents, pestilence, doubt, and lamentation. Snakes, scorpions, and other noxious creatures, the khrafstras, are counted among his works.\n\nThe Bundahishn narrates his great assault: leaping from the northern darkness, he pierced the sky, burst into the earth, turned sweet water salt, withered the plants, slew the primordial bull and Gayomard the first man, and brought death to every living thing — only to find himself trapped inside the world like a beast in a snare, so that cosmic history becomes the long process of exhausting him. Doctrine promises that at the Frashokereti, the final renovation, the dead will rise, molten metal will wash the earth clean, and Angra Mainyu will be rendered powerless forever. The Zoroastrian duties of killing vermin and keeping fire and water pure are concrete acts of enlistment on the side of light. In later Persian literature Ahriman became a byword for every tempter; the devil Eblis who seduces Zahhak in the Shahnameh carries on his role."
+  },
+  "domains": {
+    "zh": [
+      "破坏",
+      "谎言",
+      "黑暗",
+      "疾病与死亡"
+    ],
+    "en": [
+      "Destruction",
+      "The Lie",
+      "Darkness",
+      "Disease and death"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "中古波斯语名",
+        "en": "Middle Persian name"
+      },
+      "value": {
+        "zh": "阿里曼（Ahriman）",
+        "en": "Ahriman"
+      }
+    },
+    {
+      "label": {
+        "zh": "造物",
+        "en": "Creations"
+      },
+      "value": {
+        "zh": "赫拉夫斯特拉（蛇蝎等毒害生物）、疾病、严冬",
+        "en": "Khrafstras (snakes, scorpions), disease, killing winter"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "在弗拉肖克勒提（世界更新）时被彻底挫败",
+        "en": "Rendered powerless at the Frashokereti, the final renovation"
+      }
+    }
+  ],
+  "related": [
+    "ahura-mazda",
+    "azhi-dahaka",
+    "div",
+    "chinvat-bridge"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·亚斯纳》第30章",
+      "en": "Avesta, Yasna 30"
+    },
+    {
+      "zh": "《维提吠达特》第一章",
+      "en": "Vendidad, chapter 1"
+    },
+    {
+      "zh": "《本达希申》（中古波斯语《创世纪》）",
+      "en": "Bundahishn (Middle Persian Book of Primal Creation)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/angra-mainyu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahrimane_(Mythologie_pittoresque,_pl._18).jpg",
+    "sourceTitle": "Ahrimane (Mythologie pittoresque, pl. 18)",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 706,
+    "height": 1000
+  }
+}

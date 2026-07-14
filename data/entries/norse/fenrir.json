@@ -1,0 +1,96 @@
+{
+  "id": "fenrir",
+  "tradition": "norse",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "芬里尔",
+    "en": "Fenrir",
+    "original": "Fenrir",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "吞噬奥丁的巨狼",
+    "en": "The Great Wolf Fated to Devour Odin"
+  },
+  "summary": {
+    "zh": "洛基之子，在诸神眼皮底下长成的巨狼。诸神以侏儒打造的魔法缎带缚住他，战神提尔为此付出右手；末日他将挣脱并吞下奥丁。",
+    "en": "Loki's monstrous wolf-son, bound by the dwarf-made ribbon Gleipnir at the cost of Tyr's right hand; at Ragnarok he breaks loose and swallows Odin."
+  },
+  "description": {
+    "zh": "芬里尔是洛基与女巨人安格尔波达所生的巨狼。预言说他将给诸神带来大祸，诸神却决定把幼狼养在身边看管，只有战神提尔敢于喂他。眼见他一天大过一天，诸神先后打造两条铁链莱汀与德洛米试图缚他，都被他挣断如朽绳。诸神转而求助侏儒，得到一条名为格莱普尼尔的缎带，柔滑如丝，以六样世上不存在之物制成：猫的脚步声、女人的胡须、山的根、熊的筋腱、鱼的呼吸和鸟的唾液。\n\n芬里尔起了疑心，要求有神把手放进他口中作保才肯受试。提尔伸出右手。缎带越挣越紧，诸神大笑，提尔失去了那只手。诸神把缎带系在巨岩上，将他镇在岛上，又以一柄剑撑开他的上下颚；他嚎叫不止，淌下的涎水流成名为「期望」的河。到诸神黄昏那天，大地震动，芬里尔挣脱束缚，上颚抵天、下颚拄地扑向战场，一口吞下奥丁；奥丁之子维达随即踏住他的下颚，撕裂了这头巨狼。\n\n吞噬太阳与月亮的两头狼斯库尔与哈提，在部分文献中也被视作他的族裔，统称芬里尔之子。",
+    "en": "Fenrir is the great wolf born to Loki and the giantess Angrboda. Prophecy warned of the ruin he would bring, yet the gods chose to raise the cub among themselves, and only Tyr dared to feed him. As he grew day by day, they forged two iron chains, Laeding and Dromi, and he snapped both like rotten cord. So the gods turned to the dwarfs, who made the ribbon Gleipnir, smooth as silk, from six things that do not exist: the sound of a cat's footfall, the beard of a woman, the roots of a mountain, the sinews of a bear, the breath of a fish, and the spittle of a bird.\n\nFenrir grew suspicious and demanded that a god lay a hand in his mouth as a pledge before he would be bound. Tyr offered his right hand. The ribbon only tightened as the wolf struggled; the gods laughed, and Tyr lost the hand. They staked the ribbon to a boulder on an island and propped the wolf's jaws open with a sword; his slaver runs as the river called Van, 'expectation'. At Ragnarok he tears free and advances with his upper jaw against the sky and his lower against the earth, and swallows Odin whole. Odin's son Vidar then steps on the lower jaw and rends the wolf apart.\n\nThe wolves Skoll and Hati, who hunt the sun and moon, are in some sources counted among his brood."
+  },
+  "domains": {
+    "zh": [
+      "巨狼",
+      "束缚与挣脱",
+      "末日",
+      "宿命"
+    ],
+    "en": [
+      "The Great Wolf",
+      "Binding and Breaking",
+      "Doomsday",
+      "Fate"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "束缚",
+        "en": "Bond"
+      },
+      "value": {
+        "zh": "侏儒缎带格莱普尼尔",
+        "en": "The dwarf-made ribbon Gleipnir"
+      }
+    },
+    {
+      "label": {
+        "zh": "代价",
+        "en": "Price"
+      },
+      "value": {
+        "zh": "提尔的右手",
+        "en": "Tyr's right hand"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿命",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "吞噬奥丁，死于维达之手",
+        "en": "Swallows Odin; slain by Vidar"
+      }
+    }
+  ],
+  "related": [
+    "loki",
+    "odin",
+    "hel",
+    "jormungandr",
+    "ragnarok"
+  ],
+  "sources": [
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    },
+    {
+      "zh": "《诗体埃达·女占卜者的预言》",
+      "en": "Poetic Edda: Voluspa"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/fenrir.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tyr_and_Fenrir-John_Bauer.jpg",
+    "sourceTitle": "Tyr and Fenrirlabel QS:Lfr,\"Tyr et Fenrir, illustration de John Bauer pour Our Fathers' Godsaga de Viktor Rydberg, 1911\"label QS:Lsv,\"Tyr och Fenrisulven\"label QS:Luk,\"Фенрір і Тир, Джон Бауер\"label QS:Len,\"Tyr and Fenrir\"",
+    "artist": "John Bauer",
+    "license": "Public domain",
+    "width": 857,
+    "height": 1000
+  }
+}

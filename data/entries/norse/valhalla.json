@@ -1,0 +1,99 @@
+{
+  "id": "valhalla",
+  "tradition": "norse",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "瓦尔哈拉",
+    "en": "Valhalla",
+    "original": "Valhöll",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "奥丁的英灵殿",
+    "en": "Odin's Hall of the Slain"
+  },
+  "summary": {
+    "zh": "奥丁在神域的大殿，椽是枪矛、顶铺金盾，有五百四十道门。战死的勇士在此日日厮杀、夜夜宴饮，只为末日一战。",
+    "en": "Odin's hall in Asgard, raftered with spears and roofed with golden shields, with five hundred and forty doors. The chosen slain fight all day and feast all night, training for Ragnarok."
+  },
+  "description": {
+    "zh": "瓦尔哈拉意为「阵亡者之殿」，是奥丁在阿萨神域格拉兹海姆的大殿。《格里姆尼尔之歌》描述它以枪矛为椽、金盾铺顶、胸甲堆凳，共有五百四十道门，末日之时每道门将同时涌出八百名战士。瓦尔基里从战场上拣选的勇士——英灵战士——在此度过一种为末日定制的来生：每天清晨披甲出殿相互厮杀，傍晚死者复起，同席宴饮。\n\n宴席永不匮乏。厨子安德赫里姆尼尔每天在大锅里烹煮巨猪塞赫里姆尼尔，当晚吃尽，次日复生；殿顶站着母山羊海德伦，啃食殿旁大树的枝叶，乳房里流出的蜜酒注满一桶又一桶。奥丁坐在席间却不进食，把盘中肉抛给脚边双狼，自己以葡萄酒为食。战死而入瓦尔哈拉是维京武士观念中最体面的结局；十世纪的挽歌《埃里克之歌》便描写奥丁派英雄出殿，迎接血斧王埃里克入座。\n\n这一切盛宴与操练都朝向同一个日期：诸神黄昏那天，五百四十道门各涌出八百名英灵战士，随奥丁开赴维格利德平原——明知必败，仍倾巢而出。",
+    "en": "Valhalla, 'the hall of the slain', is Odin's hall in Gladsheim in Asgard. The Grimnismal describes a war-built architecture: rafters of spear-shafts, a roof of golden shields, benches strewn with mail-coats, and five hundred and forty doors, from each of which eight hundred warriors will march abreast at the world's end. The warriors gathered by the valkyries, the einherjar, live an afterlife designed as training: every morning they arm themselves and cut each other down in the courtyard, and every evening the dead rise whole and sit down together to feast.\n\nThe feast never runs short. The cook Andhrimnir boils the great boar Saehrimnir each day, and the beast is whole again by morning; on the roof stands the she-goat Heidrun, browsing the branches of the tree beside the hall, her udders running with mead enough to fill vat after vat. Odin sits at the table but eats nothing, tossing his meat to the two wolves at his feet and living on wine alone. To die in battle and enter Valhalla was the proudest end a Viking warrior could imagine; the tenth-century poem Eiriksmal shows Odin sending heroes to the doors to welcome King Eirik Bloodaxe to his seat.\n\nAll the feasting and daily slaughter aim at a single date: at Ragnarok the einherjar march out with Odin to the plain of Vigrid, knowing the battle is already lost, and going anyway."
+  },
+  "domains": {
+    "zh": [
+      "来生",
+      "战士",
+      "宴饮",
+      "备战末日"
+    ],
+    "en": [
+      "Afterlife",
+      "Warriors",
+      "Feasting",
+      "Arming for Doomsday"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "规模",
+        "en": "Scale"
+      },
+      "value": {
+        "zh": "五百四十道门，每门可出八百战士",
+        "en": "540 doors, 800 warriors through each"
+      }
+    },
+    {
+      "label": {
+        "zh": "食物",
+        "en": "Provisions"
+      },
+      "value": {
+        "zh": "日日复生的巨猪塞赫里姆尼尔与山羊海德伦的蜜酒",
+        "en": "The self-renewing boar Saehrimnir and Heidrun's mead"
+      }
+    },
+    {
+      "label": {
+        "zh": "居民",
+        "en": "Inhabitants"
+      },
+      "value": {
+        "zh": "英灵战士与瓦尔基里",
+        "en": "The einherjar and the valkyries"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "valkyrie",
+    "ragnarok",
+    "freyja"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·格里姆尼尔之歌》",
+      "en": "Poetic Edda: Grimnismal"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    },
+    {
+      "zh": "佚名挽歌《埃里克之歌》（约954年）",
+      "en": "Eiriksmal, anonymous skaldic poem, c. 954"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/valhalla.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walhall_by_Emil_Doepler.jpg",
+    "sourceTitle": "Walhall by Emil Doepler",
+    "artist": "Emil Doepler",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 668
+  }
+}

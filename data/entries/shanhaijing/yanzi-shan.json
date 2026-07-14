@@ -1,0 +1,42 @@
+{
+  "id": "yanzi-shan",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": { "zh": "崦嵫之山", "en": "Mount Yanzi" },
+  "title": { "zh": "日所入的西极之山", "en": "Mountain Where the Sun Goes Down" },
+  "summary": {
+    "zh": "西次四经的最后一座山，多丹木美玉，怪兽孰湖出没；屈原“望崦嵫而勿迫”使它成为日落的代名词。",
+    "en": "Last mountain of the fourth western guideway, rich in cinnabar trees and jade and haunted by the Shuhu; Qu Yuan's line 'gazing at Yanzi, do not press near' made it the byword for sunset."
+  },
+  "description": {
+    "zh": "崦嵫之山是西次四经的最后一座山。山上多丹木，“其叶如榖，其实大如瓜，赤符而黑理”，果实吃了能治黄疸，还可以御火；山南多龟，山北多玉；苕水从这里发源，西流注于海，水中多磨刀的砥砺之石。\n\n山中一兽一鸟俱是奇形。兽名孰湖，“马身而鸟翼，人面蛇尾”，性喜把人抱起来举着；鸟则状如鸮而人面，蜼身犬尾，名字就是它自己的叫声，它出现在哪座城邑，哪里就要大旱。\n\n让崦嵫不朽的是屈原。《离骚》“吾令羲和弭节兮，望崦嵫而勿迫”——诗人命令为太阳驾车的羲和放慢节拍，望见崦嵫也不要靠近，因为王逸注说：崦嵫，日所入之山。从此崦嵫在汉语里就是日落之处，“日薄崦嵫”至今仍用来形容暮年与残局。传统地志把它比定为甘肃天水西南的山地。",
+    "en": "Mount Yanzi closes the fourth guideway of the western mountains. On it grow cinnabar trees 'with leaves like the paper mulberry and fruit the size of melons, red-rinded and black-veined', a fruit that cures jaundice and guards against fire; turtles abound on its southern slopes and jade on its northern; the River Tiao rises here and flows west to the sea over beds of whetstone.\n\nIts beast and bird are both prodigies. The Shuhu has 'a horse's body with bird's wings, a human face and a snake's tail', and delights in picking people up and holding them aloft; the bird is owl-shaped with a human face, monkey-bodied and dog-tailed, calls its own name, and brings great drought to any town where it appears.\n\nWhat made Yanzi immortal was Qu Yuan. In the Lisao the poet commands Xihe, charioteer of the sun, to slacken pace — 'gazing at Yanzi, do not press near' — for, as Wang Yi's commentary explains, Yanzi is the mountain into which the sun sets. Ever since, the name has meant sunset itself in literary Chinese, and 'the sun nearing Yanzi' still describes old age and closing days. Traditional geographers placed the mountain southwest of Tianshui in Gansu."
+  },
+  "domains": {
+    "zh": ["日入之山", "丹木", "孰湖", "迟暮意象"],
+    "en": ["Mountain of Sunset", "Cinnabar Trees", "The Shuhu", "Emblem of Dusk"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "物产", "en": "Products" },
+      "value": { "zh": "丹木、玉、龟、砥砺", "en": "Cinnabar trees, jade, turtles, whetstones" }
+    },
+    {
+      "label": { "zh": "居民", "en": "Denizens" },
+      "value": { "zh": "孰湖与人面鸮形旱鸟", "en": "The Shuhu and a human-faced owl of drought" }
+    },
+    {
+      "label": { "zh": "典故", "en": "Locus classicus" },
+      "value": { "zh": "《离骚》：望崦嵫而勿迫", "en": "Lisao: 'gazing at Yanzi, do not press near'" }
+    }
+  ],
+  "related": ["fei-yi"],
+  "sources": [
+    { "zh": "《山海经·西山经》", "en": "Shanhaijing, 'Classic of the Western Mountains'" },
+    { "zh": "《楚辞·离骚》（王逸注）", "en": "Chuci, 'Lisao', with Wang Yi's commentary" }
+  ],
+  "geo": { "lat": 34.42, "lon": 105.72, "label": { "zh": "崦嵫山（传统比定，甘肃天水西南）", "en": "Mount Yanzi (traditionally located southwest of Tianshui, Gansu)" } },
+  "volume": { "zh": "西山经", "en": "Classic of the Western Mountains" },
+  "image": null
+}

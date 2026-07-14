@@ -1,0 +1,105 @@
+{
+  "id": "amun",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "阿蒙",
+    "en": "Amun",
+    "original": "jmn",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "隐匿者，底比斯的众神之王",
+    "en": "The Hidden One, King of the Gods at Thebes"
+  },
+  "summary": {
+    "zh": "名字意为'隐匿者'的底比斯主神，新王国时期与拉融合为阿蒙-拉，登顶埃及国家神。卡纳克神庙是他的居所，亚历山大大帝曾远赴锡瓦绿洲求他的神谕。",
+    "en": "The Theban god whose name means 'the Hidden One'; fused with Ra as Amun-Ra, he became Egypt's state god, housed at Karnak, and Alexander the Great sought his oracle at Siwa."
+  },
+  "description": {
+    "zh": "阿蒙的名字意为'隐匿者'，指他如风与气息一般不可目睹。他的标准形象是头戴双根高羽冠的男子，皮肤常涂成蓝色；圣兽是弯角的公羊与鹅，卡纳克神庙的甬道两侧至今排列着羊首狮身像。他最早见于《金字塔铭文》，在赫尔莫波利斯神学中与配偶阿玛乌奈特同属代表创世前混沌的八元神。\n\n他的腾达与底比斯城的命运绑在一起。中王国时期底比斯崛起，阿蒙由地方神跃升；到新王国，他与太阳神融合为阿蒙-拉，称'众神之王'，成为帝国的国家神。卡纳克的阿蒙大神庙经历代法老增修近两千年，占地逾百公顷，是古代世界规模最大的宗教建筑群，其大柱厅内134根石柱中最高者达21米。阿蒙祭司集团的财富与权势一度足以同王室分庭抗礼；阿肯那顿的宗教改革首先要抹除的就是阿蒙之名，而改革失败后阿蒙的地位愈发稳固。《莱顿纸草I 350》中的大颂歌称'一切神明皆是他的化身'，学者视之为埃及神学最接近一神倾向的表述。\n\n利比亚沙漠深处锡瓦绿洲的阿蒙神谕所名扬地中海世界。公元前331年，亚历山大大帝专程穿越沙漠前往求问，祭司以'阿蒙之子'相称；他死后，继业者铸造的钱币肖像上便给亚历山大添上了阿蒙的公羊角。",
+    "en": "The name Amun means 'the Hidden One' — a god imperceptible as wind and breath. His standard image is a man wearing a crown of two tall plumes, his skin often painted blue; his sacred animals are the curl-horned ram and the goose, and ram-headed sphinxes still line the processional way at Karnak. He appears as early as the Pyramid Texts, and in the theology of Hermopolis he and his consort Amaunet belonged to the Ogdoad, the eight powers of the precreation chaos.\n\nHis rise tracked the fortunes of Thebes. When the city produced the ruling houses of the Middle Kingdom, its local god rose with it; in the New Kingdom he merged with the sun god as Amun-Ra, 'king of the gods' and state deity of the empire. His temple complex at Karnak, enlarged by pharaohs for nearly two thousand years, covers more than a hundred hectares and is the largest religious precinct of the ancient world; the tallest of the 134 columns in its hypostyle hall rise to 21 meters. The wealth of his priesthood grew to rival the crown's. Akhenaten's revolution began by hammering out Amun's name, and its collapse only entrenched the god further. The Great Hymn in Papyrus Leiden I 350 declares all gods to be his manifestations, the closest Egyptian theology came to a unitary conception of deity.\n\nHis oracle at the Siwa oasis deep in the Libyan desert was famous across the Mediterranean; in 331 BCE Alexander the Great crossed the sands to consult it and was hailed as the son of Amun; after his death, coin portraits struck by his successors showed him wearing the god's ram horns."
+  },
+  "domains": {
+    "zh": [
+      "隐匿",
+      "王权",
+      "创世",
+      "神谕"
+    ],
+    "en": [
+      "Hiddenness",
+      "Kingship",
+      "Creation",
+      "Oracles"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "蓝肤男子，戴双羽高冠",
+        "en": "Blue-skinned man in a double-plumed crown"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣兽",
+        "en": "Sacred animals"
+      },
+      "value": {
+        "zh": "弯角公羊与鹅",
+        "en": "Curl-horned ram and goose"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred site"
+      },
+      "value": {
+        "zh": "卡纳克神庙与锡瓦绿洲神谕所",
+        "en": "Karnak and the Siwa oracle"
+      }
+    }
+  ],
+  "related": [
+    "ra",
+    "maat"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《莱顿阿蒙大颂歌》（莱顿纸草I 350）",
+      "en": "Great Hymn to Amun, Papyrus Leiden I 350"
+    },
+    {
+      "zh": "希罗多德《历史》卷二",
+      "en": "Herodotus, Histories, Book II"
+    }
+  ],
+  "geo": {
+    "lat": 25.72,
+    "lon": 32.66,
+    "label": {
+      "zh": "卡纳克神庙",
+      "en": "Karnak"
+    }
+  },
+  "image": {
+    "file": "/images/entries/amun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Amun_with_features_of_Tutankhamun,_Karnak_Temple_(2515547318).jpg",
+    "sourceTitle": "Statue of Amun with features of Tutankhamun, Karnak Temple (2515547318)",
+    "artist": "joepyrek from Richmond, Va, USA",
+    "license": "CC BY-SA 2.0",
+    "width": 1000,
+    "height": 750
+  }
+}

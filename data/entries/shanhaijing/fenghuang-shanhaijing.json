@@ -1,0 +1,93 @@
+{
+  "id": "fenghuang-shanhaijing",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "凤皇",
+    "en": "Fenghuang"
+  },
+  "title": {
+    "zh": "丹穴山上身负五德的瑞鸟",
+    "en": "Bird of the Five Virtues from Mount Danxue"
+  },
+  "summary": {
+    "zh": "丹穴山神鸟，形状如鸡而五彩，羽纹分别成德、义、礼、仁、信五字，饮食自然，自歌自舞，出现则天下安宁。",
+    "en": "The divine bird of Mount Danxue, shaped like a fowl in five colors, its plumage patterned with the characters for virtue, duty, ritual, benevolence, and trust; it sings and dances of itself, and its appearance means peace under heaven."
+  },
+  "description": {
+    "zh": "丹穴之山，其上多金玉，丹水出焉，南流注于渤海。《南山经》记：\"有鸟焉，其状如鸡，五采而文，名曰凤皇。首文曰德，翼文曰义，背文曰礼，膺文曰仁，腹文曰信。是鸟也，饮食自然，自歌自舞，见则天下安宁。\"它形如家鸡，五色斑斓，头、翼、背、胸、腹的花纹分别成\"德义礼仁信\"五字——一只把儒家德目穿在身上的鸟。它不需人饲，自在饮食，自己唱歌自己起舞。\n\n这是传世文献中对凤凰最完整的早期描述之一。商代甲骨文已有\"凤\"字，常借作风；《诗经·大雅·卷阿》唱\"凤皇鸣矣，于彼高冈；梧桐生矣，于彼朝阳\"，凤鸣与梧桐从此绑定。《南山经》的独特之处在于把它嵌进征兆体系：全卷异兽多预示大旱、大水、徭役、兵乱，\"见则天下安宁\"的凤皇是屈指可数的吉兆，与同经\"见则天下大旱\"的颙恰成两极。\n\n后世凤凰脱离山海经的博物语境，与龙对举为帝后象征，百鸟朝凤、凤栖梧桐诸母题铺满宫廷与民间工艺，但\"五德之文\"的说法一直可以追溯回丹穴山的这段经文。",
+    "en": "Mount Danxue is rich in gold and jade, and the Dan River flows south from it. Here the Classic of the Southern Mountains sets its most celebrated bird: shaped like a fowl, feathered in five colors, its markings forming written characters — 'virtue' on the head, 'duty' on the wings, 'ritual' on the back, 'benevolence' on the breast, 'trust' on the belly. It feeds itself without being fed, sings of itself, dances of itself, and when it is seen, all under heaven is at peace.\n\nThis is among the fullest early descriptions of the fenghuang in any transmitted text. The graph 'feng' already appears on Shang oracle bones, often borrowed to write 'wind', and the Book of Songs sings of the fenghuang crying on the high ridge while the wutong tree grows in the morning sun. What the Southern Mountains adds is a place in the book's system of portents: where most of its creatures forebode drought, flood, forced labor, or war, the fenghuang is one of the very few signs of good — the exact counterweight to the drought-bird Yong later in the same volume.\n\nLater ages lifted the phoenix out of this naturalist's ledger and paired it with the dragon as emblem of empresses; a hundred birds pay it court in painting and embroidery. But the conceit of virtues written in plumage always leads back to this passage on Mount Danxue."
+  },
+  "domains": {
+    "zh": [
+      "祥瑞",
+      "五德",
+      "天下安宁"
+    ],
+    "en": [
+      "Auspicious Omens",
+      "The Five Virtues",
+      "Peace Under Heaven"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "丹穴之山",
+        "en": "Mount Danxue"
+      }
+    },
+    {
+      "label": {
+        "zh": "羽纹",
+        "en": "Plumage"
+      },
+      "value": {
+        "zh": "德、义、礼、仁、信五字",
+        "en": "The characters for virtue, duty, ritual, benevolence, trust"
+      }
+    },
+    {
+      "label": {
+        "zh": "征兆",
+        "en": "Portent"
+      },
+      "value": {
+        "zh": "见则天下安宁",
+        "en": "Its appearance brings peace under heaven"
+      }
+    }
+  ],
+  "related": [
+    "fenghuang",
+    "yong"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "《诗经·大雅·卷阿》",
+      "en": "Book of Songs, 'Juan E' (Daya)"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/fenghuang-shanhaijing.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic001_-_%E9%B3%B3%E5%87%B0%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic001 - 鳳凰圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 666,
+    "height": 1000
+  }
+}

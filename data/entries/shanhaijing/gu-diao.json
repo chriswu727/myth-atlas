@@ -1,0 +1,89 @@
+{
+  "id": "gu-diao",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "蛊雕",
+    "en": "Gudiao"
+  },
+  "title": {
+    "zh": "泽更水中有角食人的怪雕",
+    "en": "Horned, Man-Eating Eagle-Beast of the Zegeng River"
+  },
+  "summary": {
+    "zh": "鹿吴山泽更之水中的食人怪兽，形状像大雕而头上生角，叫声却像婴儿啼哭。",
+    "en": "A man-eating monster of the Zegeng River below Mount Luwu, shaped like a great eagle but crowned with a horn, its voice the cry of a human infant."
+  },
+  "description": {
+    "zh": "鹿吴之山上无草木，多金石。泽更之水从这里发源，南流注于滂水。《南山经》说：\"水有兽焉，名曰蛊雕，其状如雕而有角，其音如婴儿之音，是食人。\"它形如猛雕，头上却生角，又栖居水中——经文特意用\"兽\"称呼这只鸟形之物，鸟兽水陆的界线在它身上全部失效。\n\n\"其音如婴儿\"而\"食人\"，这个组合在《南山经》里出现过两次：青丘山的九尾狐用婴儿的啼声引人靠近，蛊雕在水泽间发出同样的声音。婴啼是最能让人放下戒备的声响，配在食人兽身上便格外阴冷。九尾狐后来洗成祥瑞又转为妖姬，蛊雕却没有获得任何后续的传说，始终停在经文那三句话里：一只有角的雕，在水中，吃人。明清图本或绘作独角巨雕，或绘作豹身鸟喙的走兽，正是\"如雕而有角\"留下的两种读法。",
+    "en": "Mount Luwu bears no plants, only gold and stone. From it flows the Zegeng River, running south into the Pang, and in its waters lives the gudiao. The Classic of the Southern Mountains gives it three clauses: shaped like an eagle but horned, voiced like a human infant, and an eater of men. The text pointedly calls this bird-shaped thing a 'beast', and every boundary — bird and beast, water and land — fails on its body.\n\nThe pairing of an infant's cry with man-eating occurs twice in this volume: the nine-tailed fox of Mount Qingqiu wails like a baby, and the gudiao raises the same sound over its river. A child's cry is the one noise that disarms all wariness, which makes it the coldest possible voice for a predator. The fox went on to a long afterlife as omen and temptress; the gudiao acquired no further legend at all, remaining fixed in its three clauses. Ming and Qing illustrators split over it, some drawing a single-horned giant eagle, others a leopard-bodied beast with a raptor's beak — two honest readings of 'like an eagle, but horned'."
+  },
+  "domains": {
+    "zh": [
+      "食人兽",
+      "水泽",
+      "婴啼"
+    ],
+    "en": [
+      "Man-Eaters",
+      "Waterways",
+      "Infant Cries"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "鹿吴山泽更之水",
+        "en": "The Zegeng River, Mount Luwu"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如婴儿啼哭",
+        "en": "Like a wailing infant"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "居于水中，食人",
+        "en": "Dwells in water; eats people"
+      }
+    }
+  ],
+  "related": [
+    "jiu-wei-hu",
+    "chang-you"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/gu-diao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%B1%B1%E7%B6%93-%E8%A0%B1%E9%9B%95.svg",
+    "sourceTitle": "南山經-蠱雕",
+    "artist": "胡文焕 (1596-1650)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 875
+  }
+}

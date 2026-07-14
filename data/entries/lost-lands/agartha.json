@@ -1,0 +1,103 @@
+{
+  "id": "agartha",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "阿加尔塔",
+    "en": "Agartha"
+  },
+  "title": {
+    "zh": "地底世界的隐秘王国",
+    "en": "The hidden kingdom under the earth"
+  },
+  "summary": {
+    "zh": "十九世纪法国神秘学文献虚构的地下王国，由\"世界之王\"统治，地道遍通各大洲；经奥森多夫斯基1922年游记传遍西方。",
+    "en": "A subterranean kingdom of nineteenth-century French occult literature, ruled by the King of the World, its tunnels spanning continents; Ossendowski's 1922 travelogue spread the tale worldwide."
+  },
+  "description": {
+    "zh": "阿加尔塔是一座纯粹近代的传说之城：它不见于任何古代文献，由十九世纪的法国神秘学写作层层搭建。1873年，路易·雅科利奥在《神之子》中声称从印度婆罗门处听闻上古太阳之城\"阿斯加尔塔\"；1886年，圣伊夫·德·阿尔威德在《印度使命》中给出完整版本——喜马拉雅山下藏着名为阿加尔塔的地下王国，人口数百万，由掌握梵语之前的原初语言\"瓦坦语\"的最高祭司统治，其\"共治\"政体是人类一切政制的原型。此书排版后旋即被作者销毁，仅存一册，1910年才重印面世。\n\n让阿加尔塔名扬世界的是波兰人费迪南德·奥森多夫斯基。他在1922年的畅销纪行《兽、人与神》末章写道：穿越内战中的蒙古时，喇嘛们向他讲述了地底王国与其主宰\"世界之王\"，据说地道网络从蒙古直通世界各洲，地底居民的科学远超地表。法国形而上学家勒内·盖农1927年据此写成《世界之王》，把阿加尔塔阐释为\"原初传统\"的精神中枢。\n\n后世的地空说（空心地球）亚文化把阿加尔塔与香巴拉、极地洞口传说糅为一体，衍生出纳粹残部遁入地底、飞碟出自地内文明等阴谋论叙事。它与藏传佛教的香巴拉本无渊源，却在通俗神秘学里常被混为一谈。",
+    "en": "Agartha is a wholly modern legend, absent from any ancient text and assembled layer by layer in nineteenth-century French occult writing. In 1873 Louis Jacolliot claimed in Les Fils de Dieu to have heard from Indian brahmins of a primeval solar city called Asgartha. In 1886 Saint-Yves d'Alveydre supplied the full architecture in Mission de l'Inde en Europe: beneath the Himalayas lay the underground kingdom of Agarttha, millions strong, governed by a sovereign pontiff who preserved Vattan, the primordial language before Sanskrit, its \"synarchic\" constitution the archetype of all human government. Saint-Yves destroyed the print run almost at once; a single surviving copy allowed republication in 1910.\n\nWorld fame came through the Pole Ferdynand Ossendowski. In the closing chapters of his 1922 bestseller Beasts, Men and Gods, he reported that lamas he met while fleeing across civil-war Mongolia told him of the subterranean realm and its master, the King of the World, whose tunnel network reached every continent and whose subjects commanded sciences beyond the surface world. The French metaphysician René Guénon took the story seriously enough to write Le Roi du Monde (1927), reading Agartha as the spiritual centre of a \"primordial tradition\".\n\nLater hollow-earth subculture fused Agartha with Shambhala and with legends of polar openings, feeding conspiracy tales of Nazi remnants underground and saucers from within the earth. It has no root in Tibetan Buddhism, though popular esoterica routinely conflates the two kingdoms."
+  },
+  "domains": {
+    "zh": [
+      "地下王国",
+      "空心地球",
+      "法国神秘学",
+      "阴谋论"
+    ],
+    "en": [
+      "Subterranean kingdom",
+      "Hollow earth",
+      "French occultism",
+      "Conspiracy lore"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早文献",
+        "en": "Earliest texts"
+      },
+      "value": {
+        "zh": "雅科利奥《神之子》（1873）；圣伊夫《印度使命》（1886）",
+        "en": "Jacolliot, Les Fils de Dieu (1873); Saint-Yves, Mission de l'Inde (1886)"
+      }
+    },
+    {
+      "label": {
+        "zh": "统治者",
+        "en": "Ruler"
+      },
+      "value": {
+        "zh": "世界之王",
+        "en": "The King of the World"
+      }
+    },
+    {
+      "label": {
+        "zh": "传播关键",
+        "en": "Vector of fame"
+      },
+      "value": {
+        "zh": "奥森多夫斯基《兽、人与神》（1922）",
+        "en": "Ossendowski, Beasts, Men and Gods (1922)"
+      }
+    }
+  ],
+  "related": [
+    "shambhala",
+    "thule"
+  ],
+  "sources": [
+    {
+      "zh": "圣伊夫·德·阿尔威德《印度使命》（1886年印成，1910年重印）",
+      "en": "Saint-Yves d'Alveydre, Mission de l'Inde en Europe (printed 1886, reissued 1910)"
+    },
+    {
+      "zh": "费迪南德·奥森多夫斯基《兽、人与神》（1922）",
+      "en": "Ferdynand Ossendowski, Beasts, Men and Gods (1922)"
+    },
+    {
+      "zh": "勒内·盖农《世界之王》（1927）",
+      "en": "René Guénon, Le Roi du Monde (1927)"
+    }
+  ],
+  "geo": {
+    "lat": 30.5,
+    "lon": 81.5,
+    "label": {
+      "zh": "喜马拉雅山地底（圣伊夫所指方位）",
+      "en": "Beneath the Himalayas, per Saint-Yves"
+    }
+  },
+  "image": {
+    "file": "/images/entries/agartha.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Symmes%27_Map_of_the_Northern_Polar_Region.png",
+    "sourceTitle": "Symmes' Map of the Northern Polar Region",
+    "artist": "John Cleves Symme's, Jr.",
+    "license": "Public domain",
+    "width": 854,
+    "height": 1000
+  }
+}

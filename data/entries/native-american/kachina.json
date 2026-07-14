@@ -1,0 +1,101 @@
+{
+  "id": "kachina",
+  "tradition": "native-american",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "卡奇纳",
+    "en": "Kachina",
+    "original": "Katsina",
+    "originalLang": "霍皮语"
+  },
+  "title": {
+    "zh": "普韦布洛诸族的雨云精灵",
+    "en": "Rain-Cloud Spirits of the Pueblo Peoples"
+  },
+  "summary": {
+    "zh": "霍皮、祖尼等普韦布洛民族信仰中的精灵群体，司雨水、作物与万物生机。霍皮传统中有三百余种，每年冬至到七月间降临村落，由戴面具的舞者体现。",
+    "en": "Spirit beings of the Hopi, Zuni, and other Pueblo peoples, governing rain, crops, and the life of the world. Hopi tradition counts over three hundred; masked dancers embody them from winter solstice to July."
+  },
+  "description": {
+    "zh": "卡奇纳（霍皮语作 katsina，复数 katsinim）是普韦布洛农耕民族信仰的核心：一大群各有名号、面容与职司的精灵，是云、雨、作物与祖先的具现。霍皮传统中的卡奇纳超过三百种，从威严的长发雨神安佳卡奇纳，到维持仪式秩序、以鞭子吓唬顽童的鹰嘴\"管教者\"，再到滑稽的丑角泥头库耶姆西，各司其职。据信他们半年住在亚利桑那州弗拉格斯塔夫附近的圣弗朗西斯科峰（霍皮语称 Nuvatukya'ovi，\"雪之高处\"），半年降临各村。\n\n每年冬至的索亚尔祭（Soyal）拉开卡奇纳季：此后半年，入过会的男子在基瓦（地下礼堂）中戴上面具起舞。霍皮观念中，戴上面具的那一刻，卡奇纳本尊便临在于舞者身上。盛夏七月的尼曼祭（Niman，归家舞）上，众卡奇纳受谢别村，返回山中。祭仪的核心祈求始终是雨——在年降水不足三百毫米的台地上种出玉米，靠的就是这些云中亲族。\n\n仪式间隙，卡奇纳舞者会把雕成各精灵形貌的木偶（tithu，俗称卡奇纳娃娃）赠给女孩，作为认识诸灵的功课。这些三叶杨根雕自十九世纪末起被博物馆与收藏界大量征集，1903年民族学者杰西·沃尔特·菲克斯出版的霍皮画师图谱至今仍是基本文献。卡奇纳信仰是完全的活态宗教，霍皮与祖尼社区对面具与祭仪细节的外传有严格限制。",
+    "en": "The kachinas (Hopi katsina, plural katsinim) stand at the heart of Pueblo agricultural religion: a vast company of named spirits, each with its own face and office, embodying clouds, rain, crops, and the ancestors. Hopi tradition counts more than three hundred, from the long-haired rain spirit Angak'china, to the beaked guardian figures who enforce ceremonial order and frighten misbehaving children, to the comic mudhead clowns, the Koyemsi. For half the year they are said to dwell on the San Francisco Peaks near Flagstaff, Arizona, which the Hopi call Nuvatukya'ovi, \"the place of snow on the very top,\" and for half the year they come down to the villages.\n\nThe Soyal ceremony at winter solstice opens the kachina season. For the following months, initiated men dance in the kivas and plazas wearing the masks; in Hopi understanding, in the moment the mask is donned the kachina itself is present in the dancer. At the Niman or Home Dance in July, the kachinas are thanked and sent back to the peaks. The constant petition of the ceremonies is rain, for on mesas receiving less than twelve inches a year, corn grows by the favor of these cloud relatives.\n\nBetween dances the kachinas give girls carved cottonwood-root figures of the spirits, the tithu or kachina dolls, as lessons in knowing them. Museums and collectors began acquiring these carvings in the late nineteenth century, and Jesse Walter Fewkes's 1903 album of paintings by Hopi artists remains a foundational document. Kachina religion is fully alive today, and Hopi and Zuni communities strictly limit what may be shown or told of masks and ceremony."
+  },
+  "geo": {
+    "lat": 35.35,
+    "lon": -111.68,
+    "label": {
+      "zh": "圣弗朗西斯科峰（亚利桑那）",
+      "en": "San Francisco Peaks, Arizona"
+    }
+  },
+  "domains": {
+    "zh": [
+      "雨云",
+      "玉米",
+      "祖先",
+      "祭舞"
+    ],
+    "en": [
+      "Rain clouds",
+      "Corn",
+      "Ancestors",
+      "Ceremonial dance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "霍皮、祖尼及里奥格兰德普韦布洛诸族",
+        "en": "Hopi, Zuni, and the Rio Grande Pueblo peoples"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "圣弗朗西斯科峰（霍皮语 Nuvatukya'ovi）",
+        "en": "San Francisco Peaks (Hopi: Nuvatukya'ovi)"
+      }
+    },
+    {
+      "label": {
+        "zh": "祭仪季",
+        "en": "Ceremonial season"
+      },
+      "value": {
+        "zh": "冬至索亚尔祭至七月尼曼祭",
+        "en": "From the Soyal at winter solstice to the Niman in July"
+      }
+    }
+  ],
+  "related": [
+    "sipapu",
+    "coyote"
+  ],
+  "sources": [
+    {
+      "zh": "杰西·沃尔特·菲克斯《霍皮卡奇纳：原住民画师图绘》（1903，美国民族学局年报）",
+      "en": "Jesse Walter Fewkes, Hopi Katcinas Drawn by Native Artists (1903, Bureau of American Ethnology)"
+    },
+    {
+      "zh": "霍皮、祖尼活态祭仪传统",
+      "en": "Living ceremonial traditions of the Hopi and Zuni"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/kachina.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahola_Katsina_Doll,_Hopi,_Arizona,_c._1885_-_Nelson-Atkins_Museum_of_Art_-_DSC09078.JPG",
+    "sourceTitle": "Ahola Katsina Doll, Hopi, Arizona, c. 1885 - Nelson-Atkins Museum of Art - DSC09078",
+    "artist": "Daderot",
+    "license": "CC0",
+    "width": 750,
+    "height": 1000
+  }
+}

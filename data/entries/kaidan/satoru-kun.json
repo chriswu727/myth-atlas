@@ -1,0 +1,45 @@
+{
+  "id": "satoru-kun",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "Satoru君",
+    "en": "Satoru-kun",
+    "original": "さとるくん",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "用公用电话召唤的全知少年", "en": "The all-knowing boy summoned by pay phone" },
+  "summary": {
+    "zh": "从公用电话打给自己的手机念咒召唤，Satoru君会一路回拨报告位置，最后出现在你身后，回答任何问题——但绝不能回头，也不能不问。2000年代经网络流传。",
+    "en": "Call your own mobile from a pay phone and recite the summons: Satoru-kun phones back ever closer, finally standing behind you to answer any one question. Never turn around, never fail to ask. Spread online in the 2000s."
+  },
+  "description": {
+    "zh": "Satoru君的召唤仪式绑定了两代通信设备：深夜去公用电话亭，投入十日元硬币，拨打自己的手机号码，对着话筒念：「Satoru君、Satoru君，请你出来。」然后挂断等待。此后手机会接到一连串来电，少年的声音逐次报告自己的位置——某某站、某某路口，一通比一通近，最后一通说：「我在你身后。」这时候他会回答你的一个问题，无论多难，答案必真。规则同样严苛：等待与问答期间绝不能回头看他，也不能召而不问、问而不听——违反者会被Satoru君带走，永远失踪。\n\n这则怪谈在2000年代前期经2ch等网络论坛与手机怪谈网站流传开，是手机在日本中学生中普及后第一批「新装置怪谈」的代表。它的直系血统清晰可辨：报位置逐步逼近的结构承自「玛丽小姐的电话」，以仪式换取禁忌知识的框架承自「狐狗狸さん」，公用电话与手机的接力则是它自己的时代印记——召唤的起点必须是正在消失的旧设备，这个细节随着电话亭的拆除越来越像一道门槛。\n\n「Satoru」通常写作「悟」，即「知晓一切」；不少论者指出它与山中读心妖怪「觉」（さとり）的同名之趣。在实况直播与怪谈综艺里，拨打Satoru君至今是标准试胆节目。",
+    "en": "The ritual binds two generations of telephony together. Late at night, from a public phone booth, drop in a ten-yen coin, dial your own mobile number, and speak into the receiver: 'Satoru-kun, Satoru-kun, please come.' Hang up and wait. Your mobile then receives a series of calls in a boy's voice, each reporting his position, a station, a crossing, always nearer, until the last: 'I'm behind you.' He will now answer a single question, any question, truthfully. The rules are exact: do not turn to look at him while you wait or while he speaks, do not summon him without asking, do not fail to hear the answer out. Break any of these and Satoru-kun takes you with him.\n\nThe legend spread through 2channel and mobile horror sites in the early 2000s, among the first wave of stories built on the mobile phones that had just reached Japanese schoolchildren. Its pedigree is easy to read: the closing-distance call structure descends from Mary-san's telephone, the bargain of ritual for forbidden knowledge from Kokkuri-san, while the relay from pay phone to mobile is its own signature. That the summons must begin from a vanishing device has only sharpened with the disappearance of phone booths, turning the first step of the ritual into a threshold in itself.\n\n'Satoru' is usually written with the character for enlightenment, to know all; commentators enjoy the echo of the satori, the mind-reading mountain yokai that shares the name. On livestreams and horror variety shows, dialing Satoru-kun remains a standard test of nerve."
+  },
+  "domains": {
+    "zh": ["召唤仪式", "电话", "禁忌知识", "网络怪谈"],
+    "en": ["Summoning rituals", "Telephones", "Forbidden knowledge", "Net folklore"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "仪式道具", "en": "Ritual apparatus" },
+      "value": { "zh": "公用电话、十日元硬币、自己的手机", "en": "A pay phone, a ten-yen coin, your own mobile" }
+    },
+    {
+      "label": { "zh": "报酬", "en": "Reward" },
+      "value": { "zh": "任何一个问题的真实答案", "en": "A true answer to any one question" }
+    },
+    {
+      "label": { "zh": "禁忌", "en": "Taboos" },
+      "value": { "zh": "不可回头、不可召而不问", "en": "Never turn around; never summon without asking" }
+    }
+  ],
+  "related": ["mary-san", "kokkuri-san", "hanako-san"],
+  "sources": [
+    { "zh": "2000年代前期2ch与手机怪谈网站流传", "en": "2channel and mobile horror sites, early 2000s" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "image": null
+}

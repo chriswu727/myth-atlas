@@ -1,0 +1,96 @@
+{
+  "id": "xuan-gui",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "旋龟",
+    "en": "Xuangui"
+  },
+  "title": {
+    "zh": "怪水中鸟首蛇尾的异龟",
+    "en": "Bird-Headed, Serpent-Tailed Turtle of the Guai River"
+  },
+  "summary": {
+    "zh": "杻阳山怪水中的龟，鸟的头、毒蛇的尾，叫声像劈开木头；佩戴它可以不聋，还能治脚底的老茧。",
+    "en": "A turtle of the Guai River below Mount Niuyang, with a bird's head and a viper's tail, its call like wood splitting; worn on the body it guards against deafness and cures calluses."
+  },
+  "description": {
+    "zh": "怪水发源于杻阳之山，向东流入宪翼之水，水中多玄龟。《南山经》写它\"其状如龟而鸟首虺尾，其名曰旋龟，其音如判木，佩之不聋，可以为底\"。虺是毒蛇——这只龟顶着鸟喙，拖着蛇尾，叫起来像斧头劈开木头的脆响。\"佩之不聋\"是说带着它可保听力；\"可以为底\"，旧注谓底同胝，指它能治脚底的老茧。\n\n旋龟在书中不止一见：《中山经》密山一带的豪水中也有旋龟，\"鸟首而鳖尾，其音如判木\"，形貌与南山的大同小异，可见这是一类广布于想象水系的生物。后世讲大禹治水的传说时，王嘉《拾遗记》有\"黄龙曳尾于前，玄龟负青泥于后\"之语，驮泥的玄龟常被读者与《南山经》里\"多玄龟\"的怪水联想到一处，鸟首蛇尾的旋龟由此也进入了治水故事的图像传统。",
+    "en": "The Guai River rises on Mount Niuyang and flows east into the Xianyi, and its waters teem with dark turtles. The Classic of the Southern Mountains names them the xuangui: a turtle-shaped creature with the head of a bird and the tail of a hui, a venomous snake, whose cry sounds like timber being split. The entry closes with two uses — worn on the body it keeps the ears from going deaf, and it can treat zhi, which early commentators read as the hard calluses of the foot. A beaked, serpent-tailed reptile thus doubles as a hearing charm and a foot remedy.\n\nThe creature is not confined to the south: the Classic of the Central Mountains reports xuangui in the Hao River near Mount Mi, bird-headed and soft-shell-tailed, with the same wood-splitting cry, suggesting a whole family of such turtles in the imagined waterways. Later lore drew them toward the flood legends: Wang Jia's Shiyiji pictures Yu the Great taming the waters with a yellow dragon dragging its tail ahead of him and a dark turtle hauling green clay behind, and readers have long linked that burden-bearing turtle with the dark turtles of the Guai River, folding the xuangui into the iconography of the flood."
+  },
+  "domains": {
+    "zh": [
+      "水族",
+      "护身符",
+      "医药"
+    ],
+    "en": [
+      "Water Creatures",
+      "Amulets",
+      "Healing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "杻阳山怪水",
+        "en": "The Guai River, Mount Niuyang"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如判木之声",
+        "en": "Like wood being split"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "佩之不聋，可治足茧",
+        "en": "Guards hearing; cures foot calluses"
+      }
+    }
+  ],
+  "related": [
+    "lu-shu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "王嘉《拾遗记》",
+      "en": "Wang Jia, Shiyiji"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/xuan-gui.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%B1%B1%E7%B6%93-%E6%97%8B%E9%BE%9C.svg",
+    "sourceTitle": "南山經-旋龜",
+    "artist": "胡文焕 (1596-1650)",
+    "license": "Public domain",
+    "width": 708,
+    "height": 1000
+  }
+}

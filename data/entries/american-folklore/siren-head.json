@@ -1,0 +1,42 @@
+{
+  "id": "siren-head",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "警笛头",
+    "en": "Siren Head"
+  },
+  "title": { "zh": "以扬声器为头颅的旷野巨怪", "en": "The Wilderness Giant with Loudspeakers for a Head" },
+  "summary": {
+    "zh": "加拿大画家Trevor Henderson于2018年创作的网络怪物：十二米高的干瘦巨人，头部是挂着两只锈蚀警报喇叭的电线杆，用模仿的人声和紧急广播引诱猎物。",
+    "en": "Created by Canadian artist Trevor Henderson in 2018: a forty-foot emaciated giant whose head is a pole bearing two rusted sirens, luring prey with mimicked voices and garbled emergency broadcasts."
+  },
+  "description": {
+    "zh": "警笛头高约十二米，躯体像风干的木乃伊，皮肤是锈红与树皮的颜色，长臂几乎垂到地面；它没有脸，颈部以上是一根金属杆，两侧各挂一只老式民防警报喇叭。它伫立在丘陵地带的树线边缘、荒僻公路旁或郊区尽头，静止时几乎与枯树和电线杆无法区分。它的狩猎方式全靠声音：喇叭里播放扭曲的紧急广播、静电噪音、断续的音乐，以及从受害者亲友那里录下的人声——在深夜的旷野听到熟人呼救，走过去的人就再也不会回来。\n\n警笛头是多伦多恐怖画家Trevor Henderson的原创角色，2018年首发于他的社交媒体账号（Twitter与Tumblr）。Henderson的招牌手法是把粗粝的怪物合成进普通的手机快照和老照片里，配上目击报告式的短说明，让图片看起来像随手拍到的真实存在。他笔下自成一个「巨型怪物动物园」（长颈的Cartoon Cat、教堂巨人等），警笛头是其中传播最广的一个。\n\n2019至2020年，警笛头借游戏平台完成破圈：Modus Interactive以它为主角的PS1画风短篇游戏《Siren Head》、Garry's Mod与《我的世界》模组让它成为实况主与YouTube恐怖短片的常客，新冠封锁期间的流量高峰把它推成继瘦长鬼影之后最著名的网络原创怪物。Henderson明确保留角色版权并多次澄清设定：警笛头不是政府装置，也没有官方「起源故事」——神秘感本身就是设定。",
+    "en": "Siren Head stands about forty feet tall, its body like a mummified husk the color of rust and bark, arms hanging nearly to the ground. It has no face: above the shoulders rises a bare metal pole carrying two corroded civil-defense loudspeakers. It waits at treelines, along empty highways, and at the edge of subdivisions, indistinguishable from a dead tree or utility pole until it moves. It hunts entirely by sound, broadcasting warped emergency alerts, static, scraps of music, and voices recorded from its victims' friends and family — in the dark countryside, the person who walks toward a familiar cry for help does not come back.\n\nSiren Head is the original creation of Toronto horror artist Trevor Henderson, first posted to his Twitter and Tumblr accounts in 2018. Henderson's signature method is compositing grainy monsters into ordinary phone snapshots and old photographs with brief, report-like captions, so each image reads like accidental evidence. His work forms a whole bestiary of towering creatures — Cartoon Cat, the church-sized giants — and Siren Head is its most traveled member.\n\nBetween 2019 and 2020 the monster broke out through games: a short PS1-style title by Modus Interactive, then Garry's Mod and Minecraft mods that made it a staple of streamers and YouTube horror shorts, with a traffic spike during the pandemic lockdowns that left it the most famous original internet monster since Slender Man. Henderson retains the rights and has repeatedly declined to fix an origin story: the mystery is the point."
+  },
+  "domains": {
+    "zh": ["网络原创怪物", "声音诱杀", "巨型怪谈", "拟态"],
+    "en": ["Original internet monster", "Sonic lure", "Giant cryptid fiction", "Mimicry"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "创作者", "en": "Creator" },
+      "value": { "zh": "Trevor Henderson，2018年", "en": "Trevor Henderson, 2018" }
+    },
+    {
+      "label": { "zh": "体貌", "en": "Appearance" },
+      "value": { "zh": "约12米高，头部为双警报喇叭的金属杆", "en": "About 40 ft tall; head a metal pole with twin sirens" }
+    },
+    {
+      "label": { "zh": "走红渠道", "en": "Breakout" },
+      "value": { "zh": "2019-2020年游戏模组与实况视频", "en": "Game mods and streaming videos, 2019-2020" }
+    }
+  ],
+  "related": ["slender-man", "the-backrooms"],
+  "sources": [
+    { "zh": "Trevor Henderson原创设定图（2018年首发于Twitter/Tumblr）", "en": "Trevor Henderson's original artwork, first posted on Twitter/Tumblr (2018)" }
+  ],
+  "image": null
+}

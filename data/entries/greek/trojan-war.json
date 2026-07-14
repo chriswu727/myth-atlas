@@ -1,0 +1,101 @@
+{
+  "id": "trojan-war",
+  "tradition": "greek",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "特洛伊战争",
+    "en": "Trojan War",
+    "original": "Τρωικὸς πόλεμος",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "十年围城与木马计",
+    "en": "The Ten-year Siege and the Wooden Horse"
+  },
+  "summary": {
+    "zh": "希腊联军为夺回海伦围攻特洛伊十年的大战，《伊利亚特》咏其第十年，城终毁于木马计。",
+    "en": "The ten-year siege of Troy by a Greek coalition to recover Helen; the Iliad sings its final year, and the city fell to the wooden horse."
+  },
+  "description": {
+    "zh": "特洛伊战争是希腊神话中规模最大的战争：希腊联军渡海围攻小亚细亚西北的特洛伊城十年。起因是不和女神抛下的金苹果——特洛伊王子帕里斯裁定阿佛洛狄忒最美，得到斯巴达王后海伦为报偿，将她带回特洛伊；迈锡尼王阿伽门农遂集结千艘战船讨伐。《伊利亚特》集中讲述围城第十年的五十余天：阿基琉斯因女俘被夺而愤然罢战，挚友帕特罗克洛斯披其铠甲出阵，被特洛伊主将赫克托耳杀死；阿基琉斯重返战场杀死赫克托耳，将尸体系在战车后拖行，最终在老王普里阿摩斯深夜乞求下交还遗体。\n\n城破于木马计：希腊人佯装撤军，留下腹藏伏兵的巨大木马，特洛伊人不顾祭司拉奥孔的警告将其拖入城中，当夜伏兵开门，全城陷落焚毁。这一段由《奥德赛》中的歌人唱出，维吉尔《埃涅阿斯纪》卷二有最详尽的描写。1870年代谢里曼在土耳其希萨尔勒克丘掘出层层叠压的古城遗址，学界一般认为其中晚青铜时代的城层与传说中的特洛伊相关。",
+    "en": "The Trojan War, the greatest war of Greek legend, saw a Greek coalition besiege the city of Troy in northwestern Asia Minor for ten years. It began with the golden apple of discord: the Trojan prince Paris judged Aphrodite the fairest of the goddesses and received Helen, queen of Sparta, as his reward, carrying her home to Troy; Agamemnon of Mycenae gathered a fleet of a thousand ships in answer. The Iliad covers some fifty days of the tenth year: Achilles withdraws from battle over a seized captive, his companion Patroclus fights in his armor and is killed by Hector, and Achilles returns to slay Hector and drags his body behind his chariot, yielding it at last to old King Priam, who comes by night to beg for his son.\n\nThe city fell to the wooden horse: the Greeks feigned departure, leaving a huge horse with soldiers hidden in its belly, and the Trojans hauled it inside over the priest Laocoon's warning; that night the men opened the gates and Troy burned. A bard sings the episode in the Odyssey, and the second book of Virgil's Aeneid tells it in full. In the 1870s Heinrich Schliemann excavated a stratified citadel at Hisarlik in Turkey, whose late Bronze Age layers are generally linked with the Troy of the legend."
+  },
+  "domains": {
+    "zh": [
+      "围城战",
+      "英雄时代",
+      "木马计"
+    ],
+    "en": [
+      "Siege warfare",
+      "Age of heroes",
+      "The wooden horse"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "导火索",
+        "en": "Spark"
+      },
+      "value": {
+        "zh": "帕里斯的裁判与海伦被带走",
+        "en": "The Judgement of Paris and the taking of Helen"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要英雄",
+        "en": "Chief heroes"
+      },
+      "value": {
+        "zh": "阿基琉斯、赫克托耳、奥德修斯",
+        "en": "Achilles, Hector, Odysseus"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗址",
+        "en": "Site"
+      },
+      "value": {
+        "zh": "土耳其希萨尔勒克丘",
+        "en": "Hisarlik, Turkey"
+      }
+    }
+  ],
+  "related": [
+    "aphrodite",
+    "athena",
+    "apollo",
+    "zeus"
+  ],
+  "sources": [
+    {
+      "zh": "荷马《伊利亚特》《奥德赛》",
+      "en": "Homer, Iliad and Odyssey"
+    },
+    {
+      "zh": "维吉尔《埃涅阿斯纪》卷二",
+      "en": "Virgil, Aeneid, Book 2"
+    }
+  ],
+  "geo": {
+    "lat": 39.957,
+    "lon": 26.239,
+    "label": {
+      "zh": "特洛伊遗址（希萨尔勒克）",
+      "en": "Troy (Hisarlik)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/trojan-war.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Domenico_Tiepolo_-_The_Procession_of_the_Trojan_Horse_in_Troy_-_WGA22382.jpg",
+    "sourceTitle": "The Procession of the Trojan Horse in Troy",
+    "artist": "Giovanni Domenico Tiepolo",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 583
+  }
+}

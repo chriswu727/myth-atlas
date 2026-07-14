@@ -1,0 +1,97 @@
+{
+  "id": "jormungandr",
+  "tradition": "norse",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "耶梦加得",
+    "en": "Jormungandr",
+    "original": "Jörmungandr",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "环绕人间的中庭巨蛇",
+    "en": "The Midgard Serpent Encircling the World"
+  },
+  "summary": {
+    "zh": "洛基之子，被奥丁掷入环绕人间的大海，长到首尾相衔、环抱整个中庭。它与托尔互为宿敌，末日同归于尽。",
+    "en": "Loki's serpent child, hurled by Odin into the world sea, where it grew until it circled Midgard and bit its own tail. Thor and the serpent are fated to kill each other."
+  },
+  "description": {
+    "zh": "耶梦加得又称中庭巨蛇，是洛基与女巨人安格尔波达的孩子，赫尔与芬里尔的手足。诸神预见其祸，奥丁将幼蛇掷入环绕人间的深海。它在海底不断生长，最终环抱整个中庭，口衔自己的尾巴——维京人相信，大海的边界之外便盘着这条蛇。\n\n它与托尔结怨三次。第一次在巨人乌特加德·洛基的宫中：托尔受激将去举一只灰猫，用尽全力只令猫的一只脚离地，事后才知那猫是幻术遮掩下的中庭巨蛇，满堂巨人早已看得心惊。第二次是著名的钓蛇：托尔与巨人许密尔出海，以公牛头作饵，巨蛇咬钩，被拖出水面时毒液横喷；托尔举锤欲击，许密尔吓得割断钓线，巨蛇沉回海底。《散文埃达》与《许密尔之歌》都记下了这惊心一幕，瑞典的阿尔通纳卢恩石与英格兰戈斯福斯教堂的「钓鱼石」石板上也刻着这场对钓。\n\n第三次即是终局。诸神黄昏来临，耶梦加得翻出大海，掀起淹没陆地的巨浪，与芬里尔并肩压向战场。托尔以妙尔尼尔将它击毙，随后向后走了九步，倒在它喷吐的毒液中死去。",
+    "en": "Jormungandr, the Midgard Serpent, is the child of Loki and the giantess Angrboda, sibling of Hel and Fenrir. Foreseeing disaster, Odin hurled the young snake into the deep sea that rings the inhabited world. There it grew until it encircled all of Midgard and gripped its own tail in its jaws; to the Norse imagination, the serpent lay coiled just beyond the edge of every ocean.\n\nIt crossed paths with Thor three times. In the hall of the giant Utgarda-Loki, Thor was challenged to lift a grey cat and could raise only one of its paws, learning afterwards that the cat was the Midgard Serpent disguised by illusion, and that the watching giants had been terrified. Then came the famous fishing trip: rowing far out with the giant Hymir, Thor baited a line with an ox's head, and the serpent took the hook. As its venom-spitting head broke the surface and Thor raised his hammer, the panicked Hymir cut the line. The scene is told in the Hymiskvida and the Prose Edda, and carved on the Altuna runestone in Sweden and the 'fishing stone' slab at Gosforth church in England.\n\nThe third meeting is the last. At Ragnarok the serpent heaves itself out of the sea, flooding the land, and advances beside Fenrir. Thor kills it with Mjolnir, walks nine paces, and falls dead of its venom."
+  },
+  "domains": {
+    "zh": [
+      "巨蛇",
+      "海洋",
+      "末日",
+      "宿敌"
+    ],
+    "en": [
+      "The Great Serpent",
+      "The Sea",
+      "Doomsday",
+      "Nemesis"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出身",
+        "en": "Parentage"
+      },
+      "value": {
+        "zh": "洛基与安格尔波达之子",
+        "en": "Child of Loki and Angrboda"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Lair"
+      },
+      "value": {
+        "zh": "环绕中庭的大海海底",
+        "en": "The world-encircling sea around Midgard"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Foe"
+      },
+      "value": {
+        "zh": "雷神托尔",
+        "en": "Thor"
+      }
+    }
+  ],
+  "related": [
+    "thor",
+    "loki",
+    "fenrir",
+    "hel",
+    "ragnarok",
+    "mjolnir"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·许密尔之歌》",
+      "en": "Poetic Edda: Hymiskvida"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/jormungandr.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thor_und_die_Midgardsschlange.jpg",
+    "sourceTitle": "Thor und die Midgardsschlange",
+    "artist": "Emil Doepler",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 530
+  }
+}

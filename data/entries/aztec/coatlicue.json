@@ -1,0 +1,102 @@
+{
+  "id": "coatlicue",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "科亚特利库埃",
+    "en": "Coatlicue",
+    "original": "Cōātlīcue",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "蛇裙地母，众神之母",
+    "en": "She of the Serpent Skirt, Mother of Gods"
+  },
+  "summary": {
+    "zh": "名意为\"蛇之裙\"，大地之母。在蛇山扫庙时因一团落羽受孕，生下战神维齐洛波奇特利；1790年出土的巨像是阿兹特克雕刻的代表作。",
+    "en": "She of the Serpent Skirt, the earth mother who conceived Huitzilopochtli from a ball of falling feathers. Her colossal statue, unearthed in 1790, is a masterwork of Aztec sculpture."
+  },
+  "description": {
+    "zh": "科亚特利库埃的名字意为\"蛇之裙\"。她是吞噬亦生养万物的大地之母：裙由盘蛇编成，胸前挂着以断手与人心串成的项链，坠一枚骷髅；头颅已被斩去，断颈处涌出两条相对的蛇，两张蛇脸相抵，拼成她的新面孔；手足皆为利爪。生与死在她身上互为表里——大地吞下死者，又从中生出粮食。\n\n她最著名的事迹是战神的降生。科亚特利库埃在蛇山科亚特佩克司职扫除神庙，一团羽毛自天而落，她拾起收入怀中，随即有孕。先前所生的女儿、月神科约尔绍基视此为奇耻，率四百星辰兄弟上山弑母；千钧一发之际，维齐洛波奇特利自母腹全副武装跃出，斩杀姐姐、驱散群星，救下母亲。\n\n1790年8月13日，墨西哥城中央广场铺设工程掘出一尊高约2.57米的科亚特利库埃安山岩巨像——同年稍晚，著名的太阳石也在近旁出土。巨像一度陈放于皇家大学，因其形貌令观者不安而被数次重新掩埋，直到19世纪方才长久面世，今藏墨西哥国立人类学博物馆，是阿兹特克纪念性雕刻最重要的存世作品之一；像底还刻有大地之主特拉尔特库特利的浮雕，永远贴地，不为人眼所见。",
+    "en": "Coatlicue's name means Serpent Skirt. She is the earth mother who devours and brings forth all things: her skirt is woven of braided snakes, her necklace strung with severed hands and human hearts around a skull pendant, her hands and feet clawed. Her head has been cut away, and from the stump of the neck rise two serpents facing one another, their profiles meeting to form her new face. Life and death are two surfaces of one body — the earth that swallows the dead also yields the maize.\n\nHer most famous act is a birth. While sweeping the temple on Coatepec, Serpent Hill, as her duty required, a ball of down feathers drifted from the sky; she tucked it into her bosom and found herself with child. Her daughter Coyolxauhqui, the moon goddess, took the pregnancy as a disgrace and led her four hundred star brothers up the hill to kill their mother. At the moment of the assault, Huitzilopochtli burst from the womb fully armed, cut down his sister, scattered the stars, and saved her.\n\nOn 13 August 1790, workers repaving the central plaza of Mexico City dug up an andesite colossus of Coatlicue about 2.57 meters tall; the famous Sun Stone surfaced nearby later that year. Displayed at the Royal University, the statue so unsettled viewers that it was reburied more than once, and only in the nineteenth century did it remain permanently above ground. It now stands in the National Museum of Anthropology, one of the supreme works of Aztec monumental sculpture — its underside, forever pressed against the earth and hidden from human eyes, carries a relief of the earth lord Tlaltecuhtli."
+  },
+  "domains": {
+    "zh": [
+      "大地",
+      "生育",
+      "死亡",
+      "神母"
+    ],
+    "en": [
+      "Earth",
+      "Fertility",
+      "Death",
+      "Divine motherhood"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Iconography"
+      },
+      "value": {
+        "zh": "盘蛇之裙、断手人心项链、双蛇之面",
+        "en": "Skirt of snakes, necklace of hands and hearts, twin-serpent face"
+      }
+    },
+    {
+      "label": {
+        "zh": "子女",
+        "en": "Children"
+      },
+      "value": {
+        "zh": "维齐洛波奇特利、科约尔绍基、四百星辰",
+        "en": "Huitzilopochtli, Coyolxauhqui, the four hundred stars"
+      }
+    },
+    {
+      "label": {
+        "zh": "巨像出土",
+        "en": "Statue found"
+      },
+      "value": {
+        "zh": "1790年8月13日，墨西哥城中央广场",
+        "en": "13 August 1790, Zócalo of Mexico City"
+      }
+    }
+  ],
+  "related": [
+    "huitzilopochtli",
+    "xiuhcoatl",
+    "tenochtitlan"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第三卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Book 3"
+    },
+    {
+      "zh": "科亚特利库埃巨像（墨西哥国立人类学博物馆藏）",
+      "en": "The Coatlicue statue, National Museum of Anthropology, Mexico City"
+    }
+  ],
+  "geo": {
+    "lat": 19.426,
+    "lon": -99.186,
+    "label": {
+      "zh": "墨西哥国立人类学博物馆（巨像藏地）",
+      "en": "National Museum of Anthropology (home of the statue)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/coatlicue.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Coatlicue_(front)_-_National_Museum_of_Antropology_-_Mexico_2024.jpg",
+    "sourceTitle": "Statue of Coatlicue (front) - National Museum of Antropology - Mexico 2024",
+    "artist": "José Luiz",
+    "license": "CC BY-SA 4.0",
+    "width": 562,
+    "height": 1000
+  }
+}

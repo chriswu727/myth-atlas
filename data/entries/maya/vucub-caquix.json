@@ -1,0 +1,91 @@
+{
+  "id": "vucub-caquix",
+  "tradition": "maya",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "维科布·卡库伊斯",
+    "en": "Vucub Caquix",
+    "original": "Wuqub' Kaqix",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "僭称日月的七鹦鹉",
+    "en": "Seven Macaw, the False Sun"
+  },
+  "summary": {
+    "zh": "名意“七鹦鹉”的巨鸟，牙镶宝石、眼放金光，在真正的黎明之前自称日月。双子英雄吹箭击其下颚，又假扮牙医拔去宝石牙，使其威光尽失而死。",
+    "en": "\"Seven Macaw,\" a giant bird with jeweled teeth and gleaming metal eyes who proclaimed himself sun and moon before the true dawn, until the Hero Twins shot him and pulled his shining teeth."
+  },
+  "description": {
+    "zh": "维科布·卡库伊斯是一只自我膨胀到极点的巨型金刚鹦鹉。那时木头人刚被洪水毁灭，真正的太阳尚未升起，大地上只有微光。他栖在一棵南斯果树上，宣称自己就是太阳、就是光、就是月亮：牙齿镶满蓝绿宝石，眼圈闪着白银般的金属光泽，坐处金光四射。《波波尔·乌》毫不客气地指出，他的光其实照不出栖木多远。他的妻子名叫奇玛尔玛特，两个儿子齐帕克纳与卡布拉坎一个自夸造山、一个自夸震山，狂妄一如其父。\n\n天之心不能容忍伪日月。乌纳普与斯巴兰克埋伏在果树下，趁他进食时一箭射中下颚。巨鸟坠地时扯断了乌纳普的一条手臂，挂在自家火塘上。双子请来一对白发老者——大白野猪与大白长鼻浣熊——冒充游方医师，自己扮作随行的孙儿。老者对牙痛难忍的巨鸟说：得把坏牙都换掉。宝石牙被一颗颗拔下，换上白玉米粒，眼圈的金属也被剥去。威光尽失的七鹦鹉就此死去，乌纳普的手臂被取回接好。他的两个儿子随后也被双子分别设计除掉；被齐帕克纳杀害的四百少年升上天空，成为昴星团。\n\n这段故事远比现存抄本古老：伊萨帕遗址25号石碑（约公元前300—公元50年）上，一个断臂的人物正对着一只立在树顶的大鸟，学界普遍认为表现的正是此景。研究者（如泰德洛克）还指出，七鹦鹉对应北斗七星，其随季节坠向地平线的天象与故事中的坠落相合。",
+    "en": "Vucub Caquix is a giant macaw swollen with self-regard. The wooden people had just been destroyed and the true sun had not yet risen; in that half-light he perched in a nance tree and declared himself the sun, the light, and the moon. His teeth were set with blue-green jewels, the rims of his eyes shone like silver metal, and his perch blazed - though the Popol Vuh notes dryly that his radiance reached no farther than the branch he sat on. His wife was Chimalmat; his sons Zipacna, who boasted of building mountains, and Cabracan, who boasted of shaking them down, were as arrogant as their father.\n\nHeart of Sky would not suffer a false sun. Hunahpu and Xbalanque ambushed the bird as he fed and put a blowgun dart through his jaw. Falling, he tore off Hunahpu's arm and hung it over his hearth. The twins then recruited an ancient couple - Great White Peccary and Great White Coati - to pose as traveling healers, themselves trailing along as grandchildren. The bad teeth must all come out, the old ones told the aching bird. One by one the jeweled teeth were pulled and replaced with kernels of white maize, and the metal was peeled from around his eyes. Stripped of his splendor, Seven Macaw died, and Hunahpu's arm was fitted back in place. The twins later destroyed both sons by separate stratagems; the Four Hundred Boys whom Zipacna had killed rose into the sky as the Pleiades.\n\nThe tale is far older than the surviving manuscript. Stela 25 at Izapa (c. 300 BCE-50 CE) shows a one-armed figure facing a great bird atop a tree, widely read as this very scene, and scholars such as Dennis Tedlock identify Seven Macaw with the Big Dipper, whose seasonal plunge toward the horizon matches his fall."
+  },
+  "domains": {
+    "zh": [
+      "僭越",
+      "巨鸟",
+      "伪日月"
+    ],
+    "en": [
+      "Usurpation",
+      "Great bird",
+      "False sun and moon"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "奇玛尔玛特",
+        "en": "Chimalmat"
+      }
+    },
+    {
+      "label": {
+        "zh": "二子",
+        "en": "Sons"
+      },
+      "value": {
+        "zh": "造山者齐帕克纳、震山者卡布拉坎",
+        "en": "Zipacna the mountain-maker, Cabracan the earthquake"
+      }
+    },
+    {
+      "label": {
+        "zh": "天文对应",
+        "en": "Astral reading"
+      },
+      "value": {
+        "zh": "北斗七星（学界解读）",
+        "en": "The Big Dipper (scholarly identification)"
+      }
+    }
+  ],
+  "related": [
+    "hunahpu-and-xbalanque",
+    "popol-vuh-creation"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶；希门内斯抄本，约1701—1703年）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century; Ximénez copy, c. 1701-1703)"
+    },
+    {
+      "zh": "伊萨帕遗址25号石碑（约公元前300—公元50年）",
+      "en": "Izapa Stela 25 (c. 300 BCE-50 CE)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/vucub-caquix.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Izapa_stela_2_(Estela_2_de_Izapa).jpg",
+    "sourceTitle": "Izapa stela 2 (Estela 2 de Izapa)",
+    "artist": "Instituto Nacional de Antropología e Historia, México",
+    "license": "CC BY-SA 4.0",
+    "width": 627,
+    "height": 1000
+  }
+}

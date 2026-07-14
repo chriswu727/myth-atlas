@@ -1,0 +1,94 @@
+{
+  "id": "vodyanoy",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "沃佳诺伊",
+    "en": "Vodyanoy",
+    "original": "Водяной",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "磨坊深潭的水中老人",
+    "en": "Old Man of the Millpond"
+  },
+  "summary": {
+    "zh": "住在磨坊深潭与漩涡里的水中老人：虚胖，胡须缠水藻，骑鲇鱼出行，把溺亡者收作仆从；磨坊主须向他献祭。",
+    "en": "The bloated old master of millponds and whirlpools, his beard tangled with waterweed, riding a catfish; the drowned serve him, and millers owed him offerings."
+  },
+  "description": {
+    "zh": "沃佳诺伊是水中的男性精怪，磨坊深潭、漩涡与水闸是他的居所。民间把他描绘成一个虚胖的老头：满身淤泥，胡须缠着水藻，有的地方说他长着鱼尾或蹼掌，据说骑着鲇鱼出行。水下的溺亡者归他驱使，他高兴时拍水大笑，发怒时掀翻渔船、冲毁堤坝、驱散鱼群。\n\n与他打交道最深的是磨坊主与渔夫。水磨常年立在深潭边，民间因此相信磨坊主同沃佳诺伊有约：新磨落成要向水里投献黑色的公鸡，19世纪的民族志还记录过往水里沉马的说法。渔夫把头一网里的第一条鱼放回水中，养蜂人向水里献上最早的蜜——都算给这位\"水主人\"的租金。有人落水时旁人常不敢施救，怕夺走沃佳诺伊选中的人，反而招他报复。\n\n入冬水面封冻，据说他在潭底沉睡；开春冰层炸裂作响，是他醒来伸腰，渔夫此时要往水里倒酒致意。教会语汇把他归入\"不洁之力\"，但村社照旧供奉如常。他与家宅的多莫沃伊、林中的莱希构成一组\"主人精灵\"，各守一界，各收各的礼数。",
+    "en": "The vodyanoy is the male spirit of the waters, at home in millponds, whirlpools and sluices. Folk description makes him a bloated old man covered in slime, his beard tangled with waterweed; in some regions he has a fishtail or webbed hands, and he is said to ride a catfish. The drowned serve him beneath the surface. In good humour he slaps the water and laughs; in anger he overturns fishing boats, bursts weirs and scatters the fish.\n\nMillers and fishermen dealt with him most closely. Since a watermill stood over deep water all year, the miller was believed to keep a compact with the vodyanoy: a black rooster was thrown into the water when a new mill was finished, and nineteenth-century ethnography records talk of horses once being sunk as an offering. Fishermen returned the first fish of the catch, and beekeepers gave the first honey to the water — rent paid to the \"water master.\" Bystanders often dared not rescue a drowning person, for fear of robbing the vodyanoy of one he had claimed and drawing his revenge.\n\nWhen the water froze he was said to sleep at the bottom of his pool; the cracking of the ice in spring was the sound of him waking and stretching, and fishermen poured spirits into the water in greeting. Church language filed him among the \"unclean powers,\" but village custom kept up his offerings regardless. With the domovoy of the house and the leshy of the forest he forms a set of \"master spirits,\" each ruling one domain and collecting its own dues."
+  },
+  "domains": {
+    "zh": [
+      "水",
+      "磨坊",
+      "溺亡",
+      "渔业"
+    ],
+    "en": [
+      "Water",
+      "Mills",
+      "Drowning",
+      "Fishing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "磨坊深潭、漩涡、水闸",
+        "en": "Millponds, whirlpools, sluices"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "鲇鱼",
+        "en": "Catfish"
+      }
+    },
+    {
+      "label": {
+        "zh": "供奉",
+        "en": "Offerings"
+      },
+      "value": {
+        "zh": "黑公鸡、头一条鱼、初蜜",
+        "en": "A black rooster, the first fish, the first honey"
+      }
+    }
+  ],
+  "related": [
+    "rusalka",
+    "domovoy",
+    "leshy"
+  ],
+  "sources": [
+    {
+      "zh": "阿法纳西耶夫《斯拉夫人对自然的诗意观照》（1865-1869）",
+      "en": "Alexander Afanasyev, The Poetic Outlook of the Slavs on Nature, 1865-69"
+    },
+    {
+      "zh": "泽列宁《东斯拉夫民族志》（1927）",
+      "en": "Dmitry Zelenin, Russische (Ostslavische) Volkskunde, 1927"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/vodyanoy.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vodyanoy.jpg",
+    "sourceTitle": "Vodyanoy",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 769,
+    "height": 1000
+  }
+}

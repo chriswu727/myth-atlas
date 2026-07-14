@@ -1,0 +1,93 @@
+{
+  "id": "bari-gongju",
+  "tradition": "korean",
+  "type": "deity",
+  "era": "folk",
+  "name": {
+    "zh": "巴里公主",
+    "en": "Princess Bari",
+    "original": "바리공주／바리데기",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "引渡亡魂的巫祖女神",
+    "en": "The Abandoned Princess Who Guides the Dead"
+  },
+  "summary": {
+    "zh": "因是第七个女儿而被国王抛入水中的公主；父母病危时，只有她远赴西天求得药水与还魂花救活双亲，身后成为引渡亡魂的女神、巫觋之祖。",
+    "en": "Cast into the water at birth for being a seventh daughter, she alone journeyed to the western sky for the water of life that revived her dying parents, and became the goddess who leads dead souls onward."
+  },
+  "description": {
+    "zh": "巴里公主的故事史书不载，全凭跳神的现场传下来：它是超度亡魂的叙事巫歌，首尔一带在진오기굿里通宵演唱，南部沿海则唱于씻김굿。故事说오구大王连得六位公主，占卜言第七胎必是王子，生下的仍是女儿。盛怒的国王把婴儿装进玉匣抛弃——各地异本或投江、或弃于山野——弃儿因此得名“바리데기”。她被一对积德的老夫妇捞起抚养成人。\n\n十几年后国王王后同患死症，卜者说唯有西天西域国的药水可救。养尊处优的六位公主各有推托，被找回的弃女巴里换上男装独自上路。在西天，她为守水的무장승服劳役：担水三年、烧火三年、砍柴三年，九年期满又与他成婚、生下七子，才得到药水和能活骨生肉的还魂花。归途中恰逢父母的出殡队伍，她拦下棺木，以花复其骨肉，以水还其气息，死去的国王王后坐起如常。\n\n国王要分半壁江山酬谢，巴里辞而不受，愿做亡者路上的引路人。从此她被奉为오구신，巫俗视她为万巫之祖：亡魂沿着她指的路过桥，往生乐土。这部巫歌至今仍在传唱，采录的异本有数十种；1937年赤松智城与秋叶隆记下的首尔本是最早的完整学术记录之一。2007年黄晳暎的长篇小说《巴里德基》把这位弃女写成脱北少女。",
+    "en": "No chronicle records the story of Princess Bari; it survives in performance, as a shamanic narrative song for the dead sung through the night at the jinogwi-gut of the Seoul region and the ssitgim-gut of the southern coast. King Ogu fathered six princesses in a row; diviners promised the seventh child would be a son, but a girl was born. The enraged king sealed the infant in a jade casket and cast her away, into a river or the wilds depending on the version, which earned her the name Baridegi, the abandoned one. A pious old couple drew her out and raised her.\n\nYears later the king and queen fell mortally ill, and only medicinal water from the land beyond the western sky could save them. Each of the six pampered princesses made excuses; the foundling, sought out and restored, put on men's clothes and set off alone. In the western land she served Mujangseung, keeper of the water: three years hauling water, three tending fires, three cutting wood, and after the nine years married him and bore seven sons before receiving the water of life and the flowers that restore flesh and bone. On the road home she met her parents' funeral procession, halted the biers, revived their bodies with the flowers and their breath with the water.\n\nOffered half the kingdom, she declined, asking instead to guide the souls of the dead. As the goddess Ogu she is honored as the ancestress of all shamans, and the dead cross their bridge along the road she points out. Dozens of regional versions have been transcribed; the Seoul text recorded by Akamatsu and Akiba in 1937 is among the earliest full scholarly records. In 2007 Hwang Sok-yong's novel Baridegi recast the abandoned girl as a North Korean refugee."
+  },
+  "domains": {
+    "zh": [
+      "引魂",
+      "孝",
+      "巫祖",
+      "还魂药水"
+    ],
+    "en": [
+      "Guiding souls",
+      "Filial devotion",
+      "Ancestress of shamans",
+      "Water of life"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "演唱场合",
+        "en": "Performance context"
+      },
+      "value": {
+        "zh": "진오기굿、씻김굿等亡者荐度仪礼",
+        "en": "Death rites such as the jinogwi-gut and ssitgim-gut"
+      }
+    },
+    {
+      "label": {
+        "zh": "法宝",
+        "en": "Sacred objects"
+      },
+      "value": {
+        "zh": "西天药水与还魂花",
+        "en": "The water of life and the flowers of revival"
+      }
+    },
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Meaning of the name"
+      },
+      "value": {
+        "zh": "바리데기，“被抛弃的孩子”",
+        "en": "Baridegi, 'the abandoned child'"
+      }
+    }
+  ],
+  "related": [
+    "samsin-halmoni",
+    "cheonyeo-gwisin"
+  ],
+  "sources": [
+    {
+      "zh": "赤松智城、秋叶隆《朝鲜巫俗研究》所录首尔巫歌本（1937—1938年）",
+      "en": "Seoul muga text in Akamatsu Chijo and Akiba Takashi, Studies of Korean Shamanism (1937-38)"
+    },
+    {
+      "zh": "金泰坤《韩国巫歌集》（1971—1980年）",
+      "en": "Kim Tae-gon, Hanguk Muga-jip (Collected Korean Shamanic Songs, 1971-80)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/bari-gongju.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spirit_of_a_Noble_Woman_(Probably_Princess_Pari)_and_Attendant_LACMA_M.2000.15.11.jpg",
+    "sourceTitle": "Spirit of a Noble Woman (Probably Princess Pari) and Attendant",
+    "artist": "anonymous",
+    "license": "Public domain",
+    "width": 735,
+    "height": 1000
+  }
+}

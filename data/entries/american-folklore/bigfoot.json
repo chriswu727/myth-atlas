@@ -1,0 +1,103 @@
+{
+  "id": "bigfoot",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "大脚怪",
+    "en": "Bigfoot"
+  },
+  "title": {
+    "zh": "北美森林中的巨型毛人",
+    "en": "The Giant Hairy Biped of North American Forests"
+  },
+  "summary": {
+    "zh": "太平洋西北岸森林中传说的两足巨型毛人，1958年加州布拉夫溪的巨大脚印使其得名，1967年帕特森—吉姆林影片令其名扬世界。",
+    "en": "A giant hair-covered biped said to roam Pacific Northwest forests, named after huge footprints found at Bluff Creek, California in 1958 and made world-famous by the 1967 Patterson-Gimlin film."
+  },
+  "description": {
+    "zh": "大脚怪被描述为身高两至三米的两足巨兽，全身覆盖深棕或黑色毛发，肩膀宽阔，步幅极大，行走时膝盖弯曲，偶尔留下长达四十厘米的赤足脚印。目击者常提到浓烈的腐臭气味和低沉的吼叫或敲击树干的声音。它的活动范围以华盛顿州、俄勒冈州和加利福尼亚州北部的针叶林为核心，但北美各地都有零星报告。\n\n「Bigfoot」这个名字诞生于1958年：加州洪堡县布拉夫溪（Bluff Creek）的筑路工人杰里·克鲁（Jerry Crew）把工地上反复出现的巨大脚印灌制成石膏模，《洪堡时报》专栏作家安德鲁·根佐利刊出报道，「大脚」一词随即传遍全美。2002年，工头雷·华莱士（Ray Wallace）去世后，其家人出示木刻脚模，声称那批脚印是他的恶作剧。更早的名字「Sasquatch」由教师J·W·伯恩斯于1929年根据不列颠哥伦比亚省哈尔科梅勒姆语（Halkomelem）中的 sásq'ets 一词转写而来，原指海岸萨利希人传统中的野人。\n\n1967年10月20日，罗杰·帕特森与鲍勃·吉姆林在布拉夫溪拍下约一分钟的16毫米影片：一个毛发覆盖的雌性身影迈步穿过河滩，回头一瞥，即著名的第352帧。这段影片至今仍是争论焦点，支持者视为铁证，怀疑者认为是人穿毛皮服装。此后大脚怪成为美国流行文化的常客，从啤酒广告到公路警示牌无处不在，华盛顿州斯卡马尼亚县甚至在1969年通过法令禁止射杀大脚怪。",
+    "en": "Bigfoot is described as a bipedal giant two to three meters tall, covered in dark brown or black hair, with massive shoulders, a bent-kneed stride, and bare footprints up to forty centimeters long. Witnesses often report a powerful rotten stench, deep howls, and the sound of wood knocking. Its heartland is the coniferous forest of Washington, Oregon, and northern California, though reports come from across North America.\n\nThe name was coined in 1958, when road-crew worker Jerry Crew cast enormous footprints found around a construction site at Bluff Creek in Humboldt County, California; columnist Andrew Genzoli of the Humboldt Times printed the story and \"Bigfoot\" spread nationwide. After foreman Ray Wallace died in 2002, his family produced carved wooden feet and said those prints had been his prank. The older name \"Sasquatch\" was adapted in 1929 by schoolteacher J. W. Burns from sasq'ets, a word in the Halkomelem language of British Columbia's Coast Salish peoples.\n\nOn October 20, 1967, Roger Patterson and Bob Gimlin shot roughly a minute of 16mm film at Bluff Creek showing a hair-covered female figure striding across a sandbar and glancing back at the camera — the famous frame 352. The footage remains disputed: believers call it definitive, skeptics see a man in a fur suit. Bigfoot has since settled into American popular culture, from beer commercials to highway signs, and Skamania County, Washington passed an ordinance against killing one in 1969."
+  },
+  "domains": {
+    "zh": [
+      "野人传说",
+      "巨大脚印",
+      "太平洋西北岸",
+      "目击传统"
+    ],
+    "en": [
+      "Wild man legend",
+      "Giant footprints",
+      "Pacific Northwest",
+      "Sighting tradition"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "体貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "身高2-3米的两足毛人，脚印可达40厘米",
+        "en": "A 2-3 m hairy biped with footprints up to 40 cm"
+      }
+    },
+    {
+      "label": {
+        "zh": "得名",
+        "en": "Naming"
+      },
+      "value": {
+        "zh": "1958年《洪堡时报》报道布拉夫溪脚印",
+        "en": "Humboldt Times coverage of the Bluff Creek prints, 1958"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键影像",
+        "en": "Key footage"
+      },
+      "value": {
+        "zh": "帕特森—吉姆林影片（1967）",
+        "en": "The Patterson-Gimlin film (1967)"
+      }
+    }
+  ],
+  "related": [
+    "michigan-dogman",
+    "mothman"
+  ],
+  "sources": [
+    {
+      "zh": "《洪堡时报》安德鲁·根佐利专栏报道（1958）",
+      "en": "Andrew Genzoli's columns in the Humboldt Times (1958)"
+    },
+    {
+      "zh": "帕特森—吉姆林影片（1967）",
+      "en": "The Patterson-Gimlin film (1967)"
+    },
+    {
+      "zh": "约翰·格林《大脚怪：我们身边的猿类》（1978）",
+      "en": "John Green, Sasquatch: The Apes Among Us (1978)"
+    }
+  ],
+  "geo": {
+    "lat": 41.24,
+    "lon": -123.7,
+    "label": {
+      "zh": "加州布拉夫溪（帕特森—吉姆林影片拍摄地）",
+      "en": "Bluff Creek, California (Patterson-Gimlin film site)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/bigfoot.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murphy_the_Bigfoot.jpg",
+    "sourceTitle": "Murphy the Bigfoot",
+    "artist": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

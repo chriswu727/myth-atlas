@@ -1,0 +1,101 @@
+{
+  "id": "cheonyeo-gwisin",
+  "tradition": "korean",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "处女鬼",
+    "en": "Cheonyeo Gwisin",
+    "original": "처녀귀신（處女鬼神）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "含恨不去的白衣女鬼",
+    "en": "The White-Clad Maiden Ghost"
+  },
+  "summary": {
+    "zh": "未嫁而死的女子所化之鬼，白衣散发，因怨恨滞留人间；密阳阿娘的冤魂吓死一任又一任府使，直到有人肯听她鸣冤。",
+    "en": "The ghost of a woman who died unmarried, white-robed with loose black hair, bound to the world by grievance; the wronged Arang of Miryang frightened magistrate after magistrate to death until one stayed to hear her."
+  },
+  "description": {
+    "zh": "处女鬼身穿白色素服，长发披散遮着惨白的脸，多在井边、老树下、空宅里现身。朝鲜时代的观念里，女子未嫁而死，无夫家奉祀，无子孙祭奠，魂魄进不了祖先的行列，只能滞留人间；若死于冤屈，怨气更重。民间的对策是替她办冥婚，或请巫觋做解冤的씻김굿，把缠住魂魄的结一段段解开。\n\n最著名的处女鬼是密阳的阿娘。传说府使之女阿娘被乳母诱出，深夜在岭南楼畔赏月，遭衙役逼迫，不从被杀，尸身弃于竹林。此后新任府使夜夜被白衣女鬼惊死，密阳成了无人敢赴任的凶地，直到一位胆大的府使秉烛坐到深夜，听完她的冤情。翌日升堂，冤魂指认了凶手——一说化作白蝶落在凶手帽上——阿娘的骸骨从竹林中寻出安葬，岭南楼旁至今立着奉祀她的阿娘阁。朝鲜后期小说《蔷花红莲传》讲的是同一类故事：被继母构陷溺死的姐妹夜夜现身官衙鸣冤，吓死数任使道，终于等到一位肯问“你是谁”的官员。\n\n这类故事的骨架是一场迟到的听证：鬼并不滥杀，她一遍遍回来，只因无人听完她的话。二十世纪以后处女鬼搬进了学校：厕所里的白衣女生、深夜自习室的长发身影，成为韩国校园怪谈的主角。1998年电影《女高怪谈》与2003年改编自《蔷花红莲传》的《蔷花，红莲》把这套形象送进了东亚恐怖片的共同记忆。",
+    "en": "The cheonyeo gwisin appears in a white mourning robe, long black hair hanging over a bloodless face, haunting wells, old trees, and empty houses. In Joseon thinking, a woman who died unmarried had no husband's line to enshrine her and no descendants to feed her spirit, so she could not join the ancestors and lingered in the world; if she had died wronged, the grievance bound her tighter. Folk remedies included posthumous ghost marriages and the ssitgim-gut, a shamanic rite that unties, knot by knot, the resentments holding a soul back.\n\nThe most famous of these ghosts is Arang of Miryang. A magistrate's daughter lured out by her nurse to view the moon by the Yeongnamnu pavilion, she was assaulted by a yamen servant, killed for resisting, and dumped in a bamboo grove. Every newly appointed magistrate was found dead of fright after his first night, and Miryang became a posting no one dared accept, until one official sat up with a candle and heard her story to the end. At the next morning's assembly the ghost identified the culprit, in some tellings as a white butterfly alighting on his hat. Her bones were recovered and buried, and the Arang-gak shrine still stands below the pavilion. The late Joseon novel Janghwa Hongnyeon jeon tells the same pattern: two sisters drowned through their stepmother's plot appear nightly at the magistrate's office until an official finally asks who they are.\n\nThe skeleton of these stories is a delayed hearing: the ghost returns again and again because no one has yet listened to the end. In the twentieth century she moved into schools, and the white-clad girl of the toilet stall and the night study hall became the stock figure of Korean campus horror, carried into East Asian cinema by Whispering Corridors (1998) and A Tale of Two Sisters (2003)."
+  },
+  "domains": {
+    "zh": [
+      "冤魂",
+      "恨",
+      "白衣",
+      "校园怪谈"
+    ],
+    "en": [
+      "Wronged ghost",
+      "Han",
+      "White mourning robe",
+      "School horror"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "白色素服，长发披面",
+        "en": "White mourning robe, long hair over the face"
+      }
+    },
+    {
+      "label": {
+        "zh": "安抚之法",
+        "en": "Appeasement"
+      },
+      "value": {
+        "zh": "冥婚、씻김굿解冤",
+        "en": "Ghost marriage; the ssitgim-gut rite"
+      }
+    },
+    {
+      "label": {
+        "zh": "代表传说",
+        "en": "Signature legend"
+      },
+      "value": {
+        "zh": "密阳阿娘传说、《蔷花红莲传》",
+        "en": "The Arang legend of Miryang; Janghwa Hongnyeon jeon"
+      }
+    }
+  ],
+  "related": [
+    "bari-gongju",
+    "kumiho"
+  ],
+  "sources": [
+    {
+      "zh": "密阳阿娘传说（口传，收录于《韩国口碑文学大系》）",
+      "en": "The Arang legend of Miryang, oral tradition collected in the Compendium of Korean Oral Literature"
+    },
+    {
+      "zh": "《蔷花红莲传》（朝鲜后期谚文小说）",
+      "en": "Janghwa Hongnyeon jeon, a late Joseon vernacular novel"
+    }
+  ],
+  "geo": {
+    "lat": 35.493,
+    "lon": 128.756,
+    "label": {
+      "zh": "密阳岭南楼与阿娘阁",
+      "en": "Yeongnamnu Pavilion and Arang-gak Shrine, Miryang"
+    }
+  },
+  "image": {
+    "file": "/images/entries/cheonyeo-gwisin.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aranggak.jpg",
+    "sourceTitle": "Aranggak",
+    "artist": "Taken by User:Visviva and released into the public domain.",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 750
+  }
+}

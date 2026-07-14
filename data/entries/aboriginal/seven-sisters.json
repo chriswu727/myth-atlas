@@ -1,0 +1,94 @@
+{
+  "id": "seven-sisters",
+  "tradition": "aboriginal",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "七姐妹星",
+    "en": "The Seven Sisters",
+    "original": "Kungkarangkalpa",
+    "originalLang": "皮坚加加拉语"
+  },
+  "title": {
+    "zh": "横贯大陆的追逐歌之路",
+    "en": "The Continent-Spanning Songline of Pursuit"
+  },
+  "summary": {
+    "zh": "昴星团的由来：七位姐妹被违犯婚律的男子尼鲁穷追不舍，逃遍西部沙漠，最终飞上夜空。这条歌之路横贯半个澳洲大陆。",
+    "en": "The origin of the Pleiades: seven sisters flee Wati Nyiru, a man forbidden to them under kinship law, across the Western Desert until they leap into the sky. The songline crosses half the continent."
+  },
+  "description": {
+    "zh": "在皮坚加加拉与扬库尼加加拉人的楚库尔帕中，七姐妹名为昆卡兰卡帕。梦创时代，一个名叫瓦提·尼鲁的男子迷恋上她们，但按亲属律法，他与姐妹们属于不可通婚的类别。尼鲁会变形，时而化作岩石、树木或诱人的食物埋伏在姐妹必经之路上；姐妹们一次次识破、一次次逃脱，足迹在沙漠中留下水潭、岩窟与沙丘。南澳北部的沃利尼加岩窟（凯夫希尔）保存着描绘这场追逐的岩画，是这条歌之路上著名的公开节点。追到海边无路可逃时，姐妹们腾身跃入夜空化作昴星团，尼鲁追上天去，成为猎户座的亮星，至今仍在冬季夜空里尾随她们西行。\n\n相似的叙事沿着歌之路跨越语言边界流传：西澳马尔杜人称姐妹为明伊普鲁，东南部加米拉赖等族也讲述“梅阿梅”七姐妹与寒霜的故事。星象与叙事严丝合缝——昴星团黎明前升起的时节，正对应各地相应的季节律令。天文学者常以七姐妹叙事说明澳洲口传天文的深度：它与希腊神话各自独立地把同一星团讲成被追逐的姐妹。\n\n2017年，澳大利亚国家博物馆举办“歌之路：追寻七姐妹”特展，由沙漠各社区长者主导策展，用岩画复制窟、巨幅丙烯画与多媒体沿线重走这场追逐，是迄今规模最大的一次公开呈现，图录成为这一叙事最权威的公开文献。",
+    "en": "In the Tjukurpa of the Pitjantjatjara and Yankunytjatjara, the sisters are called Kungkarangkalpa. In the Dreaming a man named Wati Nyiru desired them, but under kinship law he stood in the wrong relation to them and could not marry. Nyiru is a shapeshifter: he lay in wait along their route as a rock, a tree, or tempting food, and again and again the sisters saw through the disguise and fled, their flight leaving waterholes, caves, and dunes across the desert. The rock shelter of Walinynga (Cave Hill) in northern South Australia holds famous public paintings of the pursuit. Cornered at last at the edge of the sea, the sisters leapt into the sky and became the Pleiades; Nyiru followed and became bright stars of Orion, still trailing them westward through the winter night.\n\nVersions of the narrative run along the songline across language boundaries: the Martu of Western Australia call the sisters Minyipuru, and Gamilaraay and neighbouring peoples of the south-east tell of the Meamei sisters and the coming of frost. Sky and story lock together — the pre-dawn rising of the Pleiades keys seasonal rules in each region. Astronomers often cite the tradition when discussing the depth of Australian oral astronomy: like the Greeks, and independently of them, desert peoples read the same cluster as sisters pursued.\n\nIn 2017 the National Museum of Australia mounted Songlines: Tracking the Seven Sisters, an exhibition led by desert elders that retraced the chase through a replica rock shelter, monumental acrylic paintings, and immersive media — the largest public telling to date, its catalogue now the standard open reference."
+  },
+  "domains": {
+    "zh": [
+      "昴星团",
+      "歌之路",
+      "亲属律法",
+      "口传天文"
+    ],
+    "en": [
+      "Pleiades",
+      "Songlines",
+      "Kinship law",
+      "Oral astronomy"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "皮坚加加拉、扬库尼加加拉、马尔杜等西部沙漠诸族；东南部亦有平行叙事",
+        "en": "Pitjantjatjara, Yankunytjatjara, Martu, and other Western Desert peoples, with parallel tellings in the south-east"
+      }
+    },
+    {
+      "label": {
+        "zh": "追逐者",
+        "en": "The pursuer"
+      },
+      "value": {
+        "zh": "瓦提·尼鲁，化入猎户座",
+        "en": "Wati Nyiru, who became part of Orion"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名节点",
+        "en": "Notable site"
+      },
+      "value": {
+        "zh": "沃利尼加岩窟（南澳凯夫希尔）的追逐岩画",
+        "en": "Rock paintings of the pursuit at Walinynga (Cave Hill), South Australia"
+      }
+    }
+  ],
+  "related": [
+    "the-dreaming",
+    "uluru",
+    "baiame"
+  ],
+  "sources": [
+    {
+      "zh": "玛戈·尼尔主编《歌之路：追寻七姐妹》展览图录（澳大利亚国家博物馆，2017）",
+      "en": "Margo Neale (ed.), Songlines: Tracking the Seven Sisters, exhibition catalogue (National Museum of Australia, 2017)"
+    },
+    {
+      "zh": "朗洛·帕克《澳大利亚传奇故事续集》（1898，收录东南部梅阿梅七姐妹与寒霜的叙事）",
+      "en": "K. Langloh Parker, More Australian Legendary Tales (1898, including the south-eastern Meamei frost telling)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/seven-sisters.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pleiades_large.jpg",
+    "sourceTitle": "Pleiades large",
+    "artist": "NASA, ESA, AURA/Caltech, Palomar Observatory The science team consists of: D. Soderblom and E. Nelan (STScI), F. Benedict and B. Arthur (U. Texas), and B. Jones (Lick Obs.)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 721
+  }
+}

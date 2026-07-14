@@ -1,0 +1,106 @@
+{
+  "id": "indra",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "因陀罗",
+    "en": "Indra",
+    "original": "इन्द्र",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "雷霆之王，提婆众的首领",
+    "en": "Wielder of the thunderbolt, king of the devas"
+  },
+  "summary": {
+    "zh": "手持金刚杵的雷雨之神、提婆众之王，斩杀旱魃巨蛇弗栗多放出天下之水。《梨俱吠陀》中出现最多的神，后世地位渐被三相神取代。",
+    "en": "Thunder-god and king of the devas who slew the drought-serpent Vritra with his vajra to free the waters. The most-hymned god of the Rigveda, later eclipsed by the Trimurti."
+  },
+  "description": {
+    "zh": "因陀罗是吠陀时代的众神之王：金发赤髯的伟岸战士，手持工巧神陀湿多锻造的金刚杵（vajra），痛饮苏摩酒后力量倍增，坐骑是四牙白象爱罗婆多。他统治天界善见城（Amaravati），麾下有暴风神摩录多为战友，司掌雷雨与战争。《梨俱吠陀》一千余首颂歌中约四分之一献给他，远多于任何其他神祇。\n\n他最著名的功业记在《梨俱吠陀》第一卷第32颂：巨蛇弗栗多（Vritra，“阻塞者”）盘踞山中锁住天下之水，大地干涸。因陀罗饮下三大杯苏摩，挥金刚杵劈开蛇腹，被囚的河水如奔牛般倾泻而出。这场屠龙成为吠陀诗人反复咏唱的创世式胜利。\n\n史诗与往世书时代，因陀罗的地位明显下滑：他成了屡屡被阿修罗打败、又向毗湿奴或湿婆求援的天界之王，还因诱惑仙人之妻阿哈利雅而受诅咒。《薄伽梵往世书》里，少年克里希那让牧民停止祭祀因陀罗，因陀罗降下七天暴雨报复，克里希那单指举起牛增山为众人遮雨，迫使他低头认错。因陀罗随佛教东传，汉译佛典称其为帝释天，成为护法诸天之首。",
+    "en": "Indra is the warrior king of the Vedic gods: a mighty golden-haired figure wielding the vajra, the thunderbolt forged by the craftsman god Tvashtri, his strength doubled by draughts of soma. He rides the white, four-tusked elephant Airavata and rules the celestial city of Amaravati with the storm-riding Maruts as his war band. Roughly a quarter of the thousand-odd hymns of the Rigveda are addressed to him, more than to any other god.\n\nHis defining deed is told in Rigveda 1.32: the serpent Vritra, the 'Obstructor,' had coiled around the mountains and locked up the waters of the world. Indra drank deep of soma, split the serpent open with his thunderbolt, and the imprisoned rivers burst forth like lowing cattle. Vedic poets returned to this dragon-slaying again and again as a victory that renewed creation itself.\n\nIn the epics and Puranas Indra's standing falls: he becomes a king of heaven repeatedly routed by asuras and forced to beg Vishnu or Shiva for rescue, and he is cursed for seducing the sage's wife Ahalya. In the Bhagavata Purana the boy Krishna persuades the herders of Vraja to stop Indra's sacrifice; Indra retaliates with seven days of storm, and Krishna holds up Mount Govardhana on one finger as an umbrella until the god submits. Carried east with Buddhism, Indra became Sakra, chief of the protector gods, rendered in Chinese Buddhist texts as Dishitian."
+  },
+  "domains": {
+    "zh": [
+      "雷雨",
+      "战争",
+      "王权",
+      "天界"
+    ],
+    "en": [
+      "Thunder and Rain",
+      "War",
+      "Kingship",
+      "The Heavens"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "金刚杵（伐折罗）",
+        "en": "The vajra thunderbolt"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "四牙白象爱罗婆多",
+        "en": "The four-tusked white elephant Airavata"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《梨俱吠陀》，约公元前1500-前1200年",
+        "en": "Rigveda, c. 1500–1200 BCE"
+      }
+    },
+    {
+      "label": {
+        "zh": "佛教称号",
+        "en": "Buddhist name"
+      },
+      "value": {
+        "zh": "帝释天",
+        "en": "Sakra (Dishitian)"
+      }
+    }
+  ],
+  "related": [
+    "vishnu",
+    "krishna",
+    "garuda",
+    "samudra-manthan",
+    "amrita"
+  ],
+  "sources": [
+    {
+      "zh": "《梨俱吠陀》1.32",
+      "en": "Rigveda 1.32"
+    },
+    {
+      "zh": "《薄伽梵往世书》",
+      "en": "Bhagavata Purana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/indra.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indradeva.jpg",
+    "sourceTitle": "Indradeva",
+    "artist": "Unknown, India, Rajasthan, Amber, South Asia",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 640
+  }
+}

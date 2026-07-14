@@ -1,0 +1,94 @@
+{
+  "id": "illapa",
+  "tradition": "inca",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊利亚帕",
+    "en": "Illapa",
+    "original": "Illapa",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "雷电与天候之神",
+    "en": "God of Thunder and Weather"
+  },
+  "summary": {
+    "zh": "印加雷神，执投石索与战棍的天空武士：索鞭炸响为雷，衣袍闪光为电，他从天河中舀水降为雨。旱年人们向他献祭求雨；殖民时代他与圣雅各合流。",
+    "en": "The Inca thunder god, a sky warrior with sling and war club: his sling-crack is thunder, his flashing garments lightning, and he pours rain drawn from the celestial river. Under Spanish rule he merged with Santiago."
+  },
+  "description": {
+    "zh": "按科博记下的形象，伊利亚帕是由星辰组成的天空武士，左手握战棍，右手执投石索，身披闪闪发光的衣袍。雷是他甩响投石索的炸裂，电是他衣袍与武器翻动时的闪光；他从横贯夜空的天河“马尤”（银河）里舀水，挥索击碎盛水的罐子，雨便落向大地。在库斯科的国家祭仪里，他的位次紧随维拉科查与太阳之后，别号“丘基伊利亚”。加西拉索还录下一首经耶稣会士布拉斯·瓦莱拉传抄的克丘亚古歌：天上少女提罐盛水，兄长击碎罐子，于是雷鸣电闪、雨雪俱下。\n\n安第斯的收成全系于雨水，伊利亚帕因此得到最急切的祈求。旱年人们向他献祭牲畜，高处的圣所多归于他；冰雹与霜冻毁田，也要向他禳解。被闪电击中的人与地都被视为他亲手点选，就地成为圣所；双生子的降生也被归于雷的干预，须行专门的仪式。\n\n西班牙人到来后，火枪的轰响让安第斯人把伊利亚帕认进了骑白马、挥利剑的圣雅各（圣地亚哥）像里，两者在殖民时代合为一体，山村里献给圣地亚哥的节庆延续着旧日的雷神祭。至今在克丘亚与艾马拉社群中，遭雷击而幸存者仍常被视为受了神召，可以出任仪式专家。",
+    "en": "In the image Cobo records, Illapa is a warrior formed of stars in the night sky, a war club in his left hand and a sling in his right, dressed in garments that flash and glitter. Thunder is the crack of his sling; lightning, the glare of his clothing and weapons as they move. He draws water from the Mayu, the celestial river of the Milky Way, and when his sling shatters the jar that holds it, rain falls on the earth. In the state cult of Cusco he ranked directly after Viracocha and the Sun, and bore the further name Chuqui Illa. Garcilaso preserves an old Quechua song, transmitted through the Jesuit Blas Valera, in which a maiden in the sky carries a jar of water; her brother smashes it, and thunder, lightning, rain and snow pour down.\n\nSince every Andean harvest hung on the rains, Illapa received the most urgent prayers. In drought years livestock were sacrificed to him, and shrines on high ground were commonly his; hail and frost that ruined fields also had to be turned aside with offerings. A person or place struck by lightning was held to be marked by his own hand and became sacred on the spot, and the birth of twins was likewise credited to the thunder and required its own rites.\n\nAfter the conquest, the roar of Spanish firearms led Andeans to recognize Illapa in the figure of Santiago, Saint James on his white horse with sword raised, and the two fused throughout the colonial era; village feasts of Santiago carried the old thunder cult forward. Among Quechua and Aymara communities today, one who survives a lightning strike is still often understood to have been called, and may take up work as a ritual specialist."
+  },
+  "domains": {
+    "zh": [
+      "雷电",
+      "降雨",
+      "冰雹与霜冻",
+      "天河"
+    ],
+    "en": [
+      "Thunder and lightning",
+      "Rain",
+      "Hail and frost",
+      "The celestial river"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "投石索与战棍",
+        "en": "Sling and war club"
+      }
+    },
+    {
+      "label": {
+        "zh": "别号",
+        "en": "Also called"
+      },
+      "value": {
+        "zh": "丘基伊利亚",
+        "en": "Chuqui Illa"
+      }
+    },
+    {
+      "label": {
+        "zh": "殖民时代化身",
+        "en": "Colonial guise"
+      },
+      "value": {
+        "zh": "圣雅各（圣地亚哥）",
+        "en": "Santiago, Saint James"
+      }
+    }
+  ],
+  "related": [
+    "inti",
+    "apu",
+    "pachamama"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳贝·科博《新世界史》（1653）",
+      "en": "Bernabé Cobo, Historia del Nuevo Mundo (1653)"
+    },
+    {
+      "zh": "印卡·加西拉索·德拉维加《印卡王室述评》（1609）",
+      "en": "Inca Garcilaso de la Vega, Royal Commentaries of the Incas (1609)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/illapa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relaci%C3%B3n_de_antig%C3%BCedades_deste_Reyno_del_Piru_-_Cosmolog%C3%ADa_Incaica.jpg",
+    "sourceTitle": "Relación de antigüedades deste Reyno del Piru - Cosmología Incaica",
+    "artist": "Juan Santa Cruz Pachacuti",
+    "license": "Public domain",
+    "width": 676,
+    "height": 1000
+  }
+}

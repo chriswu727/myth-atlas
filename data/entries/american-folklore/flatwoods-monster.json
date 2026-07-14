@@ -1,0 +1,100 @@
+{
+  "id": "flatwoods-monster",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "弗拉特伍兹怪物",
+    "en": "Flatwoods Monster"
+  },
+  "title": {
+    "zh": "1952年西弗吉尼亚山丘上的黑桃头怪影",
+    "en": "The Spade-Hooded Apparition of the 1952 West Virginia Hills"
+  },
+  "summary": {
+    "zh": "1952年9月12日夜，西弗吉尼亚州弗拉特伍兹镇的孩子追踪坠落的火光上山，与大人一同目击约三米高、头罩黑桃形、身下喷雾滑行的怪物，全国报纸争相报道。",
+    "en": "On the night of September 12, 1952, boys in Flatwoods, West Virginia chased a falling light up a hill and, with adults, met a ten-foot figure with a spade-shaped cowl that glided toward them hissing — a national news sensation."
+  },
+  "description": {
+    "zh": "1952年9月12日傍晚，一道明亮的火光划过美国东部数州的天空。西弗吉尼亚州布拉克斯顿县的弗拉特伍兹镇上，几个正在踢球的男孩看见它落在附近的山丘上，便叫上凯瑟琳·梅夫人、国民警卫队员吉恩·莱蒙等人提着手电上山查看。他们先是闻到刺鼻的雾气、看见地上一团脉动的红光，接着手电照到橡树旁一个高约三米的东西：头部围着黑桃A形状的暗色罩子，罩内一张发红的「脸」，两眼射出橙绿色的光，躯干像金属质感的深绿色百褶裙。那东西发出嘶嘶声，悬浮着朝人群滑来，众人连滚带爬逃下山。当晚多人恶心呕吐，次日调查者只在现场找到压倒的草和一道滑痕。\n\n事件正逢1952年夏季全美UFO目击潮（华盛顿特区雷达事件刚过去两个月），《查尔斯顿公报》等报纸大幅报道，凯瑟琳·梅与目击男孩还上了纽约的电视节目。当地作家格雷·巴克为超自然杂志《Fate》撰写的《怪物与飞碟》（1953年1月号）把「弗拉特伍兹怪物」（又称「布拉克斯顿县怪物」「绿色怪物」）钉进了UFO时代的怪物名录。\n\n怀疑论者乔·尼克尔于2000年提出至今最通行的解释：火光是一颗掠过的火流星，红色脉动光是山上的飞机导航灯，而怪物本身是受惊的仓鸮——黑桃形罩子是鸮的心形面盘在恐惧记忆中的放大。解释归解释，布拉克斯顿县把怪物做成了地方名片：镇里有弗拉特伍兹怪物博物馆，公路边立着一把把巨型怪物木椅供游客合影。",
+    "en": "On the evening of September 12, 1952, a brilliant fireball crossed the sky over several eastern states. In Flatwoods, Braxton County, West Virginia, boys playing football watched it drop behind a nearby hilltop and fetched Kathleen May, National Guardsman Eugene \"Gene\" Lemon, and others to investigate by flashlight. They met an acrid mist, a pulsing red glow on the ground, and then, in the flashlight beam beside an oak, a figure some ten feet tall: a dark cowl shaped like the ace of spades around a reddish face, eyes throwing orange-green light, a torso like a dark green pleated metal skirt. It hissed and glided toward them; the party fled headlong down the hill, several sick and vomiting that night. Investigators found only flattened grass and skid marks the next day.\n\nThe encounter landed in the middle of the great UFO flap of 1952, two months after the Washington, D.C. radar incidents, and papers such as the Charleston Gazette gave it heavy play; Kathleen May and the boys appeared on New York television. Local writer Gray Barker's article \"The Monster and the Saucer\" in the January 1953 issue of Fate magazine fixed the Flatwoods Monster — also the Braxton County Monster or the Green Monster — in the saucer-age bestiary.\n\nSkeptic Joe Nickell's 2000 investigation offered the standard explanation: the fireball was a meteor, the pulsing glow an aircraft beacon, and the monster a startled barn owl, its heart-shaped facial disk inflated by fright into the spade cowl. Braxton County has embraced the creature regardless, with a Flatwoods Monster Museum and giant roadside monster chairs for travelers' photographs."
+  },
+  "domains": {
+    "zh": [
+      "UFO怪谈",
+      "集体目击",
+      "冷战恐慌",
+      "地方吉祥物"
+    ],
+    "en": [
+      "UFO lore",
+      "Group sighting",
+      "Cold War panic",
+      "Local mascot"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "目击时间",
+        "en": "Sighting"
+      },
+      "value": {
+        "zh": "1952年9月12日夜，仅此一夜",
+        "en": "The night of September 12, 1952 — a single encounter"
+      }
+    },
+    {
+      "label": {
+        "zh": "体貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "约3米高，黑桃形头罩，喷雾滑行",
+        "en": "About 10 ft tall, spade-shaped cowl, gliding in mist"
+      }
+    },
+    {
+      "label": {
+        "zh": "通行解释",
+        "en": "Leading explanation"
+      },
+      "value": {
+        "zh": "火流星加受惊仓鸮（乔·尼克尔，2000）",
+        "en": "A meteor plus a startled barn owl (Joe Nickell, 2000)"
+      }
+    }
+  ],
+  "related": [
+    "mothman",
+    "hopkinsville-goblins",
+    "dover-demon"
+  ],
+  "sources": [
+    {
+      "zh": "1952年9月《查尔斯顿公报》等报纸报道",
+      "en": "Newspaper coverage including the Charleston Gazette, September 1952"
+    },
+    {
+      "zh": "格雷·巴克《怪物与飞碟》，《Fate》杂志（1953年1月）",
+      "en": "Gray Barker, \"The Monster and the Saucer,\" Fate magazine (January 1953)"
+    }
+  ],
+  "geo": {
+    "lat": 38.72,
+    "lon": -80.65,
+    "label": {
+      "zh": "西弗吉尼亚州弗拉特伍兹镇",
+      "en": "Flatwoods, West Virginia"
+    }
+  },
+  "image": {
+    "file": "/images/entries/flatwoods-monster.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flatwoods_Visitor_Chair.jpg",
+    "sourceTitle": "Flatwoods Visitor Chair",
+    "artist": "Don Woods",
+    "license": "CC BY-SA 4.0",
+    "width": 661,
+    "height": 1000
+  }
+}

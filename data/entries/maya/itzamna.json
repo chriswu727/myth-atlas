@@ -1,0 +1,107 @@
+{
+  "id": "itzamna",
+  "tradition": "maya",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊察姆纳",
+    "en": "Itzamna",
+    "original": "Itzamná",
+    "originalLang": "尤卡坦玛雅语"
+  },
+  "title": {
+    "zh": "天界的老年造物主，文字与历法之神",
+    "en": "Aged Creator of the Sky, God of Writing and the Calendar"
+  },
+  "summary": {
+    "zh": "玛雅万神殿中的天界至高神，手抄本里的“神D”：一位坐在天带宝座上的无齿老者。殖民时期文献说他发明了文字与历法，是第一位祭司。",
+    "en": "Supreme sky god of the Maya pantheon, \"God D\" of the codices: a toothless old man enthroned on a sky-band. Colonial sources credit him with inventing writing and the calendar."
+  },
+  "description": {
+    "zh": "伊察姆纳在树皮纸手抄本中被编为“神D”：鹰钩鼻、瘪嘴无齿、眼窝深陷的老者，额带正中缀一枚圆形宝饰，常坐在象征天穹的天带宝座上主持诸神集会。他有一个鸟形化身——栖息在世界树顶的巨鸟“主鸟神”，古典期石碑与圣巴尔托洛壁画上都能见到这只珠光宝气的大鸟。作为造物主与天界之主，他在玛雅万神殿中位置最高，却几乎不沾染战争与献祭的血腥题材。\n\n殖民时期的编年史把人类最贵重的几样发明都归给他：科戈柳多《尤卡坦史》（1688年）记载伊察姆纳发明了文字与书籍，为尤卡坦各地命名，是玛雅人的第一位祭司。兰达《尤卡坦纪事》则记录，在名为“西普”的月份里，医师与巫师带着药囊集会，向伊察姆纳与伊希切尔等医药之神献祭。文字、历法、医药、占卜——凡属知识的领域几乎都在他名下。\n\n尤卡坦城市伊萨马尔的名字便与他相连，那里自古典期起就是朝圣中心，供奉他与太阳神基尼奇·阿哈乌的巨大金字塔基尼奇·卡克莫至今仍矗立在城中。铭文研究显示，古典期的伊察姆纳与太阳神关系密切，二者的名号常常连写。",
+    "en": "In the bark-paper codices Itzamna is catalogued as God D: an aged man with a prominent Roman nose, sunken toothless mouth, and a round jewel set on his brow-band, enthroned upon a sky-band as he presides over assemblies of the gods. He has an avian alter ego, the Principal Bird Deity, a bejeweled great bird perched atop the world tree that appears on Classic stelae and in the murals of San Bartolo. As creator and lord of the heavens he stands at the head of the pantheon, yet he stays remarkably clear of warfare and blood sacrifice in the surviving imagery.\n\nColonial chronicles credit him with humanity's most precious inventions. Diego López de Cogolludo's Historia de Yucatán (1688) records that Itzamna invented letters and books, gave the places of Yucatán their names, and served as the first priest. Landa's Relación describes the feast of the month Zip, when physicians and shamans gathered with their medicine bundles to honor Itzamna and Ix Chel among the gods of healing. Writing, the calendar, medicine, divination: nearly every province of knowledge belongs to him.\n\nThe Yucatecan town of Izamal bears his name and was a pilgrimage center from the Classic period onward; the huge pyramid of Kinich Kak Moo still rises above its streets. Inscriptions show the Classic Itzamna closely tied to the sun god Kinich Ahau, whose name is often written together with his."
+  },
+  "domains": {
+    "zh": [
+      "天空",
+      "创造",
+      "文字与历法",
+      "医药"
+    ],
+    "en": [
+      "Sky",
+      "Creation",
+      "Writing and calendar",
+      "Medicine"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "手抄本代号",
+        "en": "Codex designation"
+      },
+      "value": {
+        "zh": "神D",
+        "en": "God D"
+      }
+    },
+    {
+      "label": {
+        "zh": "鸟形化身",
+        "en": "Avian aspect"
+      },
+      "value": {
+        "zh": "主鸟神，栖于世界树顶",
+        "en": "Principal Bird Deity atop the world tree"
+      }
+    },
+    {
+      "label": {
+        "zh": "崇拜中心",
+        "en": "Cult center"
+      },
+      "value": {
+        "zh": "伊萨马尔",
+        "en": "Izamal"
+      }
+    }
+  ],
+  "related": [
+    "ix-chel",
+    "kukulkan",
+    "chaac",
+    "maya-maize-god"
+  ],
+  "sources": [
+    {
+      "zh": "《德累斯顿手抄本》",
+      "en": "Dresden Codex"
+    },
+    {
+      "zh": "迭戈·德·兰达《尤卡坦纪事》（约1566年）",
+      "en": "Diego de Landa, Relación de las cosas de Yucatán (c. 1566)"
+    },
+    {
+      "zh": "迭戈·洛佩斯·德·科戈柳多《尤卡坦史》（1688年）",
+      "en": "Diego López de Cogolludo, Historia de Yucatán (1688)"
+    }
+  ],
+  "geo": {
+    "lat": 20.932,
+    "lon": -89.028,
+    "label": {
+      "zh": "伊萨马尔",
+      "en": "Izamal"
+    }
+  },
+  "image": {
+    "file": "/images/entries/itzamna.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Effigy_Vessel_of_Itzamna,_God_of_Skies,_Late_Classic,_600-900_AD.jpg",
+    "sourceTitle": "Effigy Vessel of Itzamna, God of Skies, Late Classic, 600-900 AD",
+    "artist": "Gary Lee Todd, Ph.D.",
+    "license": "CC0",
+    "width": 1000,
+    "height": 666
+  }
+}

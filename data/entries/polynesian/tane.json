@@ -1,0 +1,105 @@
+{
+  "id": "tane",
+  "tradition": "polynesian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "塔内",
+    "en": "Tane",
+    "original": "Tāne-mahuta",
+    "originalLang": "毛利语"
+  },
+  "title": {
+    "zh": "森林与飞鸟之神，分开天地者",
+    "en": "God of Forests and Birds, Separator of Sky and Earth"
+  },
+  "summary": {
+    "zh": "毛利传统中的森林与飞鸟之神。他以双脚蹬开天父地母、让光进入世间，用红土捏出第一个女人，又登上诸天取回三篮知识。",
+    "en": "The Maori god of forests and birds. He thrust sky and earth apart to let in light, shaped the first woman from red earth, and climbed the heavens to bring back three baskets of knowledge."
+  },
+  "description": {
+    "zh": "塔内是天父朗吉与地母帕帕的儿子，森林、树木与飞鸟都是他的子孙，毛利人称林中群鸟为\"塔内的孩子\"。当兄弟们困在紧拥的父母之间不见天日时，各神轮番尝试分开天地均告失败，塔内以背抵住大地母亲、双脚向上蹬住天空父亲，缓缓将二者撑开，光才第一次照进世间。此后他为赤裸的父亲装点星辰，为母亲披上林木。\n\n塔内也是人类之源。诸神造齐了世界却没有人，塔内在库拉瓦卡的红土上捏出第一个女人希涅阿胡奥内，向她鼻孔吹气赋予生命——毛利人至今以碰鼻礼相认。他与所造的黎明少女希涅蒂塔玛生育后代；希涅蒂塔玛后来得知丈夫即是生父，羞愤遁入地下世界，化为夜之大女神希涅努伊特波，在幽暗中迎接死去的子孙。珀西·史密斯1913年整理的《学问之家的传承》另记有塔内登天的传统：他攀上最高天，从至高处取回三只知识之篮，盛着仪典、咒歌与人间技艺，带回给人类。\n\n对毛利人而言，砍树造舟即是进入塔内的领地，须先诵祝词求得允准。新西兰北岛怀波瓦森林中现存最大的一株贝壳杉被命名为\"塔内玛胡塔\"，树龄以千年计，至今是游人与部落共同致意的对象。",
+    "en": "Tane is a son of the sky father Rangi and the earth mother Papa; forests, trees and birds are his offspring, and Maori call the birds of the bush \"the children of Tane.\" When the brothers lay cramped in darkness between their embracing parents, each god tried in turn to part them and failed. Tane set his back against the earth mother and his feet against the sky father and slowly straightened, forcing them apart, and light entered the world for the first time. Afterwards he dressed his naked father with stars and clothed his mother in forests.\n\nTane is also the source of humankind. The gods had made a world without people, so Tane shaped the first woman, Hine-ahu-one, from the red earth at Kurawaka and breathed life into her nostrils; the Maori greeting of pressed noses recalls the act. With Hine-titama, the dawn maiden he fathered and then married, he had children, until she learned her husband was her father and fled below in shame, becoming Hine-nui-te-po, the great goddess of night who receives the dead. The whare wananga traditions collected in S. Percy Smith's The Lore of the Whare-wananga (1913) add his ascent through the heavens to fetch the three baskets of knowledge, holding ritual, incantation and the crafts of daily life, which he carried back for humankind.\n\nTo fell a tree for a canoe was to enter Tane's domain, and proper chants had to be recited first. The largest living kauri tree in the Waipoua Forest of New Zealand's North Island bears his name, Tane Mahuta, and is still greeted by iwi and visitors alike."
+  },
+  "domains": {
+    "zh": [
+      "森林",
+      "飞鸟",
+      "光明",
+      "知识",
+      "造人"
+    ],
+    "en": [
+      "Forests",
+      "Birds",
+      "Light",
+      "Knowledge",
+      "Making of humankind"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "功业",
+        "en": "Great deed"
+      },
+      "value": {
+        "zh": "以双脚蹬开天地",
+        "en": "Thrust sky and earth apart with his feet"
+      }
+    },
+    {
+      "label": {
+        "zh": "所造",
+        "en": "Creation"
+      },
+      "value": {
+        "zh": "第一个女人希涅阿胡奥内，以库拉瓦卡红土捏成",
+        "en": "Hine-ahu-one, the first woman, shaped from red earth at Kurawaka"
+      }
+    },
+    {
+      "label": {
+        "zh": "同名圣树",
+        "en": "Namesake tree"
+      },
+      "value": {
+        "zh": "怀波瓦森林巨杉\"塔内玛胡塔\"",
+        "en": "The great kauri Tane Mahuta, Waipoua Forest"
+      }
+    }
+  ],
+  "related": [
+    "rangi-and-papa",
+    "tangaroa",
+    "tiki",
+    "maui"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年）",
+      "en": "George Grey, Polynesian Mythology (1855)"
+    },
+    {
+      "zh": "珀西·史密斯《学问之家的传承》（1913年）",
+      "en": "S. Percy Smith, The Lore of the Whare-wananga (1913)"
+    }
+  ],
+  "geo": {
+    "lat": -35.6,
+    "lon": 173.53,
+    "label": {
+      "zh": "怀波瓦森林（新西兰北岛）",
+      "en": "Waipoua Forest, North Island, New Zealand"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tane.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tane_Mahuta,_2016-01-22.jpg",
+    "sourceTitle": "Tane Mahuta, 2016-01-22",
+    "artist": "Szilas",
+    "license": "Public domain",
+    "width": 666,
+    "height": 1000
+  }
+}

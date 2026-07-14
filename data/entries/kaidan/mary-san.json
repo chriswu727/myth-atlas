@@ -1,0 +1,45 @@
+{
+  "id": "mary-san",
+  "tradition": "kaidan",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "玛丽小姐的电话",
+    "en": "Mary-san's Phone Call",
+    "original": "メリーさんの電話",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "被丢弃后打来电话的洋娃娃", "en": "The discarded doll that calls you back" },
+  "summary": {
+    "zh": "被扔掉的洋娃娃打来电话：「我是玛丽，现在在垃圾场。」每一通电话她都更近一步，最后一通说：「我就在你身后。」1970至80年代日本孩子间流传。",
+    "en": "The doll you threw away telephones: 'This is Mary. I'm at the dump now.' Each call she is closer, and the last one says: 'I'm right behind you.' Told among Japanese children since the 1970s-80s."
+  },
+  "description": {
+    "zh": "故事的主人公是一个搬家或大扫除时被丢弃的西洋人偶，名叫玛丽。当晚，家里的电话响起，女孩的声音说：「我是玛丽。我现在在垃圾场。」挂断再响：「我是玛丽。我现在在商店街。」一通比一通近——十字路口、你家门前、玄关。最后一通：「我是玛丽。我现在，就在你身后。」回头与否、看到什么，各版本处理不一，多数干脆在这里收束，把最后一格留给听者。\n\n玛丽小姐的电话在1970至80年代经孩子的口耳与「怪谈会」流传开，是「学校怪谈」采集热中被反复记录的定型故事之一。它的机件在当年全是新的：家用固定电话刚普及，来电没有显示，铃声在夜里响起时无从知道对面是谁；西洋人偶则承接了日本「人偶有灵」的老观念——人形物用久即有魂，弃之则生怨，寺院至今有「人形供养」的火祭。旧信仰与新电器在这则故事里接线成功。\n\n进入手机时代后，玛丽的电话顺势升级：来电显示是自己的号码、GPS定位在自家屋内等新版本层出不穷。她与「Satoru君」共同构成日本怪谈里「电话灵」的两极——一个从垃圾场一步步走回来，一个从异界一步步走过来，铃声都在为同一句话倒计时：我就在你身后。",
+    "en": "The protagonist is a Western-style doll named Mary, thrown out during a move or a year-end cleaning. That night the house phone rings and a girl's voice says, 'This is Mary. I'm at the garbage dump now.' It rings again: 'This is Mary. I'm at the shopping street now.' Call by call she closes in, the crossroads, your street, the front door. The last call: 'This is Mary. I'm right behind you.' Whether the listener turns, and what is seen, varies by telling; most versions simply stop there and leave the final frame to the audience.\n\nThe story spread among children in the 1970s and 80s and was recorded repeatedly during the school-kaidan collecting boom. Its machinery was all new at the time: household telephones had just become universal, calls arrived without caller ID, and a ring after dark carried no clue who was on the line. The doll, meanwhile, plugged into an old Japanese conviction that human-shaped things acquire souls with use and bear grudges when discarded, the belief behind the doll-memorial rites that temples still hold. An old faith and a new appliance were wired together, and the circuit worked.\n\nThe mobile era upgraded Mary on schedule: versions now have the incoming call display the victim's own number, or map the caller's location to inside the house. With Satoru-kun she forms one pole of the Japanese 'telephone spirit' pair, the doll walking back from the dump, the boy walking over from the other side, both ringtones counting down to the same sentence: right behind you."
+  },
+  "domains": {
+    "zh": ["都市传说", "电话", "人偶", "步步逼近"],
+    "en": ["Urban legends", "Telephones", "Dolls", "The closing distance"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "结构", "en": "Structure" },
+      "value": { "zh": "报位置的电话逐通逼近", "en": "Each call reports a nearer location" }
+    },
+    {
+      "label": { "zh": "末句", "en": "Final line" },
+      "value": { "zh": "「我现在，就在你身后」", "en": "'I'm right behind you now'" }
+    },
+    {
+      "label": { "zh": "旧信仰底座", "en": "Older belief" },
+      "value": { "zh": "人偶有灵、弃偶生怨与人形供养", "en": "Dolls house spirits; temples hold doll-memorial rites" }
+    }
+  ],
+  "related": ["satoru-kun", "hanako-san", "teke-teke"],
+  "sources": [
+    { "zh": "1970—80年代日本儿童口传，学校怪谈采集记录", "en": "Japanese children's oral tradition, 1970s-80s, recorded in school-kaidan collections" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "image": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": "kusanagi",
+  "tradition": "japanese",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "草薙剑",
+    "en": "Kusanagi",
+    "original": "草薙剣（くさなぎのつるぎ）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "三种神器之一的神剑",
+    "en": "The Sword of the Imperial Regalia"
+  },
+  "summary": {
+    "zh": "须佐之男从八岐大蛇尾中取出的神剑，原名天丛云剑；日本武尊以之薙草脱困而得今名。皇位三种神器之一，本体奉于热田神宫。",
+    "en": "The divine sword Susanoo drew from the serpent's tail, first called Ame-no-Murakumo; renamed 'Grass-Mower' after Yamato Takeru cut his way out of a fire with it. One of the three imperial regalia, enshrined at Atsuta."
+  },
+  "description": {
+    "zh": "须佐之男斩杀八岐大蛇时，十拳剑的刃口在蛇的中尾上崩缺，剖开一看，里面藏着一把大刀。因大蛇栖身之处头顶常有云气，此剑得名天丛云剑。须佐之男将它献给天照大神；天孙降临时，它与八咫镜、八尺琼勾玉一同授予迩迩艺命，成为皇位三种神器之一。\n\n剑的改名系于日本武尊东征：出征前姑母倭姬命在伊势把此剑连同一个火打囊交给他。行至相模（《日本书纪》作骏河）的原野，当地首领纵火烧荒欲置他于死地，他拔剑薙倒周围的野草，以火打石点起逆火自救，「草薙」之名由此而来，传承又把静冈的地名烧津系于这场野火。日本武尊后来把剑留在尾张的宫簀媛处，徒手去挑战伊吹山神，途中染病身亡；宫簀媛遂在热田建社奉剑，即热田神宫的起源。\n\n《日本书纪》天智天皇七年（668年）条记新罗僧道行盗剑出逃，中途遭风雨迷途而未遂。《平家物语》记坛之浦之战（1185年）中宝剑随安德天皇沉入海底；按热田方面与后世通行的说法，随平家覆灭的是宫中的形代（分身），本体始终奉于热田神宫，作为神体从不示人。今天皇位继承的「剑玺等承继之仪」上使用的仍是形代。",
+    "en": "When Susanoo hacked apart the eight-headed serpent, the edge of his ten-span sword chipped against something in the middle tail; splitting the flesh, he found a great blade within. Because clouds always massed above the serpent's lair, it was named Ame-no-Murakumo, Sword of the Gathering Clouds of Heaven. Susanoo presented it to Amaterasu, and at the heavenly descent it passed to Ninigi together with the mirror and the curved jewel, becoming one of the three imperial regalia.\n\nIts later name comes from Yamato Takeru's eastern campaign. His aunt Yamatohime gave him the sword and a fire-striker bag at Ise. On a moor in Sagami (Suruga in the Nihon Shoki), a local chieftain fired the grass around him; the prince mowed down the grass with the blade and lit a counter-fire, and the sword became Kusanagi, the Grass-Mower. He left it with his betrothed Miyazu-hime in Owari before marching bare-handed against the god of Mount Ibuki, a lapse that cost him his life, and the shrine she raised to house it became Atsuta Jingu in Nagoya.\n\nThe Nihon Shoki records that in 668 the Silla monk Dogyo stole the sword but was turned back by storms. The Tale of the Heike tells how the regalia sword sank at Dan-no-ura in 1185 with the child emperor Antoku; by the account upheld at Atsuta, what was lost was a palace replica, while the original has never left the shrine, hidden as its sacred object. A replica still serves in the imperial accession rite today."
+  },
+  "domains": {
+    "zh": [
+      "神剑",
+      "三种神器",
+      "皇权"
+    ],
+    "en": [
+      "Divine sword",
+      "Imperial regalia",
+      "Sovereignty"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "原名",
+        "en": "Original name"
+      },
+      "value": {
+        "zh": "天丛云剑",
+        "en": "Ame-no-Murakumo-no-Tsurugi"
+      }
+    },
+    {
+      "label": {
+        "zh": "出处",
+        "en": "Provenance"
+      },
+      "value": {
+        "zh": "八岐大蛇的中尾之中",
+        "en": "Found inside the serpent Yamata no Orochi's middle tail"
+      }
+    },
+    {
+      "label": {
+        "zh": "现所在",
+        "en": "Present location"
+      },
+      "value": {
+        "zh": "热田神宫神体（从不公开）",
+        "en": "Sacred object of Atsuta Jingu, never displayed"
+      }
+    }
+  ],
+  "related": [
+    "susanoo",
+    "yamata-no-orochi",
+    "amaterasu",
+    "yamato-takeru"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    },
+    {
+      "zh": "《平家物语》（13世纪）",
+      "en": "The Tale of the Heike (13th century)"
+    }
+  ],
+  "geo": {
+    "lat": 35.13,
+    "lon": 136.91,
+    "label": {
+      "zh": "热田神宫（爱知县名古屋市）",
+      "en": "Atsuta Jingu (Nagoya, Aichi)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kusanagi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamato-Takeru-with-Sword-Kusanagi-no-Tsurugi-by-Ogata-Gekko.png",
+    "sourceTitle": "Yamato-Takeru-with-Sword-Kusanagi-no-Tsurugi-by-Ogata-Gekko",
+    "artist": "Ogata Gekkô (Japanese, 1859–1920)",
+    "license": "Public domain",
+    "width": 703,
+    "height": 1000
+  }
+}

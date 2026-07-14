@@ -1,0 +1,93 @@
+{
+  "id": "banshee",
+  "tradition": "celtic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "班西",
+    "en": "Banshee",
+    "original": "bean sí",
+    "originalLang": "爱尔兰语"
+  },
+  "title": {
+    "zh": "哭报死讯的仙冢之女",
+    "en": "The wailing woman of the fairy mounds"
+  },
+  "summary": {
+    "zh": "爱尔兰民间的报丧女妖，原文意为“仙冢之女”。她依附于古老的盖尔家族，家中将有人亡故时，夜里便传来她拖长的恸哭。",
+    "en": "The death-messenger of Irish folklore, her name meaning 'woman of the fairy mound'. Attached to the old Gaelic families, she is heard keening in the night when one of the line is about to die."
+  },
+  "description": {
+    "zh": "班西（bean sí）的字面意思是“仙冢之女”——居住在史前坟丘（sí）中的仙灵一族的女子。民间描述并不统一：有人说她是长发垂地、坐在窗下梳头的少女；有人说她是披灰斗篷的矮小老妇；在爱尔兰东南部她另名“badhb”，与古代战场上的乌鸦女神同词。人们几乎从不看见她，只听见她的声音：一种拖得极长、介于哭号与歌吟之间的恸哭（caoineadh），有时连续三夜，在将死者的宅邸外盘旋。听见班西不会招致死亡——她只是预告，像一位先于讣告抵达的送信人。\n\n传统认为班西只为“真正的爱尔兰人”哭泣，即姓氏带 Ó 或 Mac 的古老盖尔家族；哪怕族人客死海外，家乡的班西也会在同一夜恸哭。这一信仰与真实的哭丧习俗互为表里：直到近代，爱尔兰葬礼仍雇请职业哭丧妇（mná caointe）在灵前吟唱挽歌，班西可以理解为这一角色在彼岸的投影。托马斯·克罗夫顿·克罗克1825年的民间故事集最早把班西传说系统整理成文，民俗学者帕特里夏·莱萨特二十世纪的田野研究记录了数百则口述见闻。\n\n班西后来成为爱尔兰输出最广的超自然形象之一，进入恐怖电影与电子游戏，形象也从哀伤的报丧者滑向尖啸的攻击性女鬼——与本土传统里那个从不加害、只是先一步哭泣的身影相去甚远。",
+    "en": "The bean si, 'woman of the fairy mound', is the death-messenger of Irish folk belief, one of the si-folk who dwell in the prehistoric burial mounds. Descriptions vary by county: a young woman with hair to the ground, combing it as she sits by a window; a small old woman in a grey cloak; in the south-east she is called the badhb, the same word as the ancient battle-crow goddess. She is almost never seen, only heard. Her keen, a long-drawn cry between wail and song, circles the house of the doomed, sometimes for three nights together. Hearing her brings no harm; she does not cause the death, she announces it, a messenger arriving ahead of the news.\n\nTradition holds that she cries only for the old Gaelic stock, the families whose names carry O or Mac, and that if one of the line dies abroad the banshee at home keens the same night. The belief mirrors a real funeral custom: into modern times Irish wakes employed professional keening women, the mna caointe, to lament over the dead, and the banshee reads as that office carried over to the other side. Thomas Crofton Croker's 1825 collection of southern Irish legends gave the first systematic literary account, and the folklorist Patricia Lysaght's twentieth-century fieldwork gathered hundreds of first-hand testimonies.\n\nThe banshee has since become one of Ireland's most exported supernatural figures, drifting in horror films and games toward a shrieking, violent ghost, far from the tradition's grieving herald who never harms, only weeps first."
+  },
+  "domains": {
+    "zh": [
+      "死亡预兆",
+      "哭丧",
+      "仙灵",
+      "家族"
+    ],
+    "en": [
+      "Death omen",
+      "Keening",
+      "Fairy folk",
+      "Family lines"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "征兆",
+        "en": "Sign"
+      },
+      "value": {
+        "zh": "夜半拖长的恸哭，闻声者家中将有人亡故",
+        "en": "A long keen in the night, foretelling a death in the family"
+      }
+    },
+    {
+      "label": {
+        "zh": "眷顾对象",
+        "en": "Attachment"
+      },
+      "value": {
+        "zh": "姓氏带 Ó／Mac 的古老盖尔家族",
+        "en": "Old Gaelic families of the O and Mac names"
+      }
+    },
+    {
+      "label": {
+        "zh": "常见形象",
+        "en": "Guise"
+      },
+      "value": {
+        "zh": "梳长发的女子或灰袍老妇",
+        "en": "A long-haired woman combing, or an old woman in grey"
+      }
+    }
+  ],
+  "related": [
+    "morrigan",
+    "leprechaun"
+  ],
+  "sources": [
+    {
+      "zh": "托马斯·克罗夫顿·克罗克《爱尔兰南部仙灵传说》（1825）",
+      "en": "Thomas Crofton Croker, Fairy Legends and Traditions of the South of Ireland, 1825"
+    },
+    {
+      "zh": "帕特里夏·莱萨特《班西：爱尔兰超自然死亡使者》（1986）",
+      "en": "Patricia Lysaght, The Banshee: The Irish Supernatural Death-Messenger, 1986"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/banshee.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Banshee.jpg",
+    "sourceTitle": "The Banshee",
+    "artist": "Henry Meynell Rheam",
+    "license": "Public domain",
+    "width": 740,
+    "height": 1000
+  }
+}

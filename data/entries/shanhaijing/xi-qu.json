@@ -1,0 +1,93 @@
+{
+  "id": "xi-qu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "犀渠",
+    "en": "Xiqu"
+  },
+  "title": {
+    "zh": "苍身如牛、啼声如婴的食人兽",
+    "en": "Ox-Shaped Man-Eater with a Dark Hide and an Infant's Cry"
+  },
+  "summary": {
+    "zh": "釐山食人异兽，形状像牛，通身青苍，叫声却像婴儿啼哭。与马腹同在伊洛流域，同以婴啼诱人。",
+    "en": "A man-eating beast of Mount Li shaped like an ox, its whole body dark blue-grey, its voice a wailing infant — the same lure used by the Mafu of the same Yi-Luo basin."
+  },
+  "description": {
+    "zh": "《中次四经》记釐山“其阳多玉，其阴多蒐”，滽滽之水从山中流出，南注伊水。山中之兽犀渠“其状如牛，苍身，其音如婴儿，是食人”：一头青苍色的牛形巨兽，开口是婴儿的啼哭，循声而来的人成了它的食物。\n\n婴啼诱食是《山海经》食人兽的惯技：同在伊洛流域的马腹人面虎身，“其音如婴儿”；南方青丘山的九尾狐亦然。混在这些怪形之间，犀渠的样子反而最不惊人，一头牛的模样，只是通身的青苍不像寻常耕牛。\n\n“犀渠”二字在先秦另有一义。《国语·吴语》写吴军之盛，“奉文犀之渠”，指用有纹犀皮蒙成的大盾，韦昭注以“渠”为盾。兽名里带一个“犀”字，形状却“如牛”——上古人本把犀看作牛类巨兽，同一个名字落在猛兽和大盾上，都取其坚悍。",
+    "en": "Mount Li bears jade on its sunny slope and madder on its shaded one; the Yongyong River flows from it south into the Yi. Its beast is the Xiqu: shaped like an ox, its whole body a dark blue-grey, its voice the wail of an infant. It eats people, and the cry is what brings them close.\n\nThe infant-cry trick recurs among the classic's man-eaters. The Mafu of the same Yi-Luo basin, human-faced and tiger-bodied, sounds like a baby, and so does the nine-tailed fox of Mount Qingqiu far to the south. Beside such composites the Xiqu looks almost ordinary — an ox, but for the strange color of its hide.\n\nIn pre-Qin usage the same word 'xiqu' also names a great shield of rhinoceros hide: the Discourses of the States describes warriors of Wu 'bearing bucklers of patterned rhinoceros,' with the commentator Wei Zhao glossing qu as 'shield.' The ancients counted the rhinoceros among the great horned cattle, and beast and buckler share the name for the same toughness."
+  },
+  "domains": {
+    "zh": [
+      "食人兽",
+      "牛形",
+      "伊洛流域"
+    ],
+    "en": [
+      "Man-Eaters",
+      "Ox-Shaped Beasts",
+      "The Yi-Luo Basin"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "釐山",
+        "en": "Mount Li"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如牛，苍身",
+        "en": "Like an ox with a dark blue-grey body"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如婴儿啼哭",
+        "en": "Like a wailing infant"
+      }
+    }
+  ],
+  "related": [
+    "ma-fu",
+    "jiu-wei-hu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "《国语·吴语》",
+      "en": "Discourses of the States, 'Discourses of Wu'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/xi-qu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic300_-_%E7%8A%80%E6%B8%A0%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic300 - 犀渠圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 678,
+    "height": 1000
+  }
+}

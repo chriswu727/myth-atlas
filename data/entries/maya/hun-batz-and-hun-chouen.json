@@ -1,0 +1,94 @@
+{
+  "id": "hun-batz-and-hun-chouen",
+  "tradition": "maya",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "浑巴茨与浑丘恩",
+    "en": "Hun Batz and Hun Chouen",
+    "original": "Jun B'atz', Jun Chowen",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "化为猴子的乐师兄长，工匠与书吏的庇护者",
+    "en": "The Monkey Artisans, Patrons of Scribes and Craftsmen"
+  },
+  "summary": {
+    "zh": "双子英雄的兄长，吹笛、歌唱、写书、雕刻样样精通，却因虐待幼弟被诱上树化作猴子。此后玛雅的乐师、书吏与雕匠都向他们祈求手艺。",
+    "en": "Elder half-brothers of the Hero Twins, master flautists, singers, writers, and carvers, lured up a tree and turned into monkeys for abusing the infants. Maya artisans and scribes invoked them ever after."
+  },
+  "description": {
+    "zh": "浑巴茨（一吼猴）与浑丘恩（一工匠）是浑·乌纳普与斯巴基雅洛之子，双子英雄同父异母的兄长。《波波尔·乌》说他们无所不能：吹笛、歌唱、写书、雕刻、制玉，还通晓占卜。可这对全才容不下新生的弟弟——婴儿时期的乌纳普与斯巴兰克被他们扔到蚁堆上、丢进荆棘丛，长大后打来的猎物也尽数被兄长夺去。\n\n双子的报复不动声色。一天他们回报说，几只鸟落在树上射不下来，请兄长去取。浑巴茨与浑丘恩爬上树，树干却陡然疯长，把二人困在半空。双子在树下喊：把腰带解开，衣襟塞在身后垂下来，就好爬了。垂下的衣角登时变成尾巴，两位兄长化作猴子，攀枝而去。祖母斯穆卡内思孙心切，双子便吹起《猴子的乌纳普》之曲召他们回来，但约定祖母不能笑。猴子们扭着身子、挤眉弄眼地跳进院来，老太太接连几次都忍俊不禁，最后猴子们再也不肯回来，从此留在了林间。\n\n《波波尔·乌》随即写道：往昔的乐师与歌者向他们祈祷，写书人与雕刻匠也向他们祈祷。这对猴兄弟成了一切手艺的庇护者。古典期陶器上常见执笔伏案的猴子书吏，正是这一信仰早一千年的画像；玛雅历法中的“猴日”（尤卡坦语丘恩、基切语巴茨）也与工匠及织者的技艺相连。",
+    "en": "Hun Batz (One Howler Monkey) and Hun Chouen (One Artisan) were sons of Hun Hunahpu and Xbaquiyalo, elder half-brothers of the Hero Twins. The Popol Vuh grants them every talent: they were flautists, singers, writers, carvers, workers of jade, and seers besides. But the prodigies had no room in their hearts for the newborn twins, whom they laid on anthills and dumped into brambles, and whose game they confiscated once the boys grew into hunters.\n\nThe twins' revenge was quiet. One day they reported that some birds they had shot were stuck high in a tree, and asked their brothers to fetch them. Hun Batz and Hun Chouen climbed; the trunk surged upward and stranded them in the crown. From below the twins called out helpful advice: loosen your loincloths and let the ends hang down behind you, and climbing will be easier. The trailing cloth became tails, and the two masters of every art swung away into the branches as monkeys. For the grieving grandmother Xmucane the twins played the tune called Hunahpu Monkey to call them home, warning her not to laugh; but when the monkeys came capering and grimacing into the yard she burst out laughing time after time, and at last they never returned, keeping to the forest for good.\n\nThe Popol Vuh adds that flautists and singers of the old days prayed to them, and writers and carvers prayed to them too. The monkey brothers became patrons of every craft. The monkey scribes painted on Classic period vases, bent over their codices with brush in hand, are portraits of this belief a thousand years older than the manuscript, and the calendar day of the monkey - Chuen in Yucatec, B'atz' in K'iche' - remains tied to artisans and weavers."
+  },
+  "domains": {
+    "zh": [
+      "技艺",
+      "音乐",
+      "书写",
+      "猴"
+    ],
+    "en": [
+      "Craftsmanship",
+      "Music",
+      "Writing",
+      "Monkey"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "化形",
+        "en": "Transformed shape"
+      },
+      "value": {
+        "zh": "吼猴与蜘蛛猴",
+        "en": "Howler and spider monkey"
+      }
+    },
+    {
+      "label": {
+        "zh": "庇护对象",
+        "en": "Patronage"
+      },
+      "value": {
+        "zh": "乐师、书吏、雕匠",
+        "en": "Musicians, scribes, carvers"
+      }
+    },
+    {
+      "label": {
+        "zh": "历法对应",
+        "en": "Calendar day"
+      },
+      "value": {
+        "zh": "猴日（丘恩／巴茨）",
+        "en": "The monkey day (Chuen / B'atz')"
+      }
+    }
+  ],
+  "related": [
+    "hunahpu-and-xbalanque",
+    "maya-maize-god",
+    "popol-vuh-creation"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》（基切文抄本，16世纪中叶；希门内斯抄本，约1701—1703年）",
+      "en": "Popol Vuh (K'iche' manuscript, mid-16th century; Ximénez copy, c. 1701-1703)"
+    },
+    {
+      "zh": "古典期玛雅陶器上的“猴子书吏”图像",
+      "en": "Monkey scribe imagery on Classic Maya painted ceramics"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hun-batz-and-hun-chouen.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Funerary_bundle_of_a_monkey_scribe_deity,_Mexico,_Campeche,_Jaina_Island,_Maya,_600-900_AD,_earthenware_-_De_Young_Museum_-_DSC00670.JPG",
+    "sourceTitle": "Funerary bundle of a monkey scribe deity, Mexico, Campeche, Jaina Island, Maya, 600-900 AD, earthenware - De Young Museum - DSC00670",
+    "artist": "Daderot",
+    "license": "CC0",
+    "width": 738,
+    "height": 1000
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "er-shu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "耳鼠",
+    "en": "Ershu"
+  },
+  "title": {
+    "zh": "以尾飞行的兔首奇鼠",
+    "en": "The Hare-Headed Rodent That Flies with Its Tail"
+  },
+  "summary": {
+    "zh": "丹熏之山的怪兽：鼠身、兔头、麋鹿身形，叫声如嗥犬，靠尾巴飞行；食其肉可免鼓胀，又能抵御百毒。",
+    "en": "A beast of Danxun Mountain: a rat with a hare's head and a deer-like body, howling like a dog and flying by means of its tail. Its flesh was said to prevent bloating and guard against all poisons."
+  },
+  "description": {
+    "zh": "北山经首篇的丹熏之山长着臭椿和柏树，草多野韭野薤，还出产丹雘颜料。山中有兽，底子是一只鼠，却顶着兔子的脑袋，身形又像麋鹿，叫声如犬嗥。最奇的是它的飞行方式：“以其尾飞”——不用翅膀，凭一条尾巴腾空。经文照例附上药效：吃它的肉不患鼓胀之疾，还可以抵御百毒。\n\n《山海经》里的飞兽各有各的办法：天池之山的飞鼠“以其背飞”，靠背上的毛；耳鼠靠尾巴。后世注家和博物学者多拿鼯鼠比附——那种前后肢间张着皮膜、以蓬松大尾掌舵滑翔的“飞鼠”，与“以其尾飞”的描述确有几分对得上，但兔首麋身无从落实，比附终归是比附。\n\n“御百毒”让耳鼠在《山海经》的药物名录里规格很高：多数动物药只治一种病，痈、疣、嗌痛，各管一摊，包治百毒的极少。一只兼具鼠、兔、麋、犬四种动物特征的小兽，同时还是一味万能解毒剂，丹熏之山这一条，密度在北山经里数得着。",
+    "en": "Danxun Mountain, in the first guideway of the Northern Mountains, grows ailanthus and cypress, wild chives and rocambole, and yields cinnabar pigment. Its beast is at base a rat, but it wears a hare's head, its body has the build of an elaphure deer, and its voice is the howl of a dog. Strangest is its manner of flight: 'it flies by means of its tail' — no wings, just the one appendage. The classic appends the pharmacology: eating its flesh prevents distension of the belly and guards against the hundred poisons.\n\nFlying beasts in the classic each have their own technique. The feishu of Tianchi Mountain 'flies by means of its back'; the ershu flies by its tail. Later commentators and naturalists reached for the flying squirrel — the membrane-winged glider that steers with a plume of a tail — and the match with 'flies by its tail' is fair, though the hare's head and deer's body refuse to cooperate. An identification is only ever an identification.\n\nThe phrase 'guards against the hundred poisons' places the ershu high in the classic's pharmacopoeia. Most animal remedies in the book treat a single complaint — abscesses, warts, sore throats, one ailment apiece. A universal antidote is rare. A small beast combining rat, hare, deer, and dog, which flies on its tail and neutralizes every poison: for one entry, Danxun Mountain packs an uncommon density of marvels."
+  },
+  "domains": {
+    "zh": [
+      "飞行",
+      "解毒",
+      "药用",
+      "拼合兽"
+    ],
+    "en": [
+      "Flight",
+      "Antidotes",
+      "Medicine",
+      "Composite Beasts"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "鼠身，兔首，麋身形，音如嗥犬",
+        "en": "Rat's body, hare's head, deer-like build, dog-like howl"
+      }
+    },
+    {
+      "label": {
+        "zh": "飞法",
+        "en": "Means of flight"
+      },
+      "value": {
+        "zh": "以其尾飞",
+        "en": "Flies by means of its tail"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食之不患鼓胀，可御百毒",
+        "en": "Prevents bloating; wards off the hundred poisons"
+      }
+    }
+  ],
+  "related": [
+    "meng-huai",
+    "tian-ma",
+    "he-luo-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（丹熏之山）",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Danxun Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/er-shu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%80%B3%E9%BC%A0.jpg",
+    "sourceTitle": "耳鼠",
+    "artist": "明蔣應鎬",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 983
+  }
+}

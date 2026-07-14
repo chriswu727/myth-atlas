@@ -1,0 +1,104 @@
+{
+  "id": "thor",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "托尔",
+    "en": "Thor",
+    "original": "Þórr",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "雷神，人类与诸神的守护者",
+    "en": "God of Thunder, Defender of Gods and Men"
+  },
+  "summary": {
+    "zh": "阿萨神族中最强壮的战神，红须持锤，驾双山羊战车巡行天空，专司雷霆与护佑，是巨人最惧怕的敌手。",
+    "en": "Red-bearded strongest of the Aesir, wielder of the hammer Mjolnir, who rides a goat-drawn chariot across the sky and wages endless war on the giants."
+  },
+  "description": {
+    "zh": "托尔是奥丁之子，阿萨神族中膂力最强者，红发红须，性烈如火。他的战车由两头山羊坦格里斯尼尔与坦格乔斯特拉挽，车轮碾过天空便是雷声；这两头羊晚上可以宰杀充饥，只要骨头完好无损，翌日以妙尔尼尔祝圣便能复活。他佩有三件宝物：雷神之锤妙尔尼尔、使神力倍增的力量腰带梅金吉奥德，以及握锤所需的铁手套。\n\n他最著名的冒险是出海钓耶梦加得：《许密尔之歌》与《散文埃达》记载，托尔以公牛头为饵，将盘踞世界之海的大蛇钓出水面，正欲挥锤击杀，同船的巨人许密尔惊恐割断钓线。《特里姆之歌》则讲他的锤子被巨人特里姆盗走，索要弗蕾亚为赎；托尔被迫男扮女装冒充新娘赴宴，席间吃掉一整头牛和八条鲑鱼，待锤子按婚俗放上新娘膝头，当场将满堂巨人尽数击毙。\n\n托尔是维京时代最受平民爱戴的神，农人与航海者向他祈求风调雨顺。斯堪的纳维亚出土了数以百计的锤形护身符，英语星期四（Thursday）即「托尔之日」。命运注定他在诸神黄昏与耶梦加得同归于尽。",
+    "en": "Thor, son of Odin, is the strongest of the Aesir: red-haired, red-bearded, quick to fury. His chariot is drawn by the goats Tanngrisnir and Tanngnjostr, and its wheels rolling across the sky are the thunder. The goats may be slaughtered and eaten at night; if their bones are left unbroken, a blessing from the hammer restores them by morning. He owns three treasures: the hammer Mjolnir, the belt Megingjord that doubles his strength, and iron gloves to grip the hammer's haft.\n\nHis most famous exploit is the fishing trip in the Hymiskvida and the Prose Edda: baiting his line with an ox's head, he drew the Midgard Serpent up from the world-encircling sea, and only the terrified giant Hymir, cutting the line, saved the monster from the hammer. In the Thrymskvida the giant Thrym steals Mjolnir and demands Freyja as ransom; Thor must travel to the wedding disguised as the bride, devours an ox and eight salmon at the feast, and slaughters the whole hall of giants the moment the hammer is laid in his lap.\n\nThor was the most widely loved god of the Viking Age; farmers and seafarers prayed to him for fair weather. Hundreds of hammer-shaped amulets survive from Scandinavian graves, and Thursday is 'Thor's day'. At Ragnarok he is fated to slay the Midgard Serpent and die of its venom nine paces later."
+  },
+  "domains": {
+    "zh": [
+      "雷霆",
+      "力量",
+      "护佑",
+      "天气"
+    ],
+    "en": [
+      "Thunder",
+      "Strength",
+      "Protection",
+      "Weather"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "雷神之锤妙尔尼尔",
+        "en": "The hammer Mjolnir"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "双山羊挽的战车",
+        "en": "Chariot drawn by two goats"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Foe"
+      },
+      "value": {
+        "zh": "中庭巨蛇耶梦加得",
+        "en": "Jormungandr, the Midgard Serpent"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "mjolnir",
+    "jormungandr",
+    "loki",
+    "ragnarok"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·特里姆之歌》《许密尔之歌》",
+      "en": "Poetic Edda: Thrymskvida and Hymiskvida"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "geo": {
+    "lat": 59.9,
+    "lon": 17.63,
+    "label": {
+      "zh": "老乌普萨拉神庙遗址",
+      "en": "Gamla Uppsala temple site"
+    }
+  },
+  "image": {
+    "file": "/images/entries/thor.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%A5rten_Eskil_Winge_-_Tor%27s_Fight_with_the_Giants_-_Google_Art_Project.jpg",
+    "sourceTitle": "Swedish: Tors strid med jättarnatitle QS:P1476,sv:\"Tors strid med jättarna\"label QS:Lsv,\"Tors strid med jättarna\" Tor's Fight with the Giantstitle QS:P1476,en:\"Tor's Fight with the Giants\"label QS:Len,\"Tor's Fight with the Giants\"",
+    "artist": "Mårten Eskil Winge",
+    "license": "Public domain",
+    "width": 691,
+    "height": 1000
+  }
+}

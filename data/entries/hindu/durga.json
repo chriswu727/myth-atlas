@@ -1,0 +1,100 @@
+{
+  "id": "durga",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "杜尔迦",
+    "en": "Durga",
+    "original": "दुर्गा",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "骑狮的战争女神，难近母",
+    "en": "The lion-riding warrior goddess, the Invincible"
+  },
+  "summary": {
+    "zh": "十臂持械、骑乘雄狮的战争女神，由诸神之力汇聚而成，专为斩杀连众神都无法战胜的水牛魔摩醯湿。孟加拉的杜尔迦普祭是印度最盛大的节庆之一。",
+    "en": "The ten-armed goddess on a lion, forged from the combined powers of the gods to slay the buffalo demon Mahishasura, whom no male god could defeat. Bengal's Durga Puja is among India's greatest festivals."
+  },
+  "description": {
+    "zh": "杜尔迦（意为“难以接近者”，汉译“难近母”）是女神战斗相的集大成者：面容沉静美丽，十条手臂各持一件诸神赠予的武器——湿婆的三叉戟、毗湿奴的轮宝、因陀罗的金刚杵、风神的弓箭、阎摩的杖——骑一头金色雄狮（或猛虎）冲入敌阵。\n\n她的核心神话记在《女神颂》：水牛魔摩醯湿修得“不死于任何男子之手”的恩赐，驱逐诸神、篡夺天界。走投无路的众神将各自的怒火与神力喷涌汇聚，光焰凝成一位女神。杜尔迦与魔军血战九夜，摩醯湿在水牛、狮子、大象与人形之间不断变身脱逃；第十日，女神脚踏牛魔，长矛贯胸，在他从牛口中现出原形的一瞬斩下首级。这场胜利就是“十胜节”（Vijayadashami/Dussehra）的来历之一。\n\n每年秋季的杜尔迦普祭（Durga Puja）在孟加拉地区盛况空前：工匠用恒河泥塑造女神杀魔群像，全城搭起数以千计的临时祭棚（pandal），节庆最后一日将神像送入河中。2021年，“加尔各答杜尔迦普祭”被联合国教科文组织列入人类非物质文化遗产名录。",
+    "en": "Durga—'she who is hard to approach'—is the great battle form of the Goddess: serene and beautiful of face, her ten arms holding weapons lent by the gods themselves—Shiva's trident, Vishnu's discus, Indra's thunderbolt, the wind god's bow, Yama's staff—as she rides a golden lion into the demon ranks.\n\nHer central myth is told in the Devi Mahatmya. The buffalo demon Mahishasura, granted immunity from death at the hands of any male, drove the gods from heaven. In their despair the gods poured out their wrath and power as streams of flame, and the light condensed into a goddess. Durga fought the demon armies for nine nights while Mahishasura slipped between buffalo, lion, elephant and human shapes; on the tenth day she pinned the buffalo under her foot and struck off his head at the instant his true form emerged from its mouth. That victory is one origin of the festival of Vijayadashami, or Dussehra.\n\nEach autumn Durga Puja transforms Bengal: artisans model tableaux of the goddess slaying the demon from Ganges clay, thousands of temporary pavilions called pandals rise across Kolkata, and on the last day the images are carried in procession and immersed in the river. In 2021 UNESCO inscribed Durga Puja in Kolkata on its list of the Intangible Cultural Heritage of Humanity."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "护佑",
+      "母神",
+      "胜利"
+    ],
+    "en": [
+      "War",
+      "Protection",
+      "The Mother Goddess",
+      "Victory"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "雄狮（一说猛虎）",
+        "en": "A lion (in some traditions a tiger)"
+      }
+    },
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "十臂持诸神所赠兵器",
+        "en": "Ten arms bearing the gods' own weapons"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "水牛魔摩醯湿",
+        "en": "The buffalo demon Mahishasura"
+      }
+    },
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "杜尔迦普祭与十胜节",
+        "en": "Durga Puja and Vijayadashami"
+      }
+    }
+  ],
+  "related": [
+    "kali",
+    "shiva",
+    "ganesha"
+  ],
+  "sources": [
+    {
+      "zh": "《摩根德耶往世书·女神颂》",
+      "en": "Devi Mahatmya, Markandeya Purana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/durga.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_goddess_durga_on_her_lion_kills_the_demon_mahishasura,_1880,_kalighat_school.jpg",
+    "sourceTitle": "The goddess durga on her lion kills the demon mahishasura, 1880, kalighat school",
+    "artist": "Will",
+    "license": "CC BY 2.0",
+    "width": 615,
+    "height": 1000
+  }
+}

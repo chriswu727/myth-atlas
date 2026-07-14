@@ -1,26 +1,162 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* 夜墨 night ink — deep indigo, never pure black */
+  --ink: #101623;
+  --ink-raised: #161f30;
+  --ink-well: #0b101a;
+  /* 缃色 vellum text */
+  --vellum: #e8dfc8;
+  --vellum-dim: #a89f8a;
+  --vellum-faint: #6f6a5c;
+  /* 古金 brass lines & accents */
+  --brass: #c3a55e;
+  --brass-soft: rgba(195, 165, 94, 0.32);
+  --brass-faint: rgba(195, 165, 94, 0.14);
+  /* 朱印 cinnabar — sparingly */
+  --cinnabar: #a43e2c;
+
+  --font-display-stack: var(--font-display), var(--font-cjk), serif;
+  --font-body-stack: var(--font-body), var(--font-cjk), serif;
+  --font-mono-stack: var(--font-mono), monospace;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: var(--ink);
+  --color-ink-raised: var(--ink-raised);
+  --color-ink-well: var(--ink-well);
+  --color-vellum: var(--vellum);
+  --color-vellum-dim: var(--vellum-dim);
+  --color-vellum-faint: var(--vellum-faint);
+  --color-brass: var(--brass);
+  --color-brass-soft: var(--brass-soft);
+  --color-brass-faint: var(--brass-faint);
+  --color-cinnabar: var(--cinnabar);
+  --font-display: var(--font-display-stack);
+  --font-body: var(--font-body-stack);
+  --font-mono: var(--font-mono-stack);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--ink);
+  color: var(--vellum);
+  font-family: var(--font-body-stack);
+  scrollbar-color: var(--brass-soft) var(--ink-well);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  /* faint starfield: tiny radial specks on the night ground */
+  background-image:
+    radial-gradient(1px 1px at 22% 18%, rgba(232, 223, 200, 0.13) 50%, transparent 51%),
+    radial-gradient(1px 1px at 68% 44%, rgba(232, 223, 200, 0.09) 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 84% 12%, rgba(232, 223, 200, 0.1) 50%, transparent 51%),
+    radial-gradient(1px 1px at 42% 76%, rgba(232, 223, 200, 0.08) 50%, transparent 51%),
+    radial-gradient(1px 1px at 8% 58%, rgba(232, 223, 200, 0.1) 50%, transparent 51%);
+  background-size: 720px 560px;
+}
+
+::selection {
+  background: var(--brass);
+  color: var(--ink-well);
+}
+
+:focus-visible {
+  outline: 1.5px solid var(--brass);
+  outline-offset: 2px;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display-stack);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* ── shared vocabulary ────────────────────────────────── */
+
+/* engraved hairline */
+.hairline { border-color: var(--brass-soft); }
+
+/* eyebrow: spaced mono label above sections */
+.eyebrow {
+  font-family: var(--font-mono-stack);
+  font-size: 0.6875rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--brass);
+}
+
+/* accession number */
+.catalog-no {
+  font-family: var(--font-mono-stack);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  color: var(--vellum-faint);
+}
+
+/* museum plate frame: outer brass line, inner keyline with a gap */
+.plate {
+  border: 1px solid var(--brass-soft);
+  padding: 5px;
+  background: var(--ink-well);
+}
+.plate-inner {
+  border: 1px solid var(--brass-faint);
+  overflow: hidden;
+  position: relative;
+}
+
+.card-link { display: block; transition: transform 0.35s cubic-bezier(0.2, 0.6, 0.2, 1); }
+.card-link:hover { transform: translateY(-3px); }
+.card-link:hover .plate { border-color: var(--brass); }
+.card-link .plate { transition: border-color 0.35s ease; }
+
+/* plates sit under gallery light: dimmed at rest, lit on hover */
+.card-link .plate-inner img { filter: brightness(0.88) saturate(0.92); transition: filter 0.45s ease, transform 0.7s ease; }
+.card-link:hover .plate-inner img { filter: none; }
+
+/* long-form entry text */
+.prose-myth p {
+  margin-bottom: 1.1em;
+}
+.prose-myth p:first-child::before {
+  content: "";
+  display: inline-block;
+  width: 1.6em;
+  height: 2px;
+  background: var(--brass);
+  margin-right: 0.6em;
+  vertical-align: 0.28em;
+}
+
+/* map load orchestration */
+@keyframes mapFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.map-fade-1 { animation: mapFade 0.9s ease both; }
+.map-fade-2 { animation: mapFade 1.4s ease 0.25s both; }
+.map-marker { animation: mapFade 0.5s ease both; }
+
+/* map tooltip */
+.map-tip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--ink-well);
+  border: 1px solid var(--brass-soft);
+  padding: 6px 10px;
+  font-size: 0.8125rem;
+  line-height: 1.45;
+  max-width: 260px;
+  z-index: 10;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

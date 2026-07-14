@@ -1,0 +1,104 @@
+{
+  "id": "tengu",
+  "tradition": "japanese",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "天狗",
+    "en": "Tengu",
+    "original": "天狗（てんぐ）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "深山中的长鼻妖怪",
+    "en": "Long-Nosed Goblin of the Mountains"
+  },
+  "summary": {
+    "zh": "红脸长鼻、身着山伏装束、手持羽团扇的山中妖怪，能飞行、掳人。名称借自中国指凶星的「天狗」，后成为日本山岳信仰的代表妖怪。",
+    "en": "Red-faced, long-nosed mountain goblins in the garb of ascetic monks, wielding feather fans and given to flight and abduction; a name borrowed from a Chinese meteor omen that grew into the emblematic spirit of Japan's mountains."
+  },
+  "description": {
+    "zh": "典型的大天狗面色赤红、鼻子高耸，身穿山伏（山中修验者）的装束，脚踏一齿高木屐，手持能唤起狂风的羽团扇，栖息在深山古杉之上；较低一级的乌天狗则生着鸟喙与羽翼。各座名山都有自己的大天狗，如鞍马山僧正坊、爱宕山太郎坊、比良山次郎坊，民间流传的《天狗经》历数四十八处名山大天狗的名号。\n\n「天狗」一词来自中国，本指凶兆的流星。《日本书纪》舒明天皇九年（637年）条记载：大星自东而西，声响如雷，入唐学问僧旻称之为天狗（读作「阿麻都岐都祢」，天上的狐）。平安时代以降，天狗进入佛教语境，被说成傲慢僧人死后堕入的「天狗道」，《今昔物语集》里多有天狗假扮佛陀、诱惑高僧、掳走僧人的故事。室町时代的能剧《鞍马天狗》让鞍马山大天狗向少年牛若丸（后来的源义经）传授兵法，这个传说使鞍马山成为天狗信仰的第一圣地。\n\n民俗中的天狗解释着山中的种种异常：孩童失踪叫「神隐」，常归咎于天狗攫人；深夜山里传来伐木倒树之声而翌日无迹，称「天狗倒」；无端飞来的石子称「天狗砾」。今天各地天狗祭里的红脸长鼻面具，仍是山岳灵异最直观的形象。",
+    "en": "The classic daitengu has a scarlet face and a towering nose, dresses like a yamabushi mountain ascetic, walks on single-toothed geta, and carries a feather fan that can raise gales; it roosts in ancient cryptomeria high in the mountains. Its lesser kin, the karasu-tengu, keep a crow's beak and wings. Every famous peak has its own great tengu, such as Sojobo of Mount Kurama, Tarobo of Mount Atago, and Jirobo of Mount Hira, and a folk text known as the Tengu Sutra lists forty-eight of them by mountain and name.\n\nThe word itself is Chinese, originally naming an ominous meteor, the 'celestial dog.' The Nihon Shoki records that in 637 a great star crossed the sky from east to west with a sound like thunder, and the monk Min, trained in China, identified it as a tengu. From the Heian period the creature moved into Buddhist lore: arrogant monks were said to fall after death into the 'tengu realm,' and the Konjaku Monogatarishu tells of tengu impersonating Buddhas and carrying off priests. The Muromachi noh play Kurama Tengu has the great tengu of Mount Kurama teach swordsmanship to the boy Ushiwakamaru, the future Minamoto no Yoshitsune, fixing Kurama as the cult's chief holy ground.\n\nIn village belief tengu explained mountain strangeness: children lost to 'spiriting away,' phantom tree-felling heard at night, stones flung from nowhere. The red long-nosed mask remains the face of the uncanny mountain."
+  },
+  "domains": {
+    "zh": [
+      "山岳",
+      "神隐",
+      "武艺",
+      "修验道"
+    ],
+    "en": [
+      "Mountains",
+      "Spiriting away",
+      "Martial arts",
+      "Shugendo"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "持物",
+        "en": "Attribute"
+      },
+      "value": {
+        "zh": "羽团扇、一齿高下驮",
+        "en": "Feather fan and single-toothed geta"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest record"
+      },
+      "value": {
+        "zh": "《日本书纪》舒明九年（637年）流星条",
+        "en": "Meteor entry for 637 CE in the Nihon Shoki"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名个体",
+        "en": "Famous individual"
+      },
+      "value": {
+        "zh": "鞍马山僧正坊，传授义经兵法",
+        "en": "Sojobo of Kurama, tutor of Yoshitsune"
+      }
+    }
+  ],
+  "related": [
+    "kappa",
+    "shuten-doji"
+  ],
+  "sources": [
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    },
+    {
+      "zh": "《今昔物语集》（约1120年）",
+      "en": "Konjaku Monogatarishu (c. 1120)"
+    },
+    {
+      "zh": "能《鞍马天狗》（室町时代）",
+      "en": "Noh play Kurama Tengu (Muromachi period)"
+    }
+  ],
+  "geo": {
+    "lat": 35.12,
+    "lon": 135.77,
+    "label": {
+      "zh": "鞍马山（京都市）",
+      "en": "Mount Kurama (Kyoto)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tengu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:KuniyoshiUshiwakaTengu.jpg",
+    "sourceTitle": "KuniyoshiUshiwakaTengu",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 484
+  }
+}

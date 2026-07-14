@@ -1,0 +1,99 @@
+{
+  "id": "luan-niao",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "鸾鸟",
+    "en": "Luan Bird"
+  },
+  "title": {
+    "zh": "见则天下安宁的五彩瑞鸟",
+    "en": "Five-colored Bird whose Coming Brings Peace"
+  },
+  "summary": {
+    "zh": "女床之山的五彩瑞鸟，形如长尾野鸡；它一现身，天下就得安宁。后世与凤凰合流，化入鸾镜、鸾和之典。",
+    "en": "An auspicious five-colored bird of Mount Nüchuang, pheasant-like in form, whose appearance brings peace to the world; later merged with the phoenix family and lodged in the lore of mirrors and chariot bells."
+  },
+  "description": {
+    "zh": "《西次二经》记女床之山，“其阳多赤铜，其阴多石涅”。山中有鸟“其状如翟而五采文，名曰鸾鸟，见则天下安宁”——形如长尾野雉而通身五彩纹章。西山经的鸟兽多带凶谶，见则大旱、见则大水，鸾鸟是其中难得的反例：它现身，天下太平。\n\n鸾很早就被当作真实的贡鸟记录。《逸周书·王会》记成周之会上，西方的氐羌以鸾鸟来献。后世鸾与凤凰合流，同列瑞禽，帝王车驾上应声而鸣的銮铃即取义于鸾鸣。南朝范泰《鸾鸟诗序》讲罽宾王获得一只鸾，三年不鸣；夫人建议悬镜照之，鸾睹镜中孤影，冲霄一奋，哀鸣而绝——“孤鸾照镜”从此成为伤逝与失偶的定典，妆镜也因此雅称鸾镜。\n\n从见则安宁的西山瑞鸟，到铜镜背面的纹样与婚书里的“鸾凤和鸣”，鸾是《山海经》诸鸟中渗入日常器物最深的一只。",
+    "en": "On Mount Nüchuang — copper on its southern face, graphite on its northern — lives a bird 'shaped like a long-tailed pheasant with five-colored markings, named Luan; when it appears, all under heaven is at peace.' Among the western mountains, whose birds and beasts mostly portend drought, flood, or fire, the Luan is the rare herald of good order.\n\nIt was recorded early as an actual tribute bird: the 'Royal Assembly' chapter of the Yi Zhou Shu has the Di and Qiang peoples of the west presenting luan birds at the great gathering at Chengzhou. Later ages folded the Luan into the phoenix family of auspicious fowl, and the chiming bells on imperial chariots took their name from its cry. In the fifth century, Fan Tai's preface to his 'Poem on the Luan' tells of the king of Jibin who caged one for three years without hearing it sing, until his consort suggested hanging a mirror before it; seeing its solitary reflection, the bird gave one grief-stricken cry, soared once, and died. 'The lone luan before the mirror' became the fixed emblem of bereavement and lost mates, and the dressing-mirror itself came to be called a luan mirror.\n\nBetween bronze mirror-backs and the wedding formula 'luan and phoenix singing in harmony', no bird of the Shanhaijing worked its way deeper into everyday objects."
+  },
+  "domains": {
+    "zh": [
+      "祥瑞",
+      "五彩",
+      "太平之兆",
+      "鸾镜"
+    ],
+    "en": [
+      "Auspicious Bird",
+      "Five-colored Plumage",
+      "Omen of Peace",
+      "The Luan Mirror"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如翟而五采文",
+        "en": "A long-tailed pheasant with five-colored markings"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆验",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则天下安宁",
+        "en": "Its appearance brings peace to all under heaven"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "女床之山（西次二经）",
+        "en": "Mount Nüchuang, second guideway of the Western Mountains"
+      }
+    }
+  ],
+  "related": [
+    "fenghuang",
+    "bifang"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《逸周书·王会》",
+      "en": "Yi Zhou Shu, 'Royal Assembly'"
+    },
+    {
+      "zh": "范泰《鸾鸟诗序》（《艺文类聚》卷九十引）",
+      "en": "Fan Tai, Preface to the 'Poem on the Luan Bird', quoted in Yiwen Leiju, ch. 90"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/luan-niao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic002_-_%E9%B8%9E%E9%B3%A5%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic002 - 鸞鳥圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 716
+  }
+}

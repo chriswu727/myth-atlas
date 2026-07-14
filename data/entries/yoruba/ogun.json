@@ -1,0 +1,98 @@
+{
+  "id": "ogun",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥贡",
+    "en": "Ogun",
+    "original": "Ògún",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "铁与战争的奥里沙",
+    "en": "Orisha of Iron and War"
+  },
+  "summary": {
+    "zh": "铁、战争与开路的奥里沙，铁匠、猎人、士兵与司机共同的守护神。诸神初次下界时唯有他的铁刀劈得开荆棘；尼日利亚法庭至今接受对铁起誓。",
+    "en": "Orisha of iron, war, and the road, patron of blacksmiths, hunters, soldiers, and now drivers. Only his iron cutlass could clear the gods' first path; Nigerian courts still accept oaths sworn on iron."
+  },
+  "description": {
+    "zh": "奥贡是铁的奥里沙，司战争、狩猎与道路。他的神龛以嫩棕榈叶为标志，祭品是狗、蜗牛与烤山药；从砍刀、锄头到枪管、缝衣针，一切铁器都在某种意义上是他的身体。传说诸神初次下界时原始荆棘挡路，其他神明的工具都奈何不得，唯有奥贡的铁刀开出通路，他由此得到\"开路者\"的尊号。\n\n他后来做了伊雷城的王，称\"奥贡奥尼雷\"——伊雷之主。流传最广的事迹凶险：一次他从战场归来，进入正在举行缄默祭仪的伊雷城，全城无人向他致意，酒罐也都空着；受辱的神暴起挥刀屠戮自己的子民，直到人们献上狗、蜗牛和棕榈酒才平息。伊雷-埃基蒂至今每年举行奥贡节，这则神话也是索因卡诗集《伊丹雷》的核心意象。\n\n凡与铁和引擎打交道的人都归他庇护：铁匠、猎人、士兵，如今还有司机、机修工与外科医生——尼日利亚西南部的司机常在车头挂棕榈叶求他护路。法庭上，信奉传统宗教的证人可以亲吻一块铁片代替手按《圣经》起誓，誓言的担保者正是奥贡。",
+    "en": "Ogun is the orisha of iron, war, hunting, and the road. Fresh palm fronds mark his shrines; dogs, snails, and roasted yams are his offerings; and every piece of iron, from a cutlass to a needle to a gun barrel, is in some measure his body. When the gods first came down to earth, the primeval thicket barred the way and no other tool could bite; Ogun's iron cutlass cleared the path, and the title of pathfinder has been his since.\n\nHe later ruled the town of Ire as Ogun Onire, lord of Ire. His most told story is a grim one: returning from war, he entered Ire during a ritual of silence. No one greeted him and the wine pots stood empty, and the insulted god cut down his own townspeople until they appeased him with dog, snails, and palm wine. Ire-Ekiti holds its Ogun festival every year, and the myth stands at the center of Wole Soyinka's poem cycle Idanre.\n\nEveryone who works with metal or engines falls under his protection: blacksmiths, hunters, and soldiers, and today drivers, mechanics, and surgeons; drivers in southwestern Nigeria hang palm fronds on their vehicles for safe passage. In Nigerian courts, adherents of the traditional religion may swear their oaths by kissing a piece of iron, with Ogun as guarantor."
+  },
+  "domains": {
+    "zh": [
+      "铁",
+      "战争",
+      "狩猎",
+      "道路"
+    ],
+    "en": [
+      "Iron",
+      "War",
+      "Hunting",
+      "Roads"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Emblem"
+      },
+      "value": {
+        "zh": "嫩棕榈叶与铁器",
+        "en": "Palm fronds and iron"
+      }
+    },
+    {
+      "label": {
+        "zh": "祭品",
+        "en": "Offerings"
+      },
+      "value": {
+        "zh": "狗、蜗牛、烤山药、棕榈酒",
+        "en": "Dogs, snails, roasted yams, palm wine"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred town"
+      },
+      "value": {
+        "zh": "伊雷-埃基蒂，尊号\"伊雷之主\"",
+        "en": "Ire-Ekiti; praised as Ogun Onire, lord of Ire"
+      }
+    }
+  ],
+  "related": [
+    "eshu",
+    "shango",
+    "ile-ife"
+  ],
+  "sources": [
+    {
+      "zh": "桑德拉·巴恩斯编《非洲的奥贡：旧世界与新世界》（1989）",
+      "en": "Sandra T. Barnes (ed.), Africa's Ogun: Old World and New (1989)"
+    },
+    {
+      "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）",
+      "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)"
+    },
+    {
+      "zh": "沃莱·索因卡《伊丹雷及其他诗》（1967）",
+      "en": "Wole Soyinka, Idanre and Other Poems (1967)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ogun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osogbo_Ogun_Festival_2026_(The_Heart_of_Iron).jpg",
+    "sourceTitle": "Osogbo Ogun Festival 2026 (The Heart of Iron)",
+    "artist": "Timiadekola",
+    "license": "CC BY-SA 4.0",
+    "width": 750,
+    "height": 1000
+  }
+}

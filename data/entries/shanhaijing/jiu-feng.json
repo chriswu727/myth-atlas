@@ -1,0 +1,99 @@
+{
+  "id": "jiu-feng",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "九凤",
+    "en": "Jiufeng"
+  },
+  "title": {
+    "zh": "北极天柜山上九首人面的神鸟",
+    "en": "The Nine-Headed, Human-Faced Bird God"
+  },
+  "summary": {
+    "zh": "大荒之中北极天柜山上的神：九个人面的头颅长在一副鸟身上。被视为楚人凤崇拜的产物，也是后世九头鸟、鬼车的源头。",
+    "en": "A god on Heaven's Cabinet Mountain at the northern pole: nine human-faced heads on one bird body. Read as a product of Chu phoenix worship, and the source of the later ominous nine-headed bird."
+  },
+  "description": {
+    "zh": "大荒北经记：大荒之中有座山名叫北极天柜，海水从北面灌注进去。山上有一位神，九个脑袋都是人的面孔，长在鸟的身体上，名叫九凤。与它同住此山的还有衔蛇操蛇、虎首人身的强良。全书之中，九凤仅此一见，此后先秦两汉文献里再无踪影。\n\n「九」是极数，「凤」是至高的神鸟。袁珂《山海经校注》等指出，大荒诸经带有浓厚的楚地色彩，楚人尊凤又崇九——《离骚》駟玉虬而乘鹥鸟，《九歌》《九章》皆以九名篇——九凤应当是楚人凤崇拜孕育出的神鸟，九张人面是神格的标志。\n\n神鸟消失后，九头鸟却以凶鸟的身份回到了记载里：晋人《玄中记》与唐段成式《酉阳杂俎》所记的鬼车鸟，九首之外还带着一段传闻——曾被狗咬掉一头，断颈常年滴血，夜里飞过谁家、血滴到谁家便有灾殃，人们熄灯灭火、捩狗耳以待它过去。神格坠为妖异，学者多认为正是九凤形象在后世的变体。「天上九头鸟，地下湖北佬」的谚语流传至今，九头鸟兜兜转转，仍旧钉在楚地。",
+    "en": "In the midst of the great wilderness stands a mountain called Heaven's Cabinet of the North Pole, into which the sea pours from the north. On it lives a god with nine heads, every face human, set on the body of a bird: Jiufeng, the Nine-Phoenix. It shares the mountain with Qiangliang, a tiger-headed serpent-handler. The classic mentions Jiufeng only here, and no other pre-Han text names it at all.\n\nNine is the number of fullness, and the feng the highest of divine birds. Yuan Ke's critical commentary, among others, notes the strong Chu flavor of the Great Wilderness chapters: the people of Chu revered the phoenix and favored nines — their poetry runs to Nine Songs and Nine Declarations — so Jiufeng is best read as a god born of Chu phoenix worship, its nine human faces a mark of divinity.\n\nWhen the god vanished, a nine-headed bird returned as an omen of evil. The Xuanzhongji and Duan Chengshi's Youyang Zazu describe the guiche or 'demon cart' bird: nine-headed, one neck bitten off by a dog and forever dripping blood; misfortune fell on any house the drops touched, so people doused their lamps and twisted their dogs' ears until it passed. Most scholars take this ominous creature as the fallen descendant of Jiufeng. The saying 'nine-headed bird in heaven, Hubei man on earth' keeps the bird pinned to the old lands of Chu to this day."
+  },
+  "domains": {
+    "zh": [
+      "神鸟",
+      "九首",
+      "楚文化",
+      "北极"
+    ],
+    "en": [
+      "Divine Bird",
+      "Nine Heads",
+      "Chu Culture",
+      "Northern Pole"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "九首人面，鸟身",
+        "en": "Nine human-faced heads on a bird's body"
+      }
+    },
+    {
+      "label": {
+        "zh": "居地",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "大荒之中北极天柜之山",
+        "en": "Heaven's Cabinet Mountain at the northern pole"
+      }
+    },
+    {
+      "label": {
+        "zh": "后世变体",
+        "en": "Later avatar"
+      },
+      "value": {
+        "zh": "鬼车、九头鸟，夜飞滴血为凶",
+        "en": "The guiche or nine-headed bird, a blood-dripping night omen"
+      }
+    }
+  ],
+  "related": [
+    "fenghuang-shanhaijing",
+    "fenghuang"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒北经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: North'"
+    },
+    {
+      "zh": "段成式《酉阳杂俎》",
+      "en": "Duan Chengshi, Youyang Zazu"
+    },
+    {
+      "zh": "袁珂《山海经校注》",
+      "en": "Yuan Ke, Critical Commentary on the Classic of Mountains and Seas"
+    }
+  ],
+  "volume": {
+    "zh": "大荒北经",
+    "en": "Classic of the Great Wilderness: North"
+  },
+  "image": {
+    "file": "/images/entries/jiu-feng.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic59_-_%E4%B9%9D%E9%B3%B3%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic59 - 九鳳神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 682,
+    "height": 1000
+  }
+}

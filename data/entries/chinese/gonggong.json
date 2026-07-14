@@ -1,0 +1,88 @@
+{
+  "id": "gonggong",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "共工",
+    "en": "Gonggong"
+  },
+  "title": {
+    "zh": "怒触不周山的水神",
+    "en": "The Water God Who Toppled the Pillar of Heaven"
+  },
+  "summary": {
+    "zh": "上古水神。与颛顼争帝失败，怒而撞断天柱不周山，天倾西北、地陷东南，日月星辰与江河从此各有流向。",
+    "en": "Primeval water god who, defeated in his contest with Zhuanxu for the throne, rammed Mount Buzhou in fury, snapping the pillar of heaven — which is why the stars drift northwest and the rivers run southeast."
+  },
+  "description": {
+    "zh": "共工是上古神话中的水神。《淮南子·天文训》记载了他最著名的事迹：昔者共工与颛顼争为帝，怒而触不周之山，天柱折，地维绝。天倾西北，故日月星辰移焉；地不满东南，故水潦尘埃归焉。这则神话解释了中国地势西高东低、江河东流入海、星辰西转的由来。\n\n共工的对手在不同文献中并不固定：《淮南子》作颛顼，唐司马贞《补三皇本纪》则记女娲之世\"共工氏与祝融战，不胜而怒，乃头触不周山崩\"，后世遂常把女娲补天接在这场灾难之后，将两则独立的神话缀成因果。《国语·周语下》还保留了更近于史论的批评：共工\"壅防百川，堕高堙庳\"，以堵塞之法对付洪水而祸害天下。\n\n在帝王谱系的叙事里，共工被列为舜所惩处的\"四罪\"之一，《尚书·舜典》记舜\"流共工于幽州\"。历代注家以他为洪水与作乱的象征，\"共工触山\"也成为诗文中天崩地坼的典故。",
+    "en": "Gonggong is the water god of Chinese antiquity. The Huainanzi tells his defining act: contending with Zhuanxu for the throne of heaven and losing, he smashed his head in rage against Mount Buzhou, the northwestern pillar of the sky. The pillar snapped and the cords of the earth tore loose; heaven tilted toward the northwest, which is why sun, moon, and stars drift that way, while the earth sank short in the southeast, which is why the rivers and silt of China all run toward that quarter.\n\nHis adversary shifts from text to text. Sima Zhen's Tang-era 'Annals of the Three Sovereigns' places the battle in the age of Nüwa and makes the opponent the fire god Zhurong, defeat driving Gonggong against the mountain — a version that lets Nüwa's mending of the sky follow as the sequel. The Guoyu preserves a more political indictment: Gonggong dammed and blocked the hundred rivers, tearing down heights to fill the lowlands, and so brought calamity on the world.\n\nIn the dynastic narratives he was listed among the four criminals punished by Shun, who banished him to Youzhou according to the Book of Documents, and his name became a byword for flood, rebellion, and the sky falling."
+  },
+  "domains": {
+    "zh": [
+      "洪水",
+      "水",
+      "叛乱"
+    ],
+    "en": [
+      "Floods",
+      "Water",
+      "Rebellion"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "撞毁之物",
+        "en": "What he broke"
+      },
+      "value": {
+        "zh": "天柱不周山",
+        "en": "Mount Buzhou, pillar of heaven"
+      }
+    },
+    {
+      "label": {
+        "zh": "对手诸说",
+        "en": "Rival (by version)"
+      },
+      "value": {
+        "zh": "颛顼，一说祝融",
+        "en": "Zhuanxu, or Zhurong in another telling"
+      }
+    }
+  ],
+  "related": [
+    "zhurong",
+    "nuwa",
+    "da-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《淮南子·天文训》",
+      "en": "Huainanzi, 'Tianwen' chapter"
+    },
+    {
+      "zh": "《国语·周语下》",
+      "en": "Guoyu, 'Discourses of Zhou II'"
+    },
+    {
+      "zh": "《尚书·舜典》",
+      "en": "Book of Documents, 'Canon of Shun'"
+    },
+    {
+      "zh": "司马贞《补三皇本纪》",
+      "en": "Sima Zhen, 'Annals of the Three Sovereigns' (supplement to the Shiji)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/gonggong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%BA%B7%E5%9B%98%E4%BD%9C%E4%BA%82%E8%88%88%E5%85%B5%E5%AE%B3%E6%B0%91.jpg",
+    "sourceTitle": "康囘作亂興兵害民",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 569
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "mokosh",
+  "tradition": "slavic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "莫科什",
+    "en": "Mokosh",
+    "original": "Мокошь",
+    "originalLang": "古东斯拉夫语"
+  },
+  "title": {
+    "zh": "纺织与湿润大地的女神",
+    "en": "Goddess of Spinning and the Moist Earth"
+  },
+  "summary": {
+    "zh": "弗拉基米尔980年万神殿里唯一的女神，司纺织、羊毛与妇女劳作，后世职能并入\"星期五圣女\"帕拉斯克娃崇拜。",
+    "en": "The only goddess in Vladimir's pantheon of 980, patroness of spinning, wool and women's work, later absorbed into the cult of Saint Paraskeva-Friday."
+  },
+  "description": {
+    "zh": "莫科什是弗拉基米尔980年万神殿中唯一的女神，《原初编年史》的神像名单把她与佩伦、霍尔斯、达日博格等并列于基辅山丘。文献没有留下她的形象描述；学者从词根\"mok-\"（潮湿）出发，把她同民间对大地的称谓\"湿润的大地母亲\"联系起来。她司掌纺织、羊毛与妇女的劳作。\n\n基督教化后数百年，她的名字仍出现在教会文书里：中世纪罗斯的忏悔条文要神父询问女信徒是否\"去拜过莫科什\"。北俄罗斯民间另有\"莫库莎\"夜里偷纺羊毛的说法——纺锤若留在纺车上过夜，就会被她接着纺下去，因此主妇睡前要把活计收好。\n\n她的职能后来大量转入圣帕拉斯克娃-皮亚特尼察（\"星期五\"）崇拜：这位女圣人庇护纺织、水井与集市，信徒忌讳在星期五纺线、洗衣，说是怕脏水和麻屑刺伤她的眼睛。北俄罗斯刺绣中常见一位双手上举、两侧各有一名骑者的女性形象，不少研究者把她认作莫科什的孑遗，不过这一辨认仍有争议。",
+    "en": "Mokosh is the only goddess named in Prince Vladimir's pantheon of 980; the Primary Chronicle lists her idol on the Kyiv hill beside Perun, Khors, Dazhbog and the rest. No source describes her appearance. Working from the root mok-, \"moist,\" scholars connect her with the folk epithet of the earth, \"Moist Mother Earth,\" and her province was spinning, wool and the work of women.\n\nFor centuries after Christianization her name lingered in church documents: medieval Rus penitentials instructed priests to ask women whether they had \"gone to Mokosh.\" In the Russian North, folk belief spoke of Mokusha, who spins at night: a spindle left on the wheel overnight would be found spun on, so housewives put their work away before sleep.\n\nMuch of her role passed into the cult of Saint Paraskeva-Pyatnitsa, \"Saint Friday,\" protector of spinning, wells and market days. Believers avoided spinning and washing clothes on Fridays, saying the flax dust and dirty water would hurt the saint's eyes. Northern Russian embroidery often shows a female figure with raised arms flanked by two riders, and many researchers have read her as a survival of Mokosh, though the identification remains disputed."
+  },
+  "domains": {
+    "zh": [
+      "纺织",
+      "大地",
+      "妇女",
+      "命运"
+    ],
+    "en": [
+      "Spinning",
+      "Earth",
+      "Women",
+      "Fate"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初见记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《原初编年史》980年条",
+        "en": "Primary Chronicle, entry for 980"
+      }
+    },
+    {
+      "label": {
+        "zh": "基督教对应",
+        "en": "Christian successor"
+      },
+      "value": {
+        "zh": "圣帕拉斯克娃-皮亚特尼察（星期五）",
+        "en": "Saint Paraskeva-Pyatnitsa (Friday)"
+      }
+    },
+    {
+      "label": {
+        "zh": "禁忌",
+        "en": "Taboo"
+      },
+      "value": {
+        "zh": "星期五不纺线、不洗衣",
+        "en": "No spinning or laundry on Fridays"
+      }
+    }
+  ],
+  "related": [
+    "perun",
+    "veles"
+  ],
+  "sources": [
+    {
+      "zh": "《原初编年史》（12世纪初）",
+      "en": "Primary Chronicle (Povest' vremennykh let), early 12th century"
+    },
+    {
+      "zh": "中世纪罗斯教会忏悔条文",
+      "en": "Medieval Rus church penitentials"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mokosh.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C5%9Awiatowid_ze_Zbrucza.jpg",
+    "sourceTitle": "Światowid ze Zbrucza",
+    "artist": "Joachim Lelewel",
+    "license": "Public domain",
+    "width": 564,
+    "height": 1000
+  }
+}

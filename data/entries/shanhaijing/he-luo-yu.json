@@ -1,0 +1,92 @@
+{
+  "id": "he-luo-yu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "何罗鱼",
+    "en": "Heluo Fish"
+  },
+  "title": {
+    "zh": "一首十身的谯水怪鱼",
+    "en": "The Fish of the Qiao River with One Head and Ten Bodies"
+  },
+  "summary": {
+    "zh": "谯明之山谯水中的怪鱼，一个脑袋连着十个身子，叫声像狗吠；据说吃了它可以治痈肿。",
+    "en": "A strange fish of the Qiao River below Qiaoming Mountain: a single head trailing ten bodies, barking like a dog. Eating it was said to cure abscesses."
+  },
+  "description": {
+    "zh": "北山经首篇记谯明之山，谯水从这里发源，向西流入黄河。水中多产何罗之鱼：一个脑袋，后面拖着十个身子，游动时想必如一束活动的穗子。它的叫声完全不像鱼——“其音如吠犬”，像狗叫。经文照例附上实用信息：吃了它的肉，可以治愈痈肿。\n\n一首多身是《山海经》反复出现的构形：东次四经的茈鱼同样“一首而十身”，浑夕之山的肥遗蛇则反过来一首两身。何罗鱼是这一族里最著名的一条，历代图本多把它画成一个鱼头后接十尾并排的奇观。近人解说此条，常猜测其原型或是乌贼一类头足并生、腕足成束的海物，也有人认为只是渔获成串的讹传，均无定说。\n\n《山海经》里可入药的鱼不少，何罗鱼属于其中“食之已痈”的外科一路。同座谯明之山上还有兽孟槐，可以御凶，一山之中一鱼一兽，一个治病、一个辟邪，是北山经里少见的“有用”组合。",
+    "en": "The first guideway of the Northern Mountains records Qiaoming Mountain, source of the Qiao River, which flows west into the Yellow River. The river teems with the heluo fish: one head trailing ten bodies, so that a swimming specimen must have moved like an animated sheaf. Its voice is nothing like a fish's — the text says it barks like a dog. As usual the classic appends the practical note: eaten, it cures abscesses and swellings.\n\nOne head with multiple bodies is a recurring design in the classic. The zi fish of the eastern fourth guideway likewise has 'one head and ten bodies', while the feiyi serpent of Hunxi Mountain inverts the ratio with one head and two bodies. The heluo is the most famous of this family, and illustrated editions usually render it as a single fish head towing ten parallel tails. Modern readers have guessed at a squid or cuttlefish behind the description — one head, a bundle of limbs — or at a strung catch of fish garbled in transmission; neither reading has settled the matter.\n\nThe classic lists many medicinal fish, and the heluo belongs to its surgical wing, prescribed against abscesses. On the same mountain lives the beast menghuai, which wards off evil: one fish and one beast, one for healing and one for protection, an unusually serviceable pairing for the northern mountains."
+  },
+  "domains": {
+    "zh": [
+      "水族",
+      "多身",
+      "药用",
+      "谯水"
+    ],
+    "en": [
+      "Water Creatures",
+      "Many-Bodied",
+      "Medicine",
+      "Qiao River"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "一首十身",
+        "en": "One head, ten bodies"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如犬吠",
+        "en": "Like a barking dog"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食之已痈",
+        "en": "Eating it cures abscesses"
+      }
+    }
+  ],
+  "related": [
+    "meng-huai",
+    "chang-she",
+    "tong-tong"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（谯明之山）",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Qiaoming Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/he-luo-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%BD%95%E7%BE%85%E9%AD%9A.jpg",
+    "sourceTitle": "何羅魚",
+    "artist": "明朝蔣應鎬",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 618
+  }
+}

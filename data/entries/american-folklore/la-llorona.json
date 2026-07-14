@@ -1,0 +1,101 @@
+{
+  "id": "la-llorona",
+  "tradition": "american-folklore",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "哭泣女",
+    "en": "La Llorona",
+    "original": "La Llorona",
+    "originalLang": "西班牙语"
+  },
+  "title": {
+    "zh": "河畔恸哭的白衣女鬼",
+    "en": "The Weeping Woman by the Water"
+  },
+  "summary": {
+    "zh": "墨西哥与美国西南部流传的白衣女鬼：溺死亲生孩子后悔恨自尽，夜夜在河边哭喊「我的孩子啊」，会掳走贪玩晚归的儿童。",
+    "en": "A woman in white who drowned her own children and now wanders riverbanks at night crying \"Ay, mis hijos!\" — a legend of Mexico and the U.S. Southwest used to warn children away from water after dark."
+  },
+  "description": {
+    "zh": "哭泣女是一个身穿白衣、长发遮面的女鬼，在夜晚的河流、水渠和湖畔游荡，哭声由远及近时最危险。传说的主干大同小异：一个美丽的穷家女子嫁给或爱上地位更高的男人，为他生下孩子，却遭到抛弃或背叛；她在疯狂中把孩子投入河中溺死，醒悟后悲恸自尽，死后被罚永世寻找孩子的亡魂。她的哭喊「Ay, mis hijos!」（我的孩子啊）是整个拉丁美洲最令人胆寒的声音之一。在墨西哥和美国西南部，大人至今用她告诫孩子：天黑后不要在水边逗留，否则哭泣女会错把你当成她的孩子拖走。\n\n这一形象常被追溯到殖民时代之前的墨西哥。方济各会修士贝尔纳迪诺·德·萨阿贡编纂的《新西班牙事物通史》（佛罗伦萨手抄本，16世纪）记载了阿兹特克人相传的征服前兆：夜里有女子的哭声回荡在特诺奇蒂特兰城中，喊着「我的孩子们，我们要去哪里」——后世常把这哭声归于女神西瓦科阿特尔（Cihuacoatl），并视之为哭泣女的前身。殖民时期以后，传说又与「马林切」（科尔特斯的原住民译者与情人）的形象纠缠，添上了族群与背叛的层次。\n\n哭泣女的传说随移民北上，扎根于得克萨斯、新墨西哥、亚利桑那的河渠地带，圣安东尼奥与阿尔伯克基都有各自的版本。她进入了无数民谣（同名歌曲《La Llorona》经查维拉·巴尔加斯等人传唱）、墨西哥电影，以及2019年好莱坞恐怖片《哭泣女的诅咒》。",
+    "en": "La Llorona is a wraith in a white dress, long hair veiling her face, who haunts rivers, irrigation ditches, and lakeshores after dark; her cry is said to be most dangerous when it sounds near. The core story varies little: a beautiful poor woman marries or loves a man above her station, bears his children, and is abandoned or betrayed; in her madness she drowns the children in the river, then dies of grief or by her own hand, condemned to search for them forever. Her wail — \"Ay, mis hijos!\" — is among the most feared sounds in Latin America, and parents across Mexico and the U.S. Southwest still invoke her to keep children away from water at night, lest she mistake them for her own.\n\nThe figure is often traced to pre-conquest Mexico. The Florentine Codex, the sixteenth-century compendium of Nahua culture compiled by the Franciscan friar Bernardino de Sahagun, lists among the omens preceding the Spanish conquest a woman heard weeping in the night through Tenochtitlan, crying \"My children, where shall I take you?\" — a voice later linked to the goddess Cihuacoatl and read as La Llorona's ancestress. In the colonial era the legend also became entangled with La Malinche, Cortes's Indigenous interpreter and mistress, adding layers of betrayal and mestizo identity.\n\nCarried north by migration, the legend rooted itself along the rivers and acequias of Texas, New Mexico, and Arizona, with San Antonio and Albuquerque keeping local versions. She lives on in the folk song \"La Llorona,\" sung memorably by Chavela Vargas, in decades of Mexican cinema, and in the 2019 Hollywood film The Curse of La Llorona."
+  },
+  "domains": {
+    "zh": [
+      "水边女鬼",
+      "丧子悲剧",
+      "儿童警诫",
+      "墨西哥怪谈"
+    ],
+    "en": [
+      "Water-haunting ghost",
+      "Infanticide tragedy",
+      "Cautionary tale",
+      "Mexican legend"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunts"
+      },
+      "value": {
+        "zh": "夜晚的河流、水渠、湖畔",
+        "en": "Rivers, ditches, and lakeshores at night"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Signature"
+      },
+      "value": {
+        "zh": "白衣与「我的孩子啊」的哭喊",
+        "en": "A white dress and the cry \"Ay, mis hijos!\""
+      }
+    },
+    {
+      "label": {
+        "zh": "早期关联记载",
+        "en": "Early association"
+      },
+      "value": {
+        "zh": "《佛罗伦萨手抄本》中夜哭女子的征服前兆",
+        "en": "The weeping-woman omen in the Florentine Codex"
+      }
+    }
+  ],
+  "related": [
+    "bloody-mary",
+    "bell-witch"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《新西班牙事物通史》（佛罗伦萨手抄本，16世纪）",
+      "en": "Bernardino de Sahagun, Historia general de las cosas de Nueva Espana (Florentine Codex, 16th century)"
+    },
+    {
+      "zh": "墨西哥及美国西南部口头传统",
+      "en": "Oral tradition of Mexico and the U.S. Southwest"
+    }
+  ],
+  "geo": {
+    "lat": 19.43,
+    "lon": -99.13,
+    "label": {
+      "zh": "墨西哥城（特诺奇蒂特兰故地）",
+      "en": "Mexico City (site of Tenochtitlan)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/la-llorona.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mujer_Cihuac%C3%B3atl_advirtiendo_a_la_gente_de_la_destrucci%C3%B3n_de_Tenochtitl%C3%A1n,_en_el_folio_3r_del_siglo_VIII.png",
+    "sourceTitle": "Mujer Cihuacóatl advirtiendo a la gente de la destrucción de Tenochtitlán, en el folio 3r del siglo VIII",
+    "artist": "Manuscript by Bernardino de Sahagún. Illustration by an unknown artist.",
+    "license": "Public domain",
+    "width": 798,
+    "height": 1000
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "eshu",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "埃舒",
+    "en": "Eshu",
+    "original": "Èṣù",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "十字路口的信使",
+    "en": "Trickster Messenger of the Crossroads"
+  },
+  "summary": {
+    "zh": "天地之间的信使奥里沙，守十字路口与门槛，把人间祭品传递给诸神，也考验疏于献祭者。两色帽子挑拨挚友反目的故事最为著名。",
+    "en": "Trickster messenger of the crossroads who carries every sacrifice to its god and tests those who neglect him. Famous for setting two sworn friends quarreling with a two-colored cap; missionaries mistranslated his name as 'the Devil'."
+  },
+  "description": {
+    "zh": "埃舒是天地之间的信使，守在十字路口、门槛与市场上。凡有献祭，第一份必先归他，由他把祭品传达给相应的奥里沙；伊法占卜神盘的边缘刻着他的面孔，占卜指定的祭品也要经他之手送达。他的神龛常常只是一块立在路口或门边的红土石\"扬吉\"，浇上棕榈油便算奉祀。\n\n最著名的故事里，两个立誓永不失和的挚友在相邻的田里耕作，埃舒戴着一顶一侧红、一侧黑的帽子，从两人之间的田埂上走过。事后一人说过路人戴红帽，另一人咬定是黑帽，争执步步升级直到动刀，被押到国王面前时，埃舒现身承认帽子两面异色，是他有意为之。这则故事的各种讲法遍布约鲁巴地区，也随信仰传到了美洲。\n\n19世纪，塞缪尔·阿贾伊·克劳瑟主持翻译约鲁巴语《圣经》时用\"埃舒\"对译撒旦。这个误译流传至今，给他招来\"魔鬼\"的恶名，也一直遭到学者与信徒的抗辩。在古巴他是掌管道路与钥匙的埃莱瓜，任何仪式都要先向他致意；在巴西称埃舒（Exu）；丰人的同位神灵莱格巴则进入了海地伏都教。",
+    "en": "Eshu is the messenger between heaven and earth, keeper of crossroads, thresholds, and marketplaces. The first portion of every sacrifice is his, for he carries offerings up to the orisha they are meant for; his face is carved on the rim of the Ifa divination tray, and the sacrifices Ifa prescribes pass through his hands. His shrine is often no more than a chunk of red laterite called yangi, set by a doorway or a fork in the road and fed with palm oil.\n\nIn his most famous tale, two friends sworn never to quarrel worked neighboring fields. Eshu strolled down the boundary path wearing a cap red on one side and black on the other. Afterward one friend spoke of the stranger in the red cap, the other of the black; the argument grew until knives came out, and when both were dragged before the king, Eshu appeared and cheerfully claimed the work as his own. Versions of the story are told all over Yorubaland and the Americas.\n\nIn the nineteenth century Samuel Ajayi Crowther's Yoruba Bible rendered Satan as 'Eshu', a mistranslation that has dogged him ever since and that scholars and devotees still contest. In Cuba he is Elegua, owner of roads and keys, greeted first in every ceremony; in Brazil, Exu; his Fon counterpart Legba entered Haitian Vodou."
+  },
+  "domains": {
+    "zh": [
+      "十字路口",
+      "信使",
+      "机变",
+      "祭祀"
+    ],
+    "en": [
+      "Crossroads",
+      "Messenger",
+      "Trickery",
+      "Sacrifice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "神龛",
+        "en": "Shrine"
+      },
+      "value": {
+        "zh": "路口的红土石\"扬吉\"，以棕榈油奉祀",
+        "en": "Yangi laterite stone at the crossroads, fed with palm oil"
+      }
+    },
+    {
+      "label": {
+        "zh": "特权",
+        "en": "Prerogative"
+      },
+      "value": {
+        "zh": "一切祭品的第一份",
+        "en": "First portion of every sacrifice"
+      }
+    },
+    {
+      "label": {
+        "zh": "美洲化身",
+        "en": "In the Americas"
+      },
+      "value": {
+        "zh": "古巴埃莱瓜、巴西埃舒",
+        "en": "Elegua in Cuba, Exu in Brazil"
+      }
+    }
+  ],
+  "related": [
+    "ifa-divination",
+    "olodumare",
+    "ogun"
+  ],
+  "sources": [
+    {
+      "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）",
+      "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)"
+    },
+    {
+      "zh": "威廉·巴斯科姆《伊法占卜：西非神人之间的沟通》（1969）",
+      "en": "William Bascom, Ifa Divination: Communication Between Gods and Men in West Africa (1969)"
+    },
+    {
+      "zh": "哈罗德·库兰德《约鲁巴神与英雄故事集》（1973）",
+      "en": "Harold Courlander, Tales of Yoruba Gods and Heroes (1973)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/eshu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Figure_of_deity_Eshu,_Yoruba,_Nigeria,_end_of_19th_century_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08551.JPG",
+    "sourceTitle": "Figure of deity Eshu, Yoruba, Nigeria, end of 19th century - Staatliches Museum für Völkerkunde München - DSC08551",
+    "artist": "Daderot",
+    "license": "Public domain",
+    "width": 750,
+    "height": 1000
+  }
+}

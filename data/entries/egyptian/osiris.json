@@ -1,0 +1,109 @@
+{
+  "id": "osiris",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥西里斯",
+    "en": "Osiris",
+    "original": "wsjr",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "冥界之主与复活之神",
+    "en": "Lord of the Underworld and God of Resurrection"
+  },
+  "summary": {
+    "zh": "被弟弟塞特谋杀又由妻子伊西斯复活的神，绿色皮肤、木乃伊形象，统治冥界并主持亡者审判，每个埃及死者都盼望成为'奥西里斯'。",
+    "en": "Murdered by his brother Set and revived by his wife Isis, the green-skinned mummiform god rules the underworld and presides over the judgment of the dead."
+  },
+  "description": {
+    "zh": "奥西里斯的标准形象是一具直立的木乃伊：躯体裹在白色殓布中，双手交叉于胸前，握着象征王权的弯钩权杖与连枷，头戴两侧插有鸵鸟羽毛的白色阿太夫冠。他的皮肤画成绿色或黑色——绿色指草木的再生，黑色指尼罗河泛滥后留下的沃土。他同时是冥界之主、复活之神和丰饶之神，尼罗河每年的涨落被视为他死而复生的节律。\n\n他的神话是埃及流传最广的故事。奥西里斯本是统治人间的贤王，弟弟塞特心怀嫉妒，在宴会上设计诱他躺入一口按其身量打造的华美木箱，随即钉死箱盖抛入尼罗河。伊西斯寻回遗体后，塞特又将尸身肢解——普鲁塔克记为十四块——抛散埃及各地。伊西斯与妹妹奈芙蒂斯逐一收殓，阿努比斯将其缝合防腐，制成第一具木乃伊；伊西斯化作鸢鸟扇动翅膀为亡夫续气，怀上了遗腹子荷鲁斯。复活后的奥西里斯从此留在冥界杜阿特，坐在'双重真理之殿'中主持亡者审判。\n\n阿拜多斯是他最重要的圣地，中王国以降每年举行搬演其受难与复活的密仪，历代信众争相在此立碑或安葬。从《金字塔铭文》时代起，死去的国王即被等同于奥西里斯；到新王国时期，任何备办了葬仪的死者都在铭文中被称作'奥西里斯某某'，盼望分享他战胜死亡的命运。",
+    "en": "Osiris appears as an upright mummy: body wrapped in white linen, hands crossed over the chest holding the crook and flail of kingship, head bearing the atef crown, a white miter flanked by two ostrich feathers. His skin is painted green or black, the colors of sprouting vegetation and of the fertile silt left by the Nile flood. He is at once lord of the dead, god of resurrection, and god of agricultural abundance, the river's annual rise and fall being read as the rhythm of his death and revival.\n\nHis myth was Egypt's most widely told story. Osiris ruled on earth as a good king until his jealous brother Set tricked him at a banquet into lying inside a splendid chest built to his measure, nailed it shut, and threw it into the Nile. After Isis recovered the body, Set dismembered it, in Plutarch's account into fourteen pieces scattered across Egypt. Isis and her sister Nephthys gathered the parts, Anubis bound them into the first mummy, and Isis, hovering as a kite, fanned breath back into her husband and conceived their son Horus. The revived Osiris thereafter remained in the Duat, presiding over the judgment of the dead in the Hall of Two Truths.\n\nAbydos was his great sanctuary, where annual mystery plays reenacted his passion from the Middle Kingdom onward. From the Pyramid Texts on, the dead king was identified with Osiris; by the New Kingdom every properly buried person was called 'the Osiris so-and-so.'"
+  },
+  "domains": {
+    "zh": [
+      "冥界",
+      "复活",
+      "丰饶",
+      "审判"
+    ],
+    "en": [
+      "Underworld",
+      "Resurrection",
+      "Fertility",
+      "Judgment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "绿肤木乃伊，持弯钩与连枷，戴阿太夫冠",
+        "en": "Green-skinned mummy with crook, flail and atef crown"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred site"
+      },
+      "value": {
+        "zh": "阿拜多斯",
+        "en": "Abydos"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "第五王朝《金字塔铭文》",
+        "en": "Fifth Dynasty Pyramid Texts"
+      }
+    }
+  ],
+  "related": [
+    "isis",
+    "set",
+    "horus",
+    "anubis",
+    "duat",
+    "weighing-of-the-heart"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "普鲁塔克《论伊西斯与奥西里斯》",
+      "en": "Plutarch, De Iside et Osiride"
+    },
+    {
+      "zh": "《亡灵书》",
+      "en": "Book of the Dead"
+    }
+  ],
+  "geo": {
+    "lat": 26.18,
+    "lon": 31.92,
+    "label": {
+      "zh": "阿拜多斯",
+      "en": "Abydos"
+    }
+  },
+  "image": {
+    "file": "/images/entries/osiris.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osiris-tomb-of-Nefertari.jpg",
+    "sourceTitle": "Osiris-tomb-of-Nefertari",
+    "artist": "mursal",
+    "license": "Public domain",
+    "width": 690,
+    "height": 1000
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "kunlun-xu",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "昆仑之虚",
+    "en": "Mount Kunlun"
+  },
+  "title": {
+    "zh": "方八百里、高万仞的天帝下都",
+    "en": "The Supreme God's Capital on Earth"
+  },
+  "summary": {
+    "zh": "天帝在下界的都城：方八百里，高万仞，上有五寻高的木禾，每面九井九门，门有开明兽把守，为百神所在之地。",
+    "en": "The Supreme God's lower capital: eight hundred li square and ten thousand ren high, with jade-railed wells and nine gates on each face guarded by the Kaiming beast, the dwelling place of the hundred gods."
+  },
+  "description": {
+    "zh": "《海内西经》记：\"海内昆仑之虚，在西北，帝之下都。昆仑之虚，方八百里，高万仞。上有木禾，长五寻，大五围。面有九井，以玉为槛。面有九门，门有开明兽守之，百神之所在。\"这是《山海经》里规格最完整的一座圣山：底面八百里见方，拔地万仞；山上长着五寻高、五围粗的巨大谷物木禾；每一面开九口玉栏杆的井、设九座门，门由九首人面的开明兽把守。赤水出其东南隅，河水出其东北隅，黑水出其西北隅，众水由此发源。经文还加了一道门槛：\"非仁羿莫能上冈之岩\"——除了羿那样的人物，无人能攀上山岩。\n\n《西山经》另记昆仑之丘，\"实惟帝之下都\"，由虎身九尾的神陆吾司守，其中有土蝼、钦原等奇兽奇鸟。《淮南子·墬形训》把昆仑铺陈成增城九重的天梯，说登之愈高愈近于神，最上可达太帝之居。战国以降，昆仑又与西王母、瑶池、不死之药层层缝合，《穆天子传》写周穆王西征与西王母宴于瑶池。汉武帝时张骞通西域，朝廷把于阗南山定名为昆仑，神话中的天柱从此落在今天的昆仑山脉上。它是中国神话地理的西方极点，地位相当于希腊的奥林波斯。",
+    "en": "The Classic of Regions Within the Seas: West lays out the holy mountain with an architect's precision: the Hollow of Kunlun stands in the northwest, the Supreme God's capital below heaven, eight hundred li on a side and ten thousand ren high. On its summit grows the tree-grain, a cereal five xun tall and five armspans around. Each face of the mountain has nine wells railed with jade and nine gates, and at the gates stands the nine-headed Kaiming beast, for this is the dwelling of the hundred gods. The Red River rises at its southeast corner, the Yellow River at its northeast, the Black River at its northwest. One caveat closes the description: none but a figure like the archer Yi can scale its cliffs.\n\nThe Classic of the Western Mountains records the same capital under the guardianship of the tiger-bodied, nine-tailed god Luwu, and the Huainanzi rebuilds Kunlun as a ladder of nine terraced walls, each stage closer to the gods. From the Warring States onward the mountain accreted the Queen Mother of the West, the Jasper Pool, and the drugs of deathlessness; the Tale of King Mu describes the Zhou king feasting with her there. Under Emperor Wu of Han the court fixed the name Kunlun on the ranges south of Khotan, anchoring the mythical axis to the real mountains that still bear it. Kunlun is the western pole of Chinese mythic geography, its Olympus."
+  },
+  "domains": {
+    "zh": [
+      "圣山",
+      "帝之下都",
+      "百神",
+      "众水之源"
+    ],
+    "en": [
+      "Sacred Mountains",
+      "Divine Capital",
+      "Hundred Gods",
+      "Source of Rivers"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "规模",
+        "en": "Scale"
+      },
+      "value": {
+        "zh": "方八百里，高万仞",
+        "en": "800 li square, 10,000 ren high"
+      }
+    },
+    {
+      "label": {
+        "zh": "守卫",
+        "en": "Guardian"
+      },
+      "value": {
+        "zh": "开明兽守九门（西山经作陆吾）",
+        "en": "The Kaiming beast at the nine gates; Luwu in the western chapter"
+      }
+    },
+    {
+      "label": {
+        "zh": "奇物",
+        "en": "Marvel"
+      },
+      "value": {
+        "zh": "木禾，长五寻，大五围",
+        "en": "The tree-grain, five xun tall, five spans around"
+      }
+    }
+  ],
+  "related": [
+    "kai-ming-shou",
+    "xiwangmu",
+    "kunlun",
+    "hou-yi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内西经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: West'"
+    },
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms'"
+    }
+  ],
+  "geo": {
+    "lat": 36,
+    "lon": 84.5,
+    "label": {
+      "zh": "昆仑山脉",
+      "en": "Kunlun Mountains"
+    }
+  },
+  "volume": {
+    "zh": "海内西经",
+    "en": "Classic of Regions Within the Seas: West"
+  },
+  "image": {
+    "file": "/images/entries/kunlun-xu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic56_-_%E5%B4%91%E5%B4%99%E5%B1%B1%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic56 - 崑崙山神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 690,
+    "height": 1000
+  }
+}

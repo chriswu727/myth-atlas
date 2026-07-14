@@ -1,0 +1,95 @@
+{
+  "id": "yingzhao",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "英招",
+    "en": "Yingzhao"
+  },
+  "title": {
+    "zh": "悬圃的司神，四海的巡使",
+    "en": "Keeper of the Hanging Garden, Herald of the Four Seas"
+  },
+  "summary": {
+    "zh": "槐江之山天帝平圃的司神，马身人面、虎纹鸟翼，巡行四海传布天帝之命。",
+    "en": "Tutelary god of the High God's garden on Mount Huaijiang: horse-bodied and human-faced, tiger-striped and bird-winged, patrolling the four seas with heaven's commands."
+  },
+  "description": {
+    "zh": "槐江之山“实惟帝之平圃”——天帝设在人间的园圃，即后世所称的悬圃、玄圃，由神英招掌管。《西次三经》写他“其状马身而人面，虎文而鸟翼，徇于四海，其音如榴”：马的身体，人的面孔，皮毛带虎纹，背生鸟翼，巡行四海传布天帝的命令，声音如同辘轳抽水。\n\n从槐江之山南望便是昆仑，“其光熊熊，其气魂魂”；西望大泽，是后稷神灵所潜之处；山上蕴藏黄金、雄黄与琅玕。平圃正处在俯瞰昆仑的高台上。《淮南子·墬形训》把悬圃列为昆仑通天阶梯的一级：登上它便“登之乃灵，能使风雨”。\n\n英招与守昆仑的陆吾同为西部群山中人面兽身的司神：陆吾坐镇天帝的下都，英招看守天帝的园圃并巡行四海，一静一动，分掌天帝在下界的两处禁地。",
+    "en": "Mount Huaijiang 'is in truth the level garden of the High God' — the paradise later ages called the Hanging Garden — and the god Yingzhao keeps it. The 'Classic of the Western Mountains' gives him a horse's body and a human face, tiger stripes and bird's wings; he 'makes his circuit of the four seas', proclaiming the God's commands, with a voice like water drawn through a pipe.\n\nFrom Huaijiang one looks south to Kunlun, 'its light blazing, its vapors billowing'; westward lies the great marsh where the spirit of Houji, lord of millet, lies hidden; the mountain itself yields gold, realgar, and langgan gems. The garden thus sits on a terrace overlooking Kunlun, and the Huainanzi counts the Hanging Garden as one rung of the ladder that leads up the mountain to heaven — whoever climbs it 'becomes numinous, able to command wind and rain'.\n\nYingzhao pairs naturally with Luwu, warden of Kunlun: both are human-faced, beast-bodied tutelary gods of the far west, one seated in the God's capital, the other ranging out from the God's garden across the four seas."
+  },
+  "domains": {
+    "zh": [
+      "悬圃",
+      "巡行四海",
+      "司神",
+      "昆仑"
+    ],
+    "en": [
+      "Hanging Garden",
+      "Patrol of the Four Seas",
+      "Tutelary God",
+      "Kunlun"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "马身人面，虎文鸟翼",
+        "en": "Horse's body, human face, tiger stripes, bird's wings"
+      }
+    },
+    {
+      "label": {
+        "zh": "职司",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "掌管帝之平圃，徇于四海",
+        "en": "Keeper of the God's garden, herald to the four seas"
+      }
+    },
+    {
+      "label": {
+        "zh": "居地",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "槐江之山",
+        "en": "Mount Huaijiang"
+      }
+    }
+  ],
+  "related": [
+    "luwu",
+    "kunlun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Dixing' chapter"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/yingzhao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic14_-_%E8%8B%B1%E6%8B%9B%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic14 - 英招神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 677,
+    "height": 1000
+  }
+}

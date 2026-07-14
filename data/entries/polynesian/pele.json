@@ -1,0 +1,106 @@
+{
+  "id": "pele",
+  "tradition": "polynesian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "佩蕾",
+    "en": "Pele",
+    "original": "Pelehonuamea",
+    "originalLang": "夏威夷语"
+  },
+  "title": {
+    "zh": "夏威夷火山女神",
+    "en": "Hawaiian Goddess of Volcanoes"
+  },
+  "summary": {
+    "zh": "夏威夷火山女神，住在基拉韦厄火山的哈雷茂茂火口。被海之姊纳玛卡追逐、沿岛链一路挖坑寻家的故事，与群岛地质年龄的顺序暗合。至今仍受供奉。",
+    "en": "The Hawaiian volcano goddess who dwells in Halemaumau crater on Kilauea. Chased down the island chain by her sea-goddess sister, she dug fire pits at each island until settling there. Offerings continue today."
+  },
+  "description": {
+    "zh": "佩蕾的全名是佩蕾霍努阿梅阿，\"神圣大地的佩蕾\"，咏唱中也称她\"食地的女人\"。她的居所是夏威夷岛基拉韦厄火山顶的哈雷茂茂火口。传统叙事说她显形或为烈焰，或为拄杖的老妪，或为美貌的年轻女子；熔岩喷发时拉出的金色玻璃丝与泪滴状玻璃珠，夏威夷人称为\"佩蕾的头发\"与\"佩蕾的眼泪\"，这两个名字沿用进了今天的火山学词汇。\n\n迁徙之歌讲她如何来到夏威夷：佩蕾生于远方的故土卡希基，因触怒司海的姐姐纳玛卡奥卡哈伊而被逐，乘独木舟携家人东渡。她手持掘地杖帕欧阿，从西北端的岛屿开始逐岛掘坑试住，坑一挖开便被海水或姐姐扑灭，只得继续向东南，最终在基拉韦厄找到海水不及的深火口安身。这条从考爱岛到夏威夷岛的路线，恰与群岛自老到新的地质顺序一致。另一组史诗唱她与幼妹希伊阿卡的恩怨：佩蕾灵魂出游时爱上考爱岛酋长洛希奥，派希伊阿卡限期四十日接人，妹妹一路斩妖延误了归期，佩蕾疑心之下烧毁了妹妹心爱的莱胡阿花林、杀死其挚友霍波埃，希伊阿卡遂在火口边缘当着佩蕾的面拥抱洛希奥。\n\n佩蕾属于活态信仰。今天基拉韦厄火口边仍常见花环、水果等供品，1824年女酋长卡皮奥拉尼公开挑战佩蕾禁忌的事件，也从反面记录了这一信仰当时的力量。N.B.埃默森1915年整理的《佩蕾与希伊阿卡》保存了成篇的史诗咏唱。",
+    "en": "Pele's full name is Pelehonuamea, \"Pele of the sacred earth\"; the chants also call her \"the woman who devours the land.\" Her home is Halemaumau, the pit crater at the summit of Kilauea on the island of Hawaii. Tradition describes her appearing as flame, as an old woman leaning on a staff, or as a beautiful young woman. The golden glass threads and teardrop beads spun from erupting lava are called Pele's hair and Pele's tears, names volcanologists still use.\n\nThe migration chants tell how she came: born in the distant homeland Kahiki, Pele offended her elder sister Namakaokahai, a sea goddess, and fled east by canoe with her family. With her digging stick Paoa she tried island after island from the northwest, but each fire pit she opened was drowned by the sea, until at Kilauea she found a crater deep enough to keep her fires dry. Her route from Kauai down to Hawaii matches the geological aging of the chain from old to young. Another epic cycle concerns her youngest sister Hiiaka: Pele's spirit, wandering, fell in love with Lohiau, a chief of Kauai, and sent Hiiaka to fetch him within forty days. Delayed by battles with monsters, Hiiaka returned late to find Pele had burned her beloved lehua groves and killed her friend Hopoe; in answer she embraced Lohiau at the crater's rim before Pele's eyes.\n\nPele belongs to a living tradition. Offerings of flowers and fruit are still left at Kilauea, and the chiefess Kapiolani's public defiance of Pele's kapu in 1824 records, from the opposite side, how strong the belief then was. N. B. Emerson's Pele and Hiiaka (1915) preserves the epic chants at length."
+  },
+  "domains": {
+    "zh": [
+      "火山",
+      "熔岩",
+      "火",
+      "创造与毁灭"
+    ],
+    "en": [
+      "Volcanoes",
+      "Lava",
+      "Fire",
+      "Creation and destruction"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "基拉韦厄火山哈雷茂茂火口",
+        "en": "Halemaumau crater, Kilauea"
+      }
+    },
+    {
+      "label": {
+        "zh": "法器",
+        "en": "Implement"
+      },
+      "value": {
+        "zh": "掘地杖帕欧阿",
+        "en": "The digging stick Paoa"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗痕",
+        "en": "Traces"
+      },
+      "value": {
+        "zh": "火山玻璃丝\"佩蕾的头发\"",
+        "en": "Volcanic glass threads called Pele's hair"
+      }
+    }
+  ],
+  "related": [
+    "ku",
+    "lono",
+    "hawaiki"
+  ],
+  "sources": [
+    {
+      "zh": "N.B.埃默森《佩蕾与希伊阿卡：一则夏威夷神话》（1915年）",
+      "en": "Nathaniel B. Emerson, Pele and Hiiaka: A Myth from Hawaii (1915)"
+    },
+    {
+      "zh": "W.D.韦斯特维尔特《夏威夷火山传说》（1916年）",
+      "en": "W. D. Westervelt, Hawaiian Legends of Volcanoes (1916)"
+    },
+    {
+      "zh": "玛莎·贝克威思《夏威夷神话》（1940年）",
+      "en": "Martha Beckwith, Hawaiian Mythology (1940)"
+    }
+  ],
+  "geo": {
+    "lat": 19.41,
+    "lon": -155.28,
+    "label": {
+      "zh": "哈雷茂茂火口（基拉韦厄火山）",
+      "en": "Halemaumau crater, Kilauea"
+    }
+  },
+  "image": {
+    "file": "/images/entries/pele.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Howard_Hitchcock%27s_%22_Madame_Pele%22_(4e3de67d-b5f9-4b91-a404-c1257176b14a).tif",
+    "sourceTitle": "David Howard Hitchcock's \" Madame Pele\"",
+    "artist": "Hitchcock David - Volcano School",
+    "license": "Public domain",
+    "width": 771,
+    "height": 1000
+  }
+}

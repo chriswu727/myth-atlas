@@ -1,0 +1,92 @@
+{
+  "id": "pazuzu",
+  "tradition": "mesopotamian",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "帕祖祖",
+    "en": "Pazuzu",
+    "original": "Pazūzu",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "风魔之王",
+    "en": "King of the Wind Demons"
+  },
+  "summary": {
+    "zh": "犬狮面、四翼蝎尾的风魔之王，汉比之子。凶名被借来以毒攻毒：孕产妇佩其头像驱退女魔拉玛什图。《驱魔人》令他重返流行文化。",
+    "en": "Four-winged, scorpion-tailed king of the wind demons, son of Hanbi. His fearsome image was worn as an amulet to repel the child-snatching demoness Lamashtu; The Exorcist made him a modern horror icon."
+  },
+  "description": {
+    "zh": "帕祖祖是风魔之王，汉比之子，公元前一千纪亚述与巴比伦驱邪术里的常客。他的形象拼合了诸般凶物：犬狮混合的脸、暴突的双眼、鳞身、四翼、鹰爪、蝎尾，一手上举一手下垂。卢浮宫藏的青铜立像（高约15厘米，约公元前7世纪）背后刻着他的自报家门：“我是帕祖祖，汉比之子，凶风魔王，自震颤的群山暴烈而下。”\n\n两河人对付他的办法是以毒攻毒。他本是挟沙暴与热风为祸的恶灵，却因凶名足以震慑群魔，被请来充当护身者：孕妇与产妇佩戴他的小头像，用以吓退专害孕产妇与婴儿的狮首女魔拉玛什图。几件青铜驱邪板（如卢浮宫藏拉玛什图板）上，帕祖祖的头从板顶探出俯瞰全局，板面刻着拉玛什图被逐回冥界的场景。他的头像小坠有青铜、石、彩陶各种材质，出土范围从两河流域横跨黎凡特，远及爱琴海的萨摩斯岛。\n\n1971年小说与1973年电影《驱魔人》把附身恶魔设定为帕祖祖，序幕在哈特拉遗址取景，老神父与帕祖祖雕像对望。这尊古代的护身魔由此在现代流行文化里转型为纯粹的恐怖形象。",
+    "en": "Pazuzu is the king of the wind demons, son of Hanbi, a fixture of Assyrian and Babylonian exorcism in the first millennium BCE. His body is assembled from menacing parts: a dog-lion face with bulging eyes, a scaled torso, four wings, taloned bird feet, a scorpion's tail, one hand raised and one lowered. A bronze statuette in the Louvre, about fifteen centimeters tall and of roughly the seventh century BCE, carries his self-introduction on the back: 'I am Pazuzu, son of Hanbi, king of the evil wind demons, who comes down raging from the quaking mountains.'\n\nMesopotamians fought fire with fire. Though he personified the scorching, dust-laden winds, his fearsomeness outranked that of other demons, so he was recruited as a protector: pregnant women and new mothers wore his small head as an amulet to scare off Lamashtu, the lion-headed demoness who preyed on mothers and infants. On bronze apotropaic plaques such as the Lamashtu plaque in the Louvre, Pazuzu's head peers over the top edge while the scene below shows Lamashtu driven back to the netherworld. His head-pendants, in bronze, stone, and faience, have turned up from Mesopotamia across the Levant and as far as the island of Samos.\n\nThe novel The Exorcist (1971) and its 1973 film cast him as the possessing demon — the prologue, filmed at the ruins of Hatra, has the old priest confront a Pazuzu statue — converting the ancient guardian demon into a modern icon of horror."
+  },
+  "domains": {
+    "zh": [
+      "风",
+      "驱邪",
+      "疫病",
+      "护身符"
+    ],
+    "en": [
+      "Wind",
+      "Exorcism",
+      "Pestilence",
+      "Amulets"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父亲",
+        "en": "Father"
+      },
+      "value": {
+        "zh": "汉比",
+        "en": "Hanbi"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "狮首女魔拉玛什图",
+        "en": "The demoness Lamashtu"
+      }
+    },
+    {
+      "label": {
+        "zh": "名品",
+        "en": "Key object"
+      },
+      "value": {
+        "zh": "卢浮宫青铜立像，约公元前7世纪",
+        "en": "Bronze statuette in the Louvre, c. 7th century BCE"
+      }
+    }
+  ],
+  "related": [
+    "lamassu"
+  ],
+  "sources": [
+    {
+      "zh": "卢浮宫藏帕祖祖青铜立像铭文",
+      "en": "Inscription on the bronze Pazuzu statuette, Louvre"
+    },
+    {
+      "zh": "拉玛什图驱邪板与咒文",
+      "en": "Lamashtu plaques and incantations"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/pazuzu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pazuzu_bronze_AO_6692.jpg",
+    "sourceTitle": "Pazuzu bronze AO 6692",
+    "artist": "Zunkir",
+    "license": "CC BY-SA 4.0",
+    "width": 840,
+    "height": 1000
+  }
+}

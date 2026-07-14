@@ -1,0 +1,100 @@
+{
+  "id": "kai-ming-shou",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "开明兽",
+    "en": "Kaiming Beast"
+  },
+  "title": {
+    "zh": "九首人面、东向立于昆仑之巅的守门神兽",
+    "en": "Nine-Faced Tiger Warden of the Gates of Kunlun"
+  },
+  "summary": {
+    "zh": "守卫昆仑之虚九门的神兽：身躯如巨虎，九个头都长着人脸，面朝东方立在昆仑山上，把守百神所在之地。",
+    "en": "Guardian of Kunlun's nine gates: a body like a giant tiger crowned with nine human-faced heads, standing atop the mountain facing east, warding the abode of the hundred gods."
+  },
+  "description": {
+    "zh": "《海内西经》记昆仑之虚\"面有九门，门有开明兽守之\"，又说：\"开明兽身大类虎而九首，皆人面，东向立昆仑上。\"昆仑是天帝在下界的都城，四面各有九门，门门都由开明兽把守；这头神兽躯干像放大的猛虎，颈上九个头颅一字排开，每张脸都是人脸，永远面朝东方，立在昆仑山巅。经文以它为坐标铺陈昆仑四周的神物：开明西有凤皇鸾鸟，开明北有不死树与珠树，开明东有操不死之药的群巫。\n\n《西山经》记昆仑之丘另有神陆吾司守，\"虎身而九尾，人面而虎爪\"，掌管天之九部与天帝园圃的时节。今人袁珂《山海经校注》认为开明兽即陆吾——同一位虎形的昆仑守卫，一作九首、一作九尾，在两卷书里留下了两个名字。它是中国典籍里最早见于文字的守门神兽之一，把守的又是天帝下都的门户；今天游戏与奇幻作品里的九首虎形巨兽，多从它化出。",
+    "en": "The Classic of Regions Within the Seas: West gives Kunlun, the Supreme God's capital on earth, nine gates on each face, and sets a single warden over them: the Kaiming beast, its body like an enormous tiger, its nine heads all human-faced, standing on the summit and facing east. The text then uses the creature as a landmark to map the treasures around it: phoenixes to the west of Kaiming, the tree of deathlessness and the pearl tree to its north, and to its east the company of shamans holding the drugs of immortality.\n\nThe Classic of the Western Mountains assigns Kunlun a guardian under another name: the god Luwu, tiger-bodied with nine tails, human-faced with tiger claws, steward of the nine divisions of heaven and the seasons of the god's park. The modern annotator Yuan Ke takes Kaiming and Luwu to be one being recorded twice. One of the earliest gatekeeper beasts recorded in a Chinese text, and warden of no lesser threshold than the god's own capital, it is the recognizable ancestor of the many-headed tiger colossi of modern fantasy and games."
+  },
+  "domains": {
+    "zh": [
+      "守门神兽",
+      "昆仑",
+      "九首",
+      "虎"
+    ],
+    "en": [
+      "Gate Guardians",
+      "Kunlun",
+      "Nine Heads",
+      "Tigers"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "身大类虎，九首皆人面",
+        "en": "A giant tiger's body with nine human-faced heads"
+      }
+    },
+    {
+      "label": {
+        "zh": "职守",
+        "en": "Charge"
+      },
+      "value": {
+        "zh": "把守昆仑九门，东向而立",
+        "en": "Warding Kunlun's nine gates, facing east"
+      }
+    },
+    {
+      "label": {
+        "zh": "异名",
+        "en": "Other Name"
+      },
+      "value": {
+        "zh": "袁珂以为即西山经之神陆吾",
+        "en": "Identified by Yuan Ke with the god Luwu"
+      }
+    }
+  ],
+  "related": [
+    "kunlun-xu",
+    "ya-yu",
+    "xiwangmu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内西经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: West'"
+    },
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "袁珂《山海经校注》",
+      "en": "Yuan Ke, Shanhaijing Jiaozhu (Collated and Annotated Shanhaijing)"
+    }
+  ],
+  "volume": {
+    "zh": "海内西经",
+    "en": "Classic of Regions Within the Seas: West"
+  },
+  "image": {
+    "file": "/images/entries/kai-ming-shou.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic316_-_%E9%96%8B%E6%98%8E%E7%8D%B8%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic316 - 開明獸圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 669,
+    "height": 1000
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "tiamat",
+  "tradition": "mesopotamian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "提亚马特",
+    "en": "Tiamat",
+    "original": "Tiāmat",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "原初咸水之母",
+    "en": "Primordial Mother of the Salt Sea"
+  },
+  "summary": {
+    "zh": "原初咸水之海、众神之母。为夫复仇兴兵，生出十一种怪物，被马尔杜克以风灌腹、一箭破心，尸身剖为天地，双眼凿为两河之源。",
+    "en": "The primordial saltwater sea and mother of the gods. Avenging her consort Apsu with eleven monsters, she was netted by Marduk and split into heaven and earth; her eyes became the Tigris and Euphrates."
+  },
+  "description": {
+    "zh": "提亚马特是原初的咸水之海。《埃努玛·埃利什》开篇时天地未名，只有她与淡水阿普苏两水相混，诸神在她体内一代代孕生。史诗前半她几乎没有形体，只是一片能孕育一切的水；到兴兵时才现出可怖之躯——文中提到尾、颈与无法近身的巨口。后世读者多把她想成龙蛇状的海怪，泥板本身却从未给出完整画像。\n\n开战的缘由是复仇。小辈神祇喧闹不休，阿普苏图谋除之，反被埃阿施咒先杀。众神再度搅扰，提亚马特终被劝动：她生出十一种怪物为军——怒蛇、巨狮、蝎人、鱼人、牛人等等——立钦古为帅，把天命泥板系在他胸前。老一辈神祇望风披靡；年轻的马尔杜克讨得最高神权后出战，张网罩住她，趁其张口驱四方之风灌入，令腹胀不能合，一箭射裂心脏。随后他把尸体“像晾鱼一样”剖成两半，一半撑起为天，一半铺展为地，双眼凿开成为底格里斯河与幼发拉底河的源头，乳峰堆作群山。\n\n巴比伦每年新年节诵读《埃努玛·埃利什》全篇，这场屠母造世便岁岁重演一遍。现代奇幻文化里的五头巨龙提亚马特（《龙与地下城》，1975年起）借了她的名字，形象则是新造的。",
+    "en": "Tiamat is the primordial salt sea. When Enuma Elish opens, nothing has yet been named; only she and the freshwater Apsu mingle their waters, and within her the generations of gods are born. Through the poem's first half she is barely a figure at all, a fertile immensity of water; only when she goes to war does a body emerge — the text mentions a tail, a neck, jaws that cannot be approached. Later readers have imagined her as a dragon or sea serpent, though the tablets never draw a complete portrait.\n\nThe war begins as revenge. The young gods' clamor drives Apsu to plot their destruction, and Ea kills him first by a spell. When the gods disturb her again, Tiamat is persuaded to act: she spawns eleven monsters — the snake-dragon, the great lion, the scorpion-man, the fish-man, the bull-man and the rest — raises Qingu to command, and fastens the Tablet of Destinies on his breast. The elder gods flee before her; young Marduk exacts kingship as his fee, then catches her in a net, drives the four winds into her open mouth until her belly distends, and splits her heart with an arrow. He cleaves the corpse 'like a fish for drying': one half becomes the sky, the other the earth; her eyes are opened into the sources of the Tigris and Euphrates, her udders heaped into mountains.\n\nEvery Babylonian new year the epic was recited entire, replaying the world's making from her body. The five-headed dragon queen of Dungeons and Dragons, introduced in 1975, borrows her name and little else."
+  },
+  "domains": {
+    "zh": [
+      "原初之海",
+      "混沌",
+      "创世",
+      "母神"
+    ],
+    "en": [
+      "Primordial sea",
+      "Chaos",
+      "Creation",
+      "Motherhood"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "原初淡水阿普苏",
+        "en": "Apsu, the primeval fresh water"
+      }
+    },
+    {
+      "label": {
+        "zh": "麾下",
+        "en": "Host"
+      },
+      "value": {
+        "zh": "十一种怪物与主帅钦古",
+        "en": "Eleven monsters under Qingu"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "尸身剖为天地",
+        "en": "Corpse split into heaven and earth"
+      }
+    }
+  ],
+  "related": [
+    "marduk",
+    "enki",
+    "tablet-of-destinies"
+  ],
+  "sources": [
+    {
+      "zh": "《埃努玛·埃利什》",
+      "en": "Enuma Elish"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/tiamat.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaos_Monster_and_Sun_God.png",
+    "sourceTitle": "Chaos Monster and Sun God",
+    "artist": "editor Austen Henry Layard , drawing by L. Gruner",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 737
+  }
+}

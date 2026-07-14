@@ -1,0 +1,103 @@
+{
+  "id": "atlantis",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "亚特兰蒂斯",
+    "en": "Atlantis",
+    "original": "Ἀτλαντὶς νῆσος",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "一日一夜间沉没的大西洋岛国",
+    "en": "The island empire that sank in a single day and night"
+  },
+  "summary": {
+    "zh": "柏拉图笔下位于赫拉克勒斯之柱以西的强盛岛国，在与雅典交战后毁于地震与洪水，一日一夜间沉入大西洋。",
+    "en": "Plato's mighty island empire beyond the Pillars of Heracles, destroyed by earthquake and flood and swallowed by the Atlantic in a single day and night."
+  },
+  "description": {
+    "zh": "亚特兰蒂斯的全部原始记载来自柏拉图约公元前360年写成的两篇对话录《蒂迈欧篇》与《克里提亚篇》。故事托名政治家梭伦：他在埃及塞伊斯城听祭司讲述，九千年前赫拉克勒斯之柱（今直布罗陀海峡）以西有一座比利比亚与亚细亚加起来还大的岛屿，为海神波塞冬后裔所治。《克里提亚篇》描绘其王城由三道环形水道与两道环形陆地相套，宫墙分别覆以黄铜、锡与传说金属山铜（orichalcum），岛上出产大象，运河与港口挤满商船。\n\n按柏拉图的叙述，亚特兰蒂斯十王联军进犯地中海，被上古雅典击退；此后一场剧烈的地震与洪水在一日一夜间将整座岛屿沉入海底，海面从此留下无法通行的浅滩。《克里提亚篇》在叙述中途戛然而止，未及写完。许多古代作者把它当作柏拉图为阐述理想政体而虚构的寓言，古代地理学家从未将其载入实测地图。\n\n1882年，美国众议员伊格内修斯·唐纳利出版《亚特兰蒂斯：大洪水前的世界》，主张它是一切古代文明的共同源头，掀起延续至今的猎寻热潮；布拉瓦茨基夫人的神智学又将其纳入\"根源种族\"体系。二十世纪以来，米诺斯文明的圣托里尼火山喷发（约公元前1600年）常被学界引为传说可能的现实原型，但柏拉图文本之外不存在任何独立的古代证据。",
+    "en": "Everything ancient we have on Atlantis comes from two dialogues Plato wrote around 360 BCE, the Timaeus and the unfinished Critias. The tale is attributed to the statesman Solon, who supposedly heard it from priests at Sais in Egypt: nine thousand years earlier, beyond the Pillars of Heracles, lay an island larger than Libya and Asia combined, ruled by descendants of Poseidon. The Critias describes a capital ringed by three circular canals and two ring-shaped belts of land, its walls sheathed in bronze, tin, and the legendary metal orichalcum, with elephants roaming the island and harbours crowded with shipping.\n\nIn Plato's account the ten kings of Atlantis invaded the Mediterranean and were repelled by primeval Athens; soon afterwards violent earthquakes and floods sank the whole island in a single day and night, leaving an impassable shoal of mud. Many ancient writers treated the story as a philosophical fable about the ideal state, and no ancient geographer ever charted it.\n\nThe modern legend begins in 1882, when the American congressman Ignatius Donnelly published Atlantis: The Antediluvian World, casting the island as the mother of all civilizations; Helena Blavatsky's Theosophy then folded it into her scheme of root races. Scholars today often point to the Bronze Age eruption of Thera around 1600 BCE, which devastated Minoan Crete, as a possible seed of the story, but outside Plato's text no independent ancient evidence exists."
+  },
+  "domains": {
+    "zh": [
+      "沉没大陆",
+      "柏拉图",
+      "理想国寓言",
+      "神秘学"
+    ],
+    "en": [
+      "Sunken continent",
+      "Plato",
+      "Political allegory",
+      "Esoterica"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest source"
+      },
+      "value": {
+        "zh": "柏拉图《蒂迈欧篇》《克里提亚篇》，约公元前360年",
+        "en": "Plato, Timaeus and Critias, c. 360 BCE"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说方位",
+        "en": "Legendary location"
+      },
+      "value": {
+        "zh": "赫拉克勒斯之柱（直布罗陀）以西的大西洋",
+        "en": "The Atlantic west of the Pillars of Heracles"
+      }
+    },
+    {
+      "label": {
+        "zh": "覆灭方式",
+        "en": "Manner of destruction"
+      },
+      "value": {
+        "zh": "地震与洪水，一日一夜间沉没",
+        "en": "Earthquake and flood, sunk in a day and a night"
+      }
+    }
+  ],
+  "related": [
+    "lemuria",
+    "mu",
+    "hyperborea",
+    "thule"
+  ],
+  "sources": [
+    {
+      "zh": "柏拉图《蒂迈欧篇》《克里提亚篇》（约公元前360年）",
+      "en": "Plato, Timaeus and Critias (c. 360 BCE)"
+    },
+    {
+      "zh": "伊格内修斯·唐纳利《亚特兰蒂斯：大洪水前的世界》（1882）",
+      "en": "Ignatius Donnelly, Atlantis: The Antediluvian World (1882)"
+    }
+  ],
+  "geo": {
+    "lat": 36.1,
+    "lon": -11,
+    "label": {
+      "zh": "直布罗陀以西大西洋（柏拉图所指方位）",
+      "en": "Atlantic west of Gibraltar, per Plato"
+    }
+  },
+  "image": {
+    "file": "/images/entries/atlantis.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantis_Kircher_Mundus_subterraneus_1678.jpg",
+    "sourceTitle": "Atlantis Kircher Mundus subterraneus 1678",
+    "artist": "Athanasius Kircher",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 665
+  }
+}

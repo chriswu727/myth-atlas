@@ -1,0 +1,94 @@
+{
+  "id": "nuwa",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "女娲",
+    "en": "Nüwa"
+  },
+  "title": {
+    "zh": "抟土造人、炼石补天的创世女神",
+    "en": "Creator Goddess Who Molded Humanity and Mended the Sky"
+  },
+  "summary": {
+    "zh": "人首蛇身的创世女神。抟黄土造人，炼五色石补天，断鳌足以立四极，与伏羲并为人类始祖。",
+    "en": "Serpent-bodied creator goddess who molded the first humans from yellow clay, smelted five-colored stones to mend the broken sky, and is paired with Fuxi as ancestor of humankind."
+  },
+  "description": {
+    "zh": "女娲是华夏神话中资格最老的大神之一。汉代画像石上她人首蛇身，与伏羲蛇尾相交，手中常执圆规。东汉应劭《风俗通义》记载了她造人的传说：天地开辟之初尚无人民，女娲抟黄土作人，工作繁剧忙不过来，便把绳子放入泥浆中挥洒，溅落的泥点也变成了人。同一条记载还说，富贵者是黄土捏成，贫贱者是绳泥甩出。\n\n她最著名的功绩是补天。《淮南子·览冥训》记载，远古之时四极坍废、九州开裂，天不能全覆、地不能周载，大火蔓延不熄，洪水泛滥不止，猛兽鸷鸟残食百姓。女娲炼五色石以补苍天，斩断巨鳌四足立为天柱，杀黑龙以拯救冀州，堆积芦灰以堵住洪水。后世常把这场天塌地陷与共工怒触不周山相衔接，缀成一组因果。\n\n《楚辞·天问》已发出\"女娲有体，孰制匠之\"的疑问，可见战国时她的传说流传已广。唐代以后女娲与伏羲兄妹成婚、再造人类的故事在民间定型，她兼为造人者、补天者与婚姻之神，河北涉县娲皇宫的祭祀延续至今。",
+    "en": "Nüwa is among the oldest of Chinese deities. Han-dynasty tomb reliefs show her with a human head and a serpent's body, her tail intertwined with that of Fuxi, a compass often in her hand. The Fengsu Tongyi of Ying Shao (2nd century CE) preserves the story of how she created humanity: alone in a newly opened world, she kneaded figures from yellow clay one by one, then, overwhelmed by the labor, dragged a cord through the mud and flicked it, so that the scattered drops also became people.\n\nHer greatest deed is the mending of heaven. The Huainanzi tells how, in remote antiquity, the four pillars of the world collapsed and the nine regions split open; fires raged, floods spread, and beasts of prey devoured the people. Nüwa smelted five-colored stones to patch the azure sky, cut the legs from a giant turtle to prop up the four quarters, slew a black dragon to save the land of Ji, and piled reed ashes to dam the waters. Later tradition linked this catastrophe to Gonggong's toppling of Mount Buzhou.\n\nThe 'Heavenly Questions' of the Chu ci already asks who could have fashioned Nüwa's own body, proof that her myth circulated by the Warring States period. Later folklore made her and Fuxi a sibling couple who repopulated the world after a flood, and she is venerated as creator, sky-mender, and patroness of marriage, with an active cult at the Wahuang Palace in Shexian, Hebei."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "造人",
+      "补天",
+      "婚姻"
+    ],
+    "en": [
+      "Creation",
+      "Making of Humanity",
+      "Mending the Sky",
+      "Marriage"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人首蛇身，手执规",
+        "en": "Human head, serpent body, holding a compass"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Cult site"
+      },
+      "value": {
+        "zh": "河北涉县娲皇宫",
+        "en": "Wahuang Palace, Shexian, Hebei"
+      }
+    }
+  ],
+  "related": [
+    "fuxi",
+    "gonggong",
+    "pangu"
+  ],
+  "sources": [
+    {
+      "zh": "《淮南子·览冥训》",
+      "en": "Huainanzi, 'Lanming' chapter"
+    },
+    {
+      "zh": "应劭《风俗通义》",
+      "en": "Ying Shao, Fengsu Tongyi"
+    },
+    {
+      "zh": "《楚辞·天问》",
+      "en": "'Heavenly Questions', Chu ci"
+    }
+  ],
+  "geo": {
+    "lat": 36.58,
+    "lon": 113.67,
+    "label": {
+      "zh": "娲皇宫（河北涉县）",
+      "en": "Wahuang Palace, Shexian"
+    }
+  },
+  "image": {
+    "file": "/images/entries/nuwa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiaoyuncong_nvwa.jpg",
+    "sourceTitle": "Xiaoyuncong nvwa",
+    "artist": "Xiao Yuncong (蕭雲從), 1596-1673",
+    "license": "Public domain",
+    "width": 630,
+    "height": 1000
+  }
+}

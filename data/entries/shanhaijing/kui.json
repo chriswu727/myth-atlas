@@ -1,0 +1,99 @@
+{
+  "id": "kui",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "夔",
+    "en": "Kui"
+  },
+  "title": {
+    "zh": "流波山上一足如牛的雷兽",
+    "en": "The One-Legged Thunder Beast of Flowing-Wave Mountain"
+  },
+  "summary": {
+    "zh": "东海流波山上状如牛的独脚兽：苍身无角，出入水必有风雨，身发光如日月，吼声如雷。黄帝以其皮蒙鼓，声闻五百里。",
+    "en": "An ox-like beast with one leg on an island mountain in the Eastern Sea — grey-bodied, hornless, glowing like sun and moon, roaring like thunder. The Yellow Emperor made its hide into a drum heard five hundred li away."
+  },
+  "description": {
+    "zh": "大荒东经记：东海之中有座流波山，深入海中七千里。山上有一种兽，形状像牛，青苍色的身子，没有角，只有一只脚；它出入海水必定带起大风雨，身上放出的光像日月，吼声像打雷，名字叫夔。黄帝捉到了它，用它的皮蒙成鼓，又拿雷兽的骨头做鼓槌，敲起来声闻五百里，用以威震天下。一张兽皮成了上古最响的战鼓。\n\n「夔一足」三个字在先秦另有一场著名的辨析。《吕氏春秋·察传》记鲁哀公问孔子：乐正夔只有一只脚，是真的吗？孔子答：夔是舜的乐官，通晓音律，舜说「夔一而足矣」——像夔这样的人，有一个就够了，不是长一只脚。独脚神兽与《尚书·舜典》里「击石拊石，百兽率舞」的乐官同名，战国人已经在讨论二者如何纠缠。\n\n《说文解字》释夔为「神魖也，如龙，一足」，把它归入山林精怪一类；《庄子·秋水》里独脚的夔羡慕多脚的蚿，成了寓言角色。商周青铜器上侧身、张口、一足的龙形纹样，金石学家即以「夔纹」命名，这只东海雷兽的剪影就这样留在了礼器上。",
+    "en": "Seven thousand li out in the Eastern Sea rises Flowing-Wave Mountain, and on it lives a beast shaped like an ox: grey-blue body, no horns, a single leg. When it enters or leaves the water there is always wind and rain; its body shines like the sun and moon and its voice is thunder. Its name is Kui. The Yellow Emperor captured it, stretched its hide over a drum, and beat it with a bone of the thunder-beast for a drumstick — the sound carried five hundred li and awed all under heaven. One hide became the loudest war-drum of antiquity.\n\nThe phrase 'Kui has one foot' sparked a famous debate. In the Lüshi Chunqiu, Duke Ai of Lu asks Confucius whether the music master Kui really had only one leg. Confucius answers that Kui was Shun's master of music, and Shun had said 'one Kui is enough (yi zu)' — a pun on 'one foot'. The one-legged sea-beast and the court musician who set the hundred beasts dancing share a name, and Warring States thinkers were already untangling them.\n\nThe Shuowen dictionary classes Kui as a mountain demon 'like a dragon, with one foot'; in the Zhuangzi the one-legged Kui envies the many-legged millipede. On Shang and Zhou bronzes, the sinuous one-legged dragon pattern was named the 'kui motif' by later antiquarians, fixing the thunder-beast's silhouette on ritual vessels."
+  },
+  "domains": {
+    "zh": [
+      "雷",
+      "风雨",
+      "独足",
+      "东海"
+    ],
+    "en": [
+      "Thunder",
+      "Wind and Rain",
+      "One Leg",
+      "Eastern Sea"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如牛，苍身而无角，一足",
+        "en": "Ox-like, grey body, hornless, one leg"
+      }
+    },
+    {
+      "label": {
+        "zh": "异象",
+        "en": "Signs"
+      },
+      "value": {
+        "zh": "出入水必风雨，光如日月，声如雷",
+        "en": "Storms attend it in water; glows like sun and moon; voice of thunder"
+      }
+    },
+    {
+      "label": {
+        "zh": "下落",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "黄帝以其皮为鼓，声闻五百里",
+        "en": "Its hide became the Yellow Emperor's drum, heard five hundred li away"
+      }
+    }
+  ],
+  "related": [
+    "huangdi",
+    "di-jun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒东经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: East'"
+    },
+    {
+      "zh": "《吕氏春秋·察传》",
+      "en": "Lüshi Chunqiu, 'Cha Zhuan' chapter"
+    },
+    {
+      "zh": "许慎《说文解字》",
+      "en": "Xu Shen, Shuowen Jiezi"
+    }
+  ],
+  "volume": {
+    "zh": "大荒东经",
+    "en": "Classic of the Great Wilderness: East"
+  },
+  "image": {
+    "file": "/images/entries/kui.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wu-Renchen-Shanhai-jing-guangzhu-Kui.jpg",
+    "sourceTitle": "Wu-Renchen-Shanhai-jing-guangzhu-Kui",
+    "artist": "Wu Renchen (Wu Jen-Ch'en in Wade-Giles), (1628-1689)",
+    "license": "Public domain",
+    "width": 665,
+    "height": 1000
+  }
+}

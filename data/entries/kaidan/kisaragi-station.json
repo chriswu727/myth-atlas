@@ -1,0 +1,46 @@
+{
+  "id": "kisaragi-station",
+  "tradition": "kaidan",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "如月车站",
+    "en": "Kisaragi Station",
+    "original": "きさらぎ駅",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "不存在于任何时刻表的异界车站", "en": "A station that appears on no timetable" },
+  "summary": {
+    "zh": "2004年1月8日深夜，2ch用户「叶纯」实时发帖：她乘坐的新滨松出发的电车驶过了所有车站，停在一座名为「如月」的无人站。帖子在她坐上陌生人的车后中断。",
+    "en": "Late on 8 January 2004, a 2channel user posting as Hasumi live-reported that her train from Shin-Hamamatsu had passed every stop and left her at a deserted station called Kisaragi. Her posts ended after she accepted a stranger's ride."
+  },
+  "description": {
+    "zh": "如月车站是日本网络怪谈里「异界车站」的原型。2004年1月8日23时14分起，一位署名「叶纯」（はすみ）的用户在2ch灵异板的实况帖里陆续发帖：她照常从新滨松站搭乘私铁末班电车回家，但列车已经行驶了二十多分钟没有停站，车厢里其他乘客都睡着。零点过后，电车停在一座她从未听过的无人车站，站牌写着「如月」——时刻表上查无此站，打给家人也说不清位置。在网友七嘴八舌的建议下，她沿铁轨步行，听见远处传来太鼓和铃铛的声音，回头看见一个单腿老人转瞬消失，随后穿过一条名为「伊佐贯」的隧道，在出口遇到一名主动提出开车送她去车站的男子。最后一帖说：车正驶向山里，司机开始自言自语，样子不对，她打算找机会跳车。此后再无音讯。\n\n这场持续数小时、有网友实时互动的「直播失踪」是集体创作型网络怪谈的里程碑：地名可考（新滨松是远州铁道的真实起点站）、时间戳真实、叙事者中途消失，读者自行补完结局。2011年，有自称本人的用户在网上发帖称「逃了出来」，被普遍视为续写。\n\n此后2ch上涌现「月之宫」「影踏」等一批仿作异界车站，「如月车站」则成为通名，衍生出2022年永江二朗执导的同名电影。静冈县的远州铁道也默认了这份意外的名声，曾发售相关纪念车票。",
+    "en": "Kisaragi Station is the prototype of the 'otherworld station' genre of Japanese internet horror. Beginning at 23:14 on 8 January 2004, a user signing as Hasumi posted a running account to the occult board of the 2channel forum: she had boarded her usual last train home from Shin-Hamamatsu, but it had now run more than twenty minutes without stopping and the other passengers were asleep. Past midnight the train halted at an unmanned station whose sign read Kisaragi, a name on no timetable; her family could not place it either. Coached by other posters, she walked along the tracks, heard drums and bells in the distance, glimpsed a one-legged old man who vanished, passed through a tunnel signed Isanuki, and at its mouth met a man who offered to drive her to a proper station. Her final post said the car was heading into the mountains, the driver muttering to himself, and that she would jump out when she could. Nothing followed.\n\nThe thread, hours long and shaped in real time by its readers, became a landmark of collaborative net folklore: the departure station is real (Shin-Hamamatsu, on the Enshu Railway in Shizuoka), the timestamps are genuine, and the narrator simply stops. In 2011 a poster claiming to be Hasumi wrote that she had escaped, generally read as a sequel by another hand.\n\nImitations multiplied on 2channel, and 'Kisaragi Station' became the generic name for the trope, adapted as a feature film by Nagae Jiro in 2022. The Enshu Railway has leaned into the fame, at one point selling commemorative tickets."
+  },
+  "domains": {
+    "zh": ["异界", "铁道", "网络怪谈", "失踪"],
+    "en": ["Otherworlds", "Railways", "Net folklore", "Disappearance"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "初出", "en": "First appearance" },
+      "value": { "zh": "2004年1月8日深夜，2ch灵异板实况帖", "en": "Live thread on 2channel's occult board, night of 8 January 2004" }
+    },
+    {
+      "label": { "zh": "现实锚点", "en": "Real-world anchor" },
+      "value": { "zh": "静冈县远州铁道新滨松站", "en": "Shin-Hamamatsu station, Enshu Railway, Shizuoka" }
+    },
+    {
+      "label": { "zh": "结局", "en": "Ending" },
+      "value": { "zh": "发帖在陌生人车驶向山中后中断", "en": "Posts cease as the stranger's car heads into the mountains" }
+    }
+  ],
+  "related": ["hasshaku-sama", "kunekune", "inunaki-village"],
+  "sources": [
+    { "zh": "2ch灵异板实况帖（2004年1月8日）", "en": "2channel occult-board live thread (8 January 2004)" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "geo": { "lat": 34.703, "lon": 137.732, "label": { "zh": "静冈县滨松市·新滨松站（旅程起点）", "en": "Shin-Hamamatsu station, Hamamatsu, Shizuoka (start of the journey)" } },
+  "image": null
+}

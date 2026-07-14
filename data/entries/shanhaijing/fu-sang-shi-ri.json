@@ -1,0 +1,96 @@
+{
+  "id": "fu-sang-shi-ri",
+  "tradition": "shanhaijing",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "扶桑与十日",
+    "en": "Fusang and the Ten Suns"
+  },
+  "title": {
+    "zh": "汤谷神木上轮值的十个太阳",
+    "en": "Ten Suns Roosting on the World-Tree of the Sunrise Valley"
+  },
+  "summary": {
+    "zh": "东方汤谷有神木扶桑，羲和所生十日栖于其上：九日居下枝，一日居上枝，由乌载着轮流上天，一日方至，一日方出。",
+    "en": "In the sunrise valley of Tanggu grows the Fusang tree where the ten suns roost — nine on the lower branches, one on the upper — carried into the sky by crows, one returning as the next departs."
+  },
+  "description": {
+    "zh": "大荒东经记：汤谷之上生着扶木，一个太阳刚刚回来，另一个太阳正要出发，都由乌鸟载着；大荒之中又有孽摇頵羝之山，山上的扶木高耸三百里，叶子像芥菜叶。海外东经的记载更细：汤谷上有扶桑，是十个太阳洗浴的地方，大木生在水中，九日居下枝，一日居上枝。十个太阳是帝俊之妻羲和所生，每天一个当值，乘乌车巡天，其余九个在扶桑枝头栖息等候——一套运转精密的日出班表。\n\n班表崩溃的后果记在别处。《淮南子·本经训》说尧的时代十日并出，晒焦了庄稼草木，民无所食；尧于是命羿上射十日。海内经则保留了这个故事的前半段：帝俊赐给羿彤弓素矰，命他下去救助下方国土的百般艰难。射落九日、只留一日，是后世家喻户晓的结局；日中有踆乌的说法（《淮南子·精神训》）又把载日之乌收进了太阳内部，「金乌」从此成为太阳的代称。\n\n这幅图景在出土文物上一再显形：马王堆一号汉墓T形帛画右上角绘红日，日中立乌，扶桑枝间还挂着数个小太阳；三星堆出土的青铜神树分层栖鸟，也常被研究者与扶桑、若木的神话相对照。",
+    "en": "Above the valley of Tanggu, says the Great Wilderness: East, grows the Fu tree: one sun has just arrived home, another is just setting out, each carried by a crow. Elsewhere in the wilderness the tree towers three hundred li with leaves like mustard greens. The Beyond the Seas: East chapter is more precise: the Fusang stands in the water where the ten suns bathe, nine roosting on the lower branches and one on the upper. The ten are children of Xihe, wife of Di Jun; each day one takes its shift across the sky by crow while nine wait on the branches — a precisely rotating timetable of sunrise.\n\nWhat happened when the timetable broke is told in the Huainanzi: in the age of Yao all ten suns rose at once, scorching crops and grasses until the people had nothing to eat, and Yao ordered the archer Yi to shoot them down. The final chapter of the Classic itself preserves the commission: Di Jun gave Yi a vermilion bow and plain-corded arrows and sent him to relieve the hardships of the lands below. Nine suns fell; one remains. The crow moved inside the sun itself — the Huainanzi's 'three-legged crow in the sun' made 'golden crow' a lasting name for the sun.\n\nThe scene keeps surfacing from the ground: the T-shaped silk banner from Mawangdui tomb 1 paints a red sun with a crow in it and small suns hanging in the Fusang's branches, and the bronze trees of Sanxingdui, with birds perched tier on tier, are routinely compared to the Fusang of this myth."
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "神木",
+      "汤谷",
+      "轮值"
+    ],
+    "en": [
+      "Sun",
+      "World-Tree",
+      "Sunrise Valley",
+      "Rotation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "布局",
+        "en": "Arrangement"
+      },
+      "value": {
+        "zh": "九日居下枝，一日居上枝",
+        "en": "Nine suns on the lower branches, one on the upper"
+      }
+    },
+    {
+      "label": {
+        "zh": "载具",
+        "en": "Carrier"
+      },
+      "value": {
+        "zh": "皆载于乌，后演为日中金乌",
+        "en": "Each borne by a crow, later the golden crow inside the sun"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "Aftermath"
+      },
+      "value": {
+        "zh": "十日并出为害，羿射落九日",
+        "en": "All ten rose at once; the archer Yi shot down nine"
+      }
+    }
+  ],
+  "related": [
+    "xi-he",
+    "di-jun",
+    "hou-yi",
+    "jian-mu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒东经》《海外东经》《海内经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: East', 'Beyond the Seas: East', and the final chapter"
+    },
+    {
+      "zh": "《淮南子·本经训》《精神训》",
+      "en": "Huainanzi, 'Ben Jing' and 'Jing Shen' chapters"
+    }
+  ],
+  "volume": {
+    "zh": "大荒东经",
+    "en": "Classic of the Great Wilderness: East"
+  },
+  "image": {
+    "file": "/images/entries/fu-sang-shi-ri.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wu_liang_shrine_relief_depicting_xihe,_yi,_and_fusang_tree.jpg",
+    "sourceTitle": "Wu liang shrine relief depicting xihe, yi, and fusang tree",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 815
+  }
+}

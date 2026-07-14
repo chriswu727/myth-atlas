@@ -1,0 +1,82 @@
+{
+  "id": "flying-carpet",
+  "tradition": "arabian",
+  "type": "artifact",
+  "era": "folk",
+  "name": {
+    "zh": "飞毯",
+    "en": "Flying Carpet"
+  },
+  "title": {
+    "zh": "乘风而行的织物",
+    "en": "The woven thing that rides the wind"
+  },
+  "summary": {
+    "zh": "凭空飞行的魔毯。伊斯兰传说里所罗门的绿丝巨毯载着他的整个朝廷乘风而行；《一千零一夜》“艾哈迈德王子”篇中，一小方看似寻常的毯子坐上便瞬息可至任何地方。",
+    "en": "The carpet that flies. In Islamic legend Solomon's vast green silk carpet bore his whole court upon the wind; in the Nights' tale of Prince Ahmed, a plain-looking little rug carries its rider anywhere in an instant."
+  },
+  "description": {
+    "zh": "飞毯的谱系有两条线。较古老的一条属于所罗门：《古兰经》说清风听命于他，十一世纪塔拉比的《先知故事》等传说汇编把这句经文铺陈成一床绿丝织成的巨毯——王的宝座置于中央，左右分列人类与镇尼的军队，群鸟在上空展翼遮阳，风托起整幅毯子，朝行一月之程，暮行一月之程。传说还说，当所罗门志得意满之时，风会故意一抖，掀落几千人，作为对骄傲的小小惩戒。\n\n另一条线来自《一千零一夜》。“艾哈迈德王子与仙女帕丽巴努”篇里，印度君主的三个儿子分头寻宝，长子侯赛因在比斯纳加尔的集市上花四十袋金币买下一小方旧毯——坐上去、许个愿，眨眼便到。三兄弟后来靠飞毯、千里眼象牙筒与医百病的魔苹果合力救了垂危的公主。这一篇与《阿拉丁》同属汉纳·迪亚卜1709年讲给加朗的“孤儿故事”，没有更早的阿拉伯底本。\n\n作为“坐着不动就抵达”的梦，飞毯成了《一千零一夜》最轻盈的意象：俄国画家瓦斯涅佐夫1880年画过乘毯的伊凡王子，好莱坞《巴格达大盗》（1924）让它腾空，迪士尼《阿拉丁》（1992）干脆给了它性格——尽管在加朗的原文里，阿拉丁从头到尾没坐过毯子。",
+    "en": "The flying carpet has two lineages. The older belongs to Solomon. The Quran says the wind was made to serve him, and legend compendia such as al-Tha'labi's eleventh-century Lives of the Prophets spread that verse into a vast carpet of green silk: the king's throne at the centre, men ranked on one side and jinn on the other, birds flying wing to wing overhead for shade, the whole freight borne by the wind a month's journey by morning and a month's by evening. The tradition adds a moral: when Solomon's heart swelled with pride, the wind would give a shake and spill a few thousand riders, by way of correction.\n\nThe second lineage comes from the Thousand and One Nights. In the tale of Prince Ahmed and the fairy Pari Banu, the three sons of a sultan of the Indies scatter in search of wonders, and the eldest, Husain, pays forty purses of gold in the bazaar of Bisnagar for a small, shabby-looking rug: sit on it, wish, and you are there. Carpet, ivory spyglass and healing apple together save a dying princess. Like Aladdin, the tale is one of the 'orphan stories' Hanna Diyab told Galland in 1709, with no earlier Arabic text.\n\nAs the dream of arrival without motion, the carpet became the Nights' lightest emblem. Vasnetsov painted a Russian prince riding one in 1880; The Thief of Bagdad (1924) sent it aloft on screen; Disney's Aladdin (1992) gave it a personality — though in Galland's actual Aladdin, the hero never once sits on a carpet."
+  },
+  "domains": {
+    "zh": [
+      "飞行",
+      "乘风",
+      "瞬息抵达",
+      "所罗门的权柄"
+    ],
+    "en": [
+      "Flight",
+      "Riding the wind",
+      "Instant arrival",
+      "Solomon's dominion"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "所罗门之毯",
+        "en": "Solomon's carpet"
+      },
+      "value": {
+        "zh": "绿丝织成，载全军与朝廷，风为动力",
+        "en": "Green silk, bearing court and armies, driven by the wind"
+      }
+    },
+    {
+      "label": {
+        "zh": "王子之毯",
+        "en": "The prince's rug"
+      },
+      "value": {
+        "zh": "购自印度比斯纳加尔集市，四十袋金币",
+        "en": "Bought in the bazaar of Bisnagar, India, for forty purses of gold"
+      }
+    }
+  ],
+  "related": [
+    "solomon-and-the-jinn",
+    "aladdin-lamp",
+    "jinn"
+  ],
+  "sources": [
+    {
+      "zh": "塔拉比《先知故事》（11世纪）",
+      "en": "Al-Tha'labi, Lives of the Prophets (Qisas al-anbiya), 11th century"
+    },
+    {
+      "zh": "《一千零一夜》加朗法译本“艾哈迈德王子与仙女帕丽巴努”（1717）",
+      "en": "'Prince Ahmed and the Fairy Pari Banu', in Galland's Les mille et une nuits, 1717"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/flying-carpet.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_tapis_volant_(Bilibin)_07.jpg",
+    "sourceTitle": "Le tapis volant (Bilibin) 07",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 864,
+    "height": 1000
+  }
+}

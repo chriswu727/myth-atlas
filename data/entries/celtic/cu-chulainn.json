@@ -1,0 +1,103 @@
+{
+  "id": "cu-chulainn",
+  "tradition": "celtic",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "库丘林",
+    "en": "Cu Chulainn",
+    "original": "Cú Chulainn",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "阿尔斯特的猎犬",
+    "en": "The Hound of Ulster"
+  },
+  "summary": {
+    "zh": "阿尔斯特故事群的第一英雄，鲁格之子。六岁打死铁匠库兰的猛犬而得名，十七岁独守边境抵挡康诺特全军，战至身死仍缚石而立。",
+    "en": "Foremost hero of the Ulster Cycle and son of the god Lugh. He killed the smith Culann's hound as a boy and took its place, held Ulster's border alone at seventeen, and died bound upright to a standing stone."
+  },
+  "description": {
+    "zh": "库丘林本名瑟坦达（Sétanta），是天神鲁格与凡人母亲德克泰涅之子，阿尔斯特王康赫巴尔的外甥。六岁那年他赴铁匠库兰的宴席，途中用球杖击球玩耍迟到，被放出的猛犬扑咬，他把球击入犬喉将其打死。为赔偿主人，他自愿代犬守户，从此得名“库兰的猎犬”（Cú Chulainn）。他相貌俊美，但激战时会陷入“扭曲痉挛”（ríastrad）：肌肉在皮下翻转，一目缩入颅内、一目暴出颊上，头发根根直立滴血，敌我不分。\n\n他的武艺成于苏格兰女武师斯卡塔赫门下，学得绝技“加·博尔加”——一种入体后张开倒刺的鱼叉式长矛，用脚趾从水下掷出。《夺牛记》记载了他一生的顶点：康诺特女王梅芙举兵夺取库利褐牛时，阿尔斯特全境男丁因玛查的诅咒瘫软失力，十七岁的库丘林独自据守浅滩，援引单挑古法逐一斩杀来将，拖住大军一冬，最沉痛的一战是杀死同门义兄弗迪亚。\n\n他的死同样成为定格的画面：中计接连违背自身禁忌（geis）后力竭重伤，他把自己绑在立石上站着迎敌，手中剑落时斩断敌人手腕；直到一只乌鸦——通常认为是摩莉甘——落上肩头，敌人才确信他已死。这一形象在二十世纪成为爱尔兰民族主义的象征，奥利弗·谢泼德的库丘林之死铜像今天立在都柏林邮政总局，纪念1916年复活节起义。",
+    "en": "Cu Chulainn was born Setanta, son of the god Lugh and the mortal Deichtine, nephew of King Conchobar of Ulster. At six, arriving late to a feast at the smith Culann's house, he was set upon by the smith's great watchdog and killed it by driving his hurling ball down its throat. In compensation he offered to guard the house himself until a new hound was reared, and so became Cu Chulainn, 'the Hound of Culann'. Beautiful in repose, in battle he was seized by the riastrad, a warp-spasm that turned him monstrous: his body revolved within its skin, one eye sank into his skull while the other bulged onto his cheek, and his hair stood stiff with a drop of blood on every strand.\n\nHe was trained in arms by the woman-warrior Scathach in Alba, from whom he received the gae bolga, a barbed spear cast from the fork of the foot that opened inside a body. The Tain Bo Cuailnge records his defining feat: when Queen Medb of Connacht marched to seize the Brown Bull of Cooley and the men of Ulster lay helpless under Macha's curse, the seventeen-year-old held the fords alone through a winter, invoking the custom of single combat and killing champion after champion, hardest of all his foster-brother Ferdiad.\n\nHis death completed the image: tricked into breaking his personal taboos and mortally wounded, he lashed himself to a standing stone to die on his feet, and his enemies dared close in only when a crow, taken to be the Morrigan, settled on his shoulder. Oliver Sheppard's bronze of the dying Cu Chulainn stands in the General Post Office in Dublin as the memorial of the 1916 Easter Rising."
+  },
+  "domains": {
+    "zh": [
+      "战斗",
+      "禁忌",
+      "少年英雄",
+      "边境守卫"
+    ],
+    "en": [
+      "Battle",
+      "Taboo",
+      "Boy hero",
+      "Border defence"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "倒刺长矛“加·博尔加”",
+        "en": "The gae bolga, a barbed spear"
+      }
+    },
+    {
+      "label": {
+        "zh": "异相",
+        "en": "Battle frenzy"
+      },
+      "value": {
+        "zh": "扭曲痉挛 ríastrad",
+        "en": "The riastrad or warp-spasm"
+      }
+    },
+    {
+      "label": {
+        "zh": "根据地",
+        "en": "Stronghold"
+      },
+      "value": {
+        "zh": "阿尔斯特王都埃文玛查",
+        "en": "Emain Macha, capital of Ulster"
+      }
+    }
+  ],
+  "related": [
+    "lugh",
+    "morrigan",
+    "tain-bo-cuailnge",
+    "scathach"
+  ],
+  "sources": [
+    {
+      "zh": "《夺牛记》（Táin Bó Cúailnge，见于约1106年《褐牛之书》与12世纪《伦斯特书》）",
+      "en": "Tain Bo Cuailnge, in Lebor na hUidre (c. 1106) and the Book of Leinster (12th century)"
+    },
+    {
+      "zh": "《库丘林之死》（Aided Con Culainn）",
+      "en": "Aided Con Culainn (The Death of Cu Chulainn)"
+    }
+  ],
+  "geo": {
+    "lat": 54.348,
+    "lon": -6.697,
+    "label": {
+      "zh": "埃文玛查（纳文堡，阿马郡）",
+      "en": "Emain Macha (Navan Fort), Co. Armagh"
+    }
+  },
+  "image": {
+    "file": "/images/entries/cu-chulainn.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuchulain_in_Battle.jpg",
+    "sourceTitle": "Cuchulain in Battle",
+    "artist": "Joseph Christian Leyendecker (1874 - 1951)",
+    "license": "Public domain",
+    "width": 694,
+    "height": 1000
+  }
+}

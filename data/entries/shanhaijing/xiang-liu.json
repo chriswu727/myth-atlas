@@ -1,0 +1,96 @@
+{
+  "id": "xiang-liu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "相柳",
+    "en": "Xiangliu"
+  },
+  "title": {
+    "zh": "共工之臣，九首蛇身、所过成泽的凶神",
+    "en": "Nine-Headed Serpent Minister of Gonggong"
+  },
+  "summary": {
+    "zh": "共工之臣，九个人面头颅长在青色蛇身上，九首分食九山，所触之地尽成毒泽。禹杀之，其血腥臭，填土三次、三次塌陷。",
+    "en": "Minister to the flood god Gonggong: nine human heads on a green serpent body, feeding on nine mountains at once. Yu slew it; its reeking blood ruined the soil, which collapsed three times when filled."
+  },
+  "description": {
+    "zh": "《海外北经》记：\"共工之臣曰相柳氏，九首，以食于九山。相柳之所抵，厥为泽溪。\"它是水神共工的臣属，九个人面头颅共用一条青色蛇身，九张嘴同时在九座山上进食；蛇身碾过、触抵的地方，土地塌陷成沼泽溪谷，水味苦涩，百兽无法居住。\n\n禹平治洪水时杀死相柳。经文接着写后果：\"其血腥，不可以树五谷种。禹厥之，三仞三沮，乃以为众帝之台。\"血污渗进土地，五谷不生；禹挖去污土回填，填三次塌三次，只好把这块治不好的地挖成池子，用挖出的土为众帝修筑高台，台在昆仑之北。《大荒北经》记同一事而名作\"相繇\"，说它所喷所居之处尽成水泽，禹湮塞之后\"乃以为池，群帝因是以为台\"。两卷经文都不写搏杀的过程，笔墨全落在血毒渗地、三填三陷的善后上。它的九首蛇身形象也被后世志怪与今天的游戏、动漫反复借用。",
+    "en": "The Classic of Regions Beyond the Seas: North introduces it in two clauses: Xiangliu, minister to the water god Gonggong, has nine heads that feed on nine mountains at once, and wherever its body presses, the ground caves into marsh and ravine. The nine heads are human-faced; the single body is that of a green serpent. The water it left behind was bitter, and no beast could live near it.\n\nWhen Yu the Great tamed the flood he killed Xiangliu, and the text dwells on the aftermath rather than the fight. The creature's blood was so rank that the five grains would not grow in soil it had touched. Yu dug the tainted earth out and refilled the pit; three times he filled it and three times it slumped. In the end he gave up, made the spot a pond, and used the spoil to raise terraces for the gods, north of Kunlun. The Classic of the Great Wilderness: North tells the same episode under the name Xiangyao. The detail that the monster's poison outlasted the monster gives Xiangliu a distinct place in the flood-taming cycle, and its nine-headed serpent form is a fixture of modern fantasy and games."
+  },
+  "domains": {
+    "zh": [
+      "九首",
+      "蛇身",
+      "洪水",
+      "毒泽"
+    ],
+    "en": [
+      "Nine Heads",
+      "Serpents",
+      "Floods",
+      "Poisoned Marshes"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "主君",
+        "en": "Master"
+      },
+      "value": {
+        "zh": "水神共工",
+        "en": "Gonggong, god of waters"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "九首人面，蛇身而青",
+        "en": "Nine human-faced heads on a green serpent body"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "End"
+      },
+      "value": {
+        "zh": "为禹所杀，血地三填三陷",
+        "en": "Slain by Yu; its blood-soaked ground collapsed three times"
+      }
+    }
+  ],
+  "related": [
+    "gonggong",
+    "da-yu",
+    "kua-fu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外北经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: North'"
+    },
+    {
+      "zh": "《山海经·大荒北经》",
+      "en": "Shanhaijing, 'Classic of the Great Wilderness: North'"
+    }
+  ],
+  "volume": {
+    "zh": "海外北经",
+    "en": "Classic of Regions Beyond the Seas: North"
+  },
+  "image": {
+    "file": "/images/entries/xiang-liu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiki-choju_Xiang-liu.jpg",
+    "sourceTitle": "Kaiki-choju Xiang-liu",
+    "artist": "unknown (Japanese)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 640
+  }
+}

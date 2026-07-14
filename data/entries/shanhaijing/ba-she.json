@@ -1,0 +1,102 @@
+{
+  "id": "ba-she",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "巴蛇",
+    "en": "Ba Serpent"
+  },
+  "title": {
+    "zh": "吞象三年方吐其骨的巨蛇",
+    "en": "The Serpent That Swallows Elephants Whole"
+  },
+  "summary": {
+    "zh": "海内南经所记巨蛇，能整吞大象，三年才吐出骨头；君子服食此骨可无心腹之疾。蛇身青黄赤黑四色相间。",
+    "en": "A monstrous snake that swallows elephants whole and disgorges the bones only after three years; those bones, taken as medicine, cure ailments of heart and belly. Its body is mottled green, yellow, red, and black."
+  },
+  "description": {
+    "zh": "《海内南经》记：\"巴蛇食象，三岁而出其骨，君子服之，无心腹之疾。其为蛇青黄赤黑。一曰黑蛇青首，在犀牛西。\"这条蛇大到可以整吞一头象，消化三年才吐出骨头；吐出的象骨被视为药物，君子服食可免心腹之疾。它的鳞身青、黄、赤、黑四色斑驳，另一说则是黑身青首。\n\n吞象的意象比《山海经》成书更早就在流传。屈原《天问》发问：\"一蛇吞象，厥大何如？\"——一条蛇吞下大象，它到底能有多大？后世相传羿曾斩巴蛇于洞庭，蛇骨堆积成丘，岳阳古称巴陵，旧说即由此得名，当地长期有巴蛇冢之说。俗语\"人心不足蛇吞象\"也从这个意象里长出来，巨蛇吞象从博物志怪变成了贪欲的成语。",
+    "en": "The Classic of Regions Within the Seas: South records the Ba serpent in clinical fashion: it eats elephants and expels the bones after three years, and gentlemen who take those bones suffer no ailments of heart or belly. Its body is scaled in green, yellow, red, and black; a variant tradition makes it a black snake with a green head, dwelling west of the rhinoceros country. The monster arrives in the text already half-pharmacopoeia: even the leavings of its appetite are medicine.\n\nThe image was old when the book was compiled. In the 'Heavenly Questions' of the Songs of Chu, Qu Yuan asks: a serpent swallowing an elephant, how big must it be? Later tradition brought the beast to Lake Dongting, where the archer Yi was said to have slain a ba serpent whose piled bones became a hill; the old name of Yueyang, Baling, 'Mound of Ba', was explained by that carcass, and a Ba Serpent Tomb was long pointed out there. The proverb 'a greedy heart is a snake trying to swallow an elephant' grew from the same image, turning the catalogue-monster into shorthand for insatiable desire."
+  },
+  "domains": {
+    "zh": [
+      "巨蛇",
+      "吞象",
+      "药用异骨"
+    ],
+    "en": [
+      "Giant Serpents",
+      "Elephant-Swallowing",
+      "Curative Bones"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "食性",
+        "en": "Diet"
+      },
+      "value": {
+        "zh": "食象，三岁而出其骨",
+        "en": "Swallows elephants; voids the bones after three years"
+      }
+    },
+    {
+      "label": {
+        "zh": "蛇身",
+        "en": "Body"
+      },
+      "value": {
+        "zh": "青黄赤黑，一曰黑蛇青首",
+        "en": "Green, yellow, red, and black; or black with a green head"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说葬地",
+        "en": "Legendary Grave"
+      },
+      "value": {
+        "zh": "洞庭湖畔巴陵（今岳阳）",
+        "en": "Baling by Lake Dongting, modern Yueyang"
+      }
+    }
+  ],
+  "related": [
+    "ling-yu",
+    "ya-yu",
+    "hou-yi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内南经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: South'"
+    },
+    {
+      "zh": "屈原《天问》",
+      "en": "Qu Yuan, 'Heavenly Questions' (Tianwen)"
+    }
+  ],
+  "geo": {
+    "lat": 29.35,
+    "lon": 113.05,
+    "label": {
+      "zh": "洞庭湖（岳阳巴陵）",
+      "en": "Lake Dongting, Yueyang"
+    }
+  },
+  "volume": {
+    "zh": "海内南经",
+    "en": "Classic of Regions Within the Seas: South"
+  },
+  "image": {
+    "file": "/images/entries/ba-she.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic510_-_%E5%B7%B4%E8%9B%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic510 - 巴蛇圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 656,
+    "height": 1000
+  }
+}

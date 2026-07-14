@@ -1,0 +1,95 @@
+{
+  "id": "heimdall",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "海姆达尔",
+    "en": "Heimdall",
+    "original": "Heimdallr",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "诸神的守望者，彩虹桥的哨兵",
+    "en": "Watchman of the Gods, Sentinel of the Rainbow Bridge"
+  },
+  "summary": {
+    "zh": "九位母亲所生的白神，驻守彩虹桥比弗罗斯特。他听得见青草生长，末日来临时将吹响加拉尔号角警醒诸神。",
+    "en": "The white god born of nine mothers, who guards the rainbow bridge Bifrost, hears grass growing, and will sound the Gjallarhorn to warn the gods of Ragnarok."
+  },
+  "description": {
+    "zh": "海姆达尔被称作「白神」，牙齿是金的，由九位母亲——一说为九姐妹的波浪之女——共同生下。他的居所希敏比约格坐落在彩虹桥比弗罗斯特接天的一端，日夜守望阿萨神域的门户。他的感官为哨兵而生：需要的睡眠比鸟还少，无论黑夜白昼都能看清百里格之外，能听见青草从土里生长、羊毛在羊背上变长的声音。他身边备着加拉尔号角，号声一起，九界俱闻——那将是巨人来袭、诸神黄昏开场的信号。\n\n《里格的赞歌》记载他曾化名里格漫游人间，先后借宿三户人家，由此生下奴隶、自由农与贵族三支后代，因此《女占卜者的预言》开篇称人类为「海姆达尔的子孙」。他与洛基宿怨极深：曾化作海豹与洛基搏斗，夺回被盗的布里希嘉曼项链；诸神黄昏的终局，两人正是彼此的最后对手，同归于尽。",
+    "en": "Heimdall is called the white god; his teeth are of gold, and he was born of nine mothers, often identified as nine wave-sisters. His hall Himinbjorg stands where the rainbow bridge Bifrost touches the sky, and there he keeps watch over the approach to Asgard. His senses were made for sentry duty: he needs less sleep than a bird, sees a hundred leagues by night as well as by day, and hears the grass growing in the fields and the wool growing on sheep. Beside him hangs the Gjallarhorn, whose blast can be heard through all the worlds; it will sound once, when the giants march and Ragnarok begins.\n\nThe Rigsthula tells how he wandered the human world under the name Rig, lodging with three households in turn and fathering the three lines of thralls, freemen, and nobles, which is why the Voluspa opens by addressing humankind as the children of Heimdall. His feud with Loki runs deep: in one tale the two fought in the shape of seals over the stolen necklace Brisingamen. At Ragnarok they are each other's final opponents, and each kills the other."
+  },
+  "domains": {
+    "zh": [
+      "守望",
+      "警戒",
+      "光明",
+      "人类的谱系"
+    ],
+    "en": [
+      "Watchfulness",
+      "Vigilance",
+      "Light",
+      "Lineage of Men"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Emblem"
+      },
+      "value": {
+        "zh": "加拉尔号角",
+        "en": "The Gjallarhorn"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "彩虹桥畔的希敏比约格",
+        "en": "Himinbjorg, beside the Bifrost bridge"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Foe"
+      },
+      "value": {
+        "zh": "洛基",
+        "en": "Loki"
+      }
+    }
+  ],
+  "related": [
+    "loki",
+    "odin",
+    "ragnarok",
+    "freyja"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·女占卜者的预言》《里格的赞歌》",
+      "en": "Poetic Edda: Voluspa and Rigsthula"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/heimdall.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heimdallr_and_valkyries_by_Fr%C3%B8lich.jpg",
+    "sourceTitle": "Heimdallr and valkyries by Frølich",
+    "artist": "Lorenz Frølich",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 683
+  }
+}

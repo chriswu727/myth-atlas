@@ -1,0 +1,107 @@
+{
+  "id": "tlaloc",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "特拉洛克",
+    "en": "Tlaloc",
+    "original": "Tlāloc",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "雨神，闪电与丰饶之主",
+    "en": "God of Rain, Lightning, and Fertility"
+  },
+  "summary": {
+    "zh": "雨神，戴环眼面具、露美洲豹獠牙。掌管雨水与闪电，麾下四方雨僮持罐洒雨；溺亡与雷击者归他的常青乐土特拉洛坎。",
+    "en": "The rain god, masked with goggle eyes and jaguar fangs. His helpers pour rain from jars at the four directions; those killed by water or lightning go to his green paradise, Tlalocan."
+  },
+  "description": {
+    "zh": "特拉洛克是墨西哥谷地最古老的神祇之一，早在特奥蒂瓦坎与托尔特克时代便有崇拜，阿兹特克人沿承其形象：双眼环着由蛇身盘成的圆圈，口露美洲豹獠牙，面涂蓝黑，头戴苍鹭羽冠。他掌管雨、闪电与冰雹，麾下的雨僮\"特拉洛克众\"（Tlaloque）居于四方山巅，以陶罐盛雨，罐破即为雷鸣；四方之雨各有颜色，东方之雨滋养作物，其余方向的雨挟霜霉与旱蝗。第三太阳纪由他任太阳，终结于一场火雨。\n\n溺亡者、被雷击者与死于水肿等\"水病\"的人不入死界米克特兰，而归特拉洛克的乐土特拉洛坎——那里四季常青，玉米、南瓜与苋菜取用不竭；这类死者不火化而行土葬。他在大神庙与维齐洛波奇特利分庭而祀，占据北半座神殿：雨与战争、丰饶与征服，是帝国的两大支柱。\n\n每年旱季的阿特尔卡瓦洛等祭月，祭司以幼童献于山巅诸圣所，孩童啼哭被视为丰雨的先兆——《佛罗伦萨手抄本》对此有直白的记载。墨西哥城以东约4120米高的特拉洛克山顶建有他的露天圣所，一条长石道通向围院，是美洲现存海拔最高的考古祭祀遗址之一；1964年，一尊重约168吨的未完成古代雨神巨像从科阿特林昌村迁至墨西哥国立人类学博物馆门前，至今立在那里。",
+    "en": "Tlaloc is among the oldest gods of the Valley of Mexico, worshipped at Teotihuacan and Tula long before the Aztecs inherited his mask: rings of coiled serpents around the eyes, jaguar fangs at the mouth, face painted blue-black beneath a heron-feather crest. He commands rain, lightning, and hail through the Tlaloque, his dwarfish helpers who dwell on the mountaintops of the four directions and pour rain from clay jars — thunder is the crack of a breaking jar. The rains of the four quarters differ: the eastern rain feeds the crops, while the others carry frost, blight, and drought. Tlaloc ruled the Third Sun, the age that ended in a rain of fire.\n\nThe drowned, the lightning-struck, and those dead of dropsy and other watery diseases bypassed Mictlan for Tlalocan, his evergreen paradise of endless maize, squash, and amaranth; such dead were buried rather than cremated. At the Templo Mayor his northern shrine stood beside Huitzilopochtli's southern one — rain and war, the empire's two pillars, sharing a single pyramid.\n\nIn the dry-season festival of Atlcahualo, priests offered small children at mountain sanctuaries, and their tears were read as an omen of abundant rain; the Florentine Codex records the rite without euphemism. On the summit of Mount Tlaloc, about 4,120 meters above sea level east of Mexico City, a stone causeway still leads into his walled open-air precinct, one of the highest archaeological shrines in the Americas. Since 1964 a colossal unfinished statue of the rain god from Coatlinchan, weighing some 168 tons, has stood before the National Museum of Anthropology in Mexico City."
+  },
+  "domains": {
+    "zh": [
+      "雨水",
+      "闪电",
+      "丰饶",
+      "山岳"
+    ],
+    "en": [
+      "Rain",
+      "Lightning",
+      "Fertility",
+      "Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Iconography"
+      },
+      "value": {
+        "zh": "蛇环眼、美洲豹獠牙、蓝黑面色",
+        "en": "Goggle eyes of coiled serpents, jaguar fangs, blue-black face"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Realm"
+      },
+      "value": {
+        "zh": "常青乐土特拉洛坎",
+        "en": "Tlalocan, the evergreen paradise"
+      }
+    },
+    {
+      "label": {
+        "zh": "随从",
+        "en": "Attendants"
+      },
+      "value": {
+        "zh": "四方雨僮特拉洛克众",
+        "en": "The Tlaloque, rain-pourers of the four directions"
+      }
+    }
+  ],
+  "related": [
+    "huitzilopochtli",
+    "five-suns",
+    "tenochtitlan",
+    "quetzalcoatl"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第一、二卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Books 1–2"
+    },
+    {
+      "zh": "《博尔吉亚手抄本》",
+      "en": "Codex Borgia"
+    },
+    {
+      "zh": "《诸太阳传说》（《奇马尔波波卡手抄本》，1558年）",
+      "en": "Leyenda de los Soles (Codex Chimalpopoca, 1558)"
+    }
+  ],
+  "geo": {
+    "lat": 19.409,
+    "lon": -98.714,
+    "label": {
+      "zh": "特拉洛克山顶圣所",
+      "en": "Summit shrine of Mount Tlaloc"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tlaloc.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tlaloc,_God_of_the_Rain,_Thunder,_Earthquakes;_Codex_Borgia.jpg",
+    "sourceTitle": "Tlaloc, God of the Rain, Thunder, Earthquakes; Codex Borgia",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 952
+  }
+}

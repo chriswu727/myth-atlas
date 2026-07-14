@@ -1,0 +1,94 @@
+{
+  "id": "hel",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "赫尔",
+    "en": "Hel",
+    "original": "Hel",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "死者之国的女主人",
+    "en": "Queen of the Realm of the Dead"
+  },
+  "summary": {
+    "zh": "洛基之女，半边身体是活人肤色，半边青黑如尸。奥丁将她掷入雾之国尼福尔海姆，统辖所有病死与老死之人。",
+    "en": "Daughter of Loki, half living flesh and half corpse-dark. Cast by Odin into Niflheim, she rules all who die of sickness and old age."
+  },
+  "description": {
+    "zh": "赫尔是洛基与女巨人安格尔波达的女儿，巨狼芬里尔与大蛇耶梦加得的妹妹。《散文埃达》描述她半边身体是常人肤色，半边青黑，神情阴沉。诸神得知洛基这三个孩子将带来大祸，奥丁便将她掷入雾气弥漫的尼福尔海姆，交给她九界之中的死者之国：凡病死、老死者尽归她管辖，战死者则归瓦尔哈拉与弗尔克范格。\n\n她的居所处处以苦难命名：大殿叫埃琉德尼尔，意为「被雨雪打湿之所」；她的盘子叫「饥饿」，刀叫「饥馑」，仆人叫「行动迟缓」，门槛叫「绊倒的危险」，床叫「病榻」，床帏叫「闪烁的灾祸」。巴德尔死后，赫尔莫德骑斯莱普尼尔奔驰九夜、越过吉欧尔河的金桥来到她的殿堂求赎。她答应放人，条件是让世上万物为巴德尔同声一哭；一个女巨人拒绝落泪，巴德尔便永远留在了她的国度。\n\n她的名字在日耳曼语中即「隐藏之所」，与英语的 hell 同源；赫尔维提（Helvete）一词至今仍是斯堪的纳维亚诸语里「地狱」的常用词。",
+    "en": "Hel is the daughter of Loki and the giantess Angrboda, sister to the wolf Fenrir and the serpent Jormungandr. The Prose Edda describes her as half flesh-coloured and half blue-black, grim of face. When the gods learned what ruin Loki's three children would bring, Odin threw her down into the mists of Niflheim and gave her authority over the dead of the nine worlds: all who die of sickness or old age come to her, while the battle-slain go to Valhalla and Folkvangr.\n\nEverything in her household is named for misery. Her hall is Eljudnir, 'sprayed with sleet'; her dish is Hunger and her knife Famine; her servants are Ganglati and Ganglot, 'the slow-moving'; her threshold is Stumbling-block, her bed Sickbed, and its curtains Glimmering-bale. After Baldr's death, Hermod rode Sleipnir nine nights through dark valleys and over the gold-roofed bridge of the river Gjoll to plead before her throne. She agreed to release Baldr on one condition: that all things in the world weep for him. One giantess refused, and Baldr stayed in her realm.\n\nHer name in the Germanic tongues means 'the hidden place' and is cognate with the English word hell; Helvete remains the everyday word for hell in the Scandinavian languages."
+  },
+  "domains": {
+    "zh": [
+      "死亡",
+      "冥界",
+      "疾病与衰老"
+    ],
+    "en": [
+      "Death",
+      "The Underworld",
+      "Sickness and Age"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出身",
+        "en": "Parentage"
+      },
+      "value": {
+        "zh": "洛基与安格尔波达之女",
+        "en": "Daughter of Loki and Angrboda"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "尼福尔海姆的埃琉德尼尔殿",
+        "en": "Eljudnir hall in Niflheim"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "半边活人肤色，半边青黑",
+        "en": "Half living flesh, half corpse-dark"
+      }
+    }
+  ],
+  "related": [
+    "loki",
+    "fenrir",
+    "jormungandr",
+    "baldr",
+    "odin"
+  ],
+  "sources": [
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    },
+    {
+      "zh": "《诗体埃达·格里姆尼尔之歌》",
+      "en": "Poetic Edda: Grimnismal"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hel.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hel_(1889)_by_Johannes_Gehrts.jpg",
+    "sourceTitle": "Hel (1889) by Johannes Gehrts",
+    "artist": "Johannes Gehrts",
+    "license": "Public domain",
+    "width": 653,
+    "height": 1000
+  }
+}

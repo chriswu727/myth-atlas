@@ -1,0 +1,102 @@
+{
+  "id": "uluru",
+  "tradition": "aboriginal",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "乌鲁鲁",
+    "en": "Uluru",
+    "original": "Uluṟu",
+    "originalLang": "皮坚加加拉语"
+  },
+  "title": {
+    "zh": "沙漠中央的律法之岩",
+    "en": "The Rock of Law at the Desert's Heart"
+  },
+  "summary": {
+    "zh": "中部沙漠的巨型砂岩独石，阿南古人的楚库尔帕圣地：岩身的沟壑与洞穴被读作蟒蛇女库尼亚与毒蛇武士利鲁大战等叙事的实录。",
+    "en": "The great sandstone monolith of the Central Desert, sacred under Anangu Tjukurpa: its gullies and caves are read as the physical record of the battle between Kuniya the python woman and the Liru venom-snake warriors."
+  },
+  "description": {
+    "zh": "乌鲁鲁高出周围沙原约348米，周长约9.4公里，整块粗粒砂岩在日出日落时由赭红转为深紫。对传统所有者阿南古人（皮坚加加拉与扬库尼加加拉人）而言，整块岩体是楚库尔帕的正文：岩体的每道沟槽、水潭与洞穴都对应一段梦创叙事，沿岩壁行走即是沿着叙事行走。\n\n流传最广的公开叙事是库尼亚与利鲁之战：沃玛蟒女库尼亚带着蛋从东方远道而来，把蛋安放在岩顶；她的侄儿被一队利鲁毒蛇武士围杀，库尼亚在穆提朱鲁水潭边与为首的利鲁武士对决，以掘杖两击其首。岩壁上两道深长的裂槽被指认为她的杖痕，附近的圆石是散落的蛋，水潭上方蜿蜒的暗纹即是化入岩石的库尼亚本身。穆提朱鲁水潭至今被视为她与虹蛇类存在瓦纳姆皮的居处，来客须保持安静。另一组公开叙事讲述马拉袋鼠人在此举行仪式时遭魔犬库尔帕尼袭击，岩体西北面的洞穴群便是马拉人的营地。\n\n测绘员威廉·戈斯1873年以时任南澳首席秘书亨利·艾尔斯之名称其为“艾尔斯岩”。1985年10月26日，澳大利亚联邦政府将乌鲁鲁产权正式交还阿南古人，再由其回租为国家公园共同管理；应传统所有者多年呼吁，攀登线路于2019年10月26日永久关闭。乌鲁鲁与邻近的卡塔丘塔同列世界文化与自然双重遗产，是澳洲原住民土地权运动最著名的象征。",
+    "en": "Uluru rises about 348 metres above the surrounding sandplain, roughly 9.4 kilometres around, a single mass of coarse sandstone that shifts from ochre red to deep violet at dawn and dusk. To its traditional owners, the Anangu — Pitjantjatjara and Yankunytjatjara people — the whole rock is the text of Tjukurpa: every gully, pool, and cave on the rock corresponds to a Dreaming narrative, and to walk its base is to walk the story.\n\nThe most widely shared public narrative is the battle of Kuniya and Liru. Kuniya, the woma python woman, carried her eggs from far in the east and set them on top of the rock. When a war party of Liru, the venomous-snake warriors, killed her nephew, Kuniya met their leader beside the Mutitjulu waterhole and struck him twice on the head with her digging stick. Two long vertical clefts in the rock face are read as the blows; rounded boulders nearby are the scattered eggs; the dark sinuous stain above the pool is Kuniya herself, passed into the stone. Mutitjulu is held to be the home of Kuniya and of Wanampi, a rainbow-serpent being, and visitors are asked to keep quiet there. Another public cycle tells how the Mala wallaby people were attacked mid-ceremony by the devil-dog Kurpany; the caves on the north-west face are their camps.\n\nThe surveyor William Gosse named it Ayers Rock in 1873 after Sir Henry Ayers, then Chief Secretary of South Australia. On 26 October 1985 the Commonwealth returned title to the Anangu, who lease it back as a jointly managed national park, and on 26 October 2019, after decades of requests by the traditional owners, the climbing route was permanently closed. With neighbouring Kata Tjuta, Uluru is World Heritage listed for both culture and nature, and stands as the best-known emblem of the Aboriginal land rights movement."
+  },
+  "geo": {
+    "lat": -25.345,
+    "lon": 131.036,
+    "label": {
+      "zh": "乌鲁鲁（北领地）",
+      "en": "Uluru, Northern Territory"
+    }
+  },
+  "domains": {
+    "zh": [
+      "圣地",
+      "楚库尔帕",
+      "地景叙事",
+      "土地权"
+    ],
+    "en": [
+      "Sacred site",
+      "Tjukurpa",
+      "Landscape narrative",
+      "Land rights"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "传统所有者",
+        "en": "Traditional owners"
+      },
+      "value": {
+        "zh": "阿南古人（皮坚加加拉、扬库尼加加拉）",
+        "en": "Anangu (Pitjantjatjara and Yankunytjatjara)"
+      }
+    },
+    {
+      "label": {
+        "zh": "体量",
+        "en": "Scale"
+      },
+      "value": {
+        "zh": "高约348米，周长约9.4公里",
+        "en": "About 348 m high, 9.4 km around"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键年份",
+        "en": "Key dates"
+      },
+      "value": {
+        "zh": "1985年产权交还；2019年永久禁攀",
+        "en": "Handback in 1985; climb permanently closed in 2019"
+      }
+    }
+  ],
+  "related": [
+    "the-dreaming",
+    "rainbow-serpent",
+    "seven-sisters"
+  ],
+  "sources": [
+    {
+      "zh": "查尔斯·芒特福德《艾尔斯岩：那里的人、信仰与艺术》（1965）",
+      "en": "Charles P. Mountford, Ayers Rock: Its People, Their Beliefs and Their Art (1965)"
+    },
+    {
+      "zh": "乌鲁鲁-卡塔丘塔国家公园官方楚库尔帕解说材料（阿南古人与澳大利亚公园局共同发布）",
+      "en": "Official Tjukurpa interpretive materials of Uluru-Kata Tjuta National Park (published jointly by Anangu and Parks Australia)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/uluru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru_--_2019_--_3688.jpg",
+    "sourceTitle": "Petermann Ranges (AU), Uluru-Kata Tjuta National Park, Uluru -- 2019 -- 3688",
+    "artist": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 666
+  }
+}

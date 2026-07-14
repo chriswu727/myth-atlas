@@ -1,0 +1,91 @@
+{
+  "id": "hopkinsville-goblins",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "霍普金斯维尔小妖精",
+    "en": "Hopkinsville Goblins"
+  },
+  "title": {
+    "zh": "围攻肯塔基农舍的银色小生物",
+    "en": "The Silvery Little Beings That Besieged a Kentucky Farmhouse"
+  },
+  "summary": {
+    "zh": "1955年8月21日夜，肯塔基州凯利村萨顿家农舍称遭一群约一米高、大耳发光眼的银色小生物「围攻」数小时，枪击无效，十一人深夜逃进警局报案。",
+    "en": "On the night of August 21, 1955, the Sutton farmhouse at Kelly, Kentucky reported hours under \"siege\" by meter-tall silvery beings with huge ears and glowing eyes that shrugged off gunfire; eleven people fled to the police station."
+  },
+  "description": {
+    "zh": "1955年8月21日晚，肯塔基州霍普金斯维尔市以北的凯利村，萨顿家农舍聚着两家人共十一口。做客的比利·雷·泰勒出门打水，回来说看见一个发光的物体落进附近的干河沟，没人当真。一小时后，院子里的狗狂吠起来，两名男子持枪出门，看见一个约一米高的生物走近：银色的金属光泽，过大的头颅，巨大的尖耳，发光的黄色眼睛，细长的手臂垂着利爪。他们开枪，声音「像子弹打在铁桶上」，那东西翻滚着退进黑暗。此后数小时，类似的生物反复出现在窗口、屋顶和树上——一只从屋檐伸爪抓向出门人的头发——枪击始终无效。午夜前后，十一人挤进两辆车逃到霍普金斯维尔警察局。\n\n警长带队连夜搜查，只找到弹孔、破窗和一块发光的草地痕迹（后被认为无关），没有生物的踪迹；凌晨警察撤走后，萨顿家称生物再次出现直到黎明。《肯塔基新纪元报》次日头版报道，事件迅速传遍全国。萨顿家从未借此牟利，反而因看热闹的人群不堪其扰。美国空军从未派员实地调查；1978年，Isabel Davis与Ted Bloecher出版详尽的调查报告《凯利及1955年其他近距离接触》，成为此案的标准文献。\n\n怀疑论解释以大雕鸮说最有力：两只护巢的大雕鸮在夜色中被酒精与恐慌放大——但目击者坚称当晚无人饮酒。这桩「小绿人」事件（媒体转述中生物被染成了绿色）深刻影响了流行文化：「little green men」一词因此风行，斯皮尔伯格的早期项目与《E.T.》《小精灵》都被追认受其启发，凯利村如今每年八月举办「小绿人节」。",
+    "en": "On the evening of August 21, 1955, eleven people of two families were gathered at the Sutton farmhouse in Kelly, north of Hopkinsville, Kentucky. Billy Ray Taylor, a visiting friend, went out for water and returned saying a glowing object had dropped into a nearby gully; nobody believed him. An hour later the dog began barking, and two armed men stepped outside to meet a creature about a meter tall walking toward the house: silvery metallic sheen, oversized head, huge pointed ears, glowing yellow eyes, long thin arms ending in claws. They fired; it sounded like bullets striking a metal drum, and the thing flipped over and scuttled into the dark. For hours, similar beings appeared at windows, on the roof, in the trees — one reached down from the eaves and raked at a man's hair — and gunfire accomplished nothing. Around midnight all eleven crowded into two cars and fled to the Hopkinsville police station.\n\nThe chief led officers back that night and found bullet holes, broken windows, and a luminous patch of grass, but no creatures; after the police left near dawn, the family said the beings returned until first light. The Kentucky New Era ran the story on its front page, and it went national within days. The Suttons never sought money from the tale and were instead plagued by sightseers. The Air Force never sent investigators to the farm; the standard account is Isabel Davis and Ted Bloecher's exhaustive 1978 report Close Encounter at Kelly and Others of 1955.\n\nThe strongest skeptical reading blames a pair of nest-defending great horned owls magnified by darkness and panic, though witnesses insisted no one had been drinking. The case supercharged the phrase \"little green men\" — the beings turned green in retellings — influenced films from E.T. to Gremlins by way of Spielberg lore, and Kelly now throws a Little Green Men festival every August."
+  },
+  "domains": {
+    "zh": [
+      "农舍围攻",
+      "UFO接触事件",
+      "集体目击",
+      "小绿人"
+    ],
+    "en": [
+      "Farmhouse siege",
+      "UFO encounter",
+      "Group sighting",
+      "Little green men"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "事发之夜",
+        "en": "The night"
+      },
+      "value": {
+        "zh": "1955年8月21日至22日，凯利村萨顿家",
+        "en": "August 21-22, 1955, the Sutton farm at Kelly"
+      }
+    },
+    {
+      "label": {
+        "zh": "目击者",
+        "en": "Witnesses"
+      },
+      "value": {
+        "zh": "两家共十一人，含七名成人",
+        "en": "Eleven people of two families, seven of them adults"
+      }
+    },
+    {
+      "label": {
+        "zh": "通行解释",
+        "en": "Leading explanation"
+      },
+      "value": {
+        "zh": "护巢的大雕鸮",
+        "en": "Territorial great horned owls"
+      }
+    }
+  ],
+  "related": [
+    "flatwoods-monster",
+    "dover-demon"
+  ],
+  "sources": [
+    {
+      "zh": "《肯塔基新纪元报》1955年8月报道",
+      "en": "Kentucky New Era coverage, August 1955"
+    },
+    {
+      "zh": "Isabel Davis、Ted Bloecher《凯利及1955年其他近距离接触》（CUFOS，1978）",
+      "en": "Isabel Davis and Ted Bloecher, Close Encounter at Kelly and Others of 1955 (CUFOS, 1978)"
+    }
+  ],
+  "geo": {
+    "lat": 36.92,
+    "lon": -87.47,
+    "label": {
+      "zh": "肯塔基州凯利村",
+      "en": "Kelly, Kentucky"
+    }
+  },
+  "image": null
+}

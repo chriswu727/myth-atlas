@@ -1,0 +1,101 @@
+{
+  "id": "izanagi",
+  "tradition": "japanese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊邪那岐",
+    "en": "Izanagi",
+    "original": "伊邪那岐命（いざなぎのみこと）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "生成国土与诸神的创世男神",
+    "en": "Creator God Who Fathered the Islands and the Gods"
+  },
+  "summary": {
+    "zh": "开辟神话中的男神，与伊邪那美搅海造岛、生国生神；赴黄泉寻妻失败后洗涤污秽，生出天照、月读、须佐之男三贵子。",
+    "en": "The male creator who stirred the sea into islands with Izanami and fathered the land and its gods; after a failed descent to the underworld, his purification produced the three noble children."
+  },
+  "description": {
+    "zh": "伊邪那岐与妹妹伊邪那美受天神之命修固国土，二神立于天浮桥上，以天沼矛搅动海水，矛尖滴下的盐凝成淤能碁吕岛。他们降到岛上竖起天御柱成婚，因女方先开口而首胎生下不成形的水蛭子，置于苇舟中放流；重行仪式后依次生下大八岛，即日本列岛，又生出山川草木与诸多神明。\n\n伊邪那美因产下火神迦具土被烧死。伊邪那岐悲愤之下斩杀迦具土，随后亲赴黄泉之国寻妻。妻子请他等候、切勿窥视，他却折下发梳的粗齿点火照看，只见妻子遍体蛆虫、身上盘着八尊雷神。他夺路而逃，以桃子击退追兵，在黄泉比良坂用千引岩堵住通路，与妻子隔岩绝缘。回到日向的阿波岐原，他下水洗濯黄泉的污秽，洗左眼生天照大神，洗右眼生月读命，洗鼻子生须佐之男，这次禊祓也被奉为神道祓禊仪礼的起源。\n\n《古事记》记他功成后镇坐于「淡海之多贺」，《日本书纪》一书则说他在淡路岛构筑幽宫隐去；近江的多贺大社与淡路的伊弉诺神宫都据此奉他为主祭神。",
+    "en": "Commanded by the primordial gods to give form to the drifting land, Izanagi stood with his sister Izanami on the Floating Bridge of Heaven and churned the sea with the jeweled spear Ame-no-Nuboko; brine dripping from its tip piled up into the island Onogoro. Descending there, the pair wed by circling a heavenly pillar. Their first child, the boneless leech-child Hiruko, born after the woman spoke first in the rite, was set adrift in a reed boat; once the ritual was corrected they bore the eight great islands of Japan and a host of deities of mountains, rivers, and winds.\n\nIzanami died giving birth to the fire god Kagutsuchi, whom Izanagi cut down in grief. He then followed his wife to Yomi, the land of the dead. Told to wait without looking, he lit a tooth of his comb and saw her body seething with maggots, eight thunder gods coiled upon it. He fled, pelting his pursuers with peaches, and sealed the pass of Yomotsu Hirasaka with a thousand-man boulder, pronouncing their divorce across it. Bathing away the pollution of death in a river in Hyuga, he brought forth Amaterasu from his left eye, Tsukuyomi from his right, and Susanoo from his nose, a purification honored as the origin of Shinto ablution rites.\n\nThe Kojiki settles him at Taga, and both Taga Taisha in Omi and Izanagi Jingu on Awaji Island claim him as their enshrined god."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "国土生成",
+      "禊祓"
+    ],
+    "en": [
+      "Creation",
+      "Island-making",
+      "Purification"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "神器",
+        "en": "Implement"
+      },
+      "value": {
+        "zh": "天沼矛",
+        "en": "The jeweled spear Ame-no-Nuboko"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "伊邪那美",
+        "en": "Izanami"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要神社",
+        "en": "Principal shrines"
+      },
+      "value": {
+        "zh": "伊弉诺神宫（淡路）、多贺大社（近江）",
+        "en": "Izanagi Jingu on Awaji; Taga Taisha in Omi"
+      }
+    }
+  ],
+  "related": [
+    "izanami",
+    "amaterasu",
+    "tsukuyomi",
+    "susanoo"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "geo": {
+    "lat": 34.46,
+    "lon": 134.85,
+    "label": {
+      "zh": "伊弉诺神宫（兵库县淡路岛）",
+      "en": "Izanagi Jingu (Awaji Island, Hyogo)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/izanagi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kobayashi_Izanami_and_Izanagi.jpg",
+    "sourceTitle": "Kobayashi Izanami and Izanagi",
+    "artist": "Originally uploaded on sv:wiki 10 April 2005 kl.18.50 by Lamré",
+    "license": "Public domain",
+    "width": 453,
+    "height": 1000
+  }
+}

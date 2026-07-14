@@ -1,0 +1,82 @@
+{
+  "id": "du-gu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "独𤞞",
+    "en": "Dugu"
+  },
+  "title": {
+    "zh": "犬首马尾的白身之虎",
+    "en": "The White-Bodied Tiger with a Dog's Head and a Horse's Tail"
+  },
+  "summary": {
+    "zh": "北嚻之山的怪兽：虎的身形，通体白色，狗的脑袋，马的尾巴，颈背竖着猪鬃。名字的后一个字是为它造的僻字，郭璞注音“谷”。",
+    "en": "A beast of Beixiao Mountain: a tiger's frame, all white, with a dog's head, a horse's tail, and a boar's bristling mane. The second character of its name is a rare graph coined for it; Guo Pu glosses it 'gu'."
+  },
+  "description": {
+    "zh": "北次二经的北嚻之山是一座无石之山，南坡多碧玉，北坡多玉。山中有兽，大体是一只虎：虎的身架，通体白色，却安着一颗狗头，拖一条马尾，颈背上竖起猪鬃般的鬣毛，名叫独𤞞。经文对它的记载到此为止——不食人，不为兆，四种家常动物拼出一头无法归类的猛兽，站在无石的山上。\n\n它名字里的“𤞞”字，反犬旁加一个“谷”，是典型的《山海经》式造字：这个字在传世文献里几乎只为这头兽而存在，郭璞注其读音为“谷”。《山海经》中这样的孤僻字成群出没，后世字书如《玉篇》《集韵》收录它们时，释义往往只能写“兽名，出《山海经》”——字的生命完全系于兽，兽的证据又只剩一个字。\n\n同一座北嚻之山上还记有一种人面乌鸦模样的鸟。明清《山海经》图本为独𤞞造像时，通常画作白虎之身、垂马尾、竖鬣，唯狗头画得温顺，与虎身不成比例，反倒坐实了这头兽的别扭：它的每个零件都眼熟，合起来却谁也没见过。",
+    "en": "Beixiao Mountain, in the second guideway of the Northern Mountains, is a mountain without stones, carrying green jade on its southern face and jade on its northern. Its beast is, in outline, a tiger: a tiger's frame, entirely white, but fitted with a dog's head, trailing a horse's tail, with a boar's mane bristling along its neck. It is called the dugu, and there the record stops — it eats no one and portends nothing. Four household animals assembled into one unclassifiable predator, standing on a stoneless mountain.\n\nThe second character of its name, a 'dog' radical beside the graph for 'valley', is a coinage of the classic's own type: in the transmitted corpus the character exists almost solely for this animal, and Guo Pu's commentary supplies its reading, 'gu'. Such orphan graphs swarm through the Classic of Mountains and Seas, and when later dictionaries like the Yupian and Jiyun collected them, the definition could only read 'name of a beast; see the Classic of Mountains and Seas' — the character's life depending entirely on the beast, and the beast's evidence reduced to a character.\n\nMing and Qing illustrated editions usually draw the dugu as a white tiger with a drooping horse's tail and raised bristles, the dog's head rendered oddly mild and undersized against the feline body — which only confirms the animal's awkwardness: every part of it is familiar, and the whole has never been seen."
+  },
+  "domains": {
+    "zh": [
+      "拼合兽",
+      "白虎之形",
+      "僻字",
+      "北山"
+    ],
+    "en": [
+      "Composite Beasts",
+      "White Tigers",
+      "Orphan Characters",
+      "Northern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "虎身白色，犬首，马尾，彘鬣",
+        "en": "White tiger's body, dog's head, horse's tail, boar's mane"
+      }
+    },
+    {
+      "label": {
+        "zh": "名号",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "𤞞为专造僻字，郭璞注音谷",
+        "en": "The graph was coined for it; Guo Pu glosses the reading as 'gu'"
+      }
+    }
+  ],
+  "related": [
+    "pao-xiao",
+    "zhu-jian",
+    "tian-ma"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（北次二经·北嚻之山）及郭璞注",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Beixiao Mountain), with Guo Pu's commentary"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/du-gu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8D%A8%F0%A4%9E%9E.jpg",
+    "sourceTitle": "獨𤞞",
+    "artist": "明朝胡文煥",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 551
+  }
+}

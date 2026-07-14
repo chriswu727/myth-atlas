@@ -1,0 +1,97 @@
+{
+  "id": "ghoul",
+  "tradition": "arabian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "古尔",
+    "en": "Ghoul",
+    "original": "غول",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "荒漠中变形食人的女妖",
+    "en": "The shapeshifting man-eater of the desert"
+  },
+  "summary": {
+    "zh": "阿拉伯荒漠中的变形食人妖，常作女身，诱使独行旅人偏离道路后吞食，也在坟地掘尸而食。前伊斯兰诗人塔阿巴塔·沙兰自称杀过一只，英语 ghoul 一词即由它而来。",
+    "en": "A shapeshifting man-eater of the Arabian desert, often female, luring lone travellers off the road to devour them, or digging up graves. The pre-Islamic poet Ta'abbata Sharran claimed to have killed one; English 'ghoul' derives from its name."
+  },
+  "description": {
+    "zh": "古尔（ghūl）的词根意为“攫取、毁灭”。它栖息在旷野与废墟，善变形，最常化作女子在夜路上向落单的旅人招手，或者燃起假篝火引人偏离商道，待人走近便现出原形撕食；另一类说法让它盘踞坟地，掘开新坟啃食尸体。古典记载里它的形貌不定，但常提到一处破绽——一双驴蹄，无论怎样变形都藏不住。雄性称库特鲁卜（qutrub），而与古尔近似的女妖西拉（si'la）被认为更狡黠难缠。\n\n最著名的古尔故事出自前伊斯兰时代的强盗诗人塔阿巴塔·沙兰（约六世纪）：他在诗中自述夜行遇古尔纠缠，挥剑将其斩杀，倒卧其上直到天明，细看那头颅如猫、舌头分叉、腿似畸胎、背毛如犬。这几行诗被视为阿拉伯文学中怪物搏斗的名场面。伊斯兰兴起后，一则圣训称“世上没有古尔”，学者多解释为否认其迷路致死的能力而非其存在，民间的恐惧照旧流传。\n\n《一千零一夜》里古尔一族频频出场，加朗译本中“西迪·努曼的故事”写丈夫夜里尾随妻子，发现她与古尔坐在坟间分食尸体。经加朗法译本与贝克福德的东方小说《瓦提克》（1786），ghoul 进入英语，最终泛指一切食尸鬼，也让“盗墓者”“灾祸看客”都沾上了它的名字。",
+    "en": "The ghul takes its name from a root meaning to seize and destroy. It haunts wastelands and ruins, a shapeshifter that most often becomes a woman beckoning to lone travellers on night roads, or kindles false campfires to draw caravans off the track, tearing into its victims once they stray close. Another strain of the tradition makes it a graveyard creature that digs up fresh burials to eat the dead. Its shape is unstable, but classical accounts give it one tell that no disguise conceals: the hooves of a donkey. The male is called qutrub, and the si'la, a kindred desert witch, was reckoned even more cunning.\n\nThe most famous encounter belongs to the sixth-century brigand-poet Ta'abbata Sharran, who claims in verse to have met a ghul on a night journey, cut it down with his sword, and lain upon the corpse until dawn: a head like a cat's, a forked tongue, legs like a misshapen foetus, the bristled back of a dog. After the rise of Islam a hadith declared 'there is no ghul'; scholars mostly read this as denying its power to lead men astray rather than its existence, and the fear survived in folk practice regardless.\n\nGhouls recur throughout the Thousand and One Nights; in Galland's version of the story of Sidi Nu'man, a husband follows his wife by night and finds her sharing a corpse with a ghul among the graves. Through Galland's French and William Beckford's oriental novel Vathek (1786), the word entered English, widening into a general term for corpse-eaters, grave-robbers and gawkers at disaster."
+  },
+  "domains": {
+    "zh": [
+      "食人",
+      "变形",
+      "坟地",
+      "夜路"
+    ],
+    "en": [
+      "Man-eating",
+      "Shapeshifting",
+      "Graveyards",
+      "Night roads"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "破绽",
+        "en": "Tell"
+      },
+      "value": {
+        "zh": "变形也藏不住的一双驴蹄",
+        "en": "Donkey hooves that no disguise conceals"
+      }
+    },
+    {
+      "label": {
+        "zh": "猎场",
+        "en": "Hunting ground"
+      },
+      "value": {
+        "zh": "夜间商道、废墟、坟地",
+        "en": "Night caravan roads, ruins, graveyards"
+      }
+    },
+    {
+      "label": {
+        "zh": "名场面",
+        "en": "Famous encounter"
+      },
+      "value": {
+        "zh": "诗人塔阿巴塔·沙兰自述斩杀古尔",
+        "en": "Ta'abbata Sharran's verses on slaying a ghul"
+      }
+    }
+  ],
+  "related": [
+    "jinn",
+    "ifrit"
+  ],
+  "sources": [
+    {
+      "zh": "塔阿巴塔·沙兰咏古尔诗（约6世纪，前伊斯兰诗歌）",
+      "en": "Ta'abbata Sharran's ghul verses, pre-Islamic poetry, c. 6th century"
+    },
+    {
+      "zh": "《一千零一夜》加朗法译本“西迪·努曼的故事”（1712）",
+      "en": "'The Story of Sidi Nu'man', in Antoine Galland's Les mille et une nuits, 1712"
+    },
+    {
+      "zh": "威廉·贝克福德《瓦提克》（1786，ghoul 一词进入英语的途径之一）",
+      "en": "William Beckford, Vathek, 1786, a channel for the word's entry into English"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ghoul.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amine_Discovered_with_the_Goule.jpg",
+    "sourceTitle": "Amine Discovered with the Goule",
+    "artist": "R. Smirke, Esq., R.A. Digitized by Google Books.",
+    "license": "Public domain",
+    "width": 690,
+    "height": 1000
+  }
+}

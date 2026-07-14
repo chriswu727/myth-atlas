@@ -1,0 +1,95 @@
+{
+  "id": "qi-gong-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "奇肱国",
+    "en": "Land of Qigong"
+  },
+  "title": {
+    "zh": "一臂三目、能造飞车的巧匠之国",
+    "en": "One-Armed, Three-Eyed Makers of the Flying Chariot"
+  },
+  "summary": {
+    "zh": "海外西经所记之国，其民一臂三目，乘文马。《博物志》说他们善造机巧，曾造飞车乘风远行，飞至商汤治下的豫州。",
+    "en": "A western country of one-armed, three-eyed people who ride patterned horses. The Bowuzhi credits them with ingenious machines, including a wind-riding flying chariot that once drifted all the way to Tang's domain."
+  },
+  "description": {
+    "zh": "《海外西经》记：\"奇肱之国在其北，其人一臂三目，有阴有阳，乘文马。\"奇肱国人只有一条手臂，脸上却生三只眼，眼分阴阳；他们骑一种带花纹的马。郭璞注说这种文马白身朱鬣，目若黄金，即吉量之马。\n\n让这个国家留名的是他们的手艺。张华《博物志》记：奇肱民善作机巧，用机关捕杀百禽；他们造出飞车，能乘风远行。商汤的时代刮起西风，把奇肱人的飞车一路吹到豫州地界。汤下令砸毁飞车，不让百姓看见这种奇物；过了十年东风起，汤命人重造飞车，送他们乘风归国——据说其国远在玉门关外四万里。一臂之民造出乘风的机械，三只眼睛看尽阴阳，这个条目常被今天的读者半开玩笑地称作中国古籍里最早的\"飞行器\"记录。",
+    "en": "The Classic of Regions Beyond the Seas: West gives the people of Qigong a single arm and three eyes apiece, the eyes divided into yin and yang, and mounts them on patterned horses; Guo Pu's commentary identifies the mount as the jiliang, a white horse with a scarlet mane and eyes like gold.\n\nTheir fame rests on their hands. Zhang Hua's Bowuzhi (3rd century) calls them master builders of ingenious devices who take birds with mechanical traps, and tells the story that fixed them in the tradition: they built a flying chariot that rides the wind. In the days of Tang, founder of the Shang dynasty, a west wind blew one such chariot across the sky to Yuzhou in the Chinese heartland. Tang had the machine smashed rather than let his people see it; ten years later, when an east wind rose, he had it rebuilt and sent the stranded travelers gliding home, to a country said to lie forty thousand li beyond the Jade Gate. Modern readers like to cite the episode, half in jest, as the earliest flying machine in a Chinese text."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "机巧",
+      "飞车",
+      "三目"
+    ],
+    "en": [
+      "Far Lands",
+      "Ingenious Devices",
+      "Flying Chariots",
+      "Three Eyes"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "一臂三目，有阴有阳",
+        "en": "One arm, three eyes of yin and yang"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "文马（白身朱鬣的吉量）",
+        "en": "The jiliang, a patterned white horse with scarlet mane"
+      }
+    },
+    {
+      "label": {
+        "zh": "绝技",
+        "en": "Craft"
+      },
+      "value": {
+        "zh": "造飞车，乘风远行",
+        "en": "Flying chariots that ride the wind"
+      }
+    }
+  ],
+  "related": [
+    "san-shou-guo",
+    "xing-tian"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外西经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: West'"
+    },
+    {
+      "zh": "张华《博物志》",
+      "en": "Zhang Hua, Bowuzhi (Records of Diverse Matters)"
+    }
+  ],
+  "volume": {
+    "zh": "海外西经",
+    "en": "Classic of Regions Beyond the Seas: West"
+  },
+  "image": {
+    "file": "/images/entries/qi-gong-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic030_-_%E5%A5%87%E8%82%B1%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic030 - 奇肱國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 656,
+    "height": 1000
+  }
+}

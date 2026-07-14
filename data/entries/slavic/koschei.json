@@ -1,0 +1,90 @@
+{
+  "id": "koschei",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "科舍伊",
+    "en": "Koschei the Deathless",
+    "original": "Кощей Бессмертный",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "把死亡藏在针尖上的不死妖王",
+    "en": "The Deathless Sorcerer Whose Death Hides in a Needle"
+  },
+  "summary": {
+    "zh": "枯瘦如骨的不死妖王，惯于掳走故事里的新娘。他的死亡藏在体外：针在蛋中，蛋在鸭腹，鸭在兔身，兔在橡树旁的箱子里。",
+    "en": "The skeletal abductor of brides in Russian tales, deathless because his death lies outside his body: in a needle, inside an egg, a duck, a hare, in a chest by an oak."
+  },
+  "description": {
+    "zh": "科舍伊（全称\"不死的科舍伊\"）是俄罗斯魔法故事里的枯瘦妖王：一个瘦得只剩骨架的老头，坐拥成堆金银，惯于掳走主人公的新娘或母亲，他的名字常被联系到\"кость\"（骨头）一词。他的\"不死\"有一套固定机关——死亡藏在体外：针尖上，针在蛋里，蛋在鸭腹中，鸭在兔身里，兔关在箱中，箱子藏在远方海岛（一些异文明言是布扬岛）的橡树上或树下。只有拿到那枚蛋、折断针尖，他才会死。\n\n阿法纳西耶夫故事集里的《玛丽亚·莫列芙娜》是他最完整的登场：他本被女武士玛丽亚锁在密室，垂着十二条铁链，伊万王子不知就里给他喝了三桶水，他恢复神力挣断锁链，掳走玛丽亚。伊万三次救妻都被神马驮着的科舍伊追上，第三次被剁成碎块装进桶里抛入大海，靠鹰、鸦、隼三位连襟以活水死水救活，又到芭芭雅嘎处牧马三日赢得一匹瘦驹，终于追上科舍伊，马蹄踏碎他的头颅，尸体架在火上烧掉，骨灰随风扬尽。\n\n焚尸扬灰的结尾在各异文里反复出现——对付不死者必须除到灰烬。近代以来\"科舍伊\"在俄语里成了枯瘦老头和守财奴的代称；斯特拉文斯基芭蕾《火鸟》（1910）里的魔王卡谢伊即由他化出，其不死性被封在一枚巨蛋中，蛋碎而亡。",
+    "en": "Koschei the Deathless is the withered sorcerer-king of Russian wonder tales: an old man thin as a skeleton, sitting on heaps of gold, who carries off the hero's bride or mother. His name is usually connected with kost', \"bone.\" His deathlessness follows a fixed mechanism, for his death is kept outside his body: on the point of a needle, the needle inside an egg, the egg inside a duck, the duck inside a hare, the hare shut in a chest hidden in or under an oak on a far-off island, which some versions name as Buyan. Only when the needle's point is snapped does he die.\n\nHis fullest appearance is in \"Marya Morevna\" from Afanasyev's collection. Chained with twelve chains in a locked chamber by the warrior queen Marya, he is unwittingly revived when Prince Ivan gives him three buckets of water; he bursts his chains and abducts her. Three times Ivan steals her back and is overtaken by Koschei on his magic horse; the third time he is chopped to pieces, sealed in a barrel and thrown into the sea, then revived by his eagle, raven and falcon brothers-in-law with the waters of death and life. After herding Baba Yaga's mares for three days he earns a scraggy foal, finally outrides Koschei, and the sorcerer's skull is crushed under a hoof, his corpse burned and the ashes scattered on the wind.\n\nThat cremation ending recurs across the versions: the deathless must be destroyed down to ash. In modern Russian \"Koschei\" has become a byword for a gaunt old man or a miser, and the demon Kashchei of Stravinsky's ballet The Firebird (1910), whose immortality is sealed in a great egg, descends directly from him."
+  },
+  "domains": {
+    "zh": [
+      "不死",
+      "掳掠",
+      "财宝",
+      "巫术"
+    ],
+    "en": [
+      "Deathlessness",
+      "Abduction",
+      "Treasure",
+      "Sorcery"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "弱点",
+        "en": "Weakness"
+      },
+      "value": {
+        "zh": "藏于蛋中针尖的\"体外死亡\"",
+        "en": "External death on a needle inside an egg"
+      }
+    },
+    {
+      "label": {
+        "zh": "代表故事",
+        "en": "Signature tale"
+      },
+      "value": {
+        "zh": "《玛丽亚·莫列芙娜》",
+        "en": "\"Marya Morevna\""
+      }
+    },
+    {
+      "label": {
+        "zh": "词源",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "常联系俄语\"кость\"（骨头）",
+        "en": "Commonly linked to kost', \"bone\""
+      }
+    }
+  ],
+  "related": [
+    "baba-yaga",
+    "zhar-ptitsa",
+    "buyan"
+  ],
+  "sources": [
+    {
+      "zh": "阿法纳西耶夫《俄罗斯民间故事集》（1855-1863）",
+      "en": "Alexander Afanasyev, Russian Fairy Tales (Narodnye russkie skazki), 1855-63"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/koschei.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_Koshchey_big.jpeg",
+    "sourceTitle": "Ivan Bilibin Koshchey big",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 619
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "bo-shi",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "猼訑",
+    "en": "Boshi"
+  },
+  "title": {
+    "zh": "基山上九尾四耳、目生于背的怪羊",
+    "en": "Nine-Tailed, Four-Eared Goat-Beast with Eyes on Its Back"
+  },
+  "summary": {
+    "zh": "基山异兽，形状像羊，长九条尾巴、四只耳朵，眼睛长在背上；把它的皮毛佩在身上，人就不知恐惧。",
+    "en": "A beast of Mount Ji shaped like a goat, with nine tails, four ears, and eyes set on its back; wearing its hide was said to banish fear."
+  },
+  "description": {
+    "zh": "《南山经》记基山\"有兽焉，其状如羊，九尾四耳，其目在背，其名曰猼訑，佩之不畏\"。基山山南多玉，山北多怪木，山上还住着一种三首六目、六足三翼的怪鸟。猼訑的怪处全在器官的错位与冗余：羊的身子上叠出九条尾巴、四只耳朵，一双眼睛不长在脸上，偏偏开在脊背。\n\n\"佩之不畏\"是它存在的理由——把它的皮毛佩在身上，人就胆气充盈、无所畏惧。《山海经》的功效体系里，有治聋的旋龟、防迷惑的灌灌、宜子孙的鹿蜀，猼訑分管的则是恐惧。一头浑身是眼耳、时刻警觉的兽，皮毛却能让人心安，这条巫术逻辑颇为直白：兽替人长出了多余的耳目，佩者便不必再怕背后的暗处。明清图本多把它画成温顺的长毛羊，背上一对圆眼，是图卷里最惹人端详的形象之一。",
+    "en": "Mount Ji, jade-bearing on its southern slope and covered in strange trees to the north, is home to the boshi. The Classic of the Southern Mountains describes a beast shaped like a goat but with nine tails and four ears, its eyes set upon its back. Every organ is either doubled or displaced: the face is blind, while the spine keeps watch.\n\nIts reason for being lies in the closing formula, 'wear it and you will not fear'. In the book's economy of virtues — where the xuangui turtle guards hearing, the guanguan bird dispels confusion, and the lushu blesses descendants — the boshi holds the portfolio of courage. The magical logic is plain enough: a creature bristling with extra ears and back-mounted eyes is alertness incarnate, and whoever carries its hide borrows that vigilance, no longer fearing what stands behind him. Ming and Qing illustrated editions tend to draw it as a placid, shaggy goat with a pair of round eyes staring up from its back, one of the most quietly unsettling figures in the picture scrolls."
+  },
+  "domains": {
+    "zh": [
+      "怪羊",
+      "驱除恐惧",
+      "护身符"
+    ],
+    "en": [
+      "Goat-Beasts",
+      "Banishing Fear",
+      "Amulets"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "基山",
+        "en": "Mount Ji"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "九尾四耳，目在背",
+        "en": "Nine tails, four ears, eyes on its back"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "佩之不畏",
+        "en": "Wearing its hide banishes fear"
+      }
+    }
+  ],
+  "related": [
+    "lu-shu",
+    "guan-guan"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/bo-shi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic237_-_%E7%8C%BC%E8%A9%91%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic237 - 猼詑圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 672,
+    "height": 1000
+  }
+}

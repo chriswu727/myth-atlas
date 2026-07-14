@@ -1,0 +1,105 @@
+{
+  "id": "sigurd",
+  "tradition": "norse",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "齐格鲁德",
+    "en": "Sigurd",
+    "original": "Sigurðr",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "屠龙者，沃尔松格家族的英雄",
+    "en": "The Dragon-Slayer of the Volsung Line"
+  },
+  "summary": {
+    "zh": "北欧传说第一英雄：以重铸的宝剑格拉姆刺杀巨龙法夫尼尔，尝龙血而通鸟语，夺得带诅咒的宝藏，最终死于宫廷阴谋。",
+    "en": "Foremost hero of Norse legend: he killed the dragon Fafnir with the reforged sword Gram, tasted its blood and understood birds, won a cursed hoard, and died by treachery."
+  },
+  "description": {
+    "zh": "齐格鲁德出身沃尔松格家族，父亲西格蒙德战死时他尚未出生，由铁匠雷金抚养成人。雷金撺掇他去杀自己的兄弟——因守护黄金而化为巨龙的法夫尼尔——并两次锻剑皆断，最后以西格蒙德遗下的断剑残片重铸出宝剑格拉姆，锋利到能劈开砧铁。齐格鲁德先驾快船报了杀父之仇，随后依计在巨龙爬向水边的必经之路上掘坑藏身，待法夫尼尔爬过头顶时自下而上刺穿其心。\n\n烤龙心时他被溅出的龙血烫了拇指，含指入口，霎时听懂了枝头鸟语：鸟儿警告说雷金正盘算杀他灭口。齐格鲁德当即斩下雷金首级，吃了龙心，驮着宝藏离去——其中包括侏儒安德瓦利下过诅咒的指环安德瓦拉瑙特，凡持有者必遭毁灭。他策马穿过火环，唤醒沉睡的瓦尔基里，此后进入吉乌基王庭：被遗忘之酒抹去记忆，娶古德露恩为妻，又代大舅子贡纳尔变形闯火求娶布伦希尔德。谎言败露，布伦希尔德唆使兄弟们刺杀了他。诅咒一路应验，牵出整个家族的覆灭。\n\n瑞典拉姆松德石刻（约1030年）完整刻画了屠龙、尝血、闻鸟语诸场景。这一传说南传为德语《尼伯龙根之歌》的齐格弗里德，再经瓦格纳《尼伯龙根的指环》成为世界性的故事。",
+    "en": "Sigurd of the Volsung line was born after his father Sigmund fell in battle, and was fostered by the smith Regin. Regin goaded him to kill Fafnir, the smith's own brother, who had turned into a dragon brooding over a hoard of gold. Two swords shattered on the anvil before Regin reforged the shards of Sigmund's blade into Gram, so sharp it split the anvil itself. Sigurd first avenged his father, then dug a pit across the track the dragon used on its way to water and, as Fafnir crawled overhead, drove Gram up into its heart.\n\nRoasting the dragon's heart, he scalded his thumb in the blood, put it in his mouth, and at once understood the speech of birds, who warned that Regin meant to kill him. Sigurd struck off the smith's head, ate the heart, and rode away with the treasure, including the ring Andvaranaut, cursed by the dwarf Andvari to destroy every owner. He rode through a ring of fire to wake a sleeping valkyrie, then came to the court of the Gjukungs, where a potion of forgetfulness erased her from his memory; he married Gudrun and, exchanging shapes with his brother-in-law Gunnar, crossed the flames again to win Brynhild for another man. When the deception surfaced, Brynhild had him murdered, and the curse ran on to consume the whole family.\n\nThe Ramsund carving in Sweden, from about 1030, depicts the dragon-slaying scene by scene. The legend travelled south to become Siegfried of the Nibelungenlied, and later the core of Wagner's Ring cycle."
+  },
+  "domains": {
+    "zh": [
+      "屠龙",
+      "宝剑",
+      "诅咒的黄金",
+      "宿命"
+    ],
+    "en": [
+      "Dragon-Slaying",
+      "The Sword",
+      "Cursed Gold",
+      "Doom"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "重铸的宝剑格拉姆",
+        "en": "Gram, reforged from Sigmund's sword"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Steed"
+      },
+      "value": {
+        "zh": "格拉尼，斯莱普尼尔的后裔",
+        "en": "Grani, descended from Sleipnir"
+      }
+    },
+    {
+      "label": {
+        "zh": "祸根",
+        "en": "Bane"
+      },
+      "value": {
+        "zh": "受诅咒的指环安德瓦拉瑙特",
+        "en": "The cursed ring Andvaranaut"
+      }
+    }
+  ],
+  "related": [
+    "valkyrie",
+    "odin"
+  ],
+  "sources": [
+    {
+      "zh": "《沃尔松格萨迦》（13世纪）",
+      "en": "Volsunga saga, 13th century"
+    },
+    {
+      "zh": "《诗体埃达·雷金之歌》《法夫尼尔之歌》",
+      "en": "Poetic Edda: Reginsmal and Fafnismal"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·诗艺语言》",
+      "en": "Snorri Sturluson, Prose Edda: Skaldskaparmal"
+    }
+  ],
+  "geo": {
+    "lat": 59.31,
+    "lon": 16.5,
+    "label": {
+      "zh": "拉姆松德石刻，瑞典南曼兰",
+      "en": "Ramsund carving, Sodermanland, Sweden"
+    }
+  },
+  "image": {
+    "file": "/images/entries/sigurd.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sigurd_pierced_him_with_his_sword_(1901)_by_Arthur_Rackham.jpg",
+    "sourceTitle": "Sigurd pierced him with his sword (1901) by Arthur Rackham",
+    "artist": "Arthur Rackham",
+    "license": "Public domain",
+    "width": 726,
+    "height": 1000
+  }
+}

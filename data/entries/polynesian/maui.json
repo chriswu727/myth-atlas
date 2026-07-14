@@ -1,0 +1,107 @@
+{
+  "id": "maui",
+  "tradition": "polynesian",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "毛伊",
+    "en": "Maui",
+    "original": "Māui",
+    "originalLang": "毛利语"
+  },
+  "title": {
+    "zh": "捕日钓岛的半神",
+    "en": "The Demigod Who Snared the Sun and Fished Up Islands"
+  },
+  "summary": {
+    "zh": "全波利尼西亚共有的半神英雄：钓起海底陆地、用绳套住太阳、从祖母指甲里盗火，最后死于夜之女神体内，人类因此不得永生。",
+    "en": "The trickster demigod known across Polynesia: he fished up land from the sea floor, snared the sun to slow it, stole fire, and died trying to win immortality for humankind."
+  },
+  "description": {
+    "zh": "毛伊是波利尼西亚各群岛共同传颂的半神，从夏威夷到新西兰都讲他的事迹。毛利传统里他的全名是毛伊·蒂基蒂基·阿·塔朗加：早产的他被母亲塔朗加用发髻里的头发裹住抛入海中，被祖先救起养大，回到家中成为最小也最狡黠的儿子。他的兵器是祖母穆里朗加费努阿的下颌骨。\n\n三件大事贯穿各地版本。其一钓岛：他以下颌骨为钩、以自己的鼻血为饵，从深海钓起一片巨大的陆地——毛利人称新西兰北岛为\"毛伊之鱼\"（Te Ika-a-Māui），兄弟们抢着割鱼肉，留下了如今起伏的山谷。其二捕日：太阳跑得太快，人间白昼太短，毛伊与兄弟们编成绳网，在太阳升起处将其套住，用下颌骨痛击，迫使它答应放慢脚步；夏威夷版本说此事发生在毛伊岛的哈莱阿卡拉火山口，山名意为\"太阳之屋\"。其三盗火：他故意熄灭人间炉火，去向火之祖母玛胡伊卡讨火，把她的火指甲一枚枚骗光，最后一枚火种被抛进树木，从此人可钻木取火。\n\n毛伊之死解释了人类为何会死：他想趁夜之大女神希涅努伊特波沉睡时从她体内穿过、逆转生死，同行的扇尾鹟忍不住笑出声，女神惊醒，用两腿间的黑曜石利齿将他夹碎。乔治·格雷1855年出版的《波利尼西亚神话》完整记录了毛利语版本的这一系列故事。",
+    "en": "Maui is the hero the whole Polynesian triangle shares; his exploits are told from Hawaii to New Zealand. In Maori tradition his full name is Maui-tikitiki-a-Taranga: born prematurely, he was wrapped in his mother Taranga's topknot hair and cast into the sea, rescued and raised by an ancestor, then returned home as the youngest and craftiest of the brothers. His weapon was the jawbone of his grandmother Murirangawhenua.\n\nThree feats recur across the islands. He fished up land, baiting the jawbone hook with blood from his own nose and hauling a vast country from the deep: the North Island of New Zealand is Te Ika-a-Maui, \"the fish of Maui,\" its valleys said to be the cuts his greedy brothers made in the catch. He snared the sun, which crossed the sky too fast for people to work; with plaited ropes he and his brothers caught it at its rising place and beat it with the jawbone until it agreed to travel slowly. The Hawaiian telling sets this on Haleakala, \"house of the sun,\" on the island of Maui. And he stole fire, tricking the fire ancestress Mahuika out of her burning fingernails one by one until the last spark fled into the trees, where fire can still be rubbed out of wood.\n\nHis death explains human mortality: attempting to crawl through the sleeping body of Hine-nui-te-po, goddess of night and death, and so reverse birth, he was betrayed by the laughter of a fantail; the goddess woke and crushed him with the obsidian teeth between her thighs. George Grey's Polynesian Mythology (1855) preserves the full Maori cycle."
+  },
+  "domains": {
+    "zh": [
+      "诡计",
+      "捕日",
+      "钓岛",
+      "盗火"
+    ],
+    "en": [
+      "Trickery",
+      "Snaring the sun",
+      "Fishing up land",
+      "Fire theft"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "兵器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "祖母穆里朗加费努阿的下颌骨",
+        "en": "The jawbone of his grandmother Murirangawhenua"
+      }
+    },
+    {
+      "label": {
+        "zh": "身份",
+        "en": "Standing"
+      },
+      "value": {
+        "zh": "家中最小的儿子，半神",
+        "en": "Youngest of the brothers, a demigod"
+      }
+    },
+    {
+      "label": {
+        "zh": "死因",
+        "en": "Death"
+      },
+      "value": {
+        "zh": "夜之大女神希涅努伊特波体内的黑曜石利齿",
+        "en": "The obsidian teeth of Hine-nui-te-po"
+      }
+    }
+  ],
+  "related": [
+    "manaiakalani",
+    "tane",
+    "rangi-and-papa",
+    "hawaiki"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年）",
+      "en": "George Grey, Polynesian Mythology (1855)"
+    },
+    {
+      "zh": "W.D.韦斯特维尔特《半神毛伊传说》（1910年）",
+      "en": "W. D. Westervelt, Legends of Ma-ui, a Demi God of Polynesia (1910)"
+    },
+    {
+      "zh": "玛莎·贝克威思《夏威夷神话》（1940年）",
+      "en": "Martha Beckwith, Hawaiian Mythology (1940)"
+    }
+  ],
+  "geo": {
+    "lat": 20.71,
+    "lon": -156.25,
+    "label": {
+      "zh": "哈莱阿卡拉火山（毛伊岛）",
+      "en": "Haleakala, island of Maui"
+    }
+  },
+  "image": {
+    "file": "/images/entries/maui.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maui_Snaring_the_Sun_by_Arman_Tateos_Manookian,_c._1927,_drawing,_Honolulu_Museum_of_Art.jpg",
+    "sourceTitle": "Maui Snaring the Sun by Arman Tateos Manookian, c. 1927, drawing, Honolulu Museum of Art",
+    "artist": "Hiart",
+    "license": "Public domain",
+    "width": 743,
+    "height": 1000
+  }
+}

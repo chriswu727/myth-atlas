@@ -1,0 +1,91 @@
+{
+  "id": "zhurong",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "祝融",
+    "en": "Zhurong"
+  },
+  "title": {
+    "zh": "光照四海的火神",
+    "en": "God of Fire and the South"
+  },
+  "summary": {
+    "zh": "帝喾时的火正，死后尊为火神。兽身人面、乘两龙，居南方司夏；南岳衡山最高峰以他命名，火灾旧称祝融之灾。",
+    "en": "Fire Regulator under Emperor Ku, deified as god of fire and the south, beast-bodied and riding two dragons. Mount Heng's highest peak bears his name, and house fires were once called 'Zhurong's calamity'."
+  },
+  "description": {
+    "zh": "祝融由上古官名\"火正\"神格化而来。《左传·昭公二十九年》记五行之官，\"火正曰祝融\"；《国语·郑语》说重黎在帝喾时代任火正，\"以淳耀敦大，天明地德，光照四海，故命之曰祝融\"——这个名号的本义接近\"大光明\"。掌火之官死后配食火神，祝融于是成为火的化身。\n\n在神话谱系里，祝融是南方之神、夏季之神。《山海经·海外南经》描述\"南方祝融，兽身人面，乘两龙\"；《海内经》又说他\"降处于江水\"，生下水神共工，火与水在谱系上竟为父子。汉代形成的五方帝格局中，祝融辅佐南方赤帝，与南方、夏季、赤色、五行之火相配，与北方水神玄冥遥遥相对。\n\n传说祝融葬于衡山之阳，南岳衡山的最高峰因此名为祝融峰，海拔一千三百余米，峰顶祝融殿以铁瓦覆盖，自隋唐以来奉祀不绝。民间把火灾婉称为\"祝融之灾\"，旧时冶铸、窑业与消防行当都祭祀这位火神；2021年中国首辆火星车定名\"祝融号\"。",
+    "en": "Zhurong began as a deified office: the Fire Regulator of high antiquity. The Zuozhuan lists him among the officers of the five elements — 'the Regulator of Fire is called Zhurong' — and the Guoyu explains the title conferred on Chong Li, Fire Regulator under Emperor Ku, whose 'pure radiance, generous and great, lit heaven and earth to the four seas'; the name itself means something close to 'great brightness'. Masters of fire who died in office were worshipped with the fire god, and Zhurong became fire itself.\n\nIn the mythological system he governs the south and the summer. The Shanhaijing pictures him in the southern quarter with a beast's body and a human face, riding a pair of dragons, and elsewhere makes him father of the water god Gonggong — fire begetting water in the divine genealogy. In the Han scheme of the Five Directional Powers he assists the Red Emperor of the south, matched with the color red and the element fire, standing opposite the dark water god of the north.\n\nLegend buries him on the southern slope of Mount Heng, whose highest point, Zhurong Peak, rises above 1,300 meters with an iron-tiled shrine at the summit, in continuous use since the Sui and Tang. House fires were long referred to politely as 'Zhurong's calamity', smiths and kiln-workers sacrificed to him, and China's first Mars rover, which landed on Mars in 2021, was named Zhurong."
+  },
+  "domains": {
+    "zh": [
+      "火",
+      "南方",
+      "夏季"
+    ],
+    "en": [
+      "Fire",
+      "The South",
+      "Summer"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "兽身人面，乘两龙",
+        "en": "Beast body, human face, riding two dragons"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Cult site"
+      },
+      "value": {
+        "zh": "南岳衡山祝融峰",
+        "en": "Zhurong Peak, Mount Heng, Hunan"
+      }
+    }
+  ],
+  "related": [
+    "gonggong",
+    "yandi"
+  ],
+  "sources": [
+    {
+      "zh": "《左传·昭公二十九年》",
+      "en": "Zuozhuan, 29th year of Duke Zhao"
+    },
+    {
+      "zh": "《国语·郑语》",
+      "en": "Guoyu, 'Discourses of Zheng'"
+    },
+    {
+      "zh": "《山海经·海外南经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: South'"
+    }
+  ],
+  "geo": {
+    "lat": 27.3,
+    "lon": 112.69,
+    "label": {
+      "zh": "祝融峰（南岳衡山）",
+      "en": "Zhurong Peak, Mount Heng"
+    }
+  },
+  "image": {
+    "file": "/images/entries/zhurong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%A5%9D%E8%9E%8D%E6%B0%8F%E5%A4%A7%E6%88%B0%E5%BA%B7%E5%9B%9E.jpg",
+    "sourceTitle": "祝融氏大戰康回",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 687,
+    "height": 1000
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "shuten-doji",
+  "tradition": "japanese",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "酒吞童子",
+    "en": "Shuten-doji",
+    "original": "酒呑童子（しゅてんどうじ）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "大江山的鬼王",
+    "en": "Demon King of Mount Oe"
+  },
+  "summary": {
+    "zh": "盘踞丹波大江山的鬼王，掳掠京都贵族女子。源赖光与四天王假扮山伏，以神赐毒酒灌醉将其斩首，首级犹自飞起咬住赖光的头盔。",
+    "en": "The oni king of Mount Oe who carried off noblewomen from Kyoto. Minamoto no Raiko and his four champions, disguised as mountain ascetics, drugged him with divine sake and took his head, which flew up and bit Raiko's helmet."
+  },
+  "description": {
+    "zh": "酒吞童子是日本鬼怪传说中最有名的鬼王，率众鬼盘踞在丹波国大江山的岩窟宫殿里。他嗜酒如命，平日作散发的大童子模样，「酒吞童子」之名由此而来；宴席上饮人血、食人肉，麾下有茨木童子等悍鬼。绘卷里他自述出身，一说来自越后，一说原居近江的伊吹山。\n\n一条天皇在位时，京中贵族女子接连失踪，安倍晴明占出是大江山鬼王所为。朝廷派源赖光与藤原保昌讨伐，随行的是赖光四天王：渡边纲、坂田金时、碓井贞光、卜部季武。一行人扮作山伏入山，途中遇三位老翁——八幡、住吉、熊野三神的化身——授以「神便鬼毒酒」：鬼饮之力失，人饮之力增。酒吞童子设宴款待这些「修行者」，畅饮毒酒后醉卧内室。武士们披甲闯入，赖光挥剑斩下鬼王首级，首级腾空而起，死死咬住赖光头上重叠的两顶头盔；鬼王临终喊出「鬼不欺人，尔等骗我」，成为流传后世的名句。\n\n这个故事现存最早的完整本是14世纪的绘卷《大江山绘词》（大阪逸翁美术馆藏），此后经御伽草子、能剧《大江山》、近世版画反复翻刻。京都西郊老之坂的首冢大明神，传为鬼王首级的埋葬处。",
+    "en": "Shuten-doji is the most celebrated demon king of Japanese legend, lord of a band of oni dwelling in a rock palace on Mount Oe in Tanba province. A prodigious drinker who kept the guise of a great unshorn boy, whence his name 'sake-drinking lad,' he feasted on human flesh and blood, with fierce lieutenants such as Ibaraki-doji at his side. In the picture scrolls he gives his own origins, in one telling Echigo, in another Mount Ibuki in Omi.\n\nIn the reign of Emperor Ichijo, noblewomen kept vanishing from the capital, and the diviner Abe no Seimei traced the abductions to the demon of Mount Oe. The court dispatched Minamoto no Raiko (Yorimitsu) and Fujiwara no Yasumasa, attended by Raiko's four champions: Watanabe no Tsuna, Sakata no Kintoki, Usui Sadamitsu, and Urabe no Suetake. Disguised as yamabushi, they met three old men on the mountain path, avatars of the gods Hachiman, Sumiyoshi, and Kumano, who gave them a 'divine poison sake' that saps demons and strengthens men. Shuten-doji feasted the strangers, drank deep, and collapsed; the warriors donned their armor and Raiko struck off his head, which leapt into the air and clamped its teeth on the stacked helmets Raiko wore. The dying demon's cry, 'Oni do not deceive, it is you who lied,' became proverbial.\n\nThe earliest full version is the fourteenth-century scroll Oeyama Ekotoba in the Itsuo Art Museum; the tale was retold endlessly in otogizoshi, the noh play Oeyama, and Edo prints. A small shrine at Oi-no-saka west of Kyoto claims the burial mound of the head."
+  },
+  "domains": {
+    "zh": [
+      "鬼",
+      "掳掠",
+      "美酒",
+      "讨伐谭"
+    ],
+    "en": [
+      "Oni",
+      "Abduction",
+      "Sake",
+      "Demon-quelling"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "巢穴",
+        "en": "Lair"
+      },
+      "value": {
+        "zh": "丹波国大江山的岩窟宫殿",
+        "en": "A rock palace on Mount Oe in Tanba"
+      }
+    },
+    {
+      "label": {
+        "zh": "克星",
+        "en": "Nemesis"
+      },
+      "value": {
+        "zh": "源赖光与四天王，神便鬼毒酒",
+        "en": "Minamoto no Raiko, his four champions, and the divine poison sake"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早文本",
+        "en": "Earliest text"
+      },
+      "value": {
+        "zh": "《大江山绘词》（14世纪）",
+        "en": "Oeyama Ekotoba scroll (14th century)"
+      }
+    }
+  ],
+  "related": [
+    "tengu",
+    "tamamo-no-mae"
+  ],
+  "sources": [
+    {
+      "zh": "《大江山绘词》（14世纪绘卷，逸翁美术馆藏）",
+      "en": "Oeyama Ekotoba picture scroll (14th century, Itsuo Art Museum)"
+    },
+    {
+      "zh": "御伽草子《酒吞童子》（室町时代）",
+      "en": "Otogizoshi Shuten-doji (Muromachi period)"
+    },
+    {
+      "zh": "能《大江山》（室町时代）",
+      "en": "Noh play Oeyama (Muromachi period)"
+    }
+  ],
+  "geo": {
+    "lat": 35.45,
+    "lon": 135.11,
+    "label": {
+      "zh": "大江山（京都府丹后地方）",
+      "en": "Mount Oe (Tango region, Kyoto Prefecture)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/shuten-doji.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raiko_slaying_the_Demon_Shuten-doji_by_Utagawa_Kunimasa_II,_1849-52.jpg",
+    "sourceTitle": "Raiko slaying the Demon Shuten-doji by Utagawa Kunimasa II, 1849-52",
+    "artist": "Utagawa Kunimasa II",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 494
+  }
+}

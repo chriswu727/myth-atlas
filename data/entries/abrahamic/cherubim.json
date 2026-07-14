@@ -1,0 +1,99 @@
+{
+  "id": "cherubim",
+  "tradition": "abrahamic",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "基路伯",
+    "en": "Cherubim",
+    "original": "כְּרוּבִים",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "神座的守卫者",
+    "en": "Guardians of the Throne of God"
+  },
+  "summary": {
+    "zh": "守卫伊甸园入口、承托神宝座的有翼灵体。以西结见其有人、狮、牛、鹰四张脸；约柜施恩座上铸有两尊金基路伯，翅膀相接。",
+    "en": "Winged beings who guard the gate of Eden and bear the throne of God. Ezekiel saw them with four faces — human, lion, ox, eagle; two golden cherubim spread their wings over the Ark's mercy seat."
+  },
+  "description": {
+    "zh": "基路伯是圣经传统中守卫圣域、承托神座的有翼灵体，希伯来语单数作 kerub，复数作 kerubim。他们在《创世记》第三章首次出场：人被逐出伊甸园后，神在园子东边安设基路伯和四面转动发火焰的剑，把守生命树的道路。《出埃及记》第二十五章规定在约柜的施恩座两端用金子锤出两个基路伯，脸对着脸，翅膀向上张开遮掩施恩座——经文屡称耶和华\"坐在二基路伯之间\"。所罗门圣殿的内殿另立两尊橄榄木包金的巨型基路伯，各高十肘，翅膀展开共二十肘，翅尖抵及内殿两壁。\n\n《以西结书》第一章与第十章给出最奇诡的描写：先知在迦巴鲁河边看见四个活物，各有四张脸——人脸、狮脸、牛脸、鹰脸——四只翅膀，腿直而脚掌如牛犊之蹄，灿烂如光明的铜，旁边各有轮中套轮、辋上布满眼睛的轮子随行；第十章明言这些活物就是基路伯，神的宝座在他们展开的穹苍之上移动。学者一般认为其形象与美索不达米亚守卫宫门的人面带翼神兽（如拉玛苏）同出一脉，karibu 一词在阿卡德语中指代祷的守护灵。\n\n后世的形象史发生了奇特的翻转：文艺复兴绘画把 cherub 画成长着小翅膀的丰腴婴孩（putto），与经文中令先知俯伏的四面巨灵相去甚远。今日英语里 cherub 甚至成了对胖乎乎的孩童的爱称。",
+    "en": "Cherubim (singular kerub) are the winged beings of the biblical tradition who guard sacred ground and bear the throne of God. They first appear in Genesis 3: after the expulsion from Eden, God stations cherubim east of the garden, with a flaming sword turning every way, to guard the road to the tree of life. Exodus 25 commands two cherubim of hammered gold for the ends of the Ark's mercy seat, facing one another, wings spread upward and overshadowing it — the Lord is repeatedly said to be 'enthroned between the cherubim.' Solomon's temple added two colossal cherubim of gilded olive wood in the inner sanctuary, each ten cubits tall, their outstretched wings spanning the room from wall to wall.\n\nEzekiel 1 and 10 give the strangest description. By the river Chebar the prophet sees four living creatures, each with four faces — of a human, a lion, an ox, and an eagle — four wings, straight legs with hooves like a calf's, gleaming like burnished bronze, each accompanied by a wheel within a wheel, its rim full of eyes; chapter 10 identifies the creatures as cherubim, the throne of God moving above the firmament stretched over their heads. Scholars generally connect the figure with the winged guardian beasts of Mesopotamian palace gates, such as the lamassu; the Akkadian karibu names an interceding protective spirit.\n\nThe later history of the image is a curious inversion: Renaissance painting turned the cherub into the putto, a plump winged infant, far from the four-faced colossi that flattened prophets in fear. In modern English 'cherub' has become an endearment for a chubby child."
+  },
+  "domains": {
+    "zh": [
+      "守卫圣域",
+      "神座",
+      "四面异象"
+    ],
+    "en": [
+      "Guarding sacred ground",
+      "The divine throne",
+      "Fourfold visage"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "四张脸",
+        "en": "Four faces"
+      },
+      "value": {
+        "zh": "人、狮、牛、鹰",
+        "en": "Human, lion, ox, eagle"
+      }
+    },
+    {
+      "label": {
+        "zh": "职守",
+        "en": "Station"
+      },
+      "value": {
+        "zh": "伊甸园东门、约柜施恩座、圣殿内殿",
+        "en": "The east gate of Eden, the mercy seat, the inner sanctuary"
+      }
+    },
+    {
+      "label": {
+        "zh": "近东近亲",
+        "en": "Near Eastern kin"
+      },
+      "value": {
+        "zh": "美索不达米亚宫门神兽拉玛苏",
+        "en": "The Mesopotamian lamassu"
+      }
+    }
+  ],
+  "related": [
+    "seraphim",
+    "garden-of-eden",
+    "ark-of-the-covenant"
+  ],
+  "sources": [
+    {
+      "zh": "《创世记》3:24",
+      "en": "Genesis 3:24"
+    },
+    {
+      "zh": "《出埃及记》25:18-22",
+      "en": "Exodus 25:18-22"
+    },
+    {
+      "zh": "《以西结书》1章；10章",
+      "en": "Ezekiel 1; 10"
+    },
+    {
+      "zh": "《列王纪上》6:23-28",
+      "en": "1 Kings 6:23-28"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/cherubim.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tetramorphe_Cherubim_aus_der_Vision_des_Ezechiel_(Cattedrale_di_Anagni)_%E2%80%94_13th_c..jpg",
+    "sourceTitle": "Tetramorphe Cherubim aus der Vision des Ezechiel",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 994
+  }
+}

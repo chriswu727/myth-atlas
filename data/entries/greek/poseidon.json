@@ -1,0 +1,104 @@
+{
+  "id": "poseidon",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "波塞冬",
+    "en": "Poseidon",
+    "original": "Ποσειδῶν",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "海洋之王，震地者",
+    "en": "Lord of the Sea, the Earth-shaker"
+  },
+  "summary": {
+    "zh": "海洋、地震与马匹之神，手持三叉戟，荷马称他\"震地者\"。因奥德修斯刺瞎其子而令他海上漂泊十年。",
+    "en": "God of the sea, earthquakes, and horses, armed with the trident. Homer calls him Earth-shaker; his wrath kept Odysseus wandering the seas for ten years."
+  },
+  "description": {
+    "zh": "波塞冬司掌海洋、地震与马匹，克洛诺斯与瑞亚之子，在三兄弟的抽签中分得海洋。他手持独眼巨人锻造的三叉戟，挥动可掀起风暴、劈裂岩石、震动大地，荷马称他\"震地者\"。他驾金鬃骏马拉的战车驰过海面，宫殿在爱琴海的深处。马是他的圣兽：传说第一匹马由他所造，飞马珀伽索斯也是他与美杜莎所生。\n\n《奥德赛》的情节由他的怒火推动：奥德修斯刺瞎他的儿子独眼巨人波吕斐摩斯后，波塞冬令这位英雄在海上漂泊十年方得归乡。他与雅典娜争夺阿提卡失利，三叉戟凿出的咸泉留在卫城岩石上。水手出海前向他献祭公牛，科林斯地峡赛会以他的名义举行。苏尼翁海岬的波塞冬神庙建于约公元前440年，白色大理石柱至今立在爱琴海边的悬崖上。",
+    "en": "Poseidon, son of Cronus and Rhea, drew the sea when the three brothers divided the cosmos. With the trident forged for him by the Cyclopes he stirs storms, splits rocks, and shakes the ground — Homer calls him 'Earth-shaker.' He drives a chariot drawn by golden-maned horses across the waves from a palace in the depths of the Aegean. The horse is his sacred animal: tradition credits him with creating the first horse, and the winged Pegasus was his offspring by Medusa.\n\nHis wrath drives the plot of the Odyssey: after Odysseus blinded the god's son, the Cyclops Polyphemus, Poseidon kept the hero wandering the seas for ten years before he reached home. He lost the contest for Attica to Athena, leaving on the acropolis rock the salt spring struck by his trident. Sailors sacrificed bulls to him before a voyage, and the Isthmian games at Corinth were held in his honor. His temple at Cape Sounion, built around 440 BCE, still stands in white marble on a cliff above the Aegean."
+  },
+  "domains": {
+    "zh": [
+      "海洋",
+      "地震",
+      "马匹",
+      "风暴"
+    ],
+    "en": [
+      "Sea",
+      "Earthquakes",
+      "Horses",
+      "Storms"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "三叉戟",
+        "en": "The trident"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣兽",
+        "en": "Sacred animals"
+      },
+      "value": {
+        "zh": "马、公牛、海豚",
+        "en": "Horse, bull, dolphin"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief sanctuaries"
+      },
+      "value": {
+        "zh": "苏尼翁海岬、科林斯地峡",
+        "en": "Cape Sounion, the Isthmus of Corinth"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "hades",
+    "athena",
+    "medusa",
+    "minotaur"
+  ],
+  "sources": [
+    {
+      "zh": "荷马《奥德赛》",
+      "en": "Homer, Odyssey"
+    },
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    }
+  ],
+  "geo": {
+    "lat": 37.65,
+    "lon": 24.025,
+    "label": {
+      "zh": "苏尼翁海岬波塞冬神庙",
+      "en": "Temple of Poseidon, Cape Sounion"
+    }
+  },
+  "image": {
+    "file": "/images/entries/poseidon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_Zeus_or_Poseidon_NAMA_X_15161_Athens_Greece.jpg",
+    "sourceTitle": "Bronze Zeus or Poseidon NAMA X 15161 Athens Greece",
+    "artist": "Jebulon",
+    "license": "CC0",
+    "width": 1000,
+    "height": 1000
+  }
+}

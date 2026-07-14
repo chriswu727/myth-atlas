@@ -1,0 +1,106 @@
+{
+  "id": "michael",
+  "tradition": "abrahamic",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "米迦勒",
+    "en": "Michael",
+    "original": "מִיכָאֵל",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "天使长、天军统帅",
+    "en": "Archangel, Commander of the Heavenly Host"
+  },
+  "summary": {
+    "zh": "名意\"谁能像神\"。《但以理书》称他为护佑以色列的\"大君\"，《启示录》记他率众天使与巨龙争战，将其摔到地上。",
+    "en": "His name asks 'Who is like God?' Daniel calls him the great prince who protects Israel; in Revelation he leads the angels in war against the dragon and casts it down."
+  },
+  "description": {
+    "zh": "米迦勒是希伯来圣经中唯一被称为\"大君\"（sar gadol）的天使，名字是一个反问：\"谁能像神？\"（mi-kha-el）。《但以理书》三次提到他：他是\"大君中的一位\"，曾帮助异象中的使者对抗\"波斯国的魔君\"；他\"保佑\"但以理的本国之民；末后大艰难之时，他将站起来护卫选民。在圣经的天使谱系里，他是以色列的守护者与天军的统帅。\n\n新约延续了这一形象。《犹大书》第九节记载米迦勒曾为摩西的尸首与魔鬼争辩，却不敢用毁谤的话定它的罪，只说\"主责备你吧\"。《启示录》第十二章写天上的战争：米迦勒同他的使者与龙争战，那条古蛇——名叫魔鬼又叫撒但的——被摔在地上，它的使者也一同被摔下去。这段经文奠定了后世\"米迦勒屠龙\"的图像传统：身披甲胄、手执长枪或利剑、脚踏巨龙的武士天使。\n\n对米迦勒的敬礼在中世纪欧洲极盛。意大利南部的加尔加诺山洞窟圣所自五世纪末起吸引朝圣者，诺曼底海中的圣米歇尔山（Mont-Saint-Michel）修道院自八世纪起奉他为主保。中世纪图像还常画他手持天平在末日审判中称量灵魂。在伊斯兰传统中他名为米卡伊勒（Mika'il），《古兰经》第二章与吉卜利勒并举。",
+    "en": "Michael is the only angel the Hebrew Bible calls a 'great prince,' and his name is itself a challenge: mi-kha-el, 'Who is like God?' The Book of Daniel names him three times — one of the chief princes who came to help against the 'prince of Persia,' the protector of Daniel's people, and the one who will arise in the final time of trouble to deliver the elect. Within the Bible's angelology he is the guardian of Israel and commander of the armies of heaven.\n\nThe New Testament carries the figure forward. Jude 9 recalls that when Michael contended with the devil over the body of Moses, he did not presume to pronounce judgment, saying only, 'The Lord rebuke you.' Revelation 12 describes war in heaven: Michael and his angels fight the dragon, and the ancient serpent, called the devil and Satan, is thrown down to earth with his angels. This passage fixed the enduring image of Michael as the armored warrior-angel, lance or sword in hand, standing on a defeated dragon.\n\nDevotion to Michael flourished in medieval Europe. The cave sanctuary of Monte Gargano in southern Italy drew pilgrims from the late fifth century, and the abbey of Mont-Saint-Michel off the Norman coast took him as patron from the eighth. Medieval art also shows him holding scales, weighing souls at the Last Judgment. In Islamic tradition he is Mika'il, named alongside Gabriel in the second sura of the Quran."
+  },
+  "domains": {
+    "zh": [
+      "天军",
+      "护佑",
+      "屠龙",
+      "末日审判"
+    ],
+    "en": [
+      "The heavenly host",
+      "Protection",
+      "Dragon-slaying",
+      "Last Judgment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Meaning of name"
+      },
+      "value": {
+        "zh": "\"谁能像神？\"",
+        "en": "'Who is like God?'"
+      }
+    },
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "长枪或利剑，图像中常踏巨龙",
+        "en": "Lance or sword; often shown standing on a dragon"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief shrines"
+      },
+      "value": {
+        "zh": "加尔加诺山、圣米歇尔山",
+        "en": "Monte Gargano; Mont-Saint-Michel"
+      }
+    }
+  ],
+  "related": [
+    "gabriel",
+    "lucifer",
+    "seraphim"
+  ],
+  "sources": [
+    {
+      "zh": "《但以理书》10:13, 21；12:1",
+      "en": "Daniel 10:13, 21; 12:1"
+    },
+    {
+      "zh": "《犹大书》9",
+      "en": "Jude 9"
+    },
+    {
+      "zh": "《启示录》12:7-9",
+      "en": "Revelation 12:7-9"
+    }
+  ],
+  "geo": {
+    "lat": 41.708,
+    "lon": 15.955,
+    "label": {
+      "zh": "加尔加诺山圣米迦勒洞窟圣所（意大利）",
+      "en": "Sanctuary of Monte Sant'Angelo, Gargano, Italy"
+    }
+  },
+  "image": {
+    "file": "/images/entries/michael.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GuidoReni_MichaelDefeatsSatan.jpg",
+    "sourceTitle": "Archangel Michael defeats Satanlabel QS:Lde,\"Erzengel Michael besiegt den Satan\"label QS:Len,\"Archangel Michael defeats Satan\"label QS:Leu,\"Mikel goiaingerua Satanas garaitzen (Guido Reni)\"label QS:Lfr,\"Saint Michel Archange terrassant le démon\"",
+    "artist": "Guido Reni",
+    "license": "Public domain",
+    "width": 678,
+    "height": 1000
+  }
+}

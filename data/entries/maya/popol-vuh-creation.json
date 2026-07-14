@@ -1,0 +1,104 @@
+{
+  "id": "popol-vuh-creation",
+  "tradition": "maya",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "波波尔·乌创世",
+    "en": "The Popol Vuh Creation",
+    "original": "Popol Wuj",
+    "originalLang": "基切玛雅语"
+  },
+  "title": {
+    "zh": "“议事之书”所载的创世叙事",
+    "en": "The Creation Told in the Book of the Council"
+  },
+  "summary": {
+    "zh": "海天俱寂之初，羽蛇神与天之心呼喊“大地”，山岳应声而起。诸神先以泥、再以木造人皆告失败，最终用白黄玉米面团捏出真正的人类。",
+    "en": "In the stillness of sea and sky, the Plumed Serpent and Heart of Sky spoke the word \"Earth\" and mountains rose. People of mud and of wood both failed; true humans were shaped at last from maize dough."
+  },
+  "description": {
+    "zh": "《波波尔·乌》意为“议事之书”，16世纪中叶由基切贵族在危地马拉高地用拉丁字母写定，今存唯一抄本是多明我会士弗朗西斯科·希门内斯约1701—1703年在奇奇卡斯特南戈誊录的双栏本，现藏芝加哥纽伯里图书馆。它是美洲保存最完整的原住民创世文献。\n\n太初只有两样东西：静止的海与空悬的天。羽蛇古库马茨裹着绿咬鹃的翎羽伏在水中，与“天之心”乌拉坎——雷霆、小闪电、绿闪电三位一体——在黑暗里商议。他们开口说出“大地”，山岳便如云雾般从水中升起，松柏随之铺展。诸神先造走兽飞禽，命它们说出造物者的名号；鸟兽只会嘶吼啁啾，于是被贬为彼此的食物。第一批泥人遇水即溃，口出呓语，被造物者亲手毁去。\n\n诸神请老占卜者斯皮亚科克与斯穆卡内掷红豆与玉米问卦，得到允准后造出木头人。木人形貌如人、开口能言、繁衍满地，却没有血也没有心，记不得造物者。天降松脂之雨，四方来的凶兽撕咬他们，连家中器物也起来复仇——磨盘喊着“你们天天磨我们”，碾碎了主人的脸；狗和火鸡也各讨旧账。侥幸逃上树的木人成了今日林间的猴子。\n\n最后，狐狸、郊狼、鹦鹉与乌鸦带来消息：帕希尔山中藏满白玉米与黄玉米。斯穆卡内把玉米磨了九遍，和水成团，诸神以此捏出四个真正的人——巴兰·基采、巴兰·阿卡布、马乌库塔与伊基·巴兰。这四人目力无碍，一眼看尽天涯，诸神恐其与神比肩，便向他们的眼睛哈了一口气，如镜面蒙尘，人从此只能看见近处。又赐四位妻子，人类就此繁衍，在黑暗中等待第一次日出。",
+    "en": "Popol Vuh means \"Book of the Council.\" It was set down in K'iche' using the Latin alphabet by K'iche' nobles in the Guatemalan highlands in the mid-16th century; the sole surviving copy, a two-column transcript made by the Dominican friar Francisco Ximénez around 1701-1703 in Chichicastenango, is now held at the Newberry Library in Chicago. No fuller indigenous creation account survives anywhere in the Americas.\n\nIn the beginning there were only two things: the motionless sea and the empty sky. Gucumatz, the Plumed Serpent, lay in the water wrapped in quetzal feathers, conferring in the dark with Heart of Sky, Huracan, who is three in one - Thunderbolt, Newborn Lightning, Sudden Lightning. They spoke the word \"Earth,\" and mountains rose out of the water like mist, cypress and pine spreading over them. The gods first made the animals and asked them to pronounce their makers' names; the beasts could only screech and bellow, and so were condemned to be one another's food. A first race molded from mud crumbled in water and talked without sense; its makers broke it apart themselves.\n\nThe gods then asked the old diviners Xpiyacoc and Xmucane to cast their red seeds and maize kernels, and on their word carved a race of wood. The wooden people looked human, spoke, and filled the earth, but they had no blood and no hearts and never remembered their makers. A rain of burning resin fell on them, beasts tore them, and their own possessions rose in revenge - the grinding stones crushed their faces, crying that they had been ground upon daily, while the dogs and turkeys settled their own scores. The survivors who fled into the trees became the monkeys of the forest.\n\nAt last the fox, the coyote, the parakeet, and the crow brought word of Paxil, a mountain filled with white and yellow maize. Xmucane ground the corn nine times and mixed it with water, and from that dough the gods formed four true men: Balam Quitzé, Balam Acab, Mahucutah, and Iqui Balam. Their sight was perfect and reached to the edges of the world; fearing rivals, the gods breathed on their eyes as breath clouds a mirror, and human vision has been short ever since. Four wives were given to them, and humankind multiplied in the darkness, waiting for the first sunrise."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "玉米",
+      "洪水",
+      "文献"
+    ],
+    "en": [
+      "Creation",
+      "Maize",
+      "Flood",
+      "Manuscript"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "成书",
+        "en": "Composition"
+      },
+      "value": {
+        "zh": "16世纪中叶，拉丁字母基切语",
+        "en": "Mid-16th century, K'iche' in Latin script"
+      }
+    },
+    {
+      "label": {
+        "zh": "现存抄本",
+        "en": "Surviving copy"
+      },
+      "value": {
+        "zh": "希门内斯抄本，芝加哥纽伯里图书馆藏",
+        "en": "Ximénez transcript, Newberry Library, Chicago"
+      }
+    },
+    {
+      "label": {
+        "zh": "造人三试",
+        "en": "Three attempts at humanity"
+      },
+      "value": {
+        "zh": "泥人、木人、玉米人",
+        "en": "Mud, wood, and maize people"
+      }
+    }
+  ],
+  "related": [
+    "hunahpu-and-xbalanque",
+    "vucub-caquix",
+    "maya-maize-god",
+    "xibalba",
+    "kukulkan"
+  ],
+  "sources": [
+    {
+      "zh": "《波波尔·乌》希门内斯抄本（纽伯里图书馆，Ayer MS 1515）",
+      "en": "Popol Vuh, Ximénez manuscript (Newberry Library, Ayer MS 1515)"
+    },
+    {
+      "zh": "阿德里安·雷西诺斯西班牙语译本（1947年）",
+      "en": "Adrián Recinos, Spanish translation (1947)"
+    }
+  ],
+  "geo": {
+    "lat": 14.943,
+    "lon": -91.111,
+    "label": {
+      "zh": "奇奇卡斯特南戈（希门内斯誊录地）",
+      "en": "Chichicastenango, where Ximénez copied the text"
+    }
+  },
+  "image": {
+    "file": "/images/entries/popol-vuh-creation.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Popol_vuh.jpg",
+    "sourceTitle": "Popol vuh",
+    "artist": "Francisco Ximénez",
+    "license": "Public domain",
+    "width": 698,
+    "height": 1000
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "rama",
+  "tradition": "hindu",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "罗摩",
+    "en": "Rama",
+    "original": "राम",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "阿逾陀王子，毗湿奴第七化身",
+    "en": "Prince of Ayodhya, seventh avatar of Vishnu"
+  },
+  "summary": {
+    "zh": "《罗摩衍那》的主人公：为践父诺流亡森林十四年，妻子悉多被魔王罗波那劫走，他率猴熊大军跨海征伐楞伽，斩魔救妻，归国登基。",
+    "en": "Hero of the Ramayana: exiled fourteen years to honour his father's word, he led an army of monkeys and bears across the sea to Lanka, slew Ravana, rescued Sita, and returned to be crowned."
+  },
+  "description": {
+    "zh": "罗摩是拘萨罗国阿逾陀城的长王子，肤色黛青，肩挎长弓，被尊为毗湿奴的第七化身与“正法的化身”——史诗反复称他为理想的儿子、丈夫与君王。他少年时随仙人众友学艺除魔，在弥萨罗国拉断了无人能张的湿婆神弓，赢娶遮那竭王之女悉多。\n\n蚁垤所著《罗摩衍那》七篇约两万四千颂，成书跨度约在公元前5世纪至公元初：加冕前夜，父王为践旧诺将罗摩放逐十四年，罗摩坦然携悉多与弟弟罗什曼那入林。魔王罗波那设计支开兄弟、劫走悉多，罗摩与猴王须羯哩婆结盟，得神猴哈奴曼跃海探得悉多下落，猴熊大军以巨石填海筑成“罗摩桥”，血战楞伽，罗摩以梵天神箭射穿罗波那心口。凯旋阿逾陀之日，全城燃灯相迎——排灯节（Diwali）的灯火传统即系于此。尾篇里，罗摩因国人非议而放逐已有身孕的悉多，悉多在蚁垤净修林诞下双子，最终请大地母亲将自己收回，为这部史诗留下苦涩的结尾。\n\n“罗摩之治”（Rama Rajya）在印度语境中即太平盛世的代名词。这部史诗随文化传播衍生出泰国《拉玛坚》、柬埔寨《里姆克》等各国版本，泰国曼谷王朝历代国王皆号“拉玛”；印度阿逾陀的罗摩诞生地则在当代政治中牵动巨大争议，其地新建的罗摩庙于2024年落成开光。",
+    "en": "Rama is the eldest prince of Ayodhya in the kingdom of Kosala, dark-skinned, bow on shoulder, revered as the seventh avatar of Vishnu and the very embodiment of dharma—the epic calls him the ideal son, husband and king. As a youth, studying under the sage Vishvamitra, he bent and broke the bow of Shiva that no man could string, winning the hand of Sita, daughter of King Janaka.\n\nValmiki's Ramayana—seven books, some 24,000 verses, composed between roughly the 5th century BCE and the early centuries CE—tells his story. On the eve of his coronation his father, bound by an old promise, exiled him for fourteen years; Rama walked into the forest without complaint, Sita and his brother Lakshmana beside him. The demon king Ravana lured the brothers away and carried Sita off to Lanka. Rama allied with the monkey king Sugriva; Hanuman leapt the ocean and found Sita; the monkey and bear armies bridged the strait with boulders—Rama's Bridge—and in the war that followed Rama drove the arrow of Brahma through Ravana's heart. When he returned to Ayodhya, the city was lit with rows of lamps: one origin of the festival of Diwali. The epic's last book turns bitter: yielding to public gossip, Rama banished the pregnant Sita, who bore him twin sons in Valmiki's hermitage and at last asked the earth, her mother, to take her back.\n\n'Rama Rajya' remains a byword for the just kingdom. The epic spread across Asia as Thailand's Ramakien and Cambodia's Reamker, and the kings of Thailand's Chakri dynasty reign to this day under the name Rama. In modern India the site held to be his birthplace at Ayodhya became the centre of a bitter dispute; the new Rama temple there was consecrated in 2024."
+  },
+  "domains": {
+    "zh": [
+      "正法",
+      "王权",
+      "弓术",
+      "流亡"
+    ],
+    "en": [
+      "Dharma",
+      "Kingship",
+      "Archery",
+      "Exile"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "长弓与梵天神箭",
+        "en": "The bow and the arrow of Brahma"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "悉多",
+        "en": "Sita"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "十首魔王罗波那",
+        "en": "Ten-headed Ravana"
+      }
+    },
+    {
+      "label": {
+        "zh": "都城",
+        "en": "Capital"
+      },
+      "value": {
+        "zh": "阿逾陀",
+        "en": "Ayodhya"
+      }
+    }
+  ],
+  "related": [
+    "vishnu",
+    "hanuman",
+    "rakshasa",
+    "krishna"
+  ],
+  "sources": [
+    {
+      "zh": "蚁垤《罗摩衍那》",
+      "en": "Valmiki, Ramayana"
+    },
+    {
+      "zh": "杜勒西达斯《罗摩功行录》",
+      "en": "Tulsidas, Ramcharitmanas"
+    }
+  ],
+  "geo": {
+    "lat": 26.8,
+    "lon": 82.2,
+    "label": {
+      "zh": "阿逾陀",
+      "en": "Ayodhya"
+    }
+  },
+  "image": {
+    "file": "/images/entries/rama.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rama_Coronation.jpg",
+    "sourceTitle": "Rama Coronation",
+    "license": "Public domain",
+    "width": 725,
+    "height": 1000
+  }
+}

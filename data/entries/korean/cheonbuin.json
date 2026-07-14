@@ -1,0 +1,77 @@
+{
+  "id": "cheonbuin",
+  "tradition": "korean",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "天符印",
+    "en": "Cheonbuin",
+    "original": "천부인（天符印）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "桓雄下界所持的三件天神信物",
+    "en": "The Three Heavenly Tokens of Hwanung"
+  },
+  "summary": {
+    "zh": "天帝桓因授予桓雄的三件信物，桓雄持之率三千徒众降临太伯山；原典只说“三箇”，未言其形制，后世多推测为剑、镜、铃。",
+    "en": "Three tokens given by the heavenly ruler Hwanin to his son Hwanung before his descent to Mount Taebaek; the text counts them but never describes them, and later tradition guesses at sword, mirror, and bell."
+  },
+  "description": {
+    "zh": "《三国遗事·古朝鲜》记载：桓因知道庶子桓雄有意下界，俯察三危、太伯，认为“可以弘益人间”，“乃授天符印三箇，遣往理之”。桓雄凭着这三件信物统领风伯、雨师、云师，在太伯山顶神坛树下开设神市。整段文字给天符印的笔墨只有这一句——数目是三，用途是天命的凭据，形制一个字也没有。\n\n空白引来七百多年的猜测。最通行的推测是剑、镜、铃三样，依据是半岛巫俗的巫具恰好以神刀、明镜（명두）、铜铃为核心，巫觋至今用它们请神；也有人比照日本的三种神器（镜、剑、勾玉）立论。青铜时代遗物常被拿来作注脚：韩国出土的多钮细纹镜、青铜八珠铃、青铜剑在博物馆与通俗读物里一再被比附为天符印的原型。这些都属后世解读，原典并无一字支持，却也无一字反对。\n\n作为“天命凭证”的意象，天符印在近现代被反复征用：奉檀君为教祖的大倧教（1909年创立）等民族宗教把它纳入自己的象征体系，历史小说与影视剧则乐于让它现身为具体的三件宝物。",
+    "en": "The Samguk Yusa's account of Gojoseon records that when Hwanin saw his son Hwanung longing to govern the human world, he looked down upon Samwi and Taebaek, judged that his son could 'broadly benefit humankind,' and 'gave him three Cheonbuin, heavenly seals, and sent him to rule.' With these tokens Hwanung led the lords of wind, rain, and clouds and founded the City of God beneath the divine tree on Mount Taebaek. That single sentence is all the text spares them: their number is three, their function is warrant of heaven's mandate, and of their form not one word.\n\nThe blank has invited seven centuries of guesswork. The commonest conjecture makes them a sword, a mirror, and a bell, on the grounds that Korean shamans to this day summon the gods with exactly that triad of implements, the spirit knife, the bright mirror called myeongdu, and bronze bells; others argue by analogy with Japan's three imperial regalia. Bronze Age finds are pressed into service as footnotes, and the fine-lined bronze mirrors, eight-belled rattles, and bronze daggers unearthed in Korea are routinely likened to the seals in museums and popular books. All of this is later reading; the original supports none of it and contradicts none of it.\n\nAs an emblem of heavenly mandate the Cheonbuin has been much requisitioned in modern times. Daejonggyo, the Dangun-venerating national religion founded in 1909, absorbed it into its symbolism, and historical fiction and television gladly hand the hero three tangible treasures."
+  },
+  "domains": {
+    "zh": [
+      "神器",
+      "天命",
+      "巫具"
+    ],
+    "en": [
+      "Regalia",
+      "Heavenly mandate",
+      "Shamanic implements"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "数量",
+        "en": "Number"
+      },
+      "value": {
+        "zh": "三件，形制原典未载",
+        "en": "Three; form unrecorded in the source text"
+      }
+    },
+    {
+      "label": {
+        "zh": "后世推测",
+        "en": "Later conjecture"
+      },
+      "value": {
+        "zh": "剑、镜、铃，比附巫具三事",
+        "en": "Sword, mirror, and bell, after the shaman's triad"
+      }
+    }
+  ],
+  "related": [
+    "dangun",
+    "asadal"
+  ],
+  "sources": [
+    {
+      "zh": "一然《三国遗事·纪异·古朝鲜》（1281年）",
+      "en": "Iryeon, Samguk Yusa, 'Gojoseon' (1281)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/cheonbuin.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_Bronze_dagger_and_mirror._Jangsu._Jin_Period._National_Museum_of_Korea.jpg",
+    "sourceTitle": "Korean Bronze dagger and mirror. Jangsu. Jin Period. National Museum of Korea",
+    "artist": "Ismoon (talk) 21:12, 9 July 2018 (UTC)",
+    "license": "CC BY-SA 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "chang-e",
+  "tradition": "chinese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "嫦娥",
+    "en": "Chang'e"
+  },
+  "title": {
+    "zh": "独居月宫的月神",
+    "en": "Goddess of the Moon Palace"
+  },
+  "summary": {
+    "zh": "本名姮娥，羿之妻。偷服西王母的不死药飞入月宫，与玉兔为伴；中秋拜月由此而来，中国探月工程以她命名。",
+    "en": "Originally Heng'e, wife of the archer Yi. She swallowed the stolen elixir of immortality and floated to the moon, where the jade rabbit keeps her company; Mid-Autumn moon worship and China's lunar program bear her name."
+  },
+  "description": {
+    "zh": "嫦娥本作姮娥，汉代避文帝刘恒名讳而改称。《淮南子·览冥训》记载：\"羿请不死之药于西王母，姮娥窃以奔月。\"东汉张衡《灵宪》补出细节：奔月之前她请巫者有黄占卜，得到\"吉\"的占辞；到了月中，\"托身于月，是为蟾蜍\"——在早期传说里，她化作了月中的蟾蜍。\n\n唐代以后，蟾蜍的结局渐被淡忘，嫦娥定型为独居广寒宫的仙子，与捣药的玉兔为伴；月宫中还有被罚砍伐桂树的吴刚，桂树高五百丈，随砍随合（见段成式《酉阳杂俎》）。李商隐诗\"嫦娥应悔偷灵药，碧海青天夜夜心\"，把她写成永夜独处的寂寞化身。\n\n中秋祭月、拜月的民俗与嫦娥传说层层缠绕，供桌上的月饼、兔儿爷都指向那座月宫。自2007年\"嫦娥一号\"升空起，中国探月工程的系列探测器都以她命名，月球车名为\"玉兔\"。",
+    "en": "Chang'e was originally called Heng'e; the name changed in the Han dynasty to avoid the taboo on Emperor Wen's personal name Heng. The Huainanzi states the core of the myth in one line: Yi obtained the elixir of immortality from the Queen Mother of the West, and Heng'e stole it and fled to the moon. Zhang Heng's astronomical treatise Lingxian, of the second century CE, adds that before her flight she had the diviner You Huang cast the stalks and received a favorable omen — and that on arriving in the moon she became the lunar toad.\n\nFrom the Tang dynasty onward the toad was quietly forgotten, and Chang'e settled into her enduring image: a solitary beauty in the Palace of Far-Reaching Cold, attended by the jade rabbit that pounds the elixir with mortar and pestle. The moon palace also houses Wu Gang, condemned to fell a self-healing cassia tree five hundred zhang tall, a tale recorded in Duan Chengshi's Youyang Zazu. Li Shangyin's famous couplet imagines her regretting the stolen elixir, alone night after night between jade sea and blue sky.\n\nMid-Autumn offerings to the moon, mooncakes, and the rabbit figurines of old Beijing all point back to her palace, and since 2007 China's lunar probes have flown under the name Chang'e, with rovers named Yutu, the jade rabbit."
+  },
+  "domains": {
+    "zh": [
+      "月亮",
+      "不死药",
+      "中秋"
+    ],
+    "en": [
+      "The Moon",
+      "Elixir of Immortality",
+      "Mid-Autumn Festival"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "月宫（广寒宫）",
+        "en": "The Moon Palace (Palace of Far-Reaching Cold)"
+      }
+    },
+    {
+      "label": {
+        "zh": "同伴",
+        "en": "Companions"
+      },
+      "value": {
+        "zh": "捣药玉兔、伐桂的吴刚",
+        "en": "The elixir-pounding jade rabbit; Wu Gang the cassia-cutter"
+      }
+    }
+  ],
+  "related": [
+    "hou-yi",
+    "xiwangmu"
+  ],
+  "sources": [
+    {
+      "zh": "《淮南子·览冥训》",
+      "en": "Huainanzi, 'Lanming' chapter"
+    },
+    {
+      "zh": "张衡《灵宪》",
+      "en": "Zhang Heng, Lingxian"
+    },
+    {
+      "zh": "段成式《酉阳杂俎》",
+      "en": "Duan Chengshi, Youyang Zazu"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/chang-e.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anonymous_-_The_Moon_Goddess_Chang_E_-_1981.4.2_-_Metropolitan_Museum_of_Art.jpg",
+    "sourceTitle": "The Moon Goddess Chang E title QS:P1476,en:\"The Moon Goddess Chang E \"label QS:Len,\"The Moon Goddess Chang E \"",
+    "artist": "anonymous",
+    "license": "Public domain",
+    "width": 525,
+    "height": 1000
+  }
+}

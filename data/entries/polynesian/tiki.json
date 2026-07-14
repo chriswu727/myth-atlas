@@ -1,0 +1,102 @@
+{
+  "id": "tiki",
+  "tradition": "polynesian",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "提基",
+    "en": "Tiki",
+    "original": "Tiki",
+    "originalLang": "毛利语／马克萨斯语"
+  },
+  "title": {
+    "zh": "第一个人，人形雕像之名",
+    "en": "The First Man, and the Name of the Carved Figure"
+  },
+  "summary": {
+    "zh": "东波利尼西亚传统中的第一个人：毛利叙事说他由神所造，马克萨斯叙事说他以沙塑出第一个女人。这个名字也泛指人形雕像，如毛利绿玉胸坠海提基。",
+    "en": "The first man of East Polynesian tradition, made by the gods in Maori accounts; in the Marquesas he shaped the first woman from sand. The name also covers carved human figures such as the Maori hei-tiki pendant."
+  },
+  "description": {
+    "zh": "提基是东波利尼西亚传统中人类的开端。毛利各部的说法不一：多数谱系说提基是神所造的第一个男人，造他的或是森林之神塔内，或是战争之神图马塔文加；特雷吉尔1891年的《毛利-波利尼西亚比较词典》汇集了新西兰、马克萨斯、塔希提、曼加雷瓦等地的同源叙事，显示这个名字在整个东波利尼西亚都指向\"第一个人\"或\"造人者\"。马克萨斯群岛的版本更进一步：提基感到孤独，在住处旁堆起沙丘塑成人形，沙人化为活生生的女人，二人的后代繁衍成人类。\n\n\"提基\"同时是波利尼西亚人形雕像的通名。马克萨斯群岛的石提基蹲踞、巨眼、双手抚腹，希瓦瓦岛普阿玛乌的伊波纳祭址立有波利尼西亚现存最大的石提基\"塔卡伊\"，高约两米半。新西兰毛利人的海提基（hei-tiki）是挂于颈间的绿玉小像，头部歪斜、巨眼圆睁，作为传家宝\"塔翁加\"世代相传，承载历代佩戴者的威望。\n\n二十世纪中叶，\"提基\"一词在美国被借去命名一种波利尼西亚风情的酒吧与餐馆潮流（所谓提基文化），火把、木雕与调酒与原本的谱系叙事已无关系；波利尼西亚各族对雕像的珍视则未曾中断，海提基至今是毛利部落认同的醒目标志。",
+    "en": "Tiki is where humankind begins in East Polynesian tradition. Maori accounts differ tribe by tribe: in most genealogies Tiki is the first man, fashioned by a god — by Tane in some tellings, by Tumatauenga in others. Edward Tregear's Maori-Polynesian Comparative Dictionary (1891) gathers the cognate narratives from New Zealand, the Marquesas, Tahiti and Mangareva, all circling the same sense of \"first man\" or \"maker of man.\" The Marquesan version goes a step further: lonely, Tiki heaped up sand beside his dwelling and shaped it into a human form, the sand figure became a living woman, and their descendants peopled the land.\n\nTiki is also the general name for the carved human figure across Polynesia. Marquesan stone tiki crouch with enormous eyes and hands on the belly; the Iipona site at Puamau on Hiva Oa holds Takaii, at about two and a half meters the largest stone tiki in Polynesia. The Maori hei-tiki is a small greenstone (pounamu) figure worn at the neck, head tilted, eyes wide, passed down as a taonga heirloom that gathers the prestige of every wearer.\n\nIn the mid-twentieth century the word was borrowed in the United States for a fashion of Polynesian-themed bars and restaurants, torches, carvings and cocktails far removed from any genealogy. The figures themselves never lost their standing: the hei-tiki remains a conspicuous mark of Maori identity today."
+  },
+  "domains": {
+    "zh": [
+      "人类起源",
+      "雕像",
+      "祖先",
+      "传家宝"
+    ],
+    "en": [
+      "Origin of humankind",
+      "Carved figures",
+      "Ancestry",
+      "Heirlooms"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "身份",
+        "en": "Identity"
+      },
+      "value": {
+        "zh": "第一个人（毛利、马克萨斯等传统）",
+        "en": "The first man (Maori, Marquesan and other traditions)"
+      }
+    },
+    {
+      "label": {
+        "zh": "最大石像",
+        "en": "Largest stone figure"
+      },
+      "value": {
+        "zh": "希瓦瓦岛\"塔卡伊\"，高约2.5米",
+        "en": "Takaii on Hiva Oa, about 2.5 m tall"
+      }
+    },
+    {
+      "label": {
+        "zh": "毛利形制",
+        "en": "Maori form"
+      },
+      "value": {
+        "zh": "绿玉胸坠海提基",
+        "en": "The greenstone hei-tiki pendant"
+      }
+    }
+  ],
+  "related": [
+    "tane",
+    "hawaiki",
+    "maui"
+  ],
+  "sources": [
+    {
+      "zh": "爱德华·特雷吉尔《毛利-波利尼西亚比较词典》（1891年）",
+      "en": "Edward Tregear, Maori-Polynesian Comparative Dictionary (1891)"
+    },
+    {
+      "zh": "E.S.C.汉迪《马克萨斯传说》（毕晓普博物馆，1930年）",
+      "en": "E. S. C. Handy, Marquesan Legends (Bishop Museum, 1930)"
+    }
+  ],
+  "geo": {
+    "lat": -9.76,
+    "lon": -138.85,
+    "label": {
+      "zh": "伊波纳祭址（希瓦瓦岛普阿玛乌）",
+      "en": "Iipona site, Puamau, Hiva Oa"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tiki.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taka%27i%27i.jpg",
+    "sourceTitle": "Taka'i'i",
+    "artist": "Sémhur (talk)",
+    "license": "CC BY-SA 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

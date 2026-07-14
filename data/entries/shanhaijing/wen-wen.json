@@ -1,0 +1,89 @@
+{
+  "id": "wen-wen",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "文文",
+    "en": "Wenwen"
+  },
+  "title": {
+    "zh": "状如蜂而善呼的怪兽",
+    "en": "Bee-Shaped Beast Given to Loud Cries"
+  },
+  "summary": {
+    "zh": "放皋山异兽，形状像蜂，尾巴分叉，舌头倒生，喜欢大声呼叫，与同经善骂的山膏恰成一对。",
+    "en": "A beast of Mount Fanggao shaped like a bee, with a forked tail and a tongue set backwards, given to loud cries — a counterpart to the cursing Shangao of the same sequence."
+  },
+  "description": {
+    "zh": "《中次七经》记放皋之山，明水从山中流出，南注伊水，水中多苍玉。山中有兽“其状如蜂，枝尾而反舌，善呼，其名曰文文”：样子像一只蜂，尾巴像树枝一样分叉，舌头倒着生，成天大声呼叫。\n\n蜂的形状却称“兽”，尺寸经文没有交代，注家也只能就着字面猜想。它的两个特征一头一尾：“枝尾”是分叉的尾，“反舌”是倒生的舌，中间夹着一副爱喊的嗓子。经文没给它系任何灾祥——在灾兆密布的中山经群兽里，文文只是单纯地吵。它的“善呼”与同经苦山那头“善詈”的山膏遥相呼应，一个喊、一个骂，是中次七经山中一对聒噪的邻居。",
+    "en": "From Mount Fanggao the Ming River flows south into the Yi, carrying grey jade in its waters. The mountain's beast is the Wenwen: shaped like a bee, its tail forked like a branching twig, its tongue set backwards in its mouth, and given to loud cries.\n\nA 'beast' in the shape of a bee goes unexplained; the text gives no size, and commentators could only guess from the wording. Its two marks sit at either end of a noisy body — the branched tail behind, the reversed tongue in front. No omen is attached to it: among the portent-laden beasts of the central mountains, the Wenwen merely makes noise. Its habit of shouting pairs it with the Shangao of Mount Ku in the same seventh central sequence, the fire-red pig fond of cursing. One calls, one swears — two loud-mouthed neighbors in the same run of hills."
+  },
+  "domains": {
+    "zh": [
+      "蜂形",
+      "呼号",
+      "放皋之山"
+    ],
+    "en": [
+      "Bee-Shaped Beasts",
+      "Cries",
+      "Mount Fanggao"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "放皋之山",
+        "en": "Mount Fanggao"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如蜂，枝尾反舌",
+        "en": "Like a bee, forked tail, reversed tongue"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "善呼",
+        "en": "Given to loud cries"
+      }
+    }
+  ],
+  "related": [
+    "shan-gao",
+    "jiao-chong"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/wen-wen.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic303_-_%E6%96%87%E6%96%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic303 - 文文圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 662,
+    "height": 1000
+  }
+}

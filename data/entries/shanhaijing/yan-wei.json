@@ -1,0 +1,100 @@
+{
+  "id": "yan-wei",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "延维",
+    "en": "Yanwei"
+  },
+  "title": {
+    "zh": "紫衣旃冠、两头蛇身的泽神",
+    "en": "The Two-Headed Marsh Serpent in Purple Robes"
+  },
+  "summary": {
+    "zh": "人首蛇身、左右各生一头的神，身长如车辕，穿紫衣，戴旃冠；人主得而飨食之，可以称霸天下。即《庄子》里齐桓公见到的委蛇。",
+    "en": "A serpent-bodied god with a human head at either end, long as a chariot shaft, in purple robes and a felt cap. A ruler who feasts it attains hegemony — the Weiyi seen by Duke Huan of Qi."
+  },
+  "description": {
+    "zh": "海内经记：有一位神，人的头，蛇的身子，长如车辕，左右各生一个头，穿紫色衣服，戴旃冠（红色毡帽），名叫延维。经文附了一句非同小可的许诺：人主得到它、设宴飨食它，就能称霸天下。\n\n郭璞注一语道破：这就是《庄子》里的委蛇。《庄子·达生》记齐桓公在大泽中打猎，见鬼而病，卧床数日。士人皇子告敖告诉他：泽中自有一种鬼物叫委蛇，粗如车毂，长如车辕，穿紫衣，戴朱冠；它最怕雷车之声，一听见就捧着脑袋站起来——「见之者殆乎霸」，见到它的人差不多要成霸主了。桓公闻言转忧为喜，大笑道「此寡人之所见者也」，整衣冠与告敖坐谈，不到一天病就不知不觉好了。一场心病，被一条祥瑞之蛇的解释治愈。\n\n闻一多在《伏羲考》中提出一个著名的解读：延维、委蛇即人首蛇身、两首共一身的交尾神像，正与汉代帛画石刻上伏羲女娲人首蛇躯、双尾相缠的图像同出一源——泽中之神或许是上古创世偶像流落民间的残影。此说至今仍是讨论延维时绕不开的一家之言。",
+    "en": "The final chapter records a god with a human head on a serpent's body, long as a chariot shaft, with a head at either end, dressed in purple robes and a red felt cap: Yanwei. The text appends a startling promise — a ruler of men who obtains it and feasts it will become hegemon of all under heaven.\n\nGuo Pu's commentary identifies it at a stroke with the Weiyi of the Zhuangzi. There, Duke Huan of Qi goes hunting in the marshes, sees a ghost, and takes to his bed. The gentleman Huangzi Gao'ao tells him what lives in marshes: a creature called Weiyi, thick as a wheel-hub and long as a chariot shaft, in purple robes and a scarlet cap, which so hates the sound of thunder-carts that it clasps its head and rises when it hears them — 'he who sees it is close to hegemony.' The duke's gloom breaks; he laughs, 'That is exactly what I saw!', straightens his robes to sit talking with his guest, and before the day is out the illness is gone without his noticing. An anxiety cured by a favorable identification.\n\nIn his Fuxi Kao, Wen Yiduo advanced a famous reading: Yanwei or Weiyi — one serpent body with a human head at each end — preserves the image of the intertwined creator pair, exactly as Han dynasty silk paintings and carved stones show Fuxi and Nüwa with human heads and coiled serpent tails. On this view the marsh god is a creation idol worn down into a country omen; the argument remains unavoidable in any discussion of Yanwei."
+  },
+  "domains": {
+    "zh": [
+      "蛇神",
+      "双首",
+      "泽薮",
+      "霸主之兆"
+    ],
+    "en": [
+      "Serpent God",
+      "Two Heads",
+      "Marshes",
+      "Omen of Hegemony"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人首蛇身，左右有首，长如车辕",
+        "en": "Serpent body with a human head at each end, long as a chariot shaft"
+      }
+    },
+    {
+      "label": {
+        "zh": "衣冠",
+        "en": "Dress"
+      },
+      "value": {
+        "zh": "衣紫衣，冠旃冠",
+        "en": "Purple robes and a felt cap"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆验",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "人主飨食之则伯天下",
+        "en": "The ruler who feasts it attains hegemony"
+      }
+    }
+  ],
+  "related": [
+    "nu-wa-zhi-chang",
+    "fuxi",
+    "nuwa"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内经》",
+      "en": "Classic of Mountains and Seas, final chapter ('Within the Seas')"
+    },
+    {
+      "zh": "《庄子·达生》",
+      "en": "Zhuangzi, 'Da Sheng' (Mastering Life)"
+    },
+    {
+      "zh": "闻一多《伏羲考》",
+      "en": "Wen Yiduo, Fuxi Kao (A Study of Fuxi)"
+    }
+  ],
+  "volume": {
+    "zh": "海内经",
+    "en": "Classic of Regions Within the Seas"
+  },
+  "image": {
+    "file": "/images/entries/yan-wei.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic62_-_%E5%BB%B6%E7%B6%AD%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic62 - 延維神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 677,
+    "height": 1000
+  }
+}

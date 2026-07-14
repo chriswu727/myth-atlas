@@ -1,0 +1,79 @@
+{
+  "id": "haewa-dal-onui",
+  "tradition": "korean",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "化作日月的兄妹",
+    "en": "The Brother and Sister Who Became the Sun and Moon",
+    "original": "해와 달이 된 오누이",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "老虎、年糕与日月起源的民谭",
+    "en": "A Tiger, Rice Cakes, and the Origin of Sun and Moon"
+  },
+  "summary": {
+    "zh": "老虎在山梁上一块块讨光年糕、吃掉母亲，又假扮她上门；兄妹攀着天降的新绳升天成了日月，老虎摔进高粱地，染红了秸秆。",
+    "en": "A tiger takes a mother's rice cakes pass by pass, then eats her and comes for her children in her clothes; the siblings climb a heaven-sent rope to become sun and moon, while the tiger's fall stains the sorghum red."
+  },
+  "description": {
+    "zh": "一位寡母替人做工，换了一篮年糕摸黑回家。每翻一道山梁，老虎都拦在路上：“给个年糕就不吃你。”年糕一块块给完，母亲也被吃掉了。老虎穿上她的衣裳、包上她的头巾去敲门。屋里的兄妹起了疑：娘的嗓音怎么这样粗？从门缝伸进来的手怎么长着毛？两人从后门溜出，爬上井边的大树。老虎在井水的倒影里看见他们，问怎么上去的。哥哥说抹了香油，老虎抱着树干直打滑；妹妹忍不住笑出声：用斧头砍出脚窝呀。\n\n眼看老虎一斧一斧凿着树干爬上来，兄妹向天祷告：要救我们，就降下新绳；要害我们，就降下烂绳。一条新绳垂下，两人攀绳升天。老虎照样祷告，得到的是烂绳，升到半空绳断了，摔在收割后的高粱茬地里，血染红了秸秆——民间说高粱秆发红就是从这儿来的。升了天的兄妹一个成了太阳，一个成了月亮；妹妹怕黑夜，哥哥便把太阳让给她。有的版本还说，妹妹害羞，不许人盯着看，谁抬头直视太阳，她就拿光针扎谁的眼睛。\n\n这是朝鲜半岛流传最广的民谭之一，《韩国口碑文学大系》在全国各道采录到大量异本，教科书与绘本改编不断。故事把“虎姑婆”式的惊险与日月起源、高粱变红这类风物解释缝在一起。",
+    "en": "A widowed mother, paid in rice cakes for a day's work, crosses the dark passes toward home. At each ridge a tiger blocks the path: 'Give me a rice cake and I won't eat you.' When the basket is empty the tiger eats her too, puts on her clothes and headscarf, and knocks at her door. Inside, her son and daughter grow suspicious: why is mother's voice so hoarse, and why is the hand through the door crack covered in fur? They slip out the back and climb the tall tree by the well. The tiger spots their reflection in the well water and asks how they got up. Sesame oil, says the brother, and the tiger slides down the greased trunk; the little sister laughs and blurts out the truth: cut footholds with an axe.\n\nAs the tiger chops its way up, the children pray: if heaven would save them, let down a new rope; if not, a rotten one. A new rope descends and carries them into the sky. The tiger prays the same prayer, receives a rotten rope, and falls midway onto a harvested sorghum field, where its blood dyes the stubble, the folk explanation for why sorghum stalks are red. The brother and sister became the moon and the sun; the sister feared the dark night, so her brother gave her the sun. In some versions she is shy besides, and pricks with needles of light the eyes of anyone who stares at her.\n\nThis is among the most widely told folktales of the peninsula; the Compendium of Korean Oral Literature records versions from every province, and schoolbook and picture-book retellings continue without pause. The tale stitches a tiger-at-the-door thriller onto origin lore for the sun, the moon, and red sorghum."
+  },
+  "domains": {
+    "zh": [
+      "日月起源",
+      "老虎",
+      "兄妹",
+      "民谭"
+    ],
+    "en": [
+      "Origin of sun and moon",
+      "Tiger",
+      "Siblings",
+      "Folktale"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名句",
+        "en": "Famous line"
+      },
+      "value": {
+        "zh": "“给个年糕就不吃你”",
+        "en": "'Give me a rice cake and I won't eat you'"
+      }
+    },
+    {
+      "label": {
+        "zh": "风物解释",
+        "en": "Etiologies"
+      },
+      "value": {
+        "zh": "日月的由来、高粱秆为何发红",
+        "en": "Why there are sun and moon; why sorghum stalks are red"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "zh": "《韩国口碑文学大系》（韩国学中央研究院，1980—1988年）",
+      "en": "Compendium of Korean Oral Literature (Academy of Korean Studies, 1980-88)"
+    },
+    {
+      "zh": "任晳宰《韩国口传说话》",
+      "en": "Im Seok-jae, Hanguk Gujeon Seolhwa (Korean Oral Tales)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/haewa-dal-onui.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_sun_and_moon_gods.png",
+    "sourceTitle": "Korean sun and moon gods",
+    "artist": "Unknown Korean painter, 1700s",
+    "license": "Public domain",
+    "width": 661,
+    "height": 1000
+  }
+}

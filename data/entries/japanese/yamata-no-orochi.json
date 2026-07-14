@@ -1,0 +1,100 @@
+{
+  "id": "yamata-no-orochi",
+  "tradition": "japanese",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "八岐大蛇",
+    "en": "Yamata no Orochi",
+    "original": "八岐大蛇（やまたのおろち）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "八头八尾的出云巨蛇",
+    "en": "The Eight-Headed, Eight-Tailed Serpent of Izumo"
+  },
+  "summary": {
+    "zh": "出云神话中的巨蛇，一身八头八尾，身覆苔藓桧杉、横跨八谷八岭，年年吞食少女；被须佐之男灌醉斩杀，尾中出草薙剑。",
+    "en": "A colossal serpent with eight heads and eight tails, its back grown over with moss and cypress, that devoured a maiden each year until Susanoo slew it drunk and found the sword Kusanagi in its tail."
+  },
+  "description": {
+    "zh": "《古事记》借老人脚摩乳之口描述这头怪物：眼睛红得像酸浆果，一个身子上生着八颗头、八条尾，身上长满青苔与桧树杉树，躯体绵延八个山谷、八道山岭，腹部常年血肉溃烂。它盘踞在出云国斐伊川上游，每年下山吞食脚摩乳夫妇的一个女儿，八个女儿已吃掉七个，只剩最幼的栉名田比卖。\n\n被逐出高天原的须佐之男恰在此时降临鸟上。他将栉名田比卖变作发梳插在头上，命老夫妇酿造反复重酿的八盐折之酒，筑起围垣，垣上开八个门，门内各置一瓮烈酒。大蛇到来，八颗头分别探入八瓮痛饮，醉倒横卧。须佐之男拔出十拳剑将其斩为数段，斐伊川的河水尽赤。斩到中段尾巴时剑刃崩缺，剖开蛇尾，得到一把大刀——天丛云剑，即后来的草薙剑，三种神器之一。传承解释这个剑名：大蛇所在之处，头顶常有云气笼罩。\n\n有研究者把这则神话读作斐伊川连年泛滥的写照，或与奥出云砂铁冶炼把河水染红的景观相联系。这条大蛇至今活在舞台上：岛根县石见神乐的剧目《大蛇》以多条金眼长蛇盘绕喷烟，是各地公演的压轴戏。",
+    "en": "The Kojiki puts the description in the mouth of the old man Ashinazuchi: eyes red as winter cherries, one body bearing eight heads and eight tails, moss and cypress and cedar sprouting from its back, a bulk stretching over eight valleys and eight ridges, its belly perpetually raw with blood. The monster haunted the upper Hii River in Izumo and came down once a year to devour one of the old couple's daughters; seven were gone, and only the youngest, Kushinada-hime, remained.\n\nSusanoo, newly banished from heaven, arrived at Torikami at just that moment. Turning the girl into a comb that he thrust into his hair, he had the couple brew eightfold-refined sake and build a fence with eight gates, a brimming vat behind each. The serpent came, dipped each of its eight heads into a vat, drank itself senseless, and sprawled asleep. Susanoo cut it to pieces with his ten-span sword until the Hii River ran red. At the middle tail his blade chipped; splitting the flesh he drew out a great sword, Ame-no-Murakumo, later called Kusanagi, one of the three imperial regalia, so named by tradition because clouds always hung above the serpent.\n\nScholars have read the myth as an image of the flooding Hii or of iron-sand smelting that reddened its waters. On stage the monster survives: the Iwami kagura piece Orochi, with its coiling, smoke-breathing serpents, remains the region's showstopper."
+  },
+  "domains": {
+    "zh": [
+      "巨蛇",
+      "河川",
+      "人身供祭"
+    ],
+    "en": [
+      "Serpent",
+      "Rivers",
+      "Human sacrifice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "一身八头八尾，眼如酸浆，身跨八谷八岭",
+        "en": "One body, eight heads and eight tails, eyes like winter cherries, spanning eight valleys"
+      }
+    },
+    {
+      "label": {
+        "zh": "弱点",
+        "en": "Weakness"
+      },
+      "value": {
+        "zh": "八盐折之酒",
+        "en": "Eightfold-refined sake"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗物",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "尾中藏天丛云剑（草薙剑）",
+        "en": "The sword Ame-no-Murakumo (Kusanagi), found in its tail"
+      }
+    }
+  ],
+  "related": [
+    "susanoo",
+    "kusanagi",
+    "amaterasu"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "geo": {
+    "lat": 35.15,
+    "lon": 133.17,
+    "label": {
+      "zh": "斐伊川上游·鸟上（岛根县奥出云町）",
+      "en": "Upper Hii River, Torikami (Okuizumo, Shimane)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/yamata-no-orochi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:YamataNoOrochi.jpg",
+    "sourceTitle": "YamataNoOrochi",
+    "artist": "Toyohara Chikanobu (豊原周延)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 481
+  }
+}

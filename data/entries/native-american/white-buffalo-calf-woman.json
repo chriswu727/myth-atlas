@@ -1,0 +1,51 @@
+{
+  "id": "white-buffalo-calf-woman",
+  "tradition": "native-american",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "白野牛犊女",
+    "en": "White Buffalo Calf Woman",
+    "original": "Ptesáŋwiŋ",
+    "originalLang": "拉科塔语"
+  },
+  "title": { "zh": "带来圣烟斗与七大圣礼的神女", "en": "Bringer of the Sacred Pipe and the Seven Rites" },
+  "summary": {
+    "zh": "拉科塔传统中的神圣女性：饥荒之年携圣烟斗降临，传授七大圣礼，离去时翻滚化为四色野牛。",
+    "en": "The holy woman of Lakota tradition who appeared in a year of famine bearing the sacred pipe, taught the Seven Sacred Rites, and departed by rolling into a buffalo of four colors."
+  },
+  "description": {
+    "zh": "拉科塔口传中，很久以前的一个饥荒之年，两名斥候外出寻找野牛群，迎面遇见一位身着白鹿皮衣、怀抱一束物事的美丽女子。一名斥候起了淫念上前，一团云雾罩下，散去时他只剩一堆白骨；另一名心怀敬畏，女子命他回营，让族人搭起圣帐迎候。她进入营地，将怀中的圣烟斗（chanunpa）授予人民：红石斗钵象征大地与族人之血，木斗柄象征草木，斗身十二根垂羽属于斑鹰，烟升起处，人的祈祷直达瓦坎·坦卡。\n\n她住了四天，传授了以烟斗为中心的七大圣礼——灵魂守持、汗屋净礼、求视礼、太阳舞、结亲礼、少女成年礼与掷球礼，并留下预言后离营而去。众人目送她在草原上翻滚四次，依次化为黑、褐、红、白四色的野牛，随后消失。白色野牛犊由此成为拉科塔人最神圣的征兆，每有白牛犊降生，至今仍被视为大事。\n\n1947年，奥格拉拉圣者黑麋鹿向学者约瑟夫·埃佩斯·布朗完整口述了七大圣礼及白野牛犊女的降临，1953年以《圣烟斗》为题出版，是这一传统最重要的文字记录。相传她留下的那杆原初圣烟斗，至今由第十九代守持者阿沃尔·望马（Arvol Looking Horse）保存于南达科他州夏延河保留地的绿草地。",
+    "en": "Lakota oral tradition tells that long ago, in a year of famine, two scouts searching for buffalo met a beautiful woman in white buckskin carrying a bundle. One scout approached her with lust; a cloud descended, and when it lifted only his bones remained. The other stood in awe, and she sent him back to have the people raise a sacred lodge to receive her. Entering the camp, she gave the people the chanunpa, the sacred pipe: its bowl of red stone standing for the earth and the blood of the people, its wooden stem for all that grows, twelve feathers hung from it belonging to the spotted eagle. Smoke rising from the pipe carries prayer directly to Wakan Tanka.\n\nShe stayed four days and taught the Seven Sacred Rites that center on the pipe, from the keeping of the soul and the sweat lodge to the vision quest, the Sun Dance, the making of relatives, the girl's coming-of-age, and the throwing of the ball. Leaving the camp, she rolled on the prairie four times, rising in turn as a black, a brown, a red, and finally a white buffalo before vanishing. The birth of a white buffalo calf has been the most sacred of signs to the Lakota ever since.\n\nIn 1947 the Oglala holy man Black Elk gave a full account of her coming and of the seven rites to the scholar Joseph Epes Brown, published in 1953 as The Sacred Pipe, the tradition's most important written record. The original Calf Pipe she left is said to pass down an unbroken line of keepers, held today by Arvol Looking Horse, the nineteenth keeper, at Green Grass on the Cheyenne River Reservation in South Dakota."
+  },
+  "domains": {
+    "zh": ["圣礼", "烟斗", "野牛", "预言"],
+    "en": ["Sacred rites", "The pipe", "Buffalo", "Prophecy"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "民族来源", "en": "People" },
+      "value": { "zh": "拉科塔（苏族）", "en": "Lakota (Sioux)" }
+    },
+    {
+      "label": { "zh": "所授之礼", "en": "Teachings" },
+      "value": { "zh": "圣烟斗与七大圣礼", "en": "The sacred pipe and the Seven Sacred Rites" }
+    },
+    {
+      "label": { "zh": "离去之相", "en": "Departure" },
+      "value": { "zh": "翻滚四次，化为黑、褐、红、白四色野牛", "en": "Rolled four times, becoming a black, brown, red, then white buffalo" }
+    }
+  ],
+  "related": ["wakan-tanka", "chanunpa"],
+  "sources": [
+    {
+      "zh": "约瑟夫·埃佩斯·布朗《圣烟斗：黑麋鹿口述奥格拉拉苏族七大圣礼》（1953）",
+      "en": "Joseph Epes Brown, The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux (1953)"
+    },
+    {
+      "zh": "詹姆斯·R·沃克《拉科塔信仰与仪式》所录松岭圣者口述",
+      "en": "Holy men's accounts in James R. Walker, Lakota Belief and Ritual"
+    }
+  ],
+  "image": null
+}

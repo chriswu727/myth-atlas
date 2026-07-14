@@ -1,0 +1,94 @@
+{
+  "id": "coyote",
+  "tradition": "native-american",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "郊狼",
+    "en": "Coyote",
+    "original": "Mą'ii",
+    "originalLang": "纳瓦霍语"
+  },
+  "title": {
+    "zh": "西部诸族的骗子神",
+    "en": "Trickster of the Western Peoples"
+  },
+  "summary": {
+    "zh": "北美西部流传最广的骗子神：贪婪、好色、聪明又愚蠢，既偷来火种、安放星辰，也屡屡因自作聪明丧命，又总能复活。",
+    "en": "The most widespread trickster of western North America: greedy, lecherous, clever and foolish at once. He steals fire and places the stars, dies of his own schemes, and always revives."
+  },
+  "description": {
+    "zh": "在大平原、高原、大盆地、加利福尼亚与西南部的数十个民族口传中，郊狼都是核心角色。他通常以能言的郊狼形象行走世间，有时化为男子。他身上并存着造物者与丑角两副面孔：许多民族讲他为人类偷来火种、教会捕鱼技艺、杀死祸害世间的怪物；同一批故事里，他又因贪吃、好色、嫉妒而把事情搞砸，被烫死、摔死、淹死，尸体过一夜便复原，故事继续。\n\n纳瓦霍传统称他为\"马伊\"（Mą'ii）。在纳瓦霍创世叙事中，先民把星星一颗颗认真摆上夜空，郊狼等得不耐烦，抓起星袋整个抛向天空，于是有了散乱的银河；他还把一颗星径直放在南方天际，即\"郊狼星\"。内兹佩尔塞、亚卡马等高原民族则讲述郊狼沿哥伦比亚河逆流而上、破坏鱼堰放出鲑鱼的事迹，解释了鲑鱼洄游的由来。\n\n对许多民族而言，郊狼故事属于冬季炉边的讲述传统，兼有娱乐与训诫功能：孩子从他的下场里学会何为贪、何为妄。二十世纪以来，郊狼作为\"骗子原型\"进入文学与人类学讨论，也常被视为华纳动画\"威利狼\"一类形象的远祖。",
+    "en": "Coyote stands at the center of the oral traditions of dozens of peoples across the Plains, Plateau, Great Basin, California, and the Southwest. He usually walks the world as a talking coyote, sometimes as a man, and carries two faces at once: creator and buffoon. Many nations tell how he stole fire for human beings, taught the arts of fishing, and destroyed the monsters that plagued the land; in the same story cycles he ruins everything through gluttony, lust, or envy, dies scalded, crushed, or drowned, and is whole again by morning so the stories can go on.\n\nThe Navajo call him Mą'ii. In Navajo creation narrative, while the Holy People were setting the stars into the sky one by one, Coyote lost patience, seized the pouch of stars, and hurled it upward, scattering the Milky Way; one star he placed deliberately in the south, the Coyote Star. Plateau peoples such as the Nez Perce and Yakama tell how Coyote traveled up the Columbia River breaking the fish dam and freeing the salmon, an account of why the salmon run.\n\nFor many nations Coyote stories belong to winter nights by the fire, entertainment and instruction at once: children learn from his fates what greed and recklessness cost. Since the twentieth century Coyote has entered literary and anthropological discussion as the trickster archetype, and is often named an ancestor of cartoon figures like Wile E. Coyote."
+  },
+  "domains": {
+    "zh": [
+      "骗术",
+      "盗火",
+      "创造与闯祸",
+      "死而复生"
+    ],
+    "en": [
+      "Trickery",
+      "Fire theft",
+      "Creation and mischief",
+      "Death and revival"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "纳瓦霍、内兹佩尔塞、克罗、卡鲁克、奥卡诺根等西部诸族",
+        "en": "Navajo, Nez Perce, Crow, Karuk, Okanogan, and many other western peoples"
+      }
+    },
+    {
+      "label": {
+        "zh": "讲述时节",
+        "en": "Storytelling season"
+      },
+      "value": {
+        "zh": "多在冬季夜晚讲述",
+        "en": "Traditionally told on winter nights"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名事迹",
+        "en": "Famous deeds"
+      },
+      "value": {
+        "zh": "抛星袋成银河、破鱼堰放鲑鱼、偷火",
+        "en": "Flinging the star pouch to make the Milky Way, breaking the fish dam to free the salmon, stealing fire"
+      }
+    }
+  ],
+  "related": [
+    "raven",
+    "nanabozho",
+    "skin-walker"
+  ],
+  "sources": [
+    {
+      "zh": "华盛顿·马修斯《纳瓦霍传说》（1897）",
+      "en": "Washington Matthews, Navaho Legends (1897)"
+    },
+    {
+      "zh": "哀鸽（克里斯汀·昆塔斯凯特）《郊狼故事集》（1933，奥卡诺根口传）",
+      "en": "Mourning Dove (Christine Quintasket), Coyote Stories (1933, Okanogan oral tradition)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/coyote.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coyote_went_up_the_river.png",
+    "sourceTitle": "Coyote went up the river",
+    "artist": "F. N. Wilson",
+    "license": "Public domain",
+    "width": 686,
+    "height": 1000
+  }
+}

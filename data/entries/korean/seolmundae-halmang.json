@@ -1,0 +1,100 @@
+{
+  "id": "seolmundae-halmang",
+  "tradition": "korean",
+  "type": "deity",
+  "era": "folk",
+  "name": {
+    "zh": "雪门大奶奶",
+    "en": "Seolmundae Halmang",
+    "original": "설문대할망",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "造出济州岛的巨人女神",
+    "en": "The Giantess Who Made Jeju Island"
+  },
+  "summary": {
+    "zh": "用裙兜搬土堆出汉拿山的济州巨人奶奶，裙子破洞漏下的土成了三百六十多座小火山丘；她的五百个儿子化作石头，人称五百将军。",
+    "en": "The giant grandmother of Jeju who piled up Hallasan with earth carried in her skirt; soil leaking through its holes became the island's hundreds of small volcanic cones, and her five hundred sons turned to stone."
+  },
+  "description": {
+    "zh": "雪门大奶奶是济州岛的创造者，身量大得没有边际：躺下时头枕汉拿山，双脚伸进海里搭在冠脱岛上；有的村子说她坐在汉拿山上，把牛岛当搓衣石洗衣裳。开天辟地之初，她用裙兜一兜一兜地搬土，堆出了一千九百五十米的汉拿山；裙子上满是破洞，一路漏下的土屑落成三百六十多座오름——济州遍地的小火山丘。\n\n她自恃身高，逢渊必试。济州多处深潭都传说被她量过，唯独汉拿山麓的물장오리深不见底，她一脚踩下去便没了顶，溺没在自己造的岛上。另一路传承把她说成灵室五百将军的母亲：五百个儿子出门觅食，她在巨釜里熬粥失足跌入，儿子们归来吃粥，最小的一个在锅底发现母亲的骨殖，恸哭着奔向西海，在遮归岛外化作孤岩，其余兄长尽数化作汉拿山灵室的石柱群。还有一则流传很广：她答应岛民，凑齐一百疋布为她做一件衣裳，就替他们造一座通往陆地的桥，岛民倾岛之力只凑出九十九疋，桥终究没有造成，济州至今是一座岛。\n\n这位女神不见于官修文献，全靠济州岛民口耳相传；学界一般以1771年张汉喆《漂海录》中漂流船员遥拜汉拿山女神呼救的记载为其最早的文字痕迹，系统的采录要到二十世纪，玄容骏《济州岛传说》（1976年）收录了各村异本。今天济州石文化公园以她与五百将军的传说为主题，每年五月举行纪念她的祭典。",
+    "en": "Seolmundae Halmang is the maker of Jeju Island, a giantess beyond measure: lying down she pillowed her head on Hallasan while her feet rested on Gwantal Island out at sea, and some villages tell of her sitting on the mountain to scrub laundry on the islet of Udo. At the beginning of things she carried earth in her skirt, load after load, and piled up the 1,950-meter Hallasan; the skirt was full of holes, and the soil that leaked out along the way settled into the island's 360-odd oreum, the small volcanic cones that dot Jeju.\n\nProud of her stature, she tested every deep water she met. Pools all over Jeju are said to have been measured by her, but Muljangori on the flank of Hallasan proved bottomless, and she sank from sight in the island she had built. Another line of tradition makes her the mother of the Five Hundred Generals of Yeongsil: while her five hundred sons were out foraging she fell into the great cauldron of porridge she was stirring, and when the youngest found her bones at the bottom he ran grieving to the western sea and turned to stone off the islet of Chagwido, while his brothers became the columns of rock that crowd Yeongsil ravine. A further tale has her promise the islanders a bridge to the mainland in exchange for a robe requiring one hundred bolts of cloth; the whole island mustered only ninety-nine, and the bridge was never built.\n\nShe appears in no official chronicle and survived entirely in the mouths of Jeju islanders. Scholars usually point to Jang Han-cheol's Pyohaerok of 1771, in which shipwrecked sailors sight Hallasan and cry out to its goddess, as her earliest written trace; systematic collection came only in the twentieth century, notably Hyeon Yong-jun's Legends of Jeju Island (1976). The Jeju Stone Park is laid out around her legend, and a rite in her memory is held there each May."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "巨人",
+      "济州岛",
+      "火山"
+    ],
+    "en": [
+      "Creation",
+      "Giantess",
+      "Jeju Island",
+      "Volcanoes"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "造物",
+        "en": "Works"
+      },
+      "value": {
+        "zh": "汉拿山与三百六十余座오름",
+        "en": "Hallasan and some 360 oreum cones"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "End"
+      },
+      "value": {
+        "zh": "溺于물장오리深潭，一说跌入粥釜",
+        "en": "Drowned in the bottomless Muljangori pool, or fell into the porridge cauldron"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早文字痕迹",
+        "en": "Earliest written trace"
+      },
+      "value": {
+        "zh": "张汉喆《漂海录》（1771年）",
+        "en": "Jang Han-cheol, Pyohaerok (1771)"
+      }
+    }
+  ],
+  "related": [
+    "samsin-halmoni"
+  ],
+  "sources": [
+    {
+      "zh": "玄容骏《济州岛传说》（1976年）",
+      "en": "Hyeon Yong-jun, Legends of Jeju Island (1976)"
+    },
+    {
+      "zh": "张汉喆《漂海录》（1771年）",
+      "en": "Jang Han-cheol, Pyohaerok (1771)"
+    }
+  ],
+  "geo": {
+    "lat": 33.362,
+    "lon": 126.533,
+    "label": {
+      "zh": "济州岛汉拿山",
+      "en": "Hallasan, Jeju Island"
+    }
+  },
+  "image": {
+    "file": "/images/entries/seolmundae-halmang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:KOCIS_Jeju_Island_(5982720813).jpg",
+    "sourceTitle": "KOCIS Jeju Island (5982720813)",
+    "artist": "Korea.net / Korean Culture and Information Service",
+    "license": "CC BY-SA 2.0",
+    "width": 1000,
+    "height": 796
+  }
+}

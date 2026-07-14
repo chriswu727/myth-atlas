@@ -1,0 +1,106 @@
+{
+  "id": "thule",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "图勒",
+    "en": "Thule",
+    "original": "Θούλη",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "皮西亚斯航抵的世界尽头之岛",
+    "en": "The island at the world's edge that Pytheas reached"
+  },
+  "summary": {
+    "zh": "希腊航海家皮西亚斯约公元前325年记述的极北之岛：不列颠以北六日航程，夏至太阳几乎不落，再往北是凝滞之海。\"极北图勒\"由此成为已知世界尽头的代名词。",
+    "en": "The far-northern island reported by the Greek navigator Pytheas around 325 BCE, six days' sail beyond Britain, where the midsummer sun barely set; \"Ultima Thule\" came to mean the edge of the known world."
+  },
+  "description": {
+    "zh": "图勒与其他失落之地不同：它出自一次真实的远航。约公元前325年，马赛利亚（今马赛）的希腊航海家皮西亚斯穿过直布罗陀北上，环航不列颠后继续向北，在《论海洋》中记述了距不列颠六日航程的岛屿图勒——那里夏至前后太阳几乎不落，居民以谷物、蜂蜜酿饮，再往北一日航程，海洋凝滞如\"海肺\"，海、气、雾混为一体，不可行船。《论海洋》原书失传，内容仅存于斯特拉波、普林尼等后世作者的转引之中，斯特拉波对皮西亚斯极尽讥讽，称其为\"弥天大谎者\"；近代学者则大多相信这次航行确有其事。\n\n图勒究竟是哪里，两千年来没有定论：冰岛、挪威中部海岸、设得兰与法罗群岛都有拥护者，皮西亚斯描述的\"凝滞之海\"常被解读为浮冰边缘或浓雾中的冰羹。维吉尔《农事诗》中\"最远的图勒\"（ultima Thule）一语使它定格为拉丁文学里已知世界尽头的代名词。\n\n图勒的现代回响横跨两极：丹麦探险家克努兹·拉斯穆森1910年在格陵兰西北建立的贸易站即命名\"图勒\"，此地后来成为美军图勒空军基地；而1918年慕尼黑成立的\"图勒会\"则把它篡改为雅利安人种的极北故乡，该团体与纳粹党早期人脉多有交集——这一流变与皮西亚斯的航海记录毫无干系。2019年，新视野号探测器飞掠的柯伊伯带天体486958曾以\"Ultima Thule\"为昵称，后正式定名\"阿罗科斯\"。",
+    "en": "Thule differs from other lost lands in springing from a real voyage. Around 325 BCE Pytheas, a Greek navigator from Massalia (Marseille), sailed past Gibraltar, circumnavigated Britain, and pressed north; his book On the Ocean described the island of Thule six days' sail beyond Britain, where around midsummer the sun scarcely set, the inhabitants brewed drink from grain and honey, and one day's sail further the ocean congealed into something like a \"sea-lung\", sea, air, and fog indistinguishable and impassable to ships. The book itself is lost, surviving only in quotations by Strabo, Pliny, and others; Strabo mocked Pytheas as an arch-liar, though modern scholarship largely accepts the voyage as genuine.\n\nWhere Thule lay has never been settled: Iceland, the mid-Norwegian coast, Shetland, and the Faroes all have champions, and the congealed sea is usually read as the edge of drift ice or ice slush in fog. Virgil's phrase \"ultima Thule\" in the Georgics fixed it in Latin letters as a byword for the outermost limit of the known world.\n\nIts modern echoes span opposites. The Danish explorer Knud Rasmussen named his 1910 trading post in northwest Greenland Thule, later the site of the American Thule Air Base. In 1918 the occult-nationalist Thule Society of Munich recast the island as the polar homeland of an \"Aryan race\", and its circle overlapped with the early Nazi party — a career with no connection to Pytheas's log. In 2019 the Kuiper Belt object visited by New Horizons carried the nickname Ultima Thule before being formally named Arrokoth."
+  },
+  "domains": {
+    "zh": [
+      "极北之岛",
+      "古代航海",
+      "世界尽头",
+      "神秘学挪用"
+    ],
+    "en": [
+      "Far-northern isle",
+      "Ancient seafaring",
+      "World's edge",
+      "Esoteric appropriation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest source"
+      },
+      "value": {
+        "zh": "皮西亚斯《论海洋》（约前325年，佚，见斯特拉波、普林尼转引）",
+        "en": "Pytheas, On the Ocean (c. 325 BCE, lost; quoted by Strabo and Pliny)"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志景象",
+        "en": "Signature sights"
+      },
+      "value": {
+        "zh": "夏至不落的太阳；凝滞如\"海肺\"的北海",
+        "en": "The unsetting midsummer sun; the congealed \"sea-lung\" beyond"
+      }
+    },
+    {
+      "label": {
+        "zh": "候选地点",
+        "en": "Candidate identities"
+      },
+      "value": {
+        "zh": "冰岛、挪威海岸、设得兰、法罗群岛",
+        "en": "Iceland, the Norwegian coast, Shetland, the Faroes"
+      }
+    }
+  ],
+  "related": [
+    "hyperborea",
+    "hy-brasil",
+    "atlantis"
+  ],
+  "sources": [
+    {
+      "zh": "斯特拉波《地理学》所引皮西亚斯《论海洋》",
+      "en": "Pytheas, On the Ocean, as quoted in Strabo's Geography"
+    },
+    {
+      "zh": "普林尼《自然史》",
+      "en": "Pliny the Elder, Natural History"
+    },
+    {
+      "zh": "维吉尔《农事诗》",
+      "en": "Virgil, Georgics"
+    }
+  ],
+  "geo": {
+    "lat": 64.8,
+    "lon": -18.6,
+    "label": {
+      "zh": "一说冰岛（最常见的候选地）",
+      "en": "Iceland, the most common identification"
+    }
+  },
+  "image": {
+    "file": "/images/entries/thule.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thule_%26_Orkney_%26_Feroe_Carta_Marina_Olaus_Magnus.jpg",
+    "sourceTitle": "Thule & Orkney & Feroe Carta Marina Olaus Magnus",
+    "artist": "Kevregourez",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 618
+  }
+}

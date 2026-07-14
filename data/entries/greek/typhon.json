@@ -1,0 +1,103 @@
+{
+  "id": "typhon",
+  "tradition": "greek",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "堤丰",
+    "en": "Typhon",
+    "original": "Τυφῶν",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "百首巨怪，诸神最后的敌手",
+    "en": "The Hundred-headed Monster, Last Challenger of the Gods"
+  },
+  "summary": {
+    "zh": "盖亚与塔耳塔洛斯之子，肩生百个蛇头、眼中喷火。挑战宙斯王权失败，被压在埃特纳火山之下。",
+    "en": "Child of Gaia and Tartarus, with a hundred serpent heads and fire in his eyes. He challenged Zeus for kingship and lies defeated beneath Mount Etna."
+  },
+  "description": {
+    "zh": "堤丰是大地女神盖亚与深渊塔耳塔洛斯所生的幼子，诸神遇到过的最可怕的敌手。赫西俄德描写他肩上生出一百个蛇头，眼中喷火，众头发出诸般声音——时而是神明能懂的话语，时而是公牛的吼、狮子的啸、幼犬的吠与长蛇的嘶。他起兵挑战宙斯的王权，宙斯以雷霆连击将他击倒，掷入塔耳塔洛斯；品达与埃斯库罗斯则说他被压在西西里的埃特纳火山之下，火山喷发就是他在翻身吐焰。\n\n阿波罗多洛斯《书藏》保存了更凶险的版本：堤丰一度割下宙斯手脚的筋腱藏进奇里乞亚的科律基翁山洞，赫耳墨斯盗回筋腱，宙斯方能再战取胜。他与蛇身女妖厄喀德娜生下刻耳柏洛斯、勒耳纳水蛇许德拉、喀迈拉与双头犬俄耳托斯，希腊神话里的名怪大半出自这一族。英语\"台风\"（typhoon）一词的来历常被联系到他的名字。",
+    "en": "Typhon, youngest child of Gaia and Tartarus, was the deadliest enemy the gods ever faced. Hesiod describes a hundred serpent heads rising from his shoulders, fire flashing beneath their brows, and voices of every kind — now speech the gods could understand, now the bellow of a bull, the roar of a lion, the yelping of whelps, the hiss of snakes. He rose against Zeus's kingship and was beaten down by volley after volley of thunderbolts and hurled into Tartarus; Pindar and Aeschylus say instead that he lies pinned beneath Mount Etna in Sicily, whose eruptions are his stirrings and his fire.\n\nApollodorus's Library preserves a grimmer version in which Typhon cut the sinews from Zeus's hands and feet and hid them in the Corycian cave in Cilicia, until Hermes stole them back and the god returned to win the battle. By the serpent-woman Echidna he fathered Cerberus, the Lernaean Hydra, the Chimera, and the two-headed dog Orthrus — most of the famous monsters of Greek myth belong to this brood. The word 'typhoon' has often been connected with his name."
+  },
+  "domains": {
+    "zh": [
+      "风暴",
+      "火山",
+      "怪物之父"
+    ],
+    "en": [
+      "Storms",
+      "Volcanoes",
+      "Father of monsters"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "盖亚与塔耳塔洛斯",
+        "en": "Gaia and Tartarus"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Mate"
+      },
+      "value": {
+        "zh": "蛇身女妖厄喀德娜",
+        "en": "The serpent-woman Echidna"
+      }
+    },
+    {
+      "label": {
+        "zh": "镇压地",
+        "en": "Prison"
+      },
+      "value": {
+        "zh": "埃特纳火山之下",
+        "en": "Beneath Mount Etna"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "cerberus"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "品达《皮托凯歌》第一首",
+      "en": "Pindar, Pythian 1"
+    },
+    {
+      "zh": "阿波罗多洛斯《书藏》",
+      "en": "Apollodorus, Bibliotheca"
+    }
+  ],
+  "geo": {
+    "lat": 37.751,
+    "lon": 14.994,
+    "label": {
+      "zh": "埃特纳火山",
+      "en": "Mount Etna"
+    }
+  },
+  "image": {
+    "file": "/images/entries/typhon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zeus_Typhon_Staatliche_Antikensammlungen_596.jpg",
+    "sourceTitle": "Zeus Typhon Staatliche Antikensammlungen 596",
+    "artist": "User:Bibi Saint-Pol",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 627
+  }
+}

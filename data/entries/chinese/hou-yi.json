@@ -1,0 +1,86 @@
+{
+  "id": "hou-yi",
+  "tradition": "chinese",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "后羿",
+    "en": "Hou Yi"
+  },
+  "title": {
+    "zh": "射落九日的神箭手",
+    "en": "The Archer Who Shot Down Nine Suns"
+  },
+  "summary": {
+    "zh": "尧时十日并出，禾稼焦枯，羿仰射九日、诛除群害，救民于烈焰；从西王母求得不死药，被妻子嫦娥服下奔月。",
+    "en": "When ten suns rose together and scorched the crops, the archer Yi shot down nine and slew the monsters ravaging the land; the elixir he won from the Queen Mother was taken by his wife Chang'e."
+  },
+  "description": {
+    "zh": "羿是中国神话中最伟大的弓箭手。《淮南子·本经训》记载，尧的时代十个太阳一齐升上天空，晒焦了庄稼草木，百姓无以为食，猰貐、凿齿、九婴、大风、封豨、修蛇等怪物同时为害四方。尧派羿\"上射十日\"，只留一日照临人间；他又在畴华之野杀凿齿、凶水之上诛九婴、青丘之泽缴大风、洞庭斩断修蛇、桑林擒获封豨，万民皆喜，尊尧为天子。\n\n另一条著名传说见《淮南子·览冥训》：羿向西王母请得不死之药，妻子姮娥（嫦娥）偷服后飞奔月宫，羿怅然无药可求。他的结局各说不一，《孟子·离娄下》记他的弟子逢蒙学尽其射术，\"思天下惟羿为愈己，于是杀羿\"。\n\n神话中射日的羿常与夏代篡位的有穷氏后羿混为一谈：《左传·襄公四年》记载后者恃其善射，取代夏帝太康摄政，荒于田猎，终被家臣寒浞所杀烹。屈原《天问》对射日与篡夏的事迹连番发问，可见战国时两个羿的传说已纠缠难分。",
+    "en": "Yi, often called Hou Yi, is the supreme archer of Chinese myth. The Huainanzi relates that in the time of Yao ten suns rose into the sky at once, scorching the crops and grasses so the people had nothing to eat, while monsters — Yayu, Chiseltooth, the nine-headed Jiuying, the great bird Dafeng, the giant boar Fengxi, and the long serpent Xiushe — ravaged the land. Yao sent Yi, who shot down nine of the ten suns, leaving one to light the world, then killed Chiseltooth in the wilds of Chouhua, slew the Jiuying at the Xiong River, snared Dafeng over the marsh of Qingqiu, cut the serpent at Lake Dongting, and took the boar in the Mulberry Grove. The people rejoiced.\n\nAnother chapter of the Huainanzi gives the story that shaped later folklore: Yi obtained the elixir of immortality from the Queen Mother of the West, but his wife Heng'e — later called Chang'e — stole and swallowed it and fled to the moon, leaving him bereft. Accounts of his death vary; Mencius records that his pupil Peng Meng, having learned all his master's art, decided only Yi surpassed him and killed him.\n\nThe mythic sun-shooter is regularly entangled with a historical namesake, the Hou Yi of the Youqiong clan who usurped the Xia throne from Tai Kang and was murdered by his own steward Han Zhuo, as told in the Zuozhuan. The 'Heavenly Questions' of the Chu ci already interrogates both figures in one breath."
+  },
+  "domains": {
+    "zh": [
+      "射术",
+      "除害",
+      "太阳"
+    ],
+    "en": [
+      "Archery",
+      "Slaying of Monsters",
+      "The Suns"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "彤弓素矰（朱弓白羽箭）",
+        "en": "A vermilion bow and white-fletched arrows"
+      }
+    },
+    {
+      "label": {
+        "zh": "功绩",
+        "en": "Feats"
+      },
+      "value": {
+        "zh": "射九日，除六害",
+        "en": "Nine suns shot down, six monsters slain"
+      }
+    }
+  ],
+  "related": [
+    "chang-e",
+    "xiwangmu"
+  ],
+  "sources": [
+    {
+      "zh": "《淮南子·本经训》",
+      "en": "Huainanzi, 'Benjing' chapter"
+    },
+    {
+      "zh": "《淮南子·览冥训》",
+      "en": "Huainanzi, 'Lanming' chapter"
+    },
+    {
+      "zh": "《孟子·离娄下》",
+      "en": "Mencius, 'Li Lou II'"
+    },
+    {
+      "zh": "《左传·襄公四年》",
+      "en": "Zuozhuan, 4th year of Duke Xiang"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hou-yi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wu_liang_shrine_relief_depicting_xihe,_yi,_and_fusang_tree.jpg",
+    "sourceTitle": "Wu liang shrine relief depicting xihe, yi, and fusang tree",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 815
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "lucifer",
+  "tradition": "abrahamic",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "路西法",
+    "en": "Lucifer",
+    "original": "Lucifer",
+    "originalLang": "拉丁语"
+  },
+  "title": {
+    "zh": "坠落的明亮之星",
+    "en": "The Fallen Morning Star"
+  },
+  "summary": {
+    "zh": "《以赛亚书》讽刺巴比伦王\"明亮之星、早晨之子何竟从天坠落\"，武加大译本译作 Lucifer（携光者）；基督教传统由此发展出堕天使叙事。",
+    "en": "Isaiah taunts the king of Babylon: 'How you have fallen from heaven, morning star, son of the dawn.' The Vulgate rendered the phrase as Lucifer, and Christian tradition built the fallen-angel narrative upon it."
+  },
+  "description": {
+    "zh": "路西法之名出自一段针对巴比伦王的讽刺诗。《以赛亚书》第十四章命以色列人向巴比伦王唱道：\"明亮之星、早晨之子啊，你何竟从天坠落？\"希伯来原文作\"黎明之子赫莱尔\"（helel ben shahar），指清晨的金星。诗中这位王曾心里说：我要升到天上，我要高举我的宝座在神众星以上，我要与至上者同等——结果却坠落阴间，到坑中极深之处。公元四世纪末的拉丁文武加大译本把\"明亮之星\"译作 lucifer，即\"携光者\"，本是金星的普通拉丁名。\n\n基督教早期作家把这段经文与另外两处经文连读：《路加福音》第十章耶稣说\"我曾看见撒但从天上坠落，像闪电一样\"，以及《启示录》第十二章巨龙及其使者被摔在地上。俄利根等教父由此把以赛亚诗中的坠落者理解为魔鬼的前身——一位因骄傲而背叛、在受造之初便坠落的光辉天使。Lucifer 遂由金星的名字转为堕天使的专名。这一读法是基督教的诠释传统，犹太传统并不将该经文指向撒但。\n\n后世文学把这个形象铸成了西方想象中最著名的反叛者。但丁《神曲·地狱篇》把路西法冻在地狱最底层的冰湖中，三张面孔各自咀嚼一个叛徒；弥尔顿《失乐园》（1667年）则写他率三分之一天使起兵败北、坠入火湖，说出\"宁在地狱称王，不在天堂为仆\"。今日通行的路西法形象——骄傲、雄辩、光辉未泯的堕落者——大半出自弥尔顿之笔。",
+    "en": "The name Lucifer comes from a taunt-song against the king of Babylon. Isaiah 14 has Israel sing: 'How you have fallen from heaven, morning star, son of the dawn!' The Hebrew phrase, helel ben shahar, names Venus as it rises before sunrise. The king of the poem had said in his heart, 'I will ascend to heaven; I will raise my throne above the stars of God; I will make myself like the Most High' — and is brought down instead to the depths of the pit. The Latin Vulgate of the late fourth century rendered 'morning star' as lucifer, 'light-bearer,' an ordinary Latin name for Venus.\n\nEarly Christian writers read the passage alongside two others: Jesus's words in Luke 10:18, 'I saw Satan fall like lightning from heaven,' and the dragon cast down with his angels in Revelation 12. Church fathers such as Origen concluded that the fallen figure of Isaiah's poem was the devil before his fall — a radiant angel ruined by pride at the beginning of creation — and Lucifer passed from a name of Venus to the proper name of the fallen angel. This reading is a Christian interpretive tradition; Jewish tradition does not take the verse as a reference to Satan.\n\nLiterature then forged the most famous rebel in the Western imagination. Dante's Inferno fixes Lucifer waist-deep in the ice of hell's lowest circle, each of his three mouths chewing a traitor; Milton's Paradise Lost (1667) gives him an army of a third of heaven's angels, a defeat, a lake of fire, and the declaration that it is 'better to reign in Hell than serve in Heaven.' The modern figure — proud, eloquent, his brightness not yet wholly quenched — is largely Milton's."
+  },
+  "domains": {
+    "zh": [
+      "晨星",
+      "骄傲",
+      "堕落",
+      "反叛"
+    ],
+    "en": [
+      "The morning star",
+      "Pride",
+      "The Fall",
+      "Rebellion"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Meaning of name"
+      },
+      "value": {
+        "zh": "拉丁语\"携光者\"，本为金星之名",
+        "en": "Latin 'light-bearer,' originally a name of Venus"
+      }
+    },
+    {
+      "label": {
+        "zh": "希伯来原文",
+        "en": "Hebrew original"
+      },
+      "value": {
+        "zh": "赫莱尔·本·沙哈尔，\"黎明之子、明亮之星\"",
+        "en": "Helel ben shahar, 'shining one, son of the dawn'"
+      }
+    },
+    {
+      "label": {
+        "zh": "文学定型",
+        "en": "Literary form"
+      },
+      "value": {
+        "zh": "但丁《神曲》、弥尔顿《失乐园》",
+        "en": "Dante's Inferno; Milton's Paradise Lost"
+      }
+    }
+  ],
+  "related": [
+    "michael",
+    "garden-of-eden",
+    "seraphim"
+  ],
+  "sources": [
+    {
+      "zh": "《以赛亚书》14:12-15",
+      "en": "Isaiah 14:12-15"
+    },
+    {
+      "zh": "《路加福音》10:18；《启示录》12:7-9",
+      "en": "Luke 10:18; Revelation 12:7-9"
+    },
+    {
+      "zh": "武加大译本（拉丁文圣经）",
+      "en": "The Latin Vulgate"
+    },
+    {
+      "zh": "弥尔顿《失乐园》（1667）",
+      "en": "John Milton, Paradise Lost (1667)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/lucifer.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paradise_Lost_9.jpg",
+    "sourceTitle": "The fall of Luciferìì",
+    "artist": "Gustave Doré",
+    "license": "Public domain",
+    "width": 813,
+    "height": 1000
+  }
+}

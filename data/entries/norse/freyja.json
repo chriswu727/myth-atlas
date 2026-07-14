@@ -1,0 +1,101 @@
+{
+  "id": "freyja",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "弗蕾亚",
+    "en": "Freyja",
+    "original": "Freyja",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "爱与丰饶的女神，战死者的拣选者",
+    "en": "Goddess of Love and Fertility, Chooser of the Slain"
+  },
+  "summary": {
+    "zh": "华纳神族出身的女神，佩布里希嘉曼项链，驾双猫之车。她司掌爱欲与丰饶，也分享战场：阵亡者一半归她的原野弗尔克范格。",
+    "en": "Vanir-born goddess of love and fertility who wears the necklace Brisingamen and drives a cat-drawn chariot; half of all battle-slain go to her field, Folkvangr."
+  },
+  "description": {
+    "zh": "弗蕾亚是海神尼奥尔德之女、丰饶之神弗雷的孪生妹妹，出身华纳神族。阿萨与华纳两族战争议和后，她随父兄作为人质来到阿萨神族居住，并把华纳的赛德巫术传授给诸神。她驾一辆由两只猫拉的车，颈上戴着以四夜情缘从四名侏儒手中换来的项链布里希嘉曼，还有一件隼羽斗篷，穿上便能化为飞鸟——洛基不止一次借用它救急。\n\n《格里姆尼尔之歌》说战场上的阵亡者由她与奥丁均分：一半入瓦尔哈拉，一半归她的原野弗尔克范格。她的丈夫奥德长年在外漫游，她四处寻他，落下的眼泪化为赤金。巨人们对她垂涎不已：索要她做建墙的工钱、盗锤的赎金，每一次都被诸神设计挡回。\n\n《特里姆之歌》里那句著名的拒绝出自她口：听说要把自己嫁给巨人赎回托尔的锤子，她怒得项链崩断，震动了阿萨神域的殿堂。北欧多地的地名与人名沿用她的名字，周五（Friday）一词按一说也与她有关，学界一般归于弗丽嘉，两说并存。",
+    "en": "Freyja is the daughter of the sea god Njord and twin sister of Freyr, born among the Vanir. After the war between the two divine tribes she came to the Aesir as a hostage of peace, and taught them the Vanir sorcery called seid. She drives a chariot drawn by two cats, owns a falcon-feather cloak that turns its wearer into a bird, and wears the necklace Brisingamen, bought from four dwarf smiths at the price of four nights.\n\nThe Grimnismal says the slain of every battlefield are divided between her and Odin: half ride to Valhalla, half to her meadow Folkvangr. Her husband Od wanders far from home, and as she searches for him her tears fall as red gold. Giants scheme endlessly to possess her, demanding her as a mason's wage or as ransom for Thor's stolen hammer, and each time the gods must trick their way out.\n\nThe Thrymskvida gives her its most famous moment of fury: told she is to be married off to a giant, she snorts with such rage that the halls of the Aesir shake and Brisingamen bursts from her neck. Place names across Scandinavia preserve her cult; the derivation of Friday is usually assigned to Frigg, though some have argued for Freyja."
+  },
+  "domains": {
+    "zh": [
+      "爱欲",
+      "丰饶",
+      "赛德巫术",
+      "战死者"
+    ],
+    "en": [
+      "Love",
+      "Fertility",
+      "Seid Magic",
+      "The Battle-Slain"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Emblem"
+      },
+      "value": {
+        "zh": "项链布里希嘉曼",
+        "en": "The necklace Brisingamen"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "双猫拉的车",
+        "en": "Chariot drawn by two cats"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "弗尔克范格原野的塞斯灵尼尔殿",
+        "en": "Sessrumnir hall on the field Folkvangr"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "thor",
+    "loki",
+    "mjolnir",
+    "valkyrie",
+    "valhalla"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·格里姆尼尔之歌》《特里姆之歌》",
+      "en": "Poetic Edda: Grimnismal and Thrymskvida"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    },
+    {
+      "zh": "《索尔利短篇》（收于《平岛书》，布里希嘉曼来历）",
+      "en": "Sorla thattr, in Flateyjarbok (the winning of Brisingamen)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/freyja.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freyja_and_cats_and_angels_by_Blommer.jpg",
+    "sourceTitle": "Swedish: Freja sökande sin make Freja Seeking her Husbandlabel QS:Lsv,\"Freja sökande sin make\"label QS:Len,\"Freja Seeking her Husband\"label QS:Lde,\"Freja sucht ihren Ehemann\"",
+    "artist": "Nils Blommér",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 660
+  }
+}

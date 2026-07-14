@@ -1,0 +1,94 @@
+{
+  "id": "geng-fu",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "耕父",
+    "en": "Gengfu"
+  },
+  "title": {
+    "zh": "游于清泠之渊、见则国败的凶神",
+    "en": "Baleful Spirit of the Qingling Pool Whose Appearance Dooms a Kingdom"
+  },
+  "summary": {
+    "zh": "丰山之神，常游清泠渊中，出入有光，现身则其国衰败；汉代宫廷大傩的咒辞里点名要把他囚回渊底。",
+    "en": "Spirit of Mount Feng who haunts the Qingling pool, surfacing in light; wherever he appears, that state falls to ruin. Han court exorcists chanted to lock him back in his pool."
+  },
+  "description": {
+    "zh": "《中次十一经》记丰山：“神耕父处之，常游清泠之渊，出入有光，见则其国为败。”耕父常年泡在清泠渊里，出入水面时有光，凡他现身，所在之国就要衰败。同一座山上还有九口钟，“是知霜鸣”——霜降之时，钟会自己鸣响；又有兽名雍和，状如猿而赤目赤喙黄身，见则国有大恐。丰山是一座凶信扎堆的山。\n\n名字里带一个“耕”字，司掌的却是败亡，汉代人把他归入岁末驱逐的恶鬼一类。张衡《东京赋》铺写洛阳宫廷的大傩，方相氏率百隶驱逐群厉，咒辞里有“囚耕父于清泠，溺女魃于神潢”一句——把耕父囚回清泠渊，把旱魃淹进神潢水。一位中山经里的渊中之神，就这样进了汉宫傩仪逐除的名单。",
+    "en": "On Mount Feng dwells the god Gengfu, who spends his days swimming the Qingling pool and surfaces wrapped in light; wherever he appears, that state falls to ruin. The same mountain keeps nine bells that ring of themselves when the frost descends, and a beast, the Yonghe — ape-like, red-eyed, red-muzzled, yellow-bodied — whose appearance portends great panic. Mount Feng is a hill crowded with bad news.\n\nThough his name carries the word for 'plough,' Han tradition classed Gengfu with the demons to be driven out at year's end. Zhang Heng's Rhapsody on the Eastern Capital, describing the Great Exorcism at the Luoyang court, where the Fangxiang master led his hundred underlings against the massed spirits of harm, includes the incantation: 'Imprison Gengfu in the Qingling, drown the Drought Demoness in the Divine Pool.' A pool-god from the central mountains thus entered the roster of spirits the Han palace expelled each year."
+  },
+  "domains": {
+    "zh": [
+      "凶神",
+      "清泠之渊",
+      "大傩"
+    ],
+    "en": [
+      "Baleful Spirits",
+      "The Qingling Pool",
+      "Exorcism Rites"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "丰山清泠之渊",
+        "en": "The Qingling pool on Mount Feng"
+      }
+    },
+    {
+      "label": {
+        "zh": "异象",
+        "en": "Sign"
+      },
+      "value": {
+        "zh": "出入有光",
+        "en": "Light attends his comings and goings"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆示",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其国为败",
+        "en": "His appearance portends a state's ruin"
+      }
+    }
+  ],
+  "related": [
+    "ju-ru",
+    "ji-meng",
+    "yu-er"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "张衡《东京赋》",
+      "en": "Zhang Heng, 'Rhapsody on the Eastern Capital' (Dongjing fu)"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/geng-fu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic40_-_%E8%80%95%E7%88%B6%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic40 - 耕父神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 677,
+    "height": 1000
+  }
+}

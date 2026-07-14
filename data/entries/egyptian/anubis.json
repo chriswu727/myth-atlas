@@ -1,0 +1,108 @@
+{
+  "id": "anubis",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "阿努比斯",
+    "en": "Anubis",
+    "original": "jnpw",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "防腐与墓地之神",
+    "en": "God of Embalming and the Necropolis"
+  },
+  "summary": {
+    "zh": "黑色胡狼首的防腐之神，为奥西里斯制成第一具木乃伊。他守护墓地、引导亡魂，在冥界审判中亲手校准称量心脏的天平。",
+    "en": "The black jackal-headed god of embalming who made the first mummy for Osiris; he guards cemeteries, guides the dead, and steadies the scales at the judgment of the heart."
+  },
+  "description": {
+    "zh": "阿努比斯的形象是一只卧伏的黑色胡狼，或胡狼首人身的男子。沙漠里的胡狼毛色黄褐，这身黑色取自防腐树脂与尼罗河淤泥的颜色，两者都指向死后的再生。他的经典称号包括'居于圣山之上者'——俯瞰墓地的守望者，以及'西方人（亡者）之首'——这个头衔后来转归奥西里斯。在古王国《金字塔铭文》中，他是最重要的丧葬神，早于奥西里斯崇拜的兴起。\n\n神话中，塞特肢解奥西里斯之后，正是阿努比斯将残躯缝合、以亚麻布包裹、施以防腐，制成了埃及的第一具木乃伊，由此确立了木乃伊工艺的神圣范本。现实中的防腐仪式再现了这一幕：主持防腐的祭司佩戴阿努比斯的胡狼面具，代神为死者操作。在《亡灵书》第125章的审判场景里，阿努比斯牵着死者的手步入双重真理之殿，随后蹲在天平旁拨正指针、查验砝码，确保心脏与真理羽毛的称量分毫不差。\n\n他的崇拜中心之一是中埃及的基诺波利斯（希腊语意为'犬城'），萨卡拉墓地则有专门的'阿努比斯神域'，晚期埃及人在此奉献了数以百万计的犬类木乃伊。",
+    "en": "Anubis appears as a recumbent black jackal or a jackal-headed man. The black is the color of embalming resin and of the Nile's fertile silt, both signs of rebirth after death, rather than the sandy coat of any real desert canid. His standing epithets include 'He who is upon his mountain,' the watcher overlooking the necropolis, and 'Foremost of the Westerners,' chief of the dead, a title that later passed to Osiris. In the Old Kingdom Pyramid Texts he is the principal funerary god, attested before the rise of the Osiris cult.\n\nIn myth, after Set dismembered Osiris it was Anubis who rejoined the pieces, wrapped them in linen, and treated them with unguents, producing the first mummy and fixing the divine pattern for the embalmer's craft. The actual rite reenacted the scene: the officiating priest wore a jackal mask of Anubis while working on the corpse. In the judgment scene of Book of the Dead spell 125, Anubis leads the deceased by the hand into the Hall of Two Truths, then crouches beside the balance, adjusting the plummet and checking the weights so that heart and feather are measured exactly.\n\nOne of his cult centers was Cynopolis, 'city of dogs,' in Middle Egypt, and the Anubieion sanctuary at Saqqara received millions of mummified dogs as offerings in the Late Period."
+  },
+  "domains": {
+    "zh": [
+      "防腐",
+      "墓地",
+      "引魂",
+      "审判"
+    ],
+    "en": [
+      "Embalming",
+      "Necropolis",
+      "Guiding the Dead",
+      "Judgment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "黑色胡狼或胡狼首人身",
+        "en": "Black jackal or jackal-headed man"
+      }
+    },
+    {
+      "label": {
+        "zh": "称号",
+        "en": "Epithet"
+      },
+      "value": {
+        "zh": "居于圣山之上者",
+        "en": "He who is upon his mountain"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred site"
+      },
+      "value": {
+        "zh": "萨卡拉阿努比斯神域",
+        "en": "Anubieion at Saqqara"
+      }
+    }
+  ],
+  "related": [
+    "osiris",
+    "isis",
+    "weighing-of-the-heart",
+    "duat",
+    "maat"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《亡灵书》第125章",
+      "en": "Book of the Dead, spell 125"
+    },
+    {
+      "zh": "普鲁塔克《论伊西斯与奥西里斯》",
+      "en": "Plutarch, De Iside et Osiride"
+    }
+  ],
+  "geo": {
+    "lat": 29.87,
+    "lon": 31.22,
+    "label": {
+      "zh": "萨卡拉",
+      "en": "Saqqara"
+    }
+  },
+  "image": {
+    "file": "/images/entries/anubis.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anubis_Weighing_the_Heart,_Tomb_of_Nakhtamun_MET_33.8.21_EGDP019648_Cropped.jpg",
+    "sourceTitle": "Anubis Weighing the Heart, Tomb of Nakhtamun",
+    "artist": "Nina M. Davies",
+    "license": "CC0",
+    "width": 1000,
+    "height": 964
+  }
+}

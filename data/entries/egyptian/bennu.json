@@ -1,0 +1,105 @@
+{
+  "id": "bennu",
+  "tradition": "egyptian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "贝努鸟",
+    "en": "Bennu",
+    "original": "bnw",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "自生的太阳之鸟",
+    "en": "Self-created Bird of the Sun"
+  },
+  "summary": {
+    "zh": "立于创世原初土丘之上的圣鸟，形如头生双羽的苍鹭，第一声啼鸣开启了时间。它与拉和奥西里斯同体，希腊不死鸟传说即由它演化而来。",
+    "en": "The sacred bird perched on the primeval mound at creation, shaped like a heron with two long crest plumes, whose first cry set time in motion; the Greek phoenix legend grew from it."
+  },
+  "description": {
+    "zh": "新王国以降的贝努鸟画作是一只灰鹭：长喙长颈，脑后拖着两根细长的冠羽，有时头顶阿太夫冠或日轮。赫利奥波利斯的神学讲，创世之初，贝努鸟自我生成，落在从原初之水中浮起的第一块陆地——奔奔石之上，一声啼鸣划破寂静，时间由此开始运行。它的名字与'奔奔石'和方尖碑顶端的'奔奔小尖石'同源，都出自意为'升起、闪耀'的词根。它被称为'拉的巴（灵魂）'，同时又与死而复生的奥西里斯相通，成对地联结着朝日与再生。\n\n《亡灵书》第83章题为'化为贝努鸟之咒'，死者念诵它便能变身为这只圣鸟，宣称'我是从原初中生出的岁月之神'。心形护身符上也常刻贝努鸟，取其自我更新之意。\n\n希罗多德《历史》卷二记录了他在赫利奥波利斯听来的'不死鸟'（phoinix）故事：那鸟每五百年从阿拉伯飞来一次，用没药裹着父亲的遗体葬入太阳神庙。这段记载是希腊不死鸟传说最早的完整版本，其源头正是贝努鸟；经老普林尼、塔西佗与早期基督教寓言文本层层转写，浴火重生的凤凰意象传遍欧洲，追根溯源仍是尼罗河畔那只立在奔奔石上的苍鹭。",
+    "en": "From the New Kingdom onward the Bennu is painted as a grey heron: long bill, long neck, two slender crest plumes trailing from the back of its head, sometimes crowned with the atef or the solar disk. In the theology of Heliopolis, the Bennu came into being of itself at creation and alighted on the benben, the first mound of land to rise from the primeval waters; its opening cry broke the silence and set time in motion. Its name shares a root meaning 'to rise, to shine' with the benben stone and with the benbenet, the capstone of the obelisk. It was called the ba, the manifest soul, of Ra, while also linked to the resurrected Osiris, binding sunrise and rebirth in a single figure.\n\nSpell 83 of the Book of the Dead, 'spell for becoming a Bennu bird,' lets the deceased take the bird's form and declare himself the god of the ages arisen from the primeval flood. Heart amulets, emblems of self-renewal, frequently carry its image.\n\nIn Book II of the Histories, Herodotus reports the tale he heard at Heliopolis of the phoinix, a bird that flies in from Arabia once every five hundred years bearing its father's body sealed in myrrh for burial in the temple of the sun. This is the earliest full account of the Greek phoenix, and its source is the Bennu; relayed through Pliny, Tacitus, and Christian allegory, the image of the fire-reborn phoenix spread across Europe from that heron on the benben stone."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "太阳",
+      "重生",
+      "时间"
+    ],
+    "en": [
+      "Creation",
+      "Sun",
+      "Rebirth",
+      "Time"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "头生两根冠羽的灰鹭",
+        "en": "Grey heron with two crest plumes"
+      }
+    },
+    {
+      "label": {
+        "zh": "栖所",
+        "en": "Perch"
+      },
+      "value": {
+        "zh": "赫利奥波利斯的奔奔石",
+        "en": "The benben stone at Heliopolis"
+      }
+    },
+    {
+      "label": {
+        "zh": "后世回响",
+        "en": "Legacy"
+      },
+      "value": {
+        "zh": "希腊不死鸟（凤凰）传说的源头",
+        "en": "Origin of the Greek phoenix legend"
+      }
+    }
+  ],
+  "related": [
+    "ra",
+    "osiris"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《亡灵书》第83章",
+      "en": "Book of the Dead, spell 83"
+    },
+    {
+      "zh": "希罗多德《历史》卷二",
+      "en": "Herodotus, Histories, Book II"
+    }
+  ],
+  "geo": {
+    "lat": 30.13,
+    "lon": 31.31,
+    "label": {
+      "zh": "赫利奥波利斯",
+      "en": "Heliopolis"
+    }
+  },
+  "image": {
+    "file": "/images/entries/bennu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Representation_of_the_Bennu_(1878)_-_TIMEA.jpg",
+    "sourceTitle": "Representation of the Bennu (1878) - TIMEA",
+    "artist": "Ramsthal, August",
+    "license": "CC BY-SA 2.5",
+    "width": 951,
+    "height": 1000
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "pao-xiao",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "狍鸮",
+    "en": "Paoxiao"
+  },
+  "title": {
+    "zh": "目在腋下的食人贪兽，即饕餮",
+    "en": "The Man-Eating Glutton with Eyes in Its Armpits, Identified with the Taotie"
+  },
+  "summary": {
+    "zh": "钩吾之山的食人兽：羊身人面，眼睛长在腋下，虎齿人爪，啼声如婴儿。郭璞注认定它就是饕餮。",
+    "en": "A man-eater of Gouwu Mountain: goat's body, human face, eyes set in its armpits, tiger's teeth and human hands, crying like an infant. Guo Pu's commentary identifies it as the taotie."
+  },
+  "description": {
+    "zh": "北次二经的钩吾之山，山上多玉，山下多铜。山中有兽，羊的身子，人的面孔，一双眼睛却长在腋下，口中是虎齿，前肢是人手一样的爪，发出的声音像婴儿啼哭，名叫狍鸮，是吃人的兽。经文只用三十余字，拼出一副格外不安的形象：要看清来者，它得抬起前肢。\n\n晋代郭璞在注中把这条记载与传世铜器和文献接通：狍鸮“为物贪惏，食人未尽，还害其身”，就是《左传》里说的饕餮。《左传·文公十八年》记缙云氏有个不成器的儿子，贪于饮食、冒于货贿，天下人把他与浑敦、穷奇、梼杌并列为“四凶”，称作饕餮；《吕氏春秋·先识》则说周鼎上铸着饕餮，“有首无身，食人未咽，害及其身”，用来警戒贪得无厌者的下场。\n\n自宋代金石学家以来，商周青铜器上那种瞪目、有首无身的兽面纹被通称为“饕餮纹”，这一命名正源自《吕氏春秋》的描述。饕餮由此成为汉语里“贪食”的代名词，今天“饕客”“饕餮盛宴”仍沿用其名，而它作为狍鸮的本相——腋下生目的食人羊——反倒少有人记得。",
+    "en": "Gouwu Mountain in the second guideway of the Northern Mountains is rich in jade above and copper below. Its resident beast has a goat's body and a human face, but its eyes sit in its armpits; its teeth are a tiger's, its claws like human hands, and its voice is the crying of an infant. It is called the paoxiao, and it eats people. In some thirty characters the text assembles a peculiarly unsettling creature: to see who approaches, it must lift its forelegs.\n\nThe fourth-century commentator Guo Pu connected this entry to bronze vessels and older texts: the paoxiao is 'a greedy thing that starts to harm itself before it finishes eating a man' — none other than the taotie of the Zuozhuan. That chronicle, under the eighteenth year of Duke Wen, tells of a worthless son of the Jinyun clan, insatiable in food and grasping in goods, whom the world ranked among the Four Fiends under the name Taotie. The Lüshi Chunqiu adds that Zhou tripods were cast with a taotie 'that has a head but no body, and is destroyed before it can swallow the man it eats', a warning against boundless greed.\n\nSince Song-dynasty antiquarians, the staring, bodiless animal masks on Shang and Zhou bronzes have been conventionally called taotie designs, a name taken straight from that passage. Taotie survives in modern Chinese as the byword for gluttony, while its identity as the paoxiao — the man-eating goat with eyes in its armpits — is largely forgotten."
+  },
+  "domains": {
+    "zh": [
+      "贪婪",
+      "食人",
+      "青铜纹样",
+      "四凶"
+    ],
+    "en": [
+      "Greed",
+      "Man-Eating",
+      "Bronze Iconography",
+      "Four Fiends"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "羊身人面，目在腋下，虎齿人爪",
+        "en": "Goat's body, human face, eyes in the armpits, tiger's teeth, human-like claws"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如婴儿啼哭",
+        "en": "Like a crying infant"
+      }
+    },
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Also known as"
+      },
+      "value": {
+        "zh": "饕餮（郭璞注）",
+        "en": "Taotie, per Guo Pu's commentary"
+      }
+    }
+  ],
+  "related": [
+    "du-gu",
+    "long-zhi",
+    "he-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（北次二经·钩吾之山）及郭璞注",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Gouwu Mountain), with Guo Pu's commentary"
+    },
+    {
+      "zh": "《左传·文公十八年》",
+      "en": "Zuozhuan, 18th year of Duke Wen"
+    },
+    {
+      "zh": "《吕氏春秋·先识》",
+      "en": "Lüshi Chunqiu, 'Xianshi' chapter"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/pao-xiao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8B%8D%E9%B4%9E.jpg",
+    "sourceTitle": "狍鴞",
+    "artist": "明朝胡文煥",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 448
+  }
+}

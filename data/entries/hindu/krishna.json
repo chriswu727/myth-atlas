@@ -1,0 +1,113 @@
+{
+  "id": "krishna",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "克里希那",
+    "en": "Krishna",
+    "original": "कृष्ण",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "吹笛的牧牛神，《薄伽梵歌》的宣说者",
+    "en": "The flute-playing cowherd god, speaker of the Bhagavad Gita"
+  },
+  "summary": {
+    "zh": "毗湿奴第八化身：蓝肤持笛的牧牛少年，单指托起牛增山；长大后诛杀暴君刚沙，在俱卢之战为阿周那执缰，阵前宣说《薄伽梵歌》。",
+    "en": "Vishnu's eighth avatar: the blue cowherd with a flute who lifted Mount Govardhana on one finger, slew the tyrant Kamsa, and as Arjuna's charioteer spoke the Bhagavad Gita on the battlefield."
+  },
+  "description": {
+    "zh": "克里希那（又译黑天）肤色青黑如雨云，头插孔雀翎，斜倚牛旁横吹竹笛。暴君刚沙听闻预言将死于妹妹提婆吉的第八子之手，便囚禁妹妹逐一杀婴；第八子克里希那降生当夜，父亲瓦苏提婆抱着他冒雨渡过亚穆纳河，蛇王舍沙张开蛇兜为婴儿挡雨，把他寄养在沃林达文的牧民家中。牧区岁月是他神话中最受喜爱的篇章：偷吃黄油的顽童、降伏毒蛇迦利耶的少年、笛声引得牧牛女（gopi）月下环舞的情郎，与牧女罗陀的爱恋成为虔信诗歌咏唱千年的主题。因陀罗降下七日暴雨时，他单指托起牛增山为全村遮雨。\n\n成年后他重返马图拉，徒手格杀刚沙，后率族人西迁滨海的德瓦尔卡建国。《摩诃婆罗多》中他是般度五子的盟友与谋主：俱卢大战前夕，他亲任阿周那的驭者；当阿周那面对满阵亲族拒战掷弓，克里希那在两军之间宣说七百颂的《薄伽梵歌》，晓谕履行职分、行动而不执著于果报之道，并展现吞纳万有的宇宙形相。大战后三十六年，他在林中静坐，猎人误把他的脚当作伏鹿，一箭射中脚跟，他就此离世，德瓦尔卡城随之沉入海中。\n\n对克里希那的虔信（bhakti）塑造了近千年的印度文学与艺术：12世纪胜天的梵语长诗《牧童歌》咏罗陀与克里希那之恋，细密画与舞蹈反复描绘笛声下的环舞；他的诞辰“诞辰八日节”（Janmashtami）是全印大节，1966年创立的国际克里希那意识协会（“哈瑞奎师那”运动）又把他的名号带到了西方街头。",
+    "en": "Krishna's skin is the blue-black of a storm cloud; a peacock feather tilts in his hair and a bamboo flute rests at his lips. The tyrant Kamsa, warned that his sister Devaki's eighth son would kill him, imprisoned her and slaughtered her newborns one by one; on the night the eighth child was born, his father Vasudeva carried him through the flooding Yamuna—the serpent Shesha spreading his hoods as an umbrella—to be fostered among the cowherds of Vrindavan. Those pastoral years are the best-loved part of his myth: the butter thief, the boy who subdued the venomous serpent Kaliya, the youth whose flute drew the gopis to dance in a circle under the moon, his love for the cowherd girl Radha the theme of a thousand years of devotional poetry. When Indra loosed seven days of storm, Krishna held Mount Govardhana over the village on one finger.\n\nGrown, he returned to Mathura and killed Kamsa with his bare hands, later leading his clan west to found the seaside city of Dwarka. In the Mahabharata he is ally and counsellor to the five Pandavas, and on the eve of the great war at Kurukshetra he serves as Arjuna's charioteer. When Arjuna drops his bow rather than kill his own kin, Krishna, between the two armies, speaks the seven hundred verses of the Bhagavad Gita—act without attachment to the fruits of action—and reveals his universal form, which swallows all worlds. Thirty-six years after the war, a hunter mistakes his foot for a deer and the arrow finds his heel; he departs, and Dwarka sinks beneath the sea.\n\nDevotion to Krishna has shaped Indian art for a millennium: Jayadeva's 12th-century Sanskrit poem Gita Govinda sings of Radha and Krishna, miniature painting returns endlessly to the circle dance, his birthday festival Janmashtami is kept across India, and the Hare Krishna movement founded in 1966 carried his name to streets in the West."
+  },
+  "domains": {
+    "zh": [
+      "虔信",
+      "智慧",
+      "牧牛",
+      "音乐"
+    ],
+    "en": [
+      "Devotion",
+      "Wisdom",
+      "Cowherds",
+      "Music"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Emblems"
+      },
+      "value": {
+        "zh": "竹笛、孔雀翎、青黑肤色",
+        "en": "Bamboo flute, peacock feather, storm-dark skin"
+      }
+    },
+    {
+      "label": {
+        "zh": "挚爱",
+        "en": "Beloved"
+      },
+      "value": {
+        "zh": "牧女罗陀",
+        "en": "Radha the gopi"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Holy places"
+      },
+      "value": {
+        "zh": "马图拉、沃林达文、德瓦尔卡",
+        "en": "Mathura, Vrindavan, Dwarka"
+      }
+    },
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "诞辰八日节（八九月间）",
+        "en": "Janmashtami (August–September)"
+      }
+    }
+  ],
+  "related": [
+    "vishnu",
+    "indra",
+    "rama",
+    "naga"
+  ],
+  "sources": [
+    {
+      "zh": "《摩诃婆罗多·薄伽梵歌》",
+      "en": "Bhagavad Gita, Mahabharata"
+    },
+    {
+      "zh": "《薄伽梵往世书》第十篇",
+      "en": "Bhagavata Purana, Book 10"
+    }
+  ],
+  "geo": {
+    "lat": 27.49,
+    "lon": 77.67,
+    "label": {
+      "zh": "马图拉",
+      "en": "Mathura"
+    }
+  },
+  "image": {
+    "file": "/images/entries/krishna.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:VenugopalKrishna-CGRamanujam-RaviVarmaPressOleographPrint-IndianPainting_976d929e-9cb4-472a-94a2-9dfd59cff9b2_(1).jpg",
+    "sourceTitle": "VenugopalKrishna-CGRamanujam-RaviVarmaPressOleographPrint-IndianPainting 976d929e-9cb4-472a-94a2-9dfd59cff9b2 (1)",
+    "artist": "Ravi Varma Press Malavi/Lonavla",
+    "license": "Public domain",
+    "width": 695,
+    "height": 1000
+  }
+}

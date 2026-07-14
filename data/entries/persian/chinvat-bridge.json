@@ -1,0 +1,96 @@
+{
+  "id": "chinvat-bridge",
+  "tradition": "persian",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "钦瓦特桥",
+    "en": "Chinvat Bridge",
+    "original": "Činvatō Pərətu",
+    "originalLang": "阿维斯陀语"
+  },
+  "title": {
+    "zh": "分辨善恶的审判之桥",
+    "en": "The Bridge of the Separator"
+  },
+  "summary": {
+    "zh": "琐罗亚斯德教中亡灵必经的审判之桥：义人面前它宽逾九矛，恶人脚下窄如刀锋。桥头有神明持秤称量一生善恶。",
+    "en": "The bridge every soul must cross after death in Zoroastrian belief: nine spear-lengths wide for the righteous, narrow as a blade's edge for the wicked, with divine judges weighing each life at its head."
+  },
+  "description": {
+    "zh": "钦瓦特桥，阿维斯陀语意为\"分辨者之桥\"，是琐罗亚斯德教来世观的中枢。先知本人的《伽萨》已数次提到它：义人将由琐罗亚斯德引领过桥，谎言的追随者则在桥头被自己的灵魂控诉。按帕拉维语文献的铺陈，人死后灵魂在遗体旁徘徊三夜，第四日破晓来到桥前——桥架在世界中央的正法峰（恰卡德·伊·代提克）与厄尔布尔士山之间，横跨地狱深渊。密特拉、斯劳沙与拉什努三神在桥头坐镇，拉什努手持不偏分毫的金秤，称量此人一生的思想、言语与行为。\n\n审判的机制在于桥会变形：对善行占上风的灵魂，桥面展开至九矛之宽，一位芬芳美丽的少女迎面走来——她是此人自己的\"达埃纳\"（信仰人格）的化身，伴他登上通往天界的三级台阶；对恶行深重者，桥刃翻转，窄如剃锋，迎接他的达埃纳是一个丑陋的老妪，灵魂从桥上翻坠，跌入深浅与其罪相称的地狱。九世纪的帕拉维语游记《阿尔达·维拉夫书》记录了义人维拉夫的灵魂出窍之旅，他在斯劳沙护送下亲历此桥，逐层看遍天堂与地狱的赏罚，这部书常被拿来与但丁《神曲》对读。审判桥的意象也进入了后世伊斯兰教的\"绥拉特桥\"传统。",
+    "en": "The Chinvat Bridge, Avestan for \"bridge of the separator,\" is the hinge of the Zoroastrian afterlife. The prophet's own Gathas already invoke it: the righteous will be led across, while the followers of the Lie are denounced by their own souls at its head. As the Pahlavi books elaborate, the soul lingers near the body for three nights and comes to the bridge at the fourth dawn. The span runs from the Peak of Judgment, Chakad-i Daitik at the center of the world, to the Alborz range, over the gulf of hell; at its head sit Mithra, Sraosha, and Rashnu, the last holding golden scales that tip for no one, weighing every thought, word, and deed of the life just ended.\n\nThe judgment works through the bridge itself: for a soul whose good deeds prevail, the way broadens to nine spear-lengths, and a beautiful, fragrant maiden comes to meet him — his own daena, the embodiment of his faith and conduct — leading him up three steps into paradise. For the wicked the bridge turns on edge, thin as a razor, the daena appears as a hideous crone, and the soul plunges to a hell exactly as deep as its guilt. The ninth-century Pahlavi visionary text Arda Wiraz Namag recounts how the righteous Wiraz crossed the bridge in spirit under Sraosha's escort and toured the rewards and torments level by level, a book often set beside Dante's Divine Comedy. The image also passed into the later Islamic tradition of the Sirat bridge."
+  },
+  "domains": {
+    "zh": [
+      "死后审判",
+      "天堂与地狱",
+      "善恶称量"
+    ],
+    "en": [
+      "Judgment of the dead",
+      "Heaven and hell",
+      "Weighing of deeds"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "审判者",
+        "en": "Judges"
+      },
+      "value": {
+        "zh": "密特拉、斯劳沙、拉什努（持金秤）",
+        "en": "Mithra, Sraosha, and Rashnu with the golden scales"
+      }
+    },
+    {
+      "label": {
+        "zh": "迎接者",
+        "en": "The one who meets the soul"
+      },
+      "value": {
+        "zh": "达埃纳：义人见少女，恶人见老妪",
+        "en": "The daena: a maiden for the righteous, a crone for the wicked"
+      }
+    },
+    {
+      "label": {
+        "zh": "桥的两端",
+        "en": "Span"
+      },
+      "value": {
+        "zh": "正法峰至厄尔布尔士山",
+        "en": "From Chakad-i Daitik to the Alborz"
+      }
+    }
+  ],
+  "related": [
+    "ahura-mazda",
+    "mithra",
+    "angra-mainyu"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·伽萨》（《亚斯纳》第46、51章）",
+      "en": "Gathas of the Avesta (Yasna 46 and 51)"
+    },
+    {
+      "zh": "《阿尔达·维拉夫书》（9世纪帕拉维语）",
+      "en": "Arda Wiraz Namag (9th-century Pahlavi)"
+    },
+    {
+      "zh": "《本达希申》",
+      "en": "Bundahishn"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/chinvat-bridge.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drawing_of_the_Eastern_Wall_of_the_Sogdian_Wirkak%E2%80%99s_Sarcophagus.jpg",
+    "sourceTitle": "Drawing of the Eastern Wall of the Sogdian Wirkak’s Sarcophagus",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 817,
+    "height": 1000
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "guan-xiong-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "贯胸国",
+    "en": "Land of the Pierced Chests"
+  },
+  "title": {
+    "zh": "国人胸口天生洞穿的海外之国",
+    "en": "A Country Whose People Bear a Hole Through the Chest"
+  },
+  "summary": {
+    "zh": "海外南经所记之国，其民胸口有一个贯通前后的孔窍。后世传说这是大禹以不死之草救活自尽者留下的印记。",
+    "en": "A land in the far south whose people have a hole running clean through the chest. Later legend traces the opening to men Yu revived with the herb of deathlessness after they had stabbed their own hearts."
+  },
+  "description": {
+    "zh": "《海外南经》记：\"贯匈国在其东，其为人匈有窍。\"匈即胸，这个国家的人胸口天生有一个前后贯通的孔洞。《淮南子·墬形训》历数海外三十六国，其中就有\"穿胸民\"。后世《山海经》图本多把他们画成袒露上身、胸前洞开的人，还常添上一个细节：尊贵者出行不坐轿，由两人用竹竿或木棍穿过胸洞，把人抬着走。\n\n张华《博物志》记有一个来历故事：禹会诸侯于会稽，防风氏迟到被杀。后来禹巡行海外，防风氏的两个旧臣见禹，想起旧主之戮，怒而射禹，霎时风雷大作，二臣自知闯祸，以刀自贯其心而死。禹哀怜他们的忠心，命人以不死之草塞进伤口救活，胸口从此留下贯通的洞——他们的后代就是穿胸民。",
+    "en": "The Classic of Regions Beyond the Seas: South gives the country a single line: its people have an aperture in the chest. The Huainanzi counts a 'people of the pierced chest' among the thirty-six countries beyond the seas. Illustrated editions of the Shanhaijing usually show bare-chested figures with a clean tunnel through the torso, and often add a practical touch: dignitaries travel not by sedan chair but slung on a pole run through the chest-hole, carried between two bearers.\n\nZhang Hua's Bowuzhi (Records of Diverse Matters, 3rd century) supplies an origin tale. After Yu executed the chieftain Fangfeng for arriving late to the assembly at Kuaiji, two of Fangfeng's old retainers later encountered Yu on his progress beyond the seas. Grief and anger moved them to shoot at him; thunder and storm answered, and the two men, knowing themselves doomed, drove blades through their own hearts. Yu pitied their loyalty and had the wounds packed with the herb of deathlessness. They revived, but the channel through the chest remained, and their descendants became the pierced-chest people."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "奇异身体",
+      "大禹传说"
+    ],
+    "en": [
+      "Far Lands",
+      "Marvelous Bodies",
+      "Yu Legends"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "特征",
+        "en": "Mark"
+      },
+      "value": {
+        "zh": "胸有窍，前后贯通",
+        "en": "A hole running through the chest"
+      }
+    },
+    {
+      "label": {
+        "zh": "出行",
+        "en": "Travel"
+      },
+      "value": {
+        "zh": "旧图传尊者以竹木贯胸抬行",
+        "en": "Nobles carried on a pole through the chest, per later illustrations"
+      }
+    }
+  ],
+  "related": [
+    "da-yu",
+    "yu-min-guo",
+    "san-shou-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外南经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: South'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms'"
+    },
+    {
+      "zh": "张华《博物志》",
+      "en": "Zhang Hua, Bowuzhi (Records of Diverse Matters)"
+    }
+  ],
+  "volume": {
+    "zh": "海外南经",
+    "en": "Classic of Regions Beyond the Seas: South"
+  },
+  "image": {
+    "file": "/images/entries/guan-xiong-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic099_-_%E7%A9%BF%E8%83%B8%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic099 - 穿胸國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 648,
+    "height": 1000
+  }
+}

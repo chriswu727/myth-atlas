@@ -1,0 +1,98 @@
+{
+  "id": "tir-na-nog",
+  "tradition": "celtic",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "提尔纳诺",
+    "en": "Tir na nOg",
+    "original": "Tír na nÓg",
+    "originalLang": "爱尔兰语"
+  },
+  "title": {
+    "zh": "西海之外的青春之地",
+    "en": "The Land of Youth beyond the western sea"
+  },
+  "summary": {
+    "zh": "爱尔兰彼岸世界中最著名的国度，意为“青春之地”，无病无老无死。莪相随仙女妮亚芙渡海居留三百年，归乡落地的一刻化作老朽。",
+    "en": "The most famous of the Irish otherworld realms, 'the Land of Youth', without sickness, age or death. Oisin dwelt there three hundred years, and aged in a moment when he touched Irish soil again."
+  },
+  "description": {
+    "zh": "提尔纳诺意为“青春之地”，是爱尔兰彼岸世界诸国度中最著名的一个，位于人间地图之外的西海尽头。那里的时间与人间脱钩：无人衰老患病，宴饮、音乐与游猎不歇，树木同时开花结果。它属于一个更大的谱系——8世纪的《布兰航行记》里叫“女人国”与“苹果岛”（Emain Ablach），别处又称“应许之地”（Tír Tairngire）；据传达努神族败于米尔子民后，一部分退入地下仙冢，一部分渡海去了这样的国度。\n\n它的定型故事是莪相与妮亚芙：金发仙女妮亚芙骑白马踏浪而来，邀请费奥纳战团的诗人莪相同去她父亲的国土。莪相在提尔纳诺娶妻生子，自觉只过了三年，思乡回访时人间已过三百年，费奥纳早成传说。妮亚芙借他白马，嘱咐双脚不可沾地；他在格伦纳斯莫尔谷俯身帮人搬石，马鞍肚带断裂坠地，三百年的岁月在落地一瞬追上他，化作枯槁盲眼的老人。这一完整版本出自米哈尔·科明1750年前后的爱尔兰语长诗《莪相游青春之地》，而“莪相残年与圣帕特里克对谈”的框架早见于约1200年的《长老絮谈》。\n\n“提尔纳诺”今天在爱尔兰语文化圈几乎等于“乐园”的代名词，都柏林与各地的爱尔兰语幼儿园、青年组织常以它命名；西海尽头的长生国与“落地即老”的代价，也成为凯尔特幻想文学反复重写的母题。",
+    "en": "Tir na nOg, 'the Land of Youth', is the best known of the Irish otherworld realms, lying beyond the western sea, off every human map. Time there runs apart from mortal time: no one ages or sickens, the feasting and music do not end, and the trees carry blossom and fruit together. It belongs to a wider family of such countries: the eighth-century Voyage of Bran sails to the Land of Women and to Emain Ablach, the isle of apples, and other texts name Tir Tairngire, the Land of Promise. Tradition holds that after the Tuatha De Danann lost Ireland to the sons of Mil, part of the god-race withdrew into the hollow hills and part across the sea to realms like this.\n\nIts defining story is that of Oisin and Niamh. Niamh of the Golden Hair rides out of the surf on a white horse and asks the poet of the Fianna to come to her father's kingdom. Oisin marries her there, and what he takes for three years passes as three hundred in Ireland. Homesick, he rides back on her white horse under one condition: his feet must not touch the ground. In the glen of Gleann na Smol he leans from the saddle to help men move a stone, the girth snaps, and he falls; three centuries overtake him where he lands, leaving a blind and withered old man to tell St Patrick of the Fianna. The full tale is Micheal Coimin's Irish poem 'Laoi Oisin ar Thir na nOg' of about 1750; the frame of aged Oisin conversing with Patrick is already in Acallam na Senorach, around 1200.\n\nIn Irish-language culture the name now serves almost as the word for paradise, borrowed by naiscoileanna and youth clubs across the country, while the deathless land and the price of touching home soil remain among the most rewritten of Celtic motifs."
+  },
+  "domains": {
+    "zh": [
+      "彼岸世界",
+      "长生",
+      "时间错位",
+      "西海"
+    ],
+    "en": [
+      "Otherworld",
+      "Eternal youth",
+      "Time slip",
+      "Western sea"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "抵达方式",
+        "en": "Passage"
+      },
+      "value": {
+        "zh": "乘仙界白马踏海，或随仙人渡雾",
+        "en": "Over the waves on an otherworld horse, or led through the mist"
+      }
+    },
+    {
+      "label": {
+        "zh": "禁忌",
+        "en": "Taboo"
+      },
+      "value": {
+        "zh": "归乡者双脚不可沾人间土地",
+        "en": "The returner's feet must not touch mortal soil"
+      }
+    },
+    {
+      "label": {
+        "zh": "同类国度",
+        "en": "Kindred realms"
+      },
+      "value": {
+        "zh": "苹果岛 Emain Ablach、应许之地 Tír Tairngire",
+        "en": "Emain Ablach and Tir Tairngire"
+      }
+    }
+  ],
+  "related": [
+    "fionn-mac-cumhaill",
+    "oisin",
+    "selkie"
+  ],
+  "sources": [
+    {
+      "zh": "米哈尔·科明《莪相游青春之地》（Laoi Oisín ar Thír na nÓg，约1750）",
+      "en": "Micheal Coimin, Laoi Oisin ar Thir na nOg (The Lay of Oisin in the Land of Youth), c. 1750"
+    },
+    {
+      "zh": "《布兰航行记》（Immram Brain，8世纪）",
+      "en": "Immram Brain (The Voyage of Bran), 8th century"
+    },
+    {
+      "zh": "《长老絮谈》（Acallam na Senórach，约1200年）",
+      "en": "Acallam na Senorach, c. 1200"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/tir-na-nog.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heroes_of_the_dawn_(1914)_(14749671561).jpg",
+    "sourceTitle": "Heroes of the dawn (1914) (14749671561)",
+    "artist": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "width": 674,
+    "height": 1000
+  }
+}

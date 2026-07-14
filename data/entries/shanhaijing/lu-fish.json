@@ -1,0 +1,93 @@
+{
+  "id": "lu-fish",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "鯥",
+    "en": "Lu"
+  },
+  "title": {
+    "zh": "柢山上冬死夏生的陵居怪鱼",
+    "en": "Hill-Dwelling Fish That Dies in Winter and Lives in Summer"
+  },
+  "summary": {
+    "zh": "柢山怪鱼，形状如牛却住在山坡上，蛇尾有翼，翅膀生在肋下，冬天蛰伏如死、夏天复生；吃它的肉不生痈肿。",
+    "en": "A fish of Mount Di shaped like an ox yet living on hillsides, with a serpent's tail and wings sprouting beneath its ribs; it dies each winter and revives each summer, and eating it prevents tumorous swellings."
+  },
+  "description": {
+    "zh": "柢山多水，不生草木。《南山经》记：\"有鱼焉，其状如牛，陵居，蛇尾有翼，其羽在魼下，其音如留牛，其名曰鯥，冬死而夏生，食之无肿疾。\"经文明明称它为鱼，它却长着牛的身形，住在山坡上（陵居），拖一条蛇尾，肋下（魼，旧注读为胁）生出翅膀，叫声如牛鸣。一身之上，鱼、牛、蛇、鸟四类的零件拼在一起，是《山海经》拼合式造物的标本。\n\n最奇的是\"冬死而夏生\"：它冬天死去，夏天又活过来。郭璞注以蛰伏解之——冬蛰如死，非真死也，这大约是古人对冬眠现象最直白的记录之一。在巫术的对应逻辑里，一头能从死里回来的兽，肉自然克制坏死之症，所以\"食之无肿疾\"，吃它可免痈肿。历代图本画鯥，多作一头肋生双翅、蛇尾拖地的牛形鱼卧在山坡上，鳞、翼、蹄俱全，是图卷里构造最繁复的水族。",
+    "en": "Mount Di is rich in water and bare of plants, and its one marvel is emphatically called a fish while resembling almost anything else. The lu has the body of an ox; it dwells on the hillside, not in the streams; a serpent's tail trails behind it, and wings sprout from beneath its ribs — the character qu being read by the old commentators as the flanks. Its call is the lowing of an ox. Fish, ox, snake, and bird are riveted into one body, a textbook specimen of the Shanhaijing's composite creatures.\n\nStranger still is the clause 'it dies in winter and lives in summer'. Guo Pu's commentary resolves the paradox as hibernation — a winter torpor like death rather than death itself — making this one of the plainest early Chinese records of the phenomenon. Sympathetic magic supplies the medical rider: a beast that returns from death must master dead and rotting flesh, so eating it protects against tumorous swellings. Illustrated editions render the lu as a winged, scaled ox-fish couched on a slope, tail coiled and hooves showing, the most elaborately assembled water creature in the scrolls."
+  },
+  "domains": {
+    "zh": [
+      "怪鱼",
+      "冬眠复生",
+      "医药"
+    ],
+    "en": [
+      "Strange Fish",
+      "Death and Revival",
+      "Healing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "柢山山坡",
+        "en": "The slopes of Mount Di"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "冬死而夏生",
+        "en": "Dies in winter, revives in summer"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食之无肿疾",
+        "en": "Eating it prevents swellings"
+      }
+    }
+  ],
+  "related": [
+    "chi-ru",
+    "hu-jiao"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经传》",
+      "en": "Guo Pu, commentary on the Shanhaijing"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/lu-fish.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic404_-_%E9%AF%A5%E9%AD%9A%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic404 - 鯥魚圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 650,
+    "height": 1000
+  }
+}

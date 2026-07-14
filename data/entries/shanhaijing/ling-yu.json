@@ -1,0 +1,83 @@
+{
+  "id": "ling-yu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "陵鱼",
+    "en": "Lingyu"
+  },
+  "title": {
+    "zh": "人面人手人足、鱼身居海的人鱼",
+    "en": "A Fish-Bodied Sea Dweller with Human Face, Hands, and Feet"
+  },
+  "summary": {
+    "zh": "海内北经所记海中异类：人的脸、人的手足，长在一条鱼的身体上，栖居大海之中，是中国人鱼想象的早期形态。",
+    "en": "A creature of the northern seas: a human face, human hands and feet, joined to the body of a fish. One of the earliest Chinese images of the merfolk."
+  },
+  "description": {
+    "zh": "《海内北经》记：\"陵鱼人面，手足，鱼身，在海中。\"寥寥数字拼出一个奇特的身体：脸是人脸，还生着人的手与脚，躯干却是鱼，浮沉在大海里。经文把它列在海中诸奇物之间，前后有巨鱼大鯾、列姑射山与蓬莱山——那正是传说中仙人所居的海域。历代图本多把陵鱼画成一条竖起的大鱼，鱼腹两侧探出细小的手足，一张人脸嵌在鱼头上。\n\n《楚辞·天问》有\"鲮鱼何所\"之问，旧注中就有人认为鲮鱼即这种人面鱼身之物。《山海经》里鱼身人面的族类不止一种：海内南经的氐人国人面鱼身而无足，海外西经的龙鱼陵居于野。陵鱼有手有足，在诸种人鱼中肢体最全。后世志怪中的鲛人泣珠、水居织绡，直到今天通行的美人鱼想象，都可以在这条寥寥数字的记载里找到最早的中国先例之一。",
+    "en": "The Classic of Regions Within the Seas: North needs only one laconic line for it: human face, hands and feet, fish body, lives in the sea. The text places it among the marvels of the northern waters, in the same stretch of entries as the giant fish and the isles of Lieguye and Penglai where immortals were said to dwell. Illustrated editions typically show a large upright fish with small human hands and feet emerging below the fins and a human face set into the head.\n\nThe 'Heavenly Questions' of the Songs of Chu asks where the lingfish dwells, and some traditional commentators took that creature to be this same human-faced fish. Fish-bodied people form a small clan within the Shanhaijing itself: the Di people of the southern seas chapter have human faces and fish bodies but no feet, and the dragon-fish of the western chapter lives ashore on the plains. The Lingyu, with its full set of limbs, is the most completely human of them. The weeping, silk-weaving jiaoren mermaids of later tale collections, and the mermaid of the modern imagination, count this terse record among their earliest Chinese ancestors."
+  },
+  "domains": {
+    "zh": [
+      "人鱼",
+      "海中异类",
+      "北海"
+    ],
+    "en": [
+      "Merfolk",
+      "Sea Creatures",
+      "Northern Seas"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人面、人手足、鱼身",
+        "en": "Human face, hands, and feet on a fish body"
+      }
+    },
+    {
+      "label": {
+        "zh": "栖地",
+        "en": "Habitat"
+      },
+      "value": {
+        "zh": "海中，近列姑射、蓬莱所在的海域",
+        "en": "The sea, near the waters of Lieguye and Penglai"
+      }
+    }
+  ],
+  "related": [
+    "di-ren-guo",
+    "da-ren-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内北经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: North'"
+    },
+    {
+      "zh": "屈原《天问》",
+      "en": "Qu Yuan, 'Heavenly Questions' (Tianwen)"
+    }
+  ],
+  "volume": {
+    "zh": "海内北经",
+    "en": "Classic of Regions Within the Seas: North"
+  },
+  "image": {
+    "file": "/images/entries/ling-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic432_-_%E9%99%B5%E9%AD%9A%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic432 - 陵魚圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 672,
+    "height": 1000
+  }
+}

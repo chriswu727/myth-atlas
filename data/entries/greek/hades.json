@@ -1,0 +1,93 @@
+{
+  "id": "hades",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "哈迪斯",
+    "en": "Hades",
+    "original": "ᾍδης",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "冥界之王，死者的统治者",
+    "en": "Lord of the Underworld, Ruler of the Dead"
+  },
+  "summary": {
+    "zh": "冥界之王，宙斯与波塞冬的兄弟，抽签分得地下的死者国度。希腊人忌讳直呼其名，改称\"普路同\"。",
+    "en": "King of the underworld, brother of Zeus and Poseidon, who drew the realm of the dead by lot. Greeks avoided his name, calling him Plouton, the wealthy one."
+  },
+  "description": {
+    "zh": "哈迪斯是冥界之王，克洛诺斯与瑞亚之子，宙斯与波塞冬的兄弟。三兄弟战胜提坦后抽签分掌宇宙，他得到地下的死者国度；独眼巨人赠他一顶戴上便无影无形的隐身盔。他的疆域由斯堤克斯、阿刻戎等冥河环绕，渡夫卡戎摆渡亡魂，三头犬刻耳柏洛斯看守大门，放魂入内而不许其出。希腊人忌讳直呼其名，常改称\"普路同\"，意为\"财富者\"，因谷物与矿藏皆出自地下。\n\n他最著名的事迹见于《荷马颂歌·得墨忒耳颂》：他驾黑马战车从草地上掠走宙斯与得墨忒耳之女珀耳塞福涅。得墨忒耳悲愤之下使大地绝收，宙斯只得命他归还；哈迪斯让珀耳塞福涅吃下石榴籽，使她每年必须有一段时间回到冥府为后。希腊人以女神的往返解释四季：她在地下时，大地进入枯冬。",
+    "en": "Hades, son of Cronus and Rhea and brother of Zeus and Poseidon, drew the underworld when the three brothers cast lots after defeating the Titans. From the Cyclopes he received a cap that makes its wearer invisible. His realm is ringed by the rivers Styx and Acheron; the ferryman Charon carries the dead across, and the three-headed hound Cerberus guards the gate, admitting every soul and letting none depart. Greeks avoided speaking his name, calling him instead Plouton, 'the wealthy one,' since grain and metals alike come from beneath the earth.\n\nHis best-known deed is told in the Homeric Hymn to Demeter: he seized Persephone, daughter of Zeus and Demeter, from a meadow in his chariot of black horses. When the grieving Demeter made the earth barren, Zeus ordered the girl's return, but Hades gave Persephone pomegranate seeds to eat, binding her to reign beside him for part of each year. By the goddess's descent and return the Greeks explained the seasons: while she is below, the land lies in winter."
+  },
+  "domains": {
+    "zh": [
+      "冥界",
+      "死者",
+      "地下财富"
+    ],
+    "en": [
+      "Underworld",
+      "The dead",
+      "Riches of the earth"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "隐身盔、双股叉、水仙",
+        "en": "Cap of invisibility, bident, narcissus"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "珀耳塞福涅",
+        "en": "Persephone"
+      }
+    },
+    {
+      "label": {
+        "zh": "看门兽",
+        "en": "Guardian"
+      },
+      "value": {
+        "zh": "三头犬刻耳柏洛斯",
+        "en": "Cerberus, the three-headed hound"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "poseidon",
+    "cerberus",
+    "heracles"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "《荷马颂歌·得墨忒耳颂》",
+      "en": "Homeric Hymn to Demeter"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hades.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Locri_Pinax_Of_Persephone_And_Hades.jpg",
+    "sourceTitle": "Locri Pinax Of Persephone And Hades",
+    "artist": "AlMare",
+    "license": "CC BY-SA 4.0",
+    "width": 828,
+    "height": 1000
+  }
+}

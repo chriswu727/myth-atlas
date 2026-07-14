@@ -1,0 +1,106 @@
+{
+  "id": "avalon",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "阿瓦隆",
+    "en": "Avalon",
+    "original": "Insula Avallonis",
+    "originalLang": "拉丁语"
+  },
+  "title": {
+    "zh": "亚瑟王养伤长眠的苹果之岛",
+    "en": "The isle of apples where Arthur sleeps"
+  },
+  "summary": {
+    "zh": "亚瑟王传说中的苹果之岛：王者之剑在此铸成，重伤的亚瑟被送往此地疗伤。蒙茅斯的杰弗里12世纪首载，后与格拉斯顿伯里附会。",
+    "en": "The isle of apples of Arthurian legend, where Excalibur was forged and the wounded Arthur was carried. First recorded by Geoffrey of Monmouth, later tied to Glastonbury."
+  },
+  "description": {
+    "zh": "阿瓦隆最早见于蒙茅斯的杰弗里约1136年的《不列颠诸王史》：王者之剑卡利伯恩铸于阿瓦隆岛；卡姆兰之战后，身负致命伤的亚瑟被送往该岛疗伤，将王冠传予亲族康斯坦丁。杰弗里约1150年的《梅林传》补足了画面——那里又名\"苹果之岛\"或\"幸运之岛\"，田地无需耕作自行结实，人可活百岁以上，由摩根为首的九位姊妹治理，摩根精通医术与变形之术，亲自接下了亚瑟的伤体。\"亚瑟未死，将自阿瓦隆归来\"由此成为不列颠传说中最持久的期待，即所谓\"永恒之王\"。\n\n1191年，萨默塞特的格拉斯顿伯里修道院宣布在墓地深处掘出一具巨人遗骨与一方铅十字架，铭文称\"名王亚瑟葬于阿瓦隆岛\"，同时代的威尔士的杰拉尔德留下了在场记述。格拉斯顿伯里周边古时为沼泽环绕，突起的圣米迦勒塔山（Tor）远望确似岛屿；但学界普遍认为这次\"发现\"是修道院1184年大火后为筹款重建而策划的宣传。1278年爱德华一世夫妇曾亲临主持迁葬，墓址毁于1539年修道院解散。\n\n阿瓦隆的形象吸收了凯尔特传统中的西方仙岛（如爱尔兰的青春之地），马洛礼《亚瑟王之死》（1485）定型了贵妇们乘黑船载亚瑟离去的场景。玛丽昂·齐默·布拉德利的小说《阿瓦隆的迷雾》（1983）等现代重写让它至今仍是奇幻文学的核心地名。",
+    "en": "Avalon first appears in Geoffrey of Monmouth's Historia Regum Britanniae (c. 1136): the sword Caliburn was forged on the Insula Avallonis, and after the battle of Camlann the mortally wounded Arthur was carried there to be healed, resigning his crown. Geoffrey's Vita Merlini (c. 1150) fills in the picture: also called the Isle of Apples or the Fortunate Isle, it bears crops without ploughing, its people live past a hundred, and it is ruled by nine sisters led by Morgen, mistress of healing and shape-shifting, who took charge of Arthur's wound. From this grew the most durable hope in British legend, that Arthur, the once and future king, will return from Avalon.\n\nIn 1191 the monks of Glastonbury Abbey in Somerset announced they had unearthed a giant's bones and a lead cross inscribed to the effect that the renowned King Arthur lay buried in the isle of Avalon; Gerald of Wales recorded the exhumation. Glastonbury, its Tor rising over then-marshy levels, does read as an island from afar, but scholars generally take the discovery as publicity to fund rebuilding after the abbey's fire of 1184. Edward I and Queen Eleanor presided over a reburial in 1278; the tomb vanished with the abbey's dissolution in 1539.\n\nAvalon absorbed the Celtic tradition of blessed western isles such as the Irish Tír na nÓg. Malory's Le Morte d'Arthur (1485) fixed the scene of the queens bearing Arthur away by barge, and modern retellings from Marion Zimmer Bradley's The Mists of Avalon (1983) onward keep the name central to fantasy."
+  },
+  "domains": {
+    "zh": [
+      "仙岛",
+      "亚瑟王传说",
+      "摩根勒菲",
+      "格拉斯顿伯里"
+    ],
+    "en": [
+      "Otherworld isle",
+      "Arthurian legend",
+      "Morgan le Fay",
+      "Glastonbury"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest source"
+      },
+      "value": {
+        "zh": "蒙茅斯的杰弗里《不列颠诸王史》（约1136）",
+        "en": "Geoffrey of Monmouth, Historia Regum Britanniae (c. 1136)"
+      }
+    },
+    {
+      "label": {
+        "zh": "名称含义",
+        "en": "Meaning of the name"
+      },
+      "value": {
+        "zh": "苹果之岛（威尔士语afall，苹果树）",
+        "en": "Isle of apples (Welsh afall, apple tree)"
+      }
+    },
+    {
+      "label": {
+        "zh": "附会地点",
+        "en": "Identified with"
+      },
+      "value": {
+        "zh": "萨默塞特格拉斯顿伯里，1191年\"亚瑟墓\"出土",
+        "en": "Glastonbury, Somerset, site of the 1191 \"tomb of Arthur\""
+      }
+    }
+  ],
+  "related": [
+    "ys",
+    "hy-brasil",
+    "kitezh"
+  ],
+  "sources": [
+    {
+      "zh": "蒙茅斯的杰弗里《不列颠诸王史》（约1136）、《梅林传》（约1150）",
+      "en": "Geoffrey of Monmouth, Historia Regum Britanniae (c. 1136) and Vita Merlini (c. 1150)"
+    },
+    {
+      "zh": "威尔士的杰拉尔德关于1191年格拉斯顿伯里掘墓的记述",
+      "en": "Gerald of Wales on the 1191 Glastonbury exhumation"
+    },
+    {
+      "zh": "托马斯·马洛礼《亚瑟王之死》（1485）",
+      "en": "Thomas Malory, Le Morte d'Arthur (1485)"
+    }
+  ],
+  "geo": {
+    "lat": 51.1442,
+    "lon": -2.6861,
+    "label": {
+      "zh": "格拉斯顿伯里突岩（传统附会地）",
+      "en": "Glastonbury Tor, the traditional identification"
+    }
+  },
+  "image": {
+    "file": "/images/entries/avalon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Death_of_King_Arthur_by_James_Archer_(1860).jpg",
+    "sourceTitle": "The Death of King Arthurlabel QS:Len,\"The Death of King Arthur\"label QS:Lde,\"Der Tod von König Arthur\"label QS:Lfr,\"La Mort d'Arthur\"",
+    "artist": "James Archer",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 833
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "bunny-man",
+  "tradition": "american-folklore",
+  "type": "tale",
+  "era": "modern",
+  "name": {
+    "zh": "兔子人",
+    "en": "Bunny Man"
+  },
+  "title": { "zh": "挥斧的兔装人与「兔子人桥」", "en": "The Hatchet-Thrower in the Rabbit Suit and His Bridge" },
+  "summary": {
+    "zh": "1970年弗吉尼亚州费尔法克斯县两起真实事件——兔装男子挥斧恐吓路人——发酵成血腥的都市传说，克利夫顿的铁路涵洞因此得名「兔子人桥」。",
+    "en": "Two documented 1970 incidents in Fairfax County, Virginia — a man in a rabbit suit threatening people with a hatchet — fermented into a gory urban legend centered on \"Bunny Man Bridge,\" a railway underpass in Clifton."
+  },
+  "description": {
+    "zh": "兔子人传说罕见地拥有可查证的起点。1970年10月19日深夜，空军学院学员罗伯特·贝内特与未婚妻把车停在费尔法克斯县基尼路的一处路边，一个穿白色兔子装的男子从树丛冲出，斥责他们私闯，随手把一柄短斧掷穿了副驾侧车窗——斧头留在车里，成了警方的物证。十天后的10月29日，保安保罗·菲利普斯在附近一处未完工的房屋前再次遇到兔装男子：对方拿斧头砍着门廊立柱，威胁再有人私闯就「砍掉脑袋」。《华盛顿邮报》对两起事件均有报道，警方调查因无从锁定嫌疑人而结案。\n\n此后三十年，口头传播把「掷斧的怪人」加工成血腥的鬼故事：最流行的版本称1904年一批精神病院囚犯转运途中翻车，逃犯道格拉斯·格里芬藏身树林，以吃兔子为生，把猎杀的兔子（后来是闯入者）剥皮吊在克利夫顿镇科尔切斯特路的铁路涵洞下——那座砖砌单车道涵洞因此得名「兔子人桥」，传说每年万圣节午夜他会重现，吊死桥下逗留的人。事实上费尔法克斯县从未有过这样的精神病院，格里芬其人纯属虚构。\n\n费尔法克斯县公共图书馆的档案研究员布莱恩·康利对此案做了系统考证，写成《揭开兔子人的面具》，把1970年的报案记录与后世传说逐层剥离，成为都市传说研究中「真实事件如何长成传说」的范例。如今每逢万圣节，警方仍需在涵洞设岗驱散前来试胆的年轻人。",
+    "en": "The Bunny Man legend has an unusually verifiable starting point. Late on October 19, 1970, Air Force Academy cadet Robert Bennett and his fiancee parked on Guinea Road in Fairfax County when a man in a white rabbit suit burst from the bushes, shouted that they were trespassing, and hurled a hatchet through the front passenger window; the hatchet stayed in the car and became police evidence. Ten days later, on October 29, security guard Paul Phillips found a rabbit-suited man chopping at the porch post of an unfinished house nearby, threatening to take heads if trespassing continued. The Washington Post reported both incidents, and the police investigation closed without a suspect.\n\nOver the next three decades, retelling reworked the hatchet-thrower into a gory ghost story. The dominant version claims that a 1904 asylum transport overturned, that escapee \"Douglas Griffon\" survived in the woods eating rabbits, and that he hung skinned rabbits — later, trespassers — beneath the one-lane brick railway underpass on Colchester Road in Clifton, now called Bunny Man Bridge, returning each Halloween midnight to hang whoever lingers there. Fairfax County never had such an asylum, and Griffon is pure invention.\n\nBrian A. Conley, historian-archivist with the Fairfax County Public Library, untangled the case in his study \"The Bunny Man Unmasked,\" separating the 1970 police reports from the accreted legend — a model demonstration of how a documented oddity grows a mythology. Police still post officers at the underpass each Halloween to turn away carloads of legend-trippers."
+  },
+  "domains": {
+    "zh": ["都市传说", "传说地点", "真实事件发酵", "万圣节仪式"],
+    "en": ["Urban legend", "Legend tripping", "Fact-to-legend growth", "Halloween ritual"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "可考事件", "en": "Documented incidents" },
+      "value": { "zh": "1970年10月19日与29日两起挥斧恐吓", "en": "Hatchet threats on October 19 and 29, 1970" }
+    },
+    {
+      "label": { "zh": "传说地点", "en": "Legend site" },
+      "value": { "zh": "克利夫顿科尔切斯特路铁路涵洞（兔子人桥）", "en": "The Colchester Road underpass in Clifton (Bunny Man Bridge)" }
+    },
+    {
+      "label": { "zh": "考证者", "en": "Debunker" },
+      "value": { "zh": "布莱恩·康利（费尔法克斯县公共图书馆）", "en": "Brian A. Conley, Fairfax County Public Library" }
+    }
+  ],
+  "related": ["goatman", "bloody-mary"],
+  "sources": [
+    { "zh": "《华盛顿邮报》1970年10月报道", "en": "Washington Post reports, October 1970" },
+    { "zh": "布莱恩·康利《揭开兔子人的面具》（费尔法克斯县公共图书馆）", "en": "Brian A. Conley, \"The Bunny Man Unmasked\" (Fairfax County Public Library)" }
+  ],
+  "geo": {
+    "lat": 38.77,
+    "lon": -77.39,
+    "label": { "zh": "弗吉尼亚州克利夫顿「兔子人桥」", "en": "Bunny Man Bridge, Clifton, Virginia" }
+  },
+  "image": null
+}

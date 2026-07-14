@@ -1,0 +1,96 @@
+{
+  "id": "fei",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "蜚",
+    "en": "Fei"
+  },
+  "title": {
+    "zh": "过水水竭、行草草死的瘟疫之兽",
+    "en": "The Plague Beast That Dries Rivers and Withers Grass in Its Track"
+  },
+  "summary": {
+    "zh": "太山的独目凶兽：牛身白头，蛇尾，走过水则水枯，踏过草则草死；它一出现，天下就起大疫。",
+    "en": "A one-eyed horror of Tai Mountain: an ox's body with a white head and a snake's tail. Water dries where it wades, grass dies where it treads, and its appearance brings pestilence across the world."
+  },
+  "description": {
+    "zh": "东次四经的太山——与东次一经狪狪所居的泰山同音而非一地——山上多金玉和桢木。山中有兽名蜚：牛的身子，白色的脑袋，脸上只有一只眼睛，身后拖一条蛇尾。经文没有写它扑咬伤人，只写它经行的后果：“行水则竭，行草则死”，它涉过的河流随即干涸，踏过的草地当场枯死。而它的现身预告着“天下大疫”。\n\n《山海经》的凶兽大多要么伤人、要么示警，蜚把两件事合并成一件：它走到哪里，哪里就先行上演一遍瘟疫的效果——水源断绝，植被死亡——然后疾病随之而来。郭璞注称之为灾兽，历代图赞和杂纂谈及大疫之兆，蜚总在名单前列。东次四经以它收束灾异序列：合窳主水，薄鱼主旱，蜚主疫，三灾各有司。\n\n“蜚”字在先秦文献里另指一种为灾的小虫，《春秋》经文有“秋，有蜚”的记录，古人以为灾异书之。虫与兽同名而异物，后世注家常并举两条以辨其别。太山这头白首独目的牛，是“蜚”名下更庞大也更彻底的那个灾。",
+    "en": "Tai Mountain in the fourth eastern guideway — a namesake of, and distinct from, the Mount Tai where the tongtong lives — carries gold, jade, and privet on its slopes. Its beast is the fei: an ox's body under a white head, a single eye in the face, and a snake's tail behind. The text records no attack, only aftermath: 'where it wades, water dries up; where it walks, grass dies.' The streams it crosses fail, the turf it treads withers on the spot, and its appearance announces pestilence for all under heaven.\n\nMost horrors in the classic either harm people or warn them; the fei folds the two together. Wherever it passes, the landscape rehearses the plague in advance — water gone, vegetation dead — and the sickness follows. Guo Pu's commentary ranks it among the calamity beasts, and in later compilations on omens of epidemic the fei stands near the head of the list. It also closes the fourth guideway's roster of disasters: the heyu governs flood, the bo fish drought, the fei pestilence — three catastrophes, each with its officer.\n\nIn pre-Qin texts the character 'fei' separately names a small insect counted as a blight; the Spring and Autumn Annals records 'in autumn, there were fei' as a portent worth writing down. Insect and beast share the name and nothing else, and commentators have long set the two entries side by side to keep them distinct. The white-headed, one-eyed ox of Tai Mountain is the larger and more thorough of the two disasters."
+  },
+  "domains": {
+    "zh": [
+      "瘟疫",
+      "独目",
+      "枯竭",
+      "凶兆"
+    ],
+    "en": [
+      "Pestilence",
+      "One-Eyed",
+      "Blight",
+      "Ill Omens"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "牛身白首，一目，蛇尾",
+        "en": "Ox's body, white head, one eye, snake's tail"
+      }
+    },
+    {
+      "label": {
+        "zh": "行迹",
+        "en": "Track"
+      },
+      "value": {
+        "zh": "行水则竭，行草则死",
+        "en": "Dries the water it crosses, kills the grass it treads"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆应",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则天下大疫",
+        "en": "Its appearance brings pestilence under heaven"
+      }
+    }
+  ],
+  "related": [
+    "he-yu",
+    "dang-kang",
+    "qiu-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次四经·太山）及郭璞注",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Tai Mountain of the fourth guideway), with Guo Pu's commentary"
+    },
+    {
+      "zh": "《春秋·庄公二十九年》（同名虫灾“有蜚”之记载）",
+      "en": "Spring and Autumn Annals, 29th year of Duke Zhuang (the insect blight of the same name)"
+    }
+  ],
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/fei.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic293_-_%E8%9C%9A%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic293 - 蜚圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 694,
+    "height": 1000
+  }
+}

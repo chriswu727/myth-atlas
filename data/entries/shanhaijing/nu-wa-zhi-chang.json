@@ -1,0 +1,100 @@
+{
+  "id": "nu-wa-zhi-chang",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "女娲之肠",
+    "en": "Nüwa's Entrails"
+  },
+  "title": {
+    "zh": "女娲肠子化成的十位神人",
+    "en": "Ten Gods Transformed from Nüwa's Entrails"
+  },
+  "summary": {
+    "zh": "栗广之野上横在路旁的十位神人，由女娲的肠子变化而成——这是《山海经》全书唯一提到女娲的地方。",
+    "en": "Ten gods lying athwart the road on the plain of Liguang, transformed from the entrails of Nüwa — the only mention of Nüwa in the entire Classic of Mountains and Seas."
+  },
+  "description": {
+    "zh": "大荒西经记：「有神十人，名曰女娲之肠，化为神，处栗广之野，横道而处。」十位神人共用一个名字——女娲之肠，他们是女娲的肠子变化而成，住在栗广的原野上，横挡在道路中间。郭璞注补出这位造化者的身份：「女娲，古神女而帝者，人面蛇身，一日中七十变，其腹化为此神。」女娲是上古称帝的神女，人面蛇身，一天之中能变化七十次，她的腹肠化成了这十位神。\n\n整部《山海经》提到女娲仅此一处，没有补天，没有抟土造人——那些著名事迹要到《淮南子·览冥训》《风俗通义》等更晚的文献里才见记载。这条经文透露的是更古老的一层神格：女娲的身体本身就是造化的材料，一段肠子也能化出十位神。《楚辞·天问》问「女娲有体，孰制匠之」——女娲造就了万物之体，她自己的身体又是谁造的？《说文解字》释「娲」为「古之神圣女，化万物者也」，与经文正相印证。\n\n神躯化生万物的想法，后来在盘古垂死化身的叙事里发展到极致：气成风云、声为雷霆、血液为江河。栗广之野上那十位横道而处的无名神人，是这一化生母题在先秦文本里留下的最早剪影之一。",
+    "en": "The Great Wilderness: West records ten gods who share a single name: Nüwa's Entrails. They were transformed from the entrails of Nüwa, and they dwell on the plain of Liguang, lying athwart the road. Guo Pu's commentary supplies the transformer's credentials: Nüwa was a divine woman of high antiquity who reigned as sovereign, human-faced and serpent-bodied, capable of seventy transformations in a single day — and her belly became these gods.\n\nThis is the only sentence in the whole Classic that mentions Nüwa. There is no mending of the sky, no shaping of humans from yellow clay; those famous deeds surface only in later texts such as the Huainanzi and the Fengsu Tongyi. What this line preserves is an older stratum of her divinity: Nüwa's own body as the raw material of creation, a length of gut sufficient to make ten gods. The Heavenly Questions catches the vertigo of the idea — 'Nüwa had a body; who fashioned it?' — and the Shuowen dictionary glosses her name as 'the divine woman of antiquity who transformed the ten thousand things', in exact agreement with the classic.\n\nThe motif of a god's body becoming the world reached its full scale later in the story of Pangu, whose dying breath became wind and cloud, his voice thunder, his blood the rivers. The ten nameless gods lying across the road at Liguang are among the earliest silhouettes this motif left in a pre-Qin text."
+  },
+  "domains": {
+    "zh": [
+      "化生",
+      "女娲",
+      "十神",
+      "栗广之野"
+    ],
+    "en": [
+      "Body-Transformation",
+      "Nüwa",
+      "Ten Gods",
+      "Plain of Liguang"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "来历",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "女娲之肠所化",
+        "en": "Transformed from the entrails of Nüwa"
+      }
+    },
+    {
+      "label": {
+        "zh": "所在",
+        "en": "Location"
+      },
+      "value": {
+        "zh": "栗广之野，横道而处",
+        "en": "The plain of Liguang, lying athwart the road"
+      }
+    },
+    {
+      "label": {
+        "zh": "文献地位",
+        "en": "Textual note"
+      },
+      "value": {
+        "zh": "《山海经》全书唯一提及女娲之处",
+        "en": "The Classic's sole mention of Nüwa"
+      }
+    }
+  ],
+  "related": [
+    "nuwa",
+    "yan-wei",
+    "pangu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒西经》及郭璞注",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: West', with Guo Pu's commentary"
+    },
+    {
+      "zh": "《楚辞·天问》",
+      "en": "Heavenly Questions (Tianwen)"
+    },
+    {
+      "zh": "许慎《说文解字》",
+      "en": "Xu Shen, Shuowen Jiezi"
+    }
+  ],
+  "volume": {
+    "zh": "大荒西经",
+    "en": "Classic of the Great Wilderness: West"
+  },
+  "image": {
+    "file": "/images/entries/nu-wa-zhi-chang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanhaijing_illustration_of_N%C3%BCwa.jpg",
+    "sourceTitle": "Shanhaijing illustration of Nüwa",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 921,
+    "height": 1000
+  }
+}

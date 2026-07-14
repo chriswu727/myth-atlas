@@ -1,0 +1,94 @@
+{
+  "id": "pachamama",
+  "tradition": "inca",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "帕查妈妈",
+    "en": "Pachamama",
+    "original": "Pachamama",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "大地母神",
+    "en": "Earth Mother"
+  },
+  "summary": {
+    "zh": "安第斯的大地母神，掌土地、播种与收获。人们以奇恰酒的洒祭、古柯叶与焚烧的供包酬谢她。这一信仰早于印加帝国，并一直延续到今天。",
+    "en": "The Andean earth mother, keeper of soil, sowing and harvest, thanked with libations of chicha, coca leaves and burnt offering bundles. Her worship predates the Inca empire and continues today."
+  },
+  "description": {
+    "zh": "“帕查”在克丘亚语里兼指大地与时空，帕查妈妈便是承载并生养万物的大地本身。她司掌播种与收获，土豆与玉米出自她的身体，畜群的繁衍也仰赖她的恩惠。她无处不在，因此几乎不需要神庙与神像：供奉直接献给脚下的土地——开耕前先祷告请她允准，动土便是叩响她的门。\n\n对她的酬谢有固定的仪节。饮奇恰酒时，第一口先洒在地上，称作“查利亚”；古柯叶挑出完整的三片，捧献或埋入田头；更郑重的场合则备一份“德斯帕乔”供包，把古柯叶、驼羊脂、谷种与糖果按序摆好，包起焚烧或掩埋，请大地收下。南安第斯把八月视作帕查妈妈之月，八月一日至今是玻利维亚、秘鲁南部与阿根廷西北部的献祭日：这正是安第斯农事年开耕之前、大地“张口饥饿”的时节。\n\n西班牙人到来后，帕查妈妈的形象与圣母崇拜彼此交叠，许多安第斯圣母节庆的日期与场所都沿袭自献给她的旧礼。她是活着的信仰：2008年的厄瓜多尔宪法以“帕查妈妈”之名写入自然权利条款，公路旁的司机至今会向路边洒几滴酒，先敬大地再赶路。",
+    "en": "Pacha in Quechua means at once earth, world and time; Pachamama is the living ground itself, the body that bears and feeds all things. She presides over sowing and harvest — potatoes and maize come out of her flesh, and the increase of the herds depends on her goodwill. Because she is everywhere underfoot she needed neither temples nor idols: offerings go straight into the soil, and a farmer asks her leave before the first cut of the plow, since to break ground is to knock at her door.\n\nHer thanks follow a set etiquette. The first sip of chicha is tipped onto the earth, a libation called ch'alla; perfect coca leaves are presented in threes or buried at the field's edge; on graver occasions a despacho bundle is laid out — coca, llama fat, seeds and sweets arranged in order, then wrapped and burned or buried for the earth to receive. In the southern Andes August is her month, and the first of August remains her feast day in Bolivia, southern Peru and northwest Argentina: the hungry season when the earth 'opens its mouth' before planting begins.\n\nAfter the conquest her figure and the cult of the Virgin Mary grew into one another, and many Andean Marian feasts keep the dates and places of her older rites. She is a living faith: Ecuador's 2008 constitution invokes Pachamama by name in its articles on the rights of nature, and drivers on Andean roads still spill a few drops for the earth before setting out."
+  },
+  "domains": {
+    "zh": [
+      "大地",
+      "播种与收获",
+      "生育",
+      "畜群"
+    ],
+    "en": [
+      "Earth",
+      "Sowing and harvest",
+      "Fertility",
+      "Herds"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "祭仪",
+        "en": "Rites"
+      },
+      "value": {
+        "zh": "查利亚洒祭、古柯叶、德斯帕乔供包",
+        "en": "Ch'alla libation, coca leaves, despacho bundles"
+      }
+    },
+    {
+      "label": {
+        "zh": "祭月",
+        "en": "Sacred month"
+      },
+      "value": {
+        "zh": "八月，八月一日为献祭日",
+        "en": "August; her feast falls on 1 August"
+      }
+    },
+    {
+      "label": {
+        "zh": "信仰范围",
+        "en": "Range"
+      },
+      "value": {
+        "zh": "厄瓜多尔至阿根廷西北部，延续至今",
+        "en": "Ecuador to northwest Argentina, unbroken to the present"
+      }
+    }
+  ],
+  "related": [
+    "apu",
+    "inti",
+    "illapa"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳贝·科博《新世界史》（1653）",
+      "en": "Bernabé Cobo, Historia del Nuevo Mundo (1653)"
+    },
+    {
+      "zh": "安第斯各地延续至今的口头传统与仪式实践",
+      "en": "Living oral tradition and ritual practice across the Andes"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/pachamama.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guam%C3%A1n_Poma_1615_1153_agosto.png",
+    "sourceTitle": "Guamán Poma 1615 1153 agosto",
+    "artist": "Felipe Huaman Puma de Ayala",
+    "license": "Public domain",
+    "width": 679,
+    "height": 1000
+  }
+}

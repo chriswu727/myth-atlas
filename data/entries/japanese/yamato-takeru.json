@@ -1,0 +1,94 @@
+{
+  "id": "yamato-takeru",
+  "tradition": "japanese",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "日本武尊",
+    "en": "Yamato Takeru",
+    "original": "倭建命／日本武尊（やまとたけるのみこと）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "记纪传说中的悲剧远征英雄",
+    "en": "The Tragic Campaigner of the Chronicles"
+  },
+  "summary": {
+    "zh": "景行天皇之子。扮作少女刺杀熊袭首领得名「倭建」，东征时持草薙剑火中脱险；徒手挑战伊吹山神后病殁，魂化白鸟飞去。",
+    "en": "Son of Emperor Keiko who won his name killing the Kumaso chief disguised as a girl, escaped a grass fire with Kusanagi, and died after facing the god of Mount Ibuki bare-handed, becoming a white bird."
+  },
+  "description": {
+    "zh": "日本武尊本名小碓命，《古事记》写作倭建命，是景行天皇之子。他力大而性情酷烈，年少时奉命「开导」不来共餐的兄长大碓命，竟将其扼杀。天皇心生畏惧，接连把他派往远方征讨。西征熊袭时他尚未束发，借姑母倭姬命的衣裳扮作少女混入熊袭建兄弟的酒宴，席间拔剑刺杀二人；垂死的熊袭建叹服其勇，献上「倭建」之名。\n\n凯旋不久他又被遣往东国。途经伊势神宫，姑母倭姬命把草薙剑与一个火打囊交给他。在相模的原野上，当地首领纵火烧荒，他拔剑薙草、以火打石点燃逆火脱险。渡走水海时暴风骤起，妃子弟橘比卖命铺下菅席草席投身入海，平息了海神之怒，七日后她的木梳漂到岸边。平定东国归途，他在坂上望东叹道「吾妻啊」（吾妻はや），传为东国称「吾妻／东（あづま）」的由来。\n\n行至尾张，他把草薙剑留在宫簀媛处，徒手去讨伐伊吹山神。山神化作白色大猪当道，他出言轻慢，遭大冰雹击打，从此病体沉重，行至伊势能褒野而死，临终咏出思乡歌「倭は国のまほろば」（大和是国中最秀丽之地）。死后他化作八寻白智鸟腾空而去，停驻之处筑起多座白鸟陵。《古事记》里的他悲怆而孤独，《日本书纪》则把他写成恭顺的皇子与忠臣，两书形象的落差是记纪文学著名的对照。",
+    "en": "Yamato Takeru, born Prince Ousu, was a son of Emperor Keiko. Immensely strong and alarmingly fierce, he was told as a boy to 'admonish' an elder brother who skipped the royal meals, and killed him outright. The unnerved emperor kept sending him on distant campaigns. Against the Kumaso of Kyushu, still a youth, he borrowed his aunt Yamatohime's robes, slipped into the chieftains' banquet disguised as a girl, and stabbed both brothers; the dying Kumaso Takeru, in admiration, bestowed on him the name Yamato Takeru, 'the brave of Yamato.'\n\nSoon he was dispatched east. At Ise his aunt gave him the sword Kusanagi and a fire-striker bag, with which he cut and back-burned his way out of a grass fire set for him on a Sagami moor. Crossing the Hashirimizu strait in a storm, his consort Ototachibana-hime spread rush mats on the waves and gave herself to the sea god; the waters calmed, and seven days later her comb washed ashore. On his way home he sighed from a mountain pass, 'Azuma wa ya,' 'oh, my wife,' the legendary origin of Azuma as the name of the eastern provinces.\n\nIn Owari he left Kusanagi with Miyazu-hime and went bare-handed against the god of Mount Ibuki, who met him as a great white boar; he spoke slightingly and was battered by monstrous hail. Sickening, he died at Nobono in Ise, singing his homesick praise of Yamato, then turned into a great white bird and flew away, with 'white bird tombs' raised where it alighted. The lonely, tragic prince of the Kojiki and the dutiful paragon of the Nihon Shoki make a famous contrast between the two books."
+  },
+  "domains": {
+    "zh": [
+      "远征",
+      "武勇",
+      "变装",
+      "悲剧"
+    ],
+    "en": [
+      "Campaigns",
+      "Valor",
+      "Disguise",
+      "Tragedy"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "佩剑",
+        "en": "Sword"
+      },
+      "value": {
+        "zh": "草薙剑（倭姬命所授）",
+        "en": "Kusanagi, given by his aunt Yamatohime"
+      }
+    },
+    {
+      "label": {
+        "zh": "妃",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "弟橘比卖命，投海平浪",
+        "en": "Ototachibana-hime, who calmed the sea by her sacrifice"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "End"
+      },
+      "value": {
+        "zh": "殁于能褒野，化为白鸟",
+        "en": "Died at Nobono and became a white bird"
+      }
+    }
+  ],
+  "related": [
+    "kusanagi",
+    "amaterasu",
+    "susanoo"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/yamato-takeru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamato_Takeru_at_16-crop.jpg",
+    "sourceTitle": "Yamato Takeru at 16-crop",
+    "artist": "Yamato_Takeru_at_16.jpg: Tsukioka Yoshitoshi derivative work: AMorozov",
+    "license": "Public domain",
+    "width": 675,
+    "height": 1000
+  }
+}

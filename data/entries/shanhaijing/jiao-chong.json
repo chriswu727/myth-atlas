@@ -1,0 +1,88 @@
+{
+  "id": "jiao-chong",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "骄虫",
+    "en": "Jiaochong"
+  },
+  "title": {
+    "zh": "掌管一切螫虫的双首之神",
+    "en": "Two-Headed God Who Rules All Stinging Insects"
+  },
+  "summary": {
+    "zh": "平逢山之神，人形而生两个头，统领蜂蝎等一切螫人之虫，其山是群蜂聚居之庐；祭它用一只雄鸡，祷毕放生不杀。",
+    "en": "God of Mount Pingfeng, human in shape with two heads, master of all stinging insects; his rite offers a single rooster that is prayed over and released unharmed."
+  },
+  "description": {
+    "zh": "《中次六经》首山平逢之山南望伊水洛水，山上无草木，无水，多沙石。就在这片荒瘠里住着神骄虫：“其状如人而二首……是为螫虫，实惟蜂蜜之庐”——人的身形顶着两个头，是所有螫人之虫的首领，这座山就是群蜂结巢聚居的庐舍。\n\n经文接着交代祭法：“其祠之：用一雄鸡，禳而勿杀。”拿一只雄鸡向它祈禳，仪式做完鸡不杀，放掉。《山海经》诸山的祠礼多要瘗埋牲玉，这条“禳而勿杀”是全书少见的不见血的祭祀：对付蜇人的蜂蝎，办法是安抚它们的主神，牲礼点到即止。\n\n后世注家把骄虫看作蜂虫之长，这段文字也是中国文献里很早的一条与蜂有关的神灵记录。",
+    "en": "Mount Pingfeng, first peak of the sixth central sequence, looks south over the Yi and Luo rivers: a bare hill without plants or water, all sand and stone. Here lives the god Jiaochong, human in shape but bearing two heads. The text names him master of all stinging insects, and calls the mountain itself the lodging-house of bees.\n\nThe prescribed rite is unusual. Worshippers offer a single rooster, pray over it to avert harm, and release it without killing: 'exorcise but do not slay.' Most mountain cults in the Shanhaijing demand buried victims and jades; this is one of the book's rare bloodless offerings. The logic is appeasement — to keep wasps and scorpions from stinging, one propitiates their two-headed lord.\n\nLater commentators read Jiaochong as chief of the venomous swarms, and the passage stands among the earliest records in Chinese literature of a divinity connected with bees."
+  },
+  "domains": {
+    "zh": [
+      "螫虫",
+      "蜂",
+      "祠祭"
+    ],
+    "en": [
+      "Stinging Insects",
+      "Bees",
+      "Sacrificial Rites"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "平逢之山",
+        "en": "Mount Pingfeng"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如人而二首",
+        "en": "Human form with two heads"
+      }
+    },
+    {
+      "label": {
+        "zh": "祠礼",
+        "en": "Rite"
+      },
+      "value": {
+        "zh": "用一雄鸡，禳而勿杀",
+        "en": "One rooster, prayed over and released unharmed"
+      }
+    }
+  ],
+  "related": [
+    "wen-wen"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/jiao-chong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic32_-_%E9%A9%95%E8%9F%B2%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic32 - 驕蟲神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 681,
+    "height": 1000
+  }
+}

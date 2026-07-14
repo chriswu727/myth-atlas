@@ -1,0 +1,107 @@
+{
+  "id": "coricancha",
+  "tradition": "inca",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "科里坎查",
+    "en": "Coricancha",
+    "original": "Quri Kancha",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "库斯科的太阳神庙，“黄金围场”",
+    "en": "Temple of the Sun in Cusco, the Golden Enclosure"
+  },
+  "summary": {
+    "zh": "印加帝国最神圣的太阳神庙：墙面覆金板，庭园陈设纯金的玉米与驼羊。殖民者在墙基上盖起圣多明各修道院，印加石墙历经两次大地震屹立不倒。",
+    "en": "Holiest sun temple of the Inca empire, its walls sheeted in gold, its garden set with golden maize and llamas. The priory of Santo Domingo was built on its walls, which have outlasted two great earthquakes."
+  },
+  "description": {
+    "zh": "科里坎查意为“黄金围场”，坐落在库斯科两河交汇的台地上，是全帝国最神圣的建筑。它代表了印加砌石术的极致：巨石打磨得严丝合缝，不施灰浆，刀片也插不进石缝，弧形的西端围墙尤为著名。主殿供奉太阳，墙面覆着金板，檐下环绕一条金带；旁列的殿室分祀月亮、星辰、雷电与彩虹，月亮之室以银板包墙。加西拉索记述庭园中的奇观：整株玉米、驼羊乃至牧人都以纯金打造，与真物同列。\n\n这里也是帝国祭祀地理的原点。按科博的记载，四十余条称作“塞克”的祭祀线路自科里坎查向四方放射，把库斯科周边三百余处圣所串联成网，各家族分头奉祀。历代印加王的遗体经防腐处理后，也在盛大节庆时被请入神庙陪祀太阳，殿中供奉着太阳金像蓬乔。\n\n1533年，阿塔瓦尔帕的赎金搜刮到这里，据早期记载，西班牙人单从墙上就撬下约七百块金板。征服之后，多明我会在神庙墙基上建起圣多明各修道院。1650年与1950年两次大地震都重创殖民时代的教堂建筑，而印加人的石墙纹丝不动。今天的科里坎查下层仍是印加殿室的原石，上层是巴洛克的钟楼与回廊，两个世界叠压在同一处地基上。",
+    "en": "Coricancha, the Golden Enclosure, stood on a terrace above the meeting of Cusco's two rivers, the holiest building in the empire and the summit of Inca stonework: megaliths ground to so exact a fit, without mortar, that a blade will not enter the joints, the curved western wall the most celebrated of all. The principal hall belonged to the Sun, its walls sheeted in gold beneath a running band of gold; flanking chambers served the Moon — hers plated in silver — the stars, the thunder and the rainbow. Garcilaso describes the marvel of its garden, where maize stalks, llamas and herdsmen wrought in solid gold stood among the real ones.\n\nIt was also the origin point of the empire's sacred geography. By Cobo's account, more than forty sightlines called ceques radiated from Coricancha, stringing over three hundred shrines around Cusco into a single network, each line in the care of a particular kin group. The embalmed bodies of dead Inca kings were carried into the temple to attend the Sun at the great festivals, and the golden sun image Punchao was enshrined within.\n\nIn 1533 Atahualpa's ransom reached the temple, and by the early accounts the Spaniards pried some seven hundred plates of gold from its walls. After the conquest the Dominicans raised the priory of Santo Domingo on the Inca foundations. The earthquakes of 1650 and 1950 both wrecked the colonial church, while the Inca walls did not shift. At Coricancha today the lower courses are still the original chambers of dressed stone, with a baroque bell tower and cloister standing on top — two worlds pressed onto one foundation."
+  },
+  "domains": {
+    "zh": [
+      "圣所",
+      "太阳崇拜",
+      "黄金",
+      "帝国中枢"
+    ],
+    "en": [
+      "Sanctuary",
+      "Sun cult",
+      "Gold",
+      "Imperial center"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "词义",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "克丘亚语“黄金围场”",
+        "en": "Quechua for 'golden enclosure'"
+      }
+    },
+    {
+      "label": {
+        "zh": "塞克体系",
+        "en": "Ceque system"
+      },
+      "value": {
+        "zh": "四十余条祭祀线自此放射，串联三百余处圣所",
+        "en": "40-odd sightlines radiating to over 300 shrines"
+      }
+    },
+    {
+      "label": {
+        "zh": "现状",
+        "en": "Today"
+      },
+      "value": {
+        "zh": "圣多明各修道院叠建于印加墙基之上",
+        "en": "The priory of Santo Domingo stands on the Inca walls"
+      }
+    }
+  ],
+  "related": [
+    "inti",
+    "punchao",
+    "mama-killa",
+    "manco-capac"
+  ],
+  "sources": [
+    {
+      "zh": "印卡·加西拉索·德拉维加《印卡王室述评》（1609）",
+      "en": "Inca Garcilaso de la Vega, Royal Commentaries of the Incas (1609)"
+    },
+    {
+      "zh": "贝尔纳贝·科博《新世界史》（1653）",
+      "en": "Bernabé Cobo, Historia del Nuevo Mundo (1653)"
+    },
+    {
+      "zh": "佩德罗·谢萨·德莱昂《秘鲁编年史》第一部（1553）",
+      "en": "Pedro Cieza de León, Crónica del Perú, Part One (1553)"
+    }
+  ],
+  "geo": {
+    "lat": -13.5207,
+    "lon": -71.9752,
+    "label": {
+      "zh": "库斯科",
+      "en": "Cusco"
+    }
+  },
+  "image": {
+    "file": "/images/entries/coricancha.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coricancha,_Cusco,_Per%C3%BA,_2015-07-31,_DD_68.JPG",
+    "sourceTitle": "Coricancha, Cusco, Perú, 2015-07-31, DD 68",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 673
+  }
+}

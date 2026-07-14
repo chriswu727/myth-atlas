@@ -1,0 +1,99 @@
+{
+  "id": "loki",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "洛基",
+    "en": "Loki",
+    "original": "Loki",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "诡计之神，诸神的祸端",
+    "en": "The Trickster, Bane of the Gods"
+  },
+  "summary": {
+    "zh": "巨人之子、奥丁的结义兄弟，善变形的诡计师。他为诸神屡建奇功又屡闯大祸，最终策划巴德尔之死，被缚岩下直至末日。",
+    "en": "Giant-born blood brother of Odin, a shapeshifting schemer who both aids and betrays the gods, engineers Baldr's death, and lies bound beneath a venomous serpent until Ragnarok."
+  },
+  "description": {
+    "zh": "洛基是巨人法布提与劳菲之子，却与奥丁结为血盟兄弟，得以厕身阿萨神族。他容貌俊美，心思难测，精于变形：化过鲑鱼、母马、苍蝇与老妪。他与女巨人安格尔波达生下三个怪物——巨狼芬里尔、大蛇耶梦加得与死者之国的女主人赫尔；他自己则曾化作母马，产下奥丁的八足神驹斯莱普尼尔。\n\n诸神的许多宝物都拜他的闯祸与补救所赐：他剪去希芙的金发后被迫向侏儒求来新发，顺带带回了妙尔尼尔与冈格尼尔。但他最后的恶行无可挽回——探得槲寄生未对巴德尔立誓，便诱使盲神霍德掷出槲寄生枝，杀死了光明之神。《洛基的吵骂》记他闯入诸神宴席逐一羞辱众神，随后被擒：诸神以其子的肠子将他缚在三块巨石上，毒蛇悬于头顶滴淌毒液，妻子西格恩持钵接毒；每当她转身倒空钵盂，毒液滴落，洛基痛苦挣扎，大地便随之震动。\n\n诸神黄昏来临时他将挣脱束缚，驾船引亡者大军进攻诸神，与宿敌海姆达尔对决，同归于尽。",
+    "en": "Loki, son of the giant Farbauti and of Laufey, entered the company of the Aesir as Odin's sworn blood brother. Handsome, restless, and impossible to read, he is a master of shapeshifting who has worn the forms of a salmon, a mare, a fly, and an old woman. With the giantess Angrboda he fathered three monsters: the wolf Fenrir, the serpent Jormungandr, and Hel, queen of the dead. In the shape of a mare he himself gave birth to Sleipnir, Odin's eight-legged horse.\n\nMany of the gods' treasures exist because of his mischief and his repairs: after shearing off Sif's golden hair he was forced to bargain with the dwarfs, and returned with new hair, the spear Gungnir, and the hammer Mjolnir. His last crime could not be undone. Learning that the mistletoe alone had sworn no oath to spare Baldr, he guided the blind god Hod's hand and killed the shining god. The Lokasenna shows him crashing the gods' feast to insult them one by one; afterwards they bound him on three stones with the entrails of his own son, hung a serpent above his face, and left his wife Sigyn to catch the dripping venom in a bowl. When she turns to empty it, his convulsions shake the earth.\n\nAt Ragnarok he breaks free, pilots the ship of the dead against the gods, and falls in mutual slaughter with his old enemy Heimdall."
+  },
+  "domains": {
+    "zh": [
+      "诡计",
+      "变形",
+      "恶作剧",
+      "混乱"
+    ],
+    "en": [
+      "Trickery",
+      "Shapeshifting",
+      "Mischief",
+      "Chaos"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出身",
+        "en": "Parentage"
+      },
+      "value": {
+        "zh": "巨人法布提与劳菲之子",
+        "en": "Son of the giant Farbauti and Laufey"
+      }
+    },
+    {
+      "label": {
+        "zh": "子女",
+        "en": "Offspring"
+      },
+      "value": {
+        "zh": "芬里尔、耶梦加得、赫尔、斯莱普尼尔",
+        "en": "Fenrir, Jormungandr, Hel, and Sleipnir"
+      }
+    },
+    {
+      "label": {
+        "zh": "刑罚",
+        "en": "Punishment"
+      },
+      "value": {
+        "zh": "被缚岩上，毒蛇滴毒于顶",
+        "en": "Bound to stones beneath a venom-dripping serpent"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "baldr",
+    "fenrir",
+    "jormungandr",
+    "hel",
+    "heimdall",
+    "ragnarok",
+    "mjolnir"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·洛基的吵骂》",
+      "en": "Poetic Edda: Lokasenna"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》《诗艺语言》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning and Skaldskaparmal"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/loki.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loki,_by_M%C3%A5rten_Eskil_Winge_1890.jpg",
+    "sourceTitle": "Loke och Sigyn",
+    "artist": "Mårten Eskil Winge",
+    "license": "Public domain",
+    "width": 786,
+    "height": 1000
+  }
+}

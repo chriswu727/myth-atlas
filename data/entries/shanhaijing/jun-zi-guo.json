@@ -1,0 +1,99 @@
+{
+  "id": "jun-zi-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "君子国",
+    "en": "Land of the Gentlemen"
+  },
+  "title": {
+    "zh": "衣冠带剑、好让不争的礼义之邦",
+    "en": "A Courteous Country Where No One Contends"
+  },
+  "summary": {
+    "zh": "海外东经所记之国，其民衣冠整齐、佩剑，驱使两只花斑虎侍立在旁，为人好让不争。国中有朝开暮谢的薰华草。",
+    "en": "An eastern country whose people go robed, capped, and sword-girt, each attended by two striped tigers, and yield to one another in all things. There grows the xunhua plant, blooming at dawn and dead by dusk."
+  },
+  "description": {
+    "zh": "《海外东经》记：\"君子国在其北，衣冠带剑，食兽，使二文虎在旁，其为人好让不争。有薰华草，朝生夕死。\"这个国家的人衣冠齐整，腰间佩剑，吃兽肉，身边侍立着两只文虎——带花纹的斑斓猛虎在此驯顺如家犬。他们最出名的品性是\"好让不争\"：谦让成了国民的天性。国中生长薰华草，清晨开花，日暮凋零。\n\n君子国寄托着中原对东方的一种古老好感。《说文解字》在\"羌\"字条下历数四方之民，说到东方之夷时称\"夷俗仁，仁者寿，有君子不死之国\"。清代李汝珍《镜花缘》把这个国度写成全书最著名的讽刺篇章：唐敖等人到君子国，看见买东西的人嫌货好价贱、拼命要多付钱，卖家则坚持只收半价，双方在集市上为\"让利\"争执不下，只得请路人公断。现实市井里的讨价还价被整个翻转过来，礼让推到极处反成奇观。佩剑而不争、猛虎侍侧而驯——这个国度的每个细节都在演示力量与谦和可以并存。",
+    "en": "The Classic of Regions Beyond the Seas: East describes a country where everyone wears formal robe and cap, carries a sword, eats the flesh of beasts, and keeps two striped tigers in attendance, tame as house dogs. Their defining trait comes in four characters: they love to yield and do not contend. In their land grows the xunhua plant, which flowers at dawn and dies by evening.\n\nThe Land of the Gentlemen distills an old Chinese idealization of the east. The Han dictionary Shuowen Jiezi, surveying the peoples of the four quarters, calls the customs of the eastern folk humane and speaks of a country of gentlemen where no one dies. The Qing novel Flowers in the Mirror turned the place into its most quoted satire: in the gentlemen's marketplace, buyers protest that the goods are too fine and the price too low, insisting on paying more, while sellers refuse to accept full price, and passers-by must be called in to arbitrate the deadlock of politeness. Every detail of the country runs the same demonstration: swords worn but never drawn in quarrel, tigers at heel but never loosed, strength and courtesy occupying the same body."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "礼让",
+      "文虎",
+      "理想国"
+    ],
+    "en": [
+      "Far Lands",
+      "Courtesy",
+      "Tigers",
+      "Ideal Realms"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民风",
+        "en": "Character"
+      },
+      "value": {
+        "zh": "好让不争",
+        "en": "They yield and do not contend"
+      }
+    },
+    {
+      "label": {
+        "zh": "侍兽",
+        "en": "Attendants"
+      },
+      "value": {
+        "zh": "二文虎侍立在旁",
+        "en": "Two striped tigers at each person's side"
+      }
+    },
+    {
+      "label": {
+        "zh": "奇草",
+        "en": "Plant"
+      },
+      "value": {
+        "zh": "薰华草，朝生夕死",
+        "en": "The xunhua, born at dawn, dead by dusk"
+      }
+    }
+  ],
+  "related": [
+    "da-ren-guo",
+    "yu-min-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外东经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: East'"
+    },
+    {
+      "zh": "许慎《说文解字》",
+      "en": "Xu Shen, Shuowen Jiezi"
+    },
+    {
+      "zh": "李汝珍《镜花缘》",
+      "en": "Li Ruzhen, Flowers in the Mirror"
+    }
+  ],
+  "volume": {
+    "zh": "海外东经",
+    "en": "Classic of Regions Beyond the Seas: East"
+  },
+  "image": {
+    "file": "/images/entries/jun-zi-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic020_-_%E5%90%9B%E5%AD%90%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic020 - 君子國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 658,
+    "height": 1000
+  }
+}

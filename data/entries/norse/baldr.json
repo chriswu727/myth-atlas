@@ -1,0 +1,99 @@
+{
+  "id": "baldr",
+  "tradition": "norse",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "巴德尔",
+    "en": "Baldr",
+    "original": "Baldr",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "光明之神，诸神中最美者",
+    "en": "The Shining God, Fairest of the Aesir"
+  },
+  "summary": {
+    "zh": "奥丁与弗丽嘉之子，浑身散发光辉。因一枝未立誓言的槲寄生死于盲眼兄弟之手，他的死是诸神黄昏的第一声丧钟。",
+    "en": "Son of Odin and Frigg, so fair that light shines from him. A sprig of mistletoe, overlooked by his mother's oaths, kills him and tolls the first bell of Ragnarok."
+  },
+  "description": {
+    "zh": "巴德尔是奥丁与弗丽嘉之子，诸神中最俊美、最受爱戴的一位，《散文埃达》说他浑身放光，有一种最洁白的草，人们便拿它比作他的眉毛。他住在名为「宽广辉光」的布雷达布利克宫，那里容不下任何不洁之物。当他连夜梦见自己的死亡，母亲弗丽嘉走遍世界，让火、水、铁、石、草木、鸟兽、毒蛇一一立誓不伤害他——只漏过了瓦尔哈拉西边一株她认为太过幼嫩的槲寄生。\n\n从此诸神多了一项游戏：向刀枪不入的巴德尔投掷刀剑箭石取乐。洛基探出槲寄生的秘密，削枝为镖，塞进巴德尔的盲眼兄弟霍德手中代为掷出，巴德尔当场倒地身亡。诸神把他的遗体抬上巨船灵霍尼，随葬臂环德罗普尼尔；他的妻子南娜悲恸而死，与他同焚。奥丁派赫尔莫德骑斯莱普尼尔驰往死者之国求赎，赫尔开出条件：万物同哭，便放他还阳。整个世界都为他落泪，唯独一个名叫索克的女巨人——多认为是洛基所变——拒绝哭泣，巴德尔从此留在了死者之国。\n\n《女占卜者的预言》许诺：诸神黄昏的大火过后，巴德尔将与霍德一同归来，走进新生诸神的殿堂。丹麦人萨克索的《丹麦人的事迹》另存一个截然不同的版本，把他写成与霍瑟争夺美人的半神武士。",
+    "en": "Baldr, son of Odin and Frigg, is the fairest and most beloved of the gods; the Prose Edda says light shines from him, and that the whitest of plants is compared to his brow. He dwells in Breidablik, 'broad gleaming', where nothing unclean may enter. When he was troubled by dreams of his own death, his mother travelled the world taking oaths from fire and water, iron and stone, trees, beasts, birds, and serpents that none would harm him. Only a young mistletoe growing west of Valhalla seemed too slight to swear.\n\nThe gods made a game of his invulnerability, hurling weapons at him for sport. Loki discovered the one omission, cut the mistletoe into a dart, and placed it in the hand of Baldr's blind brother Hod, guiding the throw. Baldr fell dead. His body was burned on the great ship Hringhorni with the gold ring Draupnir; his wife Nanna died of grief and shared the pyre. Hermod rode Sleipnir to the realm of the dead to ransom him, and Hel set her price: let all things weep. Everything in the world wept except one giantess, Thokk, whom most accounts take to be Loki in disguise, and so Baldr remained among the dead.\n\nThe Voluspa promises his return: after the fires of Ragnarok he and Hod will come back together to the halls of the new world. Saxo Grammaticus preserves a very different Danish version, in which Balderus is a warlike demigod rivaling Hotherus for a woman's hand."
+  },
+  "domains": {
+    "zh": [
+      "光明",
+      "美",
+      "无辜之死",
+      "复归"
+    ],
+    "en": [
+      "Light",
+      "Beauty",
+      "Innocent Death",
+      "Return"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "布雷达布利克宫",
+        "en": "Breidablik"
+      }
+    },
+    {
+      "label": {
+        "zh": "死因",
+        "en": "Death"
+      },
+      "value": {
+        "zh": "槲寄生之镖，出自霍德之手、洛基之谋",
+        "en": "A mistletoe dart, thrown by Hod at Loki's prompting"
+      }
+    },
+    {
+      "label": {
+        "zh": "葬礼",
+        "en": "Funeral"
+      },
+      "value": {
+        "zh": "巨船灵霍尼上的火葬",
+        "en": "Burned aboard the ship Hringhorni"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "loki",
+    "hel",
+    "ragnarok"
+  ],
+  "sources": [
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    },
+    {
+      "zh": "《诗体埃达·女占卜者的预言》《巴德尔的噩梦》",
+      "en": "Poetic Edda: Voluspa and Baldrs draumar"
+    },
+    {
+      "zh": "萨克索·格拉玛提库斯《丹麦人的事迹》第三卷",
+      "en": "Saxo Grammaticus, Gesta Danorum, Book III"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/baldr.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baldr_dead_by_Eckersberg.jpg",
+    "sourceTitle": "The Death of Balderlabel QS:Lde,\"Der Tod von Balder\"label QS:Len,\"The Death of Balder\"label QS:Lnb,\"Balders død\"label QS:Lda,\"Balders Død\"",
+    "artist": "Christoffer Wilhelm Eckersberg",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 792
+  }
+}

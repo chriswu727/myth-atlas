@@ -1,0 +1,43 @@
+{
+  "id": "bloody-mary",
+  "tradition": "american-folklore",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "血腥玛丽",
+    "en": "Bloody Mary"
+  },
+  "title": { "zh": "镜中被召唤的怨灵", "en": "The Spirit Summoned in the Mirror" },
+  "summary": {
+    "zh": "美国校园流传最广的召唤仪式：熄灯的浴室里对着镜子念三遍「血腥玛丽」，镜中会浮现一张流血的脸。民俗学者自1970年代起系统记录此仪式。",
+    "en": "America's best-known ritual legend: chant \"Bloody Mary\" three times before a dark bathroom mirror and a bleeding face appears. Folklorists have documented the rite among schoolchildren since the 1970s."
+  },
+  "description": {
+    "zh": "血腥玛丽没有固定的生平，她的全部存在都系于一场仪式。标准流程在美国小学生中口口相传：深夜进入浴室，关灯，点一支蜡烛（或什么都不点），面对镜子念诵她的名字——通常是三遍，也有版本要求十三遍或倒着念。据说镜中会浮现一张流血的女人脸，她可能只是瞪视，也可能伸手抓花召唤者的脸、把人拖进镜子。至于玛丽是谁，各地版本互相矛盾：车祸毁容的女孩、被冤杀的女巫、失去孩子的母亲（此时她被称为「血腥玛丽·沃思」或与哭泣女混同），也有人附会都铎王朝的玛丽一世——那位「血腥玛丽」绰号的本主，但历史女王与浴室仪式并无可考的传承关系。\n\n民俗学界最早的系统记录出自珍妮特·兰洛瓦1978年的研究《Mary Whales, I Believe in You》：她在印第安纳波利斯的女学生中记录了召唤「玛丽·惠尔斯」的仪式及其社交功能——试胆、尖叫、结伴逃出浴室是整个体验的核心。民俗学者艾伦·邓德斯1998年在《西部民俗》上发表《镜中的血腥玛丽》，把仪式解读为青春期少女对身体变化的预演。这类分析使血腥玛丽成为仪式传说与「传说探访」（legend tripping）研究的标准案例。\n\n心理学上，镜中显形有可靠的解释：昏暗光线下长时间凝视镜面，人脸知觉会发生扭曲乃至幻变，这一现象在实验中被称为「怪异面孔错觉」。但解释并未终结仪式——血腥玛丽仍在每一代过夜派对上被召唤，并借《糖果人》（1992）等恐怖片延续着镜中怨灵的谱系。",
+    "en": "Bloody Mary has no fixed biography; her whole existence hangs on a ritual. The standard procedure passes from child to child: enter a bathroom at night, turn off the lights, light a candle or none at all, face the mirror, and chant her name — usually three times, in some versions thirteen, or backwards. A bleeding woman's face is said to surface in the glass; she may only stare, or she may scratch the summoner's face or drag them through the mirror. Who Mary is depends on where you ask: a girl disfigured in a car crash, an executed witch, a mother who lost her children (as \"Bloody Mary Worth,\" sometimes blending with La Llorona). Some point to Mary I of England, the original \"Bloody Mary,\" though no line of transmission connects the Tudor queen to the bathroom rite.\n\nThe earliest systematic study is Janet Langlois's 1978 paper \"Mary Whales, I Believe in You,\" documenting Indianapolis schoolgirls summoning \"Mary Whales\" and showing that the screaming, the dare, and the group flight from the bathroom are the point of the exercise. Alan Dundes's 1998 essay \"Bloody Mary in the Mirror\" in Western Folklore read the ritual as girls rehearsing the bodily changes of puberty, making Bloody Mary a standard case in the study of ritual legends and legend-tripping.\n\nPsychology offers a steady explanation: staring at a mirror in dim light distorts face perception until the reflection warps, an effect documented experimentally as the \"strange-face illusion.\" The explanation has retired nothing — Mary is still summoned at every generation's sleepovers, and her mirror lineage continues through horror films such as Candyman (1992)."
+  },
+  "domains": {
+    "zh": ["召唤仪式", "镜中怨灵", "校园怪谈", "试胆传统"],
+    "en": ["Summoning ritual", "Mirror spirit", "Schoolyard legend", "Legend tripping"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "仪式", "en": "The rite" },
+      "value": { "zh": "暗室对镜念名三遍（或十三遍）", "en": "Chant the name three (or thirteen) times before a dark mirror" }
+    },
+    {
+      "label": { "zh": "最早系统记录", "en": "First documented" },
+      "value": { "zh": "珍妮特·兰洛瓦对「玛丽·惠尔斯」仪式的研究（1978）", "en": "Janet Langlois's study of the \"Mary Whales\" ritual (1978)" }
+    },
+    {
+      "label": { "zh": "科学解释", "en": "Explanation" },
+      "value": { "zh": "昏暗凝视引发的怪异面孔错觉", "en": "The strange-face illusion under dim mirror-gazing" }
+    }
+  ],
+  "related": ["la-llorona", "black-eyed-children"],
+  "sources": [
+    { "zh": "珍妮特·兰洛瓦《Mary Whales, I Believe in You》（1978）", "en": "Janet Langlois, \"Mary Whales, I Believe in You\" (1978)" },
+    { "zh": "艾伦·邓德斯《镜中的血腥玛丽》，《西部民俗》（1998）", "en": "Alan Dundes, \"Bloody Mary in the Mirror,\" Western Folklore (1998)" }
+  ],
+  "image": null
+}

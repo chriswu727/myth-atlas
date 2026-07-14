@@ -1,0 +1,102 @@
+{
+  "id": "bifang",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "毕方",
+    "en": "Bifang"
+  },
+  "title": {
+    "zh": "预示怪火的独脚神鸟",
+    "en": "One-legged Bird that Heralds Strange Fires"
+  },
+  "summary": {
+    "zh": "章莪之山的独脚鹤形怪鸟，青羽赤纹白喙，叫声就是自己的名字；它落到哪座城邑，哪里就起怪火。",
+    "en": "A one-legged, crane-like bird of Mount Zhang'e with green plumage, red markings and a white beak, calling its own name; wherever it appears, unexplained fires break out."
+  },
+  "description": {
+    "zh": "章莪之山无草木，多瑶碧。山上有鸟“其状如鹤，一足，赤文青质而白喙，名曰毕方，其鸣自叫也，见则其邑有讹火”——形如鹤而只有一只脚，青色羽毛缀着红色斑纹，白色的喙，叫声正是“毕方”二字；它落到哪座城邑，哪里就会燃起莫名其妙的怪火（讹火）。《海外南经》也记有毕方鸟，在东方、青水之西。\n\n《韩非子·十过》描绘黄帝大合鬼神于西泰山之上：黄帝驾象车而御六蛟龙，风伯进扫，雨师洒道，虎狼在前，鬼神在后，腾蛇伏地，凤皇覆上，“毕方并鎋”——毕方就侍立在车辖两旁。《淮南子·氾论训》说“木生毕方”，高诱注称毕方为木之精，形如鸟，青色赤脚，独足，不食五谷。\n\n木精而兆火，后世遂以毕方为火灾的前兆，或径称火鸟；它的独脚，又常与一足的商羊、夔并提，同属先秦传说中的独足之物。",
+    "en": "Mount Zhang'e bears no plants but abounds in jasper and green jade. Its bird is the Bifang: 'shaped like a crane, one-legged, with red markings on a green ground and a white beak; its cry is its own name; where it appears, the town suffers strange fires.' The 'Classic of Regions Beyond the Seas: South' records a Bifang bird as well, dwelling in the east, west of the Green River.\n\nIn the Hanfeizi, when the Yellow Emperor convened the ghosts and gods on the western Mount Tai — riding an elephant chariot drawn by six dragons, the Wind Lord sweeping the road and the Rain Master sprinkling it, tigers and wolves in the van, ghosts and spirits behind, the soaring serpent crouched on the ground and the phoenix overhead — the Bifang stood in attendance beside the linchpins of his chariot. The Huainanzi says 'wood begets the Bifang', and the commentator Gao You calls it the essence of wood: bird-shaped, green with red feet, one-legged, eating no grain.\n\nA spirit of wood that portends fire, the Bifang became in later lore an omen of conflagration, sometimes simply a firebird; its single leg groups it with the Shangyang rain-bird and the one-legged Kui among the famous monopods of early Chinese legend."
+  },
+  "domains": {
+    "zh": [
+      "火兆",
+      "独足",
+      "木精",
+      "怪火"
+    ],
+    "en": [
+      "Fire Omen",
+      "One-legged",
+      "Spirit of Wood",
+      "Strange Fires"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "如鹤一足，赤文青质白喙",
+        "en": "A one-legged crane, red-marked on green, white-beaked"
+      }
+    },
+    {
+      "label": {
+        "zh": "鸣声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "其鸣自叫，声即其名",
+        "en": "Calls its own name"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆验",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其邑有讹火",
+        "en": "Its appearance brings strange fires to the town"
+      }
+    }
+  ],
+  "related": [
+    "zheng"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《山海经·海外南经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: South'"
+    },
+    {
+      "zh": "《韩非子·十过》",
+      "en": "Hanfeizi, 'The Ten Faults'"
+    },
+    {
+      "zh": "《淮南子·氾论训》（高诱注）",
+      "en": "Huainanzi, 'Fanlun' chapter, with Gao You's commentary"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/bifang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic143_-_%E7%95%A2%E6%96%B9%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic143 - 畢方圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 599,
+    "height": 1000
+  }
+}

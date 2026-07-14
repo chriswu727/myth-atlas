@@ -1,0 +1,100 @@
+{
+  "id": "bastet",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "巴斯特",
+    "en": "Bastet",
+    "original": "bꜣstt",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "猫首守护女神",
+    "en": "Cat Goddess of Protection and Joy"
+  },
+  "summary": {
+    "zh": "猫首人身的守护女神，司掌家宅、生育与欢乐。崇拜中心布巴斯提斯的年度祭典是全埃及最盛大的节日，圣域出土了成千上万的猫木乃伊。",
+    "en": "The cat-headed goddess of the home, fertility, and festivity. Her annual festival at Bubastis was Egypt's largest, and her sanctuaries have yielded cat mummies by the tens of thousands."
+  },
+  "description": {
+    "zh": "巴斯特在古王国时期本是狮首女神，性情与嗜血的塞赫美特同源；到公元前一千年前后，她的形象软化为猫首人身的女子，一手提编篮，一手执叉铃，脚边常围着一窝小猫。狮与猫是同一位女神的两副面孔——埃及人说她们是'太阳神之眼'的怒相与安抚后的柔相，巴斯特由此成为家宅、孕妇与孩童的守护者，也是音乐与欢宴的女神。家猫在埃及备受珍视，既捕鼠护粮又驱赶毒蛇，这份实际的恩惠垫高了她的神格。\n\n她的崇拜中心在尼罗河三角洲东部的布巴斯提斯（今扎加齐格附近的巴斯塔丘）。希罗多德在《历史》卷二中留下了埃及宗教节日最生动的目击记录：每年赴布巴斯提斯朝圣的男女乘船而来，一路奏乐拍掌，纵酒欢歌，赴会者号称多达七十万人，节日期间饮掉的葡萄酒超过全年其余日子的总和。\n\n布巴斯提斯与萨卡拉等地的圣域出土了大量青铜猫像与猫木乃伊——信众出资将饲养的圣猫制成木乃伊献给女神。1888年前后，贝尼哈桑一处猫墓地出土的猫木乃伊以吨计，甚至被成船运往英国充作肥料。",
+    "en": "In the Old Kingdom Bastet was a lioness goddess akin in temper to the bloodthirsty Sekhmet; by the first millennium BCE her image had softened into a cat-headed woman carrying a basket and a sistrum rattle, often with kittens at her feet. Lioness and cat were two faces of the same power — the raging and the pacified aspects of the Eye of the sun god — and Bastet became the guardian of the household, of pregnant women and children, and a goddess of music and festivity. The esteem Egyptians held for the domestic cat, killer of granary mice and snakes, carried her cult with it.\n\nHer center was Bubastis in the eastern Delta, modern Tell Basta near Zagazig. Herodotus, in Book II of the Histories, left the most vivid eyewitness account of any Egyptian festival: pilgrims sailed to Bubastis by the boatload with flutes and clappers, singing and drinking along the river, the crowd reckoned at seven hundred thousand, and more wine was consumed during the feast than in all the rest of the year.\n\nThe sanctuaries at Bubastis and Saqqara have yielded bronze cat figurines and cat mummies in enormous numbers — devotees paid to have temple-raised cats mummified as offerings. In the late nineteenth century, cat mummies from a cemetery at Beni Hasan were shipped to Britain by the ton for use as fertilizer."
+  },
+  "domains": {
+    "zh": [
+      "家宅",
+      "生育",
+      "欢乐",
+      "猫"
+    ],
+    "en": [
+      "Home",
+      "Fertility",
+      "Festivity",
+      "Cats"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "猫首女子，执叉铃与编篮",
+        "en": "Cat-headed woman with sistrum and basket"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣兽",
+        "en": "Sacred animal"
+      },
+      "value": {
+        "zh": "家猫",
+        "en": "Domestic cat"
+      }
+    },
+    {
+      "label": {
+        "zh": "崇拜中心",
+        "en": "Cult center"
+      },
+      "value": {
+        "zh": "布巴斯提斯（巴斯塔丘）",
+        "en": "Bubastis (Tell Basta)"
+      }
+    }
+  ],
+  "related": [
+    "ra",
+    "isis"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "希罗多德《历史》卷二",
+      "en": "Herodotus, Histories, Book II"
+    }
+  ],
+  "geo": {
+    "lat": 30.57,
+    "lon": 31.51,
+    "label": {
+      "zh": "布巴斯提斯",
+      "en": "Bubastis"
+    }
+  },
+  "image": {
+    "file": "/images/entries/bastet.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bastet_MET_DP310891.jpg",
+    "sourceTitle": "Bastet",
+    "license": "CC0",
+    "width": 668,
+    "height": 1000
+  }
+}

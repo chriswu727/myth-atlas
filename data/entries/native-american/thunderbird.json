@@ -1,0 +1,94 @@
+{
+  "id": "thunderbird",
+  "tradition": "native-american",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "雷鸟",
+    "en": "Thunderbird",
+    "original": "Wakíŋyaŋ",
+    "originalLang": "拉科塔语"
+  },
+  "title": {
+    "zh": "雷霆之翼",
+    "en": "Winged Bringer of Thunder"
+  },
+  "summary": {
+    "zh": "北美多民族共有的巨鸟神灵：振翅为雷，瞬目为电。平原民族敬其为雷灵，西北海岸传说它能擒鲸而食。",
+    "en": "A giant bird spirit shared across many North American peoples: its wingbeats are thunder, its blinking eyes lightning. Northwest Coast stories tell of it seizing whales."
+  },
+  "description": {
+    "zh": "雷鸟是北美原住民神话中流传最广的形象之一，从西北海岸、五大湖到大平原都有各自的讲法。共同的骨架是：一只体型巨大的猛禽栖于高山之巅或云层之上，扇动翅膀便轰起雷声，开合双眼便闪出电光，春季雷暴是它归来的信号。拉科塔人称之为瓦金扬（Wakíŋyaŋ），视为瓦坎·坦卡的十六位格之一，居于西方日落之处的山巅；梦见雷灵的人须成为\"逆行者\"（heyoka），以反常言行替族人承接雷的力量。\n\n西北海岸的夸夸嘉夸、努查努阿特等民族讲述雷鸟与鲸的搏斗：它从山巅俯冲入海，双爪擒起虎鲸带回山中享用，坠落的鲸骨散在山间。地质学者注意到，这类叙事与卡斯卡迪亚断层的大地震、海啸记忆相合，1700年大地震可能就保存在这些口传之中。奥吉布瓦语称雷鸟为\"animikii\"，雷鸟氏族至今是阿尼什纳贝社会的重要氏族之一。\n\n雷鸟展翼的形象立在西北海岸图腾柱的顶端，也进入了现代视觉文化：从战斗机、汽车到运动队的命名。对相关民族而言，它仍是仪式与氏族体系中的活态存在。",
+    "en": "The Thunderbird is among the most widely shared figures in Native North American tradition, told of from the Northwest Coast through the Great Lakes to the Plains. The common frame: an immense raptor dwells on high peaks or above the clouds; the beat of its wings rolls out as thunder, the opening and closing of its eyes flashes as lightning, and the first storms of spring announce its return. The Lakota know it as Wakíŋyaŋ, one of the sixteen aspects of Wakan Tanka, dwelling on a mountain in the far west where the sun sets; a person who dreams of the thunder beings must become a heyoka, a sacred clown whose contrary behavior carries the thunder's power for the people.\n\nOn the Northwest Coast, the Kwakwaka'wakw, Nuu-chah-nulth, and their neighbors tell of the Thunderbird's battles with whales: it plunges from its mountain, seizes a killer whale in its talons, and carries it home to eat, scattering whale bones across the heights. Geologists have noted how closely these narratives track the great earthquakes and tsunamis of the Cascadia fault, and the rupture of 1700 may survive within them. In Ojibwe the bird is animikii, and the Thunderbird clan remains an important Anishinaabe clan today.\n\nThe spread-winged Thunderbird crowns totem poles along the coast and has passed into modern visual culture, lending its name to aircraft, automobiles, and sports teams, while remaining a living presence in ceremony and clan life."
+  },
+  "domains": {
+    "zh": [
+      "雷电",
+      "风暴",
+      "山巅",
+      "氏族守护"
+    ],
+    "en": [
+      "Thunder and lightning",
+      "Storms",
+      "Mountain peaks",
+      "Clan guardianship"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "拉科塔、奥吉布瓦、夸夸嘉夸、努查努阿特等多民族",
+        "en": "Lakota, Ojibwe, Kwakwaka'wakw, Nuu-chah-nulth, among many others"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Signature"
+      },
+      "value": {
+        "zh": "振翅为雷，瞬目为电",
+        "en": "Wingbeats make thunder; blinking eyes flash lightning"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "水中巨力（西北海岸为鲸，五大湖为水下豹）",
+        "en": "Powers of the deep: whales on the Northwest Coast, the underwater panther around the Great Lakes"
+      }
+    }
+  ],
+  "related": [
+    "wakan-tanka",
+    "raven",
+    "nanabozho"
+  ],
+  "sources": [
+    {
+      "zh": "弗朗茨·博厄斯对夸夸嘉夸等西北海岸民族口传的民族志记录（19世纪末—20世纪初）",
+      "en": "Franz Boas's ethnographic records of Kwakwaka'wakw and other Northwest Coast oral traditions (late 19th to early 20th century)"
+    },
+    {
+      "zh": "詹姆斯·R·沃克《拉科塔信仰与仪式》中关于雷灵瓦金扬的记述",
+      "en": "Accounts of Wakíŋyaŋ in James R. Walker, Lakota Belief and Ritual"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/thunderbird.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thunderbird_on_Kwakwaka%27wakw_Totem_Pole,_Victoria,_British_Columbia,_Canada_03.jpg",
+    "sourceTitle": "Thunderbird on Kwakwaka'wakw Totem Pole, Victoria, British Columbia, Canada 03",
+    "artist": "Michal Klajban",
+    "license": "CC BY-SA 4.0",
+    "width": 815,
+    "height": 1000
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "seraphim",
+  "tradition": "abrahamic",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "炽天使",
+    "en": "Seraphim",
+    "original": "שְׂרָפִים",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "环绕神座的燃烧者",
+    "en": "The Burning Ones About the Throne"
+  },
+  "summary": {
+    "zh": "以赛亚在圣殿异象中所见的六翼天使：两翼遮脸，两翼遮脚，两翼飞翔，彼此呼喊\"圣哉，圣哉，圣哉\"。名字源于\"燃烧\"。",
+    "en": "The six-winged angels of Isaiah's temple vision: two wings covering the face, two the feet, two for flight, calling 'Holy, holy, holy.' Their name comes from the verb 'to burn.'"
+  },
+  "description": {
+    "zh": "炽天使（撒拉弗）只在《以赛亚书》第六章正面出场。乌西雅王驾崩那年，先知在圣殿中看见主坐在高高的宝座上，衣裳垂下遮满圣殿，撒拉弗侍立在他上方：每个有六只翅膀——两只遮脸，两只遮脚，两只用于飞翔——彼此呼喊\"圣哉，圣哉，圣哉，万军之耶和华，他的荣光充满全地\"，呼声震动门槛的根基，殿内充满烟云。一个撒拉弗用火剪从坛上取来烧红的炭，沾以赛亚的口，说他的罪已得赦免，随后先知领受了差遣。\n\n希伯来语 saraph 源于动词\"燃烧\"，同一个词在《民数记》第二十一章指旷野中咬死以色列人的\"火蛇\"，在《以赛亚书》第十四章又指\"会飞的火蛇\"，因此学者多认为撒拉弗的原型带有蛇形与火焰的双重意象；古埃及与黎凡特的圣蛇（uraeus）图像常带翅膀，或与之相关。但在第六章的异象中，他们已是环绕神座、高唱三圣颂的天庭侍者。\n\n约公元五至六世纪，托名亚略巴古的狄奥尼修斯在《天阶体系》中把天使分为三级九等，炽天使位居首位，紧邻神本体，其名被解为\"点燃者、生热者\"；但丁《神曲·天堂篇》沿用此说。三圣颂（Sanctus）进入犹太会堂祷文（Kedushah）与基督教弥撒常典，至今每日在礼拜中回响。图像传统中炽天使通体赤红，常仅以六翼环拥一张面孔。",
+    "en": "The seraphim appear directly only in Isaiah 6. In the year King Uzziah died, the prophet saw the Lord seated on a high and lofty throne, the hem of his robe filling the temple, and seraphim standing above him: each had six wings — two covering the face, two covering the feet, two for flight — and they called to one another, 'Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory.' The sound shook the thresholds on their foundations, and the house filled with smoke. One seraph flew to Isaiah with a live coal taken with tongs from the altar, touched his lips, declared his guilt removed, and the prophet received his commission.\n\nThe Hebrew saraph derives from the verb 'to burn.' The same word names the fiery serpents that bite Israel in the wilderness in Numbers 21 and the 'flying fiery serpent' of Isaiah 14, so scholars generally see a serpentine, flame-wreathed figure behind the seraphim; the winged uraeus serpents of Egyptian and Levantine iconography are often cited as kin. In the vision of chapter 6, however, they are already courtiers of the throne, singers of the threefold Holy.\n\nAround the fifth or sixth century, the writer known as Pseudo-Dionysius the Areopagite placed the seraphim first among the nine choirs of angels in his Celestial Hierarchy, nearest to God, their name glossed as 'those who kindle and give heat'; Dante's Paradiso follows him. The Sanctus entered both the synagogue Kedushah and the Christian mass, where it is still sung daily. In art the seraphim burn red, often a single face wrapped in six wings."
+  },
+  "domains": {
+    "zh": [
+      "圣火",
+      "颂赞",
+      "洁净",
+      "神座近侍"
+    ],
+    "en": [
+      "Holy fire",
+      "Praise",
+      "Purification",
+      "Attendants of the throne"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "翅膀",
+        "en": "Wings"
+      },
+      "value": {
+        "zh": "六翼：遮脸、遮脚、飞翔各一对",
+        "en": "Six: one pair each to cover the face, cover the feet, and fly"
+      }
+    },
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Meaning of name"
+      },
+      "value": {
+        "zh": "\"燃烧者\"，与《民数记》的火蛇同词",
+        "en": "'Burning ones'; the same word names the fiery serpents of Numbers"
+      }
+    },
+    {
+      "label": {
+        "zh": "天阶位次",
+        "en": "Rank"
+      },
+      "value": {
+        "zh": "《天阶体系》九等天使之首",
+        "en": "First of the nine choirs in the Celestial Hierarchy"
+      }
+    }
+  ],
+  "related": [
+    "cherubim",
+    "michael",
+    "gabriel"
+  ],
+  "sources": [
+    {
+      "zh": "《以赛亚书》6:1-7",
+      "en": "Isaiah 6:1-7"
+    },
+    {
+      "zh": "《民数记》21:6-9",
+      "en": "Numbers 21:6-9"
+    },
+    {
+      "zh": "托名狄奥尼修斯《天阶体系》",
+      "en": "Pseudo-Dionysius, The Celestial Hierarchy"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/seraphim.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vrubel_Seraph_Pushkin.jpg",
+    "sourceTitle": "Vrubel Seraph Pushkin",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 710
+  }
+}

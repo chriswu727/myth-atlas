@@ -1,0 +1,99 @@
+{
+  "id": "tian-gou",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "天狗",
+    "en": "Tiangou"
+  },
+  "title": {
+    "zh": "御凶的白首小兽",
+    "en": "White-headed Beast that Wards off Evil"
+  },
+  "summary": {
+    "zh": "阴山中形如野猫而白首的兽，叫声榴榴，畜之可御凶邪；与后世吞月的天狗凶星名同实异。",
+    "en": "A wildcat-like, white-headed beast of Mount Yin whose cry sounds 'liu-liu'; it wards off evil — a benign original quite unlike the later moon-devouring Tiangou."
+  },
+  "description": {
+    "zh": "《西次三经》记阴山“有兽焉，其状如狸而白首，名曰天狗，其音如榴榴，可以御凶”。形如野猫而头是白色，叫声“榴榴”，畜养它可以抵御凶邪——《山海经》里的天狗，是一只护身的小吉兽。\n\n后世的天狗却走向了反面。《史记·天官书》记天上的凶星天狗“状如大奔星，有声，其下止地，类狗”，坠落之处望之如火光炎炎冲天，主兵灾流血；此后历代星占都以天狗为大凶。民间又把日月食说成天狗吞日、天狗食月，敲锣打鼓为日月解围；清代年画里张仙弯弓射天狗，用来护佑子嗣。\n\n七世纪的日本借走了这个名字。《日本书纪》舒明天皇九年（637年），大流星自东而西划过，声响如雷，入唐归来的僧旻宣称“非流星，是天狗也”。此后天狗在日本自行演化为深山里的长鼻妖怪，与《山海经》里白首御凶的原型，已是名同实异的两种存在。",
+    "en": "The 'Classic of the Western Mountains' records on Mount Yin 'a beast shaped like a wildcat with a white head, named Tiangou — Celestial Dog — whose cry sounds liu-liu; it can ward off evil.' In the Shanhaijing, then, the Tiangou is a small protective animal, wholly benign.\n\nLater ages reversed it. The Shiji's 'Treatise on the Celestial Offices' describes the baleful star Tiangou as 'like a great running star, with a sound, coming to rest on the ground, resembling a dog', its fall blazing up like flames to the sky and portending war and bloodshed; every later manual of astrology kept it among the great evils. Popular custom explained eclipses as the Celestial Dog swallowing the sun or moon, to be driven off with gongs and drums, and Qing New Year prints show the archer Zhang Xian drawing his bow at the Tiangou to protect newborn sons.\n\nIn the seventh century Japan borrowed the name: when a great meteor thundered across the sky in 637, the Nihon Shoki records, the monk Min declared it 'no shooting star, but a tengu'. The Japanese tengu then evolved on its own into the long-nosed goblin of the mountains — sharing nothing with the white-headed little guardian of the Shanhaijing but the two characters of its name."
+  },
+  "domains": {
+    "zh": [
+      "御凶",
+      "白首",
+      "凶星",
+      "日月食传说"
+    ],
+    "en": [
+      "Warding off Evil",
+      "White Head",
+      "Baleful Star",
+      "Eclipse Lore"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如狸而白首",
+        "en": "A wildcat with a white head"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "其音如榴榴",
+        "en": "A 'liu-liu' call"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "可以御凶",
+        "en": "Wards off evil"
+      }
+    }
+  ],
+  "related": [
+    "huan",
+    "tengu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《史记·天官书》",
+      "en": "Shiji, 'Treatise on the Celestial Offices'"
+    },
+    {
+      "zh": "《日本书纪》舒明天皇九年",
+      "en": "Nihon Shoki, 9th year of Emperor Jomei"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/tian-gou.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic253_-_%E5%A4%A9%E7%8B%97%E5%9C%96.svg",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic253 - 天狗圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 841
+  }
+}

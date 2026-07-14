@@ -1,0 +1,112 @@
+{
+  "id": "vishnu",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "毗湿奴",
+    "en": "Vishnu",
+    "original": "विष्णु",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "维护之神，十大化身之主",
+    "en": "The Preserver, lord of the ten avatars"
+  },
+  "summary": {
+    "zh": "蓝肤四臂的维护之神，卧于千头蛇王舍沙背上漂浮乳海。每当世间法则倾颓，便降下化身拯救，罗摩与克里希那皆是他的化身。",
+    "en": "The blue-skinned preserver who reclines on the serpent Shesha upon the ocean of milk, descending as avatars—Rama and Krishna among them—whenever cosmic order fails."
+  },
+  "description": {
+    "zh": "毗湿奴肤色如雨云般深蓝，四臂分持法螺“五生”（Panchajanya）、轮宝“善见”（Sudarshana Chakra）、神杵“考莫达基”（Kaumodaki）与莲花，胸前佩戴搅乳海所出的宝石“俱斯图跋”。他的坐骑是金翅鸟王迦楼罗，寝榻是千头蛇王舍沙（阿难陀），在两个宇宙周期之间，他便卧于蛇王盘绕的身躯上漂浮在乳海之中，脐间生出的莲花中坐着创造之神梵天。配偶是吉祥天女拉克什米。\n\n《梨俱吠陀》中的毗湿奴还只是以“三步跨越天地”闻名的次要神祇；到史诗与往世书时代，他升格为三相神中的维护者。其教义核心是“化身”（avatara）：每当正法衰微、恶魔横行，他便降世相救。通行的十大化身为鱼、龟、野猪、人狮、侏儒、持斧罗摩、罗摩、克里希那、佛陀与末世骑白马而来的迦尔吉。搅乳海时他化作巨龟俱利摩驮起曼陀罗山，又化作美女莫西妮从阿修罗手中骗回不死甘露。\n\n毗湿奴信仰（毗湿奴派）是今日印度教最大的宗派之一，南印度蒂鲁帕蒂的文卡特斯瓦拉神庙是全球香客最多的庙宇之一，柬埔寨吴哥窟最初也是献给毗湿奴的神庙。",
+    "en": "Vishnu's skin is the deep blue of a rain cloud. His four hands hold the conch Panchajanya, the discus Sudarshana, a mace and a lotus, and on his chest gleams the Kaustubha jewel churned from the ocean of milk. He rides the eagle king Garuda, and between cosmic ages he sleeps on the coils of the thousand-headed serpent Shesha afloat on the milky sea, the lotus from his navel bearing Brahma. His consort is Lakshmi, goddess of fortune.\n\nIn the Rigveda Vishnu is a minor figure famed for crossing the universe in three strides; by the age of the epics and Puranas he has become the preserver of the Trimurti. Central to his cult is the doctrine of the avatar: whenever dharma decays he descends to restore it. The standard list of ten runs from the fish, tortoise and boar through the man-lion and dwarf to Parashurama, Rama, Krishna, the Buddha, and Kalki, the rider yet to come. During the churning of the ocean he bore Mount Mandara on his back as the tortoise Kurma and, as the enchantress Mohini, tricked the asuras out of the nectar of immortality.\n\nVaishnavism is among the largest currents of Hinduism today; the Venkateswara temple at Tirupati draws some of the world's largest pilgrim crowds, and Angkor Wat in Cambodia was first raised as a temple to Vishnu."
+  },
+  "domains": {
+    "zh": [
+      "维护",
+      "正法",
+      "化身",
+      "王权"
+    ],
+    "en": [
+      "Preservation",
+      "Dharma",
+      "Avatars",
+      "Kingship"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "法器",
+        "en": "Emblems"
+      },
+      "value": {
+        "zh": "法螺、善见轮、神杵、莲花",
+        "en": "Conch, Sudarshana discus, mace, lotus"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "金翅鸟迦楼罗",
+        "en": "Garuda"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "吉祥天女拉克什米",
+        "en": "Lakshmi"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "无忧天（外琨塔）与乳海",
+        "en": "Vaikuntha and the ocean of milk"
+      }
+    }
+  ],
+  "related": [
+    "brahma",
+    "shiva",
+    "krishna",
+    "rama",
+    "garuda",
+    "samudra-manthan",
+    "amrita"
+  ],
+  "sources": [
+    {
+      "zh": "《梨俱吠陀》",
+      "en": "Rigveda"
+    },
+    {
+      "zh": "《毗湿奴往世书》",
+      "en": "Vishnu Purana"
+    },
+    {
+      "zh": "《薄伽梵往世书》",
+      "en": "Bhagavata Purana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/vishnu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Seshanarayana_(Oleographic_print).jpg",
+    "sourceTitle": "Seshanarayana",
+    "artist": "Raja Ravi Varma",
+    "license": "Public domain",
+    "width": 717,
+    "height": 1000
+  }
+}

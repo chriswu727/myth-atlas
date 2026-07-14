@@ -1,0 +1,95 @@
+{
+  "id": "behemoth",
+  "tradition": "abrahamic",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "贝希摩斯",
+    "en": "Behemoth",
+    "original": "בְּהֵמוֹת",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "陆上巨兽",
+    "en": "The Great Beast of the Land"
+  },
+  "summary": {
+    "zh": "《约伯记》中的陆上巨兽：吃草如牛，骨如铜管，尾巴摇动如香柏树，卧在莲叶与芦苇之下。后世传统以它与海中的利维坦相对。",
+    "en": "The land beast of the Book of Job: it eats grass like an ox, its bones are tubes of bronze, and it sways its tail like a cedar. Later tradition pairs it with Leviathan in the sea."
+  },
+  "description": {
+    "zh": "贝希摩斯出自《约伯记》第四十章，是耶和华向约伯展示的陆上巨兽。经文说它吃草如牛，气力在腰间，能力在肚腹的筋上；它摇动尾巴如香柏树，骨头好像铜管，肢体仿佛铁棍；它卧在莲叶之下、隐于芦苇与泥泞之间，河水泛涨也不发战，就是约旦河涨到它口边也安然不惧。经文称它为\"神所造的物中为首的\"。希伯来语 behemoth 是\"牲畜\"（behemah）的复数形式，在此用作强调——巨兽中的巨兽。近代注释者多认为其原型是尼罗河与约旦河谷的河马，也有人主张是野牛或水牛。\n\n在第二圣殿时期的文献里，贝希摩斯与利维坦结成一对。《以诺一书》第六十章说神在造物时分开二兽：雌性的利维坦居于深海，雄性的贝希摩斯占据伊甸以东名为敦达因（Dundayin）的旷野。《以斯拉四书》第六章也记载神在创世第五日造了这两头巨兽，各居其所。拉比传统进一步发挥：末日之时二兽相斗同亡，其肉将在弥赛亚的筵席上分给义人。\n\n与利维坦一样，贝希摩斯的名字后来成为西方语言中\"庞然大物\"的代称，从霍布斯讨论英国内战的《贝希摩斯》（1668年成书）到今日对巨型机构与巨型机器的日常称呼。",
+    "en": "Behemoth appears in Job 40, the land beast God displays to Job. It eats grass like an ox; its strength is in its loins, its power in the muscles of its belly. It sways its tail like a cedar, its bones are tubes of bronze, its limbs like bars of iron. It lies under the lotus plants, hidden among reeds and marsh, unafraid when the river rages — confident though the Jordan surge against its mouth. The text calls it 'the first of the works of God.' The Hebrew word is the plural of behemah, 'beast,' used here as an intensive: the beast of beasts. Modern commentators most often identify its model as the hippopotamus of the Nile and Jordan valleys, though the wild ox and the water buffalo have also been proposed.\n\nSecond Temple literature pairs Behemoth with Leviathan. 1 Enoch 60 relates that at creation the two were separated: Leviathan, the female, to the depths of the sea; Behemoth, the male, to a wilderness east of Eden called Dundayin. 4 Ezra 6 likewise places their creation on the fifth day. Rabbinic tradition adds that at the end of days the two beasts will fight and fall together, and their flesh will be served to the righteous at the messianic banquet.\n\nLike Leviathan, the name passed into Western usage as a byword for anything of monstrous size, from Hobbes's Behemoth, his account of the English Civil War, to everyday speech about giant institutions and machines."
+  },
+  "domains": {
+    "zh": [
+      "陆地",
+      "蛮力",
+      "神造之首"
+    ],
+    "en": [
+      "The land",
+      "Brute strength",
+      "First of God's works"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest attestation"
+      },
+      "value": {
+        "zh": "《约伯记》40:15-24",
+        "en": "Job 40:15-24"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "莲叶与芦苇之下、约旦河畔的泥泞",
+        "en": "Under lotus and reeds, in the marshes by the Jordan"
+      }
+    },
+    {
+      "label": {
+        "zh": "对应巨兽",
+        "en": "Counterpart"
+      },
+      "value": {
+        "zh": "海中的利维坦",
+        "en": "Leviathan, its counterpart in the sea"
+      }
+    }
+  ],
+  "related": [
+    "leviathan",
+    "garden-of-eden"
+  ],
+  "sources": [
+    {
+      "zh": "《约伯记》40:15-24",
+      "en": "Job 40:15-24"
+    },
+    {
+      "zh": "《以诺一书》60章",
+      "en": "1 Enoch 60"
+    },
+    {
+      "zh": "《以斯拉四书》6:49-52",
+      "en": "4 Ezra 6:49-52"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/behemoth.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Blake,_Behemoth_and_Leviathan,_1825,_NGA_819.jpg",
+    "sourceTitle": "Behemoth and Leviathan",
+    "artist": "William Blake",
+    "license": "CC0",
+    "width": 783,
+    "height": 1000
+  }
+}

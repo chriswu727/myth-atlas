@@ -1,0 +1,91 @@
+{
+  "id": "huan",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "讙",
+    "en": "Huan"
+  },
+  "title": {
+    "zh": "独目三尾的百声兽",
+    "en": "One-eyed Beast of a Hundred Voices"
+  },
+  "summary": {
+    "zh": "翼望之山的怪兽，形如野猫，一目三尾，叫声仿佛百声并出；畜之可御凶邪，佩之能治黄疸。",
+    "en": "A wildcat-like beast of Mount Yiwang with a single eye and three tails, its cry like a hundred voices at once; it wards off evil, and worn on the body it cures jaundice."
+  },
+  "description": {
+    "zh": "翼望之山是西次三经的最后一座山，“无草木，多金玉”。山中有兽“其状如狸，一目而三尾，名曰讙，其音如夺百声”——形如野猫，只生一目，身后三条尾巴，叫起来仿佛上百种声音齐出，一说它的声音能压过百声。经文接着记它的用处：“是可以御凶，服之已瘅”——畜养它可以抵御凶邪，佩带它能治愈黄疸（瘅）。\n\n“御凶”是西山经诸兽常见的功效，同经的天狗、鵸鵌皆有此能，讙则兼具医效，一身而三奇：独目、三尾、百声。这也使它成为明清《山海经》图本中辨识度最高的小兽之一，图工通常画一只竖着三条尾巴、额头正中生独眼的猫形兽。与它同住翼望之山的，是三首六尾而善笑的怪鸟鵸鵌——西次三经的末山，集中了全经造形最奇的两只小动物。",
+    "en": "Mount Yiwang, last peak of the third western guideway, 'bears no plants, but much gold and jade'. Its beast is the Huan: 'shaped like a wildcat, with one eye and three tails, its voice as if seizing a hundred voices' — a cry in which a hundred animal calls seem to sound at once, or, on another reading, a voice that drowns out a hundred others. The text then gives its uses: kept, it wards off evil; worn on the body, it cures jaundice.\n\nWarding off evil is a stock virtue among the western beasts — the Tiangou and the Qitu of the same classic share it — but the Huan adds a medical power, and carries three marvels in one small body: the single eye, the triple tail, the hundred voices. Ming and Qing illustrators found it irresistible, usually drawing a cat-like creature with three erect tails and one eye set in the middle of its forehead. It shares Mount Yiwang with the Qitu, a three-headed, six-tailed bird that loves to laugh; between them, the final mountain of the guideway houses two of the strangest small creatures in the entire book."
+  },
+  "domains": {
+    "zh": [
+      "御凶",
+      "独目",
+      "医效",
+      "翼望之山"
+    ],
+    "en": [
+      "Warding off Evil",
+      "Single Eye",
+      "Healing",
+      "Mount Yiwang"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如狸，一目而三尾",
+        "en": "A wildcat with one eye and three tails"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "其音如夺百声",
+        "en": "As if a hundred voices sounded at once"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "御凶，服之已瘅",
+        "en": "Wards off evil; worn, it cures jaundice"
+      }
+    }
+  ],
+  "related": [
+    "qi-tu",
+    "tian-gou"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/huan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic255_-_%E8%AE%99%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic255 - 讙圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 660,
+    "height": 1000
+  }
+}

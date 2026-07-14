@@ -1,0 +1,95 @@
+{
+  "id": "medusa",
+  "tradition": "greek",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "美杜莎",
+    "en": "Medusa",
+    "original": "Μέδουσα",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "蛇发的戈耳工",
+    "en": "The Snake-haired Gorgon"
+  },
+  "summary": {
+    "zh": "三位戈耳工中唯一有死之身者，蛇发，目光使人石化。被珀耳修斯斩首，首级后镶于雅典娜的埃癸斯神盾。",
+    "en": "The only mortal of the three Gorgons, snake-haired, her gaze turning onlookers to stone. Beheaded by Perseus, her head was set on Athena's aegis."
+  },
+  "description": {
+    "zh": "美杜莎是三位戈耳工姐妹中唯一有死之身者，海神福耳库斯与刻托之女。她发间盘绕活蛇，目光能把生灵变为石头；古风时期的瓶画把戈耳工画成圆脸咧口、獠牙外露、吐着舌头的正面形象。奥维德《变形记》补充说她本是以秀发闻名的美貌少女，因在雅典娜神庙中被波塞冬玷污，头发被女神变成毒蛇。\n\n珀耳修斯奉命取她首级：雅典娜借出磨亮的青铜盾让他只看倒影行事，赫耳墨斯赠予弯刀，宁芙们提供飞鞋、隐身帽与盛首级的皮囊。他趁美杜莎熟睡时凌空斩下头颅，飞马珀伽索斯与巨人克律萨俄耳从断颈中跃出——二者是她与波塞冬的后代。首级此后仍有石化之力，珀耳修斯用它把逼娶其母的塞里福斯王波吕得克忒斯变成石头，最终献给雅典娜，女神将它镶在埃癸斯神盾中央。希腊人把戈耳工头像刻在神庙山墙、盾牌与门楣上辟邪。",
+    "en": "Medusa was the only mortal of the three Gorgon sisters, daughters of the sea deities Phorcys and Ceto. Living snakes coiled in her hair and her gaze turned any creature to stone; archaic vase painters showed the Gorgon face-on, round-cheeked, with bared tusks and a protruding tongue. Ovid's Metamorphoses adds that she had been a maiden famed for her hair, violated by Poseidon in Athena's temple, whereupon the goddess turned her locks to serpents.\n\nPerseus was sent to fetch her head: Athena lent him a polished bronze shield so he need watch only the reflection, Hermes gave a curved blade, and nymphs supplied winged sandals, a cap of invisibility, and a pouch for the head. He struck while she slept, and the winged horse Pegasus and the giant Chrysaor — her children by Poseidon — sprang from the severed neck. The head kept its petrifying power; Perseus turned King Polydectes of Seriphos, his mother's unwanted suitor, to stone with it before presenting it to Athena, who set it at the center of her aegis. Greeks carved the Gorgon face on temple pediments, shields, and lintels to turn away evil."
+  },
+  "domains": {
+    "zh": [
+      "石化目光",
+      "蛇发",
+      "辟邪形象"
+    ],
+    "en": [
+      "Petrifying gaze",
+      "Serpent hair",
+      "Apotropaic image"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "福耳库斯与刻托",
+        "en": "Phorcys and Ceto"
+      }
+    },
+    {
+      "label": {
+        "zh": "克星",
+        "en": "Slayer"
+      },
+      "value": {
+        "zh": "珀耳修斯",
+        "en": "Perseus"
+      }
+    },
+    {
+      "label": {
+        "zh": "断颈所出",
+        "en": "Born from her neck"
+      },
+      "value": {
+        "zh": "飞马珀伽索斯、巨人克律萨俄耳",
+        "en": "Pegasus and Chrysaor"
+      }
+    }
+  ],
+  "related": [
+    "athena",
+    "poseidon"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "奥维德《变形记》",
+      "en": "Ovid, Metamorphoses"
+    },
+    {
+      "zh": "阿波罗多洛斯《书藏》",
+      "en": "Apollodorus, Bibliotheca"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/medusa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+    "sourceTitle": "Medusatitle QS:P1476,en:\"Medusa\"label QS:Len,\"Medusa\"",
+    "artist": "Caravaggio",
+    "license": "Public domain",
+    "width": 975,
+    "height": 1000
+  }
+}

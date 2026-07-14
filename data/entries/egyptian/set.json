@@ -1,0 +1,108 @@
+{
+  "id": "set",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "塞特",
+    "en": "Set",
+    "original": "stẖ",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "沙漠与风暴之神",
+    "en": "God of the Desert and Storms"
+  },
+  "summary": {
+    "zh": "谋杀兄长奥西里斯的沙漠风暴之神，兽首弯吻方耳、无法对应任何真实动物。他既是秩序的破坏者，又每夜在太阳船头执矛击退阿佩普。",
+    "en": "The storm god who murdered his brother Osiris, shown with a curve-snouted, square-eared head matching no real animal; both a breaker of order and the nightly defender who spears Apep from the solar barque."
+  },
+  "description": {
+    "zh": "塞特的头像是埃及图像志中的一个谜：弯而下垂的长吻、竖立的方顶耳、分叉挺直的尾巴，动物学家始终无法将这种'塞特兽'对应到任何真实物种。他司掌沙漠、风暴、异邦与暴力，红色是他的颜色——红土荒漠与尼罗河谷黑土的对立。他是大地神盖布与天空女神努特之子，九柱神之一，《金字塔铭文》说他撕开母亲的身体侧面出生。\n\n他最大的恶行是谋杀兄长奥西里斯：设计诱其躺入木箱抛入尼罗河，尸身寻回后又将其肢解抛散。此后他与侄子荷鲁斯缠讼八十年，比试中互有胜负，最终败诉失去王位。但塞特的面目远比单纯的反派复杂：在《阿姆杜阿特书》等冥界文献中，他是太阳船上不可替代的护卫，每夜站在船头执矛刺退企图吞噬太阳的巨蛇阿佩普——诸神中唯有他的暴力足以制衡混沌。第十九王朝的拉美西斯家族出身塞特崇拜兴盛的东三角洲，塞提一世的王名即意为'塞特之人'。\n\n第三中间期以后，随着外族屡次入侵，司掌异邦的塞特声名日坏，形象被凿毁，最终与阿佩普混同为纯粹的恶神；希腊人则把他等同于怪物提丰。他早期的崇拜中心在上埃及的努布特（希腊语称翁波斯）。",
+    "en": "The head of Set is a puzzle of Egyptian iconography: a long drooping curved snout, erect square-topped ears, and a stiff forked tail belonging to no identifiable species — Egyptologists simply call it the 'Set animal.' He rules the desert, storms, foreign lands, and violence, and his color is red, the red of the barren land opposed to the black silt of the valley. A son of Geb and Nut and one of the Ennead, he is said in the Pyramid Texts to have torn himself violently from his mother's side at birth.\n\nHis great crime was the murder of his brother Osiris, tricked into a chest and drowned in the Nile, his recovered body then hacked apart and scattered. The eighty-year lawsuit with his nephew Horus followed, ending in defeat and the loss of the throne. Yet Set is more than a villain: in the Amduat and other netherworld books he stands at the prow of the solar barque each night, the one god violent enough to drive his spear into the chaos serpent Apep and keep the sun alive. The Ramesside kings of the Nineteenth Dynasty, natives of the eastern Delta where his cult flourished, honored him openly; the name Seti means 'man of Set.'\n\nAfter repeated foreign invasions in the first millennium BCE, the god of foreign lands fell into disgrace, his images were defaced, and he merged with Apep as a figure of pure evil; the Greeks equated him with the monster Typhon. His early cult center was Nubt (Greek Ombos) in Upper Egypt."
+  },
+  "domains": {
+    "zh": [
+      "沙漠",
+      "风暴",
+      "混乱",
+      "异邦"
+    ],
+    "en": [
+      "Desert",
+      "Storms",
+      "Chaos",
+      "Foreign Lands"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "弯吻方耳的'塞特兽'首人身",
+        "en": "Man with the curve-snouted 'Set animal' head"
+      }
+    },
+    {
+      "label": {
+        "zh": "颜色",
+        "en": "Color"
+      },
+      "value": {
+        "zh": "红色，红发",
+        "en": "Red, red-haired"
+      }
+    },
+    {
+      "label": {
+        "zh": "早期崇拜中心",
+        "en": "Early cult center"
+      },
+      "value": {
+        "zh": "努布特（翁波斯）",
+        "en": "Nubt (Ombos)"
+      }
+    }
+  ],
+  "related": [
+    "osiris",
+    "horus",
+    "isis",
+    "apep",
+    "ra"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《荷鲁斯与塞特之争》（切斯特·贝蒂纸草一号）",
+      "en": "The Contendings of Horus and Seth, Papyrus Chester Beatty I"
+    },
+    {
+      "zh": "普鲁塔克《论伊西斯与奥西里斯》",
+      "en": "Plutarch, De Iside et Osiride"
+    }
+  ],
+  "geo": {
+    "lat": 25.9,
+    "lon": 32.72,
+    "label": {
+      "zh": "努布特（翁波斯）",
+      "en": "Nubt (Ombos)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/set.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Set_speared_Apep.jpg",
+    "sourceTitle": "Set speared Apep",
+    "artist": "An unknown workman",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 984
+  }
+}

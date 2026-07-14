@@ -1,0 +1,93 @@
+{
+  "id": "lu-shu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "鹿蜀",
+    "en": "Lushu"
+  },
+  "title": {
+    "zh": "杻阳山中虎纹白首的鸣马",
+    "en": "Tiger-Striped, White-Headed Horse-Beast of Mount Niuyang"
+  },
+  "summary": {
+    "zh": "杻阳山异兽，形状如马而白头，身披虎纹，尾巴赤红，鸣声像人唱歌；佩戴它的皮毛据说宜子孙。",
+    "en": "A beast of Mount Niuyang shaped like a horse with a white head, tiger stripes, and a red tail, whose call sounds like human song; wearing its hide was said to bless one with descendants."
+  },
+  "description": {
+    "zh": "《南山经》记杻阳之山\"有兽焉，其状如马而白首，其文如虎而赤尾，其音如谣，其名曰鹿蜀，佩之宜子孙\"。这是一头拼色鲜明的兽：马的身形，雪白的头，周身虎皮般的斑纹，一条赤红的尾巴。郭璞注\"谣\"为徒歌，它的鸣叫像人清唱的歌声。杻阳之山山南多赤金、山北多白金，鹿蜀与产金的山、鸟首蛇尾的旋龟同条出现。\n\n山海经的异兽大多附带一条实用功效，鹿蜀的功效落在\"佩\"字上：将它的皮毛佩在身上，可保子孙繁衍。这类说法把猎获的兽皮变成了护身符。明清诸种《山海经》图本里，鹿蜀多被画成一匹昂首的虎纹马，是图卷中辨识度最高的形象之一；今天讨论山海经动物原型的文字，也常拿非洲的斑马、㺢㹢狓与它的\"文如虎\"相对照，聊备一说。",
+    "en": "The Classic of the Southern Mountains places the lushu on Mount Niuyang, whose southern slope yields red gold and northern slope white gold. The beast is boldly patterned: the body of a horse, a pure white head, a coat striped like a tiger's, and a red tail. Its voice, the text says, is like yao — song without instruments, as the commentator Guo Pu glosses it — so that the creature seems to sing rather than neigh.\n\nAs with most beasts in the book, the entry ends in a prescription, and the lushu's concerns wearing rather than eating: carry its hide on your person and your descendants will flourish, a formula that turns a hunter's trophy into an amulet of fertility. In Ming and Qing illustrated editions of the Shanhaijing the lushu is drawn as a proud tiger-striped horse, one of the most recognizable figures in the picture scrolls, and modern writers on the bestiary's possible originals like to set its tiger markings beside the zebra and the okapi, if only as a curiosity."
+  },
+  "domains": {
+    "zh": [
+      "瑞兽",
+      "子孙繁衍",
+      "歌声"
+    ],
+    "en": [
+      "Auspicious Beasts",
+      "Fertility",
+      "Song"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "杻阳之山",
+        "en": "Mount Niuyang"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如人清唱之歌",
+        "en": "Like unaccompanied human song"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "佩其皮毛宜子孙",
+        "en": "Wearing its hide blesses one's descendants"
+      }
+    }
+  ],
+  "related": [
+    "xuan-gui",
+    "xing-xing"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经传》",
+      "en": "Guo Pu, commentary on the Shanhaijing"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/lu-shu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic234_-_%E9%B9%BF%E8%9C%80%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic234 - 鹿蜀圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 876
+  }
+}

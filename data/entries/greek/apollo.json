@@ -1,0 +1,108 @@
+{
+  "id": "apollo",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "阿波罗",
+    "en": "Apollo",
+    "original": "Ἀπόλλων",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "光明、预言与音乐之神",
+    "en": "God of Light, Prophecy, and Music"
+  },
+  "summary": {
+    "zh": "光明、预言、音乐与医药之神，宙斯与勒托之子，生于提洛岛。射杀巨蟒皮同后在德尔斐建立神谕所。",
+    "en": "God of light, prophecy, music, and healing, son of Zeus and Leto, born on Delos. He slew the serpent Python and founded his oracle at Delphi."
+  },
+  "description": {
+    "zh": "阿波罗是光明、预言、音乐、医药与弓箭之神，宙斯与勒托之子，与狩猎女神阿耳忒弥斯为孪生兄妹，出生于爱琴海的提洛岛。他的形象是不蓄须的俊美青年，持银弓或七弦里拉琴，圣树为月桂，圣兽有天鹅与海豚。《伊利亚特》开篇便是他的怒火：因祭司克律塞斯遭辱，他以瘟疫之箭射向希腊联军营地九天。\n\n《荷马颂歌·阿波罗颂》记载他在帕耳那索斯山麓射杀巨蟒皮同，夺得德尔斐圣地并建立神谕所。女祭司皮提亚坐在三足鼎上传达神谕，希腊各城邦立国、殖民、开战之前都来此求问，德尔斐由此被称为\"大地的肚脐\"。奥维德《变形记》讲述他追求宁芙达佛涅，少女在河神父亲的帮助下化为月桂树，他遂折桂枝为冠——桂冠自此成为诗人与胜利者的荣誉。",
+    "en": "Apollo, son of Zeus and Leto and twin brother of Artemis, was born on the Aegean island of Delos. God of light, prophecy, music, healing, and archery, he appears as a beardless youth bearing a silver bow or the seven-stringed lyre; the laurel is his tree, the swan and the dolphin his animals. The Iliad opens with his anger: after his priest Chryses was insulted, his plague arrows fell on the Greek camp for nine days.\n\nThe Homeric Hymn to Apollo tells how he slew the great serpent Python below Mount Parnassus and claimed Delphi, founding the oracle there. His priestess the Pythia, seated on a tripod, delivered his answers; Greek cities consulted the shrine before founding colonies or declaring war, and called the spot the navel of the earth. In Ovid's Metamorphoses his pursuit of the nymph Daphne ends when her river-god father transforms her into a laurel tree, from whose branches Apollo makes his crown — the wreath that has honored poets and victors ever since."
+  },
+  "domains": {
+    "zh": [
+      "光明",
+      "预言",
+      "音乐",
+      "医药",
+      "弓箭"
+    ],
+    "en": [
+      "Light",
+      "Prophecy",
+      "Music",
+      "Healing",
+      "Archery"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "银弓、里拉琴、月桂",
+        "en": "Silver bow, lyre, laurel"
+      }
+    },
+    {
+      "label": {
+        "zh": "出生地",
+        "en": "Birthplace"
+      },
+      "value": {
+        "zh": "提洛岛",
+        "en": "Island of Delos"
+      }
+    },
+    {
+      "label": {
+        "zh": "神谕所",
+        "en": "Oracle"
+      },
+      "value": {
+        "zh": "德尔斐，女祭司皮提亚",
+        "en": "Delphi, spoken through the Pythia"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "mount-olympus",
+    "trojan-war"
+  ],
+  "sources": [
+    {
+      "zh": "《荷马颂歌·阿波罗颂》",
+      "en": "Homeric Hymn to Apollo"
+    },
+    {
+      "zh": "荷马《伊利亚特》",
+      "en": "Homer, Iliad"
+    },
+    {
+      "zh": "奥维德《变形记》",
+      "en": "Ovid, Metamorphoses"
+    }
+  ],
+  "geo": {
+    "lat": 38.4824,
+    "lon": 22.501,
+    "label": {
+      "zh": "德尔斐",
+      "en": "Delphi"
+    }
+  },
+  "image": {
+    "file": "/images/entries/apollo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belvedere_Apollo_Pio-Clementino_Inv1015_n3.jpg",
+    "sourceTitle": "Belvedere Apollo Pio-Clementino Inv1015 n3",
+    "artist": "Marie-Lan Nguyen",
+    "license": "CC BY 2.5",
+    "width": 666,
+    "height": 1000
+  }
+}

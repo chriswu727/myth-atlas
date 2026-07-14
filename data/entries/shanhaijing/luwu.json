@@ -1,0 +1,106 @@
+{
+  "id": "luwu",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "陆吾",
+    "en": "Luwu"
+  },
+  "title": {
+    "zh": "昆仑天都的守护神",
+    "en": "Warden of the Celestial Capital on Kunlun"
+  },
+  "summary": {
+    "zh": "昆仑之丘的司神，虎身九尾，人面虎爪，替天帝掌管天之九部与苑囿的时节。",
+    "en": "Tutelary god of the Mound of Kunlun: tiger-bodied with nine tails, a human face and tiger claws, keeper of heaven's nine regions and the seasons of the God's park."
+  },
+  "description": {
+    "zh": "昆仑之丘“是实惟帝之下都”，天帝设在下界的都城，由神陆吾看守。《西次三经》写他“其神状虎身而九尾，人面而虎爪；是神也，司天之九部及帝之囿时”——虎的身体拖着九条尾巴，人的面孔配一双虎爪，职责是掌管天之九域的部界与天帝苑囿的时节。\n\n郭璞注说陆吾“即肩吾也”。《庄子·大宗师》历数得道者，有“肩吾得之，以处大山”一句——庄子笔下坐镇大山的神，与守昆仑的陆吾正相对应。《海内西经》另记昆仑有开明兽，“身大类虎而九首，皆人面，东向立昆仑上”，把守昆仑的九门；袁珂《山海经校注》认为开明兽与陆吾实为同一守护神在不同篇章中的分化。\n\n作为天帝都城的守门神，陆吾与同住昆仑的食人兽土蝼、剧毒的怪鸟钦原比邻，神境昆仑森严可怖的一面，大半由他们三个撑起。",
+    "en": "The Mound of Kunlun 'is in truth the lower capital of the High God', and the god Luwu keeps it. The 'Classic of the Western Mountains' describes him with a tiger's body and nine tails, a human face and tiger's claws, charged with the nine regions of heaven and the seasons of the God's own park.\n\nGuo Pu's commentary identifies Luwu with Jianwu: the Zhuangzi, listing beings who attained the Way, says 'Jianwu attained it, and thereby dwells on the great mountain' — a fitting match for the warden of Kunlun. The 'Classic of Regions Within the Seas: West' records another guardian, the Kaiming beast, 'large as a tiger, with nine heads, every one a human face', standing on Kunlun facing east to keep its nine gates; Yuan Ke's modern critical edition treats Kaiming and Luwu as two refractions of a single guardian deity.\n\nAs gatekeeper of the celestial capital, Luwu shares the mountain with the man-eating Tulou and the lethally venomous bird Qinyuan; among them they account for most of Kunlun's forbidding aspect."
+  },
+  "domains": {
+    "zh": [
+      "昆仑",
+      "守护",
+      "天之九部",
+      "苑囿时节"
+    ],
+    "en": [
+      "Kunlun",
+      "Guardianship",
+      "Nine Regions of Heaven",
+      "Seasons of the God's Park"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "虎身九尾，人面虎爪",
+        "en": "Tiger's body with nine tails, human face, tiger's claws"
+      }
+    },
+    {
+      "label": {
+        "zh": "职司",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "司天之九部及帝之囿时",
+        "en": "Keeper of heaven's nine regions and the seasons of the God's park"
+      }
+    },
+    {
+      "label": {
+        "zh": "对应",
+        "en": "Identified with"
+      },
+      "value": {
+        "zh": "郭璞注：即《庄子》之肩吾",
+        "en": "Jianwu of the Zhuangzi, per Guo Pu"
+      }
+    }
+  ],
+  "related": [
+    "kunlun",
+    "xiwangmu",
+    "tu-lou",
+    "qin-yuan",
+    "yingzhao"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《山海经·海内西经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: West'"
+    },
+    {
+      "zh": "《庄子·大宗师》",
+      "en": "Zhuangzi, 'The Great Ancestral Teacher'"
+    },
+    {
+      "zh": "袁珂《山海经校注》",
+      "en": "Yuan Ke, Shanhaijing Jiaozhu (critical edition with commentary)"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/luwu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic16_-_%E9%99%B8%E5%90%BE%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic16 - 陸吾神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 678,
+    "height": 1000
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "qin-yuan",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "钦原",
+    "en": "Qinyuan"
+  },
+  "title": {
+    "zh": "昆仑山上的剧毒蜂鸟",
+    "en": "Venomous Wasp-bird of Kunlun"
+  },
+  "summary": {
+    "zh": "昆仑之丘的毒鸟，形如蜂而大如鸳鸯；螫到鸟兽，鸟兽即死，螫到树木，树木立枯。",
+    "en": "A venomous bird of Kunlun, wasp-shaped but the size of a mandarin duck; birds and beasts it stings die outright, and trees it stings wither."
+  },
+  "description": {
+    "zh": "昆仑之丘是“帝之下都”，天帝设在下界的都城，由虎身九尾的陆吾把守。城中的天空则属于一只毒鸟：《西次三经》记“有鸟焉，其状如蜂，大如鸳鸯，名曰钦原，蠚鸟兽则死，蠚木则枯”。它形如蜂而大如鸳鸯；蠚就是螫刺——被它螫到的鸟兽当即死去，被它螫到的树木随即枯槁。\n\n在同一座昆仑山上，经文还记有食人的四角怪羊土蝼、吃了使人不溺水的沙棠果、吃了使人不觉疲劳的薲草。神境昆仑的物产分成两列，一列赐福，一列致命；《山海经》通篇写毒物的条目不多，螫死鸟兽、螫枯树木这样酷烈的毒性，钦原是其中最突出的一例。明清图本多把它画作一只拖着螫针的巨蜂，悬在昆仑的宫阙之上。",
+    "en": "The Mound of Kunlun is 'the lower capital of the High God', warded on the ground by nine-tailed Luwu; its air belongs to a single venomous bird. 'There is a bird there,' says the 'Classic of the Western Mountains', 'shaped like a wasp and as large as a mandarin duck, named Qinyuan; birds and beasts that it stings die, and trees that it stings wither.'\n\nOn the same mountain the classic lists the man-eating four-horned ram Tulou, the shatang fruit that keeps its eater from drowning, and the pin herb that banishes weariness — Kunlun's produce splits neatly into gifts and killers. Venomous creatures are rare in the Shanhaijing, and none is credited with venom more absolute than the Qinyuan's, which kills outright and withers living wood. Ming and Qing illustrated editions draw it as a giant wasp trailing its sting above the terraces of Kunlun."
+  },
+  "domains": {
+    "zh": [
+      "剧毒",
+      "蜂形",
+      "昆仑",
+      "禁地"
+    ],
+    "en": [
+      "Deadly Venom",
+      "Wasp-form",
+      "Kunlun",
+      "Forbidden Precincts"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如蜂，大如鸳鸯",
+        "en": "A wasp the size of a mandarin duck"
+      }
+    },
+    {
+      "label": {
+        "zh": "毒性",
+        "en": "Venom"
+      },
+      "value": {
+        "zh": "蠚鸟兽则死，蠚木则枯",
+        "en": "Its sting kills beasts and withers trees"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "昆仑之丘，帝之下都",
+        "en": "The Mound of Kunlun, the High God's lower capital"
+      }
+    }
+  ],
+  "related": [
+    "luwu",
+    "tu-lou",
+    "kunlun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/qin-yuan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic111_-_%E6%AC%BD%E5%8E%9F%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic111 - 欽原圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 687,
+    "height": 1000
+  }
+}

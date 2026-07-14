@@ -1,0 +1,102 @@
+{
+  "id": "ys",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "伊斯城",
+    "en": "Ys",
+    "original": "Kêr-Is",
+    "originalLang": "布列塔尼语"
+  },
+  "title": {
+    "zh": "水闸洞开一夜沉没的布列塔尼名城",
+    "en": "The Breton city drowned when its sluice gates opened"
+  },
+  "summary": {
+    "zh": "布列塔尼传说中筑于海平面之下的繁华城市：公主达胡窃取水闸钥匙，海水一夜吞城，国王格拉德隆纵马独逃。钟声至今在杜阿讷内兹湾下回响。",
+    "en": "The splendid Breton city built below sea level, drowned in a night when princess Dahut stole the key to the sluice gates; its bells still toll beneath the Bay of Douarnenez."
+  },
+  "description": {
+    "zh": "伊斯城（布列塔尼语Kêr-Is，\"低处之城\"）是布列塔尼最著名的沉没传说。城由科努瓦耶国王格拉德隆所建，位于杜阿讷内兹湾，地势低于海面，全凭堤坝与青铜水闸挡住大西洋，闸门钥匙由国王亲自佩于颈间。国王的女儿达胡美艳放纵，把城市变成欢宴之所。一夜，一位红衣（一说黑衣）陌生人诱她盗取父亲的钥匙打开水闸——多数版本说那是魔鬼——海水轰然灌入。圣格温诺莱唤醒国王，格拉德隆跨上神马莫尔瓦赫携女疾驰，浪头紧追不舍，圣人喝令他抛下身后的罪人，达胡坠海，化为塞壬般的人鱼摩甘，海面从此平息，而伊斯城永沉海底。传说渔人风平浪静时仍能听见海底钟声；布列塔尼谚语说，巴黎（Par-Is，\"与伊斯相当\"）沉没之日，就是伊斯城重新浮起之时。\n\n格拉德隆与圣格温诺莱均为约五、六世纪的半传说人物，沉城故事的雏形散见于中世纪晚期编年史（如十五世纪皮埃尔·勒博的著作），完整的达胡情节由阿尔贝·勒格朗1636年的布列塔尼圣徒传定型，十九世纪拉维尔马凯的民歌集《布列塔尼歌谣》（1839）收录挽歌《伊斯城的沉没》使其广为流传。爱德华·拉洛的歌剧《伊斯王》（1888）与德彪西的前奏曲《沉没的教堂》（1910）把这座水下之城送进了音乐史；日本Falcom公司1987年起的游戏系列《伊苏》亦借用其名。",
+    "en": "Ys, in Breton Kêr-Is, \"the low city\", is Brittany's great drowning legend. King Gradlon of Cornouaille built it in the Bay of Douarnenez below the level of the sea, defended by dikes and bronze sluice gates whose only key hung at the king's own neck. His daughter Dahut, beautiful and unruly, turned the city into a place of endless feasting. One night a stranger in red, in most tellings the Devil, persuaded her to steal the key and open the gates, and the Atlantic poured in. Woken by Saint Winwaloe, Gradlon galloped from the flood on his sea-horse Morvarc'h with Dahut clinging behind, but the waves gained until the saint commanded him to cast off the sinner; Dahut fell and became the mermaid-like morgen of Breton waters, the sea grew calm, and Ys sank forever. Fishermen say its bells can still be heard on still days, and a Breton saying holds that when Paris (\"Par-Is\", the equal of Ys) is drowned, Ys will rise again.\n\nGradlon and Winwaloe are semi-legendary figures of about the fifth and sixth centuries. The drowned city appears in late medieval chronicles such as Pierre Le Baud's in the fifteenth century; Albert Le Grand's 1636 lives of the Breton saints fixed the Dahut plot, and the lament \"Livaden Geris\" in La Villemarqué's ballad collection Barzaz Breiz (1839) carried it across Europe. Édouard Lalo's opera Le roi d'Ys (1888) and Debussy's prelude The Sunken Cathedral (1910) gave the underwater city a musical afterlife, and Falcom's game series Ys (from 1987) borrowed the name."
+  },
+  "domains": {
+    "zh": [
+      "沉没之城",
+      "布列塔尼",
+      "水闸与钥匙",
+      "海底钟声"
+    ],
+    "en": [
+      "Drowned city",
+      "Brittany",
+      "The key and the gates",
+      "Bells beneath the sea"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "关键人物",
+        "en": "Key figures"
+      },
+      "value": {
+        "zh": "国王格拉德隆、公主达胡、圣格温诺莱",
+        "en": "King Gradlon, princess Dahut, Saint Winwaloe"
+      }
+    },
+    {
+      "label": {
+        "zh": "定型文献",
+        "en": "Defining texts"
+      },
+      "value": {
+        "zh": "勒格朗圣徒传（1636）；《布列塔尼歌谣》（1839）",
+        "en": "Albert Le Grand's saints' lives (1636); Barzaz Breiz (1839)"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说地点",
+        "en": "Legendary site"
+      },
+      "value": {
+        "zh": "布列塔尼杜阿讷内兹湾海底",
+        "en": "Beneath the Bay of Douarnenez, Brittany"
+      }
+    }
+  ],
+  "related": [
+    "kitezh",
+    "avalon",
+    "atlantis"
+  ],
+  "sources": [
+    {
+      "zh": "阿尔贝·勒格朗《阿摩里卡布列塔尼圣徒传》（1636）",
+      "en": "Albert Le Grand, Lives of the Saints of Armorican Brittany (1636)"
+    },
+    {
+      "zh": "拉维尔马凯《布列塔尼歌谣》（1839）所收《伊斯城的沉没》",
+      "en": "\"Livaden Geris\" in La Villemarqué, Barzaz Breiz (1839)"
+    }
+  ],
+  "geo": {
+    "lat": 48.1,
+    "lon": -4.42,
+    "label": {
+      "zh": "法国布列塔尼杜阿讷内兹湾",
+      "en": "Bay of Douarnenez, Brittany, France"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ys.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg",
+    "sourceTitle": "French: Fuite de GradlonThe Flight of Gradlon Mawr (330-434 AD)title QS:P1476,fr:\"Fuite de Gradlon\"label QS:Lfr,\"Fuite de Gradlon\"label QS:Len,\"The Flight of Gradlon Mawr (330-434 AD)\"",
+    "artist": "Évariste-Vital Luminais",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 707
+  }
+}

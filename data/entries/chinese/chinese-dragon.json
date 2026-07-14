@@ -1,0 +1,95 @@
+{
+  "id": "chinese-dragon",
+  "tradition": "chinese",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "龙",
+    "en": "Chinese Dragon"
+  },
+  "title": {
+    "zh": "行云布雨的鳞虫之长",
+    "en": "Lord of Scaled Creatures, Bringer of Rain"
+  },
+  "summary": {
+    "zh": "角似鹿、爪似鹰的神兽，能幽能明、能大能小，春分登天、秋分潜渊；司云雨，为帝王象征，列四灵之一。",
+    "en": "The supreme scaled beast, deer-horned and eagle-clawed, able to shrink or fill the sky, climbing to heaven at the spring equinox and diving into the deeps in autumn; master of rain and emblem of emperors."
+  },
+  "description": {
+    "zh": "龙是中国神话中地位最高的神兽。《说文解字》释曰：\"龙，鳞虫之长。能幽能明，能细能巨，能短能长。春分而登天，秋分而潜渊。\"宋代罗愿《尔雅翼》引汉人旧说，总结龙有\"九似\"：角似鹿、头似驼、眼似兔、项似蛇、腹似蜃、鳞似鱼、爪似鹰、掌似虎、耳似牛；颔下有珠，喉下有径尺逆鳞，撄之则杀人。\n\n龙的形象极其古老：河南濮阳西水坡遗址的蚌壳摆塑龙距今约六千四百年，红山文化的碧玉C形龙也有五千余年历史。《周易》乾卦通篇以龙取象，从潜龙勿用、见龙在田到飞龙在天、亢龙有悔，成为进退出处的原型意象。龙主司云雨，\"云从龙\"，历代旱时祈雨必祭龙；佛教传入后龙王信仰兴起，四海龙王与遍布水滨的龙王庙把这份职司制度化。\n\n自汉代起，龙逐渐被皇权垄断：天子称真龙天子，龙袍织五爪金龙，双龙戏珠、龙生九子等母题布满宫殿与器物。龙又是十二生肖中唯一的虚构动物，端午赛龙舟、正月舞龙灯至今是最盛大的民俗场面。",
+    "en": "The dragon stands at the head of all scaled creatures in Chinese myth. The Shuowen Jiezi dictionary of the second century CE defines it as a being that can dim or shine, grow minute or immense, short or long, mounting to the sky at the spring equinox and plunging into the abyss at the autumn one. Song scholar Luo Yuan's Erya Yi transmits the classic 'nine resemblances': horns of a deer, head of a camel, eyes of a hare, neck of a snake, belly of a clam-monster, scales of a fish, claws of an eagle, paws of a tiger, ears of an ox — with a pearl beneath its chin and a foot-wide inverted scale at its throat that kills any who touch it.\n\nThe image is immensely old. A dragon laid out in clamshells at the Xishuipo site in Puyang, Henan, dates back some 6,400 years, and the coiled jade dragons of the Hongshan culture are over five millennia old. The Book of Changes builds its first hexagram entirely on dragon imagery, from 'hidden dragon, do not act' to 'flying dragon in the heavens'. As master of clouds and rain the dragon received prayers in every drought, a role later institutionalized in the Dragon Kings of the four seas and their temples along every waterway.\n\nFrom the Han dynasty onward the beast was annexed by the throne: emperors were 'true dragons', their robes woven with five-clawed dragons chasing pearls. The only imaginary animal of the twelve-year zodiac, it still commands dragon-boat races each fifth month and dragon-lantern dances each New Year."
+  },
+  "domains": {
+    "zh": [
+      "雨水",
+      "江河",
+      "皇权",
+      "四灵"
+    ],
+    "en": [
+      "Rain",
+      "Rivers",
+      "Imperial Power",
+      "The Four Numinous Beasts"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "九似：角似鹿、头似驼、眼似兔、项似蛇等",
+        "en": "The nine resemblances: deer horns, camel head, hare eyes, snake neck, and more"
+      }
+    },
+    {
+      "label": {
+        "zh": "司掌",
+        "en": "Charge"
+      },
+      "value": {
+        "zh": "行云布雨",
+        "en": "Summoning clouds and rain"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早遗存",
+        "en": "Earliest remains"
+      },
+      "value": {
+        "zh": "濮阳西水坡蚌塑龙，约6400年前",
+        "en": "Clamshell dragon at Xishuipo, Puyang, c. 6,400 years old"
+      }
+    }
+  ],
+  "related": [
+    "fenghuang",
+    "qilin",
+    "huangdi"
+  ],
+  "sources": [
+    {
+      "zh": "《说文解字》",
+      "en": "Shuowen Jiezi"
+    },
+    {
+      "zh": "《周易·乾卦》",
+      "en": "Book of Changes, hexagram Qian"
+    },
+    {
+      "zh": "罗愿《尔雅翼》",
+      "en": "Luo Yuan, Erya Yi"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/chinese-dragon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%85%B6%E4%BD%A9%E5%A2%A8%E9%BE%99%E5%9B%BE%E8%BD%B4.png",
+    "sourceTitle": "Chinese: 《高其佩墨龙图轴》label QS:Lzh,\"高其佩墨龙图轴\"",
+    "license": "Public domain",
+    "width": 530,
+    "height": 1000
+  }
+}

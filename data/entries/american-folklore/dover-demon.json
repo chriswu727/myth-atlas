@@ -1,0 +1,48 @@
+{
+  "id": "dover-demon",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "多佛恶魔",
+    "en": "Dover Demon"
+  },
+  "title": { "zh": "石墙上的大头细肢小怪物", "en": "The Big-Headed Waif on the Stone Wall" },
+  "summary": {
+    "zh": "1977年4月，马萨诸塞州多佛镇的三名青少年在25小时内先后目击一种大头、细肢、橙眼发光的无毛小生物，调查者洛伦·科尔曼为其命名。",
+    "en": "In April 1977, three teenagers in Dover, Massachusetts independently reported a hairless, spindly creature with an oversized head and glowing orange eyes within 25 hours; investigator Loren Coleman coined its name."
+  },
+  "description": {
+    "zh": "多佛恶魔身高约一米二，通体无毛，皮肤呈桃色或砂纸般的粗糙质感，四肢细长如枯枝，手指很长，能攀在石头上；最醒目的是与身体不成比例的巨大头颅——形状常被比作西瓜——和一双发出橙色光的圆眼。它没有耳鼻嘴的明显轮廓，也不发声。\n\n目击集中在1977年4月21日至22日的二十五小时内，地点都在波士顿西南郊的小镇多佛。21日晚十点半左右，十七岁的比尔·巴特利特驾车经过农场街，车灯扫到一个趴在路边碎石墙上的生物，它转过头，橙色的眼睛直视车灯；巴特利特当晚画下的素描成为此案的标志图像。约两小时后，十五岁的约翰·巴克斯特步行回家时在米勒山路遇到同样的东西沿溪谷逃走。次日晚，十五岁的艾比·布拉巴姆与威尔·泰恩托驾车时再次看到它，坚称眼睛是绿色的。三名目击者彼此不熟识，描述却高度一致。\n\n神秘动物学作家洛伦·科尔曼当时住在附近，数日内完成走访，为怪物起名「多佛恶魔」，并联合UFO研究者对目击者做了交叉问询，认为几个孩子没有说谎的动机。怀疑者先后提出幼驼鹿、患病狐狸或脱毛的小马驹等解释，但都与体型或季节对不上。此案再无后续目击，恰恰因为这份「干净」——单一地点、短暂窗口、互不相识的可靠目击者——它成为美国神秘动物学档案里被讨论最多的悬案之一，日本的游戏与动漫也频繁借用其形象。",
+    "en": "The Dover Demon stands about four feet tall, hairless, its skin peach-colored and rough like sandpaper, with limbs thin as sticks and long fingers that grip stone. Its defining features are a head far too large for its body — witnesses compared the shape to a watermelon — and round eyes that glowed orange in the light. No ears, nose, or mouth were made out, and it made no sound.\n\nAll sightings fall within twenty-five hours on April 21-22, 1977, in Dover, a small town southwest of Boston. Around 10:30 p.m. on the 21st, seventeen-year-old Bill Bartlett, driving on Farm Street, caught the creature in his headlights as it crouched on a fieldstone wall and turned its glowing eyes toward him; the sketch he drew that night became the case's emblem. About two hours later, fifteen-year-old John Baxter, walking home on Miller Hill Road, met the same thing fleeing down a wooded gully. The next evening, fifteen-year-old Abby Brabham, riding with Will Taintor, saw it again and insisted the eyes were green. The three principal witnesses barely knew one another, yet their descriptions align closely.\n\nCryptozoology writer Loren Coleman, then living nearby, interviewed everyone within days, coined the name \"Dover Demon,\" and with UFO researchers cross-examined the teenagers, concluding they had no motive to lie. Skeptics have proposed a moose calf, a diseased fox, or a hairless foal, none matching the size or the season. There have been no further sightings, and precisely that cleanness — one town, one short window, independent witnesses — keeps the case among the most discussed files in American cryptozoology, its image borrowed freely by Japanese games and anime."
+  },
+  "domains": {
+    "zh": ["单一目击窗口", "人形小怪物", "新英格兰怪谈", "神秘动物学悬案"],
+    "en": ["Single sighting window", "Small humanoid", "New England legend", "Cryptozoology cold case"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "目击窗口", "en": "Window" },
+      "value": { "zh": "1977年4月21-22日，约25小时", "en": "April 21-22, 1977 — about 25 hours" }
+    },
+    {
+      "label": { "zh": "首位目击者", "en": "First witness" },
+      "value": { "zh": "比尔·巴特利特（17岁），农场街石墙", "en": "Bill Bartlett (17), on Farm Street" }
+    },
+    {
+      "label": { "zh": "命名者", "en": "Named by" },
+      "value": { "zh": "洛伦·科尔曼", "en": "Loren Coleman" }
+    }
+  ],
+  "related": ["flatwoods-monster", "hopkinsville-goblins", "loveland-frogman"],
+  "sources": [
+    { "zh": "洛伦·科尔曼的现场调查与命名（1977）", "en": "Loren Coleman's field investigation and naming (1977)" },
+    { "zh": "1977年波士顿地区报纸报道", "en": "Boston-area newspaper coverage, 1977" }
+  ],
+  "geo": {
+    "lat": 42.25,
+    "lon": -71.28,
+    "label": { "zh": "马萨诸塞州多佛镇农场街", "en": "Farm Street, Dover, Massachusetts" }
+  },
+  "image": null
+}

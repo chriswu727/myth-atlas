@@ -1,0 +1,105 @@
+{
+  "id": "titicaca-creation",
+  "tradition": "inca",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "的的喀喀湖创世传说",
+    "en": "The Creation at Lake Titicaca"
+  },
+  "title": {
+    "zh": "安第斯世界的开端",
+    "en": "The Beginning of the Andean World"
+  },
+  "summary": {
+    "zh": "传说世界原本沉在黑暗里，维拉科查在的的喀喀湖畔现身，令太阳从湖中太阳岛的圣岩升起，月亮星辰随之而出，各族人类从洞穴与泉眼中被唤醒。",
+    "en": "The world lay in darkness until Viracocha appeared at Lake Titicaca and called the sun up from the sacred rock on the Island of the Sun; moon and stars followed, and the nations were summoned from caves and springs."
+  },
+  "description": {
+    "zh": "贝坦索斯与莫利纳记下的创世传说都从一片黑暗开始：天地已成，却没有光，最早的一代人在幽暗中触怒了造物主，被洪水吞没或化为石头。此后维拉科查在的的喀喀湖畔重整世界。他立于蒂瓦纳科，令太阳从湖心太阳岛的圣岩“蒂蒂卡拉”升起，月亮与星辰随之而出。科博还记下一则余闻：月亮起初比太阳更亮，太阳心生嫉妒，抓起一把炉灰掷在她脸上，月光从此转暗。光明既定，维拉科查以石刻出各族人类的原型，派使者行遍大地，把他们从洞穴、泉眼与山岩中一一唤出。\n\n印加人征服科亚地区后，把这处创世现场纳入帝国祭祀体系，图帕克·印加·尤潘基在太阳岛与月亮岛大兴圣所。据奥古斯丁会士拉莫斯·加维兰记载，朝圣者须在岛上连过三道门，逐门忏悔，方能远远望见圣岩——赤脚的朝圣队伍络绎于途，供品自帝国四方汇来。王朝传说也嫁接于此：始祖曼科·卡帕克正是奉太阳之命，从这片湖水出发去建立库斯科。\n\n的的喀喀湖海拔3800余米，是世界上海拔最高的大型可通航湖泊。殖民时代，湖畔的科帕卡瓦纳耸起圣母圣殿，原住民雕匠蒂托·尤潘基1583年完成的圣母像至今受人供奉；湖上的艾马拉与克丘亚社群，仍向湖水与诸岛献上古老的供礼。",
+    "en": "The creation stories set down by Betanzos and Molina begin in darkness: a world already made, but without light, and a first race of people who angered their maker in the gloom and were ended by flood or turned to stone. Then Viracocha set the world in order at Lake Titicaca. Standing at Tiahuanaco he called the sun up from the Titikala, the sacred rock on the Island of the Sun, and the moon and stars rose after it. Cobo adds a sequel: the moon at first shone brighter than the sun, and the sun in jealousy flung a handful of ashes in her face, dimming her light forever. With the lights in place, Viracocha carved the prototypes of the nations in stone and sent messengers across the land to call them out of caves, springs and rock.\n\nWhen the Incas conquered the Collao they folded this ground of creation into the imperial cult, and Tupac Inca Yupanqui built out great sanctuaries on the Islands of the Sun and the Moon. The Augustinian Ramos Gavilán records that pilgrims had to pass three gates on the island, confessing at each, before they might view the sacred rock from afar; barefoot processions came and went, with offerings flowing in from the four quarters of the empire. The dynastic legend was grafted here as well: it was from these waters that Manco Cápac set out at the Sun's command to found Cusco.\n\nLake Titicaca lies above 3,800 meters, the highest large navigable lake in the world. In colonial times the basilica of Copacabana rose on its shore, where the image of the Virgin carved by the indigenous sculptor Tito Yupanqui in 1583 is venerated still, and the Aymara and Quechua communities of the lake continue to make the old offerings to its waters and islands."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "日月起源",
+      "圣湖",
+      "朝圣"
+    ],
+    "en": [
+      "Creation",
+      "Origin of sun and moon",
+      "Sacred lake",
+      "Pilgrimage"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣岩",
+        "en": "Sacred rock"
+      },
+      "value": {
+        "zh": "太阳岛的蒂蒂卡拉",
+        "en": "The Titikala on the Island of the Sun"
+      }
+    },
+    {
+      "label": {
+        "zh": "湖泊",
+        "en": "The lake"
+      },
+      "value": {
+        "zh": "海拔3800余米，世界最高的大型可通航湖泊",
+        "en": "Above 3,800 m, the world's highest large navigable lake"
+      }
+    },
+    {
+      "label": {
+        "zh": "帝国圣所",
+        "en": "Imperial shrines"
+      },
+      "value": {
+        "zh": "太阳岛与月亮岛，图帕克·印加·尤潘基扩建",
+        "en": "Islands of the Sun and Moon, built out by Tupac Inca Yupanqui"
+      }
+    }
+  ],
+  "related": [
+    "viracocha",
+    "inti",
+    "manco-capac",
+    "mama-killa"
+  ],
+  "sources": [
+    {
+      "zh": "胡安·德·贝坦索斯《印加人的总述与叙事》（1551）",
+      "en": "Juan de Betanzos, Suma y narración de los Incas (1551)"
+    },
+    {
+      "zh": "克里斯托瓦尔·德·莫利纳《印加神话与仪式记述》（约1575）",
+      "en": "Cristóbal de Molina, Relación de las fábulas y ritos de los Incas (c. 1575)"
+    },
+    {
+      "zh": "阿隆索·拉莫斯·加维兰《科帕卡瓦纳圣母圣殿史》（1621）",
+      "en": "Alonso Ramos Gavilán, Historia del Santuario de Nuestra Señora de Copacabana (1621)"
+    }
+  ],
+  "geo": {
+    "lat": -16.02,
+    "lon": -69.18,
+    "label": {
+      "zh": "的的喀喀湖太阳岛",
+      "en": "Island of the Sun, Lake Titicaca"
+    }
+  },
+  "image": {
+    "file": "/images/entries/titicaca-creation.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roca_Sagrada.jpg",
+    "sourceTitle": "Roca Sagrada",
+    "artist": "Marco Ebreo",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  }
+}

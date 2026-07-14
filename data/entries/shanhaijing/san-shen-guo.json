@@ -1,0 +1,97 @@
+{
+  "id": "san-shen-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "三身国",
+    "en": "Country of the Three-Bodied"
+  },
+  "title": {
+    "zh": "一首三身的帝俊后裔之国",
+    "en": "One Head, Three Bodies: Descendants of Di Jun"
+  },
+  "summary": {
+    "zh": "大荒之中一首而三身的国度，帝俊之妻娥皇所生，姚姓，以黍为食，能驱使虎豹熊罴四兽；海外西经把它列在夏后启之北。",
+    "en": "A wilderness nation whose people have one head and three bodies, born of Di Jun's wife Ehuang. Surnamed Yao, they eat millet and command four beasts; another chapter places them north of Qi of the Xia."
+  },
+  "description": {
+    "zh": "大荒南经记：大荒之中有一种人，一个脑袋下长着三副身体。帝俊之妻娥皇生下了这个三身之国，国人姓姚，吃黍子，能驱使「四鸟」——大荒诸经他处开列这四鸟的名单，其实是豹、虎、熊、罴四种猛兽，「鸟」在此是兽的泛称。海外西经也记有此国：「三身国在夏后启之北，一首而三身」，《淮南子·墬形训》把三身民列入海外三十六国的名录。\n\n这一国的谱系埋着线索。姚是舜的姓氏，娥皇又与嫁给舜的尧之长女同名——袁珂《山海经校注》即以此为「帝俊即舜」说的重要证据：大荒经里帝俊娶娥皇生姚姓之国，与传世文献里舜姓姚、妻娥皇，是同一传说的两副面孔。\n\n海内经还给三身国安排了后代：帝俊生三身，三身生义均，义均就是「巧倕」，开始为下界民众发明各种工巧。一首三身的怪形之国，就这样接进了上古发明家的谱系——在《山海经》的世界里，形体的奇异与血统的尊贵、技艺的传承并行不悖。",
+    "en": "In the midst of the great wilderness, says the southern classic, live people with one head and three bodies. Di Jun's wife Ehuang bore this nation; its people are surnamed Yao, eat millet, and command the 'four birds' — a list that other wilderness passages spell out as leopard, tiger, and the two great bears, 'bird' serving as a loose word for beast. The Beyond the Seas: West chapter locates the country north of Qi, lord of the Xia, and the Huainanzi counts the Three-Bodied among the thirty-six nations beyond the seas.\n\nThe genealogy carries a buried clue. Yao is the surname of the sage-king Shun, and Ehuang is the name of the elder daughter of Yao the sage-king, given to Shun in marriage. Yuan Ke's critical commentary treats this as key evidence that Di Jun and Shun are one figure split in two: in the wilderness classics Di Jun marries Ehuang and fathers a Yao-surnamed nation; in the transmitted histories Shun bears the surname Yao and marries Ehuang — the same tradition wearing two faces.\n\nThe final chapter grafts the nation into the lineage of invention: Di Jun begat Three-Body, Three-Body begat Yijun, and Yijun — the craftsman Qiao Chui — first devised the hundred crafts for the people below. A nation of prodigious anatomy is thus also an ancestor of technology; in this book, strange bodies and noble arts descend together."
+  },
+  "domains": {
+    "zh": [
+      "异形之国",
+      "帝俊后裔",
+      "驱使猛兽"
+    ],
+    "en": [
+      "Prodigious Nation",
+      "Line of Di Jun",
+      "Beast-Commanding"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形体",
+        "en": "Anatomy"
+      },
+      "value": {
+        "zh": "一首而三身",
+        "en": "One head, three bodies"
+      }
+    },
+    {
+      "label": {
+        "zh": "谱系",
+        "en": "Lineage"
+      },
+      "value": {
+        "zh": "帝俊妻娥皇所生，姚姓",
+        "en": "Born of Di Jun's wife Ehuang; surnamed Yao"
+      }
+    },
+    {
+      "label": {
+        "zh": "生业",
+        "en": "Livelihood"
+      },
+      "value": {
+        "zh": "黍食，使豹虎熊罴",
+        "en": "Millet-eaters who command leopard, tiger, and bears"
+      }
+    }
+  ],
+  "related": [
+    "di-jun",
+    "wu-xian-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒南经》《海外西经》《海内经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: South', 'Beyond the Seas: West', and the final chapter"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms' chapter"
+    },
+    {
+      "zh": "袁珂《山海经校注》",
+      "en": "Yuan Ke, Critical Commentary on the Classic of Mountains and Seas"
+    }
+  ],
+  "volume": {
+    "zh": "大荒南经",
+    "en": "Classic of the Great Wilderness: South"
+  },
+  "image": {
+    "file": "/images/entries/san-shen-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic058_-_%E4%B8%89%E8%BA%AB%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic058 - 三身國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 674,
+    "height": 1000
+  }
+}

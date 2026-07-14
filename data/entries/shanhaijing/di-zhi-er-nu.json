@@ -1,0 +1,111 @@
+{
+  "id": "di-zhi-er-nu",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "帝之二女",
+    "en": "The Two Daughters of the Supreme God"
+  },
+  "title": {
+    "zh": "出入必以飘风暴雨的湘水女神",
+    "en": "Goddesses of the Xiang Whose Passage Raises Gales and Storms"
+  },
+  "summary": {
+    "zh": "居于洞庭之山的两位女神，往来于江渊潇湘之间，出入必有飘风暴雨；后世与舜妃娥皇、女英合流为湘水之神。",
+    "en": "Two goddesses of Mount Dongting who range the Yangtze deeps; their every passage raises whirlwind and storm. Later tradition merged them with Ehuang and Nüying, consorts of Shun and spirits of the Xiang."
+  },
+  "description": {
+    "zh": "《中次十二经》记洞庭之山：“帝之二女居之，是常游于江渊。澧沅之风，交潇湘之渊，是在九江之间，出入必以飘风暴雨。”天帝的两个女儿住在洞庭山中，常在长江深渊游弋；澧水沅水的风与潇湘的渊水在此交会，她们每次出入，必挟着旋风暴雨。山中另多怪神，状如人而载蛇，左右手操蛇。\n\n郭璞注以为这是天帝之二女，处江为神。《楚辞·九歌》里的湘君、湘夫人，“帝子降兮北渚”的帝子，先秦楚人祭的就是这对水上女神。\n\n汉以后另一条脉络把她们坐实为尧的两个女儿、舜的两位妃子娥皇与女英。刘向《列女传》记舜南巡死于苍梧，二妃死于江湘之间，俗谓之湘君；张华《博物志》又记二妃闻讯挥泪，泪洒竹上尽成斑点，湘妃竹由此得名。洞庭湖中的君山至今有二妃墓，那座湖心小岛成了她们的祠所。",
+    "en": "On Mount Dongting live the two daughters of the supreme god, who range the deeps of the Yangtze. There, the classic says, the winds of the Li and Yuan rivers cross the pools of the Xiao and Xiang among the nine tributaries, and every passage of the goddesses raises whirlwind and storm. The mountain teems besides with strange gods, man-shaped, draped with snakes, gripping snakes in both hands.\n\nGuo Pu took the pair as daughters of the celestial god who settled in the river and became its divinities. The 'Nine Songs' of the Chuci hymn them as the Xiang Princess and the Lady of the Xiang; the 'child of god descending on the northern isle' is one of the two.\n\nA later tradition made them Ehuang and Nüying, daughters of Yao and wives of Shun. Liu Xiang's Biographies of Exemplary Women records that when Shun died at Cangwu on his southern tour, the two consorts died between the Jiang and the Xiang, and the people called them Xiangjun. Zhang Hua's Bowuzhi adds that their tears fell on the bamboo and speckled it for good, the origin of the mottled 'Xiang consorts bamboo.' Junshan, the island in Lake Dongting, keeps a tomb of the two consorts to this day."
+  },
+  "domains": {
+    "zh": [
+      "湘水",
+      "风雨",
+      "洞庭",
+      "湘妃竹"
+    ],
+    "en": [
+      "The Xiang River",
+      "Storms",
+      "Lake Dongting",
+      "Speckled Bamboo"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "洞庭之山",
+        "en": "Mount Dongting"
+      }
+    },
+    {
+      "label": {
+        "zh": "异象",
+        "en": "Sign"
+      },
+      "value": {
+        "zh": "出入必以飘风暴雨",
+        "en": "Whirlwind and storm attend their passage"
+      }
+    },
+    {
+      "label": {
+        "zh": "后世身份",
+        "en": "Later Identity"
+      },
+      "value": {
+        "zh": "舜妃娥皇、女英，即湘君与湘夫人",
+        "en": "Ehuang and Nüying, the Xiang Princess and Lady of the Xiang"
+      }
+    }
+  ],
+  "related": [
+    "yu-er",
+    "ji-meng"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "《楚辞·九歌》",
+      "en": "Chuci, 'Nine Songs'"
+    },
+    {
+      "zh": "刘向《列女传》",
+      "en": "Liu Xiang, Biographies of Exemplary Women (Lienü zhuan)"
+    },
+    {
+      "zh": "张华《博物志》",
+      "en": "Zhang Hua, Bowuzhi (Records of Diverse Matters)"
+    }
+  ],
+  "geo": {
+    "lat": 29.4,
+    "lon": 112.95,
+    "label": {
+      "zh": "洞庭湖君山",
+      "en": "Junshan Isle, Lake Dongting"
+    }
+  },
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/di-zhi-er-nu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Goddess_and_the_Lady_of_the_Xiang,_Wen_Zhengming.jpg",
+    "sourceTitle": "Portrait of the Goddess and the Lady of the Xiang 湘君湘夫人图",
+    "artist": "Wen Zhengming 文徵明 (1470-1559)",
+    "license": "Public domain",
+    "width": 383,
+    "height": 1000
+  }
+}

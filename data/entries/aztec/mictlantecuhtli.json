@@ -1,0 +1,98 @@
+{
+  "id": "mictlantecuhtli",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "米克特兰特库特利",
+    "en": "Mictlantecuhtli",
+    "original": "Mictlāntēcutli",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "米克特兰之主，死界的君王",
+    "en": "Lord of Mictlan, King of the Dead"
+  },
+  "summary": {
+    "zh": "死界米克特兰的骷髅之主，与妻子米克特卡西瓦特尔并坐九层地下界最深处。曾设局阻挠克察尔科亚特尔取回人骨，致骨殖摔碎。",
+    "en": "Skeletal lord of Mictlan, enthroned with his wife Mictecacihuatl in the ninth and deepest level of the underworld. His traps shattered the human bones Quetzalcoatl came to reclaim."
+  },
+  "description": {
+    "zh": "米克特兰特库特利是死界米克特兰之主，形象是一具带血斑的骷髅，或面覆骷髅面具的人身，头戴猫头鹰羽与纸旗冠饰，耳饰为人骨。他与妻子米克特卡西瓦特尔并坐于地下九层的最深处；蜘蛛、蝙蝠、蜈蚣与猫头鹰是他的眷属。凡不属战死、溺亡等特殊死法的亡者皆归米克特兰：亡魂需跋涉四年，穿越相撞的山、黑曜石之风与八重荒野，最后由一条黄狗驮渡宽河，方能抵达他的座前，交出随葬的供物，从此消散安息——狗因此常与死者一同下葬。\n\n他最著名的神话是与克察尔科亚特尔的斗智。第四太阳纪之后，羽蛇神下到米克特兰索要前代人类的骨殖，米克特兰特库特利先出难题：吹响一只没有孔的海螺——克察尔科亚特尔唤蠕虫钻孔、群蜂入内轰鸣而破解；死主佯装应允又暗令掘坑，鹌鹑惊起，羽蛇神坠坑昏死，骨殖摔断散落。他带着碎骨逃回人间，众神以血和骨粉造出新人类——据说人有高矮，正因骨殖曾经摔碎。\n\n献给他的祭仪多在夜间与神庙地下进行。1994年，考古学家在大神庙旁的\"鹰武士之家\"发现两尊真人大小的米克特兰特库特利陶像：骷髅面孔，双爪前伸，肝脏悬垂于肋骨之外——阿兹特克人认为肝是灵气\"伊约利亚\"（ihiyotl）所居。今日墨西哥亡灵节的骷髅意象，常被追溯到他与米克特卡西瓦特尔的古老崇拜。",
+    "en": "Mictlantecuhtli rules Mictlan, the land of the dead, as a blood-spattered skeleton or a figure in a skull mask, crowned with owl feathers and paper banners, with human bones for ear ornaments. He sits beside his wife Mictecacihuatl in the ninth and lowest layer of the underworld, attended by spiders, bats, centipedes, and owls. All who died ordinary deaths — not in battle, not by water — came to him: a four-year journey past clashing mountains, a wind of obsidian blades, and eight deserts, until a yellow dog carried the soul across a broad river to his throne, where the grave goods were surrendered and the soul dissolved into rest. For this ferrying, dogs were often buried with the dead.\n\nHis most famous tale is a contest of wits with Quetzalcoatl, who descended after the Fourth Sun to claim the bones of the previous humanity. Mictlantecuhtli first demanded the impossible: sound a conch trumpet with no holes. Quetzalcoatl called worms to bore it and bees to roar inside. Feigning consent, the death lord had a pit dug in the god's path; a quail startled him, he fell senseless, and the bones broke and scattered. Quetzalcoatl fled with the fragments, from which the gods, bleeding themselves into the ground bone-meal, shaped the present human race — people stand tall and short, it was said, because the bones had shattered.\n\nHis rites were held at night and in chambers below the temples. In 1994 archaeologists found two life-size clay statues of Mictlantecuhtli in the House of Eagles beside the Templo Mayor: skull-faced, claws thrust forward, the liver hanging free below the ribs — the organ the Aztecs held to house the breath-soul ihiyotl. The skull imagery of Mexico's Day of the Dead is often traced back to the cult of Mictlantecuhtli and Mictecacihuatl."
+  },
+  "domains": {
+    "zh": [
+      "死亡",
+      "冥界",
+      "黑夜",
+      "骸骨"
+    ],
+    "en": [
+      "Death",
+      "Underworld",
+      "Night",
+      "Bones"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Realm"
+      },
+      "value": {
+        "zh": "米克特兰第九层",
+        "en": "The ninth level of Mictlan"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "米克特卡西瓦特尔",
+        "en": "Mictecacihuatl"
+      }
+    },
+    {
+      "label": {
+        "zh": "眷属",
+        "en": "Creatures"
+      },
+      "value": {
+        "zh": "猫头鹰、蝙蝠、蜘蛛、蜈蚣",
+        "en": "Owl, bat, spider, centipede"
+      }
+    }
+  ],
+  "related": [
+    "quetzalcoatl",
+    "xolotl",
+    "five-suns"
+  ],
+  "sources": [
+    {
+      "zh": "《诸太阳传说》（《奇马尔波波卡手抄本》，1558年）",
+      "en": "Leyenda de los Soles (Codex Chimalpopoca, 1558)"
+    },
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第三卷附录",
+      "en": "Bernardino de Sahagún, Florentine Codex, Book 3, appendix"
+    },
+    {
+      "zh": "《博尔吉亚手抄本》",
+      "en": "Codex Borgia"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mictlantecuhtli.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mictlantecuhtli_1.jpg",
+    "sourceTitle": "Mictlantecuhtli 1",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 833,
+    "height": 1000
+  }
+}

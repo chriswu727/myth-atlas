@@ -1,0 +1,82 @@
+{
+  "id": "zhu-ru",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "朱獳",
+    "en": "Zhuru"
+  },
+  "title": {
+    "zh": "预告国中恐慌的鱼翼之狐",
+    "en": "The Fin-Winged Fox That Heralds Panic in the Realm"
+  },
+  "summary": {
+    "zh": "耿山的怪兽，形状像狐狸，身上却生着鱼鳍一样的翅，叫声如唤己名；它一出现，所在的国家就有大恐慌。",
+    "en": "A beast of Geng Mountain shaped like a fox but bearing fish-fin wings, its cry naming itself. Wherever it appears, the state is seized by fear."
+  },
+  "description": {
+    "zh": "东次二经的耿山不生草木，多产水碧，多大蛇。山中有兽名朱獳：形状是一只狐狸，身上却长着鱼的鳍翼——毛兽配水族的鳍，两种活法拼在一副身架上。它的叫声像在喊自己的名字，而它的出现是一个信号：“见则其国有恐”，这只兽现身于哪个国家，哪个国家就要陷入恐慌。\n\n《山海经》的灾兆各有分工：有的主旱，有的主水，有的主疫，有的主兵。朱獳主的是“恐”——灾祸尚未落地，人心先乱。经文不说恐慌因何而起，只说恐慌必至，这只反常的狐狸本身就是第一个反常，像瘟疫来临前先出现的那只死鸟。东次二经里它并不孤单：几座山之外，姑逢之山有带翅的獙獙，见则天下大旱；凫丽之山有九首九尾的蠪蛭，径直吃人。\n\n狐在后世志怪里演成善变的精怪大族，但朱獳与狐魅一系无涉：它不化人形，不惑人心，只作为凶兆被观测和记录。历代图本多画一只回首的狐，肋下两片鱼鳍，姿态安静，与它携带的消息全不相称。",
+    "en": "Geng Mountain, in the second eastern guideway, is bare of vegetation, rich in water-green stone, and infested with great snakes. Its beast is the zhuru: in shape a fox, but fitted with the fins of a fish — a furred animal wearing the equipment of the water tribe. Its cry sounds like its own name, and its appearance is a signal: 'when it is seen, there is fear in the state.' Whichever country the beast shows itself in will be gripped by panic.\n\nThe omen-beasts of the classic divide the disasters among themselves — drought, flood, pestilence, war. The zhuru's portfolio is fear itself, the state of mind that arrives ahead of any calamity. The text does not say what the panic will be about, only that it will come; the anomalous fox is itself the first anomaly, like the single dead bird before an epidemic. In the second eastern guideway it has company: a few mountains on, Gufeng Mountain keeps the winged bibi, whose appearance brings great drought, and Fuli Mountain the nine-headed, nine-tailed longzhi, which simply eats people.\n\nFoxes later grew into the great shape-shifting clan of Chinese demonology, but the zhuru stands apart from that lineage. It takes no human form and beguiles no one; it is observed and recorded purely as a portent. Illustrated editions usually draw a quiet fox glancing backward, two fish fins at its ribs — a posture entirely at odds with the news it carries."
+  },
+  "domains": {
+    "zh": [
+      "凶兆",
+      "恐慌",
+      "狐形",
+      "东山"
+    ],
+    "en": [
+      "Ill Omens",
+      "Panic",
+      "Fox-Shaped",
+      "Eastern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如狐而有鱼翼",
+        "en": "Fox-like, with fish-fin wings"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆应",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其国有恐",
+        "en": "Its appearance brings fear upon the state"
+      }
+    }
+  ],
+  "related": [
+    "long-zhi",
+    "qiu-yu",
+    "you-you"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次二经·耿山）",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Geng Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/zhu-ru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic284_-_%E6%9C%B1%E7%8D%B3%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic284 - 朱獳圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 816,
+    "height": 1000
+  }
+}

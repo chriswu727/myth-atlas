@@ -1,0 +1,105 @@
+{
+  "id": "amaterasu",
+  "tradition": "japanese",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "天照大神",
+    "en": "Amaterasu",
+    "original": "天照大御神（あまてらすおおみかみ）",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "太阳女神，高天原的主宰",
+    "en": "Sun Goddess, Ruler of the Plain of High Heaven"
+  },
+  "summary": {
+    "zh": "日本神话的太阳女神，统治高天原，皇室神话中的祖神。因弟弟须佐之男在天上肆意妄为而隐入天岩户，令天地陷入黑暗。",
+    "en": "The sun goddess who rules Takamagahara and heads the imperial mythic lineage; her retreat into the Heavenly Rock Cave plunged heaven and earth into darkness."
+  },
+  "description": {
+    "zh": "天照大神在《古事记》中写作天照大御神，是照耀高天原与苇原中国的太阳女神。伊邪那岐从黄泉之国逃回后，在日向的阿波岐原下水洗濯污秽，洗左眼时生出天照，洗右眼生出月读，洗鼻子生出须佐之男，合称三贵子。伊邪那岐把自己的御颈珠授予天照，命她统治高天原。\n\n她最著名的事迹是天岩户神话：须佐之男毁坏她的田埂、在御殿中排泄秽物，又把倒剥了皮的天斑驹掷进织殿，织女受惊而死。天照怒而闭居天岩户，高天原与苇原中国一片长夜，众神在天安河原集议，用八咫镜、八尺琼勾玉和天钿女命的舞蹈把她引了出来，光明才得以恢复。此后她主导平定苇原中国，命孙子迩迩艺命携镜、剑、玉三种神器降临日向的高千穗，即天孙降临；《古事记》《日本书纪》据此把天皇世系上溯至天照。\n\n伊势神宫内宫以八咫镜为神体祭祀天照，传承称宫地由垂仁天皇之女倭姬命选定；每二十年重建社殿的式年迁宫延续至今。江户时代数次全国性的御荫参热潮，使伊势参拜成为庶民一生一度的大事。",
+    "en": "Amaterasu Omikami is the sun goddess of Japanese myth and ruler of Takamagahara, the Plain of High Heaven. According to the Kojiki she was born when the creator god Izanagi, purifying himself in a river in Hyuga after escaping the land of the dead, washed his left eye; the moon god Tsukuyomi and the storm god Susanoo emerged from his right eye and nose in the same rite, making up the three noble children.\n\nHer defining episode is that of the Heavenly Rock Cave. When Susanoo wrecked her rice-field ridges, defiled her hall, and hurled a flayed piebald colt into her weaving house, killing a weaving maiden, Amaterasu shut herself inside Ame-no-Iwato and both heaven and earth went dark. The assembled gods lured her out with a great mirror, curved jewels, and the wild dance of Ame-no-Uzume. She later sent her grandson Ninigi down to earth bearing the mirror, sword, and jewel, the descent through which the eighth-century chronicles trace the imperial line back to her.\n\nThe Inner Shrine of Ise enshrines Amaterasu with the mirror Yata-no-Kagami as its sacred object, and its buildings are rebuilt every twenty years in the shikinen sengu rite, a practice still observed today."
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "高天原",
+      "皇统",
+      "织造"
+    ],
+    "en": [
+      "Sun",
+      "Takamagahara",
+      "Imperial lineage",
+      "Weaving"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "神体",
+        "en": "Sacred object"
+      },
+      "value": {
+        "zh": "八咫镜，奉于伊势神宫内宫",
+        "en": "The mirror Yata-no-Kagami, kept at the Ise Inner Shrine"
+      }
+    },
+    {
+      "label": {
+        "zh": "诞生",
+        "en": "Birth"
+      },
+      "value": {
+        "zh": "伊邪那岐禊祓时洗左眼所生",
+        "en": "Born from Izanagi's left eye during his purification"
+      }
+    },
+    {
+      "label": {
+        "zh": "初见文献",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《古事记》（712年）",
+        "en": "Kojiki (712 CE)"
+      }
+    }
+  ],
+  "related": [
+    "susanoo",
+    "tsukuyomi",
+    "izanagi",
+    "ama-no-iwato",
+    "takamagahara",
+    "kusanagi"
+  ],
+  "sources": [
+    {
+      "zh": "《古事记》（712年）",
+      "en": "Kojiki (712 CE)"
+    },
+    {
+      "zh": "《日本书纪》（720年）",
+      "en": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "geo": {
+    "lat": 34.455,
+    "lon": 136.725,
+    "label": {
+      "zh": "伊势神宫内宫（三重县伊势市）",
+      "en": "Ise Grand Shrine, Inner Shrine (Ise, Mie)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/amaterasu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amaterasu_cave_crop.jpg",
+    "sourceTitle": "Amaterasu cave crop",
+    "artist": "Utagawa Kunisada (歌川国貞; b. 1786, d. 1865)",
+    "license": "Public domain",
+    "width": 521,
+    "height": 1000
+  }
+}

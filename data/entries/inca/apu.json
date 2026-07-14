@@ -1,0 +1,102 @@
+{
+  "id": "apu",
+  "tradition": "inca",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "阿普",
+    "en": "Apu",
+    "original": "Apu",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "安第斯山神",
+    "en": "Mountain Lords of the Andes"
+  },
+  "summary": {
+    "zh": "克丘亚语“主上”，指居于雪峰之中的山神。每座大山各有其阿普，庇护山下的村落、水源与畜群；库斯科一带以奥桑加特与萨尔坎泰两峰最尊。",
+    "en": "Apu, 'lord' in Quechua, names the spirit of a mountain. Every great peak has its own, guarding the villages, waters and herds below; around Cusco, Ausangate and Salcantay rank highest."
+  },
+  "description": {
+    "zh": "在安第斯人的眼里，雪峰是活着的主上。“阿普”即克丘亚语的“主上、大人”，每一座大山都有自己的阿普，位阶随山的高度与辖域而定：小山只管一村的畜群，巨峰则统辖整片流域。库斯科周边以海拔6384米的奥桑加特与圣谷之侧的萨尔坎泰最受尊崇，冰川融水灌溉山下的田地，驼羊与羊驼的繁衍兴衰，都记在山主的账上。\n\n印加帝国把山峰纳入国家祭祀。殖民初期神职人员阿尔沃诺斯为清查安第斯圣所编写的《指南》里，山岳圣所占了很大篇幅；最隆重的“卡帕科查”仪式则把盛装的孩童与金银小像、贝壳一同送上雪线之上的峰顶献祭。考古发现印证了编年史的记载：1995年约翰·莱因哈德在安帕托峰发现冰冻少女“胡安妮塔”，1999年阿根廷尤耶亚科峰（6739米）出土三具保存近乎完好的孩童遗体，都是印加高山祭祀的遗存。\n\n对阿普的信仰延续至今。库斯科地区的仪式专家“帕科”代人向山主呈递德斯帕乔供包，行旅者在山口的石堆上添一块石头、放一撮古柯叶。每年基督圣体节前，数以万计的朝圣者攀上奥桑加特山下的锡纳卡拉谷地参加“科伊尤尔·里蒂”雪星节——名义上朝拜显圣的基督，仪式的根须仍深扎在冰川与山主的古老崇拜里。",
+    "en": "To Andean eyes the snow peaks are living lords. Apu is Quechua for 'lord', and every great mountain has one, ranked by height and reach: a low hill may answer for a single village's herds, while a glaciated giant commands a whole watershed. Around Cusco the most revered are Ausangate, 6,384 meters, and Salcantay above the Sacred Valley. Meltwater from their glaciers feeds the fields below, and the increase or ruin of the llama and alpaca herds is reckoned to the mountain's account.\n\nThe Inca state took the peaks into its official cult. Mountain shrines fill much of the Instrucción that the churchman Albornoz compiled to hunt out Andean holy places, and the greatest rite of all, the capacocha, sent richly dressed children up beyond the snowline to be offered on the summits with figurines of gold, silver and shell. Archaeology has borne the chronicles out: in 1995 Johan Reinhard found the frozen girl known as Juanita on Mount Ampato, and in 1999 three almost perfectly preserved children were recovered from Llullaillaco in Argentina, at 6,739 meters.\n\nThe faith is unbroken. In the Cusco region ritual specialists called paqos present despacho offering bundles to the mountain lords on their clients' behalf, and travelers add a stone and a pinch of coca to the cairns at high passes. Each year before Corpus Christi, tens of thousands of pilgrims climb to the Sinakara valley below Ausangate for Qoyllur Rit'i, the festival of the Snow Star — nominally in honor of an apparition of Christ, while the rite keeps its roots deep in the old veneration of glacier and mountain lord."
+  },
+  "domains": {
+    "zh": [
+      "山岳",
+      "水源",
+      "畜群",
+      "庇护"
+    ],
+    "en": [
+      "Mountains",
+      "Water",
+      "Herds",
+      "Protection"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "至尊诸峰",
+        "en": "Greatest peaks"
+      },
+      "value": {
+        "zh": "奥桑加特（6384米）、萨尔坎泰",
+        "en": "Ausangate (6,384 m) and Salcantay"
+      }
+    },
+    {
+      "label": {
+        "zh": "古礼",
+        "en": "Inca rite"
+      },
+      "value": {
+        "zh": "卡帕科查高山献祭",
+        "en": "The capacocha summit offering"
+      }
+    },
+    {
+      "label": {
+        "zh": "今日祭仪",
+        "en": "Rites today"
+      },
+      "value": {
+        "zh": "德斯帕乔供包、山口石堆、雪星节朝圣",
+        "en": "Despacho bundles, pass cairns, the Qoyllur Rit'i pilgrimage"
+      }
+    }
+  ],
+  "related": [
+    "pachamama",
+    "illapa",
+    "inti"
+  ],
+  "sources": [
+    {
+      "zh": "克里斯托瓦尔·德·阿尔沃诺斯《发现秘鲁诸瓦卡指南》（约1580年代）",
+      "en": "Cristóbal de Albornoz, Instrucción para descubrir todas las guacas del Pirú (c. 1580s)"
+    },
+    {
+      "zh": "库斯科地区延续至今的仪式实践与朝圣传统",
+      "en": "Living ritual and pilgrimage practice of the Cusco region"
+    }
+  ],
+  "geo": {
+    "lat": -13.788,
+    "lon": -71.23,
+    "label": {
+      "zh": "奥桑加特峰",
+      "en": "Nevado Ausangate"
+    }
+  },
+  "image": {
+    "file": "/images/entries/apu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ausangate.jpg",
+    "sourceTitle": "Ausangate",
+    "artist": "Edubucher",
+    "license": "CC BY-SA 3.0",
+    "width": 1000,
+    "height": 750
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "simurgh",
+  "tradition": "persian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "西摩格",
+    "en": "Simurgh",
+    "original": "سیمرغ",
+    "originalLang": "波斯语"
+  },
+  "title": {
+    "zh": "栖于神树的智慧巨鸟",
+    "en": "The Wise Giant Bird of the World Tree"
+  },
+  "summary": {
+    "zh": "波斯神话中的智慧巨鸟，源于《阿维斯陀》的萨埃纳鸟。《列王纪》中它在厄尔布尔士山抚养弃婴扎尔，两度以神羽拯救鲁斯塔姆。",
+    "en": "The great wise bird of Persian myth, descended from the Avestan Saena. In the Shahnameh it raises the abandoned Zal on Mount Alborz and twice saves Rostam with its feathers."
+  },
+  "description": {
+    "zh": "西摩格是波斯神话中的巨鸟，展翼可蔽日，羽色斑斓。它的谱系可追溯到《阿维斯陀》中的萨埃纳鸟（saēna），中古波斯语文献称之为森穆夫（Sēnmurw）：《本达希申》说它栖息在世界之海沃鲁卡沙中央的\"万种之树\"上，每当它振翅起飞，树上的种子便纷纷洒落，由雨与风带往大地各处，万物草木由此播撒。\n\n菲尔多西《列王纪》让它成为叙事诗中最动人的角色之一。萨姆之子扎尔生来满头白发，被父亲视为不祥弃于厄尔布尔士山中，西摩格将婴儿衔回巢中与雏鸟同养，教他言语与智慧；扎尔成年归家时，它拔下一根胸羽相赠：焚羽即至。这根羽毛兑现过两次：扎尔之妻鲁达贝难产垂危，西摩格飞临，指点剖腹取子之法，婴儿便是日后的巨人英雄鲁斯塔姆；多年后鲁斯塔姆与刀枪不入的王子埃斯凡迪亚尔决斗身负重伤，西摩格再度降临，为他与战马拉赫什拔除箭镞敷羽疗伤，并指点他以柽柳木双头箭射向对手双眼。十二世纪诗人阿塔尔的长诗《群鸟之会》借它完成了一场著名的双关：三十只鸟（波斯语si morgh）历尽七谷寻找西摩格（Simorgh），最终在湖面照见的正是它们自己——巨鸟从此成为波斯苏菲文学中神性与自我合一的象征。",
+    "en": "The Simurgh is the giant bird of Persian myth, its spread wings broad enough to shade the sun. Its lineage runs back to the Avestan bird Saena; Middle Persian texts call it the Senmurw, and the Bundahishn perches it on the Tree of All Seeds in the middle of the world sea Vourukasha — each time it takes flight, the seeds shake loose and are carried by rain and wind to every corner of the earth.\n\nFerdowsi's Shahnameh made it one of the most affecting figures in the epic. Zal, son of Sam, was born with the white hair of an old man and abandoned on Mount Alborz as an ill omen; the Simurgh carried the infant to its nest, reared him with its own chicks, and taught him speech and wisdom. When the grown Zal returned to men, the bird gave him a feather from its breast: burn it, and I will come. The feather was redeemed twice. When Zal's wife Rudaba lay dying in labor, the Simurgh flew down and taught the delivery of the child by cesarean cut — the infant was Rostam, the greatest of Persian heroes. Years later, when Rostam lay grievously wounded from his duel with the invulnerable prince Esfandiyar, the bird came again, drew the arrowheads from him and his horse Rakhsh, healed them with its feathers, and revealed the one weapon that could prevail: a double-pointed arrow of tamarisk wood aimed at the prince's eyes. In the twelfth century, Attar's Conference of the Birds built a famous pun upon it: thirty birds (si morgh) cross seven valleys seeking the Simorgh, and what they find at journey's end is their own reflection — the bird became Sufi poetry's emblem of the self united with the divine."
+  },
+  "domains": {
+    "zh": [
+      "智慧",
+      "疗愈",
+      "庇护养育",
+      "播撒万物种子"
+    ],
+    "en": [
+      "Wisdom",
+      "Healing",
+      "Protection and fosterage",
+      "Scattering the seeds of the world"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "巢穴",
+        "en": "Nest"
+      },
+      "value": {
+        "zh": "厄尔布尔士山（《列王纪》）；万种之树（《本达希申》）",
+        "en": "Mount Alborz (Shahnameh); Tree of All Seeds (Bundahishn)"
+      }
+    },
+    {
+      "label": {
+        "zh": "信物",
+        "en": "Token"
+      },
+      "value": {
+        "zh": "焚之即至的胸羽",
+        "en": "A breast feather that summons it when burned"
+      }
+    },
+    {
+      "label": {
+        "zh": "前身",
+        "en": "Forerunner"
+      },
+      "value": {
+        "zh": "阿维斯陀语萨埃纳鸟、中古波斯语森穆夫",
+        "en": "Avestan Saena; Middle Persian Senmurw"
+      }
+    }
+  ],
+  "related": [
+    "rostam",
+    "azhi-dahaka",
+    "rostam-and-sohrab"
+  ],
+  "sources": [
+    {
+      "zh": "《本达希申》（中古波斯语《创世纪》）",
+      "en": "Bundahishn (Middle Persian Book of Primal Creation)"
+    },
+    {
+      "zh": "菲尔多西《列王纪》（约1010年）",
+      "en": "Ferdowsi, Shahnameh (c. 1010)"
+    },
+    {
+      "zh": "阿塔尔《群鸟之会》（12世纪）",
+      "en": "Attar, The Conference of the Birds (12th century)"
+    }
+  ],
+  "geo": {
+    "lat": 35.9548,
+    "lon": 52.11,
+    "label": {
+      "zh": "厄尔布尔士山脉（达马万德峰）",
+      "en": "Alborz range (Mount Damavand)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/simurgh.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zal_Rescued_by_the_Simurgh.jpg",
+    "sourceTitle": "Zal Rescued by the Simurghlabel QS:Len,\"Zal Rescued by the Simurgh\"",
+    "artist": "Attributed to Sadiqi Beg",
+    "license": "Public domain",
+    "width": 645,
+    "height": 1000
+  }
+}

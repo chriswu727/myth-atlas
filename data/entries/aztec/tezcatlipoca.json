@@ -1,0 +1,101 @@
+{
+  "id": "tezcatlipoca",
+  "tradition": "aztec",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "特斯卡特利波卡",
+    "en": "Tezcatlipoca",
+    "original": "Tezcatlipōca",
+    "originalLang": "纳瓦特尔语"
+  },
+  "title": {
+    "zh": "烟雾之镜，夜空与命运之主",
+    "en": "The Smoking Mirror, Lord of the Night Sky and Fate"
+  },
+  "summary": {
+    "zh": "名意为\"冒烟的镜子\"，司夜空、巫术与命运，以黑曜石镜窥见人心。曾以右足为饵诱捕大地巨兽，断足处装着一面镜子。",
+    "en": "The Smoking Mirror, god of the night sky, sorcery, and fate. He sees all hearts in his obsidian mirror; his right foot, lost baiting the earth monster, is replaced by a mirror."
+  },
+  "description": {
+    "zh": "特斯卡特利波卡的名字意为\"冒烟的镜子\"，指打磨过的黑曜石镜——阿兹特克巫师占卜所用的黑色石镜，据信能照见远方与人心。他通常被绘成脸上横贯黑黄条纹、太阳穴与断足处各嵌一面冒烟石镜的形象；创世之初，他以右足为饵，从原初之海中诱出大地巨兽，足被咬断，从此以镜代足。他是无所不在、无形无踪的\"夜与风\"（Yohualli Ehecatl），凡人皆是\"他的奴仆\"（Titlacauan），美洲豹是他的兽形化身特佩约洛特尔。\n\n他与克察尔科亚特尔既是共同的创世者，又是宿命的对手。《墨西哥人绘画史》记载，第一太阳纪由特斯卡特利波卡充任太阳，被克察尔科亚特尔以巨棒击落海中；他化作巨豹跃出，吞噬了那一纪的巨人族。在托兰的传说里，又是他扮作卖椒的异乡人、递上镜子与龙舌兰酒，一步步毁掉了祭司王克察尔科亚特尔的修行与王国。\n\n献给他的托什卡特尔祭是特诺奇蒂特兰最隆重的祭典之一。祭司每年选出一名容貌无瑕的年轻战俘，作为神的\"替身\"（ixiptla）供养整年：他吹着陶笛在城中游走，人人向他行神礼；最后二十天娶四位扮作女神的少女为妻，祭日自行登上神庙台阶，每登一级折断一支陶笛，在顶端被剖心献祭。次日，新的替身随即选出。",
+    "en": "Tezcatlipoca's name means Smoking Mirror, after the polished obsidian disks Aztec diviners used to see distant places and the hearts of men. Codices paint him with bands of black and yellow across his face and a smoking mirror set at his temple and again at his right ankle: at the beginning of the world he dangled that foot into the primordial sea as bait for the earth monster, and the creature bit it off. He is Yohualli Ehecatl, Night and Wind, invisible and everywhere; men are Titlacauan, his slaves; the jaguar Tepeyollotl, Heart of the Mountain, is his animal double.\n\nWith Quetzalcoatl he is both co-creator and destined rival. In the Historia de los mexicanos por sus pinturas, Tezcatlipoca served as the First Sun until Quetzalcoatl struck him from the sky with a great club; he rose from the sea as a jaguar and devoured the giants of that age. In the Tollan cycle it is he who, disguised as a foreign chili vendor and a sorcerer bearing a mirror and pulque, unravels the priest-king Quetzalcoatl's rule step by step.\n\nHis feast of Toxcatl was among the most solemn in Tenochtitlan. Each year the priests chose a flawless young war captive to live as the god's ixiptla, his embodied image: for a year he walked the city playing clay flutes and receiving reverence, in his last twenty days he was wed to four young women dressed as goddesses, and on the feast day he climbed the temple steps of his own accord, snapping a flute on each stair, to be sacrificed at the summit. The next embodiment was chosen at once."
+  },
+  "domains": {
+    "zh": [
+      "夜空",
+      "命运",
+      "巫术",
+      "王权",
+      "冲突"
+    ],
+    "en": [
+      "Night sky",
+      "Fate",
+      "Sorcery",
+      "Rulership",
+      "Strife"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "黑曜石镜、燧石刀、美洲豹",
+        "en": "Obsidian mirror, flint knife, jaguar"
+      }
+    },
+    {
+      "label": {
+        "zh": "特征",
+        "en": "Distinguishing mark"
+      },
+      "value": {
+        "zh": "断失的右足，以冒烟石镜替代",
+        "en": "Right foot replaced by a smoking mirror"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要祭典",
+        "en": "Chief festival"
+      },
+      "value": {
+        "zh": "托什卡特尔祭，年选替身",
+        "en": "Toxcatl, with a year-long divine impersonator"
+      }
+    }
+  ],
+  "related": [
+    "quetzalcoatl",
+    "huitzilopochtli",
+    "cipactli",
+    "five-suns"
+  ],
+  "sources": [
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第二、三卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Books 2–3"
+    },
+    {
+      "zh": "《墨西哥人绘画史》（约1535年）",
+      "en": "Historia de los mexicanos por sus pinturas (c. 1535)"
+    },
+    {
+      "zh": "《博尔吉亚手抄本》",
+      "en": "Codex Borgia"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/tezcatlipoca.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tezcatlipoca_3.jpg",
+    "sourceTitle": "Tezcatlipoca 3",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 877
+  }
+}

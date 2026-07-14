@@ -1,0 +1,94 @@
+{
+  "id": "amaru",
+  "tradition": "inca",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "阿马鲁",
+    "en": "Amaru",
+    "original": "Amaru",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "深水与地底的巨蛇",
+    "en": "The Great Serpent of Deep Waters"
+  },
+  "summary": {
+    "zh": "安第斯神话中的巨蛇，蛰居高原深湖与地下水脉，图像中常作双头，贯通地底、人间与天界；彩虹被看作它拱出泉眼的身影。图帕克·阿马鲁之名即取于它。",
+    "en": "The great serpent of Andean myth, dwelling in highland lakes and underground waters, often two-headed in art, spanning the underworld, this world and the sky. Túpac Amaru took his name from it."
+  },
+  "description": {
+    "zh": "阿马鲁是安第斯世界的巨蛇。1608年冈萨雷斯·奥尔金编纂的克丘亚语大词典把这个词直接释作“龙，大蛇”。它蛰居于地底世界“乌库帕查”的深处，出没在高原的深湖、泉眼与地下水脉之间；安第斯纺织与陶器上的阿马鲁常作双头，一首在下、一首在上，躯体横贯画面，把地底、人间与天界连成一条通路。这一蛇形母题的谱系很古老，早于印加，可上溯到蒂瓦纳科等前代文明的图像。\n\n它与水的每一种形态相连。安第斯人把彩虹看作阿马鲁的身影：巨蛇自泉眼拱身而出，横跨天空，到另一处水源俯首饮水。彩虹因此不是吉兆，被认为会带来疾病，人们避免用手指点。传说中，当世界的秩序濒于翻转（克丘亚语称“帕查库蒂”，天地翻覆之意），阿马鲁便自湖底或地缝中现身。至今高原村落仍流传着某座黑湖里沉睡巨蛇的故事。\n\n印加王室拿它入名：图帕克·印加·尤潘基的兄弟名为阿马鲁·图帕克；1572年在库斯科广场被处决的比尔卡班巴末代印加名为图帕克·阿马鲁，意即“高贵的蛇”；1780年举兵反抗殖民统治的何塞·加夫列尔·孔多尔坎基又自号图帕克·阿马鲁二世。这个名字由此成了安第斯反抗记忆的一部分。",
+    "en": "The amaru is the great serpent of the Andean world. The Quechua dictionary compiled by González Holguín in 1608 glosses the word simply as 'dragon, serpent'. It dwells in the depths of Ukhu Pacha, the world below, and moves among highland lakes, springs and underground channels of water. On Andean textiles and pottery the amaru is often shown with two heads, one turned downward and one to the sky, its body spanning the field of the design and joining underworld, middle world and heavens into a single road. The motif is far older than the Incas, reaching back through the imagery of Tiwanaku and earlier cultures.\n\nIt belongs to water in all its forms. Andeans read the rainbow as the amaru's body: the serpent arches up out of a spring, crosses the sky, and bends its head to drink at another water source. For that reason the rainbow was no good omen — it was thought to bring illness, and people avoided pointing at it. When the order of the world neared overturning — pachakuti, the turning-over of space and time — the amaru was said to rise from lake beds and fissures. Highland villages still tell of great serpents asleep in this or that black lake.\n\nInca royalty took the creature into its names: Amaru Topa was brother to Tupac Inca Yupanqui; the last Inca of Vilcabamba, executed on the plaza of Cusco in 1572, was Túpac Amaru, 'royal serpent'; and in 1780 José Gabriel Condorcanqui rose against colonial rule as Túpac Amaru II. The name became part of the Andean memory of resistance."
+  },
+  "domains": {
+    "zh": [
+      "蛇",
+      "水",
+      "彩虹",
+      "界域之间"
+    ],
+    "en": [
+      "Serpent",
+      "Water",
+      "Rainbow",
+      "Between worlds"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居处",
+        "en": "Haunts"
+      },
+      "value": {
+        "zh": "高原深湖、泉眼与地下水脉",
+        "en": "Highland lakes, springs, underground waters"
+      }
+    },
+    {
+      "label": {
+        "zh": "图像",
+        "en": "Iconography"
+      },
+      "value": {
+        "zh": "双头巨蛇，见于纺织与陶器",
+        "en": "Two-headed serpent on textiles and pottery"
+      }
+    },
+    {
+      "label": {
+        "zh": "词条最早见于",
+        "en": "Earliest gloss"
+      },
+      "value": {
+        "zh": "冈萨雷斯·奥尔金克丘亚语词典（1608）",
+        "en": "González Holguín's Quechua dictionary (1608)"
+      }
+    }
+  ],
+  "related": [
+    "apu",
+    "pachamama",
+    "inkarri"
+  ],
+  "sources": [
+    {
+      "zh": "迭戈·冈萨雷斯·奥尔金《秘鲁通用语克丘亚语词典》（1608）",
+      "en": "Diego González Holguín, Vocabulario de la lengua general de todo el Perú llamada lengua Qquichua (1608)"
+    },
+    {
+      "zh": "安第斯纺织与陶器上的蛇形图像传统",
+      "en": "The serpent motif in Andean textile and ceramic iconography"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/amaru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amaru_kero_(cropped).jpg",
+    "sourceTitle": "Amaru kero (cropped)",
+    "artist": "34542sdd",
+    "license": "CC BY-SA 4.0",
+    "width": 892,
+    "height": 1000
+  }
+}

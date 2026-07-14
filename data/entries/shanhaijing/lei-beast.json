@@ -1,0 +1,93 @@
+{
+  "id": "lei-beast",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "类",
+    "en": "Lei"
+  },
+  "title": {
+    "zh": "亶爰山上自为牝牡的长毛狸",
+    "en": "Long-Haired Cat-Beast That Is Both Male and Female"
+  },
+  "summary": {
+    "zh": "亶爰山异兽，形状像野猫而披长毛，一身兼具雌雄；吃了它的肉，人就不再嫉妒。",
+    "en": "A beast of Mount Chanyuan shaped like a wildcat with long hair, at once male and female in one body; eating its flesh was said to free one from jealousy."
+  },
+  "description": {
+    "zh": "亶爰之山多水，不生草木，山势陡峭，人不可攀登。《南山经》记：\"有兽焉，其状如狸而有髦，其名曰类，自为牝牡，食者不妒。\"它像一只披着长毛的野猫，最奇处在\"自为牝牡\"——一身同时是雌是雄，不假外求，自相配偶而繁衍。\n\n功效与形貌之间是一条典型的巫术推理：嫉妒生于男女之别与争夺，一头雌雄一体、无所欲求于外的兽，肉自然可以化解妒心，所以\"食者不妒\"。后世注家为它寻找原型，多指向灵猫科动物：灵猫会阴部有发达的香腺，两性外观难辨，古人由此误为雌雄同体，李时珍《本草纲目》记灵猫\"自为牝牡\"，正承此说。郭璞注《山海经》还提到\"类\"或作他名流传，可见这头兽在传抄中名目不定，唯独\"自为牝牡，食者不妒\"八个字始终未变——山海经的读者记住的，从来是这条奇特的药方。",
+    "en": "Mount Chanyuan abounds in water, grows nothing, and is too sheer to climb. Its beast, the lei, looks like a wildcat draped in long hair, and its wonder lies in a single phrase: it is 'its own male and female', both sexes complete in one body, mating with itself to breed.\n\nThe prescribed effect follows the form by classic sympathetic logic. Jealousy springs from the division of the sexes and the rivalries it breeds; a creature that contains both sexes wants nothing from any other, and so its flesh, eaten, dissolves envy — 'the eater does not become jealous'. Later commentators seeking a real original mostly point to the civets: their prominent perineal scent glands make the sexes hard to tell apart, which early observers took for true hermaphroditism, and Li Shizhen's Bencao Gangmu repeats of the civet the very formula 'it is its own male and female'. The beast's name wavered in transmission, as Guo Pu's notes record variant readings, but the eight characters of its strange prescription travelled unchanged — what readers of the Shanhaijing remembered was always the remedy."
+  },
+  "domains": {
+    "zh": [
+      "雌雄同体",
+      "化解嫉妒",
+      "医药"
+    ],
+    "en": [
+      "Hermaphrodite Beasts",
+      "Curing Jealousy",
+      "Healing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "亶爰之山",
+        "en": "Mount Chanyuan"
+      }
+    },
+    {
+      "label": {
+        "zh": "奇处",
+        "en": "Wonder"
+      },
+      "value": {
+        "zh": "自为牝牡",
+        "en": "Both male and female in one body"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食者不妒",
+        "en": "Eating it frees one from jealousy"
+      }
+    }
+  ],
+  "related": [
+    "bo-shi",
+    "lu-fish"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "李时珍《本草纲目》",
+      "en": "Li Shizhen, Bencao Gangmu"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/lei-beast.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic235_-_%E9%A1%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic235 - 類圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 948
+  }
+}

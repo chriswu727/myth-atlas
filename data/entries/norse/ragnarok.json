@@ -1,0 +1,100 @@
+{
+  "id": "ragnarok",
+  "tradition": "norse",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "诸神黄昏",
+    "en": "Ragnarok",
+    "original": "Ragnarök",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "诸神的末日决战与世界的重生",
+    "en": "The Doom of the Gods and the Rebirth of the World"
+  },
+  "summary": {
+    "zh": "预言中的末日：三年寒冬之后群狼吞日，巨人与亡者进军，诸神与宿敌捉对同亡，大地沉入海中，又将重新浮起。",
+    "en": "The prophesied end: after three winters without summer, wolves devour the sun, giants and the dead march to war, gods and monsters slay each other, and the drowned earth rises green again."
+  },
+  "description": {
+    "zh": "诸神黄昏（原义「诸神的命运」）是北欧神话预定的终局，诸神对此早已知情，仍照常度日、备战。末日以芬布尔之冬开场：连续三个冬天不见夏天，风雪蔽日，人间兄弟相残、伦常尽废。追逐日月的两头狼终于得手，天空失去光亮；大地震动，芬里尔挣脱缎带，耶梦加得翻出大海，用死人指甲造成的大船纳吉尔法号趁洪水启航，火巨人苏尔特尔挥着烈焰之剑从南方的穆斯贝尔海姆杀来，彩虹桥在他们的重压下断裂。\n\n海姆达尔吹响加拉尔号角，奥丁率英灵战士出瓦尔哈拉的五百四十道门迎战，决战地在维格利德平原。对决早已注定：奥丁被芬里尔吞噬，其子维达撕裂狼颚复仇；托尔击毙耶梦加得，退后九步毒发身亡；弗雷因让出宝剑而败于苏尔特尔；海姆达尔与洛基同归于尽。苏尔特尔纵火焚烧世界，大地沉入海中。\n\n《女占卜者的预言》没有停在灰烬上：大地将再度从海中浮起，青翠如初，瀑布奔流，鹰隼掠过山崖捕鱼。巴德尔与霍德从死者之国归来，维达与瓦利幸存，托尔之子摩迪与玛格尼承袭妙尔尼尔，《瓦夫斯鲁德尼尔之歌》还记下了幸存人类的名字：利芙与利夫思拉希尔，二人藏身于霍德弥米尔之林，以晨露为食，将繁衍出新的人世。",
+    "en": "Ragnarok, 'the fate of the gods', is the foreordained end of the Norse world, and the gods live and arm themselves in full knowledge of it. It opens with the Fimbulwinter: three winters with no summer between them, when snow drives from every quarter and brothers kill brothers. The wolves that hunt the sun and moon finally catch them and the sky goes dark. The earth shakes, Fenrir snaps his bonds, Jormungandr heaves out of the sea, the ship Naglfar, built from dead men's nails, rides the flood, and the fire giant Surt sweeps up from Muspelheim with a flaming sword. The rainbow bridge breaks beneath the invaders.\n\nHeimdall sounds the Gjallarhorn, and Odin leads the einherjar out through Valhalla's five hundred and forty doors to the plain of Vigrid. Every duel is already fated: Fenrir swallows Odin, and Odin's son Vidar tears the wolf's jaws apart in revenge; Thor kills the Midgard Serpent and dies of its venom nine paces later; Freyr, who once gave away his sword, falls to Surt; Heimdall and Loki slay each other. Then Surt flings fire over everything, and the earth sinks into the sea.\n\nThe Voluspa does not end in ash. The earth rises from the water a second time, green with growing things, and waterfalls pour where eagles hunt fish along the cliffs. Baldr and Hod return from the dead; Vidar, Vali, and Thor's sons Modi and Magni, who inherit Mjolnir, live on; the Vafthrudnismal even names the surviving human pair, Lif and Lifthrasir, who hide in Hoddmimir's wood, live on the morning dew, and repeople the world."
+  },
+  "domains": {
+    "zh": [
+      "末日",
+      "宿命",
+      "决战",
+      "重生"
+    ],
+    "en": [
+      "Doomsday",
+      "Fate",
+      "Last Battle",
+      "Rebirth"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "前兆",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "芬布尔之冬：三冬无夏",
+        "en": "Fimbulwinter: three winters with no summer"
+      }
+    },
+    {
+      "label": {
+        "zh": "战场",
+        "en": "Battlefield"
+      },
+      "value": {
+        "zh": "维格利德平原",
+        "en": "The plain of Vigrid"
+      }
+    },
+    {
+      "label": {
+        "zh": "结局",
+        "en": "Aftermath"
+      },
+      "value": {
+        "zh": "大地沉没后再度浮起，巴德尔归来",
+        "en": "The earth rises anew; Baldr returns"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "thor",
+    "loki",
+    "fenrir",
+    "jormungandr",
+    "heimdall",
+    "baldr",
+    "valhalla",
+    "yggdrasil"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·女占卜者的预言》《瓦夫斯鲁德尼尔之歌》",
+      "en": "Poetic Edda: Voluspa and Vafthrudnismal"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ragnarok.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ragnar%C3%B6k_by_Doepler.jpg",
+    "sourceTitle": "Ragnarök by Doepler",
+    "artist": "Emil Doepler",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 789
+  }
+}

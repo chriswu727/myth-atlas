@@ -1,0 +1,101 @@
+{
+  "id": "chanunpa",
+  "tradition": "native-american",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "查努帕圣烟斗",
+    "en": "Chanunpa, the Sacred Pipe",
+    "original": "Čhaŋnúŋpa",
+    "originalLang": "拉科塔语"
+  },
+  "title": {
+    "zh": "白野牛犊女留下的祈祷之器",
+    "en": "The Instrument of Prayer Left by White Buffalo Calf Woman"
+  },
+  "summary": {
+    "zh": "拉科塔七大圣礼共同的核心法器：红石斗钵配木柄，烟即上达瓦坎·坦卡的祈祷。原初的白野牛犊圣烟斗至今由第十九代守持者保存。",
+    "en": "The instrument at the heart of all Seven Lakota Rites: a red stone bowl on a wooden stem, its smoke carrying prayer to Wakan Tanka. The original Calf Pipe remains with its nineteenth-generation keeper."
+  },
+  "description": {
+    "zh": "查努帕由两部分构成，平时分开收存，合拢即成圣器：斗钵以明尼苏达州烟斗石采石场特产的红色黏土岩（catlinite，烟斗石）雕成，象征大地与族人的血肉；斗柄取木，象征生长于大地的草木。持斗者装入红柳皮等调制的烟草，斗柄依次指向四方、上天与大地，点燃后升起的烟被视为可见的祈祷，直达瓦坎·坦卡。拉科塔口传中，这件法器是白野牛犊女在饥荒之年亲手授予人民的，随烟斗一同传下的还有七大圣礼——从汗屋净礼到太阳舞，每一礼都以查努帕为枢纽。\n\n相传白野牛犊女留下的那杆原初圣烟斗代代相传，如今由第十九代守持者阿沃尔·望马（Arvol Looking Horse）保存在南达科他州夏延河保留地的绿草地（Green Grass）。他自1966年十二岁时接任守持者，每年主持相关祈祷仪式，并倡立六月二十一日为\"世界和平与祈祷日\"。\n\n烟斗石采石场本身也是圣地：数千年来平原诸族在此采石制斗，即使交战部族相遇于采石场亦须止战。该地1937年划为美国烟斗石国家纪念地，至今保留原住民采石权。画家乔治·卡特林1830年代曾描绘采石场景，烟斗石的学名即源于他的姓氏。",
+    "en": "The chanunpa is kept in two parts and becomes a sacred instrument only when joined: a bowl carved of catlinite, the red claystone quarried at Pipestone, Minnesota, standing for the earth and the flesh and blood of the people; and a wooden stem standing for all that grows. The holder fills it with a blend that includes red willow bark, points the stem to the four directions, to the sky, and to the earth, and the rising smoke is understood as visible prayer traveling straight to Wakan Tanka. Lakota tradition holds that this instrument was placed in the people's hands by White Buffalo Calf Woman in a year of famine, together with the Seven Sacred Rites, from the sweat lodge to the Sun Dance, each of which turns on the pipe.\n\nThe original Calf Pipe she left is said to have passed down an unbroken line of keepers. It rests today at Green Grass on the Cheyenne River Reservation in South Dakota with Arvol Looking Horse, the nineteenth keeper, who received the charge in 1966 at the age of twelve and who established June 21 as a World Peace and Prayer Day.\n\nThe pipestone quarry is itself sacred ground: for thousands of years the Plains nations have cut stone there for pipes, and even warring parties meeting at the quarry were bound to keep peace. The site became Pipestone National Monument in 1937 and Native quarrying rights continue there. The painter George Catlin depicted the quarry in the 1830s, and the stone's scientific name, catlinite, preserves his own."
+  },
+  "geo": {
+    "lat": 45.17,
+    "lon": -101.06,
+    "label": {
+      "zh": "绿草地（南达科他州夏延河保留地）",
+      "en": "Green Grass, Cheyenne River Reservation, South Dakota"
+    }
+  },
+  "domains": {
+    "zh": [
+      "祈祷",
+      "圣礼",
+      "烟斗石",
+      "守持传承"
+    ],
+    "en": [
+      "Prayer",
+      "Sacred rites",
+      "Pipestone",
+      "Keepership"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "People"
+      },
+      "value": {
+        "zh": "拉科塔（苏族），烟斗礼俗遍及平原诸族",
+        "en": "Lakota (Sioux); pipe ceremonialism extends across the Plains peoples"
+      }
+    },
+    {
+      "label": {
+        "zh": "材质",
+        "en": "Materials"
+      },
+      "value": {
+        "zh": "红色烟斗石斗钵，木质斗柄",
+        "en": "Bowl of red pipestone (catlinite), wooden stem"
+      }
+    },
+    {
+      "label": {
+        "zh": "现任守持者",
+        "en": "Present keeper"
+      },
+      "value": {
+        "zh": "阿沃尔·望马，第十九代",
+        "en": "Arvol Looking Horse, nineteenth generation"
+      }
+    }
+  ],
+  "related": [
+    "white-buffalo-calf-woman",
+    "wakan-tanka"
+  ],
+  "sources": [
+    {
+      "zh": "约瑟夫·埃佩斯·布朗《圣烟斗：黑麋鹿口述奥格拉拉苏族七大圣礼》（1953）",
+      "en": "Joseph Epes Brown, The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux (1953)"
+    },
+    {
+      "zh": "拉科塔活态守持传统；美国烟斗石国家纪念地（1937年设立）的官方记载",
+      "en": "The living Lakota keepership tradition; records of Pipestone National Monument (established 1937)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/chanunpa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Native_American_with_smoking_pipe_offering_detail,_from-_Fasting_3_(cropped).jpg",
+    "sourceTitle": "Native American with smoking pipe offering detail, from- Fasting 3 (cropped)",
+    "artist": "Museum of Photographic Arts Collections",
+    "license": "No restrictions",
+    "width": 801,
+    "height": 1000
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ark-of-the-covenant",
+  "tradition": "abrahamic",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "约柜",
+    "en": "Ark of the Covenant",
+    "original": "אֲרוֹן הַבְּרִית",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "盛放法版的黄金圣柜",
+    "en": "The Golden Chest of the Tablets of the Law"
+  },
+  "summary": {
+    "zh": "皂荚木包金的圣柜，内藏十诫法版，盖上两尊金基路伯相对展翅。它随以色列人征战安营，入所罗门圣殿至圣所，公元前六世纪后下落不明。",
+    "en": "A gold-covered acacia chest holding the tablets of the Ten Commandments, its lid crowned by two facing golden cherubim. Carried through Israel's wanderings and wars, it entered Solomon's Holy of Holies and vanished from history in the sixth century BCE."
+  },
+  "description": {
+    "zh": "《出埃及记》第二十五章记载耶和华在西奈山向摩西指示约柜的规格：用皂荚木做柜，长二肘半、宽一肘半、高一肘半，里外包精金，四脚安金环，穿以包金的杠，杠不可抽出；柜内放神所赐的法版。柜上作施恩座（kapporet），用精金锤出两个基路伯，脸对着脸、朝向施恩座，翅膀向上张开遮掩其上。耶和华说：我要在那里与你相会，从施恩座上、二基路伯中间，和你说我所要吩咐你传给以色列人的一切事。《希伯来书》第九章的追述还提到柜内有盛吗哪的金罐与亚伦发过芽的杖。\n\n约柜是以色列人旷野漂流与征战的核心圣物：过约旦河时抬柜的祭司脚一入水，河水便断流；绕耶利哥城七日，城墙倒塌。《撒母耳记上》第四至六章记载它一度被非利士人掳去：非利士人把柜放进大衮庙，次日清晨大衮的神像仆倒在柜前，再一日头与双手都断落在门槛上；柜所到之城灾疫横行，七个月后非利士人用新车载柜送还。大卫迎柜入耶路撒冷时在柜前极力跳舞；途中乌撒因伸手扶柜而被击杀，经文以此显明圣物不可触碰。所罗门建成圣殿后，约柜安放于至圣所二基路伯翅膀之下，大祭司每年赎罪日才得入内。\n\n公元前五八六年巴比伦人焚毁圣殿，此后的圣殿器物清单中不见约柜，其下落成为悬案：《马加比二书》记传说称耶利米将柜藏于尼波山洞穴；埃塞俄比亚教会传统（载于史诗《国王的荣耀》）则称柜早已随所罗门与示巴女王之子运抵阿克苏姆，至今由一名守护者独居看守，任何人不得观看。约柜也由此成为流行文化中最著名的失落圣物，一九八一年电影《夺宝奇兵》使其家喻户晓。",
+    "en": "Exodus 25 records the specifications the Lord gave Moses on Sinai: a chest of acacia wood, two and a half cubits long, a cubit and a half wide and high, overlaid with pure gold inside and out, with gold rings at its four feet for gilded carrying poles that were never to be withdrawn; within it, the tablets of the law. Upon it sat the kapporet, the mercy seat, with two cherubim of hammered gold facing one another, wings spread upward to overshadow it. 'There I will meet with you,' the Lord says, 'from between the two cherubim.' Hebrews 9 adds, in retrospect, a golden jar of manna and Aaron's rod that budded.\n\nThe Ark was the central sacred object of Israel's wanderings and wars. When the priests bearing it stepped into the Jordan, the river was cut off; carried around Jericho for seven days, it preceded the fall of the walls. 1 Samuel 4-6 tells of its capture by the Philistines: set in the temple of Dagon, it was found the next morning with Dagon's image fallen before it, and the morning after with the idol's head and hands broken off on the threshold; plague struck every town that housed it, and after seven months the Philistines sent it back on a new cart. David danced with all his might before it as it entered Jerusalem — on the way, Uzzah was struck dead for putting out his hand to steady it, the text underscoring that the holy thing could not be touched. Solomon installed it beneath the wings of the great cherubim in the Holy of Holies, entered only by the high priest, once a year, on the Day of Atonement.\n\nAfter the Babylonians burned the temple in 586 BCE, the Ark appears in no inventory of plundered vessels, and its fate became a standing riddle. 2 Maccabees preserves a tradition that Jeremiah hid it in a cave on Mount Nebo; the Ethiopian church, in the epic Kebra Nagast, holds that it had long since been carried to Aksum by the son of Solomon and the Queen of Sheba, where a single guardian keeps it to this day, seen by no one. It remains popular culture's most famous lost relic, fixed in the modern imagination by the 1981 film Raiders of the Lost Ark."
+  },
+  "domains": {
+    "zh": [
+      "圣物",
+      "神的临在",
+      "十诫法版",
+      "失落之宝"
+    ],
+    "en": [
+      "Sacred relic",
+      "Divine presence",
+      "The tablets of the law",
+      "Lost treasure"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "尺寸",
+        "en": "Dimensions"
+      },
+      "value": {
+        "zh": "长2.5肘、宽1.5肘、高1.5肘",
+        "en": "2.5 by 1.5 by 1.5 cubits"
+      }
+    },
+    {
+      "label": {
+        "zh": "内藏之物",
+        "en": "Contents"
+      },
+      "value": {
+        "zh": "法版；传统另记吗哪金罐与亚伦的杖",
+        "en": "The tablets; by tradition also the jar of manna and Aaron's rod"
+      }
+    },
+    {
+      "label": {
+        "zh": "下落传说",
+        "en": "Claimed resting places"
+      },
+      "value": {
+        "zh": "尼波山洞穴；埃塞俄比亚阿克苏姆",
+        "en": "A cave on Mount Nebo; Aksum, Ethiopia"
+      }
+    }
+  ],
+  "related": [
+    "cherubim",
+    "david-and-goliath",
+    "michael"
+  ],
+  "sources": [
+    {
+      "zh": "《出埃及记》25:10-22",
+      "en": "Exodus 25:10-22"
+    },
+    {
+      "zh": "《撒母耳记上》4-6章；《撒母耳记下》6章",
+      "en": "1 Samuel 4-6; 2 Samuel 6"
+    },
+    {
+      "zh": "《列王纪上》8:1-9",
+      "en": "1 Kings 8:1-9"
+    },
+    {
+      "zh": "《马加比二书》2:4-8",
+      "en": "2 Maccabees 2:4-8"
+    }
+  ],
+  "geo": {
+    "lat": 31.778,
+    "lon": 35.2354,
+    "label": {
+      "zh": "耶路撒冷圣殿山",
+      "en": "Temple Mount, Jerusalem"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ark-of-the-covenant.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Jacques_Joseph_Tissot_-_The_Ark_Passes_Over_the_Jordan_-_Google_Art_Project.jpg",
+    "sourceTitle": "The Ark Passes Over the Jordantitle QS:P1476,en:\"The Ark Passes Over the Jordan\"label QS:Len,\"The Ark Passes Over the Jordan\"",
+    "artist": "James Tissot",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 774
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "wakan-tanka",
+  "tradition": "native-american",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "瓦坎·坦卡",
+    "en": "Wakan Tanka",
+    "original": "Wakȟáŋ Tȟáŋka",
+    "originalLang": "拉科塔语"
+  },
+  "title": {
+    "zh": "大灵，大神秘",
+    "en": "The Great Spirit, the Great Mystery"
+  },
+  "summary": {
+    "zh": "拉科塔（苏族）传统中弥漫于万物的神圣力量总称，常译作\"大灵\"，更准确的译法是\"大神秘\"。",
+    "en": "In Lakota (Sioux) tradition, the sacred power pervading all things; commonly rendered \"Great Spirit,\" more precisely \"Great Mystery.\""
+  },
+  "description": {
+    "zh": "瓦坎·坦卡是拉科塔语中对至高神圣者的称呼，由\"瓦坎\"（神圣、不可测度）与\"坦卡\"（大）两词构成。在拉科塔观念中，日月、雷霆、岩石、野牛与人心贯穿着同一种神圣力量，这力量的总称便是瓦坎·坦卡；它没有人形，也没有固定居所。二十世纪初，奥格拉拉拉科塔圣者\"剑\"（George Sword）向医生詹姆斯·沃克口述了这一体系：瓦坎·坦卡包含十六个位格，分为四组，太阳、天空、大地、岩石居首，雷灵瓦金扬（Wakíŋyaŋ）、风、野牛灵等依次统属其下。\n\n拉科塔人以烟斗祭、汗屋净礼、求视礼（hanbleceya）、太阳舞等七大圣礼与瓦坎·坦卡沟通，七礼相传由白野牛犊女带来。祈祷结尾常说\"Mitákuye Oyás'iŋ\"（众生皆吾亲族），点明这一信仰的核心：人与万物在同一神圣秩序之内，彼此为亲。\n\n十九世纪以来，\"大灵\"（Great Spirit）一词经传教士与条约文书流传开来，渐成泛指北美原住民至高神的通称，阿尔冈昆语系的\"基切·马尼托\"（Gitche Manitou）等概念也被归入其下。今日拉科塔等民族的太阳舞、汗屋礼等祭仪仍在举行，瓦坎·坦卡至今是祈祷中呼唤的称谓。",
+    "en": "Wakan Tanka is the Lakota name for the highest sacred reality, joining wakȟáŋ (sacred, beyond comprehension) with tȟáŋka (great). It names the one sacred power running through sun and sky, thunder and stone, buffalo and human beings alike, with no human form and no fixed dwelling. In the early twentieth century the Oglala holy man George Sword described the system to the physician James R. Walker: Wakan Tanka comprises sixteen aspects arranged in four ranks, headed by Sun, Sky, Earth, and Rock, with the thunder beings Wakíŋyaŋ, the winds, and the buffalo spirit ordered beneath them.\n\nThe Lakota approach Wakan Tanka through the Seven Sacred Rites said to have been brought by White Buffalo Calf Woman, among them the pipe ceremony, the sweat lodge, the vision quest (hanbleceya), and the Sun Dance. Prayers commonly close with Mitákuye Oyás'iŋ, \"all my relations,\" the phrase that carries the heart of the tradition: humans and all other beings stand within one sacred order as kin.\n\nFrom the nineteenth century onward the phrase \"Great Spirit,\" spread by missionaries and treaty texts, became a blanket English term for the high beings of many nations, absorbing concepts such as the Algonquian Gitche Manitou. Lakota ceremonial life continues today, from the Sun Dance to the sweat lodge, and Wakan Tanka remains a name spoken in prayer."
+  },
+  "domains": {
+    "zh": [
+      "神圣力量",
+      "创造",
+      "万物亲族",
+      "七大圣礼"
+    ],
+    "en": [
+      "Sacred power",
+      "Creation",
+      "Kinship of all beings",
+      "Seven Sacred Rites"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "People"
+      },
+      "value": {
+        "zh": "拉科塔（苏族）",
+        "en": "Lakota (Sioux)"
+      }
+    },
+    {
+      "label": {
+        "zh": "词义",
+        "en": "Meaning"
+      },
+      "value": {
+        "zh": "瓦坎=神圣不可测，坦卡=大",
+        "en": "wakȟáŋ = sacred, incomprehensible; tȟáŋka = great"
+      }
+    },
+    {
+      "label": {
+        "zh": "祈祷语",
+        "en": "Prayer phrase"
+      },
+      "value": {
+        "zh": "Mitákuye Oyás'iŋ（众生皆吾亲族）",
+        "en": "Mitákuye Oyás'iŋ (all my relations)"
+      }
+    }
+  ],
+  "related": [
+    "white-buffalo-calf-woman",
+    "thunderbird",
+    "chanunpa"
+  ],
+  "sources": [
+    {
+      "zh": "詹姆斯·R·沃克《拉科塔信仰与仪式》（据1896—1914年间松岭保留地圣者口述记录）",
+      "en": "James R. Walker, Lakota Belief and Ritual (from holy men's accounts recorded at Pine Ridge, 1896-1914)"
+    },
+    {
+      "zh": "约翰·G·奈哈特《黑麋鹿如是说》（1932，据奥格拉拉圣者黑麋鹿口述）",
+      "en": "John G. Neihardt, Black Elk Speaks (1932, from the Oglala holy man Black Elk)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/wakan-tanka.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Appeal_to_the_Great_Spirit,_Boston_MFA_-_IMG_3401.JPG",
+    "sourceTitle": "Appeal to the Great Spirit, Boston MFA - IMG 3401",
+    "artist": "Sculpted by Cyrus E. Dallin; I took this photograph.",
+    "license": "Public domain",
+    "width": 750,
+    "height": 1000
+  }
+}

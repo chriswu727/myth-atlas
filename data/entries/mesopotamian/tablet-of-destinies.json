@@ -1,0 +1,83 @@
+{
+  "id": "tablet-of-destinies",
+  "tradition": "mesopotamian",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "天命泥板",
+    "en": "Tablet of Destinies",
+    "original": "ṭuppi šīmāti",
+    "originalLang": "阿卡德语"
+  },
+  "title": {
+    "zh": "众神的至高印信",
+    "en": "Charter of Supreme Authority"
+  },
+  "summary": {
+    "zh": "至高权柄之物：一块盖印的泥板，持有者出口成命。安祖趁恩利尔沐浴窃走它，提亚马特把它系上钦古胸前，最终归于马尔杜克。",
+    "en": "A sealed clay tablet conferring supreme command: whoever wears it decrees fate. Anzu stole it from bathing Enlil; Tiamat pinned it on Qingu; Marduk finally sealed it as his own."
+  },
+  "description": {
+    "zh": "天命泥板，阿卡德语称“图皮·希马提”，是两河神话里的至高权柄之物：一块盖了印的黏土板，握有它，出口即成命运，众神的号令皆由此生效。这个想象直接来自两河的行政现实——在契约、判决与王命都压写在泥板上、加盖滚印方才作数的社会里，天地的总契约自然也是一块泥板。执掌者把它系在胸前，如官员随身佩印。\n\n《安祖史诗》围绕它的失窃展开：狮首巨鸟安祖趁恩利尔入浴解下泥板之机将其攫走，飞回山中。天命在手，万口莫违，众神的箭飞到近前就被它喝回原形——“箭杆归芦苇，羽毛归鸟身”——直到尼努尔塔依埃阿之计射杀巨鸟，才把泥板迎回。\n\n《埃努玛·埃利什》里它再度易主：提亚马特兴兵时把泥板系在主帅钦古胸前，作为统军的授权；马尔杜克阵斩提亚马特后，从钦古身上取下泥板，盖上自己的印，系上自己的胸口——一场改朝换代，手续办得一丝不苟。苏美尔语残篇《尼努尔塔与龟》里，它又坠回渊水阿普苏，引出另一场争夺，可见围绕这块泥板的传说不止一路。",
+    "en": "The Tablet of Destinies — Akkadian ṭuppi šīmāti — is the supreme instrument of authority in Mesopotamian myth: a sealed clay tablet whose holder speaks fate itself, every divine command flowing from it. The image comes straight from Mesopotamian administration: in a world where contracts, verdicts, and royal orders lived on clay under cylinder seals, the master charter of heaven and earth was naturally a tablet too. Its keeper wore it fastened on the breast, as an official carries his seal.\n\nThe Epic of Anzu turns on its theft: the lion-headed bird snatches it while Enlil bathes and flies off to the mountains; command fails across the universe, and arrows shot at the thief are talked back into reed and feather by the tablet's power, until Ninurta kills the bird by stratagem and carries it home.\n\nIn Enuma Elish it changes hands again: Tiamat fastens it on the breast of Qingu, commander of her monstrous host, as his commission; after the victory Marduk takes it from Qingu's body, stamps it with his own seal, and binds it on his own chest — a change of regime executed with the paperwork in perfect order. A Sumerian fragment, Ninurta and the Turtle, has it tumble back into the Abzu and spark yet another contest, showing the tradition ran in more than one channel."
+  },
+  "domains": {
+    "zh": [
+      "天命",
+      "神权",
+      "印信"
+    ],
+    "en": [
+      "Destiny",
+      "Divine authority",
+      "Seals"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形制",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "盖印的黏土板，系于胸前",
+        "en": "A sealed clay tablet worn on the breast"
+      }
+    },
+    {
+      "label": {
+        "zh": "历任持有者",
+        "en": "Holders"
+      },
+      "value": {
+        "zh": "恩利尔、安祖、钦古、马尔杜克",
+        "en": "Enlil, Anzu, Qingu, Marduk"
+      }
+    }
+  ],
+  "related": [
+    "enlil",
+    "anzu",
+    "tiamat",
+    "marduk"
+  ],
+  "sources": [
+    {
+      "zh": "阿卡德语《安祖史诗》",
+      "en": "The Epic of Anzu (Akkadian)"
+    },
+    {
+      "zh": "《埃努玛·埃利什》",
+      "en": "Enuma Elish"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/tablet-of-destinies.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enuma_Elish_K.3473.jpg",
+    "sourceTitle": "Enuma Elish K.3473",
+    "artist": "Zunkir",
+    "license": "CC BY-SA 4.0",
+    "width": 442,
+    "height": 1000
+  }
+}

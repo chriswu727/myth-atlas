@@ -1,0 +1,92 @@
+{
+  "id": "earth-diver-creation",
+  "tradition": "native-american",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "土地潜水者创世",
+    "en": "The Earth-Diver Creation"
+  },
+  "title": {
+    "zh": "从水底衔来大地的创世叙事",
+    "en": "The World Raised from Mud Beneath the Waters"
+  },
+  "summary": {
+    "zh": "北美分布最广的创世型叙事：太初唯有大水，动物轮流潜底取土，最弱小者以性命换回一撮泥，敷于龟背长成大地——龟岛。",
+    "en": "North America's most widespread creation narrative: in the beginning only water, animals dive in turn for soil, and the humblest brings up a speck of mud that grows on a turtle's back into Turtle Island."
+  },
+  "description": {
+    "zh": "土地潜水者是北美原住民创世叙事中分布最广的类型，从五大湖、东部林地到大平原的数十个民族各有讲法，民俗学家斯蒂斯·汤普森在《民间文学母题索引》中将其编为母题A812。共同骨架是：太初或洪水之后，世界唯余无边大水，幸存者（神、文化英雄或天降之人）请水鸟水兽下潜取土，强壮者相继失败，最不起眼的一个——常是麝鼠或蟾蜍——九死一生带回一撮泥，泥土被安放、吹气或起舞加持，遂生长为大地。\n\n两大著名版本可作对照。阿尼什纳贝版中，纳纳博佐在灭世洪水后攀于浮木，潜鸟、水獭、海狸相继殒命，麝鼠以命换来一撮泥，敷在大龟背上长成大地。豪德诺硕尼（易洛魁联盟）版则始于天上世界：怀孕的天女从天界大树根下的洞坠落，水鸟接住她放在大龟背上，麝鼠从水底衔来泥土铺在龟甲，天女绕行起舞，大地随之生长。\"龟岛\"由此成为诸多民族对北美大陆的自称，沿用至今。\n\n1827年，图斯卡罗拉人大卫·库西克以英文写下《六族古史概略》，是原住民亲笔记录本族创世叙事的最早文本之一。这一叙事类型同样见于西伯利亚与中亚，学界常以此讨论环白令海峡的古老叙事联系。",
+    "en": "The earth-diver is the most widespread type of creation narrative in Native North America, told in distinct versions by dozens of peoples from the Great Lakes and Eastern Woodlands to the Plains; the folklorist Stith Thompson catalogued it as motif A812 in the Motif-Index of Folk-Literature. The shared frame: in the beginning, or after a world-drowning flood, nothing remains but water. A survivor, whether a god, a culture hero, or a woman fallen from the sky, asks the water birds and animals to dive for soil. The strong fail one after another, until the least of them, often the muskrat or a toad, comes up half-dead or dead with a speck of mud, which is placed, breathed upon, or danced over until it grows into the land.\n\nTwo famous versions stand in contrast. In the Anishinaabe telling, Nanabozho clings to driftwood after the flood while loon, otter, and beaver perish in the deep, and the muskrat gives its life for a few grains of earth spread on the great turtle's back. The Haudenosaunee (Iroquois) telling begins in a world above the sky: a pregnant Sky Woman falls through a hole beneath the celestial tree, the water birds catch her and set her on the great turtle, the muskrat brings up mud to spread on the shell, and as Sky Woman walks and dances the earth grows. From these tellings comes Turtle Island, still a living name for the North American continent.\n\nIn 1827 the Tuscarora writer David Cusick set down Sketches of Ancient History of the Six Nations in English, one of the earliest creation accounts recorded by a Native author. The earth-diver type is also found across Siberia and Central Asia, and scholars have long used it to discuss ancient narrative connections around the Bering Strait."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "洪水",
+      "龟岛",
+      "牺牲"
+    ],
+    "en": [
+      "Creation",
+      "The flood",
+      "Turtle Island",
+      "Sacrifice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "阿尼什纳贝、豪德诺硕尼（易洛魁）等东部与中部诸族",
+        "en": "Anishinaabe, Haudenosaunee (Iroquois), and many eastern and central peoples"
+      }
+    },
+    {
+      "label": {
+        "zh": "母题编号",
+        "en": "Motif number"
+      },
+      "value": {
+        "zh": "汤普森母题索引 A812",
+        "en": "Thompson Motif-Index A812"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键角色",
+        "en": "Key figure"
+      },
+      "value": {
+        "zh": "舍命取土的麝鼠；承载大地的巨龟",
+        "en": "The muskrat who dives to its death for soil; the great turtle who bears the land"
+      }
+    }
+  ],
+  "related": [
+    "nanabozho",
+    "raven",
+    "wakan-tanka"
+  ],
+  "sources": [
+    {
+      "zh": "大卫·库西克《六族古史概略》（1827）",
+      "en": "David Cusick, Sketches of Ancient History of the Six Nations (1827)"
+    },
+    {
+      "zh": "斯蒂斯·汤普森《民间文学母题索引》母题A812\"土地潜水者\"",
+      "en": "Stith Thompson, Motif-Index of Folk-Literature, motif A812 \"Earth Diver\""
+    }
+  ],
+  "image": {
+    "file": "/images/entries/earth-diver-creation.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ernest_Smith_Sky_Woman_1936.jpg",
+    "sourceTitle": "Ernest Smith Sky Woman 1936",
+    "artist": "Ernest Smith",
+    "license": "Public domain",
+    "width": 749,
+    "height": 1000
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "dagda",
+  "tradition": "celtic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "达格达",
+    "en": "The Dagda",
+    "original": "In Dagda",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "达努神族的众艺之父",
+    "en": "Father-figure and all-skilled chief of the Tuatha Dé Danann"
+  },
+  "summary": {
+    "zh": "达努神族的首领之一，名号意为“善神”，即无所不能之神。持一头杀人、一头复生的巨棒，掌永不见底的大锅与调理四季的竖琴。",
+    "en": "A chief of the Tuatha De Danann whose name means 'the good god', good at everything: he wields a club that kills and revives, an inexhaustible cauldron, and a season-ordering harp."
+  },
+  "description": {
+    "zh": "达格达是爱尔兰达努神族（Tuatha Dé Danann）的父亲式人物，名号“In Dagda”意为“善神”，这里的“善”指技艺上样样精通。中世纪文献把他描绘成一个粗豪的大汉：身披短得遮不住臀部的斗篷，拖着一根需要八人才能扛动的巨棒，棒的一端击杀生者，另一端能让死者复生。他的大锅是达努神族四大宝物之一，从锅中取食的人没有不满足而归的；他的橡木竖琴能召唤季节按序而行，也能奏出让人恸哭、大笑与沉睡的三种曲调。\n\n他最著名的事迹见于《莫伊图拉之战》（Cath Maige Tuired）：与弗摩尔族（Fomoire）决战之前的萨温节，达格达在乌尼乌斯河上与战争女神摩莉甘相会结合，换得她对战局的襄助；随后他出使敌营，弗摩尔人在坑里为他煮下八十加仑牛奶、等量的谷粉与油脂，连整只的山羊、绵羊和猪一并下锅，逼他吃尽，他狼狈吃完却不辱使命。战后神族退隐地下，达格达为诸神分配居所，自己坐镇博因河曲的纽格莱奇大墓（Brú na Bóinne），后来这座宅邸被他的儿子安格斯（Óengus）以“一日一夜即是永恒”的文字游戏讨走。\n\n在中世纪抄本里他另有别名“Eochaid Ollathair”（大父）与“Ruad Rofhessa”（大知识的贵人）。他粗鄙的食量与法力无边的宝物并置在同一个形象里，是爱尔兰神话把威严与滑稽揉在一起的典型例子。",
+    "en": "The Dagda is the father-figure of the Tuatha De Danann, the god-race of Ireland. His name, 'In Dagda', means 'the good god' in the sense of being good at everything. Medieval texts draw him with deliberate coarseness: a cloak too short to cover his backside, and a club so huge it took eight men to carry, killing with one end and restoring life with the other. His cauldron, one of the four treasures of the Tuatha De Danann, sent no company away unsatisfied; his oak harp called the seasons into their proper order and played the three strains of weeping, laughter, and sleep.\n\nHis best-known deeds appear in Cath Maige Tuired, the Second Battle of Mag Tuired. Before the fight against the Fomoire, at Samhain, he met the war goddess known as the Morrigan at the river Unius and coupled with her, winning her aid for the coming battle. Sent to parley in the enemy camp, he was forced to eat a pit of porridge brewed from fourscore gallons of new milk with meal and fat in like measure, whole goats, sheep and swine boiled in, a humiliation he survived with his mission intact. After the gods withdrew into the hollow hills, the Dagda assigned each his dwelling and kept Bru na Boinne, the great mound at the bend of the Boyne, for himself, until his son Oengus talked him out of it with a riddle about 'a day and a night' meaning all time.\n\nHe also bears the bynames Eochaid Ollathair, 'horseman, great father', and Ruad Rofhessa, 'lord of great knowledge'. The joining of gross appetite and limitless power in one body is characteristic of how Irish tradition lets its greatest gods be both august and absurd."
+  },
+  "domains": {
+    "zh": [
+      "丰饶",
+      "魔法",
+      "契约与时序",
+      "王权"
+    ],
+    "en": [
+      "Abundance",
+      "Magic",
+      "Contracts and seasons",
+      "Kingship"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "宝物",
+        "en": "Treasures"
+      },
+      "value": {
+        "zh": "巨棒、不竭之锅、橡木竖琴",
+        "en": "Great club, inexhaustible cauldron, oak harp"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "博因河曲纽格莱奇大墓",
+        "en": "Bru na Boinne on the River Boyne"
+      }
+    },
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Bynames"
+      },
+      "value": {
+        "zh": "大父 Eochaid Ollathair、大知识者 Ruad Rofhessa",
+        "en": "Eochaid Ollathair, Ruad Rofhessa"
+      }
+    }
+  ],
+  "related": [
+    "morrigan",
+    "lugh",
+    "brigid",
+    "aengus"
+  ],
+  "sources": [
+    {
+      "zh": "《莫伊图拉之战》（Cath Maige Tuired，古爱尔兰语传奇）",
+      "en": "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+    },
+    {
+      "zh": "《入侵之书》（Lebor Gabála Érenn，11–12世纪汇编）",
+      "en": "Lebor Gabala Erenn (The Book of Invasions), 11th-12th century compilation"
+    }
+  ],
+  "geo": {
+    "lat": 53.694,
+    "lon": -6.475,
+    "label": {
+      "zh": "纽格莱奇大墓（博因河曲）",
+      "en": "Newgrange, Bru na Boinne"
+    }
+  },
+  "image": {
+    "file": "/images/entries/dagda.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newgrange,_Ireland_001.jpg",
+    "sourceTitle": "Newgrange, Ireland 001",
+    "artist": "WordRidden",
+    "license": "CC BY 2.0",
+    "width": 675,
+    "height": 1000
+  }
+}

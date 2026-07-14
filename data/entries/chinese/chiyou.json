@@ -1,0 +1,95 @@
+{
+  "id": "chiyou",
+  "tradition": "chinese",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "蚩尤",
+    "en": "Chiyou"
+  },
+  "title": {
+    "zh": "涿鹿战败的九黎战神",
+    "en": "War God of the Nine Li, Defeated at Zhuolu"
+  },
+  "summary": {
+    "zh": "九黎部族首领，传说铜头铁额、兄弟八十一人。涿鹿之战作大雾对抗黄帝，败亡后仍被历代尊为战神\"兵主\"。",
+    "en": "Chief of the Nine Li tribes, bronze-headed and iron-browed with eighty-one brothers. He raised a great fog against Huangdi at Zhuolu, and even in defeat was worshipped as the god of war."
+  },
+  "description": {
+    "zh": "蚩尤是上古九黎部族的首领。汉代纬书《龙鱼河图》佚文称他\"兄弟八十一人，并兽身人语，铜头铁额，食沙石子\"，能造立兵杖刀戟大弩，威振天下。任昉《述异记》记冀州民间有头戴牛角、两两相抵的\"蚩尤戏\"，可见其牛角披发的形象深入人心，民间又传他\"人身牛蹄，四目六手\"。\n\n《史记·五帝本纪》记载蚩尤作乱、不用帝命，黄帝征集诸侯之师，与他战于涿鹿之野，最终擒杀蚩尤。《山海经·大荒北经》保留了这场大战的神话版本：蚩尤请来风伯雨师纵大风雨，黄帝令天女魃止住风雨，才将他杀死。别的传说里，蚩尤在阵前作起弥天大雾，黄帝军中靠指南车辨向突围。\n\n战败者蚩尤并没有被简单抹成反派。《史记·封禅书》载齐地祭祀八神，第三位\"兵主\"即蚩尤；秦始皇东巡曾祭之，刘邦起兵时也\"祠蚩尤于沛庭，而衅鼓旗\"，此后兵家出征祭蚩尤相沿成习。今天苗族的口传史诗中仍尊蚩尤为始祖。",
+    "en": "Chiyou led the Nine Li tribes of high antiquity. Fragments of the Han apocryphal text Longyu Hetu describe him and his eighty-one brothers as beast-bodied but human-tongued, with heads of bronze and brows of iron, eating sand and stones, forgers of the first swords, halberds, and great crossbows. The Shuyiji records a folk game of Jizhou in which players butted one another wearing ox horns, called the 'game of Chiyou', showing how his horned, wild-haired image lived on among the people.\n\nThe Records of the Grand Historian states that when Chiyou rebelled and defied the emperor's command, Huangdi levied the armies of the lords and fought him on the plain of Zhuolu, where Chiyou was captured and killed. The Shanhaijing preserves a mythic version of the battle: Chiyou summoned the Wind Lord and the Rain Master to loose a tempest, and Huangdi called down the drought goddess Ba to still the storm before slaying him. In other tellings Chiyou spread a blinding fog, and Huangdi's south-pointing chariot led the army out.\n\nDefeat did not erase his cult. The Shiji lists him third among the Eight Spirits worshipped in Qi as 'Lord of Arms'; the First Emperor sacrificed to him on an eastern tour, and Liu Bang consecrated his war drums to Chiyou at Pei before rising against Qin. Miao oral epics still honor Chiyou as an ancestor today."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "兵器",
+      "雾"
+    ],
+    "en": [
+      "War",
+      "Weapons",
+      "Fog"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "铜头铁额，头有牛角",
+        "en": "Bronze head, iron brow, ox horns"
+      }
+    },
+    {
+      "label": {
+        "zh": "身后尊号",
+        "en": "Posthumous cult"
+      },
+      "value": {
+        "zh": "齐地八神之\"兵主\"",
+        "en": "'Lord of Arms' among the Eight Spirits of Qi"
+      }
+    }
+  ],
+  "related": [
+    "huangdi",
+    "yandi"
+  ],
+  "sources": [
+    {
+      "zh": "《史记·五帝本纪》",
+      "en": "Shiji, 'Annals of the Five Emperors'"
+    },
+    {
+      "zh": "《史记·封禅书》",
+      "en": "Shiji, 'Fengshan shu'"
+    },
+    {
+      "zh": "《山海经·大荒北经》",
+      "en": "Shanhaijing, 'Classic of the Great Wilderness: North'"
+    },
+    {
+      "zh": "《龙鱼河图》（汉代纬书佚文）",
+      "en": "Longyu Hetu (fragments of a Han apocryphal text)"
+    }
+  ],
+  "geo": {
+    "lat": 40.38,
+    "lon": 115.22,
+    "label": {
+      "zh": "涿鹿（河北）",
+      "en": "Zhuolu, Hebei"
+    }
+  },
+  "image": {
+    "file": "/images/entries/chiyou.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chi_You_Rubbing_Wu_family_shrines_Han.jpg",
+    "sourceTitle": "Chi You Rubbing Wu family shrines Han",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 734,
+    "height": 1000
+  }
+}

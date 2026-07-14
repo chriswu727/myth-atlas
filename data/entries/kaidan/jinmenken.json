@@ -1,0 +1,46 @@
+{
+  "id": "jinmenken",
+  "tradition": "kaidan",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "人面犬",
+    "en": "Jinmenken",
+    "original": "人面犬",
+    "originalLang": "日语"
+  },
+  "title": { "zh": "长着中年男人脸的野狗", "en": "The stray dog with a middle-aged man's face" },
+  "summary": {
+    "zh": "垃圾堆旁的野狗回过头，是一张疲惫的中年男人脸，开口说「别管我」。1989至1990年经杂志与深夜广播席卷日本的目击流言。",
+    "en": "A stray dog by the garbage turns its head to show a tired middle-aged man's face and says, 'Leave me alone.' A sighting craze that swept Japan via magazines and late-night radio in 1989-1990."
+  },
+  "description": {
+    "zh": "人面犬的目击谈有固定的场景配置：深夜的垃圾收集点或高速公路。翻垃圾的野狗被路人惊动，回过头来——狗的身体上是一张不折不扣的人脸，多半是疲惫的中年男人。它会开口，说的通常是「别管我」（ほっといてくれ）之类厌世的话，说完继续翻垃圾。高速公路版本里，它在车流中以时速一百公里以上奔跑，从车窗外回头看司机一眼；被人面犬超车的车会出事故。它不主动害人，被搭话的人顶多倒霉几天——在都市传说的谱系里，它更接近一个拒绝社交的都市隐者。\n\n流言在1989年秋冬骤然爆发，少女杂志、八卦周刊与深夜广播互相转载「读者目击」，1990年达到顶峰，与1979年的裂口女恐慌并列为战后日本两大都市传说风暴。它的形象太适合那个年代：泡沫经济尾声的东京，垃圾堆旁一张过劳男人的脸，说「别管我」。评论者当时就注意到这层滑稽的哀愁，人面犬因此比多数怪谈更常被当作笑话讲。\n\n人面兽在日本并非没有先例：江户时代的见世物小屋与瓦版上已有「人面犬」「人面牛」的记录，明治报纸也登过类似奇谈。平成的人面犬是这条旧线索在大众传媒时代的重生，此后又衍生出人面鱼——1990年代初「人面鲤鱼」照片同样轰动一时。",
+    "en": "Jinmenken sightings share a fixed stage set: a garbage collection point late at night, or a highway. A stray dog nosing the trash is startled by a passerby and turns its head, and on the dog's body is an unmistakably human face, usually that of a tired middle-aged man. It speaks, most often something world-weary like 'hottoite kure,' leave me alone, then goes back to the garbage. In the highway variant it runs among the traffic at over a hundred kilometers an hour and glances back at drivers through the window; a car overtaken by the jinmenken is said to crash. It attacks no one, and those it addresses suffer at worst a run of bad luck. Within the urban-legend bestiary it is less a monster than a hermit refusing conversation.\n\nThe rumor detonated in the autumn and winter of 1989, as girls' magazines, tabloid weeklies, and late-night radio recycled one another's reader sightings, peaking in 1990; folklorists pair it with the 1979 kuchisake-onna panic as the two great rumor storms of postwar Japan. The image fit its moment exactly: Tokyo at the end of the bubble economy, and by the trash heap the face of an overworked man saying leave me alone. Commentators caught the comic melancholy at the time, and the jinmenken has been told as a joke as often as a horror.\n\nNor was the man-faced beast unprecedented: Edo-period sideshows and broadsheets record jinmenken and man-faced cattle, and Meiji newspapers ran similar wonders. The Heisei dog was that old thread reborn in mass media, and it soon had descendants, most famously the man-faced carp photographs that made their own sensation in the early 1990s."
+  },
+  "domains": {
+    "zh": ["都市传说", "会说话的兽", "高速公路", "媒体流言"],
+    "en": ["Urban legends", "Talking beasts", "Highways", "Media rumor"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "口头禅", "en": "Catchphrase" },
+      "value": { "zh": "「别管我」", "en": "'Leave me alone'" }
+    },
+    {
+      "label": { "zh": "流行期", "en": "Peak" },
+      "value": { "zh": "1989年秋至1990年", "en": "Autumn 1989 through 1990" }
+    },
+    {
+      "label": { "zh": "传闻速度", "en": "Rumored speed" },
+      "value": { "zh": "高速公路上时速百余公里", "en": "Over 100 km/h on the expressway" }
+    }
+  ],
+  "related": ["kuchisake-onna", "teke-teke"],
+  "sources": [
+    { "zh": "1989—1990年日本杂志与深夜广播的流言报道", "en": "Japanese magazine and late-night radio rumor coverage, 1989-1990" },
+    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  ],
+  "geo": { "lat": 35.62, "lon": 139.68, "label": { "zh": "东京首都圈（目击流言集中地）", "en": "Greater Tokyo (center of the sighting craze)" } },
+  "image": null
+}

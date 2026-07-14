@@ -1,0 +1,93 @@
+{
+  "id": "shan-gao",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "山膏",
+    "en": "Shangao"
+  },
+  "title": {
+    "zh": "赤如丹火、开口骂人的怪猪",
+    "en": "Fire-Red Pig That Loves to Curse"
+  },
+  "summary": {
+    "zh": "苦山异兽，形状像猪，通身红得像一团丹火，性喜骂人；“善詈”二字在全书仅此一见。",
+    "en": "A beast of Mount Ku shaped like a pig, red as cinnabar fire, and fond of cursing — the only creature in the whole classic said to revile people."
+  },
+  "description": {
+    "zh": "《中次七经》记苦山“有兽焉，名曰山膏，其状如逐，赤若丹火，善詈”。“逐”字历来读作“豚”，郭璞注即持此说——一头从鼻尖红到尾巴、红得像丹火的猪，最出格的本事是“善詈”：喜欢骂人。\n\n《山海经》著录异兽数百，写形貌、写叫声、写灾祥，肯落笔写“性情”的极少；“詈”字全书仅此一见，会开口骂人的也只有山膏一头。经文不解释它骂什么、骂谁，一个字就把这头红猪写成了山里的泼皮。同一座苦山上还有黄棘，黄花圆叶，果实像兰，女子服之不孕。\n\n同属中次七经的放皋之山有兽名文文，状如蜂而善呼。一个善骂，一个善喊，是这列山里一对聒噪的邻居。",
+    "en": "On Mount Ku lives the Shangao, 'shaped like a pig, red as cinnabar fire, and fond of cursing.' The graph in the received text reads zhu, which Guo Pu's commentary takes as tun, a pig: a swine burning crimson from snout to tail whose one recorded talent is abuse.\n\nThe classic catalogues hundreds of beasts by shape, call and omen; almost none is granted a temperament. The word li, 'to revile,' occurs in the book only in this line, which makes the red pig the sole creature in the Shanhaijing that scolds people. The text never says what it curses, or at whom. On the same mountain grows the huangji tree, with yellow blossoms, round leaves and orchid-like fruit; a woman who eats of it bears no children.\n\nIn the neighboring hills of the same seventh sequence, Mount Fanggao keeps the Wenwen, a bee-shaped beast given to loud cries — one shouts, one swears, two noisy neighbors among the central mountains."
+  },
+  "domains": {
+    "zh": [
+      "赤豚",
+      "詈骂",
+      "苦山"
+    ],
+    "en": [
+      "Scarlet Swine",
+      "Cursing",
+      "Mount Ku"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "苦山",
+        "en": "Mount Ku"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如豚，赤若丹火",
+        "en": "A pig red as cinnabar fire"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "善詈",
+        "en": "Fond of cursing"
+      }
+    }
+  ],
+  "related": [
+    "wen-wen",
+    "di-tai"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经注》",
+      "en": "Guo Pu, Commentary on the Shanhaijing"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/shan-gao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic302_-_%E5%B1%B1%E8%86%8F%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic302 - 山膏圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 668,
+    "height": 1000
+  }
+}

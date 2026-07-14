@@ -1,0 +1,99 @@
+{
+  "id": "oya",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥雅",
+    "en": "Oya",
+    "original": "Ọya",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "风暴与尼日尔河的奥里沙",
+    "en": "Orisha of Storms and the Niger River"
+  },
+  "summary": {
+    "zh": "疾风、雷暴与尼日尔河的奥里沙，尚戈的妻子与战友——雷声之前横扫战场的狂风就是她。能化身水牛，尊号\"伊央桑\"意为九子之母。",
+    "en": "Orisha of gales, storms, and the Niger River — Odo Oya, 'Oya's river', in Yoruba; wife and comrade-in-arms of Shango. She takes the form of a buffalo, and her title Iyansan means 'mother of nine'."
+  },
+  "description": {
+    "zh": "奥雅司狂风、龙卷与雷暴，是尚戈最得力的妻子与战友：雷霆落下之前先行扫荡的烈风就是她冲在阵前。约鲁巴人称尼日尔河为\"奥多奥雅\"——奥雅之河，约翰逊的《约鲁巴人史》记载她死后化入了这条大河。她的尊号\"伊央桑\"意为\"九子之母\"。\n\n颂诗称她能化身水牛。常讲的故事里，猎人在林中亲眼看见一头水牛蜕下兽皮变成美妇，便藏起牛皮娶她为妻；多年后家里人泄露了秘密，奥雅披皮复形，顶死了泄密者，只因念及儿女才放过丈夫，留下一对牛角作为呼唤她的信物——至今她的神龛里供着水牛角。\n\n在尚戈败亡的传说里，她是追随到最后的妻子。她与埃贡贡祖灵假面会社关系密切；渡海之后，古巴与巴西尊她为扬桑（Yansan、Iansã），守护墓园之门。风暴骤起时，信徒说那是奥雅在为亡灵开路。",
+    "en": "Oya rules the winds, the whirlwind, and the storm; the gale that sweeps ahead of Shango's thunder is Oya going first into battle. The Yoruba call the Niger 'Odo Oya', Oya's river, and Samuel Johnson's History of the Yorubas records that at her death she became that great water. Her praise-name Iyansan means 'mother of nine'.\n\nHer praise poetry tells of her power to turn into a buffalo. In the tale most often told, a hunter watches a buffalo shed its hide and become a beautiful woman; he hides the skin and marries her, until years later his household betrays the secret. Oya puts the hide back on, gores the betrayers, spares her husband for their children's sake, and leaves behind a pair of horns as the token for calling her — buffalo horns rest in her shrines to this day.\n\nIn the legends of Shango's fall she is the wife who follows him longest. She is closely tied to the egungun ancestral masquerades, and in Cuba and Brazil, where she is honored as Yansan, she keeps the gates of the cemetery; when a storm rises, devotees say Oya is opening the road for the dead."
+  },
+  "domains": {
+    "zh": [
+      "风暴",
+      "闪电",
+      "尼日尔河",
+      "变形"
+    ],
+    "en": [
+      "Storms",
+      "Lightning",
+      "Niger River",
+      "Shape-shifting"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "化身",
+        "en": "Animal form"
+      },
+      "value": {
+        "zh": "水牛，神龛供奉牛角",
+        "en": "Buffalo; horns kept in her shrines"
+      }
+    },
+    {
+      "label": {
+        "zh": "尊号",
+        "en": "Praise-name"
+      },
+      "value": {
+        "zh": "伊央桑——九子之母",
+        "en": "Iyansan, 'mother of nine'"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣河",
+        "en": "Sacred river"
+      },
+      "value": {
+        "zh": "尼日尔河（奥多奥雅）",
+        "en": "The Niger (Odo Oya)"
+      }
+    }
+  ],
+  "related": [
+    "shango",
+    "ogun",
+    "oshun",
+    "yemoja"
+  ],
+  "sources": [
+    {
+      "zh": "塞缪尔·约翰逊《约鲁巴人史》（1921）",
+      "en": "Samuel Johnson, The History of the Yorubas (1921)"
+    },
+    {
+      "zh": "朱迪丝·格利森《奥雅：女神颂》（1987）",
+      "en": "Judith Gleason, Oya: In Praise of the Goddess (1987)"
+    },
+    {
+      "zh": "皮埃尔·维尔热《关于奥里沙与伏都崇拜的笔记》（1957）",
+      "en": "Pierre Verger, Notes sur le culte des Orisa et Vodun (1957)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/oya.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Childrens_Museum_of_Indianapolis_-_Egungun_masquerade_dance_garment.jpg",
+    "sourceTitle": "Egungun masquerade dance garment",
+    "artist": "Yoruba peoples, Nigeria, West Africa",
+    "license": "CC BY-SA 3.0",
+    "width": 669,
+    "height": 1000
+  }
+}

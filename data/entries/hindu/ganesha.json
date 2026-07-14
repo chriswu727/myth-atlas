@@ -1,0 +1,103 @@
+{
+  "id": "ganesha",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "迦尼萨",
+    "en": "Ganesha",
+    "original": "गणेश",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "象头神，破除障碍者",
+    "en": "The elephant-headed remover of obstacles"
+  },
+  "summary": {
+    "zh": "象头人身、大腹便便的智慧之神，湿婆与帕尔瓦蒂之子，坐骑是一只小老鼠。凡事开头先拜他：开业、动笔、启程，皆求他扫清障碍。",
+    "en": "The pot-bellied, elephant-headed god of wisdom, son of Shiva and Parvati, riding a mouse. Every beginning—a journey, a ledger, a book—opens with an invocation to him."
+  },
+  "description": {
+    "zh": "迦尼萨长着象头人身，大耳如簸箕，一根象牙断折，圆滚滚的肚皮上常系一条蛇当腰带，四臂持斧、绳索、断牙与一碗甜食“摩达迦”，坐骑是一只名叫穆什卡的小老鼠。他是智慧、文运与商业之神，尊号“障碍之主”（Vighneshvara）——既能设置障碍，更能破除障碍，因此印度人做任何事之前都先念诵他的名号。\n\n《湿婆往世书》记载了他的来历：帕尔瓦蒂沐浴时用体垢捏出一个男孩守门，湿婆归来被这陌生少年拦在门外，盛怒之下斩其首级。为平息帕尔瓦蒂的悲怒，湿婆命随从取来遇见的第一只生灵的头——一头大象——安在孩子颈上，并封他为自己随从（gana）之主，是为“迦那之主”迦尼萨。断牙的来历有多种说法，流传最广的一说是：广博仙人口述《摩诃婆罗多》时，迦尼萨折下自己的一根象牙充当笔，一刻不停地记录下这部十万颂的大史诗。\n\n每年八九月间的迦尼萨节（Ganesh Chaturthi）以马哈拉施特拉邦最盛：家家户户与街头社团供奉泥塑象头神像，十日后抬往海边或河边浸入水中送别，孟买一地每年入水的神像以十万计。迦尼萨也随印度教与佛教东传，汉传佛教称其为欢喜天或象鼻天。",
+    "en": "Ganesha has the head of an elephant on a boy's plump body: winnowing-fan ears, one tusk broken, a serpent knotted about his round belly, four hands holding an axe, a noose, the broken tusk and a bowl of modak sweets. His mount is a mouse named Mushika. God of wisdom, letters and commerce, he bears the title Vighneshvara, Lord of Obstacles—he who places them and, above all, removes them, which is why Hindus invoke him before any undertaking.\n\nThe Shiva Purana tells of his origin: Parvati shaped a boy from the paste of her own body and set him to guard her bath. Shiva, barred from his own door by the stranger, struck off the boy's head in fury. To calm Parvati's grief he had his attendants bring the head of the first creature they met—an elephant—and set it on the child's neck, making him chief of his attendant host, the ganas; hence the name Ganesha, Lord of the Ganas. Of the broken tusk many stories are told; the most repeated has Ganesha snapping it off to serve as a pen when the sage Vyasa dictated the hundred-thousand-verse Mahabharata without pause.\n\nGanesh Chaturthi, in August or September, reaches its height in Maharashtra: households and street associations install clay images of the god and, after ten days, carry them in procession to be immersed in the sea or a river—in Mumbai alone the immersions number in the hundreds of thousands. Ganesha travelled east with Hinduism and Buddhism, entering Chinese Buddhist texts as Huanxitian, the elephant-trunked deva."
+  },
+  "domains": {
+    "zh": [
+      "智慧",
+      "破除障碍",
+      "文运",
+      "商业"
+    ],
+    "en": [
+      "Wisdom",
+      "Removal of Obstacles",
+      "Letters",
+      "Commerce"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "老鼠穆什卡",
+        "en": "The mouse Mushika"
+      }
+    },
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "湿婆与帕尔瓦蒂",
+        "en": "Shiva and Parvati"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Marks"
+      },
+      "value": {
+        "zh": "象头、断牙、大腹、甜食摩达迦",
+        "en": "Elephant head, broken tusk, pot belly, modak sweets"
+      }
+    },
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "迦尼萨节（八九月间）",
+        "en": "Ganesh Chaturthi (August–September)"
+      }
+    }
+  ],
+  "related": [
+    "shiva",
+    "durga"
+  ],
+  "sources": [
+    {
+      "zh": "《湿婆往世书》",
+      "en": "Shiva Purana"
+    },
+    {
+      "zh": "《迦尼萨往世书》",
+      "en": "Ganesha Purana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ganesha.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ganapati1.jpg",
+    "sourceTitle": "Riddhi Siddhi Ganapathi",
+    "artist": "Raja Ravi Varma",
+    "license": "Public domain",
+    "width": 720,
+    "height": 1000
+  }
+}

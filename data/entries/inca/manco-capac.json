@@ -1,0 +1,104 @@
+{
+  "id": "manco-capac",
+  "tradition": "inca",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "曼科·卡帕克",
+    "en": "Manco Cápac",
+    "original": "Manqu Qhapaq",
+    "originalLang": "克丘亚语"
+  },
+  "title": {
+    "zh": "库斯科的奠基者，第一代萨帕·印加",
+    "en": "Founder of Cusco, First Sapa Inca"
+  },
+  "summary": {
+    "zh": "印加王朝传说中的开国之君。一说他与妈妈奥克略奉太阳神之命自的的喀喀湖降临，持金杖择地建城；一说他是走出帕卡里坦博三窗山洞的四兄四妹之一。",
+    "en": "Legendary first Inca king. In one tale he and Mama Ocllo rose from Lake Titicaca at the Sun's command, seeking where a golden rod would sink; in another he was among eight siblings who left the cave at Pacaritambo."
+  },
+  "description": {
+    "zh": "关于曼科·卡帕克的来历，编年史留下两套传说。加西拉索记下的版本出自王室口传：太阳神因蒂怜悯蒙昧度日的人类，派儿子曼科·卡帕克与女儿妈妈奥克略从的的喀喀湖降临，交给他们一根金杖，命二人北行，金杖一插而没之处便是建城之地。行至库斯科谷地的瓦纳考里山，金杖没入土中，兄妹就此分头召聚四方部民：曼科教男子耕作，妈妈奥克略教妇女纺织，库斯科由此奠基。\n\n贝坦索斯与萨米恩托记下的另一版本则以帕卡里坦博为起点。库斯科以南的坦博托科山有三窗山洞，四对兄妹自中间的窗口走出：阿亚尔·曼科、阿亚尔·卡奇、阿亚尔·乌丘、阿亚尔·奥卡与四位姐妹。途中，膂力惊人的阿亚尔·卡奇一索甩石便削平山头，兄弟们心生忌惮，诱他回洞取物，随即封死洞口；阿亚尔·乌丘在瓦纳考里山顶化为石身，成为受祭的圣石；阿亚尔·奥卡飞抵库斯科的谷地化作界石。惟余阿亚尔·曼科抵达库斯科建城，即曼科·卡帕克，并建起太阳的居所因蒂坎查——科里坎查神庙的前身。\n\n史家视他为传说人物，其年代照王统推算约在13世纪。此后历代印加王皆以他为世系之首，殖民时代的原住民编年史家瓜曼·波马在《新编年史与善政》里为他绘下画像：头戴王室流苏，手执权杖。",
+    "en": "The chronicles preserve two stories of where Manco Cápac came from. In the version Garcilaso took from royal oral tradition, the sun god Inti pitied humankind and sent down his son Manco Cápac and daughter Mama Ocllo at Lake Titicaca, giving them a golden rod and bidding them travel north until it sank into the earth at a single thrust: there they were to found a city. At the hill of Huanacauri in the valley of Cusco the rod vanished into the ground. The pair gathered the people of the region, Manco teaching the men to farm and Mama Ocllo teaching the women to weave, and Cusco was founded.\n\nBetanzos and Sarmiento record a different beginning at Pacaritambo, south of Cusco, where the mountain Tambo Toco has three openings. From the middle window came four brothers and four sisters: Ayar Manco, Ayar Cachi, Ayar Uchu and Ayar Auca with their sister-wives. On the journey Ayar Cachi proved so strong that a stone from his sling could level a hilltop; his uneasy brothers sent him back into the cave on a pretext and sealed the mouth behind him. Ayar Uchu turned to stone on the summit of Huanacauri and became a venerated huaca; Ayar Auca flew ahead and became a stone marker on the site of Cusco. Ayar Manco alone arrived to found the city as Manco Cápac, raising the Inticancha, the dwelling of the Sun that preceded the Coricancha.\n\nHistorians treat him as legendary; reckoned by the king-list, his era falls around the thirteenth century. Every later Inca traced his line back to him, and the indigenous chronicler Guaman Poma drew his portrait in the Nueva corónica: the royal fringe on his brow, a scepter in his hand."
+  },
+  "domains": {
+    "zh": [
+      "建城",
+      "王权",
+      "教化"
+    ],
+    "en": [
+      "City founding",
+      "Kingship",
+      "Civilizing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "信物",
+        "en": "Token"
+      },
+      "value": {
+        "zh": "太阳神所赐的金杖",
+        "en": "A golden rod given by the Sun"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "妹妹妈妈奥克略",
+        "en": "His sister Mama Ocllo"
+      }
+    },
+    {
+      "label": {
+        "zh": "出身两说",
+        "en": "Two origins"
+      },
+      "value": {
+        "zh": "的的喀喀湖降临／帕卡里坦博三窗洞",
+        "en": "Lake Titicaca; the three-windowed cave of Pacaritambo"
+      }
+    }
+  ],
+  "related": [
+    "inti",
+    "titicaca-creation",
+    "coricancha",
+    "viracocha"
+  ],
+  "sources": [
+    {
+      "zh": "印卡·加西拉索·德拉维加《印卡王室述评》（1609）",
+      "en": "Inca Garcilaso de la Vega, Royal Commentaries of the Incas (1609)"
+    },
+    {
+      "zh": "佩德罗·萨米恩托·德·甘博亚《印加史》（1572）",
+      "en": "Pedro Sarmiento de Gamboa, Historia de los Incas (1572)"
+    },
+    {
+      "zh": "费利佩·瓜曼·波马·德·阿亚拉《新编年史与善政》（约1615）",
+      "en": "Felipe Guaman Poma de Ayala, Nueva corónica y buen gobierno (c. 1615)"
+    }
+  ],
+  "geo": {
+    "lat": -13.6,
+    "lon": -71.93,
+    "label": {
+      "zh": "库斯科谷地的瓦纳考里山",
+      "en": "Huanacauri, valley of Cusco"
+    }
+  },
+  "image": {
+    "file": "/images/entries/manco-capac.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Manco_Capac,_First_Inca,_1_of_14_Portraits_of_Inca_Kings_-_overall.jpg",
+    "sourceTitle": "Manco Capac, First Inca, 1 of 14 Portraits of Inca Kings",
+    "license": "Public domain",
+    "width": 929,
+    "height": 1000
+  }
+}

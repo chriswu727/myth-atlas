@@ -1,0 +1,102 @@
+{
+  "id": "menehune",
+  "tradition": "polynesian",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "梅内胡内",
+    "en": "Menehune",
+    "original": "Menehune",
+    "originalLang": "夏威夷语"
+  },
+  "title": {
+    "zh": "一夜筑成石工的小矮人",
+    "en": "The Little People Who Build in a Single Night"
+  },
+  "summary": {
+    "zh": "夏威夷传说中的小矮人族群，昼伏夜作，工程一夜完不成便永远弃置。考爱岛的阿雷科科鱼塘与基基奥拉水渠都被归于他们之手，工钱是每人一只虾。",
+    "en": "Hawaii's legendary little people, who work only by night and abandon forever any job unfinished by dawn. Kauai's Alekoko fishpond and Kikiaola ditch are credited to them; their pay was one shrimp apiece."
+  },
+  "description": {
+    "zh": "梅内胡内是夏威夷传说中住在深山密林里的小矮人族群，身材矮壮、寡言而力大，白天隐匿，只在夜间成群出工。他们的规矩讲得很死：任何工程必须在一夜之间完成，鸡鸣时未竟便永远弃置；劳作不受金银，雇主须以食物为酬，通行的说法是每人一只虾。凡人不可偷看他们干活，被看见了队伍便一哄而散。\n\n考爱岛保存着最常被归于梅内胡内的两处石作。利胡埃附近的阿雷科科鱼塘（俗称梅内胡内鱼塘）以一道近三百米的石堤截住胡雷伊阿河湾，传说是梅内胡内排成自山中直达河口的传递长队，一夜之间手手相递石块垒成；怀梅阿的基基奥拉水渠（俗称梅内胡内水渠）以切削平整、彼此咬合的玄武岩石块砌壁，这种修凿石工在夏威夷传统建造中极为罕见，故事便说唯有梅内胡内才有这等手艺。\n\n民族学家卡塔琳·卢奥玛拉1951年的专著系统梳理了这批传说。她指出\"梅内胡内\"与塔希提语\"玛纳胡内\"（平民、下层人）同源，推测这一形象可能由早期移民层的记忆与外来的小矮人母题在接触时代之后逐渐凝聚而成；十九世纪考爱岛的口述中甚至有把梅内胡内当作可清点人口的真实族群的说法。传说与史实的边界在此格外模糊，而鱼塘与水渠的石堤至今立在原处。",
+    "en": "The Menehune are Hawaii's legendary little people, short, stocky, taciturn and immensely strong, hidden by day in the mountain forests and working only at night in great crews. Their rules are strict: any project must be finished in a single night, and whatever stands incomplete at cockcrow is abandoned forever; they take no wages but food, the standard rate being one shrimp per worker. No one may watch them at work — once seen, the crew scatters.\n\nKauai keeps the two stoneworks most often credited to them. The Alekoko fishpond near Lihue, known as the Menehune Fishpond, closes a bend of the Huleia River with a wall nearly three hundred meters long, said to have been built in one night by a chain of Menehune passing stones hand to hand from the mountains to the river. The Kikiaola ditch at Waimea, the \"Menehune Ditch,\" is faced with cut and fitted basalt blocks, dressed stonework otherwise rare in Hawaiian building — proof, the story goes, that only Menehune hands could have made it.\n\nThe ethnologist Katharine Luomala's 1951 monograph sorted through the whole corpus. She noted that \"Menehune\" is cognate with Tahitian \"manahune,\" the commoner class, and argued the figure likely condensed after European contact from memories of earlier settlement layers and imported little-people motifs; nineteenth-century accounts from Kauai even speak of Menehune as a countable population. The line between legend and history stays blurred here, while the fishpond and the ditch still stand."
+  },
+  "domains": {
+    "zh": [
+      "小矮人",
+      "夜间营造",
+      "石工",
+      "隐匿"
+    ],
+    "en": [
+      "Little people",
+      "Night building",
+      "Stonework",
+      "Hiddenness"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "劳作规矩",
+        "en": "Working rule"
+      },
+      "value": {
+        "zh": "一夜完工，鸡鸣即止，报酬每人一只虾",
+        "en": "One night per job, quit at cockcrow, paid one shrimp each"
+      }
+    },
+    {
+      "label": {
+        "zh": "代表工程",
+        "en": "Credited works"
+      },
+      "value": {
+        "zh": "阿雷科科鱼塘、基基奥拉水渠（均在考爱岛）",
+        "en": "Alekoko fishpond and Kikiaola ditch, both on Kauai"
+      }
+    },
+    {
+      "label": {
+        "zh": "词源线索",
+        "en": "Etymology"
+      },
+      "value": {
+        "zh": "与塔希提语\"玛纳胡内\"（平民）同源",
+        "en": "Cognate with Tahitian \"manahune,\" commoner"
+      }
+    }
+  ],
+  "related": [
+    "pele",
+    "hawaiki",
+    "tiki"
+  ],
+  "sources": [
+    {
+      "zh": "卡塔琳·卢奥玛拉《波利尼西亚的梅内胡内与大洋洲其他神话小人》（毕晓普博物馆，1951年）",
+      "en": "Katharine Luomala, The Menehune of Polynesia and Other Mythical Little People of Oceania (Bishop Museum, 1951)"
+    },
+    {
+      "zh": "托马斯·思拉姆编《夏威夷民间故事》（1907年）",
+      "en": "Thomas Thrum (ed.), Hawaiian Folk Tales (1907)"
+    }
+  ],
+  "geo": {
+    "lat": 21.954,
+    "lon": -159.365,
+    "label": {
+      "zh": "阿雷科科鱼塘（考爱岛）",
+      "en": "Alekoko fishpond, Kauai"
+    }
+  },
+  "image": {
+    "file": "/images/entries/menehune.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alekoko_fishpond.jpg",
+    "sourceTitle": "Alekoko fishpond",
+    "artist": "Collin Grady",
+    "license": "CC BY-SA 2.0",
+    "width": 1000,
+    "height": 750
+  }
+}

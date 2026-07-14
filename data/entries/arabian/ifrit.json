@@ -1,0 +1,98 @@
+{
+  "id": "ifrit",
+  "tradition": "arabian",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "伊夫利特",
+    "en": "Ifrit",
+    "original": "عفريت",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "镇尼中的强横者",
+    "en": "The mighty among the jinn"
+  },
+  "summary": {
+    "zh": "镇尼中力量最强、性情最烈的一类。《古兰经》里有一名伊夫利特自请在所罗门起身之前搬来示巴女王的宝座；《一千零一夜》中它们化作烟柱与火焰巨人出场。",
+    "en": "The strongest and most violent class of jinn. In the Quran an ifrit offers to fetch the Queen of Sheba's throne before Solomon can rise; in the Nights they appear as pillars of smoke and giants of fire."
+  },
+  "description": {
+    "zh": "伊夫利特这个名字最早见于《古兰经》第二十七章第三十九节：所罗门问群臣谁能取来示巴女王的宝座，“镇尼中的一个伊夫利特”起身说，不等王离座便可搬到，并自称力大而忠实。经文只此一处，却足以让后世把伊夫利特定为镇尼中的强横等级——民间的排序里，它位于普通镇尼之上，仅次于（或并列于）马里德，狡诈、多力、傲慢，多与火焰和地下世界相连。\n\n《一千零一夜》是伊夫利特真正的舞台。渔夫从海里捞起的黄铜瓶中冲出的烟柱凝成头如穹顶、脚踏尘土的巨灵，自称因背叛所罗门被封印了一千八百年；《第二个僧人的故事》里，妒火中烧的伊夫利特把掳来的新娘藏进旷野暗门下的地下宫殿，每十天来探一次。故事里的伊夫利特并非全然邪恶，也有替人报信、成人之美的，但其出场总伴随烟、火与地动的排场。\n\n在今日的埃及口语里，afrit 一词又指凶死者留在原地的怨灵，十九世纪东方学者爱德华·莱恩在开罗记录过这一用法。经由奇幻游戏与流行文化，伊夫利特成了“火焰魔神”的代名词，形象大多长角、赤肤、裹着火焰——这是现代插画的发明，古典文本从未统一过它的样子。",
+    "en": "The name first appears in Quran 27:39. When Solomon asks his assembly who can bring him the throne of the Queen of Sheba, 'an ifrit of the jinn' rises and promises to deliver it before the king can stand from his seat, boasting of his strength and trustworthiness. From this single verse grew the ifrit's reputation as the powerful class of jinn: in folk rankings it stands above the common jinni, cunning, immensely strong, proud, and associated with fire and the underworld.\n\nThe Thousand and One Nights is the ifrit's true stage. The pillar of smoke that pours from the fisherman's brass bottle condenses into a giant with a head like a dome, who claims Solomon sealed him away eighteen centuries earlier; in the Second Dervish's tale a jealous ifrit keeps a stolen bride in an underground palace beneath a trapdoor in the wilderness, visiting every ten days. Not every ifrit in the stories is evil — some carry messages or grant favours — but their entrances always come with smoke, flame and shaking earth.\n\nIn modern Egyptian speech an afrit is also the ghost of a person violently killed, lingering where the blood was spilled; the orientalist Edward Lane recorded the usage in Cairo in the 1830s. Fantasy games have since made the ifrit a generic fire demon, horned and wreathed in flame — a modern illustrator's invention, for the classical texts never agreed on its shape."
+  },
+  "domains": {
+    "zh": [
+      "火焰",
+      "怪力",
+      "封印",
+      "地下宫殿"
+    ],
+    "en": [
+      "Fire",
+      "Brute strength",
+      "Sealed vessels",
+      "Underground palaces"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初见文献",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《古兰经》27:39",
+        "en": "Quran 27:39"
+      }
+    },
+    {
+      "label": {
+        "zh": "等级",
+        "en": "Rank"
+      },
+      "value": {
+        "zh": "镇尼中的强者，民间序列仅次于马里德",
+        "en": "Among the mightiest jinn, below only the marid in folk rankings"
+      }
+    },
+    {
+      "label": {
+        "zh": "典型出场",
+        "en": "Signature entrance"
+      },
+      "value": {
+        "zh": "自瓶中涌出的烟柱凝成巨人",
+        "en": "A pillar of smoke from a bottle, condensing into a giant"
+      }
+    }
+  ],
+  "related": [
+    "jinn",
+    "solomon-and-the-jinn",
+    "aladdin-lamp"
+  ],
+  "sources": [
+    {
+      "zh": "《古兰经》第27章第39节",
+      "en": "Quran 27:39"
+    },
+    {
+      "zh": "《一千零一夜》“渔夫与魔鬼的故事”等篇",
+      "en": "The Thousand and One Nights, 'The Fisherman and the Jinni' and other tales"
+    },
+    {
+      "zh": "爱德华·莱恩《现代埃及人的风俗习惯》（1836）",
+      "en": "Edward Lane, An Account of the Manners and Customs of the Modern Egyptians, 1836"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ifrit.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Fisherman_and_the_Afrite_(or_Genie)_MET_DP821700.jpg",
+    "sourceTitle": "The Fisherman and the Afrite (or Genie)",
+    "artist": "John La Farge",
+    "license": "CC0",
+    "width": 808,
+    "height": 1000
+  }
+}

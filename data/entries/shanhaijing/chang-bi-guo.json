@@ -1,0 +1,94 @@
+{
+  "id": "chang-bi-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "长臂国",
+    "en": "Land of the Long-Armed"
+  },
+  "title": {
+    "zh": "在水中徒手捕鱼、两手各操一鱼的国度",
+    "en": "A Country of Fishermen Who Need No Nets"
+  },
+  "summary": {
+    "zh": "海外南经所记之国，其民手臂极长，站在水中徒手捕鱼，两手各抓一条。旧说其臂长二丈，垂手及地。",
+    "en": "A country whose people wade into the water and catch fish bare-handed, one in each fist. Old glosses say their arms are so long the hands trail on the ground."
+  },
+  "description": {
+    "zh": "《海外南经》记：\"长臂国在其东，捕鱼水中，两手各操一鱼。一曰在焦侥东，捕鱼海中。\"经文抓住一个画面：长臂国的人立在水里，不用网罟，两只手各攥着一条刚捉的鱼。郭璞注引旧说，讲他们的手垂下来可以碰到地面；注释长股国时又录一种说法，称长臂人\"臂长二丈\"。\n\n长臂与长股（长腿）在后世图籍里结成了固定搭档。郭璞注记有一个流传的说法：长股国人腿长，长臂国人臂长，捕鱼时长股人背着长臂人走进深海，一个管站稳，一个管伸手抓鱼，各出所长，合作得天衣无缝。明清《山海经》图本与《镜花缘》一类小说都乐于描绘这对组合。把\"捕鱼好手\"夸张成一种身体构造，再让两种构造互补成一套劳动分工，海外诸国条目里的想象逻辑在这里显得格外完整。",
+    "en": "The Classic of Regions Beyond the Seas: South fixes the country in a single image: its people stand in the water catching fish with their bare hands, one fish gripped in each. No nets, no lines. Guo Pu's commentary records the older tradition that their hands, hanging at rest, brush the ground, and elsewhere gives their arms a length of two zhang, roughly four or five meters.\n\nIn later lore the Long-Armed found their natural partners in the Long-Legged, a country recorded in the western chapter of the same book. Guo Pu preserves the folk arithmetic: when it is time to fish, a long-legged man carries a long-armed man on his back and wades far out into the sea; the legs supply the standing, the arms supply the grabbing. The pair became a favorite of Ming and Qing illustrated editions of the Shanhaijing and of novels such as Flowers in the Mirror. The entry shows the logic of the far-country catalogue at its neatest: a fisherman's skill exaggerated into anatomy, then two anatomies dovetailed into a single working team."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "奇异身体",
+      "捕鱼"
+    ],
+    "en": [
+      "Far Lands",
+      "Marvelous Bodies",
+      "Fishing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "绝技",
+        "en": "Skill"
+      },
+      "value": {
+        "zh": "水中徒手捕鱼，两手各操一鱼",
+        "en": "Bare-handed fishing, one fish per hand"
+      }
+    },
+    {
+      "label": {
+        "zh": "旧说臂长",
+        "en": "Arm Length"
+      },
+      "value": {
+        "zh": "臂长二丈，垂手及地",
+        "en": "Two zhang long; hands reach the ground"
+      }
+    },
+    {
+      "label": {
+        "zh": "搭档",
+        "en": "Partner"
+      },
+      "value": {
+        "zh": "长股国人负之入海捕鱼",
+        "en": "Carried to sea on the backs of the Long-Legged"
+      }
+    }
+  ],
+  "related": [
+    "yu-min-guo",
+    "guan-xiong-guo",
+    "da-ren-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外南经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: South'"
+    },
+    {
+      "zh": "郭璞《山海经注》",
+      "en": "Guo Pu, Commentary on the Shanhaijing"
+    }
+  ],
+  "volume": {
+    "zh": "海外南经",
+    "en": "Classic of Regions Beyond the Seas: South"
+  },
+  "image": {
+    "file": "/images/entries/chang-bi-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic101_-_%E9%95%B7%E8%87%82%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic101 - 長臂國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 608,
+    "height": 1000
+  }
+}

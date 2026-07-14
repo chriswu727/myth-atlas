@@ -1,0 +1,100 @@
+{
+  "id": "kua-fu",
+  "tradition": "shanhaijing",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "夸父",
+    "en": "Kuafu"
+  },
+  "title": {
+    "zh": "逐日而渴死于道、弃杖化为桃林的巨人",
+    "en": "The Giant Who Chased the Sun and Died of Thirst on the Road"
+  },
+  "summary": {
+    "zh": "与太阳赛跑的巨人，追到日落之处口渴难耐，饮尽黄河渭水犹不足，北去大泽途中渴死，弃下的手杖化为邓林。",
+    "en": "A giant who raced the sun to its setting place. He drank the Yellow River and the Wei dry, died of thirst before reaching the Great Marsh, and his cast-off staff became a peach grove."
+  },
+  "description": {
+    "zh": "《海外北经》记：\"夸父与日逐走，入日；渴，欲得饮，饮于河、渭；河、渭不足，北饮大泽。未至，道渴而死。弃其杖，化为邓林。\"三十七个字写完一场追逐：巨人同太阳赛跑，一直追进落日的光轮里，焦渴袭来，他俯身喝干黄河与渭水仍不解渴，转身北上去喝大泽之水，半路渴死。手杖落地，化成一片邓林——郭璞注与《列子》都说邓林即桃林。同卷又记有博父国，其人皆巨人，右手操青蛇，左手操黄蛇。\n\n《大荒北经》另有一说：夸父是后土之孙、信之子，\"不量力，欲追日景\"，最终被应龙所杀——应龙杀蚩尤之后又杀夸父。同一部书里两种死法并存，是《山海经》层累成书的显例。《列子·汤问》复述逐日故事，并说弃杖所化的邓林\"弥广数千里\"。后世\"夸父逐日\"既被用作不自量力的讥语，也被读作明知不可为而为之的壮举，与刑天、精卫同列为上古神话中著名的悲剧形象。",
+    "en": "The Classic of Regions Beyond the Seas: North tells the whole chase in thirty-seven characters. Kuafu raced the sun and ran straight into its setting glare; parched, he drank the Yellow River and the Wei dry, and when they did not suffice he headed north for the Great Marsh. He died of thirst on the road. His fallen staff became the Deng Grove, which Guo Pu's commentary and the Liezi both identify as a forest of peach trees. The same chapter records a Land of Bofu peopled by giants who grip a green snake in the right hand and a yellow snake in the left.\n\nThe Classic of the Great Wilderness: North preserves a different death: there Kuafu is the grandson of Houtu, a man who 'overrated his strength and chased the sun's shadow', and he is killed by the winged dragon Yinglong after that dragon has slain Chiyou. The two incompatible endings sitting in one book are a textbook case of the Shanhaijing's layered compilation. The Liezi retells the chase and adds that the peach grove spread over thousands of li. 'Kuafu chasing the sun' survives in Chinese as a double-edged idiom, mocking overreach and honoring the doomed, magnificent attempt in the same breath."
+  },
+  "domains": {
+    "zh": [
+      "逐日",
+      "巨人",
+      "干渴",
+      "桃林"
+    ],
+    "en": [
+      "Sun-Chasing",
+      "Giants",
+      "Thirst",
+      "Peach Grove"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "死因",
+        "en": "Death"
+      },
+      "value": {
+        "zh": "道渴而死（一说为应龙所杀）",
+        "en": "Thirst on the road; one account says slain by Yinglong"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗物",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "手杖化为邓林（桃林）",
+        "en": "His staff became the Deng peach grove"
+      }
+    },
+    {
+      "label": {
+        "zh": "所饮",
+        "en": "Drank"
+      },
+      "value": {
+        "zh": "黄河、渭水，欲北饮大泽",
+        "en": "The Yellow River and the Wei; sought the Great Marsh"
+      }
+    }
+  ],
+  "related": [
+    "xing-tian",
+    "ying-long",
+    "chiyou"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外北经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: North'"
+    },
+    {
+      "zh": "《山海经·大荒北经》",
+      "en": "Shanhaijing, 'Classic of the Great Wilderness: North'"
+    },
+    {
+      "zh": "《列子·汤问》",
+      "en": "Liezi, 'Questions of Tang'"
+    }
+  ],
+  "volume": {
+    "zh": "海外北经",
+    "en": "Classic of Regions Beyond the Seas: North"
+  },
+  "image": {
+    "file": "/images/entries/kua-fu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic47_-_%E5%A4%B8%E7%88%B6%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic47 - 夸父神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 676,
+    "height": 1000
+  }
+}

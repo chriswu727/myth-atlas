@@ -1,0 +1,93 @@
+{
+  "id": "kelpie",
+  "tradition": "celtic",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "凯尔派",
+    "en": "Kelpie",
+    "original": "kelpie / each-uisge",
+    "originalLang": "低地苏格兰语／苏格兰盖尔语"
+  },
+  "title": {
+    "zh": "苏格兰的食人水马",
+    "en": "The man-eating water horse of Scotland"
+  },
+  "summary": {
+    "zh": "苏格兰河流湖泊中的变形水魔，常化作温驯骏马引人骑乘，皮肤如胶粘住骑者后拖入水中吞食，只余肝脏浮上岸边。",
+    "en": "A shape-shifting water demon of Scottish rivers and lochs. It appears as a tame horse, its hide gripping like glue, then drags the rider under and devours all but the liver."
+  },
+  "description": {
+    "zh": "凯尔派是苏格兰低地对水马精怪的称呼，出没于河流与激流渡口；高地盖尔语区的近亲叫 each-uisge（水马），盘踞海湾与大湖，性情更凶。它最常见的伎俩是化作一匹鞍辔齐全、异常温驯的骏马在水边吃草，等旅人或贪玩的孩子骑上背，皮肤便如胶般粘住人体，猛然掉头冲入深水。传说讲到细节：几个孩子接连爬上马背，最后一个孩子只用一根手指碰了马身，水马下水时他挥刀断指才得活命，岸上次日只漂来同伴的肝脏——水马不吃这一样。\n\n凯尔派也会化作人形，通常是俊美的年轻男子，唯有头发里缠着的水草或蹄形的痕迹会泄露真身。制服它的办法是夺取或给它戴上笼头：戴上人间辔头的凯尔派力大无穷，有故事说地方豪族曾役使被缚的水马搬运建城堡的石料。识别与防范水马，长期是苏格兰湖区儿童教育的一部分——它本质上是一则关于深水危险的警世传说。罗伯特·彭斯1786年的诗《致魔鬼》里已把 water-kelpies 列入夜行妖物的名单，19世纪民俗学者沃尔特·格雷戈尔在苏格兰东北部系统采录了相关口述。\n\n2013年，雕塑家安迪·斯科特高30米的两座不锈钢马首雕塑《凯尔派》在福尔柯克落成，这个名字重新成为苏格兰最醒目的公共符号之一。",
+    "en": "Kelpie is the Lowland Scots name for the water horse that haunts rivers and fords; its Highland Gaelic cousin, the each-uisge of the sea lochs and great lakes, is reckoned fiercer still. Its favourite ruse is to graze by the waterside as a fine, unusually docile horse, saddled and bridled. When a traveller or a pack of children climbs on, the hide holds them fast like glue and the beast wheels into deep water. The tales are precise about the horror: in one, a last child touches the horse with a single finger and saves himself only by cutting the finger off, and next morning the loch gives back nothing of his companions but their livers, the one part the water horse will not eat.\n\nThe kelpie also walks as a handsome young man, betrayed only by waterweed tangled in his hair. Mastery runs through the bridle: a kelpie wearing a man-made halter is bound to obey, and stories tell of lairds who worked a captive water horse hauling stone for their castles. Teaching children to recognise the too-friendly horse by the waterside was practical schooling in the danger of deep water, which is the plain core of the legend. Robert Burns already lists water-kelpies among the night's uncanny company in his 1786 poem Address to the Deil, and the folklorist Walter Gregor gathered the oral tradition across north-east Scotland in 1881.\n\nIn 2013 Andy Scott's thirty-metre steel horse heads, The Kelpies, were raised at Falkirk, returning the name to the centre of Scotland's public imagination."
+  },
+  "domains": {
+    "zh": [
+      "水怪",
+      "变形",
+      "警世传说",
+      "深水"
+    ],
+    "en": [
+      "Water spirit",
+      "Shape-shifting",
+      "Cautionary tale",
+      "Deep water"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "破绽",
+        "en": "Tell"
+      },
+      "value": {
+        "zh": "人形时发间缠水草；马身皮肤粘人",
+        "en": "Waterweed in the hair; a hide that grips like glue"
+      }
+    },
+    {
+      "label": {
+        "zh": "克制",
+        "en": "Mastery"
+      },
+      "value": {
+        "zh": "人间辔头可使其驯服听命",
+        "en": "A man-made bridle binds it to obedience"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗留物",
+        "en": "Remains"
+      },
+      "value": {
+        "zh": "受害者的肝脏浮上岸边",
+        "en": "The victim's liver, washed ashore"
+      }
+    }
+  ],
+  "related": [
+    "selkie",
+    "banshee"
+  ],
+  "sources": [
+    {
+      "zh": "罗伯特·彭斯《致魔鬼》（1786，提及 water-kelpies）",
+      "en": "Robert Burns, Address to the Deil, 1786"
+    },
+    {
+      "zh": "沃尔特·格雷戈尔《苏格兰东北部民俗札记》（1881）",
+      "en": "Walter Gregor, Notes on the Folk-Lore of the North-East of Scotland, 1881"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/kelpie.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thekelpie_large.jpg",
+    "sourceTitle": "The Kelpie title QS:P1476,en:\"The Kelpie \"label QS:Len,\"The Kelpie \"label QS:Les,\"La kelpie\"",
+    "artist": "Herbert James Draper",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 667
+  }
+}

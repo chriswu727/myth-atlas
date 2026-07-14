@@ -1,0 +1,102 @@
+{
+  "id": "kitezh",
+  "tradition": "lost-lands",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "基捷日",
+    "en": "Kitezh",
+    "original": "Китеж",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "祈祷中隐入湖底的不可见之城",
+    "en": "The city that prayed itself invisible beneath the lake"
+  },
+  "summary": {
+    "zh": "俄罗斯传说中的圣城：1238年拔都大军压境时全城祈祷，基捷日隐入斯韦特洛亚尔湖，免遭屠戮；心地至纯者至今能听见湖底钟声。",
+    "en": "The holy Russian city that, as Batu Khan's army closed in around 1238, vanished into Lake Svetloyar through prayer; the pure of heart can still hear its bells."
+  },
+  "description": {
+    "zh": "传说中，弗拉基米尔大公格奥尔吉·弗谢沃洛多维奇先在伏尔加河畔建小基捷日，又深入林中，在斯韦特洛亚尔湖畔建起遍布教堂的大基捷日。1238年拔都汗西征焚掠罗斯诸城，俘虏受刑后供出通往大基捷日的密径。蒙古军兵临城下时，全城百姓不设防御，惟入教堂彻夜祈祷；就在敌军眼前，城市或说沉入湖中、或说隐去形迹，湖面空余波光。此后的传说称基捷日并未毁灭，只是移入了另一重存在：风静之夜湖底传来钟声与唱诗声，斋戒祈祷、心地至纯者能望见水中倒映的教堂金顶，甚至受邀入城。\n\n这一传说定型于文字是在事件之后数百年：《基捷日编年志》约成书于十八世纪末，出自旧礼仪派信徒之手——对这些遭官方教会迫害的教徒而言，隐形之城正是未被玷污的真信仰的庇护所，斯韦特洛亚尔湖由此成为世代相传的朝圣地，至今每年仍有信众绕湖祈祷。湖在下诺夫哥罗德州沃斯克列先斯基区，近于正圆，水深逾三十米，成因至今有冰川、喀斯特、陨击诸说。\n\n里姆斯基-科萨科夫的歌剧《隐城基捷日与少女费芙罗尼娅的传说》（1907年首演）把传说送上世界舞台，被称为\"俄罗斯的帕西法尔\"。\"基捷日\"在俄语文化中凝为一个意象：在劫难面前以圣洁自隐的俄罗斯。",
+    "en": "In the legend, Grand Prince Georgy Vsevolodovich of Vladimir built Little Kitezh on the Volga, then pushed deep into the forests and raised Great Kitezh, a city of churches, on the shore of Lake Svetloyar. In 1238, as Batu Khan burned the cities of Rus, a prisoner under torture betrayed the hidden forest path. When the Mongol host reached the walls, the townspeople mounted no defence but filled the churches and prayed through the night; before the enemy's eyes the city sank into the lake, or simply passed out of sight, leaving empty water. The tale insists Kitezh was not destroyed but translated: on still nights bells and chanting rise from the depths, and those who fast, pray, and keep a pure heart may see golden domes mirrored in the water, or even be received inside.\n\nThe story reached parchment centuries after its setting. The Kitezh Chronicle was compiled around the late eighteenth century among the Old Believers, for whom, persecuted by the official church, an invisible city was the refuge of uncorrupted faith; Lake Svetloyar became their hereditary pilgrimage site, and believers still circle it in prayer each year. The lake, in the Voskresensky district of Nizhny Novgorod oblast, is nearly circular and more than thirty metres deep; glacial, karst, and impact origins have all been argued.\n\nRimsky-Korsakov's opera The Legend of the Invisible City of Kitezh and the Maiden Fevroniya (premiered 1907) carried the tale onto the world stage and earned the nickname \"the Russian Parsifal\". In Russian culture Kitezh hardened into an image: a Russia that hides itself in holiness when catastrophe comes."
+  },
+  "domains": {
+    "zh": [
+      "隐形之城",
+      "蒙古入侵",
+      "旧礼仪派",
+      "湖底钟声"
+    ],
+    "en": [
+      "Invisible city",
+      "Mongol invasion",
+      "Old Believers",
+      "Bells from the deep"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "定型文献",
+        "en": "Defining text"
+      },
+      "value": {
+        "zh": "《基捷日编年志》（约18世纪末，旧礼仪派抄本）",
+        "en": "The Kitezh Chronicle (Old Believer manuscript, late 18th century)"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说时间",
+        "en": "Legendary date"
+      },
+      "value": {
+        "zh": "1238年拔都汗入侵罗斯",
+        "en": "Batu Khan's invasion of Rus, 1238"
+      }
+    },
+    {
+      "label": {
+        "zh": "朝圣地",
+        "en": "Pilgrimage site"
+      },
+      "value": {
+        "zh": "下诺夫哥罗德州斯韦特洛亚尔湖",
+        "en": "Lake Svetloyar, Nizhny Novgorod oblast"
+      }
+    }
+  ],
+  "related": [
+    "ys",
+    "avalon",
+    "shambhala"
+  ],
+  "sources": [
+    {
+      "zh": "《基捷日编年志》（旧礼仪派传抄，约18世纪末）",
+      "en": "The Kitezh Chronicle, transmitted among the Old Believers (late 18th century)"
+    },
+    {
+      "zh": "里姆斯基-科萨科夫歌剧《隐城基捷日的传说》（1907）",
+      "en": "Rimsky-Korsakov, The Legend of the Invisible City of Kitezh (1907)"
+    }
+  ],
+  "geo": {
+    "lat": 56.8186,
+    "lon": 45.0936,
+    "label": {
+      "zh": "俄罗斯斯韦特洛亚尔湖",
+      "en": "Lake Svetloyar, Russia"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kitezh.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konstantin_Gorbatov_-_The_Invisible_Town_of_Kitezh.jpg",
+    "sourceTitle": "The Invisible Town of Kitezh",
+    "artist": "Konstantin Gorbatov",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 822
+  }
+}

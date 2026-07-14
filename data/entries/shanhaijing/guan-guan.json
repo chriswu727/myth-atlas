@@ -1,0 +1,91 @@
+{
+  "id": "guan-guan",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "灌灌",
+    "en": "Guanguan"
+  },
+  "title": {
+    "zh": "青丘山上佩之不惑的怪鸟",
+    "en": "Bird of Mount Qingqiu Whose Feathers Dispel Confusion"
+  },
+  "summary": {
+    "zh": "青丘山怪鸟，形状像斑鸠，叫声如人互相呵斥；把它的羽毛佩在身上，人可以不迷惑。",
+    "en": "A bird of Mount Qingqiu shaped like a turtledove, its call like people scolding one another; wearing its feathers was said to keep one from confusion."
+  },
+  "description": {
+    "zh": "《南山经》记青丘之山\"有鸟焉，其状如鸠，其音若呵，名曰灌灌，佩之不惑\"。它长得像斑鸠，貌不惊人，叫声却像人在相互呵斥叱骂。功效在\"佩\"：把它的羽毛插戴在身上，人便神志清明，不受迷惑。它与食人的九尾狐同住青丘一山——山中猛兽以婴啼诱人，山中之鸟却替人解惑，一座山里自带毒与解药。\n\n\"不惑\"在南山经首列山系里是反复出现的主题：第一座招摇之山有迷穀，\"佩之不迷\"；到青丘之山又有灌灌，佩之不惑。对在群山密林中跋涉的旅人而言，迷路与失心是实打实的凶险，这列山系于是接连给出两件防迷的佩饰，如同行路指南里的常备药。灌灌那呵斥般的叫声也正合它的职司——像有人在耳边断喝一声，把发昏的神志喝醒。此鸟别无后传，只在青丘的名声里沾着九尾狐的光，被后世的青丘故事顺带提起。",
+    "en": "On Mount Qingqiu, says the Classic of the Southern Mountains, lives a bird shaped like a turtledove whose voice is like people scolding and shouting at one another. Plain as it looks, its use is in the wearing: fix its feathers on your person and your mind stays clear, proof against confusion. It shares the mountain with the man-eating nine-tailed fox — the beast lures with an infant's cry while the bird restores the wits, a single mountain carrying both poison and antidote.\n\nFreedom from bewilderment is a recurring concern of this first southern range. Mount Zhaoyao, the chain's opening peak, offers the migu tree, worn to keep from losing one's way; Qingqiu follows with the guanguan, worn to keep from losing one's mind. For travelers threading forested ranges, straying and delusion were concrete dangers, and the itinerary supplies two charms against them in sequence, like standing items in a wayfarer's kit. Even the bird's scolding call suits its office — a sharp shout in the ear that snaps a fogged mind awake. It earned no legend of its own, surfacing in later Qingqiu tales only in the fox's shadow."
+  },
+  "domains": {
+    "zh": [
+      "怪鸟",
+      "解除迷惑",
+      "护身符"
+    ],
+    "en": [
+      "Strange Birds",
+      "Dispelling Confusion",
+      "Amulets"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "青丘之山",
+        "en": "Mount Qingqiu"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如人相互呵斥",
+        "en": "Like people scolding one another"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "佩之不惑",
+        "en": "Wearing its feathers dispels confusion"
+      }
+    }
+  ],
+  "related": [
+    "qingqiu-shan",
+    "jiu-wei-hu",
+    "chi-ru",
+    "bo-shi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/guan-guan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic096_-_%E7%81%8C%E7%81%8C%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic096 - 灌灌圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 1000
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "aladdin-lamp",
+  "tradition": "arabian",
+  "type": "artifact",
+  "era": "folk",
+  "name": {
+    "zh": "阿拉丁神灯",
+    "en": "Aladdin's Lamp"
+  },
+  "title": {
+    "zh": "住着灯奴的旧油灯",
+    "en": "The old oil lamp with a slave inside"
+  },
+  "summary": {
+    "zh": "地下宝窟里一盏不起眼的旧油灯，一经摩擦便有巨灵现身，听命于持灯之人。这则故事不见于任何早期阿拉伯抄本，是叙利亚人汉纳·迪亚卜1709年在巴黎讲给加朗的。",
+    "en": "A shabby oil lamp from an underground treasure cave; rub it and a jinni appears, slave to whoever holds it. No early Arabic manuscript contains the tale — the Syrian Hanna Diyab told it to Galland in 1709."
+  },
+  "description": {
+    "zh": "故事说，“中国”某城有个裁缝之子阿拉丁，游手好闲。一个自称叔父的马格里布魔法师找上门来，把他带到城外，念咒开启地下宝窟，只求他取回洞底一盏旧油灯。阿拉丁摘了满兜宝石，却在洞口与魔法师翻脸，被封在地下。他无意间摩擦魔法师给的戒指，唤出戒指之灵脱困回家；母亲擦拭那盏脏灯想卖个价钱，更巨大的灯灵轰然现身——从此擦灯即有求必应。阿拉丁凭它娶了公主巴德露·布杜尔，一夜建起宝石宫殿；魔法师以“旧灯换新灯”骗走神灯，把宫殿连人搬到马格里布，阿拉丁靠着那枚被遗忘的戒指追回一切。\n\n这则家喻户晓的故事其实不在《一千零一夜》的早期阿拉伯抄本里。1709年5月，阿勒颇的马龙派叙利亚人汉纳·迪亚卜在巴黎把它讲给法译者安托万·加朗，加朗记入日记，整理后收进法译本第九至十卷（1712）——学界称这批无阿拉伯底本的篇目为“孤儿故事”，《阿里巴巴》也在其中。迪亚卜本人的自传手稿（1763年写成）二十世纪末在梵蒂冈图书馆被重新识读，这位年轻旅人自己的巴黎见闻，被认为渗进了故事里穷小子暴富的光景。\n\n神灯从此成为“愿望”本身的形状。哑剧、木偶戏把它演了两百年，1992年迪士尼动画把灯灵涂成蓝色、配上罗宾·威廉姆斯的语速，那盏旧油灯至今仍是《一千零一夜》在世界流行文化里最醒目的商标——尽管它严格说来是这部书最晚归队的行李。",
+    "en": "The tale runs: in a city of 'China' lives Aladdin, a tailor's idle son. A Maghribi sorcerer arrives posing as his uncle, leads him outside the walls, opens an underground treasure cave by incantation, and asks only that the boy fetch an old oil lamp from its lowest chamber. Aladdin stuffs his clothes with jewels, quarrels with the sorcerer at the cave mouth, and is sealed underground. Rubbing the ring the sorcerer had lent him, he summons the jinni of the ring and escapes; at home his mother scours the dirty lamp to sell it, and a far mightier jinni erupts from it. Rubbing the lamp now grants anything: Aladdin marries the princess Badr al-Budur and raises a jewelled palace overnight, loses everything when the sorcerer cries 'new lamps for old' and spirits palace and princess to the Maghrib, and wins it all back through the forgotten ring.\n\nFamous as it is, the story appears in no early Arabic manuscript of the Nights. In May 1709 Hanna Diyab, a Maronite Syrian from Aleppo, told it in Paris to the translator Antoine Galland, who noted it in his diary and worked it into volumes nine and ten of his French version (1712). Scholars call these the 'orphan tales' — Ali Baba is another. Diyab's own memoir, written in 1763, was re-identified in the Vatican Library in the late twentieth century, and the young traveller's dazzled view of Paris is thought to colour the tale's rags-to-riches splendour.\n\nThe lamp became the very shape of the wish. Pantomime played it for two centuries; Disney's 1992 film painted the genie blue and gave him Robin Williams's patter. The old oil lamp remains the most recognisable trademark of the Thousand and One Nights — strictly speaking, its latest-arriving piece of luggage."
+  },
+  "domains": {
+    "zh": [
+      "愿望",
+      "灯灵",
+      "宝窟",
+      "孤儿故事"
+    ],
+    "en": [
+      "Wishes",
+      "Jinni of the lamp",
+      "Treasure cave",
+      "Orphan tales"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "使用法",
+        "en": "Operation"
+      },
+      "value": {
+        "zh": "摩擦灯身，灯灵现身听命",
+        "en": "Rub the lamp; its jinni appears and obeys"
+      }
+    },
+    {
+      "label": {
+        "zh": "配套物",
+        "en": "Companion piece"
+      },
+      "value": {
+        "zh": "魔法师的戒指，内有较弱的戒指之灵",
+        "en": "The sorcerer's ring, housing a lesser jinni"
+      }
+    },
+    {
+      "label": {
+        "zh": "文本身世",
+        "en": "Textual status"
+      },
+      "value": {
+        "zh": "“孤儿故事”，无早期阿拉伯底本",
+        "en": "An 'orphan tale' with no early Arabic source text"
+      }
+    }
+  ],
+  "related": [
+    "jinn",
+    "ifrit",
+    "solomon-and-the-jinn",
+    "scheherazade"
+  ],
+  "sources": [
+    {
+      "zh": "加朗《一千零一夜》法译本第9-10卷（1712）",
+      "en": "Antoine Galland, Les mille et une nuits, vols 9-10, 1712"
+    },
+    {
+      "zh": "加朗日记1709年5月所记汉纳·迪亚卜口述",
+      "en": "Galland's diary entries of May 1709 recording Hanna Diyab's telling"
+    },
+    {
+      "zh": "汉纳·迪亚卜自传手稿（1763，梵蒂冈图书馆藏）",
+      "en": "Hanna Diyab's memoir, 1763, Vatican Library"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/aladdin-lamp.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FOCDarley-Aladdin-finds-the-lamp.JPG",
+    "sourceTitle": "FOCDarley-Aladdin-finds-the-lamp",
+    "artist": "Felix Octavius Carr Darley (1821-1888)",
+    "license": "Public domain",
+    "width": 772,
+    "height": 1000
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "headless-horseman",
+  "tradition": "american-folklore",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "无头骑士",
+    "en": "Headless Horseman"
+  },
+  "title": {
+    "zh": "沉睡谷的黑森雇佣兵亡魂",
+    "en": "The Hessian Ghost of Sleepy Hollow"
+  },
+  "summary": {
+    "zh": "华盛顿·欧文1820年《沉睡谷传奇》塑造的美国经典幽灵：独立战争中被炮弹削去头颅的黑森雇佣兵，夜夜策马寻找失去的头，以南瓜掷向逃亡者。",
+    "en": "The classic American ghost from Washington Irving's \"The Legend of Sleepy Hollow\" (1820): a Hessian trooper decapitated by a cannonball, who rides nightly in search of his head and hurls a pumpkin at those who flee."
+  },
+  "description": {
+    "zh": "无头骑士的故事被设定在纽约州哈德逊河畔塔里敦附近的荷兰移民村落「沉睡谷」：独立战争期间，一名为英军作战的黑森雇佣兵在无名混战中被炮弹削去头颅，葬在老荷兰教堂墓园。此后他夜夜从墓中跃马而出，沿山谷道路狂奔寻找自己的头，鸡鸣前必须赶回墓地，因此行速如风；据说只要抢先冲过教堂旁的木桥，他就无法追及。\n\n这一形象出自华盛顿·欧文1820年发表于《见闻札记》的短篇《沉睡谷传奇》——美国文学最早的经典短篇之一。故事里，瘦削迷信的康涅狄格教师伊卡博德·克莱恩追求富家女卡特里娜，情敌「骨头布罗姆」处处捉弄他；一夜聚会归途，克莱恩在教堂桥边被无头骑士追逐，「头颅」砸在他脸上，次日路上只找到他的帽子和一只摔碎的南瓜，教师从此失踪。欧文让读者自行判断：那是真鬼，还是布罗姆顶着南瓜的恶作剧。欧文的素材来自哈德逊河谷荷兰社区的口头传说，并明显借鉴了欧洲的无头骑士谱系——爱尔兰的杜拉汉与卡尔·穆索伊斯整理的德国民间故事。\n\n无头骑士从书页走进了美国的万圣节图景：迪士尼动画《伊卡博德与托德先生历险记》（1949）与蒂姆·伯顿电影《断头谷》（1999）是最著名的两次改编。塔里敦旁的北塔里敦村1996年干脆改名「沉睡谷」，欧文笔下的老荷兰教堂与墓园犹在，每年十月挤满打卡的游客。",
+    "en": "The Headless Horseman haunts Sleepy Hollow, a Dutch settler community near Tarrytown on the Hudson: a Hessian mercenary fighting for the British in the Revolutionary War, decapitated by a cannonball in a nameless skirmish and buried in the Old Dutch Church graveyard. Night after night he rides out searching for his head, galloping hard because he must regain his grave before cockcrow; cross the wooden bridge by the church, the story says, and he cannot follow.\n\nThe figure comes from Washington Irving's \"The Legend of Sleepy Hollow,\" published in The Sketch Book in 1820 and among the first classics of American fiction. In the tale, Ichabod Crane, a lanky, superstitious Connecticut schoolmaster, courts the heiress Katrina Van Tassel while his rival Brom Bones torments him; riding home from a party, Crane is chased to the church bridge, where the rider's \"head\" strikes him full in the face. The next morning the road yields only his hat and a shattered pumpkin, and the schoolmaster is never seen again. Irving leaves the verdict open: a true ghost, or Brom with a pumpkin. He drew on the oral lore of the Hudson Valley Dutch and on the European headless-rider lineage — Ireland's dullahan and the German tales collected by Karl Musaus.\n\nThe Horseman rode off the page into America's Halloween iconography, most famously via Disney's The Adventures of Ichabod and Mr. Toad (1949) and Tim Burton's Sleepy Hollow (1999). The village of North Tarrytown formally renamed itself Sleepy Hollow in 1996, and Irving's Old Dutch Church and its burying ground still stand, thronged with visitors every October."
+  },
+  "domains": {
+    "zh": [
+      "无头幽灵",
+      "独立战争亡魂",
+      "文学怪谈",
+      "万圣节图景"
+    ],
+    "en": [
+      "Headless ghost",
+      "Revolutionary War revenant",
+      "Literary legend",
+      "Halloween icon"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出典",
+        "en": "Source"
+      },
+      "value": {
+        "zh": "华盛顿·欧文《沉睡谷传奇》（1820）",
+        "en": "Washington Irving, \"The Legend of Sleepy Hollow\" (1820)"
+      }
+    },
+    {
+      "label": {
+        "zh": "生前身份",
+        "en": "In life"
+      },
+      "value": {
+        "zh": "为英军作战的黑森雇佣兵",
+        "en": "A Hessian trooper in British service"
+      }
+    },
+    {
+      "label": {
+        "zh": "弱点",
+        "en": "Limit"
+      },
+      "value": {
+        "zh": "无法越过教堂旁的木桥，鸡鸣前须归墓",
+        "en": "Cannot cross the church bridge; must return to his grave by cockcrow"
+      }
+    }
+  ],
+  "related": [
+    "bell-witch",
+    "la-llorona"
+  ],
+  "sources": [
+    {
+      "zh": "华盛顿·欧文《沉睡谷传奇》，《见闻札记》（1820）",
+      "en": "Washington Irving, \"The Legend of Sleepy Hollow,\" The Sketch Book of Geoffrey Crayon (1820)"
+    }
+  ],
+  "geo": {
+    "lat": 41.09,
+    "lon": -73.86,
+    "label": {
+      "zh": "纽约州沉睡谷老荷兰教堂",
+      "en": "The Old Dutch Church, Sleepy Hollow, New York"
+    }
+  },
+  "image": {
+    "file": "/images/entries/headless-horseman.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Quidor_-_The_Headless_Horseman_Pursuing_Ichabod_Crane_-_Google_Art_Project.jpg",
+    "sourceTitle": "The Headless Horseman Pursuing Ichabod Cranetitle QS:P1476,en:\"The Headless Horseman Pursuing Ichabod Crane\"label QS:Len,\"The Headless Horseman Pursuing Ichabod Crane\"",
+    "artist": "John Quidor",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 789
+  }
+}

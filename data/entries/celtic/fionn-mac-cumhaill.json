@@ -1,0 +1,102 @@
+{
+  "id": "fionn-mac-cumhaill",
+  "tradition": "celtic",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "芬恩·麦克库尔",
+    "en": "Fionn mac Cumhaill",
+    "original": "Fionn mac Cumhaill",
+    "originalLang": "爱尔兰语"
+  },
+  "title": {
+    "zh": "费奥纳战团的首领",
+    "en": "Captain of the Fianna"
+  },
+  "summary": {
+    "zh": "芬恩故事群的主角，游猎战团费奥纳的首领。少年时误尝智慧鲑鱼的汁液，从此咬拇指便知万事；传说他未死，沉睡地底待爱尔兰危难时醒来。",
+    "en": "Hero of the Fenian Cycle and captain of the roving Fianna. As a boy he tasted the Salmon of Knowledge, and ever after gained wisdom by biting his thumb. Legend says he only sleeps, awaiting Ireland's need."
+  },
+  "description": {
+    "zh": "芬恩·麦克库尔是芬恩故事群（Fenian Cycle）的中心人物，费奥纳战团——一支效忠爱尔兰至高王、游猎于荒野的自由武士团——的首领。他本名德姆内，父亲库尔在他出生前战死，他由女德鲁伊博德玛尔与女战士利亚·卢阿哈拉在斯利弗布鲁姆山中秘密养大，因一头浅色头发得名“芬恩”（意为“白亮”）。《芬恩少年事迹》记载了他命运的转折：诗人芬内加斯在博因河畔苦候七年，终于钓起吃过九棵榛树之果的智慧鲑鱼，命少年烤鱼；鱼油烫起水泡，芬恩下意识把拇指含进嘴里，鲑鱼的全部智慧就此归他。此后每逢难题，他咬一咬拇指便知答案。\n\n他凭另一件事迹赢得战团：每年萨温节，会喷火的精怪艾伦用魔乐催眠塔拉全城纵火，芬恩以毒矛抵额驱散睡意，斩下艾伦头颅，至高王遂命他统领费奥纳。战团故事里既有《迪尔姆德与格拉尼娅的追逐》那样的悲剧——年迈的芬恩被年轻的未婚妻抛弃，多年追猎私奔的部下，最终坐视他伤重而死——也有他的儿子诗人莪相、孙子奥斯卡的传奇。约1200年的长篇框架故事《长老絮谈》让活过数百年的费奥纳遗老凯尔提与莪相随圣帕特里克同行爱尔兰，逐地讲述费奥纳的旧事。\n\n在后世民间故事里芬恩渐渐变成巨人：北爱尔兰安特里姆海岸约四万根六边形玄武岩柱被解释成他修往苏格兰的堤道——巨人堤道，好去挑战苏格兰巨人贝南多纳。另一支传说说他与战团在洞穴中沉睡，号角三响之日便会醒来救助爱尔兰。",
+    "en": "Fionn mac Cumhaill is the central figure of the Fenian Cycle and captain of the Fianna, a free war-band that hunted the wilds of Ireland in service to the High King. Born Demne after his father Cumhall fell in battle, he was reared in secret on Slieve Bloom by the druidess Bodhmall and the warrior woman Liath Luachra, and his fair hair earned him the name Fionn, 'the bright one'. The Boyhood Deeds of Fionn tells the turning point: the poet Finnegas, after seven years' angling on the Boyne, at last caught the Salmon of Knowledge, which had eaten the nuts of the nine hazels of wisdom, and set the boy to roast it. Hot fat scalded Fionn's thumb, he put it to his mouth, and the salmon's whole wisdom passed to him. Ever after he had only to bite his thumb to know the truth of a matter.\n\nHe won his captaincy at Tara, where each Samhain the fire-breathing Aillen lulled the court with music and burned the hall. Fionn kept himself awake by pressing a poisoned spearhead to his forehead, and took Aillen's head. The cycle around him holds tragedy as well: in The Pursuit of Diarmuid and Grainne the ageing Fionn hunts his young betrothed and the warrior she eloped with across Ireland, and at the end withholds the healing water while Diarmuid dies. The frame-tale Acallam na Senorach, composed near 1200, has the last of the Fianna, Cailte and Fionn's son Oisin, survive centuries to walk Ireland with St Patrick, telling the old deeds place by place.\n\nLater folklore made Fionn a giant. The forty thousand basalt columns of the Antrim coast are explained as his causeway toward Scotland, built to fight the giant Benandonner: the Giant's Causeway. Another strand insists he never died, but sleeps in a cave with the Fianna until Ireland's need sounds the horn."
+  },
+  "domains": {
+    "zh": [
+      "智慧",
+      "狩猎",
+      "战团",
+      "巨人传说"
+    ],
+    "en": [
+      "Wisdom",
+      "The hunt",
+      "War-band",
+      "Giant lore"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "异能",
+        "en": "Gift"
+      },
+      "value": {
+        "zh": "咬拇指即知万事（智慧鲑鱼所赐）",
+        "en": "Knowledge at the bite of his thumb, from the Salmon of Knowledge"
+      }
+    },
+    {
+      "label": {
+        "zh": "根据地",
+        "en": "Seat"
+      },
+      "value": {
+        "zh": "基尔代尔郡阿伦山",
+        "en": "The Hill of Allen, Co. Kildare"
+      }
+    },
+    {
+      "label": {
+        "zh": "后裔",
+        "en": "Line"
+      },
+      "value": {
+        "zh": "子为诗人莪相，孙为勇士奥斯卡",
+        "en": "Father of the poet Oisin, grandfather of Oscar"
+      }
+    }
+  ],
+  "related": [
+    "tir-na-nog",
+    "oisin",
+    "cu-chulainn"
+  ],
+  "sources": [
+    {
+      "zh": "《芬恩少年事迹》（Macgnímartha Finn，12世纪）",
+      "en": "Macgnimartha Finn (The Boyhood Deeds of Fionn), 12th century"
+    },
+    {
+      "zh": "《长老絮谈》（Acallam na Senórach，约1200年）",
+      "en": "Acallam na Senorach (Tales of the Elders of Ireland), c. 1200"
+    }
+  ],
+  "geo": {
+    "lat": 53.294,
+    "lon": -6.821,
+    "label": {
+      "zh": "阿伦山（基尔代尔郡）",
+      "en": "Hill of Allen, Co. Kildare"
+    }
+  },
+  "image": {
+    "file": "/images/entries/fionn-mac-cumhaill.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Finn_Mccool_Comes_to_Aid_the_Fianna.png",
+    "sourceTitle": "Finn Mccool Comes to Aid the Fianna",
+    "artist": "Stephen Reid",
+    "license": "Public domain",
+    "width": 683,
+    "height": 1000
+  }
+}

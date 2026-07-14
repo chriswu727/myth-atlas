@@ -1,0 +1,103 @@
+{
+  "id": "dangun",
+  "tradition": "korean",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "檀君",
+    "en": "Dangun",
+    "original": "단군왕검（檀君王儉）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "古朝鲜的开国始祖",
+    "en": "Founding King of Gojoseon"
+  },
+  "summary": {
+    "zh": "古朝鲜的开国始祖，天神桓雄与熊女之子，传说于公元前2333年建国，晚年归隐阿斯达山中化为山神。",
+    "en": "Legendary founder of Gojoseon, son of the heavenly prince Hwanung and the bear-woman Ungnyeo; tradition dates his kingdom to 2333 BCE, and he ended his days as a mountain god."
+  },
+  "description": {
+    "zh": "《三国遗事·纪异》引《古记》：天帝桓因的庶子桓雄想下界治理人间，桓因俯察三危、太伯，认为可以弘益人间，便授他天符印三件。桓雄率三千徒众降在太伯山顶的神坛树下，号神市，与风伯、雨师、云师一起分掌谷物、性命、疾病、刑罚、善恶等三百六十余事。熊女化为人身后在坛树下祷告求子，桓雄暂化人形与她成婚，生下的孩子便是檀君王俭。\n\n檀君以平壤城为都，国号朝鲜，后迁都阿斯达。传说他治国一千五百年，周武王封箕子于朝鲜后，他迁往藏唐京，最终归隐阿斯达山中化为山神，享年一千九百零八岁。《三国遗事》把开国之年系于中国尧帝在位时期，后世推算为公元前2333年；韩国以此为檀纪元年，10月3日开天节至今是法定假日。\n\n《三国遗事》与《帝王韵纪》都成书于十三世纪蒙古压境的年代，把檀君立为全半岛共同的始祖，此后每逢外患，这套叙事就被重新唤起。江华岛摩尼山顶的堑星坛相传是檀君祭天之处，黄海道九月山建有祭祀桓因、桓雄、檀君的三圣祠；朝鲜民主主义人民共和国则于1993年宣布在平壤近郊发掘出檀君陵。",
+    "en": "The Samguk Yusa, quoting an older record, tells how Hwanung, a son of the heavenly ruler Hwanin, longed to govern the human world. Hwanin looked down on the peaks of Samwi and Taebaek, judged that his son could broadly benefit humankind, and gave him three heavenly seals. Hwanung descended with three thousand followers to the divine tree on the summit of Mount Taebaek, founded the City of God, and with the lords of wind, rain, and clouds administered some 360 human affairs. When the bear-woman Ungnyeo prayed for a child beneath the tree, Hwanung briefly took human form and married her; their son was Dangun Wanggeom.\n\nDangun made his capital at Pyongyang, named his realm Joseon, and later moved the seat to Asadal. He is said to have ruled for 1,500 years before withdrawing into the mountains of Asadal as a mountain god, aged 1,908. Later reckoning fixed the founding in 2333 BCE, year one of the Dangi calendar; October 3, National Foundation Day, remains a public holiday in South Korea.\n\nBoth the Samguk Yusa and the Jewang Ungi were compiled in the thirteenth century under Mongol pressure, and they cast Dangun as the shared ancestor of the whole peninsula, a narrative revived in every later crisis. The Chamseongdan altar on Manisan, Ganghwa Island, is held to be where he sacrificed to heaven, and a shrine to Hwanin, Hwanung, and Dangun stands on Mount Guwol; in 1993 North Korea announced the excavation of a Tomb of Dangun near Pyongyang."
+  },
+  "domains": {
+    "zh": [
+      "开国始祖",
+      "王权",
+      "山神",
+      "民族象征"
+    ],
+    "en": [
+      "Founding ancestor",
+      "Kingship",
+      "Mountain god",
+      "National symbol"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "天神桓雄与熊女",
+        "en": "The heavenly prince Hwanung and the bear-woman Ungnyeo"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说建国之年",
+        "en": "Traditional founding date"
+      },
+      "value": {
+        "zh": "公元前2333年（檀纪元年）",
+        "en": "2333 BCE, year one of the Dangi calendar"
+      }
+    },
+    {
+      "label": {
+        "zh": "初见文献",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《三国遗事》（1281年）",
+        "en": "Samguk Yusa (1281)"
+      }
+    }
+  ],
+  "related": [
+    "ungnyeo",
+    "asadal",
+    "cheonbuin",
+    "jumong"
+  ],
+  "sources": [
+    {
+      "zh": "一然《三国遗事·纪异·古朝鲜》（1281年）",
+      "en": "Iryeon, Samguk Yusa, 'Gojoseon' (1281)"
+    },
+    {
+      "zh": "李承休《帝王韵纪》（1287年）",
+      "en": "Yi Seung-hyu, Jewang Ungi (1287)"
+    }
+  ],
+  "geo": {
+    "lat": 37.607,
+    "lon": 126.435,
+    "label": {
+      "zh": "江华岛摩尼山堑星坛",
+      "en": "Chamseongdan altar, Manisan, Ganghwa Island"
+    }
+  },
+  "image": {
+    "file": "/images/entries/dangun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Dangun.jpg",
+    "sourceTitle": "Portrait of Dangun",
+    "artist": "Chae Yong-sin (1850-1941)",
+    "license": "Public domain",
+    "width": 554,
+    "height": 1000
+  }
+}

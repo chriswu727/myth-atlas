@@ -1,0 +1,105 @@
+{
+  "id": "brigid",
+  "tradition": "celtic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "布丽吉德",
+    "en": "Brigid",
+    "original": "Brigit",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "诗歌、锻冶与医术的三位一体女神",
+    "en": "Threefold goddess of poetry, smithcraft and healing"
+  },
+  "summary": {
+    "zh": "达格达之女，司诗歌、锻冶与医术，约900年的《科尔马克词汇集》称有三位同名姊妹。她与基尔代尔的圣布丽吉德合流，圣火与圣井的崇拜延续至今。",
+    "en": "Daughter of the Dagda, patron of poets, smiths and healers; Cormac's Glossary (c. 900) names three sisters called Brigit. Her cult merged with St Brigid of Kildare, whose flame and holy wells are still tended."
+  },
+  "description": {
+    "zh": "布丽吉德是达格达的女儿，爱尔兰神话中最受敬爱的女神之一。约成书于900年的《科尔马克词汇集》（Sanas Cormaic）给出最早的系统描述：诗人们崇奉的女诗人布丽吉特，另有两位同名姊妹，一司医术，一司锻冶——三种在早期爱尔兰社会最受尊崇的技艺，都归在这一个名字之下。词条并说，正因她声名极盛，“布丽吉特”一度是爱尔兰人对一切女神的称呼。她的名字源于原始凯尔特语“至高者”（Briganti），与不列颠北部部族崇拜的女神布里甘提亚同源。\n\n《入侵之书》等文献里她嫁给半弗摩尔血统的国王布雷斯，儿子鲁阿丹在莫伊图拉之战中偷袭铁匠神戈布纽反被杀，布丽吉德在阵前恸哭——传统认为这是爱尔兰哭丧习俗（caoineadh）的起源。\n\n她最深远的遗产在于与基督教圣人的合流。基尔代尔的圣布丽吉德（约451–525）承接了女神的名字、圣火与二月一日的节期：异教的因博尔克节（Imbolc，迎接产羔与春天）变成了圣布丽吉德节，用灯芯草编的布丽吉德十字至今仍挂在爱尔兰人家门上驱火避灾。12世纪的威尔士的杰拉尔德记载，基尔代尔有十九名修女轮流看守一团永不熄灭的圣火。2023年起，圣布丽吉德节成为爱尔兰的公共假日。",
+    "en": "Brigid is a daughter of the Dagda and among the most beloved figures of the Irish pantheon. The earliest systematic account is in Sanas Cormaic, Cormac's Glossary, compiled around 900: Brigit the female poet worshipped by the filid, with two sisters of the same name, one a healer, one a smith, so that the three most honoured crafts of early Ireland gathered under a single name. The glossary adds that her fame was such that 'Brigit' served the Irish as a word for any goddess. The name descends from a Proto-Celtic word meaning 'the exalted one' and is cognate with Brigantia, the tribal goddess of northern Britain.\n\nIn Lebor Gabala Erenn and related texts she is married to Bres, the half-Fomorian king. When her son Ruadan was killed after wounding the smith-god Goibniu at Mag Tuired, Brigid wept aloud over the battlefield, and tradition counts her lament the first keening heard in Ireland.\n\nHer longest shadow falls through her merger with a Christian saint. Brigid of Kildare (c. 451-525) inherited the goddess's name, her fire, and her feast: the pagan quarter-day Imbolc on 1 February, marking lambing and the first stir of spring, became St Brigid's Day, when crosses woven of rushes are hung over doorways against fire and harm. Gerald of Wales recorded in the twelfth century that nineteen nuns at Kildare kept a flame perpetually alight in her honour. Since 2023 the feast has been a public holiday in Ireland."
+  },
+  "domains": {
+    "zh": [
+      "诗歌",
+      "锻冶",
+      "医术",
+      "春之节令"
+    ],
+    "en": [
+      "Poetry",
+      "Smithcraft",
+      "Healing",
+      "Springtime"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "节庆",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "二月一日因博尔克节／圣布丽吉德节",
+        "en": "Imbolc / St Brigid's Day, 1 February"
+      }
+    },
+    {
+      "label": {
+        "zh": "象征",
+        "en": "Emblems"
+      },
+      "value": {
+        "zh": "灯芯草十字、圣火、圣井",
+        "en": "Rush cross, perpetual flame, holy wells"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Cult centre"
+      },
+      "value": {
+        "zh": "基尔代尔（Cill Dara，“橡树教堂”）",
+        "en": "Kildare (Cill Dara, 'church of the oak')"
+      }
+    }
+  ],
+  "related": [
+    "dagda",
+    "lugh"
+  ],
+  "sources": [
+    {
+      "zh": "《科尔马克词汇集》（Sanas Cormaic，约900年）",
+      "en": "Sanas Cormaic (Cormac's Glossary), c. 900"
+    },
+    {
+      "zh": "《入侵之书》（Lebor Gabála Érenn）",
+      "en": "Lebor Gabala Erenn (The Book of Invasions)"
+    },
+    {
+      "zh": "威尔士的杰拉尔德《爱尔兰地志》（Topographia Hibernica，12世纪）",
+      "en": "Gerald of Wales, Topographia Hibernica, 12th century"
+    }
+  ],
+  "geo": {
+    "lat": 53.158,
+    "lon": -6.91,
+    "label": {
+      "zh": "基尔代尔",
+      "en": "Kildare"
+    }
+  },
+  "image": {
+    "file": "/images/entries/brigid.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Duncan_(1913)_Saint_Bride.jpg",
+    "sourceTitle": "Saint Bride title QS:P1476,en:\"Saint Bride \"label QS:Len,\"Saint Bride \"label QS:Lru,\"Святая Бригита\"label QS:Lhe,\"הכלה הקדושה\"",
+    "artist": "John Duncan",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 844
+  }
+}

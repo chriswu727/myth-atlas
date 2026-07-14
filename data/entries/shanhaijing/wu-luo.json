@@ -1,0 +1,99 @@
+{
+  "id": "wu-luo",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "武罗",
+    "en": "Wuluo"
+  },
+  "title": {
+    "zh": "司掌天帝密都的豹纹山神",
+    "en": "Leopard-Marked Warden of the Supreme God's Hidden Capital"
+  },
+  "summary": {
+    "zh": "青要山之神，人面豹纹，细腰白齿，耳穿金环，声如鸣玉；其山是天帝在人间的密都，又“宜女子”。",
+    "en": "Warden spirit of Mount Qingyao — human face over leopard markings, slim waist, white teeth, metal earrings, a voice like chiming jade; the mountain is the supreme god's hidden capital and 'befits women.'"
+  },
+  "description": {
+    "zh": "《中次三经》记青要之山“实惟帝之密都”——天帝设在人间的隐秘居城。司掌此山的神叫武罗：“其状人面而豹文，小要而白齿，而穿耳以鐻，其鸣如鸣玉。”人的面孔，身上是豹的斑纹，腰细，牙白，耳朵上穿着金属环子，声音像玉佩相击。\n\n经文接着说“是山也，宜女子”。畛水从山中北流入黄河，水边的鴢鸟食之宜子，山上的荀草服之美人色。细腰、白齿、耳环、玉声，加上一座宜于女子的山，历来读者多把武罗读作女神。祭祀她与泰逢、熏池同礼：一牡羊副，婴用吉玉。\n\n青要之山南望墠渚，经文说那里是“禹父之所化”——鲧死后形销所化之处。一座山上叠着天帝的密都与鲧的遗迹，武罗看守的是中山经里来历显赫的一片山水。",
+    "en": "Mount Qingyao, the classic states, is 'the secret capital of the supreme god' on earth. Its warden is the spirit Wuluo: a human face over leopard markings, a slender waist and white teeth, ears pierced with metal rings, and a voice like the chiming of jade pendants.\n\nThe text adds that the mountain 'befits women.' The Zhen River rises there and flows north to the Yellow River; the yao bird of its waters, when eaten, blesses one with children, and the xun grass of its slopes gives a lovely complexion. The slim waist, white teeth, earrings and jade voice have led readers through the ages to take Wuluo for a goddess. Her cult matches Taifeng's: a ram cleft in sacrifice, fine jade presented to the god.\n\nFrom Qingyao one looks south to Shanzhu, which the classic marks as the place where Yu's father Gun was transformed after death. A god's hidden capital above and Gun's relic in view — Wuluo keeps a storied stretch of the central mountains."
+  },
+  "domains": {
+    "zh": [
+      "山神",
+      "帝之密都",
+      "女神"
+    ],
+    "en": [
+      "Mountain Spirits",
+      "The God's Hidden Capital",
+      "Goddesses"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "青要之山，帝之密都",
+        "en": "Mount Qingyao, the god's secret capital"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人面豹文，小腰白齿",
+        "en": "Human face, leopard markings, slim waist, white teeth"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如鸣玉",
+        "en": "Like chiming jade"
+      }
+    },
+    {
+      "label": {
+        "zh": "祠礼",
+        "en": "Rite"
+      },
+      "value": {
+        "zh": "一牡羊副，婴用吉玉",
+        "en": "A ram cleft in sacrifice, fine jade to greet the god"
+      }
+    }
+  ],
+  "related": [
+    "tai-feng",
+    "fu-zhu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/wu-luo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic29_-_%E6%AD%A6%E7%BE%85%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic29 - 武羅神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 683,
+    "height": 1000
+  }
+}

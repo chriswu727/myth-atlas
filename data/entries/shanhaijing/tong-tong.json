@@ -1,0 +1,104 @@
+{
+  "id": "tong-tong",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "狪狪",
+    "en": "Tongtong"
+  },
+  "title": {
+    "zh": "腹中怀珠的泰山之豕",
+    "en": "The Pig of Mount Tai That Carries Pearls in Its Body"
+  },
+  "summary": {
+    "zh": "东次一经泰山上的怪兽，形状像猪，体内却孕育珍珠，叫声像在喊自己的名字。郭璞赞其“被褐怀珠”。",
+    "en": "A beast of Mount Tai in the eastern first guideway: shaped like a pig, yet it grows pearls inside its body, and its cry names itself. Guo Pu's verse praises it as 'clad in coarse cloth, harbouring pearls'."
+  },
+  "description": {
+    "zh": "东次一经行到泰山：山上多玉，山下多金，环水从这里发源，东流注于江，水中多产水晶。山中有兽，形状就是一头猪，名叫狪狪，叫声像在喊自己的名字。它的奇处只有一样——“有珠”，身体里长珍珠。蚌孕珠于壳，狪狪孕珠于豕腹，一身粗粝皮毛裹着光润之物。\n\n郭璞《山海经图赞》给了它一句著名的评语：“狪狪如豚，被褐怀珠。”“被褐怀玉”本是《老子》形容圣人外陋内美的话，郭璞顺手移给这头猪，从此狪狪在历代图本和杂纂里都带着一点寓言气味：大智若愚、外朴内华的兽形注脚。至于珠从何来、如何取得，经文一字不提——没有说它可食，也没有说珠可采，这头行走的珠胎只是被记录在案。\n\n东次一经这座泰山，注家一般认为就是今天山东的东岳泰山，环水即山间涧流。五岳之首的名山在《山海经》里的全部出产，除了金玉，就是这样一头怀珠的猪。",
+    "en": "The first eastern guideway arrives at Mount Tai: jade above, gold below, and the source of the Huan River, which flows east into the Jiang, its waters full of rock crystal. The mountain's beast is, to all appearances, simply a pig. It is called the tongtong, its cry sounds like its own name, and it has exactly one marvel: 'it has pearls' — pearls that grow inside its body. As the oyster gestates its pearl in a shell, the tongtong gestates its treasure in a pig's belly, coarse bristles wrapped around something lustrous.\n\nGuo Pu's verse encomium fixed its reputation in eight characters: 'The tongtong is like a pig — clad in coarse cloth, harbouring pearls.' The phrase adapts the Laozi's image of the sage who wears rough homespun over hidden jade, and it lent the animal a lasting fable-like flavour in later illustrated editions: a beast-shaped footnote on plain exteriors and hidden worth. How the pearls form, and whether they can be harvested, the text never says. It does not even offer the usual note on edibility. The walking pearl-womb is simply entered into the record.\n\nCommentators generally take this Mount Tai to be the actual Eastern Peak in Shandong, the Huan a mountain stream on its slopes. In the Classic of Mountains and Seas, the foremost of the Five Sacred Peaks produces, besides gold and jade, precisely one wonder: a pig with pearls inside."
+  },
+  "domains": {
+    "zh": [
+      "珍宝",
+      "泰山",
+      "外朴内华",
+      "东山"
+    ],
+    "en": [
+      "Treasures",
+      "Mount Tai",
+      "Hidden Worth",
+      "Eastern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如豚而体内有珠",
+        "en": "Pig-like, with pearls growing inside"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "其鸣自訆，如唤己名",
+        "en": "Its cry calls its own name"
+      }
+    },
+    {
+      "label": {
+        "zh": "名句",
+        "en": "Famous line"
+      },
+      "value": {
+        "zh": "郭璞赞：被褐怀珠",
+        "en": "Guo Pu: 'clad in coarse cloth, harbouring pearls'"
+      }
+    }
+  ],
+  "related": [
+    "dang-kang",
+    "fei",
+    "he-luo-yu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次一经·泰山）",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Mount Tai)"
+    },
+    {
+      "zh": "郭璞《山海经图赞》",
+      "en": "Guo Pu, Verse Encomia on the Classic of Mountains and Seas"
+    }
+  ],
+  "geo": {
+    "lat": 36.25,
+    "lon": 117.1,
+    "label": {
+      "zh": "泰山（山东泰安）",
+      "en": "Mount Tai, Tai'an, Shandong"
+    }
+  },
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/tong-tong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic281_-_%E7%8B%AA%E7%8B%AA%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic281 - 狪狪圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 661,
+    "height": 1000
+  }
+}

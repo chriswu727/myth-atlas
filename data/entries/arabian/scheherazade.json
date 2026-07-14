@@ -1,0 +1,98 @@
+{
+  "id": "scheherazade",
+  "tradition": "arabian",
+  "type": "hero",
+  "era": "folk",
+  "name": {
+    "zh": "山鲁佐德",
+    "en": "Scheherazade",
+    "original": "شهرزاد",
+    "originalLang": "阿拉伯语（名字源自波斯语）"
+  },
+  "title": {
+    "zh": "用故事换取黎明的讲述者",
+    "en": "The teller who bought each dawn with a story"
+  },
+  "summary": {
+    "zh": "《一千零一夜》的框架主角。国王山鲁亚尔每晨处死新娶之妻，宰相之女山鲁佐德自愿入宫，每夜讲故事而在破晓处停住，一千零一夜后刀始终没有落下。",
+    "en": "The frame heroine of the Thousand and One Nights. King Shahriyar weds and kills a bride each dawn; the vizier's daughter volunteers, tells stories that break off at daybreak, and after 1001 nights the sword never falls."
+  },
+  "description": {
+    "zh": "框架故事说，国王山鲁亚尔撞见王后与奴仆私通，将其处死后立下规矩：每夜娶一名处女，翌晨即杀，以绝背叛之患。三年后城中女子或死或逃，负责物色新娘的宰相回家发愁，长女山鲁佐德请求出嫁。书里说她读过千卷书，历代帝王的传记、诗歌、哲学与医药无不涉猎。入宫当夜，她安排妹妹敦亚佐德在座，按约请姐姐讲个故事消夜——故事讲到最要紧处，天亮了，依例该行刑的时刻，国王想知道下文，便留她一命。如此夜复一夜，故事套着故事：商人与精灵、渔夫与魔鬼、脚夫与三个巴格达女郎……一千零一夜过去，她已为王生下孩子，国王赦免了她，也放下了屠刀。\n\n这一框架的年头远比多数故事古老。十世纪的两部著作——马苏第的《黄金草原》与伊本·纳迪姆的《书目》——都提到一部由波斯语《千个故事》（Hazār Afsān）译来的书，主角名字正是山鲁佐德；伊本·纳迪姆还嫌它“粗陋”。现存最早的实物证据是一页九世纪的纸残片，1949年由学者纳比娅·阿博特刊布，上有书名《千夜谈》与敦亚佐德催促讲故事的开场。\n\n山鲁佐德由此成为“叙事本身”的化身：讲下去，就活下去。里姆斯基-科萨科夫1888年的交响组曲用独奏小提琴给了她一个旋律，博尔赫斯反复引用第六〇二夜——传说在那一夜，故事讲回了故事自己的开头。",
+    "en": "The frame tale runs: King Shahriyar, finding his queen unfaithful, has her executed and resolves to marry a virgin each night and kill her at dawn, so that no wife will ever betray him. After three years the city is emptied of daughters, and the vizier charged with finding brides despairs — until his elder daughter Scheherazade volunteers. She has read a thousand books, the histories of kings, poetry, philosophy and medicine. On her wedding night she arranges for her sister Dunyazade to sit with them and beg, as agreed, for one story to pass the night. The story reaches its crisis exactly at daybreak, the appointed hour of execution, and the king stays the sword to hear the rest. Night follows night, tale nested in tale — the merchant and the jinni, the fisherman, the porter and the three ladies of Baghdad — until after a thousand and one she has borne the king children and he formally renounces the killing.\n\nThe frame is far older than most of its contents. Two tenth-century works, al-Mas'udi's Meadows of Gold and Ibn al-Nadim's Fihrist, describe a book translated from the Persian Hazar Afsan, 'A Thousand Tales', whose heroine bears this name; Ibn al-Nadim sniffs at it as a coarse book. The oldest physical witness is a ninth-century paper fragment, published by the scholar Nabia Abbott in 1949, carrying the title 'A Thousand Nights' and Dunyazade's opening plea for a story.\n\nScheherazade became the figure of narrative itself: keep telling, keep living. Rimsky-Korsakov's 1888 suite gave her a solo violin for a voice, and Borges liked to cite the (legendary) six hundred and second night, on which the story is said to loop back to its own beginning."
+  },
+  "domains": {
+    "zh": [
+      "讲故事",
+      "框架叙事",
+      "机智",
+      "缓刑"
+    ],
+    "en": [
+      "Storytelling",
+      "Frame narrative",
+      "Wit",
+      "Stay of execution"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "身份",
+        "en": "Station"
+      },
+      "value": {
+        "zh": "宰相长女，饱读千卷书",
+        "en": "The vizier's elder daughter, read in a thousand books"
+      }
+    },
+    {
+      "label": {
+        "zh": "同盟",
+        "en": "Ally"
+      },
+      "value": {
+        "zh": "妹妹敦亚佐德，每夜按约起头",
+        "en": "Her sister Dunyazade, prompter of each night's tale"
+      }
+    },
+    {
+      "label": {
+        "zh": "手法",
+        "en": "Method"
+      },
+      "value": {
+        "zh": "故事在破晓处悬停",
+        "en": "Breaking the story off at daybreak"
+      }
+    }
+  ],
+  "related": [
+    "sinbad",
+    "aladdin-lamp",
+    "jinn"
+  ],
+  "sources": [
+    {
+      "zh": "马苏第《黄金草原》（约947）；伊本·纳迪姆《书目》（约987）",
+      "en": "Al-Mas'udi, Meadows of Gold, c. 947; Ibn al-Nadim, Fihrist, c. 987"
+    },
+    {
+      "zh": "9世纪《千夜谈》纸残片（纳比娅·阿博特1949年刊布）",
+      "en": "Ninth-century paper fragment of 'A Thousand Nights', published by Nabia Abbott, 1949"
+    },
+    {
+      "zh": "《一千零一夜》框架故事",
+      "en": "The frame tale of the Thousand and One Nights"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/scheherazade.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scheherazade.jpg",
+    "sourceTitle": "Scheherazade",
+    "artist": "Edmund Dulac",
+    "license": "Public domain",
+    "width": 469,
+    "height": 1000
+  }
+}

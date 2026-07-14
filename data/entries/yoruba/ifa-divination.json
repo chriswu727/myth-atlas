@@ -1,0 +1,117 @@
+{
+  "id": "ifa-divination",
+  "tradition": "yoruba",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "伊法占卜",
+    "en": "Ifa Divination",
+    "original": "Ifá",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "十六圣果与二百五十六卦的占卜体系",
+    "en": "The Divination System of Sixteen Nuts and 256 Odu"
+  },
+  "summary": {
+    "zh": "以十六枚圣棕榈果或八瓣奥佩莱链起卦的占卜体系，256个卦象\"奥杜\"各系一库口传诗文，由巴巴拉沃毕生背诵。2008年列入人类非物质文化遗产名录。",
+    "en": "Divination by sixteen sacred palm nuts or the eight-shell opele chain, casting one of 256 odu, each heading a corpus of memorized verses recited by babalawo priests. Inscribed on UNESCO's intangible heritage list in 2008."
+  },
+  "description": {
+    "zh": "伊法占卜由称作\"巴巴拉沃\"——\"秘密之父\"——的祭司主持。他在雕花木盘\"奥彭伊法\"上铺开伊耶罗孙木粉，两手交替抓取十六枚圣棕榈果，依掌中余数在粉上画下单双刻痕；八瓣半壳串成的奥佩莱链是更快捷的起卦法。八画成卦，得出256个\"奥杜\"之一，巴巴拉沃随即背诵该卦名下的经文诗节，求问者自行从故事里认领自己的处境，最后按卦象指示献祭，祭品经埃舒之手转呈上天。\n\n这套体系的主神是智慧奥里沙奥伦米拉，尊号\"埃莱里伊平\"——命运的见证者：他亲见创世，也亲见每个灵魂在天上跪选自己的命运，因此唯有他能替人查明正途。256个奥杜名下的诗文涵盖神话、医药、历史与格言，全凭记忆传承，一名巴巴拉沃的养成常需十年以上。\n\n伊法向西传入丰人与埃维人地区，演化为\"法\"与\"阿法\"占卜；被贩往古巴的巴巴拉沃把整套体系带过了大西洋。2005年联合国教科文组织宣布伊法占卜体系为人类口头与非物质遗产代表作，2008年列入代表作名录。伊费城中的奥凯伊塔塞山至今是全体伊法祭司之首\"阿拉巴\"的驻地。",
+    "en": "Ifa divination is conducted by a priest called a babalawo, 'father of secrets'. He spreads iyerosun wood powder on a carved tray, the opon Ifa, and beats sixteen sacred palm nuts between his hands, marking single or double strokes in the powder according to the remainder left in his palm; a chain of eight seed half-shells, the opele, serves as a faster instrument. Eight marks make a figure: one of 256 odu, each the heading of a body of memorized verses. The babalawo recites the verses of the odu that has appeared, the client recognizes his own case among their stories, and the prescribed sacrifice goes up to heaven through Eshu.\n\nThe system belongs to Orunmila, orisha of wisdom, titled Eleri Ipin, 'witness of destiny': he watched creation and watched every soul kneel to choose its fate, so only he can point the way back to it. The verses of the 256 odu hold myth, medicine, history, and proverb, all carried by memory; training a babalawo commonly takes more than a decade.\n\nIfa spread westward into Fon and Ewe country as Fa and Afa, and enslaved babalawos carried the full system to Cuba. UNESCO proclaimed the Ifa divination system a Masterpiece of the Oral and Intangible Heritage of Humanity in 2005 and inscribed it on the Representative List in 2008. Oke Itase hill in Ile-Ife remains the seat of the Araba, senior priest of Ifa."
+  },
+  "domains": {
+    "zh": [
+      "占卜",
+      "命运",
+      "智慧",
+      "口传经文"
+    ],
+    "en": [
+      "Divination",
+      "Destiny",
+      "Wisdom",
+      "Oral scripture"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "器具",
+        "en": "Instruments"
+      },
+      "value": {
+        "zh": "奥彭伊法神盘、十六枚圣棕榈果、奥佩莱链",
+        "en": "Opon Ifa tray, sixteen sacred palm nuts, opele chain"
+      }
+    },
+    {
+      "label": {
+        "zh": "卦象",
+        "en": "Figures"
+      },
+      "value": {
+        "zh": "256个奥杜，各系一库诗文",
+        "en": "256 odu, each with its corpus of verses"
+      }
+    },
+    {
+      "label": {
+        "zh": "主持者",
+        "en": "Officiant"
+      },
+      "value": {
+        "zh": "巴巴拉沃（\"秘密之父\"）",
+        "en": "Babalawo, 'father of secrets'"
+      }
+    },
+    {
+      "label": {
+        "zh": "主神",
+        "en": "Presiding orisha"
+      },
+      "value": {
+        "zh": "奥伦米拉，命运的见证者",
+        "en": "Orunmila, witness of destiny"
+      }
+    }
+  ],
+  "related": [
+    "eshu",
+    "olodumare",
+    "oshun",
+    "ile-ife"
+  ],
+  "sources": [
+    {
+      "zh": "威廉·巴斯科姆《伊法占卜：西非神人之间的沟通》（1969）",
+      "en": "William Bascom, Ifa Divination: Communication Between Gods and Men in West Africa (1969)"
+    },
+    {
+      "zh": "万德·阿宾博拉《伊法：伊法文学体系述论》（1976）",
+      "en": "Wande Abimbola, Ifa: An Exposition of Ifa Literary Corpus (1976)"
+    },
+    {
+      "zh": "联合国教科文组织人类非物质文化遗产代表作名录：伊法占卜体系（2008）",
+      "en": "UNESCO Representative List of the Intangible Cultural Heritage: the Ifa divination system (2008)"
+    }
+  ],
+  "geo": {
+    "lat": 7.48,
+    "lon": 4.56,
+    "label": {
+      "zh": "奥凯伊塔塞山（伊费）",
+      "en": "Oke Itase, Ile-Ife"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ifa-divination.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yoruba_divination_tray_(Bode-Museum).jpg",
+    "sourceTitle": "Yoruba divination tray (Bode-Museum)",
+    "artist": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "width": 848,
+    "height": 1000
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "maat",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "玛亚特",
+    "en": "Maat",
+    "original": "mꜣꜥt",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "真理与秩序的化身",
+    "en": "Personification of Truth and Order"
+  },
+  "summary": {
+    "zh": "头插一根鸵鸟羽毛的女神，人格化的真理、正义与宇宙秩序。冥界审判中，死者的心脏就与她的羽毛同置天平两端称量。",
+    "en": "The goddess wearing a single ostrich feather, personifying truth, justice, and cosmic order; at the judgment of the dead the heart is weighed against her feather."
+  },
+  "description": {
+    "zh": "玛亚特是一位坐姿或立姿的女神，标志是头顶直插的一根鸵鸟羽毛，有时双臂生翼。她的名字本身就是埃及思想的核心词汇：maat 兼指真理、正义、平衡与创世时确立的宇宙秩序，反义词是 isfet——混乱、谎言与暴力。埃及人相信，太阳按时升起、尼罗河按时泛滥、人间讼案得直，都是玛亚特得到维护的表现。\n\n她被称为拉的女儿，在太阳船上随行；维护玛亚特是法老统治合法性的根据，神庙浮雕中最常见的王室献祭场景，就是法老向神祇捧献一尊掌上大小的玛亚特坐像，表示自己治下秩序井然。司法官员称'玛亚特之祭司'，维齐尔（宰相）兼任最高法官时佩戴她的像。中王国文学名篇《能言善辩的农夫》里，小民据理力争的核心诉求就是官府应当'行玛亚特'。\n\n在《亡灵书》第125章描绘的审判中，她无处不在：审判厅名为'双重玛亚特之殿'，四十二位陪审神听取死者逐条否认罪行的'否定忏悔'，天平一端放死者的心脏，另一端就放玛亚特的羽毛——心脏若不比羽毛重，死者即被宣告'声音真实'，得入芦苇之野。",
+    "en": "Maat is a seated or standing goddess marked by a single upright ostrich feather on her head, sometimes with winged arms. Her name is itself the central term of Egyptian thought: maat covers truth, justice, balance, and the cosmic order fixed at creation, opposed to isfet — chaos, falsehood, violence. That the sun rose on time, that the Nile flooded on schedule, that lawsuits were justly settled: all were signs that maat was being upheld.\n\nShe was called the daughter of Ra and rode in the solar barque. Upholding maat was the charter of royal legitimacy, and the most common royal offering scene on temple walls shows the pharaoh presenting a palm-sized seated figurine of Maat to a god, a declaration that his rule kept the world in order. Judges bore the title 'priest of Maat,' and the vizier wore her image when sitting as chief magistrate. In the Middle Kingdom classic 'The Eloquent Peasant,' the wronged commoner's refrain is precisely that officials must 'do maat.'\n\nIn the judgment described in Book of the Dead spell 125 she is everywhere: the tribunal sits in the Hall of the Two Maats, forty-two assessor gods hear the deceased deny a list of sins, and on the scales the heart is weighed against nothing other than the feather of Maat. If the heart is no heavier than the feather, the dead person is declared 'true of voice' and passes to the Field of Reeds."
+  },
+  "domains": {
+    "zh": [
+      "真理",
+      "正义",
+      "秩序",
+      "平衡"
+    ],
+    "en": [
+      "Truth",
+      "Justice",
+      "Order",
+      "Balance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbol"
+      },
+      "value": {
+        "zh": "鸵鸟羽毛",
+        "en": "Ostrich feather"
+      }
+    },
+    {
+      "label": {
+        "zh": "对立概念",
+        "en": "Opposite"
+      },
+      "value": {
+        "zh": "伊斯菲特（混乱与不义）",
+        "en": "Isfet (chaos and injustice)"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "古王国《金字塔铭文》",
+        "en": "Old Kingdom Pyramid Texts"
+      }
+    }
+  ],
+  "related": [
+    "ra",
+    "thoth",
+    "osiris",
+    "weighing-of-the-heart"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《亡灵书》第125章",
+      "en": "Book of the Dead, spell 125"
+    },
+    {
+      "zh": "《能言善辩的农夫》（中王国）",
+      "en": "The Eloquent Peasant, Middle Kingdom"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/maat.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Goddess_Maat_in_Seti_II%E2%80%99s_KV15_Tomb.jpg",
+    "sourceTitle": "The Goddess Maat in Seti II’s KV15 Tomb",
+    "artist": "Tobeytravels",
+    "license": "CC BY-SA 2.0",
+    "width": 668,
+    "height": 1000
+  }
+}

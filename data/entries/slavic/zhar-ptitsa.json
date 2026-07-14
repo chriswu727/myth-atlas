@@ -1,0 +1,97 @@
+{
+  "id": "zhar-ptitsa",
+  "tradition": "slavic",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "火鸟",
+    "en": "Firebird",
+    "original": "Жар-птица",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "羽毛燃烧如火的神鸟",
+    "en": "The Bird with Feathers of Living Flame"
+  },
+  "summary": {
+    "zh": "俄罗斯故事里的发光神鸟，金红羽毛灼灼如火，一根落羽可照亮暗室；它夜盗金苹果，引出主人公的万里追寻。",
+    "en": "The glowing marvel-bird of Russian tales, whose golden-red plumage burns like fire and whose single feather lights a room; its theft of golden apples launches the hero's quest."
+  },
+  "description": {
+    "zh": "火鸟（俄语\"扎尔-普季察\"，意为\"灼热之鸟\"）是俄罗斯魔法故事里的发光神鸟：羽毛金红，灼灼如燃烧的火焰，一根落羽拿进屋里就能照亮整间暗室。它栖在远方三十国之外的金笼里，夜里飞进王家果园偷食金苹果，由此引出故事的追寻主线。\n\n阿法纳西耶夫辑录的《伊万王子、火鸟与灰狼》讲得最完整：沙皇命三个儿子守园缉盗，幼子伊万拔下一根火羽；为寻火鸟远行，坐骑被灰狼吃掉，灰狼愧而相助，驮着他连闯三国，接连得到火鸟、金鬃马与美丽的叶莲娜公主。归途中两位兄长杀弟夺功，灰狼唤乌鸦衔来死水活水，将伊万救活。叶尔绍夫1834年的诗体童话《驼背小马》里，主人公也奉沙皇之命去捕火鸟。\n\n1910年斯特拉文斯基为佳吉列夫的俄罗斯芭蕾舞团写出成名作《火鸟》，福金编舞：火鸟赠羽相助，王子伊万砸碎藏着魔王卡谢伊性命的巨蛋，魔法花园的石俑尽数复活。此后，金红色的火鸟成了\"俄罗斯风\"的招牌意象，反复出现在比利宾的插画与各类舞台设计里。",
+    "en": "The Firebird (zhar-ptitsa, \"heat-bird\") is the luminous marvel of the Russian wonder tale: its plumage is golden-red and burns like flame, and a single dropped feather carried indoors will light a whole dark room. It roosts in a golden cage in a kingdom beyond the thrice-ninth land, and by night it slips into the tsar's orchard to steal golden apples, which is how the quest begins.\n\nThe fullest telling is Afanasyev's \"Prince Ivan, the Firebird and the Grey Wolf.\" The tsar sets his three sons to guard the orchard; the youngest, Ivan, plucks a fiery feather. Riding out to find the bird he loses his horse to a grey wolf, who in remorse becomes his mount and carries him through three kingdoms, winning in turn the Firebird, the golden-maned horse and the princess Elena. On the way home his elder brothers murder him and take the spoils, and the wolf has a raven fetch the waters of death and life to revive him. In Pyotr Yershov's verse tale The Little Humpbacked Horse (1834) the hero is likewise ordered by the tsar to capture a firebird.\n\nIn 1910 Stravinsky wrote The Firebird for Diaghilev's Ballets Russes, choreographed by Fokine: the grateful bird gives Prince Ivan a feather, he shatters the great egg holding the demon Kashchei's life, and the petrified knights of the magic garden come back to life. The golden-red bird has since become a signature image of the \"Russian style,\" recurring in Ivan Bilibin's illustrations and in stage design ever after."
+  },
+  "domains": {
+    "zh": [
+      "火焰",
+      "光",
+      "追寻",
+      "珍宝"
+    ],
+    "en": [
+      "Fire",
+      "Light",
+      "Quest",
+      "Treasure"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Token"
+      },
+      "value": {
+        "zh": "一根即可照亮暗室的火羽",
+        "en": "A single feather that lights a dark room"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "夜盗王家果园的金苹果",
+        "en": "Steals golden apples from the tsar's orchard by night"
+      }
+    },
+    {
+      "label": {
+        "zh": "代表故事",
+        "en": "Signature tale"
+      },
+      "value": {
+        "zh": "《伊万王子、火鸟与灰狼》",
+        "en": "\"Prince Ivan, the Firebird and the Grey Wolf\""
+      }
+    }
+  ],
+  "related": [
+    "koschei",
+    "baba-yaga"
+  ],
+  "sources": [
+    {
+      "zh": "阿法纳西耶夫《俄罗斯民间故事集》（1855-1863）",
+      "en": "Alexander Afanasyev, Russian Fairy Tales (Narodnye russkie skazki), 1855-63"
+    },
+    {
+      "zh": "叶尔绍夫《驼背小马》（1834）",
+      "en": "Pyotr Yershov, The Little Humpbacked Horse, 1834"
+    },
+    {
+      "zh": "斯特拉文斯基芭蕾《火鸟》（1910）",
+      "en": "Igor Stravinsky, The Firebird (ballet), 1910"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/zhar-ptitsa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firebird_(big).jpeg",
+    "sourceTitle": "Firebird (big)",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 902,
+    "height": 1000
+  }
+}

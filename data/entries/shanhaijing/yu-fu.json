@@ -1,0 +1,41 @@
+{
+  "id": "yu-fu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": { "zh": "鱼妇", "en": "Yufu" },
+  "title": { "zh": "颛顼死而复苏所化的半枯之鱼", "en": "The Half-Withered Fish That Is Zhuanxu Reborn" },
+  "summary": {
+    "zh": "大荒之西一种半边干枯的鱼，名叫鱼妇。北风吹来、泉水大涌时蛇化为鱼，传说颛顼正是趁此死而复苏，托体于鱼。",
+    "en": "A fish in the western wilderness withered along one side, called Yufu. When the north wind blows and springs surge, snakes turn into fish — and the god Zhuanxu, it is said, revived from death by taking this fish body."
+  },
+  "description": {
+    "zh": "大荒西经收着全书最费解的段落之一：「有鱼偏枯，名曰鱼妇。颛顼死即复苏。风道北来，天乃大水泉，蛇乃化为鱼，是为鱼妇。颛顼死即复苏。」有一种鱼半边身子是干枯的，名叫鱼妇；北风吹来，天降大水，泉源涌溢，蛇变化成鱼——短短数十字里，「颛顼死即复苏」重复了两遍，像咒语一样钉住这条鱼与那位大神的关系。\n\n颛顼是黄帝之孙、五帝之一的北方之帝，在大荒诸经里屡屡出现：大荒北经记附禺之山「帝颛顼与九嫔葬焉」，大荒东经说少昊曾在东海之外抚养年幼的颛顼。袁珂《山海经校注》代表通行的解读：颛顼死后，恰逢北风大作、蛇化为鱼之时，趁机把自己托附在鱼的躯体上死而复生，鱼身一半属人、一半属鱼，所以「偏枯」——那干枯的半边，正是死去的神未曾复原的部分。\n\n「偏枯」在古医书里是半身不遂之名，用在这里恰成一语双关。死去的帝借另一副躯壳还魂，这在《山海经》通篇「某某之尸」的死亡名录里是独一份的复活记录；后世文献再没有承接这个故事，鱼妇便停在大荒西部的风与泉水之间，成为全书最孤峭的谜面之一。",
+    "en": "The Great Wilderness: West preserves one of the book's most cryptic passages. There is a fish withered down one side, it says, called Yufu, the Fish-Wife. 'Zhuanxu died and straightway revived.' When the wind comes from the north, the sky rains down and springs gush, and snakes change into fish — thus the Yufu. And then, again, like an incantation: 'Zhuanxu died and straightway revived.' In a few dozen graphs the sentence is repeated twice, nailing the fish to the god.\n\nZhuanxu is the Yellow Emperor's grandson, one of the Five Emperors and lord of the north, a constant presence in these chapters: the northern classic buries him with his nine consorts on Mount Fuyu, and the eastern classic has the young god fostered by Shaohao beyond the Eastern Sea. Yuan Ke's critical commentary states the standard reading: dying just as the north wind rose and snakes were turning into fish, Zhuanxu lodged himself in a fish's body and came back to life. The fish is half human and half fish; the withered side is the part of the dead god that never quite returned.\n\nIn early medical texts 'withered on one side' is the name for hemiplegia, which makes the phrase a grim pun. Among the book's many solemn 'corpses' of slain gods, this is the sole record of a resurrection. No later text ever picked the story up; the Fish-Wife remains where the classic left her, between the north wind and the surging springs, one of the loneliest riddles in the book."
+  },
+  "domains": {
+    "zh": ["复活", "化形", "鱼", "颛顼"],
+    "en": ["Resurrection", "Transformation", "Fish", "Zhuanxu"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "形态", "en": "Form" },
+      "value": { "zh": "鱼而偏枯——半边身子干枯", "en": "A fish withered along one side" }
+    },
+    {
+      "label": { "zh": "化生条件", "en": "Conditions" },
+      "value": { "zh": "风道北来，天乃大水泉，蛇乃化为鱼", "en": "North wind, surging springs, snakes turning into fish" }
+    },
+    {
+      "label": { "zh": "关联大神", "en": "The god involved" },
+      "value": { "zh": "颛顼死即复苏，托体鱼身", "en": "Zhuanxu, who died and revived in the fish's body" }
+    }
+  ],
+  "related": ["huangdi"],
+  "sources": [
+    { "zh": "《山海经·大荒西经》", "en": "Classic of Mountains and Seas, 'Great Wilderness: West'" },
+    { "zh": "袁珂《山海经校注》", "en": "Yuan Ke, Critical Commentary on the Classic of Mountains and Seas" }
+  ],
+  "volume": { "zh": "大荒西经", "en": "Classic of the Great Wilderness: West" },
+  "image": null
+}

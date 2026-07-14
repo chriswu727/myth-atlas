@@ -1,0 +1,99 @@
+{
+  "id": "valkyrie",
+  "tradition": "norse",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "瓦尔基里",
+    "en": "Valkyries",
+    "original": "valkyrja",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "拣选阵亡者的女武神",
+    "en": "Choosers of the Slain"
+  },
+  "summary": {
+    "zh": "奥丁麾下的女性战灵，名字直译「拣选阵亡者的人」。她们驰过战场决定胜负生死，将勇士引入瓦尔哈拉并侍以蜜酒。",
+    "en": "Odin's warrior maidens, literally 'choosers of the slain', who ride over battlefields deciding who falls, then lead the chosen to Valhalla and serve them mead."
+  },
+  "description": {
+    "zh": "瓦尔基里是奥丁麾下的女性战灵，古诺斯语原义「拣选阵亡者的人」。她们披甲执枪，骑马驰过战场上空，依照奥丁的意旨分派胜负、点选战死者，再将入选的勇士护送到瓦尔哈拉，在那里为英灵战士斟递蜜酒。《格里姆尼尔之歌》一口气列出赫丽丝特、密丝特、希尔德、斯露德、斯蔻古尔等十余个名字，多与「战斗」「枪矛」「喧嚣」有关。收入《尼雅尔萨迦》的古诗《长枪之歌》给出最森然的画面：十二名瓦尔基里在织机前织造战局，经线是人肠，锤是刀剑，梭是箭矢。\n\n在英雄诗中她们有了个体的面孔与违命的代价。《西格尔德里弗之歌》里的瓦尔基里违背奥丁的意旨，把胜利判给了不该胜的王，被奥丁以睡棘刺入沉眠，困于盾墙火环之中，直至英雄齐格鲁德闯入唤醒——这一形象与布伦希尔德的传说合流。《沃隆德之歌》则让瓦尔基里化作天鹅少女，褪下羽衣在湖畔纺麻。\n\n十九世纪瓦格纳的歌剧《女武神》（1870年首演）及其《女武神的骑行》一曲，使这一形象成为北欧神话在现代最广为人知的符号之一。",
+    "en": "The valkyries are Odin's warrior spirits; the Old Norse word means 'choosers of the slain'. Armoured and mounted, they ride above the battlefields, allotting victory and death according to Odin's will, then escort the chosen warriors to Valhalla, where they pour mead for the einherjar. The Grimnismal reels off more than a dozen of their names, among them Hrist, Mist, Hild, Thrud, and Skogul, most built from words for battle, spear, and din. The grimmest picture comes from the Darradarljod, preserved in Njal's saga: twelve valkyries weave the outcome of a battle on a loom strung with human entrails, with swords for beaters and arrows for shuttles.\n\nIn the heroic poems they acquire faces, and disobedience has a price. The valkyrie of the Sigrdrifumal gave victory to the wrong king against Odin's decree; he pierced her with a sleep-thorn and penned her within a wall of shields and a ring of fire until the hero Sigurd broke through to wake her, a figure who merges with the legend of Brynhild. In the Volundarkvida, valkyries appear as swan-maidens who shed their feather cloaks to spin flax by a lakeshore.\n\nWagner's opera Die Walkure, first staged in 1870, and its 'Ride of the Valkyries' made them one of the most recognisable Norse images in the modern world."
+  },
+  "domains": {
+    "zh": [
+      "战场",
+      "命运",
+      "死亡",
+      "蜜酒"
+    ],
+    "en": [
+      "Battlefield",
+      "Fate",
+      "Death",
+      "Mead"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "职司",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "分派胜负，拣选并接引阵亡者",
+        "en": "Allot victory and gather the slain"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名者",
+        "en": "Famous Names"
+      },
+      "value": {
+        "zh": "希尔德、贡杜尔、斯蔻古尔、布伦希尔德",
+        "en": "Hild, Gondul, Skogul, Brynhild"
+      }
+    },
+    {
+      "label": {
+        "zh": "化身",
+        "en": "Guise"
+      },
+      "value": {
+        "zh": "天鹅少女",
+        "en": "Swan-maidens"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "valhalla",
+    "sigurd",
+    "freyja"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·格里姆尼尔之歌》《西格尔德里弗之歌》《沃隆德之歌》",
+      "en": "Poetic Edda: Grimnismal, Sigrdrifumal, and Volundarkvida"
+    },
+    {
+      "zh": "《尼雅尔萨迦》所录《长枪之歌》",
+      "en": "Darradarljod, preserved in Njal's saga"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/valkyrie.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Nicolai_Arbo_-_Valkyrjen_-_Nasjonalmuseet_-_NG.M.00259.jpg",
+    "sourceTitle": "Norwegian Bokmål: Valkyrjen The Valkyrietitle QS:P1476,nb:\"Valkyrjen \"label QS:Lnb,\"Valkyrjen \"label QS:Len,\"The Valkyrie\"label QS:Lde,\"Die Walküre\"",
+    "artist": "Peter Nicolai Arbo",
+    "license": "Public domain",
+    "width": 815,
+    "height": 1000
+  }
+}

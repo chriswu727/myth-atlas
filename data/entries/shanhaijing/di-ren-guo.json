@@ -1,0 +1,100 @@
+{
+  "id": "di-ren-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "氐人国",
+    "en": "Land of the Di People"
+  },
+  "title": {
+    "zh": "建木之西人面鱼身的国度",
+    "en": "Fish-Bodied Folk West of the World-Tree Jianmu"
+  },
+  "summary": {
+    "zh": "海内南经所记之国，在通天神木建木以西，其民人面鱼身而无足。旧注以为即大荒西经能上下于天的互人，炎帝之后。",
+    "en": "A country west of the sky-ladder tree Jianmu whose people have human faces and fish bodies without feet. Commentators identify them with the heaven-climbing Hu people, descendants of the Flame Emperor."
+  },
+  "description": {
+    "zh": "《海内南经》记：\"氐人国在建木西，其为人人面而鱼身，无足。\"这个国家坐落在建木以西——建木是众神上下于天的通天神木。氐人上半身是人，胸以下是鱼，没有脚。历代图本画他们人首人臂、鱼尾曳地，是《山海经》人鱼形象中最接近后世美人鱼构图的一种。\n\n《大荒西经》记有互人之国：炎帝之孙名叫灵恝，灵恝生互人，\"是能上下于天\"。清代郝懿行以来的注家多认为\"氐人\"与\"互人\"是同一名字的形讹，两条记载说的是一国。合起来看，这个鱼身无足的种族有一份显赫的家谱：他们是炎帝的后裔，而且能够在天地之间往来升降。人面鱼身的躯体、紧邻通天建木的居址、上下于天的本领，几个细节拼在一起，氐人国像是神与人、天与水之间的一处中转站。",
+    "en": "The Classic of Regions Within the Seas: South places this country just west of Jianmu, the great tree by which gods and shamans climbed between earth and sky. Its people have human faces on fish bodies and no feet. Illustrators through the centuries gave them human heads and arms trailing into a fish tail, making them the Shanhaijing's closest anticipation of the mermaid silhouette familiar today.\n\nThe Classic of the Great Wilderness: West records a Land of the Hu people with a notable pedigree: Lingjia, grandson of the Flame Emperor Yandi, begot the Hu people, who 'can ascend to heaven and descend again'. Commentators since the Qing scholar Hao Yixing have generally taken 'Di' and 'Hu' to be the same name corrupted in copying, and read the two passages as one country. Taken together, the fish-bodied nation carries an exalted genealogy: descendants of the Flame Emperor, neighbors of the world-tree, travelers between heaven and the waters below. The details fit together into something like a way station between gods and men."
+  },
+  "domains": {
+    "zh": [
+      "人鱼",
+      "炎帝后裔",
+      "通天",
+      "海内异国"
+    ],
+    "en": [
+      "Merfolk",
+      "Yandi's Line",
+      "Sky Travel",
+      "Inner Lands"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人面鱼身，无足",
+        "en": "Human face, fish body, no feet"
+      }
+    },
+    {
+      "label": {
+        "zh": "方位",
+        "en": "Location"
+      },
+      "value": {
+        "zh": "建木之西",
+        "en": "West of the tree Jianmu"
+      }
+    },
+    {
+      "label": {
+        "zh": "世系",
+        "en": "Lineage"
+      },
+      "value": {
+        "zh": "炎帝之孙灵恝所生（互人说）",
+        "en": "Offspring of Lingjia, grandson of Yandi"
+      }
+    }
+  ],
+  "related": [
+    "ling-yu",
+    "jian-mu",
+    "yandi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海内南经》",
+      "en": "Shanhaijing, 'Classic of Regions Within the Seas: South'"
+    },
+    {
+      "zh": "《山海经·大荒西经》",
+      "en": "Shanhaijing, 'Classic of the Great Wilderness: West'"
+    },
+    {
+      "zh": "郝懿行《山海经笺疏》",
+      "en": "Hao Yixing, Shanhaijing Jianshu (Annotated Shanhaijing)"
+    }
+  ],
+  "volume": {
+    "zh": "海内南经",
+    "en": "Classic of Regions Within the Seas: South"
+  },
+  "image": {
+    "file": "/images/entries/di-ren-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic133_-_%E6%B0%90%E4%BA%BA%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic133 - 氐人國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 700,
+    "height": 1000
+  }
+}

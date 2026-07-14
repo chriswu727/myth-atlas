@@ -1,0 +1,96 @@
+{
+  "id": "jinn",
+  "tradition": "arabian",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "镇尼",
+    "en": "Jinn",
+    "original": "جِنّ",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "无烟之火造就的隐形种族",
+    "en": "The hidden race made of smokeless fire"
+  },
+  "summary": {
+    "zh": "阿拉伯信仰中与人类并存的隐形灵体种族，由无烟之火造成。前伊斯兰时代出没于荒漠废墟，《古兰经》承认其存在，《一千零一夜》让它们钻进了瓶子和灯里。",
+    "en": "The invisible race of Arabian belief, created from smokeless fire. Feared in the pre-Islamic desert, acknowledged in the Quran, and stuffed into bottles and lamps by the Thousand and One Nights."
+  },
+  "description": {
+    "zh": "镇尼（jinn）一词源自意为“遮蔽、隐藏”的阿拉伯语词根：它们是看不见的居民，与人类共享同一个世界。《古兰经》说真主用无烟的火焰创造了镇尼，正如用泥土创造了人；它们吃喝、婚配、生育、死亡，有部落与首领，有信教者也有不信者。它们平时无形，也能变作蛇、犬、黑猫或旅人的模样，聚居在人烟断绝的地方——废墟、枯井、浴室、沙漠深处。\n\n在伊斯兰教兴起之前，半岛上的阿拉伯人已向镇尼献祭求庇护。诗人被认为各有一位附身的镇尼授予诗句，最好的诗才据说来自阿卜卡尔谷（Abqar）的精灵，占卜者（kahin）则靠镇尼窃听天界的消息作出预言。《古兰经》第七十二章“精灵章”专述此族，写一群镇尼偷听诵经后皈依，教义自此把镇尼与天使、人类并列为理性造物，能信道，也同样面对审判。\n\n《一千零一夜》给了镇尼最深入人心的形象：被所罗门封进黄铜瓶沉入海底的怒灵、居住在戒指与油灯里听命于持有者的仆役、掳走新娘藏进地下宫殿的妒夫。经由加朗1704年起的法译本，jinn 演变成欧洲语言里的 genie，从沙漠里的恐惧变成了许愿的代名词。",
+    "en": "The word jinn comes from an Arabic root meaning to veil or conceal: they are the hidden inhabitants of the world, sharing it invisibly with humankind. The Quran states that God created the jinn from smokeless fire, as humans were created from clay. They eat, marry, beget children and die; they have tribes and chiefs, believers and unbelievers among them. Usually formless, they can appear as snakes, dogs, black cats or travellers, and they favour abandoned places: ruins, dry wells, bathhouses, the deep desert.\n\nBefore Islam, the Arabs of the peninsula sacrificed to jinn for protection when camping in wild valleys. Every poet was thought to have a jinni dictating his verses, the finest inspiration coming from the spirit-haunted valley of Abqar, and soothsayers claimed their jinn eavesdropped on heaven. The seventy-second chapter of the Quran, titled al-Jinn, describes a band of jinn who overhear the recitation and convert, fixing them in Islamic doctrine as rational beings alongside angels and humans, capable of faith and damnation.\n\nThe Thousand and One Nights supplied their most durable image: wrathful spirits sealed by Solomon in brass bottles at the bottom of the sea, servants bound to rings and lamps who obey whoever holds them, jealous abductors keeping stolen brides in underground palaces. Through Antoine Galland's French translation, begun in 1704, the jinni became the European genie, and a desert terror turned into a granter of wishes."
+  },
+  "domains": {
+    "zh": [
+      "隐形灵体",
+      "无烟之火",
+      "荒漠废墟",
+      "诗与占卜"
+    ],
+    "en": [
+      "Hidden spirits",
+      "Smokeless fire",
+      "Desert ruins",
+      "Poetry and divination"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "材质",
+        "en": "Substance"
+      },
+      "value": {
+        "zh": "无烟之火（《古兰经》55:15）",
+        "en": "Smokeless fire (Quran 55:15)"
+      }
+    },
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunts"
+      },
+      "value": {
+        "zh": "废墟、枯井、浴室、沙漠深处",
+        "en": "Ruins, dry wells, bathhouses, the deep desert"
+      }
+    },
+    {
+      "label": {
+        "zh": "常见化形",
+        "en": "Guises"
+      },
+      "value": {
+        "zh": "蛇、黑犬、黑猫、旅人",
+        "en": "Snakes, black dogs, black cats, travellers"
+      }
+    }
+  ],
+  "related": [
+    "ifrit",
+    "ghoul",
+    "solomon-and-the-jinn",
+    "aladdin-lamp",
+    "mount-qaf"
+  ],
+  "sources": [
+    {
+      "zh": "《古兰经》第55章、第72章“精灵章”",
+      "en": "Quran, surahs 55 and 72 (al-Jinn)"
+    },
+    {
+      "zh": "《一千零一夜》多篇故事",
+      "en": "The Thousand and One Nights, numerous tales"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/jinn.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxford,_Bodleian_Library_MS_Bodleian_Oriental_133_fol._31r_red_king-jinn_of_tuesday.jpg",
+    "sourceTitle": "Oxford, Bodleian Library MS Bodleian Oriental 133 fol. 31r red king-jinn of tuesday",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 631,
+    "height": 1000
+  }
+}

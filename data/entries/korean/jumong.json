@@ -1,0 +1,104 @@
+{
+  "id": "jumong",
+  "tradition": "korean",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "朱蒙",
+    "en": "Jumong",
+    "original": "주몽（朱蒙）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "高句丽开国之君，谥东明圣王",
+    "en": "Founder of Goguryeo, the Holy King Dongmyeong"
+  },
+  "summary": {
+    "zh": "河伯之女柳花感日光而孕、破卵而生的神射手，逃离扶余时鱼鳖浮出成桥，公元前37年在卒本建立高句丽。",
+    "en": "Born from an egg after sunlight pursued his mother Yuhwa, daughter of the river god; a master archer who fled Buyeo over a bridge of fish and turtles and founded Goguryeo in 37 BCE."
+  },
+  "description": {
+    "zh": "《三国史记·高句丽本纪》记载：河伯之女柳花私会自称天帝之子的解慕漱，被逐出家门，为东扶余金蛙王收留。屋中有日光追着她的身子照射，她因而有孕，产下一枚五升大的卵。金蛙王把卵丢给犬豕，犬豕不食；弃于路上，牛马绕行；抛在野外，鸟兽张翼覆护。卵剖不开，只得还给柳花，不久一名男婴破壳而出。他七岁便自制弓矢，百发百中，扶余话把善射的人叫作朱蒙，这就成了他的名字。\n\n金蛙王诸子嫉恨朱蒙，长子带素谋划杀他。朱蒙与乌伊、摩离、陕父三人南逃，追兵将至时被一条大水（《三国史记》作淹淲水）拦住，他对着河水喊出自己的出身——天帝之子、河伯外孙——鱼鳖立刻浮出水面架成桥，渡过他之后散去。朱蒙在卒本川定都建国，国号高句丽，以高为氏，时年二十二岁，为汉元帝建昭二年（公元前37年）。他在位十九年，四十岁去世。\n\n这个故事现存最早的文字记录刻在石上：立于414年的广开土王碑（在今吉林集安）开篇就追述始祖邹牟王（即朱蒙）出自北扶余，天帝之子，母为河伯女郎，剖卵降世，末了黄龙下迎，王履龙首升天。1193年李奎报又将其铺陈为长篇叙事诗《东明王篇》。辽宁桓仁的五女山城被比定为卒本故地，与集安的高句丽遗迹一同列入世界遗产。",
+    "en": "The Samguk Sagi tells that Yuhwa, daughter of the river god Habaek, was cast out by her father after meeting Hae Mosu, a self-proclaimed son of heaven, and was taken in by King Geumwa of Eastern Buyeo. Sunlight followed her body wherever she moved, and she conceived, giving birth to an egg the size of five measures. The king threw it to dogs and pigs, which refused to eat it; oxen and horses stepped around it on the road; birds and beasts sheltered it with their wings. Since it could not be split, it was returned to its mother, and a boy soon broke out of the shell. By seven he was making his own bows and hitting every mark, so people called him Jumong, the Buyeo word for a great archer.\n\nGeumwa's sons, led by the heir Daeso, plotted to kill him. Jumong fled south with three companions, Oi, Mari, and Hyeopbo. Blocked by a great river with pursuers close behind, he called out his lineage, son of heaven and grandson of the river god, and fish and turtles surfaced to form a bridge, scattering once he had crossed. He founded his state at Jolbon in 37 BCE, named it Goguryeo, and took Go as his surname, aged twenty-two. He reigned nineteen years and died at forty.\n\nThe earliest surviving record of the tale is carved in stone: the Gwanggaeto Stele of 414 CE, standing at present-day Ji'an, Jilin, opens by recounting how the founder Chumo, son of heaven and child of the river god's daughter, broke from the egg, and how at his death a yellow dragon came down to bear him up to heaven. In 1193 Yi Gyu-bo expanded the story into the long poem Dongmyeongwang-pyeon. Wunü Mountain Fortress at Huanren, Liaoning, is identified with Jolbon."
+  },
+  "domains": {
+    "zh": [
+      "神射",
+      "卵生",
+      "建国",
+      "天帝之子"
+    ],
+    "en": [
+      "Archery",
+      "Egg-birth",
+      "State founding",
+      "Son of Heaven"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Meaning of the name"
+      },
+      "value": {
+        "zh": "扶余语“善射者”",
+        "en": "'Great archer' in the speech of Buyeo"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记录",
+        "en": "Earliest record"
+      },
+      "value": {
+        "zh": "广开土王碑（414年）",
+        "en": "Gwanggaeto Stele (414 CE)"
+      }
+    },
+    {
+      "label": {
+        "zh": "建国",
+        "en": "Founding"
+      },
+      "value": {
+        "zh": "公元前37年，都卒本",
+        "en": "37 BCE, capital at Jolbon"
+      }
+    }
+  ],
+  "related": [
+    "dangun"
+  ],
+  "sources": [
+    {
+      "zh": "广开土王碑（414年）",
+      "en": "Gwanggaeto Stele (414 CE)"
+    },
+    {
+      "zh": "金富轼《三国史记·高句丽本纪》（1145年）",
+      "en": "Kim Bu-sik, Samguk Sagi, Annals of Goguryeo (1145)"
+    },
+    {
+      "zh": "李奎报《东明王篇》（1193年）",
+      "en": "Yi Gyu-bo, Dongmyeongwang-pyeon (1193)"
+    }
+  ],
+  "geo": {
+    "lat": 41.332,
+    "lon": 125.414,
+    "label": {
+      "zh": "五女山城（卒本比定地，辽宁桓仁）",
+      "en": "Wunü Mountain Fortress, identified with Jolbon (Huanren, Liaoning)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/jumong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goguryeo_tomb_mural.jpg",
+    "sourceTitle": "Goguryeo tomb mural",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 825
+  }
+}

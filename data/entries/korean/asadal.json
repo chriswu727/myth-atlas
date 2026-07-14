@@ -1,0 +1,92 @@
+{
+  "id": "asadal",
+  "tradition": "korean",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "阿斯达",
+    "en": "Asadal",
+    "original": "아사달（阿斯達）",
+    "originalLang": "韩语"
+  },
+  "title": {
+    "zh": "檀君的都城与归隐之山",
+    "en": "Dangun's Capital and Final Refuge"
+  },
+  "summary": {
+    "zh": "檀君迁都之地，也是他最终归隐化为山神之处；名字或意为“朝晨之地”，比定地有九月山、平壤等说，至今没有定论。",
+    "en": "The city to which Dangun moved his capital and the mountain into which he finally withdrew as a mountain god; its name is often read as 'land of morning,' its location still disputed."
+  },
+  "description": {
+    "zh": "阿斯达在檀君神话里出现两次：《三国遗事》说檀君先都平壤城，后移都于白岳山阿斯达——书中注其又名弓忽山、今弥达；治国一千五百年之后，他回到阿斯达隐入山中，化为山神。一座城因此兼作古朝鲜的起点与终点。\n\n“阿斯达”是汉字对上古地名的音写。学界通行的一种解读把“아사”释为“朝晨”、“달”释为“土地、山”，合起来即“朝晨之地”，并常与“朝鲜”这一国号的字义相互印证。至于它在地图上的位置，从高丽时代起就众说纷纭：黄海道九月山说流传最广，山上建有祭祀桓因、桓雄、檀君的三圣祠；也有平壤附近说、江华摩尼山说等。朝鲜民主主义人民共和国1993年宣布在平壤近郊江东发掘出檀君陵，把都城问题再度推上争论的风口。\n\n没有实证的都城反而活得长久。“阿斯达”在现代韩国是极常用的文化符号：公司、学校社团、漫画与电视剧都借用这个名字称呼传说中的最初之城，2019年的电视剧《阿斯达年代记》干脆以它为题虚构了一个青铜时代的都市。",
+    "en": "Asadal enters the Dangun myth twice. The Samguk Yusa says Dangun first ruled from Pyongyang and then moved his capital to Asadal on Mount Baegak, glossed in the text as also called Gunghol-san or Geummidal; after a reign of 1,500 years he returned to Asadal and vanished into the mountain as its god, so that one city serves as both the beginning and the end of Gojoseon.\n\nThe name is a Chinese-character transcription of an ancient toponym. A widely followed reading takes asa as 'morning' and dal as 'land' or 'mountain,' yielding 'land of morning,' a sense often set beside the meaning of the state name Joseon itself. Where the place lay has been argued since the Goryeo period. The strongest folk claim belongs to Mount Guwol in Hwanghae Province, where the Samseongsa shrine honors Hwanin, Hwanung, and Dangun together; Pyongyang and Manisan on Ganghwa Island have their advocates as well. North Korea's 1993 announcement of a Tomb of Dangun at Kangdong near Pyongyang reopened the dispute.\n\nA capital without ruins has proved durable. In modern South Korea the name is a stock cultural emblem, borrowed by companies, school clubs, and comics for the legendary first city, and the 2019 television series Arthdal Chronicles built an invented Bronze Age metropolis on the word."
+  },
+  "domains": {
+    "zh": [
+      "都城",
+      "圣山",
+      "古朝鲜",
+      "地名之谜"
+    ],
+    "en": [
+      "Capital",
+      "Sacred mountain",
+      "Gojoseon",
+      "Contested location"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Other names"
+      },
+      "value": {
+        "zh": "弓忽山、今弥达（《三国遗事》注）",
+        "en": "Gunghol-san, Geummidal (glosses in the Samguk Yusa)"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要比定地",
+        "en": "Leading candidates"
+      },
+      "value": {
+        "zh": "黄海道九月山、平壤、江华摩尼山",
+        "en": "Mount Guwol in Hwanghae, Pyongyang, Manisan on Ganghwa"
+      }
+    }
+  ],
+  "related": [
+    "dangun",
+    "ungnyeo",
+    "cheonbuin"
+  ],
+  "sources": [
+    {
+      "zh": "一然《三国遗事·纪异·古朝鲜》（1281年）",
+      "en": "Iryeon, Samguk Yusa, 'Gojoseon' (1281)"
+    },
+    {
+      "zh": "李承休《帝王韵纪》（1287年）",
+      "en": "Yi Seung-hyu, Jewang Ungi (1287)"
+    }
+  ],
+  "geo": {
+    "lat": 38.45,
+    "lon": 125.27,
+    "label": {
+      "zh": "九月山（黄海南道，阿斯达比定地之一）",
+      "en": "Mount Guwol, South Hwanghae, a leading candidate for Asadal"
+    }
+  },
+  "image": {
+    "file": "/images/entries/asadal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%B0%B8%EC%84%B1%EB%8B%A8_%EC%86%8C%EC%82%AC%EB%82%98%EB%AC%B4.jpg",
+    "sourceTitle": "참성단 소사나무",
+    "artist": "Ssnm1015",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 666
+  }
+}

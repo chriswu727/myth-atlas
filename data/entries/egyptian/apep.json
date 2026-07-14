@@ -1,0 +1,94 @@
+{
+  "id": "apep",
+  "tradition": "egyptian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "阿佩普",
+    "en": "Apep",
+    "original": "ꜥꜣpp",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "混沌巨蛇",
+    "en": "Serpent of Chaos"
+  },
+  "summary": {
+    "zh": "体现混沌本身的巨蛇，希腊语称阿波菲斯。它每夜袭击穿越冥界的太阳船，永远被击退又永远杀不死，神庙年复一年举行焚毁其蜡像的驱除仪式。",
+    "en": "The giant serpent embodying chaos, Greek Apophis, who attacks the solar barque every night in the netherworld — forever repelled, never destroyed; temples burned wax images of him in ritual."
+  },
+  "description": {
+    "zh": "阿佩普是一条盘曲的巨蛇，冥界文献的插图中它的身躯蜿蜒占满整段画面，有时被利刃分割成数段仍在扭动。它体现的正是玛亚特秩序的反面——isfet，混沌与虚无本身。它最早见于中王国时期的文献，此后始终盘踞在埃及来世观的核心：太阳每夜穿越杜阿特时，阿佩普潜伏在第七小时区前后的沙洲上，以催眠的目光慑住船员，试图饮干河水令船搁浅，将太阳吞入腹中。塞特站在船头执矛刺退它，众神以绳索捆缚、以利刃肢解——但它次夜必定复原再来。日食与暴风被解释为阿佩普一度得手的时刻。\n\n它是埃及神系中罕见的纯粹敌对存在：没有神庙，没有祭司，没有供奉，人们敬拉、敬塞特，对阿佩普只有诅咒。《驱逐阿佩普之书》（布雷姆纳-林德纸草，抄本约公元前4世纪，今藏大英博物馆）保存了神庙每日举行的驱除仪轨：用蜡塑成巨蛇的形象，写上它的名字，唾之、踏之、以矛刺之，最后投入火中焚毁，助太阳船平安通行。\n\n希腊化时代它的名字转写为'阿波菲斯'，2004年发现的近地小行星99942即以此命名，天文学界沿用了这条企图吞噬太阳的巨蛇的名号——该小行星将于2029年近距离掠过地球。",
+    "en": "Apep is a colossal coiled serpent; in the illustrated netherworld books his body winds across entire registers, sometimes shown hacked into segments that still writhe. He embodies isfet, the chaos and non-being opposed to the order of maat. First attested in Middle Kingdom sources, he thereafter occupies the center of Egyptian ideas of the beyond: each night, as the sun crosses the Duat, Apep waits on the sandbanks, transfixes the crew of the barque with his hypnotic stare, and tries to drink the river dry and swallow the sun. Set spears him from the prow while other gods bind him with ropes and carve him with knives — and the next night he is whole again. Eclipses and storms were read as moments when Apep briefly succeeded.\n\nHe is a rarity in the Egyptian pantheon: an entity of pure enmity, with no temple, no priesthood, no offerings — only execration. The Book of Overthrowing Apep, preserved in Papyrus Bremner-Rhind (a copy of about the fourth century BCE, now in the British Museum), records the daily temple rite: an image of the serpent was modeled in wax, inscribed with his name, spat upon, trampled, pierced with a spear, and burned, to speed the solar barque safely on.\n\nIn the Hellenistic period his name was rendered Apophis, and modern astronomy borrowed it for near-Earth asteroid 99942, discovered in 2004, which will pass close by Earth in 2029."
+  },
+  "domains": {
+    "zh": [
+      "混沌",
+      "黑暗",
+      "毁灭",
+      "蛇"
+    ],
+    "en": [
+      "Chaos",
+      "Darkness",
+      "Destruction",
+      "Serpent"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "盘曲占满画面的巨蛇",
+        "en": "Immense coiled serpent"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversary"
+      },
+      "value": {
+        "zh": "太阳神拉与执矛的塞特",
+        "en": "Ra and the spear-bearing Set"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "中王国时期",
+        "en": "Middle Kingdom"
+      }
+    }
+  ],
+  "related": [
+    "ra",
+    "set",
+    "duat"
+  ],
+  "sources": [
+    {
+      "zh": "《阿姆杜阿特书》",
+      "en": "Amduat"
+    },
+    {
+      "zh": "《驱逐阿佩普之书》（布雷姆纳-林德纸草）",
+      "en": "Book of Overthrowing Apep, Papyrus Bremner-Rhind"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/apep.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Papyrus_of_Hunefer,_detail.jpg",
+    "sourceTitle": "Papyrus of Hunefer title QS:P1476,en:\"Papyrus of Hunefer \"label QS:Len,\"Papyrus of Hunefer \"label QS:Les,\"Papiro de Hunefer\"label QS:Lfr,\"Papyrus de Hounefer\"label QS:Lde,\"Papyrus des Hunefer\"label QS:Lmwl,\"Papiro de Hunefer\"label QS:Lca,\"Papir d'Hunefer\"label QS:Lel,\"Πάπυρος του Χουνεφέρ\"",
+    "artist": "Hunefer",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 749
+  }
+}

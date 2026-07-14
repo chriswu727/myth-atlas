@@ -1,0 +1,107 @@
+{
+  "id": "hawaiki",
+  "tradition": "polynesian",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "哈瓦基",
+    "en": "Hawaiki",
+    "original": "Hawaiki",
+    "originalLang": "毛利语"
+  },
+  "title": {
+    "zh": "祖先的故土，亡灵的归处",
+    "en": "The Ancestral Homeland and Destination of the Dead"
+  },
+  "summary": {
+    "zh": "波利尼西亚共同记忆中的祖源之地：迁徙独木舟由此出发，亡灵沿雷因加角的树根归返于此。萨瓦伊、夏威夷、赖阿特阿旧名哈瓦伊均是同源地名。",
+    "en": "The remembered homeland of Polynesia: the migration canoes set out from it, and the spirits of the dead return to it. Savaii, Hawaii and Raiatea's old name Havaii all carry the same name."
+  },
+  "description": {
+    "zh": "哈瓦基是波利尼西亚人共同记忆中的祖源之地。毛利各部的迁徙传统都从哈瓦基讲起：特阿拉瓦、塔伊努伊、奥特阿等各条始祖独木舟自哈瓦基启航，横渡大洋抵达新西兰，各部谱系\"瓦卡帕帕\"由船上的先祖逐代数到今人。哈瓦基同时是生命的环口：亡者的灵魂沿新西兰北岛一路北行，抵达最北端的\"灵魂跃处\"特雷伦加怀鲁阿（雷因加角），顺着崖边一株老波胡图卡瓦树的树根滑入海中，循来路归返哈瓦基。\n\n这个地名散落在整个大洋上：萨摩亚最大的岛叫萨瓦伊，夏威夷群岛与其最大岛同名，马克萨斯与土阿莫土语的哈瓦伊基兼指冥界，库克群岛的阿瓦伊基亦然；社会群岛的赖阿特阿岛旧名哈瓦伊，据特乌伊拉·亨利所录的塔希提传统，它正是东波利尼西亚祭祀与航海网络的枢纽——岛上的塔普塔普阿泰阿大祭坛曾是奥罗神信仰的中心，各群岛的祭坛分取它的基石立庙，2017年该遗址列入联合国教科文组织世界遗产名录。\n\n民族学家特朗吉希罗阿（彼得·巴克）在1938年《日出的维京人》中把哈瓦基叙事读作真实航海史的记忆：语言学、考古与传统谱系大体同向，指向东波利尼西亚社会自中部群岛向四方扩散的历史。作为神话地名的哈瓦基因此双重存在——既是谱系起点与亡灵归处，也是一段可以在海图上大致复原的来路。",
+    "en": "Hawaiki is the homeland held in common memory across Polynesia. Every Maori tribal tradition of migration begins there: the ancestral canoes — Te Arawa, Tainui, Aotea and the rest — set out from Hawaiki across the ocean to New Zealand, and each tribe's whakapapa genealogy counts down from someone aboard. Hawaiki also closes the circle of life: the spirits of the dead travel north along the North Island to Te Rerenga Wairua, the \"leaping place of spirits\" at Cape Reinga, slide down the roots of an old pohutukawa tree on the cliff into the sea, and return the way the ancestors came.\n\nThe name is scattered across the whole ocean. Samoa's largest island is Savaii; the Hawaiian archipelago and its biggest island bear the name; Havaiki in the Marquesas and Tuamotus doubles as the underworld, as does Avaiki in the Cook Islands. Raiatea in the Society Islands was anciently called Havaii, and in the Tahitian traditions recorded by Teuira Henry it was the hub of the East Polynesian religious and voyaging network: its great marae Taputapuatea, center of the cult of Oro, supplied foundation stones for daughter marae across the islands, and the site was inscribed on the UNESCO World Heritage List in 2017.\n\nThe ethnologist Te Rangi Hiroa (Peter Buck), in Vikings of the Sunrise (1938), read the Hawaiki narratives as the memory of real voyaging history, and linguistics, archaeology and the traditional genealogies broadly agree, pointing to an expansion outward from central East Polynesia. Hawaiki thus exists twice over: as the starting point of genealogy and destination of souls, and as a route home that can be roughly redrawn on a chart."
+  },
+  "domains": {
+    "zh": [
+      "祖源之地",
+      "亡灵归处",
+      "航海迁徙",
+      "谱系"
+    ],
+    "en": [
+      "Ancestral homeland",
+      "Land of the dead",
+      "Voyaging",
+      "Genealogy"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "同源地名",
+        "en": "Cognate names"
+      },
+      "value": {
+        "zh": "萨瓦伊、夏威夷、哈瓦伊基、阿瓦伊基",
+        "en": "Savaii, Hawaii, Havaiki, Avaiki"
+      }
+    },
+    {
+      "label": {
+        "zh": "亡灵之路",
+        "en": "Spirits' path"
+      },
+      "value": {
+        "zh": "雷因加角波胡图卡瓦树根入海",
+        "en": "Down the pohutukawa roots at Cape Reinga"
+      }
+    },
+    {
+      "label": {
+        "zh": "现实枢纽",
+        "en": "Historical hub"
+      },
+      "value": {
+        "zh": "赖阿特阿岛塔普塔普阿泰阿祭坛（2017年入世遗）",
+        "en": "Taputapuatea marae, Raiatea (UNESCO 2017)"
+      }
+    }
+  ],
+  "related": [
+    "maui",
+    "tane",
+    "taniwha",
+    "tiki"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年）",
+      "en": "George Grey, Polynesian Mythology (1855)"
+    },
+    {
+      "zh": "特乌伊拉·亨利《古塔希提》（1928年）",
+      "en": "Teuira Henry, Ancient Tahiti (1928)"
+    },
+    {
+      "zh": "特朗吉希罗阿（彼得·巴克）《日出的维京人》（1938年）",
+      "en": "Te Rangi Hiroa (Peter Buck), Vikings of the Sunrise (1938)"
+    }
+  ],
+  "geo": {
+    "lat": -16.838,
+    "lon": -151.361,
+    "label": {
+      "zh": "塔普塔普阿泰阿祭坛（赖阿特阿岛）",
+      "en": "Taputapuatea marae, Raiatea"
+    }
+  },
+  "image": {
+    "file": "/images/entries/hawaiki.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arrival_of_the_Maoris_in_New_Zealand_Auckland_Art_Gallery.jpg",
+    "sourceTitle": "Arrival of the Maoris in New Zealand Auckland Art Gallery",
+    "artist": "Charles Goldie and Louis Steele",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 558
+  }
+}

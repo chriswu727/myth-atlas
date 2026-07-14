@@ -1,0 +1,105 @@
+{
+  "id": "garuda",
+  "tradition": "hindu",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "迦楼罗",
+    "en": "Garuda",
+    "original": "गरुड",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "百鸟之王，毗湿奴的坐骑",
+    "en": "King of birds, mount of Vishnu"
+  },
+  "summary": {
+    "zh": "金翅巨鸟之王，展翅可蔽日、扇风可撼山。为赎回被蛇族奴役的母亲，他独闯天界夺取不死甘露，从此与那伽蛇族世代为敌。",
+    "en": "The golden eagle king whose wings darken the sun. To ransom his enslaved mother he stormed heaven and seized the nectar of immortality, beginning his eternal feud with the naga serpents."
+  },
+  "description": {
+    "zh": "迦楼罗是众鸟之王：金色的躯体半人半鹰，红色双翼展开时遮天蔽日，振翅掀起的狂风足以撼动山岳。他破壳而出时光焰冲天，诸神误以为是天火降世而齐声礼赞。作为毗湿奴的坐骑，他载着大神巡行三界，也是蛇类的天敌，形象常见于神庙门楣，用以镇伏蛇害。\n\n他的身世记在《摩诃婆罗多·初篇》：母亲毗娜达与蛇母迦德卢打赌落败，沦为蛇族的奴仆。蛇族开出赎价——天界的不死甘露。迦楼罗独力杀上因陀罗的天庭，扑灭护甘露的神火，撞碎旋转的机关刀轮，击退诸神，衔壶而去。毗湿奴惊叹于他夺得甘露却不贪饮一口，赐他不死之身并纳为坐骑；因陀罗与他约定夺回甘露，迦楼罗把壶放在带刺的吉祥草上，蛇族行礼时甘露已被因陀罗取走，蛇信舔过利草一分为二——蛇的分叉之舌由此而来，而他的母亲已然获释。\n\n迦楼罗随印度文化圈远播东南亚：他是印度尼西亚与泰国的国徽形象，泰国王室以迦楼罗为王权徽记，印尼国家航空公司即名“迦楼罗”；在佛教中他位列天龙八部，汉译佛典称金翅鸟或大鹏金翅鸟。",
+    "en": "Garuda is the king of birds: a golden being, half man, half eagle, whose red wings blot out the sun and whose wingbeats shake mountains. At his hatching the gods mistook his blaze for a cosmic fire and hymned him in alarm. As the mount of Vishnu he bears the great god across the three worlds, and as the devourer of serpents his image guards temple lintels against snakes and poison.\n\nHis story is told in the Adi Parva of the Mahabharata. His mother Vinata lost a wager to Kadru, mother of the nagas, and fell into slavery; the serpents named their ransom—the amrita, heaven's nectar of immortality. Garuda stormed Indra's heaven alone, quenched the fire that guarded the nectar, smashed the whirring wheel of blades, beat back the gods and flew off with the vessel. Vishnu, marvelling that he carried the nectar without stealing a sip, granted him immortality and took him as his mount. By arrangement with Indra, Garuda set the pot on sharp kusha grass; while the serpents purified themselves before drinking, Indra snatched it back. The nagas licked the razor-edged grass and their tongues were split in two—the forked tongue of snakes ever since—but Vinata was already free.\n\nGaruda travelled with Indian culture across Southeast Asia: he is the national emblem of both Indonesia and Thailand, the badge of the Thai monarchy, and the namesake of Indonesia's flag carrier. In Buddhism he joined the eight legions of dharma protectors, rendered in Chinese scriptures as the golden-winged bird."
+  },
+  "domains": {
+    "zh": [
+      "天空",
+      "王权",
+      "克蛇",
+      "速度"
+    ],
+    "en": [
+      "Sky",
+      "Kingship",
+      "Bane of Serpents",
+      "Speed"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "母亲",
+        "en": "Mother"
+      },
+      "value": {
+        "zh": "毗娜达",
+        "en": "Vinata"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Adversaries"
+      },
+      "value": {
+        "zh": "那伽蛇族",
+        "en": "The nagas"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《摩诃婆罗多·初篇》",
+        "en": "Mahabharata, Adi Parva"
+      }
+    },
+    {
+      "label": {
+        "zh": "现代徽记",
+        "en": "Modern emblems"
+      },
+      "value": {
+        "zh": "印度尼西亚与泰国国徽",
+        "en": "National emblems of Indonesia and Thailand"
+      }
+    }
+  ],
+  "related": [
+    "vishnu",
+    "naga",
+    "amrita",
+    "indra"
+  ],
+  "sources": [
+    {
+      "zh": "《摩诃婆罗多·初篇》",
+      "en": "Mahabharata, Adi Parva"
+    },
+    {
+      "zh": "《迦楼罗往世书》",
+      "en": "Garuda Purana"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/garuda.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lord_Garuda.jpg",
+    "sourceTitle": "Lord Garuda",
+    "artist": "Raja Ravi Varma",
+    "license": "Public domain",
+    "width": 703,
+    "height": 1000
+  }
+}

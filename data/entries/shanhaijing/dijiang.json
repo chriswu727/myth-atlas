@@ -1,0 +1,103 @@
+{
+  "id": "dijiang",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "帝江",
+    "en": "Dijiang"
+  },
+  "title": {
+    "zh": "浑沌无面的天山之神",
+    "en": "The Faceless God of Mount Tian"
+  },
+  "summary": {
+    "zh": "天山之神，形如黄色皮囊，赤如丹火，六足四翼，没有面目却通晓歌舞；注家多认为即混沌帝鸿。",
+    "en": "God of Mount Tian: a sack-like body red as cinnabar fire, six legs, four wings, no face at all, yet a master of song and dance — long identified with Hundun, the primal Chaos."
+  },
+  "description": {
+    "zh": "《山海经·西次三经》记天山多金玉，有青雄黄，英水从这里发源。山中有神，“其状如黄囊，赤如丹火，六足四翼，浑敦无面目，是识歌舞，实惟帝江也”——一只通体赤红的黄色皮囊，没有五官，靠六只脚和四只翅膀行动，却通晓歌舞。\n\n郭璞注“江读如鸿”，历代注家多认为帝江即古帝帝鸿氏；经文里“浑敦无面目”一句，又把它与混沌连在一起。《庄子·应帝王》写南海之帝倏与北海之帝忽为报答中央之帝浑沌的款待，替他日凿一窍，“七日而浑沌死”；《左传·文公十八年》则说帝鸿氏有不才子，掩义隐贼、好行凶德，天下之民谓之浑敦，列于四凶。神、古帝、凶人三种身份，在同一个名字下交叠。\n\n《神异经·西荒经》另写过一头浑沌兽：状如犬，长毛四足，有目而不见，有耳而不闻，抵触善人而依附恶人。明代蒋应镐绘图本《山海经》把帝江画成一只生着翅膀与利爪的红色肉袋，这个形象一直沿用到今天的各种图鉴。",
+    "en": "The 'Classic of the Western Mountains' locates this god on Mount Tian, a peak rich in gold, jade, and green realgar from which the River Ying flows: 'shaped like a yellow sack, scarlet as cinnabar fire, with six feet and four wings, an undifferentiated mass without face or eyes, yet it knows song and dance — this is Dijiang.'\n\nThe commentator Guo Pu read 'Jiang' as 'Hong', and later scholars have identified Dijiang with Di Hong, an ancient sovereign associated with the Yellow Emperor. The phrase 'hundun, without face or eyes' binds the god to Hundun, the primal Chaos. In the Zhuangzi, the emperors of the southern and northern seas repay the hospitality of Hundun, emperor of the center, by drilling him one aperture a day — 'on the seventh day Hundun died.' The Zuozhuan, for its part, names Hundun a worthless son of the Di Hong clan and lists him among the Four Fiends. God, sovereign, and fiend overlap in the one name.\n\nThe Ming illustrated edition of the Shanhaijing drawn by Jiang Yinghao pictures Dijiang as a winged, clawed sack of red flesh, the image that still circulates in modern bestiaries."
+  },
+  "domains": {
+    "zh": [
+      "混沌",
+      "歌舞",
+      "无面",
+      "天山"
+    ],
+    "en": [
+      "Primal Chaos",
+      "Song and Dance",
+      "Facelessness",
+      "Mount Tian"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如黄囊，赤如丹火，六足四翼",
+        "en": "A yellow sack, red as cinnabar fire, with six legs and four wings"
+      }
+    },
+    {
+      "label": {
+        "zh": "特长",
+        "en": "Gift"
+      },
+      "value": {
+        "zh": "无面目而识歌舞",
+        "en": "Faceless, yet versed in song and dance"
+      }
+    },
+    {
+      "label": {
+        "zh": "居地",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "天山，英水所出",
+        "en": "Mount Tian, source of the River Ying"
+      }
+    }
+  ],
+  "related": [
+    "qiongqi",
+    "huangdi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《庄子·应帝王》",
+      "en": "Zhuangzi, 'Fit for Emperors and Kings'"
+    },
+    {
+      "zh": "《左传·文公十八年》",
+      "en": "Zuozhuan, 18th year of Duke Wen"
+    },
+    {
+      "zh": "《神异经·西荒经》",
+      "en": "Shenyijing, 'Western Wilds'"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/dijiang.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic19_-_%E5%B8%9D%E6%B1%9F%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic19 - 帝江神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 673,
+    "height": 1000
+  }
+}

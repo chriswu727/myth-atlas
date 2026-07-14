@@ -1,0 +1,107 @@
+{
+  "id": "kukulkan",
+  "tradition": "maya",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "库库尔坎",
+    "en": "Kukulkan",
+    "original": "K'uk'ulkan",
+    "originalLang": "尤卡坦玛雅语"
+  },
+  "title": {
+    "zh": "尤卡坦的羽蛇神",
+    "en": "The Feathered Serpent of Yucatán"
+  },
+  "summary": {
+    "zh": "尤卡坦玛雅的羽蛇神，与中墨西哥的克察尔科亚特尔同源。每年春分与秋分，奇琴伊察的库库尔坎金字塔投下沿阶而下的蛇形光影。",
+    "en": "The feathered serpent of Yucatec Maya religion, counterpart of Quetzalcoatl. At each equinox a serpent of light and shadow descends the stairway of his pyramid at Chichén Itzá."
+  },
+  "description": {
+    "zh": "库库尔坎在尤卡坦玛雅语中意为“羽蛇”：k'uk'ul 指绿咬鹃的羽毛，kaan 是蛇。他的形象是一条披覆翠绿长羽的巨蛇，与基切玛雅《波波尔·乌》中的创世者古库马茨、中墨西哥纳瓦人的克察尔科亚特尔同属中美洲羽蛇神谱系。在后古典期（约公元900—1500年）的尤卡坦半岛，他是奇琴伊察与玛雅潘两大城邦最显赫的神祇。\n\n奇琴伊察的“城堡”金字塔就是他的神庙：四面阶梯各91级，加上顶部平台恰为365，对应太阳年的天数。每年春分与秋分的午后，西斜的阳光把金字塔的九层台基投影在北面阶梯的护栏上，形成七个相连的三角形光斑，与阶底张口的石雕蛇首连成一条正在下行的巨蛇。顶部神庙入口的蛇形立柱也属于同一套羽蛇造像。\n\n兰达主教《尤卡坦纪事》（约1566年）记载了另一重身份：库库尔坎也是一位从西方来到尤卡坦的首领，治理奇琴伊察，后来主持建立玛雅潘城，离去后被尊奉为神；《丘马耶尔的奇兰·巴兰之书》同样保留了他到来的记忆。神与历史人物在这里重叠，学界一般认为这套叙事反映了后古典期墨西哥中部势力进入尤卡坦的历史。",
+    "en": "Kukulkan means \"feathered serpent\" in Yucatec Maya: k'uk'ul is the plumage of the quetzal bird, kaan the snake. He is a great serpent sheathed in long green feathers, one branch of the Mesoamerican feathered-serpent family that also includes Gucumatz, the creator of the K'iche' Popol Vuh, and the Nahua Quetzalcoatl. In the Postclassic period (c. 900-1500 CE) he was the preeminent god of Chichén Itzá and later of Mayapán.\n\nHis temple is the pyramid called El Castillo at Chichén Itzá. Its four stairways have 91 steps each; with the upper platform the count reaches 365, the days of the solar year. On the afternoons of the equinoxes, the stepped terraces throw seven linked triangles of light onto the balustrade of the north stairway, joining the carved stone serpent head at its foot into a single snake that appears to crawl down the pyramid. Serpent columns crown the summit shrine.\n\nBishop Diego de Landa's Relación de las cosas de Yucatán (c. 1566) preserves a second face of Kukulkan: a lord who arrived from the west, ruled at Chichén Itzá, presided over the founding of Mayapán, and was worshipped as a god after his departure. The Book of Chilam Balam of Chumayel likewise remembers his coming. Scholars generally read these accounts as a memory of central Mexican influence reaching Yucatán in the Postclassic era."
+  },
+  "domains": {
+    "zh": [
+      "羽蛇",
+      "创造",
+      "王权",
+      "历法"
+    ],
+    "en": [
+      "Feathered serpent",
+      "Creation",
+      "Kingship",
+      "Calendar"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "主庙",
+        "en": "Chief temple"
+      },
+      "value": {
+        "zh": "奇琴伊察“城堡”金字塔",
+        "en": "El Castillo, Chichén Itzá"
+      }
+    },
+    {
+      "label": {
+        "zh": "同源神",
+        "en": "Cognates"
+      },
+      "value": {
+        "zh": "古库马茨（基切）、克察尔科亚特尔（纳瓦）",
+        "en": "Gucumatz (K'iche'), Quetzalcoatl (Nahua)"
+      }
+    },
+    {
+      "label": {
+        "zh": "显现",
+        "en": "Apparition"
+      },
+      "value": {
+        "zh": "春分与秋分午后的下行蛇影",
+        "en": "Descending serpent of shadow at the equinoxes"
+      }
+    }
+  ],
+  "related": [
+    "quetzalcoatl",
+    "itzamna",
+    "chaac",
+    "popol-vuh-creation"
+  ],
+  "sources": [
+    {
+      "zh": "迭戈·德·兰达《尤卡坦纪事》（约1566年）",
+      "en": "Diego de Landa, Relación de las cosas de Yucatán (c. 1566)"
+    },
+    {
+      "zh": "《丘马耶尔的奇兰·巴兰之书》",
+      "en": "Book of Chilam Balam of Chumayel"
+    },
+    {
+      "zh": "《波波尔·乌》（羽蛇神古库马茨为其基切同源）",
+      "en": "Popol Vuh (Gucumatz, the K'iche' cognate)"
+    }
+  ],
+  "geo": {
+    "lat": 20.6829,
+    "lon": -88.5686,
+    "label": {
+      "zh": "奇琴伊察库库尔坎金字塔",
+      "en": "El Castillo, Chichén Itzá"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kukulkan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serpent_head_at_the_base_of_El_Castillo.jpg",
+    "sourceTitle": "Serpent head at the base of El Castillo",
+    "artist": "Frank Kovalchek",
+    "license": "CC BY 2.0",
+    "width": 1000,
+    "height": 615
+  }
+}

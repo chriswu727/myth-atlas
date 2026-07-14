@@ -1,0 +1,99 @@
+{
+  "id": "golden-fleece",
+  "tradition": "greek",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "金羊毛",
+    "en": "Golden Fleece",
+    "original": "Χρυσόμαλλον δέρας",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "阿耳戈英雄远航的目标",
+    "en": "The Prize of the Argonauts' Voyage"
+  },
+  "summary": {
+    "zh": "会飞的金毛公羊留下的羊毛，钉在科尔基斯阿瑞斯圣林的橡树上，由不眠巨龙看守，伊阿宋借美狄亚之助夺得。",
+    "en": "The fleece of a flying golden ram, nailed to an oak in the grove of Ares at Colchis and guarded by a sleepless dragon, won by Jason with Medea's help."
+  },
+  "description": {
+    "zh": "金羊毛来自一头会飞的金毛公羊。玻俄提亚王子佛里克索斯将被继母设计献祭时，生母云神涅斐勒派金羊驮他和妹妹赫勒腾空逃走；赫勒中途坠海溺亡，那道海峡由此得名赫勒斯滂。佛里克索斯抵达黑海东岸的科尔基斯后，将公羊献祭给宙斯，把羊毛赠予国王埃厄忒斯。羊毛被钉在阿瑞斯圣林的橡树上，由一条不眠的巨龙盘绕看守。\n\n伊阿宋为向叔父讨回伊俄尔科斯的王位，率英雄们乘阿耳戈号远航取毛，同行者有赫拉克勒斯、琴手俄耳甫斯与狄俄斯库里兄弟。埃厄忒斯要他先驾驭喷火铜蹄的公牛耕地、播下龙牙；公主美狄亚因爱施援，以药膏护他周身，又以魔药与咒歌催眠巨龙，伊阿宋摘下金羊毛，携美狄亚连夜扬帆西归。阿波罗尼俄斯公元前3世纪的《阿耳戈船英雄纪》是这段远航最完整的古代记述，品达《皮托凯歌》第四首则保存了更早的版本。",
+    "en": "The Golden Fleece came from a flying ram with wool of gold. When the Boeotian prince Phrixus was about to be sacrificed through his stepmother's scheming, his mother, the cloud goddess Nephele, sent the ram to carry him and his sister Helle away through the air; Helle fell into the strait thereafter called the Hellespont. Reaching Colchis on the eastern shore of the Black Sea, Phrixus sacrificed the ram to Zeus and gave its fleece to King Aeetes, who nailed it to an oak in the grove of Ares under the coils of a sleepless dragon.\n\nJason sailed for it aboard the Argo — the price set for reclaiming his throne at Iolcus — with a crew that included Heracles, the singer Orpheus, and the Dioscuri. Aeetes demanded that he first yoke fire-breathing, bronze-hoofed bulls to plow a field and sow it with dragon's teeth; the king's daughter Medea, in love with him, anointed him with a protective salve and charmed the dragon to sleep with drugs and song, and Jason lifted down the fleece and fled west with her by night. Apollonius of Rhodes's Argonautica, written in the 3rd century BCE, is the fullest ancient account of the voyage; Pindar's fourth Pythian ode preserves an earlier telling."
+  },
+  "domains": {
+    "zh": [
+      "王权信物",
+      "远航",
+      "巨龙看守"
+    ],
+    "en": [
+      "Token of kingship",
+      "The great voyage",
+      "Dragon-guarded"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "来历",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "涅斐勒所遣金毛飞羊",
+        "en": "The flying golden ram sent by Nephele"
+      }
+    },
+    {
+      "label": {
+        "zh": "所在",
+        "en": "Resting place"
+      },
+      "value": {
+        "zh": "科尔基斯阿瑞斯圣林的橡树",
+        "en": "An oak in the grove of Ares, Colchis"
+      }
+    },
+    {
+      "label": {
+        "zh": "夺取者",
+        "en": "Taken by"
+      },
+      "value": {
+        "zh": "伊阿宋与美狄亚",
+        "en": "Jason and Medea"
+      }
+    }
+  ],
+  "related": [
+    "heracles",
+    "zeus"
+  ],
+  "sources": [
+    {
+      "zh": "阿波罗尼俄斯《阿耳戈船英雄纪》",
+      "en": "Apollonius of Rhodes, Argonautica"
+    },
+    {
+      "zh": "品达《皮托凯歌》第四首",
+      "en": "Pindar, Pythian 4"
+    }
+  ],
+  "geo": {
+    "lat": 42.25,
+    "lon": 42.7,
+    "label": {
+      "zh": "科尔基斯（今格鲁吉亚西部）",
+      "en": "Colchis (western Georgia)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/golden-fleece.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herbert_James_Draper,_The_Golden_Fleece.jpg",
+    "sourceTitle": "Herbert James Draper, The Golden Fleece",
+    "artist": "Herbert James Draper",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 610
+  }
+}

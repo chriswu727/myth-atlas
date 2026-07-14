@@ -1,0 +1,96 @@
+{
+  "id": "lamassu",
+  "tradition": "mesopotamian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "拉玛苏",
+    "en": "Lamassu"
+  },
+  "title": {
+    "zh": "宫门守护巨兽",
+    "en": "Guardian of the Palace Gates"
+  },
+  "summary": {
+    "zh": "人首、牛身、鹰翼的亚述守门巨兽，头戴角冠，有的刻着五条腿。成对立于尼姆鲁德、霍尔萨巴德与尼尼微的宫门，镇护王居。",
+    "en": "Human-headed, eagle-winged bull colossi with horned crowns, some carved with five legs, that stood in pairs at the palace gates of Nimrud, Khorsabad, and Nineveh to turn evil away."
+  },
+  "description": {
+    "zh": "拉玛苏是人首、牛身（或狮身）、鹰翼的守护巨兽，头戴标示神格的多重角冠，长须编卷如亚述王。在楔形文字文献里，“拉玛苏”与“舍杜”原是一对护佑精灵之名，常在祷文中并提——“愿善舍杜行于我前，愿善拉玛苏随于我后”；如今这个名字通指亚述宫门两侧的人首翼牛石雕。\n\n最著名的一批立在公元前9至7世纪的亚述都城：阿舒尔纳西尔帕二世的尼姆鲁德西北宫、萨尔贡二世的杜尔-沙鲁金（今霍尔萨巴德）、辛那赫里布的尼尼微“无双宫”。每件以整块石灰岩或雪花石膏雕成，高逾四米、重达三十吨上下；霍尔萨巴德的几件刻了五条腿——正面看是站定的两腿，侧面看是迈步的四腿，来人绕行时巨兽仿佛始终迎面而立。王室铭文写明它们的职守：镇护宫门，令凶邪不得近王居。\n\n19世纪40年代博塔与莱亚德的发掘把成对的拉玛苏运往卢浮宫与大英博物馆，芝加哥大学藏有一件约四十吨的霍尔萨巴德巨牛。2015年2月，极端组织录像捶凿尼尼微涅尔伽勒门的拉玛苏，随后又炸毁尼姆鲁德遗址；这批巨兽由此成为战乱中文化遗产劫难的象征。",
+    "en": "The lamassu is a guardian colossus with a human head, the body of a bull or lion, and eagle's wings, wearing the horned crown of divinity and the plaited beard of an Assyrian king. In cuneiform texts lamassu and šēdu name a pair of protective spirits invoked together in blessings — 'may a good šēdu go before me, a good lamassu behind me' — but the word now attaches above all to the winged bulls flanking Assyrian palace gates.\n\nThe famous examples stood in the royal capitals of the ninth to seventh centuries BCE: Ashurnasirpal II's Northwest Palace at Nimrud, Sargon II's Dur-Sharrukin (modern Khorsabad), and Sennacherib's 'Palace without Rival' at Nineveh. Each was cut from a single block of limestone or gypsum alabaster, over four meters tall and around thirty tons; several Khorsabad colossi carry five legs, so that they stand firm seen from the front and stride seen from the side, always facing the visitor who walks around them. Royal inscriptions state their task plainly: to guard the gates and keep evil from the king's dwelling.\n\nThe excavations of Botta and Layard in the 1840s shipped pairs to the Louvre and the British Museum, and the University of Chicago holds a Khorsabad bull of about forty tons. In February 2015 militants of the Islamic State were filmed defacing the lamassu of Nineveh's Nergal Gate and later dynamited Nimrud, making these colossi emblems of heritage lost to war."
+  },
+  "domains": {
+    "zh": [
+      "守护",
+      "门户",
+      "王权"
+    ],
+    "en": [
+      "Protection",
+      "Gateways",
+      "Kingship"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人首、牛身、鹰翼，戴角冠",
+        "en": "Human head, bull's body, eagle's wings, horned crown"
+      }
+    },
+    {
+      "label": {
+        "zh": "五条腿",
+        "en": "Five legs"
+      },
+      "value": {
+        "zh": "正面站定、侧面迈步的视觉设计",
+        "en": "Standing from the front, striding from the side"
+      }
+    },
+    {
+      "label": {
+        "zh": "现藏地",
+        "en": "Where seen"
+      },
+      "value": {
+        "zh": "大英博物馆、卢浮宫、芝加哥大学等",
+        "en": "British Museum, Louvre, University of Chicago, and elsewhere"
+      }
+    }
+  ],
+  "related": [
+    "pazuzu"
+  ],
+  "sources": [
+    {
+      "zh": "尼姆鲁德、霍尔萨巴德、尼尼微王宫出土石雕",
+      "en": "Palace colossi excavated at Nimrud, Khorsabad, and Nineveh"
+    },
+    {
+      "zh": "亚述王室铭文与祷文中的舍杜/拉玛苏",
+      "en": "The šēdu and lamassu of Assyrian royal inscriptions and prayers"
+    }
+  ],
+  "geo": {
+    "lat": 36.51,
+    "lon": 43.23,
+    "label": {
+      "zh": "杜尔-沙鲁金（霍尔萨巴德）",
+      "en": "Dur-Sharrukin (Khorsabad)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/lamassu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamassu_from_the_Throne_Room,_North-West_Palace_at_Nimrud,_British_Museum_-_1.jpg",
+    "sourceTitle": "Lamassu from the Throne Room, North-West Palace at Nimrud, British Museum - 1",
+    "artist": "APK",
+    "license": "CC BY 4.0",
+    "width": 613,
+    "height": 1000
+  }
+}

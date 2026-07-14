@@ -1,0 +1,95 @@
+{
+  "id": "yggdrasil",
+  "tradition": "norse",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "世界树尤克特拉希尔",
+    "en": "Yggdrasil",
+    "original": "Yggdrasill",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "贯通九界的白蜡巨树",
+    "en": "The World Ash That Binds the Nine Worlds"
+  },
+  "summary": {
+    "zh": "支撑北欧宇宙的常青白蜡树，三条巨根伸向神域、巨人之地与雾之国。诸神每日在树下泉边集会议事。",
+    "en": "The evergreen ash at the centre of the Norse cosmos, its three roots reaching toward the gods, the giants, and the mists of Niflheim; the gods hold council daily beneath it."
+  },
+  "description": {
+    "zh": "尤克特拉希尔是一株贯通天地的白蜡树，北欧宇宙的中轴，九个世界悬系于它的枝干之间。《欺骗古鲁菲》说它有三条巨根：一条伸向阿萨神族，根下是命运之泉乌尔德之泉，诸神每日骑马越过彩虹桥来此集会议事，诺伦三女神以泉水和白泥浇灌树身；一条伸向霜巨人之地，根下是智慧之泉密弥尔之泉，奥丁的眼睛沉在里面；一条伸向雾之国尼福尔海姆，根下是沸泉赫瓦格密尔，毒龙尼德霍格在那里日夜啃咬树根。\n\n整棵树是一个喧闹的生态系统：树冠上栖着一只博识的巨鹰，鹰的双眼之间蹲着鹰隼维德佛尔尼尔；松鼠拉塔托斯克沿树干上下奔跑，专门在树顶巨鹰与树底毒龙之间传递咒骂；四头牡鹿绕树啃食新芽。《格里姆尼尔之歌》说它「所受的苦难比人所知的更多」，却始终常青。奥丁为求卢恩文字自缢的那棵「风中之树」通常便被认作它——树名直译即「奥丁（可怖者）之马」，是绞架的隐语。\n\n诸神黄昏的大火烧尽世界时，一对人类男女藏身「霍德弥米尔之林」得以幸存——这片树林通常被认作世界树本身——成为新世界人类的始祖。",
+    "en": "Yggdrasil is the great ash at the axis of the Norse cosmos, and the nine worlds hang among its branches. According to Gylfaginning it stands on three roots. One reaches toward the Aesir, above the Well of Urd, where the gods ride over the rainbow bridge each day to hold council and the three norns water the tree with well-water and white clay. One reaches toward the frost giants, above Mimir's well of wisdom, in which Odin's eye lies sunken. One reaches over Niflheim, above the roaring spring Hvergelmir, where the dragon Nidhogg gnaws the root from below.\n\nThe tree is a noisy ecosystem. A wise eagle sits in the crown with the hawk Vedrfolnir perched between its eyes; the squirrel Ratatosk runs up and down the trunk carrying insults between the eagle above and the dragon below; four stags browse its new shoots. The Grimnismal says the ash 'suffers more hardship than men know', yet it stays evergreen. The windswept tree on which Odin hanged himself for the runes is generally taken to be Yggdrasil, whose very name means 'the steed of Ygg', a grim byword for the gallows.\n\nWhen the fires of Ragnarok consume the world, a human pair survives hidden in Hoddmimir's wood, generally identified with Yggdrasil itself, and repeoples the new earth."
+  },
+  "domains": {
+    "zh": [
+      "宇宙之轴",
+      "九界",
+      "命运",
+      "常青"
+    ],
+    "en": [
+      "World Axis",
+      "Nine Worlds",
+      "Fate",
+      "Evergreen"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "树种",
+        "en": "Species"
+      },
+      "value": {
+        "zh": "白蜡树",
+        "en": "Ash tree"
+      }
+    },
+    {
+      "label": {
+        "zh": "三泉",
+        "en": "Three Wells"
+      },
+      "value": {
+        "zh": "乌尔德之泉、密弥尔之泉、赫瓦格密尔",
+        "en": "Well of Urd, Mimir's well, Hvergelmir"
+      }
+    },
+    {
+      "label": {
+        "zh": "栖居者",
+        "en": "Dwellers"
+      },
+      "value": {
+        "zh": "巨鹰、松鼠拉塔托斯克、毒龙尼德霍格、四头牡鹿",
+        "en": "An eagle, the squirrel Ratatosk, the dragon Nidhogg, four stags"
+      }
+    }
+  ],
+  "related": [
+    "odin",
+    "norns",
+    "ragnarok",
+    "heimdall"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·女占卜者的预言》《格里姆尼尔之歌》",
+      "en": "Poetic Edda: Voluspa and Grimnismal"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/yggdrasil.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oluf_Olufsen_Bagge_-_Yggdrasil,_The_Mundane_Tree_1847_-_full_page.jpg",
+    "sourceTitle": "Oluf Olufsen Bagge - Yggdrasil, The Mundane Tree 1847 - full page",
+    "artist": "Oluf Bagge",
+    "license": "Public domain",
+    "width": 714,
+    "height": 1000
+  }
+}

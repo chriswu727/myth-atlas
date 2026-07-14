@@ -1,0 +1,44 @@
+{
+  "id": "black-eyed-children",
+  "tradition": "american-folklore",
+  "type": "spirit",
+  "era": "modern",
+  "name": {
+    "zh": "黑眼孩童",
+    "en": "Black-Eyed Children"
+  },
+  "title": { "zh": "深夜求助的漆黑眼眸孩子", "en": "The Children at the Door with Coal-Black Eyes" },
+  "summary": {
+    "zh": "1996年得州记者Brian Bethel在网络邮件列表讲述的遭遇衍生的怪谈：深夜敲门或敲车窗求助的孩子，眼睛全黑无白，坚持要你「让我们进来」。",
+    "en": "An internet legend seeded by Texas reporter Brian Bethel's 1996 mailing-list account: children who knock on doors or car windows at night asking for help, their eyes solid black, insisting \"let us in.\""
+  },
+  "description": {
+    "zh": "黑眼孩童的遭遇故事有固定的骨架：深夜，两个（偶尔一个或三个）年龄在十岁上下的孩子敲响你的家门或车窗，穿着略显过时的衣服，语气平板而超龄，请求进屋打电话、讨口水喝，或搭车回家。讲述者无一例外提到两件事：一种毫无来由、几乎令人作呕的恐惧，以及孩子反复强调「必须得到你的允许才能进来」。当讲述者终于看清那双没有虹膜与眼白、整个眼球漆黑的眼睛时，故事戛然而止——所有版本的叙述者都选择了拒绝，所以没有人知道让他们进来会发生什么。\n\n这一怪谈有明确的「零号病例」：1996年，得克萨斯州阿比林市《记者新闻报》的记者Brian Bethel在一个灵异主题邮件列表上发帖，讲述自己深夜在影院停车场遇到两个讨搭车的男孩，直到看见全黑的眼睛才在恐惧中驾车逃离。帖子在早期互联网上被反复转载，Bethel本人于2013年在《阿比林记者新闻报》刊文回顾此事，坚称经历属实。此后「黑眼孩童」成为遭遇型网络怪谈的模板，衍生出黑眼成人、公路黑眼搭车客等变体。\n\n民俗学者把它视为吸血鬼「需受邀请才能进门」母题在汽车与门廊时代的翻新，也常与「不请自来的访客」类都市传说并置。2010年代，怪谈经由Reddit的NoSleep版、Creepypasta网站与深夜电台节目《Coast to Coast AM》持续扩散，英国小报甚至制造过「坎诺克蔡斯黑眼女孩」的本土目击潮。",
+    "en": "Encounter stories about the black-eyed children share a fixed skeleton: late at night, two children around ten years old — sometimes one, sometimes three — knock at a door or car window, dressed slightly out of date, speaking in flat, oddly adult cadences, asking to come in and use the phone, get a drink of water, or catch a ride home. Tellers invariably report two things: a wave of unexplained, almost physical dread, and the children's insistence that they need permission to enter. The story ends when the narrator finally sees the eyes — no iris, no white, wholly black. Every known teller refused, so no version records what happens if they are let in.\n\nThe legend has a patient zero. In 1996 Brian Bethel, a reporter for the Abilene Reporter-News in Texas, posted to a ghost-themed mailing list an account of meeting two boys in a movie-theater parking lot who asked for a ride, and of fleeing in terror when he saw their solid black eyes. The post was copied across the early internet; Bethel revisited the episode in a 2013 Reporter-News column and has maintained that it happened as told. The black-eyed children became the template for first-person internet horror encounters, spawning variants such as black-eyed adults and highway hitchhikers.\n\nFolklorists read the motif as the vampire's need for an invitation reworked for the age of porches and parked cars. Through the 2010s the legend spread via Reddit's NoSleep, creepypasta sites, and the late-night radio show Coast to Coast AM, and British tabloids manufactured a homegrown wave of \"black-eyed girl\" sightings at Cannock Chase."
+  },
+  "domains": {
+    "zh": ["遭遇怪谈", "需邀请入内", "深夜访客", "网络怪谈"],
+    "en": ["Encounter legend", "Invitation motif", "Night visitors", "Internet horror"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "起点", "en": "Origin" },
+      "value": { "zh": "Brian Bethel的邮件列表帖，1996年，得州阿比林", "en": "Brian Bethel's mailing-list post, Abilene, Texas, 1996" }
+    },
+    {
+      "label": { "zh": "识别特征", "en": "Tell" },
+      "value": { "zh": "全黑的眼球与「让我们进来」的执念", "en": "Solid black eyes and the fixation on being let in" }
+    }
+  ],
+  "related": ["slender-man", "bloody-mary"],
+  "sources": [
+    { "zh": "Brian Bethel灵异邮件列表帖（1996）", "en": "Brian Bethel's post to a ghost-themed mailing list (1996)" },
+    { "zh": "《阿比林记者新闻报》Bethel回顾报道（2013）", "en": "Brian Bethel's retrospective in the Abilene Reporter-News (2013)" }
+  ],
+  "geo": {
+    "lat": 32.45,
+    "lon": -99.73,
+    "label": { "zh": "得克萨斯州阿比林", "en": "Abilene, Texas" }
+  },
+  "image": null
+}

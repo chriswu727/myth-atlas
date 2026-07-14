@@ -1,0 +1,119 @@
+{
+  "id": "ra",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "拉",
+    "en": "Ra",
+    "original": "rꜥ",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "太阳神与众神之王",
+    "en": "Sun God and King of the Gods"
+  },
+  "summary": {
+    "zh": "埃及的太阳神与创世神，鹰首人身，头顶日轮。白天乘太阳船横渡天空，夜间穿越冥界杜阿特，与混沌巨蛇阿佩普搏斗。",
+    "en": "The Egyptian sun god and creator, falcon-headed and crowned with the solar disk, who sails the sky by day and battles the chaos serpent Apep in the netherworld each night."
+  },
+  "description": {
+    "zh": "拉通常被描绘为鹰首人身的男子，头顶一轮红日，日轮外盘绕着一条昂首的圣蛇（乌赖乌斯）。他的崇拜中心在下埃及的赫利奥波利斯（埃及语称伊乌努，意为'柱之城'），当地祭司将他与原初神阿图姆合一，尊为九柱神之首：拉-阿图姆从原初之水努恩中自我生成，立于原初土丘之上，由他生出空气神舒与湿气神泰芙努特，进而繁衍出整个神系。自第四王朝起，法老开始采用'拉之子'的头衔，此后三千年间它始终是王名的固定组成部分。\n\n拉的日常职守是驾驭太阳船巡行：白昼乘'玛安杰特'昼船自东向西横渡天空，入夜换乘'美塞克泰特'夜船进入冥界杜阿特，在十二个小时区中逐段穿行，每夜都要面对企图吞噬太阳的混沌巨蛇阿佩普，在塞特等随行神祇协助下将其击退，黎明时分获得新生。《天牛之书》记载了他的另一桩著名事迹：年迈的拉察觉人类密谋反叛，遂派出自己的眼睛化作狮首女神塞赫美特惩戒人间，屠戮几至灭世，拉又用染红的啤酒灌醉她才止住杀戮。\n\n新王国时期，拉与底比斯主神阿蒙融合为阿蒙-拉，成为帝国的最高神。他的形象也渗入其他神祇：荷鲁斯与他结合为'拉-哈拉赫提'（双重地平线上的荷鲁斯），王陵壁画中夜间的拉则以公羊头的形态出现。",
+    "en": "Ra is usually shown as a man with a falcon's head, crowned by a red solar disk encircled by a rearing uraeus cobra. His cult was centered at Heliopolis in Lower Egypt, where priests merged him with the primeval god Atum as head of the Ennead: Ra-Atum arose self-created from the waters of Nun, stood upon the first mound of earth, and engendered Shu and Tefnut, from whom the rest of the pantheon descended. From the Fourth Dynasty onward, pharaohs bore the title 'Son of Ra' as a fixed element of the royal titulary for the next three thousand years.\n\nRa's daily work is the voyage of the solar barque: by day he crosses the sky in the day-boat Mandjet, and at night he boards the night-boat Mesektet to travel through the twelve hour-regions of the Duat, where the chaos serpent Apep attacks the vessel and must be driven off before dawn. The Book of the Heavenly Cow preserves another famous episode: the aging Ra, learning that humanity plotted against him, sent out his Eye in the form of the lioness Sekhmet, whose slaughter was halted only when Ra flooded the fields with beer dyed red like blood.\n\nIn the New Kingdom Ra fused with the Theban god Amun as Amun-Ra, supreme deity of the empire, while his combination with Horus produced Ra-Horakhty, 'Horus of the Two Horizons.'"
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "创世",
+      "王权",
+      "秩序"
+    ],
+    "en": [
+      "Sun",
+      "Creation",
+      "Kingship",
+      "Order"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "鹰首人身，头顶日轮与圣蛇",
+        "en": "Falcon-headed man with solar disk and uraeus"
+      }
+    },
+    {
+      "label": {
+        "zh": "崇拜中心",
+        "en": "Cult center"
+      },
+      "value": {
+        "zh": "赫利奥波利斯（伊乌努）",
+        "en": "Heliopolis (Iunu)"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Vessel"
+      },
+      "value": {
+        "zh": "昼船玛安杰特与夜船美塞克泰特",
+        "en": "Day-barque Mandjet and night-barque Mesektet"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "古王国《金字塔铭文》",
+        "en": "Old Kingdom Pyramid Texts"
+      }
+    }
+  ],
+  "related": [
+    "amun",
+    "horus",
+    "apep",
+    "duat",
+    "bennu",
+    "maat"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《阿姆杜阿特书》",
+      "en": "Amduat"
+    },
+    {
+      "zh": "《天牛之书》",
+      "en": "Book of the Heavenly Cow"
+    }
+  ],
+  "geo": {
+    "lat": 30.13,
+    "lon": 31.31,
+    "label": {
+      "zh": "赫利奥波利斯",
+      "en": "Heliopolis"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ra.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_der_Nefertari_001.jpg",
+    "sourceTitle": "Burial chamber of Nefertari, wife of Ramses II, Scene: The God Re-Harakhty and Amentit, the goddess of the West, Detail",
+    "artist": "Maler der Grabkammer der Nefertari",
+    "license": "Public domain",
+    "width": 832,
+    "height": 1000
+  }
+}

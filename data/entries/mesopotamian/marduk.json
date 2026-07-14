@@ -1,0 +1,111 @@
+{
+  "id": "marduk",
+  "tradition": "mesopotamian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "马尔杜克",
+    "en": "Marduk"
+  },
+  "title": {
+    "zh": "巴比伦主神、众神之王",
+    "en": "Patron of Babylon, King of the Gods"
+  },
+  "summary": {
+    "zh": "巴比伦主神。《埃努玛·埃利什》中斩杀提亚马特、剖其尸造天地并登众神之王位；圣兽为怒蛇，塔庙埃特梅南基被视为巴别塔原型。",
+    "en": "Patron god of Babylon who, in Enuma Elish, slew Tiamat, split her body into heaven and earth, and took kingship of the gods; his ziggurat Etemenanki likely inspired the Tower of Babel."
+  },
+  "description": {
+    "zh": "马尔杜克是巴比伦城的主神，埃阿（恩基）之子，名字的楔文写法意为“太阳之犊”。他的神庙埃萨吉拉与七级塔庙埃特梅南基雄踞城心，后者高约九十米，一般认为是“巴别塔”传说的种子。他的圣兽是怒蛇穆什胡什——角蛇之首、狮之前足、鹰之后爪、蝎之尾——在伊什塔尔门的蓝釉砖上成排列队；他的标志物是三角铲“马鲁”。\n\n《埃努玛·埃利什》讲他的登基。原初咸海提亚马特兴兵复仇，老一辈神祇束手，年轻的马尔杜克开出价码：得胜则永掌最高神权。众神设宴授权，他携弓、网与四方之风出战，趁提亚马特张口驱风灌入，令其腹胀难合，一箭破心；再将尸身“如晾鱼般”剖成两半，上撑为天，下铺为地，又定星辰行度、分派众神岗位，以叛军主帅钦古之血造人代神服役。众神亲手为他筑起巴比伦作酬谢，史诗末尾历数他的五十个尊名。每年春季新年节（阿基图）第四日，祭司要在神像前把这部史诗从头诵到尾。\n\n他随汉谟拉比王朝崛起，公元前一千纪独尊，文献常径称他为“贝尔”（主）——《圣经》先知书中的“彼勒”即指他。居鲁士圆柱铭文声称，是马尔杜克亲自拣选波斯王、引他于公元前539年兵不血刃进入巴比伦。神庙与塔庙后毁于战乱与荒废，塔基轮廓至今在巴比伦遗址可辨。",
+    "en": "Marduk is the patron god of Babylon, son of Ea; his name was written with signs meaning 'bull calf of the sun.' His temple Esagila and the seven-staged ziggurat Etemenanki — some ninety meters tall, generally taken as the seed of the Tower of Babel story — dominated the city's heart. His beast is the mušḫuššu, a snake-dragon with horned serpent's head, lion's forelegs, eagle's hind talons, and a scorpion's sting, which parades in glazed brick across the Ishtar Gate; his emblem is the triangular spade called marru.\n\nEnuma Elish tells of his enthronement. When the primeval sea Tiamat rises in vengeance and the elder gods quail, young Marduk names his price: victory in exchange for permanent supremacy. Armed with bow, net, and the four winds, he drives the gales into Tiamat's open gullet until her belly distends, bursts her heart with an arrow, and splits the corpse 'like a fish for drying' into sky above and earth below; he then fixes the stations of the stars and the gods, and has mankind made from the blood of the rebel commander Qingu to bear the gods' labor. The gods build Babylon for him in thanks, and the poem closes by reciting his fifty names. Each spring, on the fourth day of the Akitu new year festival, priests recited the whole epic before his statue.\n\nHe rose with Hammurabi's dynasty and reigned supreme in the first millennium BCE, often simply as Bel, 'the Lord' — the Bel of the Hebrew prophets. The Cyrus Cylinder credits Marduk himself with choosing the Persian king and leading him into Babylon without battle in 539 BCE. Temple and tower later crumbled, though the ziggurat's footprint remains visible at Babylon."
+  },
+  "domains": {
+    "zh": [
+      "王权",
+      "创世",
+      "司法",
+      "法术"
+    ],
+    "en": [
+      "Kingship",
+      "Creation",
+      "Justice",
+      "Magic"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣兽",
+        "en": "Sacred beast"
+      },
+      "value": {
+        "zh": "怒蛇穆什胡什",
+        "en": "The mušḫuššu dragon"
+      }
+    },
+    {
+      "label": {
+        "zh": "神庙",
+        "en": "Temples"
+      },
+      "value": {
+        "zh": "埃萨吉拉与塔庙埃特梅南基",
+        "en": "Esagila and the ziggurat Etemenanki"
+      }
+    },
+    {
+      "label": {
+        "zh": "尊号",
+        "en": "Epithet"
+      },
+      "value": {
+        "zh": "贝尔（主）",
+        "en": "Bel, 'the Lord'"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Emblem"
+      },
+      "value": {
+        "zh": "三角铲“马鲁”",
+        "en": "The marru spade"
+      }
+    }
+  ],
+  "related": [
+    "tiamat",
+    "enki",
+    "tablet-of-destinies",
+    "ishtar"
+  ],
+  "sources": [
+    {
+      "zh": "《埃努玛·埃利什》",
+      "en": "Enuma Elish"
+    },
+    {
+      "zh": "居鲁士圆柱铭文",
+      "en": "The Cyrus Cylinder"
+    }
+  ],
+  "geo": {
+    "lat": 32.54,
+    "lon": 44.42,
+    "label": {
+      "zh": "巴比伦",
+      "en": "Babylon"
+    }
+  },
+  "image": {
+    "file": "/images/entries/marduk.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_history_of_Babylon_from_the_foundation_of_the_monarchy_to_the_Persian_conquest_(1915)_(14596763530).jpg",
+    "sourceTitle": "A history of Babylon from the foundation of the monarchy to the Persian conquest (1915) (14596763530)",
+    "artist": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "width": 427,
+    "height": 1000
+  }
+}

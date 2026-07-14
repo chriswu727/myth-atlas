@@ -1,0 +1,92 @@
+{
+  "id": "meng-huai",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "孟槐",
+    "en": "Menghuai"
+  },
+  "title": {
+    "zh": "可以御凶的赤毛豪彘",
+    "en": "The Red-Bristled Porcupine That Wards Off Evil"
+  },
+  "summary": {
+    "zh": "谯明之山的瑞兽，形似豪猪而长着赤红刚毛，叫声榴榴作响；养它或画它的形象可以抵御凶邪。",
+    "en": "A protective beast of Qiaoming Mountain, shaped like a porcupine with scarlet bristles and a rolling 'liu-liu' cry. Keeping it, or its painted image, was believed to ward off evil."
+  },
+  "description": {
+    "zh": "谯明之山不生草木，多产青雄黄。山中有兽，形状像貆——旧注多解为豪猪——但通身刚毛是赤红色的，叫起来“榴榴”作响，名叫孟槐。经文给它的用途只有四个字：“可以御凶”。\n\n《山海经》通篇的兽，大半是灾祸的预兆或食人的祸害，能反过来保护人的屈指可数。孟槐属于这一小类：它不预示什么，也不伤害什么，它本身就是一件辟邪的法器。郭璞注说它“亦在畏兽画中”——魏晋时人把一批能吓退鬼魅的猛兽画成图像，张挂驱邪，孟槐名列其中。一只红毛豪猪凭什么震慑凶邪，经文和注家都没有解释，或许浑身竖起的赤色棘刺本身就是答案。\n\n同座山的谯水里游着一首十身的何罗鱼，食之已痈。一座不长草木的秃山，出产一味外科药和一件辟邪符，谯明之山在北山经的凶险名录里算得上难得的善地。",
+    "en": "Qiaoming Mountain grows no plants and yields green realgar. Its beast is shaped like a huan — early commentators read this as a porcupine — but its stiff bristles are scarlet, and its cry is a rolling 'liu-liu'. It is called the menghuai, and the classic assigns it a function in four characters: it can ward off evil.\n\nMost creatures in the classic are omens of disaster or eaters of men; those that protect can be counted on one hand. The menghuai belongs to this small company. It predicts nothing and harms nothing — the animal itself is an apotropaic instrument. Guo Pu's commentary adds that it figured among the 'fearsome beasts' paintings: in the Wei-Jin period, images of monsters fierce enough to frighten off demons were painted and hung as protection, and the menghuai was in the set. Why a red porcupine should intimidate evil, neither text nor commentary explains; perhaps a body bristling with scarlet spikes was explanation enough.\n\nIn the Qiao River below swims the heluo fish, one head and ten bodies, a cure for abscesses. For a bald mountain without a blade of grass, Qiaoming is generously stocked — one surgical remedy and one charm against evil — making it a rare benign address in the northern catalogue."
+  },
+  "domains": {
+    "zh": [
+      "辟邪",
+      "瑞兽",
+      "赤色",
+      "畏兽"
+    ],
+    "en": [
+      "Warding",
+      "Auspicious Beasts",
+      "Scarlet",
+      "Fearsome-Beast Images"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "似豪猪，赤色刚毛",
+        "en": "Porcupine-like, with scarlet bristles"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "榴榴作响",
+        "en": "A rolling 'liu-liu'"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "可以御凶",
+        "en": "Wards off evil"
+      }
+    }
+  ],
+  "related": [
+    "he-luo-yu",
+    "er-shu",
+    "zhu-jian"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·北山经》（谯明之山）及郭璞注",
+      "en": "Classic of Mountains and Seas, 'Northern Mountains' (Qiaoming Mountain), with Guo Pu's commentary"
+    }
+  ],
+  "volume": {
+    "zh": "北山经",
+    "en": "Classic of the Northern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/meng-huai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic260_-_%E5%AD%9F%E6%A7%90%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic260 - 孟槐圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 726
+  }
+}

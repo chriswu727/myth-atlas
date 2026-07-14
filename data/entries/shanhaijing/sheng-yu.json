@@ -1,0 +1,95 @@
+{
+  "id": "sheng-yu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "胜遇",
+    "en": "Shengyu"
+  },
+  "title": {
+    "zh": "玉山上的水患之鸟",
+    "en": "Flood-omen Bird of Jade Mountain"
+  },
+  "summary": {
+    "zh": "玉山上的赤色雉形鸟，以鱼为食，鸣声如鹿；它出现在哪个国家，哪个国家就要发大水。",
+    "en": "A scarlet pheasant-like bird of Jade Mountain that feeds on fish and calls like a deer; whichever kingdom it appears in will suffer great floods."
+  },
+  "description": {
+    "zh": "玉山“是西王母所居也”。山中有鸟，“其状如翟而赤，名曰胜遇，是食鱼，其音如录，见则其国大水”——形如长尾的野雉而通体赤红，捕鱼为食，鸣声如鹿（录通鹿），它出现在哪个国家，哪个国家就要发大水。\n\n《穆天子传》记周穆王西征，“至于群玉之山”，取玉三乘而归；郭璞认为群玉之山就是西山经的玉山。女神与灾鸟同居一山：西王母在此“司天之厉及五残”，掌管灾疫与刑杀之气，赤色的胜遇则以现身预告洪水，两者同属玉山肃杀的一面。\n\n在西山经的兆验体系里，胜遇与太华山“见则天下大旱”的肥遗恰成一对水旱之谶；同样的“见则”句式贯穿全经，一鸟一蛇，把水旱两灾分派在相邻的山头。",
+    "en": "Jade Mountain 'is where the Queen Mother of the West dwells'. Its bird is the Shengyu: 'shaped like a long-tailed pheasant but scarlet, it eats fish, its call is like a deer's, and when it appears, that kingdom suffers great floods.'\n\nThe Mu Tianzi Zhuan brings King Mu of Zhou to 'the Mountain of Massed Jade' on his western progress, where he loads three chariots with jade; Guo Pu identified that mountain with the Jade Mountain of this classic. Goddess and disaster-bird share the one peak: here the Queen Mother 'presides over the plagues of heaven and the five destructions', mistress of pestilence and the executioner's breath, while the scarlet Shengyu announces coming floods by the mere fact of being seen. Both belong to the mountain's grimmer face.\n\nWithin the omen-system of the western mountains, the Shengyu pairs off against the Feiyi of Mount Taihua, whose appearance brings drought to all under heaven: one bird, one serpent, flood and drought parcelled out to neighboring peaks, in the recurring 'when it appears' formula that runs through the whole classic."
+  },
+  "domains": {
+    "zh": [
+      "水兆",
+      "食鱼",
+      "赤鸟",
+      "玉山"
+    ],
+    "en": [
+      "Flood Omen",
+      "Fish-eater",
+      "Scarlet Bird",
+      "Jade Mountain"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "状如翟而赤",
+        "en": "A scarlet long-tailed pheasant"
+      }
+    },
+    {
+      "label": {
+        "zh": "鸣声",
+        "en": "Call"
+      },
+      "value": {
+        "zh": "其音如鹿",
+        "en": "Like the call of a deer"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆验",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其国大水",
+        "en": "Its appearance brings floods to the kingdom"
+      }
+    }
+  ],
+  "related": [
+    "xiwangmu",
+    "fei-yi"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《穆天子传》",
+      "en": "Mu Tianzi Zhuan (Travels of King Mu)"
+    }
+  ],
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/sheng-yu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic112_-_%E8%83%9C%E9%81%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic112 - 胜遇圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 856
+  }
+}

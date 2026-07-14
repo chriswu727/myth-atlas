@@ -1,0 +1,107 @@
+{
+  "id": "ile-ife",
+  "tradition": "yoruba",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "伊费",
+    "en": "Ile-Ife",
+    "original": "Ilé-Ifẹ̀",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "约鲁巴圣城、大地开辟之处",
+    "en": "The Yoruba Holy City Where the Land Began"
+  },
+  "summary": {
+    "zh": "约鲁巴信仰中天地开辟之地，奥杜杜瓦在此倒沙成陆。城中相传供奉四百零一位神灵；12至15世纪的写实铸铜头像曾令欧洲考古界大为震动。",
+    "en": "The Yoruba holy city where Oduduwa first made dry land, said to keep shrines to 401 gods. Its naturalistic brass heads of the 12th-15th centuries stunned European archaeology; the Ooni still reigns there."
+  },
+  "description": {
+    "zh": "伊费（全称伊莱-伊费）是约鲁巴世界的圣城：奥杜杜瓦在此把泥沙倒上原初水面造出大地，城名一说源自\"大地变宽了\"一语。相传城中供奉着四百零一位神灵，一年到头几乎天天有祭。全约鲁巴的王权都从这里出发——只有追溯到奥杜杜瓦的君主才可佩戴垂珠王冠，历代\"奥尼\"（伊费王）被尊为他的直系继承人。\n\n考古证实这里在12至15世纪间是繁盛的都会。1910年，德国民族学家利奥·弗罗贝尼乌斯在城郊掘出写实的铜制与陶制头像，惊愕之下竟宣称此地是希腊人的殖民地、失落的亚特兰蒂斯——他不肯相信这是非洲本土的作品。1938年，翁莫尼耶院落又出土十余尊接近真人尺寸的铸铜头像，铸造之精可与欧洲文艺复兴铜像并观，今为尼日利亚国家博物馆的镇馆之藏。城中还立着高逾五米、嵌满铁钉的花岗岩石柱\"奥朗米扬之杖\"，传为奥杜杜瓦之子、奥约开国者奥朗米扬的纪念碑。\n\n今日的伊费是尼日利亚奥孙州的大学城，奥尼仍是全国地位最尊的传统君主之一。奥凯伊塔塞山上驻着伊法祭司之首阿拉巴；每年的奥洛乔节，奥尼戴起传国的阿雷王冠公开露面，祭祀奥贡并纪念开天辟地之日。",
+    "en": "Ile-Ife is the holy city of the Yoruba world, the place where Oduduwa poured earth on the primeval waters and dry land first appeared; one tradition derives its name from the report that 'the earth spreads wide'. The city is said to keep shrines to 401 divinities, with a festival for nearly every day of the year, and all Yoruba kingship flows from it: only rulers tracing descent to Oduduwa may wear the fringed beaded crown, and the Ooni of Ife reigns as his heir.\n\nArchaeology bears out a great city flourishing between the 12th and 15th centuries. In 1910 the German ethnographer Leo Frobenius unearthed naturalistic brass and terracotta heads and, unable to credit them to Africa, announced he had found a Greek colony, a lost Atlantis. In 1938 a cache of near life-size cast brass heads came to light in the Wunmonije compound, works of a precision that stands comparison with Renaissance bronze, now the pride of Nigeria's national museums. In the city stands the Opa Oranmiyan, a granite monolith over five meters tall studded with iron nails, held to be the monument of Oduduwa's son Oranmiyan, founder of Oyo.\n\nModern Ife is a university city in Osun State, and the Ooni remains among Nigeria's most senior traditional rulers. Oke Itase hill is the seat of the Araba, chief priest of Ifa, and at the yearly Olojo festival the Ooni appears in the ancestral Are crown to honor Ogun and the day of creation."
+  },
+  "domains": {
+    "zh": [
+      "圣城",
+      "创世之地",
+      "王权",
+      "青铜艺术"
+    ],
+    "en": [
+      "Holy city",
+      "Site of creation",
+      "Kingship",
+      "Brass sculpture"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "地位",
+        "en": "Status"
+      },
+      "value": {
+        "zh": "大地开辟之处，诸王室溯源之地",
+        "en": "Where land began; source of all Yoruba kingship"
+      }
+    },
+    {
+      "label": {
+        "zh": "名物",
+        "en": "Landmarks"
+      },
+      "value": {
+        "zh": "铸铜头像、奥朗米扬之杖",
+        "en": "Cast brass heads; the Opa Oranmiyan monolith"
+      }
+    },
+    {
+      "label": {
+        "zh": "在位君主",
+        "en": "Ruler"
+      },
+      "value": {
+        "zh": "奥尼（伊费王）",
+        "en": "The Ooni of Ife"
+      }
+    }
+  ],
+  "related": [
+    "oduduwa",
+    "obatala",
+    "ifa-divination",
+    "ogun"
+  ],
+  "sources": [
+    {
+      "zh": "利奥·弗罗贝尼乌斯《非洲的声音》（1913）",
+      "en": "Leo Frobenius, The Voice of Africa (1913)"
+    },
+    {
+      "zh": "弗兰克·威利特《伊费与西非雕塑史》（1967）",
+      "en": "Frank Willett, Ife in the History of West African Sculpture (1967)"
+    },
+    {
+      "zh": "塞缪尔·约翰逊《约鲁巴人史》（1921）",
+      "en": "Samuel Johnson, The History of the Yorubas (1921)"
+    }
+  ],
+  "geo": {
+    "lat": 7.47,
+    "lon": 4.56,
+    "label": {
+      "zh": "伊费",
+      "en": "Ile-Ife"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ile-ife.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arte_yoruba,_nigeria,_testa_da_ife,_12-15mo_secolo.JPG",
+    "sourceTitle": "Arte yoruba, nigeria, testa da ife, 12-15mo secolo",
+    "artist": "sailko",
+    "license": "CC BY-SA 3.0",
+    "width": 458,
+    "height": 1000
+  }
+}

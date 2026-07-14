@@ -1,0 +1,99 @@
+{
+  "id": "mothman",
+  "tradition": "american-folklore",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "天蛾人",
+    "en": "Mothman"
+  },
+  "title": {
+    "zh": "欢乐点镇的红眼飞行怪物",
+    "en": "The Red-Eyed Winged Creature of Point Pleasant"
+  },
+  "summary": {
+    "zh": "1966至1967年间在西弗吉尼亚州欢乐点镇频繁目击的人形飞行生物，双眼发出红光；1967年银桥垮塌后，它被与灾难预兆联系在一起。",
+    "en": "A winged humanoid with glowing red eyes reported around Point Pleasant, West Virginia in 1966-67; after the Silver Bridge collapse of December 1967 it became tied to omens of disaster."
+  },
+  "description": {
+    "zh": "1966年11月15日深夜，两对年轻夫妇驾车经过欢乐点镇北郊废弃的二战军火厂区（当地人称「TNT区」），看见一个约两米高的灰色人形立在路旁，背后收拢着巨大的翅膀，双眼像自行车反光镜一样发出红光。当他们加速逃离时，那东西展开约三米宽的翅膀，不扇动却贴着车顶追出数公里，时速接近一百六十公里。《欢乐点纪事报》次日刊出报道，「天蛾人」（报纸编辑仿照当时的蝙蝠侠电视剧起的绰号）随即成为全国新闻。\n\n此后的十三个月里，小镇及周边陆续出现上百起目击报告，多集中在TNT区的旧弹药掩体一带。1967年12月15日傍晚，连接西弗吉尼亚与俄亥俄的银桥（Silver Bridge）在晚高峰中突然垮塌，四十六人坠河遇难。事故原因后来查明是一根眼杆的应力腐蚀断裂，但天蛾人目击随之骤停，「怪物预告了灾难」的说法从此与它绑定。\n\n超自然作家约翰·基尔1975年的《天蛾人预言》（The Mothman Prophecies）把目击、UFO传闻与银桥惨案编织成完整叙事，2002年被改编为理查·基尔主演的同名电影。如今欢乐点镇立起一座不锈钢天蛾人雕像（2003年落成），设有天蛾人博物馆，每年九月的天蛾人节吸引数万游客，红眼怪物成了这座河边小镇的名片。",
+    "en": "Late on November 15, 1966, two young couples driving past the abandoned World War II munitions works north of Point Pleasant — the \"TNT area\" — saw a gray, man-shaped figure about two meters tall with huge folded wings and eyes that glowed red like bicycle reflectors. As they fled, the thing spread a three-meter wingspan and, without flapping, paced their car for miles at speeds near a hundred miles an hour. The Point Pleasant Register ran the story the next day, and \"Mothman,\" a nickname a newspaper copy editor coined after the then-popular Batman TV series, went national.\n\nOver the following thirteen months, more than a hundred sightings clustered around the old ammunition bunkers. Then, at rush hour on December 15, 1967, the Silver Bridge linking West Virginia and Ohio collapsed into the river, killing forty-six people. Investigators traced the failure to a corroded eyebar, but the sightings stopped almost at once, and the creature became fixed in legend as a herald of catastrophe.\n\nJohn Keel's 1975 book The Mothman Prophecies wove the sightings, UFO rumors, and the bridge disaster into a single narrative, filmed in 2002 with Richard Gere. Point Pleasant now has a stainless-steel Mothman statue erected in 2003, a Mothman Museum, and an annual September festival that draws tens of thousands of visitors."
+  },
+  "domains": {
+    "zh": [
+      "飞行人形怪",
+      "灾难预兆",
+      "红色发光眼",
+      "UFO怪谈"
+    ],
+    "en": [
+      "Winged humanoid",
+      "Disaster omen",
+      "Glowing red eyes",
+      "UFO lore"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "首次目击",
+        "en": "First sighting"
+      },
+      "value": {
+        "zh": "1966年11月15日，欢乐点镇TNT区",
+        "en": "November 15, 1966, in the TNT area near Point Pleasant"
+      }
+    },
+    {
+      "label": {
+        "zh": "关联事件",
+        "en": "Linked event"
+      },
+      "value": {
+        "zh": "1967年12月15日银桥垮塌，46人遇难",
+        "en": "Silver Bridge collapse, December 15, 1967; 46 dead"
+      }
+    },
+    {
+      "label": {
+        "zh": "纪念",
+        "en": "Commemoration"
+      },
+      "value": {
+        "zh": "天蛾人雕像（2003）与年度天蛾人节",
+        "en": "Mothman statue (2003) and the annual Mothman Festival"
+      }
+    }
+  ],
+  "related": [
+    "flatwoods-monster",
+    "bigfoot"
+  ],
+  "sources": [
+    {
+      "zh": "《欢乐点纪事报》1966年11月16日报道",
+      "en": "Point Pleasant Register, November 16, 1966"
+    },
+    {
+      "zh": "约翰·基尔《天蛾人预言》（1975）",
+      "en": "John Keel, The Mothman Prophecies (1975)"
+    }
+  ],
+  "geo": {
+    "lat": 38.84,
+    "lon": -82.14,
+    "label": {
+      "zh": "西弗吉尼亚州欢乐点镇",
+      "en": "Point Pleasant, West Virginia"
+    }
+  },
+  "image": {
+    "file": "/images/entries/mothman.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mothman_Statue_(cropped).jpg",
+    "sourceTitle": "Mothman Statue (cropped)",
+    "artist": "Csassen13",
+    "license": "CC0",
+    "width": 805,
+    "height": 1000
+  }
+}

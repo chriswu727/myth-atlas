@@ -1,0 +1,112 @@
+{
+  "id": "perun",
+  "tradition": "slavic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "佩伦",
+    "en": "Perun",
+    "original": "Перунъ",
+    "originalLang": "古东斯拉夫语"
+  },
+  "title": {
+    "zh": "雷霆与战争之神",
+    "en": "God of Thunder and War"
+  },
+  "summary": {
+    "zh": "古罗斯万神殿之首，司雷霆、战争与誓约。基辅大公弗拉基米尔曾为他立银首金须的木像，受洗后又将其沉入第聂伯河。",
+    "en": "Chief god of Kievan Rus, lord of thunder, war and oaths; Prince Vladimir raised his silver-headed idol in 980 and drowned it in the Dnieper after baptism."
+  },
+  "description": {
+    "zh": "佩伦是雷霆、闪电与战争之神，古罗斯万神殿之首。据《原初编年史》，公元980年基辅大公弗拉基米尔在宫外山丘立起六尊神像，佩伦居首：木身银首，胡须以黄金饰成。橡树是他的圣树；他的武器是斧与箭——直到近代，东欧农民仍把田里翻出的箭石化石叫作\"佩伦之箭\"，当成雷击留在地里的东西。\n\n罗斯人与拜占庭缔结907年、971年条约时，异教一方按兵器起誓，所凭的正是佩伦与\"牲畜之神\"沃洛斯。988年弗拉基米尔受洗，下令把佩伦像捆在马尾上拖下山丘，命十二人以杖击打，推入第聂伯河，并派人沿岸把它撑离浅滩，直到漂过激流。诺夫哥罗德城外的佩伦圣地(佩伦丘)也在同一时期被毁。更早的旁证出自6世纪：拜占庭史家普罗柯比记载，斯拉夫人尊\"闪电的制造者\"为万物之主，向他献牛为祭。\n\n基督教化后，佩伦的职能大多转给了先知以利亚：民间把雷声解释成以利亚的火车碾过天空。他的名字与立陶宛雷神佩尔库纳斯同源，学界据此把这位雷神上溯到印欧神话的共同层。",
+    "en": "Perun was the god of thunder, lightning and war, head of the pantheon of Kievan Rus. The Primary Chronicle records that in 980 Prince Vladimir set up idols on a hill outside his palace in Kyiv, Perun standing first among them, carved of wood with a silver head and a moustache of gold. The oak was sacred to him, and his weapons were the axe and the arrow: peasants across Eastern Europe long called the bullet-shaped belemnite fossils turned up by the plough \"Perun's arrows,\" the residue of lightning strikes.\n\nWhen Rus concluded treaties with Byzantium in 907 and 971, the pagan party swore on its weapons by Perun and by Volos, god of cattle. After his baptism in 988 Vladimir had the idol tied to a horse's tail, beaten with staves by twelve men and thrown into the Dnieper, with men posted along the bank to push it off the shallows until it had passed the rapids. The sanctuary of Peryn outside Novgorod was destroyed in the same years. Already in the sixth century Procopius had noted that the Slavs held the maker of lightning to be lord of all things and sacrificed cattle to him.\n\nUnder Christianity most of Perun's functions passed to the prophet Elijah, whose fiery chariot was said to rumble across the sky in a storm. His name is cognate with that of the Lithuanian thunder god Perkunas, which allows scholars to trace the figure back to a common Indo-European stratum."
+  },
+  "domains": {
+    "zh": [
+      "雷霆",
+      "战争",
+      "誓约",
+      "橡树"
+    ],
+    "en": [
+      "Thunder",
+      "War",
+      "Oaths",
+      "Oak"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "斧与\"雷箭\"",
+        "en": "Axe and \"thunder arrows\""
+      }
+    },
+    {
+      "label": {
+        "zh": "圣树",
+        "en": "Sacred tree"
+      },
+      "value": {
+        "zh": "橡树",
+        "en": "Oak"
+      }
+    },
+    {
+      "label": {
+        "zh": "神像",
+        "en": "Idol"
+      },
+      "value": {
+        "zh": "木身银首金须（基辅，980年）",
+        "en": "Wood, silver head, gold moustache (Kyiv, 980)"
+      }
+    },
+    {
+      "label": {
+        "zh": "基督教对应",
+        "en": "Christian successor"
+      },
+      "value": {
+        "zh": "先知以利亚",
+        "en": "The prophet Elijah"
+      }
+    }
+  ],
+  "related": [
+    "veles",
+    "mokosh",
+    "svarog"
+  ],
+  "sources": [
+    {
+      "zh": "《原初编年史》（12世纪初）",
+      "en": "Primary Chronicle (Povest' vremennykh let), early 12th century"
+    },
+    {
+      "zh": "普罗柯比《战记》（6世纪）",
+      "en": "Procopius, History of the Wars, 6th century"
+    }
+  ],
+  "geo": {
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "label": {
+      "zh": "基辅",
+      "en": "Kyiv"
+    }
+  },
+  "image": {
+    "file": "/images/entries/perun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perun_(Radzivill_Chronicle).jpg",
+    "sourceTitle": "Perun (Radzivill Chronicle)",
+    "artist": "The unknown chronicler",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 672
+  }
+}

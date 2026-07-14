@@ -1,0 +1,93 @@
+{
+  "id": "erinyes",
+  "tradition": "greek",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "厄里倪厄斯",
+    "en": "Erinyes",
+    "original": "Ἐρινύες",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "血亲复仇的三女神",
+    "en": "The Three Avengers of Kindred Blood"
+  },
+  "summary": {
+    "zh": "追猎弑亲者与背誓者的三位复仇女神，蛇发执鞭，罗马人称孚里埃。在埃斯库罗斯剧中受雅典供奉后改称\"仁慈者\"。",
+    "en": "Three goddesses who hunt kin-slayers and oath-breakers, snake-haired and whip-bearing, called Furies by the Romans. In Aeschylus they accept cult at Athens as the Kindly Ones."
+  },
+  "description": {
+    "zh": "厄里倪厄斯是执行血亲复仇的三位女神，罗马人称之为孚里埃。赫西俄德说她们诞生于乌拉诺斯被阉割时溅落在大地上的血滴。后世给出的名字是阿勒克托、墨纪拉与提西福涅。她们发间缠蛇，手执火把与铁鞭，专门追猎杀害血亲、背弃誓言之人，昼夜不舍，使猎物疯狂，直至其死方休。\n\n埃斯库罗斯《俄瑞斯忒亚》三部曲的终篇《欧墨尼得斯》以她们为歌队：俄瑞斯忒斯为父报仇杀死母亲后被她们一路追逐到雅典，雅典娜在阿瑞斯山设立法庭审理此案，票数相等时投下开释的一票；雅典娜继而说服复仇女神接受城邦的世代供奉，改称\"欧墨尼得斯\"，意为\"仁慈者\"，居于阿瑞斯山脚的洞窟中受祭。雅典人平日避讳直呼其名，改称\"庄严女神\"。这出戏把以血还血的旧法与城邦法庭的新秩序缝合在一处，成为西方文学中最早的\"审判\"场景之一。",
+    "en": "The Erinyes, whom the Romans called the Furies, are three goddesses who avenge the shedding of kindred blood. Hesiod says they were born from the drops of blood that fell upon Earth when Uranus was castrated; later tradition names them Alecto, Megaera, and Tisiphone. Snakes twine in their hair and they carry torches and iron whips as they hunt those who murder kin or break oaths, pursuing by day and night, driving their prey mad, and never relenting until death.\n\nIn the Eumenides, the closing play of Aeschylus's Oresteia trilogy, they form the chorus: they chase Orestes to Athens for killing his mother, Athena convenes a court on the Areopagus to try the case and casts the deciding vote for acquittal, and then persuades the goddesses to accept perpetual cult in the city under the new name Eumenides, 'the Kindly Ones,' with a shrine in a cave at the foot of the Areopagus. Athenians preferred not to speak their true name, calling them the August Goddesses. The play, staged in 458 BCE, stitched the old law of blood for blood to the new order of the civic court, one of the earliest trial scenes in Western literature."
+  },
+  "domains": {
+    "zh": [
+      "复仇",
+      "血亲罪",
+      "誓言",
+      "疯狂"
+    ],
+    "en": [
+      "Vengeance",
+      "Kindred blood",
+      "Oaths",
+      "Madness"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "三者之名",
+        "en": "Names"
+      },
+      "value": {
+        "zh": "阿勒克托、墨纪拉、提西福涅",
+        "en": "Alecto, Megaera, Tisiphone"
+      }
+    },
+    {
+      "label": {
+        "zh": "诞生",
+        "en": "Birth"
+      },
+      "value": {
+        "zh": "乌拉诺斯溅落大地的血滴",
+        "en": "From the blood of Uranus upon the Earth"
+      }
+    },
+    {
+      "label": {
+        "zh": "雅典祭所",
+        "en": "Athenian shrine"
+      },
+      "value": {
+        "zh": "阿瑞斯山旁的洞窟",
+        "en": "A cave beside the Areopagus"
+      }
+    }
+  ],
+  "related": [
+    "athena",
+    "zeus"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "埃斯库罗斯《欧墨尼得斯》",
+      "en": "Aeschylus, Eumenides"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/erinyes.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orestes_Pursued_by_the_Furies_by_William-Adolphe_Bouguereau_(1862)_-_Google_Art_Project.jpg",
+    "sourceTitle": "French: Les Remords The Remorse of Orestes or Orestes Pursued by the Furieslabel QS:Les,\"El Remordimiento de Orestes\"label QS:Lfr,\"Les Remords d’Oreste\"label QS:Lpl,\"Skrucha Orestesa\"label QS:Lde,\"Orestes wird von Furien gehetzt\"label QS:Lpt,\"O Remorso de Orestes\"label QS:Len,\"The Remorse of Orestes or Orestes Pursued by the Furies\"label QS:Lcs,\"Orestés pronásledovaný Erínyemi\"",
+    "artist": "William-Adolphe Bouguereau",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 830
+  }
+}

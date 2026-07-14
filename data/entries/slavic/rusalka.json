@@ -1,0 +1,93 @@
+{
+  "id": "rusalka",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "鲁萨尔卡",
+    "en": "Rusalka",
+    "original": "Русалка",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "水边的溺亡女灵",
+    "en": "Drowned Maiden of the Waters"
+  },
+  "summary": {
+    "zh": "由溺亡少女等\"非正常死者\"化成的水边女灵，长发披散，圣三一节前后上岸，攀在白桦上，把人挠痒至死或诱人下水。",
+    "en": "Female water spirits born of drowned girls and other unquiet dead; loose-haired, they leave the water around Trinity week to swing in birches, tickling victims to death or luring them in."
+  },
+  "description": {
+    "zh": "鲁萨尔卡是水边的女性精灵。俄罗斯北方的讲述里，她面色苍白、长发披散，坐在水边或桦树枝上梳头；乌克兰一带的南方形象则年轻美丽。民间普遍认为鲁萨尔卡由\"非正常死亡\"的女性化成——溺亡的少女、被弃的新娘、未受洗而夭折的女孩。她们夜里诱人下水，或把落单的人挠痒至死。\n\n与她们相连的是\"鲁萨尔卡周\"：东正教圣三一节前后的一周，据信此时她们离水上岸，攀在白桦枝上荡秋千，在黑麦田里奔跑。这一周忌下水游泳、忌单独入林，有的村子举行\"送走鲁萨尔卡\"的仪式，把扎好的草人抬出村外烧掉或抛进河里。民族志学者泽列宁在1916年的专著里把她们归入\"不洁死者\"——横死之人不得安息，滞留人间为祟，与寿终正寝、受后人祭享的祖先相对。\n\n19世纪起她们进入文人创作：普希金留下未完成的诗剧《鲁萨尔卡》，写磨坊主的女儿投河化灵复仇，达尔戈梅日斯基据此谱成同名歌剧（1856）；果戈理《五月之夜》里也有溺亡的小姐统领水中姐妹。捷克语境中的同类形象经德沃夏克歌剧《鲁萨尔卡》（1901）传遍世界，咏叹调《月亮颂》即出于此。",
+    "en": "The rusalka is a female spirit of the waters. In the Russian North she is told of as pale and dishevelled, combing her long loose hair on the bank or in a birch; in Ukraine and the south she is young and beautiful. Folk belief held that rusalki came from women who died \"unnatural\" deaths: drowned girls, jilted brides, infant daughters who died unbaptized. By night they lure passers-by into the water or tickle a solitary victim to death.\n\nTheir season is Rusalka week, the days around the Orthodox feast of Trinity, when they were believed to leave the water, swing on birch branches and run through the rye. During that week people avoided swimming and going alone into the woods, and some villages held a rite of \"seeing off the rusalka,\" carrying a straw effigy out of the village to be burned or thrown in the river. The ethnographer Dmitry Zelenin, in his 1916 monograph, classed them among the \"unclean dead\" — those whose violent or untimely deaths left them restless and dangerous, in contrast to ancestors who died in their beds and received proper offerings.\n\nFrom the nineteenth century they passed into literature and music: Pushkin left an unfinished verse drama Rusalka, about a miller's daughter who drowns herself and returns as a vengeful spirit, which Dargomyzhsky turned into an opera in 1856, and a drowned maiden commands her sisters in Gogol's \"May Night.\" The Czech cousin of the figure reached the world stage through Dvorak's opera Rusalka (1901), source of the famous Song to the Moon."
+  },
+  "domains": {
+    "zh": [
+      "水",
+      "溺亡者",
+      "白桦",
+      "麦田"
+    ],
+    "en": [
+      "Water",
+      "The drowned",
+      "Birch",
+      "Rye fields"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没时节",
+        "en": "Season"
+      },
+      "value": {
+        "zh": "圣三一节前后的\"鲁萨尔卡周\"",
+        "en": "Rusalka week, around Trinity"
+      }
+    },
+    {
+      "label": {
+        "zh": "来历",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "溺亡少女等\"不洁死者\"",
+        "en": "Drowned girls and other \"unclean dead\""
+      }
+    },
+    {
+      "label": {
+        "zh": "禁忌",
+        "en": "Taboo"
+      },
+      "value": {
+        "zh": "鲁萨尔卡周不下水、不单独入林",
+        "en": "No swimming or lone forest walks during her week"
+      }
+    }
+  ],
+  "related": [
+    "vodyanoy",
+    "kikimora"
+  ],
+  "sources": [
+    {
+      "zh": "泽列宁《俄罗斯神话论集：非正常死亡者与鲁萨尔卡》（1916）",
+      "en": "Dmitry Zelenin, Essays on Russian Mythology: Those Who Died Unnatural Deaths, and the Rusalki, 1916"
+    },
+    {
+      "zh": "阿法纳西耶夫《斯拉夫人对自然的诗意观照》（1865-1869）",
+      "en": "Alexander Afanasyev, The Poetic Outlook of the Slavs on Nature, 1865-69"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/rusalka.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iwan_Nikolajewitsch_Kramskoj_002.jpg",
+    "sourceTitle": "The Mermaids",
+    "artist": "Ivan Kramskoi",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 666
+  }
+}

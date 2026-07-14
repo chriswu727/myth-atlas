@@ -1,0 +1,84 @@
+{
+  "id": "san-shou-guo",
+  "tradition": "shanhaijing",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "三首国",
+    "en": "Land of the Three-Headed"
+  },
+  "title": {
+    "zh": "一身三首之民所居的海外之国",
+    "en": "A Country Whose People Have One Body and Three Heads"
+  },
+  "summary": {
+    "zh": "海外南经所记之国，其民一具身体上长着三个头。《淮南子》海外三十六国中称之为三头民。",
+    "en": "A far-southern country whose people bear three heads on a single body; the Huainanzi lists them among the thirty-six countries beyond the seas as the Three-Headed Folk."
+  },
+  "description": {
+    "zh": "《海外南经》记：\"三首国在其东，其为人一身三首。\"经文只此一句：这个国家的人一具身体，三个头颅。《淮南子·墬形训》历数海外三十六国，把他们称作\"三头民\"。历代《山海经》图本都把三首国人画成端立的人形，肩上并排三个头，有的版本三张脸神情各异。注家由这个形象生出许多揣想：三个头是否共用一副心思，三张嘴吃饭是否一饱俱饱，成了图赞题咏里反复把玩的题目。\n\n多头的人在《山海经》里自成一族。《大荒西经》另记有一种\"三面之人\"，是颛顼之子，三面一臂，据说永远不死；海外西经的奇肱国人一臂三目，海内西经守昆仑的开明兽九首人面。头颅与四肢的增减，是这部书想象异邦身体最常用的手法，多出来的头意味着多出来的耳目。三首国便是这套身体想象里最简洁的一例。",
+    "en": "The Classic of Regions Beyond the Seas: South spends exactly one clause on this country: its people have one body and three heads. The Huainanzi's catalogue of the thirty-six countries beyond the seas registers them as the Three-Headed Folk. Illustrated editions of the Shanhaijing across the centuries draw them as upright human figures with three heads set side by side on the shoulders, sometimes with three distinct expressions; commentators and colophon-writers amused themselves with the practical puzzles, whether three mouths share one hunger and whether three pairs of eyes share one mind.\n\nMultiplied heads form a family of their own within the book. The Classic of the Great Wilderness: West records a three-faced, one-armed son of the god Zhuanxu who is said never to die; the Land of Qigong in the western seas chapter has men with one arm and three eyes; the Kaiming beast guarding Kunlun carries nine human faces. Adding and subtracting heads and limbs is the Shanhaijing's favorite grammar for imagining foreign bodies. The Three-Headed Land is that grammar at its most economical."
+  },
+  "domains": {
+    "zh": [
+      "海外异国",
+      "奇异身体",
+      "多首"
+    ],
+    "en": [
+      "Far Lands",
+      "Marvelous Bodies",
+      "Many Heads"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "一身三首",
+        "en": "One body, three heads"
+      }
+    },
+    {
+      "label": {
+        "zh": "他书之名",
+        "en": "Other Name"
+      },
+      "value": {
+        "zh": "《淮南子》作三头民",
+        "en": "'Three-Headed Folk' in the Huainanzi"
+      }
+    }
+  ],
+  "related": [
+    "qi-gong-guo",
+    "kai-ming-shou",
+    "guan-xiong-guo"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·海外南经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: South'"
+    },
+    {
+      "zh": "《淮南子·墬形训》",
+      "en": "Huainanzi, 'Terrestrial Forms'"
+    }
+  ],
+  "volume": {
+    "zh": "海外南经",
+    "en": "Classic of Regions Beyond the Seas: South"
+  },
+  "image": {
+    "file": "/images/entries/san-shou-guo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Borders_-_pic129_-_%E4%B8%89%E9%A6%96%E5%9C%8B.png",
+    "sourceTitle": "Imperial Encyclopaedia - Borders - pic129 - 三首國",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 630,
+    "height": 1000
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "tower-of-babel",
+  "tradition": "abrahamic",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "巴别塔",
+    "en": "Tower of Babel",
+    "original": "מִגְדַּל בָּבֶל",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "通天塔与语言变乱之地",
+    "en": "The Tower to Heaven and the Confusion of Tongues"
+  },
+  "summary": {
+    "zh": "《创世记》记载天下人在示拿地烧砖建城造塔，塔顶通天。耶和华变乱他们的口音，使众人分散全地，城名巴别，意即\"变乱\"。",
+    "en": "In Genesis, all humankind bakes bricks on the plain of Shinar to build a city and a tower reaching heaven. The Lord confuses their speech and scatters them; the city is named Babel, 'confusion.'"
+  },
+  "description": {
+    "zh": "《创世记》第十一章开篇说，那时天下人的口音言语都是一样。他们往东边迁移，在示拿地遇见一片平原就住在那里，彼此商量：来吧，我们要作砖，把砖烧透——他们拿砖当石头，拿石漆（沥青）当灰泥——又说：来吧，我们要建造一座城和一座塔，塔顶通天，为要传扬我们的名，免得我们分散在全地上。耶和华降临要看世人所建的城和塔，说：看哪，他们成为一样的人民、都是一样的言语，如今既作起这事来，以后他们所要作的事就没有不成就的了。于是变乱他们的口音，使他们的言语彼此不通，众人就停工，从那里分散到全地。那城便叫作巴别。\n\n这段叙事嵌着一个双语的文字游戏：巴比伦城的阿卡德语名 Bab-ili 意为\"神之门\"，希伯来叙事者却把它谐音于动词 balal——\"变乱\"。塔的原型一般认为是巴比伦城的埃特曼安吉（Etemenanki）塔庙，\"天地之基之屋\"，供奉马尔杜克的多层砖砌大塔，基座每边约九十一米，尼布甲尼撒二世时代（公元前六世纪）重修至顶。希罗多德《历史》第一卷记述了他听闻的巴比伦八层高塔。今日巴比伦遗址（伊拉克希拉附近）尚存塔基轮廓与积水的基坑。\n\n巴别塔成为西方艺术中\"人力僭越\"的标准意象。老彼得·勃鲁盖尔一五六三年的油画把塔画成盘旋上升、永远未完工的螺壳状巨构，至今是维也纳艺术史博物馆的镇馆之作；\"巴别\"一词则进入多种语言，指嘈杂难辨的众声——语言学与翻译研究至今借它命名。",
+    "en": "Genesis 11 opens with the whole earth speaking one language. Migrating east, the people find a plain in the land of Shinar and settle there, saying to one another: come, let us make bricks and burn them thoroughly — brick served them for stone, and bitumen for mortar — and then: come, let us build ourselves a city, and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered over the face of the earth. The Lord comes down to see the city and the tower, observes that as one people with one language 'nothing they propose will now be impossible for them,' confuses their speech so that they cannot understand one another, and scatters them abroad. The building stops; the city is called Babel.\n\nThe story turns on a bilingual pun: the Akkadian name of Babylon, Bab-ili, means 'gate of the god,' but the Hebrew narrator hears in it the verb balal, 'to confuse.' The tower's model is generally taken to be Etemenanki, 'House of the Foundation of Heaven and Earth,' the great stepped ziggurat of Marduk at Babylon, its base roughly ninety-one meters on a side, rebuilt to full height under Nebuchadnezzar II in the sixth century BCE. Herodotus, in the first book of his Histories, describes the eight-staged tower he heard of at Babylon. The outline of the base and a waterlogged foundation pit survive at the site near modern Hillah, Iraq.\n\nThe tower became Western art's standing image of overreach. Pieter Bruegel the Elder's 1563 painting renders it as a spiraling, forever-unfinished shell, now among the most famous holdings of the Kunsthistorisches Museum in Vienna; 'babel' itself passed into many languages as a word for an unintelligible din, and lends its name to studies of language and translation to this day."
+  },
+  "domains": {
+    "zh": [
+      "通天塔",
+      "语言变乱",
+      "人力僭越"
+    ],
+    "en": [
+      "The tower to heaven",
+      "Confusion of tongues",
+      "Overreach"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "建材",
+        "en": "Materials"
+      },
+      "value": {
+        "zh": "烧透的砖，以石漆作灰泥",
+        "en": "Thoroughly burned brick, with bitumen for mortar"
+      }
+    },
+    {
+      "label": {
+        "zh": "现实原型",
+        "en": "Historical model"
+      },
+      "value": {
+        "zh": "巴比伦埃特曼安吉塔庙，基座每边约91米",
+        "en": "The ziggurat Etemenanki at Babylon, base c. 91 m on a side"
+      }
+    },
+    {
+      "label": {
+        "zh": "名字双关",
+        "en": "The pun"
+      },
+      "value": {
+        "zh": "\"神之门\"（Bab-ili）谐音\"变乱\"（balal）",
+        "en": "Bab-ili, 'gate of the god,' heard as balal, 'to confuse'"
+      }
+    }
+  ],
+  "related": [
+    "noahs-ark",
+    "garden-of-eden"
+  ],
+  "sources": [
+    {
+      "zh": "《创世记》11:1-9",
+      "en": "Genesis 11:1-9"
+    },
+    {
+      "zh": "希罗多德《历史》第一卷",
+      "en": "Herodotus, Histories, Book 1"
+    }
+  ],
+  "geo": {
+    "lat": 32.5364,
+    "lon": 44.4208,
+    "label": {
+      "zh": "巴比伦遗址（伊拉克希拉附近）",
+      "en": "Ruins of Babylon, near Hillah, Iraq"
+    }
+  },
+  "image": {
+    "file": "/images/entries/tower-of-babel.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+    "sourceTitle": "The Tower of Babel",
+    "artist": "Pieter Brueghel the Elder",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 731
+  }
+}

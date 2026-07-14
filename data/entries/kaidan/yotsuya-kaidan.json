@@ -1,0 +1,102 @@
+{
+  "id": "yotsuya-kaidan",
+  "tradition": "kaidan",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "四谷怪谈（阿岩）",
+    "en": "Yotsuya Kaidan (Oiwa)",
+    "original": "東海道四谷怪談",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "江户三大怪谈之首，被毒杀之妻的复仇",
+    "en": "The foremost of Edo's great ghost plays: a poisoned wife's revenge"
+  },
+  "summary": {
+    "zh": "浪人伊右卫门毒害发妻阿岩，她面容溃烂含恨而死，化作怨灵将丈夫一族逼向毁灭。1825年鹤屋南北的歌舞伎使其成为日本怨灵故事的原型。",
+    "en": "The ronin Iemon poisons his wife Oiwa; her face hideously disfigured, she dies cursing him and returns as a vengeful ghost. Tsuruya Nanboku's 1825 kabuki play made her the archetype of the Japanese onryo."
+  },
+  "description": {
+    "zh": "阿岩是江户四谷地方御家人田宫家的女儿，招浪人民谷伊右卫门入赘。伊右卫门觊觎邻家伊藤喜兵卫的家产，想娶其孙女阿梅，便默许伊藤家送来伪装成补药的毒药。阿岩服下后没有死，右半边脸却溃烂垂落、头发成把脱落。梳头时她对镜看清自己的面容，悲愤而死。此后怨灵缠上伊右卫门：新婚之夜他看见阿梅的脸变成阿岩，挥刀误杀新娘；提灯里、蚊帐上、鳗鱼笼中处处是那张烂了半边的脸，田宫、伊藤两家相继灭门。\n\n四世鹤屋南北的歌舞伎《东海道四谷怪谈》1825年7月在江户中村座初演，与《假名手本忠臣藏》两日交替连演，把阿岩的故事嵌进忠臣藏的世界。「发梳」一场演阿岩梳头掉发、「户板返」一场演钉在门板两面的阿岩与小仏小平尸首随水漂流翻转，都是歌舞伎机关布景的名场面。故事的更早源头是1727年成书的实录体《四谷杂谈集》，记元禄年间田宫伊右卫门与阿岩的传闻。\n\n江户至今流传「演阿岩不参拜必遭祟」的说法，剧组开演前照例到四谷左门町的於岩稻荷田宫神社上香。木下惠介（1949年）、中川信夫（1959年）先后将其搬上银幕，阿岩半面溃烂的形象成为日本恐怖片女鬼谱系的起点。",
+    "en": "Oiwa was a daughter of the Tamiya family, low-ranking samurai of Yotsuya in Edo, married to the adopted ronin husband Tamiya Iemon. Coveting a marriage into the wealthy Ito household next door, Iemon lets the Itos send Oiwa a poison disguised as medicine. It does not kill her outright: the right side of her face swells and sloughs, and her hair comes out in bloody handfuls as she combs it before a mirror. She dies in rage and grief, and her ghost fastens on Iemon. On his wedding night he sees Oiwa's ruined face where his new bride's should be and cuts the girl down; the face surfaces in lanterns, on mosquito nets, in an eel trap, until both houses, Tamiya and Ito, are destroyed.\n\nTsuruya Nanboku IV's kabuki play Tokaido Yotsuya Kaidan opened at the Nakamura-za in Edo in the seventh month of 1825, staged on alternating days with the loyal-retainer epic Chushingura, whose world it darkly inverts. The hair-combing scene and the toitagaeshi, a door plank that flips to show Oiwa's corpse nailed to one side and the servant Kohei's to the other, remain celebrated stage machinery. An earlier prose source, the Yotsuya Zatsudanshu of 1727, records the supposed real scandal of Iemon and Oiwa from the Genroku years.\n\nA tradition holds that productions which fail to pay respects at the Oiwa Inari Tamiya shrine in Yotsuya suffer accidents, so casts still visit before opening night. Films by Kinoshita Keisuke (1949) and Nakagawa Nobuo (1959) fixed her half-ruined face as the founding image of the Japanese ghost-film heroine."
+  },
+  "domains": {
+    "zh": [
+      "怨灵",
+      "毒杀",
+      "复仇",
+      "歌舞伎"
+    ],
+    "en": [
+      "Vengeful ghosts",
+      "Poisoning",
+      "Revenge",
+      "Kabuki"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初演",
+        "en": "Premiere"
+      },
+      "value": {
+        "zh": "1825年7月，江户中村座",
+        "en": "Seventh month of 1825, Nakamura-za, Edo"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志形象",
+        "en": "Signature image"
+      },
+      "value": {
+        "zh": "右半面溃烂、梳头落发的阿岩",
+        "en": "Oiwa's ruined right profile, hair falling as she combs"
+      }
+    },
+    {
+      "label": {
+        "zh": "现存圣地",
+        "en": "Shrine"
+      },
+      "value": {
+        "zh": "四谷左门町於岩稻荷田宫神社",
+        "en": "Oiwa Inari Tamiya shrine, Samon-cho, Yotsuya"
+      }
+    }
+  ],
+  "related": [
+    "sarayashiki",
+    "botan-doro",
+    "kasane-ga-fuchi"
+  ],
+  "sources": [
+    {
+      "zh": "四世鹤屋南北《东海道四谷怪谈》（1825年初演）",
+      "en": "Tsuruya Nanboku IV, Tokaido Yotsuya Kaidan (premiered 1825)"
+    },
+    {
+      "zh": "《四谷杂谈集》（1727年）",
+      "en": "Yotsuya Zatsudanshu (1727)"
+    }
+  ],
+  "geo": {
+    "lat": 35.689,
+    "lon": 139.72,
+    "label": {
+      "zh": "东京四谷·於岩稻荷",
+      "en": "Oiwa Inari, Yotsuya, Tokyo"
+    }
+  },
+  "image": {
+    "file": "/images/entries/yotsuya-kaidan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_-_The_Lantern_Ghost,_Iwa_-_Google_Art_Project.jpg",
+    "sourceTitle": "The Lantern Ghost, Iwa",
+    "artist": "Katsushika Hokusai",
+    "license": "Public domain",
+    "width": 723,
+    "height": 1000
+  }
+}

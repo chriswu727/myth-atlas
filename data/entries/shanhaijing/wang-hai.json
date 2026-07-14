@@ -1,0 +1,94 @@
+{
+  "id": "wang-hai",
+  "tradition": "shanhaijing",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "王亥",
+    "en": "Wang Hai"
+  },
+  "title": {
+    "zh": "服牛驯畜、客死有易的商人先公",
+    "en": "The Shang Ancestor Who Tamed the Ox"
+  },
+  "summary": {
+    "zh": "大荒东经里两手操鸟、正吃鸟头的人物。他驯服了牛，寄居有易之国时被其君杀害夺牛——甲骨文中受隆重祭祀的「高祖亥」。",
+    "en": "A figure gripping a bird in both hands and eating its head. He tamed oxen and was murdered for his herds while lodging in Youyi — the 'High Ancestor Hai' lavishly sacrificed to in oracle-bone inscriptions."
+  },
+  "description": {
+    "zh": "大荒东经在困民国记下一个奇特的画面：有人名叫王亥，两手抓着鸟，正在吃鸟的头。经文接着用一句话概括他的结局：王亥把驯养的牛（仆牛）寄托给有易国和河伯，有易杀了王亥，夺走了牛。事后河伯顾念有易，帮其残部潜出，在野兽出没之地另建了摇民之国。\n\n故事的全貌靠其他文献拼合。郭璞注引《竹书纪年》：殷王子亥客居有易而行淫，有易之君绵臣杀了他；后来他的继承者上甲微向河伯借兵讨伐有易，灭其国，杀绵臣。《楚辞·天问》一连数问咏叹此事的曲折。《世本·作篇》记「胲作服牛」——王亥是驯牛服驾的发明者，商人凭牛车载货贸易于部族之间，后世「商人」一词的源头正系于这个善于迁徙贸易的族群。\n\n1917年，王国维发表《殷卜辞中所见先公先王考》，在甲骨文中认出商王隆重祭祀的「高祖亥」，与《山海经》《天问》《竹书纪年》的王亥一一对上，证明这位神话人物是实有的商先公。这是出土文字与神话文本互证的经典案例；卜辞里「亥」字有的写法上加鸟形，与「两手操鸟」的画面对读，尤其耐人寻味。",
+    "en": "In the country of Kunmin, the Great Wilderness: East records a strange tableau: a man named Wang Hai grips a bird in both hands and is eating its head. One sentence disposes of his life: Wang Hai entrusted his tamed oxen to the lord of Youyi and to the River Earl; Youyi killed Wang Hai and took the oxen. Afterward the River Earl, pitying Youyi, smuggled out its survivors to found the country of Yaomin among the wild beasts.\n\nThe full story is assembled from other texts. Guo Pu's commentary quotes the Bamboo Annals: the Yin prince Hai, a guest in Youyi, committed adultery there, and its ruler Mianchen killed him; later Hai's heir Shangjia Wei borrowed troops from the River Earl, destroyed Youyi, and slew Mianchen. The Heavenly Questions turns the affair over in a chain of anguished questions. The Shiben credits Hai with 'harnessing the ox' — the invention of ox-drawn transport on which his people's wandering trade was built, the very people whose name, Shang, became the Chinese word for merchant.\n\nIn 1917 Wang Guowei identified the 'High Ancestor Hai' receiving lavish cult in the oracle-bone inscriptions with the Wang Hai of the Classic, the Heavenly Questions, and the Bamboo Annals, proving the mythic figure a real pre-dynastic lord of Shang. It remains the textbook case of excavated writing corroborating myth — the more striking because some oracle-bone forms of the graph 'Hai' carry a bird element, echoing the man holding birds in both hands."
+  },
+  "domains": {
+    "zh": [
+      "商先公",
+      "驯牛",
+      "复仇",
+      "甲骨文"
+    ],
+    "en": [
+      "Shang Ancestor",
+      "Ox-Taming",
+      "Vengeance",
+      "Oracle Bones"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出场画面",
+        "en": "Tableau"
+      },
+      "value": {
+        "zh": "两手操鸟，方食其头",
+        "en": "Gripping a bird in both hands, eating its head"
+      }
+    },
+    {
+      "label": {
+        "zh": "功业",
+        "en": "Achievement"
+      },
+      "value": {
+        "zh": "始服牛，开商人畜牧贸易之端",
+        "en": "First to harness the ox, founding his people's herding trade"
+      }
+    },
+    {
+      "label": {
+        "zh": "身后",
+        "en": "Aftermath"
+      },
+      "value": {
+        "zh": "上甲微借河伯之师灭有易复仇",
+        "en": "His heir Shangjia Wei destroyed Youyi with the River Earl's troops"
+      }
+    }
+  ],
+  "related": [
+    "di-jun"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒东经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: East'"
+    },
+    {
+      "zh": "《楚辞·天问》",
+      "en": "Heavenly Questions (Tianwen)"
+    },
+    {
+      "zh": "郭璞注引《竹书纪年》",
+      "en": "Bamboo Annals, as quoted in Guo Pu's commentary"
+    },
+    {
+      "zh": "王国维《殷卜辞中所见先公先王考》（1917）",
+      "en": "Wang Guowei, 'The Pre-dynastic Lords and Kings of Shang Seen in Yin Oracle Inscriptions' (1917)"
+    }
+  ],
+  "volume": {
+    "zh": "大荒东经",
+    "en": "Classic of the Great Wilderness: East"
+  },
+  "image": null
+}

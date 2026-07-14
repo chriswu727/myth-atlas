@@ -1,0 +1,107 @@
+{
+  "id": "kali",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "迦梨",
+    "en": "Kali",
+    "original": "काली",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "时间与毁灭的黑女神",
+    "en": "The dark goddess of time and destruction"
+  },
+  "summary": {
+    "zh": "肤色如夜的恐怖女神：吐出长舌，颈挂人头串成的项链，四臂持剑与断首，脚踏躺卧的湿婆。她饮尽魔血，也被信徒尊为最护佑子女的母亲。",
+    "en": "The night-black goddess with lolling tongue and a garland of severed heads, sword in hand, standing on the prone Shiva. She drinks demon blood, yet devotees revere her as the fiercest of mothers."
+  },
+  "description": {
+    "zh": "迦梨的形象是印度神话中最惊心的画面之一：肤色黑如浓夜，散发披落，猩红长舌吐出口外，颈间挂着五十颗人头串成的项链，腰间围着断臂做成的裙子，四臂分持弯刀、滴血的断首，另两手结施无畏印与施愿印。她的脚下踩着仰卧的湿婆——通行的解释是：她在战场上杀得性起、狂舞不止，眼看要震碎大地，湿婆躺到她脚下，她低头认出丈夫，长舌一吐，戛然收势。\n\n她的出典是约成书于公元5-6世纪的《女神颂》（Devi Mahatmya，收于《摩根德耶往世书》）：杜尔迦迎战魔军时怒极，迦梨从她皱起的眉心跃出，吞噬魔兵。最著名的一战是斗“血种魔”罗乞多毗阇（Raktabija）——他的每滴血落地都会生出一个分身，诸神束手；迦梨张口接住每一滴溅出的血，将魔王连同分身尽数吸干。\n\n迦梨崇拜在孟加拉地区最盛：加尔各答的迦梨女神庙（Kalighat）相传是女神萨蒂遗体散落的圣地之一，一说加尔各答之名即源于此庙；每年秋季排灯节前后的迦梨普祭（Kali Puja）是当地最重要的节日之一。19世纪圣者罗摩克里希那在达克希涅斯瓦迦梨庙的侍奉，使她“恐怖之相下的慈母”形象深入人心。",
+    "en": "Kali presents one of the most arresting images in Hindu myth: skin black as midnight, hair unbound, a scarlet tongue lolling from her mouth, a garland of fifty severed heads at her neck and a skirt of severed arms at her waist. Two of her four hands hold a curved sword and a dripping head; the other two form gestures of protection and blessing. Beneath her feet lies Shiva—in the usual telling, her battle frenzy became a dance that threatened to shatter the earth, so Shiva lay down in her path; recognizing her husband underfoot, she stopped short, tongue thrust out.\n\nHer charter myth is the Devi Mahatmya (c. 5th–6th century CE, within the Markandeya Purana): as Durga faced the demon armies, Kali sprang from her furrowed brow and devoured the ranks. Her most famous duel was with Raktabija, the 'blood-seed' demon, each drop of whose spilled blood spawned a duplicate. Where the gods failed, Kali caught every drop on her tongue and drained the demon and his clones dry.\n\nHer worship is strongest in Bengal. The Kalighat temple—by one account the source of Calcutta's name—is counted among the sites where the body of the goddess Sati fell to earth; Kali Puja, held around Diwali each autumn, is one of the region's great festivals. The devotion of the 19th-century saint Ramakrishna at the Dakshineswar temple fixed her modern image: the terrifying face of a fiercely protective mother."
+  },
+  "domains": {
+    "zh": [
+      "时间",
+      "毁灭",
+      "母性",
+      "战场"
+    ],
+    "en": [
+      "Time",
+      "Destruction",
+      "Motherhood",
+      "Battle"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Emblems"
+      },
+      "value": {
+        "zh": "长舌、人头项链、断臂裙",
+        "en": "Lolling tongue, garland of heads, skirt of arms"
+      }
+    },
+    {
+      "label": {
+        "zh": "名字含义",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "“黑色者”，与“时间”（kala）同源",
+        "en": "'The black one,' cognate with kala, 'time'"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "First attested"
+      },
+      "value": {
+        "zh": "《女神颂》，约公元5-6世纪",
+        "en": "Devi Mahatmya, c. 5th–6th century CE"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Principal shrine"
+      },
+      "value": {
+        "zh": "加尔各答迦梨女神庙",
+        "en": "Kalighat, Kolkata"
+      }
+    }
+  ],
+  "related": [
+    "durga",
+    "shiva"
+  ],
+  "sources": [
+    {
+      "zh": "《摩根德耶往世书·女神颂》",
+      "en": "Devi Mahatmya, Markandeya Purana"
+    }
+  ],
+  "geo": {
+    "lat": 22.52,
+    "lon": 88.34,
+    "label": {
+      "zh": "加尔各答迦梨女神庙",
+      "en": "Kalighat, Kolkata"
+    }
+  },
+  "image": {
+    "file": "/images/entries/kali.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kali_by_Raja_Ravi_Varma.jpg",
+    "sourceTitle": "Kali trampling Shiva",
+    "artist": "Raja Ravi Varma",
+    "license": "Public domain",
+    "width": 720,
+    "height": 1000
+  }
+}

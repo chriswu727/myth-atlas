@@ -1,0 +1,93 @@
+{
+  "id": "veles",
+  "tradition": "slavic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "维列斯",
+    "en": "Veles",
+    "original": "Велесъ",
+    "originalLang": "古东斯拉夫语"
+  },
+  "title": {
+    "zh": "牲畜、财富与冥界之神",
+    "en": "God of Cattle, Wealth and the Underworld"
+  },
+  "summary": {
+    "zh": "编年史称他为\"牲畜之神\"，掌牲口、钱财与誓约；《伊戈尔远征记》称歌手博扬为\"维列斯之孙\"。",
+    "en": "The \"cattle god\" of the chronicles, keeper of livestock, wealth and oaths; the Tale of Igor's Campaign calls the bard Boyan his grandson."
+  },
+  "description": {
+    "zh": "维列斯（又作沃洛斯）司掌牲畜、财富、契约与冥界。编年史称他为\"牲畜之神\"（скотий богъ）——古罗斯语里\"牲畜\"一词兼指家畜与钱财，因此他也受商人供奉。佩伦的神像立在王公的山丘上，而据后世材料，基辅的沃洛斯像立在下城波多尔的商市河畔。\n\n907年与971年罗斯同拜占庭缔约，誓词并举佩伦与沃洛斯，武士以兵器和黄金起誓，背誓者自受诛罚。12世纪史诗《伊戈尔远征记》称传奇歌手博扬为\"维列斯之孙\"，可见他还被视为诗歌与预言的庇护者。\n\n语言学家伊万诺夫与托波罗夫依据民俗材料构拟出\"雷神斗蛇\"的框架，把维列斯放在佩伦的对立面：一个在天上执雷，一个化作巨蛇盘踞水畔树根，两者的争斗带来雨水。这一构拟影响很大，但中世纪文献并未直接记载。基督教化后，他的牧畜职能转给了圣弗拉西（圣布莱斯），农民把这位圣人的圣像挂进牛棚，二月的圣弗拉西节上给牲口喂祝圣过的面包。",
+    "en": "Veles, also written Volos, presided over cattle, wealth, contracts and the world below. The chronicles call him the \"cattle god\" (skotii bog); since the Old East Slavic word for cattle also meant money and property, merchants counted among his worshippers. While Perun's idol stood on the prince's hill in Kyiv, later sources place an idol of Volos down by the trading quarter of Podil on the riverbank.\n\nIn the treaties of 907 and 971 between Rus and Byzantium, the pagan side swore by both Perun and Volos, warriors taking their oath on weapons and gold. The twelfth-century epic Tale of Igor's Campaign calls the legendary singer Boyan \"grandson of Veles,\" which suggests he was also patron of poetry and prophecy.\n\nThe linguists Ivanov and Toporov, working from folklore, reconstructed a duel between the thunderer and a serpent, casting Veles as Perun's adversary: one wields lightning in the sky, the other coils as a great snake among the roots by the water, and their combat releases rain. The reconstruction has been influential, though no medieval text states it directly. After Christianization his herding functions passed to Saint Blaise (Vlasii), whose icon peasants hung in the cowshed and on whose February feast cattle were fed blessed bread."
+  },
+  "domains": {
+    "zh": [
+      "牲畜",
+      "财富",
+      "冥界",
+      "诗歌"
+    ],
+    "en": [
+      "Cattle",
+      "Wealth",
+      "Underworld",
+      "Poetry"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "别名",
+        "en": "Variant name"
+      },
+      "value": {
+        "zh": "沃洛斯（Волосъ）",
+        "en": "Volos"
+      }
+    },
+    {
+      "label": {
+        "zh": "构拟形态",
+        "en": "Reconstructed form"
+      },
+      "value": {
+        "zh": "水畔树根间的巨蛇（学者构拟）",
+        "en": "A great serpent by the water (scholarly reconstruction)"
+      }
+    },
+    {
+      "label": {
+        "zh": "基督教对应",
+        "en": "Christian successor"
+      },
+      "value": {
+        "zh": "圣弗拉西（圣布莱斯）",
+        "en": "Saint Blaise (Vlasii)"
+      }
+    }
+  ],
+  "related": [
+    "perun",
+    "svarog"
+  ],
+  "sources": [
+    {
+      "zh": "《原初编年史》（12世纪初）",
+      "en": "Primary Chronicle (Povest' vremennykh let), early 12th century"
+    },
+    {
+      "zh": "《伊戈尔远征记》（12世纪）",
+      "en": "The Tale of Igor's Campaign, 12th century"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/veles.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Mythology_of_All_Races_Vol_3_(Celtic_and_Slavic)_457.jpg",
+    "sourceTitle": "The Mythology of All Races Vol 3 (Celtic and Slavic) 457",
+    "artist": "Mikoláš Aleš",
+    "license": "Public domain",
+    "width": 604,
+    "height": 1000
+  }
+}

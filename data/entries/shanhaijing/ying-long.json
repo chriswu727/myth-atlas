@@ -1,0 +1,102 @@
+{
+  "id": "ying-long",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "应龙",
+    "en": "Yinglong"
+  },
+  "title": {
+    "zh": "蓄水杀蚩尤的有翼之龙",
+    "en": "The Winged Dragon Who Slew Chiyou"
+  },
+  "summary": {
+    "zh": "生有双翼的龙。助黄帝杀蚩尤与夸父后再不能回到天上，蛰居南方极远处，所以南方多雨；北方求雨则扮作应龙之状。",
+    "en": "A winged dragon who killed Chiyou and Kuafu for the Yellow Emperor, then could not return to heaven. It settled in the far south, which is why the south is rainy; drought-struck people mimicked its shape to call rain."
+  },
+  "description": {
+    "zh": "应龙是龙中生有双翼的一种——郭璞注一句「龙有翼者曰应龙」，把它和寻常的龙分开。大荒东经记：大荒东北角有座凶犁土丘之山，应龙住在南极（南方极远之地），它杀了蚩尤和夸父之后，再也上不了天，天上从此没有了兴云布雨的龙，所以下界屡屡大旱；大旱时人们装扮成应龙的样子求雨，便能得到大雨——这是巫术性求雨仪式在经文里留下的直接注脚。\n\n大荒北经补出那场大战的经过：蚩尤造兵器讨伐黄帝，黄帝命应龙在冀州之野迎击。应龙的本事是「畜水」，蚩尤便请来风伯雨师纵起大风雨压制它，最后黄帝降下天女魃止住风雨，才杀死蚩尤。立下首功的应龙与止雨的女魃一样付出了代价：神力耗损，回不了天界。\n\n《楚辞·天问》问「河海应龙，何尽何历」，王逸注说大禹治水时，应龙以尾画地，为禹指出该疏导的水道——它又成了治水故事里的功臣。南朝任昉《述异记》给龙排了资历：「龙五百年为角龙，千年为应龙」，应龙从此被视为龙修炼的最高阶。汉代画像石上带翼的龙，正是它的形象。",
+    "en": "Yinglong is the dragon that grew wings — Guo Pu's commentary separates it from ordinary dragons in one clause: 'a dragon with wings is called yinglong.' The Great Wilderness: East introduces it in the passage on a mound in the far northeast, but lodges the dragon itself at the southern extremity: after it killed Chiyou and Kuafu it could no longer ascend to heaven, and with no rain-making dragon above, the lands below suffered repeated drought. In time of drought people dressed in the likeness of Yinglong, and great rains came — a line of scripture preserving an actual rain-magic rite.\n\nThe Great Wilderness: North supplies the battle. Chiyou forged weapons and attacked the Yellow Emperor, who sent Yinglong against him in the wilds of Jizhou. Yinglong's art was hoarding the waters; Chiyou countered by summoning the Lord of Wind and Master of Rain to unleash a tempest, until the Emperor sent down his daughter Ba to stop the storm, and Chiyou was killed. Like the drought-woman, the victorious dragon paid with its power and its place in heaven.\n\nIn the Heavenly Questions the poet asks how far the dragon of the rivers and seas ranged and where its work ended; Wang Yi's commentary answers that when Yu tamed the flood, Yinglong drew lines on the earth with its tail to mark the channels. Ren Fang's Shuyiji later ranked it as the dragon's highest grade — five hundred years make a horned dragon, a thousand make a yinglong — and the winged dragons on Han dynasty carved stones bear its shape."
+  },
+  "domains": {
+    "zh": [
+      "龙",
+      "司雨",
+      "战功",
+      "双翼"
+    ],
+    "en": [
+      "Dragon",
+      "Rain",
+      "War Deeds",
+      "Wings"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "有翼之龙",
+        "en": "A dragon with wings"
+      }
+    },
+    {
+      "label": {
+        "zh": "战功",
+        "en": "Deeds"
+      },
+      "value": {
+        "zh": "为黄帝杀蚩尤与夸父，后助禹以尾画地导水",
+        "en": "Slew Chiyou and Kuafu; later traced flood channels with its tail for Yu"
+      }
+    },
+    {
+      "label": {
+        "zh": "下场",
+        "en": "Fate"
+      },
+      "value": {
+        "zh": "不得复上于天，处南极，故南方多雨",
+        "en": "Barred from heaven, it dwells in the far south, making the south rainy"
+      }
+    }
+  ],
+  "related": [
+    "nu-ba",
+    "huangdi",
+    "chiyou",
+    "da-yu",
+    "chinese-dragon"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·大荒东经》《大荒北经》",
+      "en": "Classic of Mountains and Seas, 'Great Wilderness: East' and 'North'"
+    },
+    {
+      "zh": "《楚辞·天问》及王逸注",
+      "en": "Heavenly Questions (Tianwen) with Wang Yi's commentary"
+    },
+    {
+      "zh": "任昉《述异记》",
+      "en": "Ren Fang, Shuyiji (Records of Strange Things)"
+    }
+  ],
+  "volume": {
+    "zh": "大荒东经",
+    "en": "Classic of the Great Wilderness: East"
+  },
+  "image": {
+    "file": "/images/entries/ying-long.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic342_-_%E6%87%89%E9%BE%8D%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic342 - 應龍圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 679,
+    "height": 1000
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "obatala",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥巴塔拉",
+    "en": "Obatala",
+    "original": "Ọbàtálá",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "白布之王、人体的塑造者",
+    "en": "King of the White Cloth, Shaper of Human Bodies"
+  },
+  "summary": {
+    "zh": "\"白布之王\"，用黏土塑造人体的造物奥里沙。醉酒时造出残缺之人，醒后立誓禁绝棕榈酒；残障者被尊为他的圣民，信徒终身着白。",
+    "en": "The 'King of the White Cloth', who molds human bodies from clay. Having shaped hunchbacks and albinos while drunk, he forswore palm wine; the disabled are sacred to him and his devotees wear white."
+  },
+  "description": {
+    "zh": "奥巴塔拉的名号意为\"白布之王\"，又被尊为\"大奥里沙\"（Òrìṣàńlá）。他的一切都是白色的：白布、白珠、白垩粉，祭品是在乳木果油里炖的蜗牛。奥罗杜马雷把塑造人体的工作交给他——他用黏土捏出人形，再由至高神吹入生命。\n\n他的两则核心神话都与棕榈酒有关。一则说，他在造人时喝醉了，捏出了驼背、白化与跛足之人；酒醒后他立誓永不再饮，并宣布这些身有残缺者为\"埃尼奥里沙\"——神的人，受他特别庇护，信徒也因此终身禁饮棕榈酒。另一则见于伊费创世传说：奥罗杜马雷本派他下界造陆，他途中饮酒醉倒，奥杜杜瓦取走蜗牛壳里的泥土抢先完成了造陆；伊费的节庆仪式中至今留有两派祭司竞争与和解的痕迹。\n\n他的信众以白衣白珠为标志，主庙在伊费。跨过大西洋后，他在古巴与仁慈圣母相认同；在巴西称奥沙拉（Oxalá），萨尔瓦多每年一月的邦芬教堂洗阶节上，身着白衣的人群用香水洗刷教堂台阶，正是他的祭仪与天主教习俗的合流。",
+    "en": "Obatala, 'King of the White Cloth', also honored as Orishanla, the Great Orisha, is the shaper of human bodies. Everything about him is white: white cloth, white beads, powdered chalk, snails stewed in shea butter for his table. Olodumare assigned him to mold human figures from clay, into which the supreme god then breathes life.\n\nHis two central myths both turn on palm wine. In one, he drank while shaping humans and his hands slipped: hunchbacks, albinos, and the lame came from that day's work. On sobering he swore off palm wine forever and declared people born with such bodies eni orisha, his sacred charges; his devotees keep the same prohibition. In the Ife creation story he was sent to found the dry land but drank on the way and fell asleep, and Oduduwa took the snail shell of earth and finished the task; the festivals of Ife still carry traces of the two cults' rivalry and reconciliation.\n\nHis worshippers dress in white, and his principal temple stands at Ife. In Cuba he merged with Our Lady of Mercy; in Brazil he is Oxala, honored each January in Salvador when crowds in white wash the steps of the Bonfim church with scented water."
+  },
+  "domains": {
+    "zh": [
+      "创造",
+      "纯洁",
+      "白布",
+      "残障者庇护"
+    ],
+    "en": [
+      "Creation",
+      "Purity",
+      "White cloth",
+      "Protection of the disabled"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣色",
+        "en": "Sacred color"
+      },
+      "value": {
+        "zh": "白色——白布、白珠、白垩",
+        "en": "White cloth, white beads, powdered chalk"
+      }
+    },
+    {
+      "label": {
+        "zh": "禁忌",
+        "en": "Taboo"
+      },
+      "value": {
+        "zh": "棕榈酒",
+        "en": "Palm wine"
+      }
+    },
+    {
+      "label": {
+        "zh": "祭品",
+        "en": "Offerings"
+      },
+      "value": {
+        "zh": "乳木果油炖蜗牛",
+        "en": "Snails stewed in shea butter"
+      }
+    }
+  ],
+  "related": [
+    "olodumare",
+    "oduduwa",
+    "ile-ife"
+  ],
+  "sources": [
+    {
+      "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）",
+      "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)"
+    },
+    {
+      "zh": "乌利·拜尔《约鲁巴神话》（1980）",
+      "en": "Ulli Beier, Yoruba Myths (1980)"
+    },
+    {
+      "zh": "威廉·巴斯科姆《十六贝壳占卜》（1980）",
+      "en": "William Bascom, Sixteen Cowries: Yoruba Divination from Africa to the New World (1980)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/obatala.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wooden_drum_from_the_worship_of_Obatala,_Yoruba.jpg",
+    "sourceTitle": "Wooden drum from the worship of Obatala, Yoruba",
+    "artist": "Stephanie cheks",
+    "license": "CC BY-SA 4.0",
+    "width": 750,
+    "height": 1000
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "mithra",
+  "tradition": "persian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "密特拉",
+    "en": "Mithra",
+    "original": "Miθra",
+    "originalLang": "阿维斯陀语"
+  },
+  "title": {
+    "zh": "契约与曙光之神",
+    "en": "God of Covenant and the Morning Light"
+  },
+  "summary": {
+    "zh": "司掌契约与誓言的雅扎塔，有千耳万眼，先于太阳驰过天空，监察一切背约者。他的名字后来远播罗马，成为密特拉密教的称号。",
+    "en": "The yazata of covenant and oath, thousand-eared and ten-thousand-eyed, who rides ahead of the sun and watches over all who break their word. His name later traveled to Rome."
+  },
+  "description": {
+    "zh": "密特拉是琐罗亚斯德教中地位最高的雅扎塔（受敬拜者）之一，名字本义即\"契约\"。《阿维斯陀》中篇幅最长的颂诗之一《密赫尔·亚什特》（第10亚什特）这样描绘他：有一千只耳朵、一万只眼睛，永不睡眠，站在宽广的瞭望处俯瞰全部雅利安人的土地；他在太阳升起之前率先驰上哈拉山巅，乘四匹白马拉的金轮战车，手持黄铜浇铸的百节巨锤。谁若背弃契约——无论是对信徒还是对异教徒立下的——就成为\"欺瞒密特拉者\"，他的战马会踏进背约者的国土，箭矢与锤击随之而至。\n\n他与公正之神拉什努、良知之神斯劳沙同为审判死者的三位神明之一，在钦瓦特桥头衡量灵魂的善恶。阿契美尼德晚期他重新出现在王家铭文中：阿尔塔薛西斯二世在苏萨与哈马丹的铭文里将阿胡拉·马兹达、阿纳希塔与密特拉并列呼告，求三神共同护佑宫殿与王身。他与太阳的关联日益紧密，中古波斯语的\"密赫尔\"（Mihr）一词兼指太阳、契约与友爱，祆教历法中每月第十六日与七月都以他命名，秋分时节的密赫尔干节至今仍在伊朗民间庆祝。公元一至四世纪风行罗马帝国军中的密特拉密教借用了他的名字，但其屠牛图像与地下密仪在波斯本土并无对应，学界一般视之为罗马人的再创造。",
+    "en": "Mithra is among the greatest of the yazatas, the venerated divinities of Zoroastrianism, and his name means \"covenant\" itself. The Mihr Yasht (Yasht 10), one of the longest hymns of the Avesta, describes him with a thousand ears and ten thousand eyes, never sleeping, watching all the Aryan lands from his broad lookout; before the sun rises he mounts the peak of Mount Hara, driving a golden-wheeled chariot drawn by four white horses and wielding a mace cast with a hundred bosses. Whoever breaks a compact — whether sworn to a believer or an unbeliever — becomes a liar to Mithra, and his horses carry ruin into the oath-breaker's country.\n\nWith Rashnu the judge and Sraosha the spirit of conscience, he weighs the souls of the dead at the Chinvat Bridge. In the later Achaemenid period he re-enters royal writing: Artaxerxes II invokes Ahura Mazda, Anahita, and Mithra together in his inscriptions at Susa and Hamadan, asking the three to protect his palace and person. His bond with the sun grew ever closer; Middle Persian mihr means at once sun, covenant, and affection, the sixteenth day of every month and the seventh month of the Zoroastrian calendar bear his name, and the autumn festival of Mehregan is still kept in Iran. The mystery cult of Mithras that spread through the Roman legions in the first centuries CE borrowed his name, but its bull-slaying icon and underground rites have no Persian counterpart and are generally regarded as a Roman creation."
+  },
+  "domains": {
+    "zh": [
+      "契约",
+      "誓言",
+      "曙光",
+      "审判",
+      "战争"
+    ],
+    "en": [
+      "Covenant",
+      "Oaths",
+      "Dawn light",
+      "Judgment",
+      "War"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "百节巨锤（瓦兹拉）",
+        "en": "Hundred-bossed mace (vazra)"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Chariot"
+      },
+      "value": {
+        "zh": "四匹白马拉的金轮战车",
+        "en": "Golden-wheeled chariot drawn by four white horses"
+      }
+    },
+    {
+      "label": {
+        "zh": "节日",
+        "en": "Festival"
+      },
+      "value": {
+        "zh": "密赫尔干节（秋分时节）",
+        "en": "Mehregan, near the autumn equinox"
+      }
+    },
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest attestation"
+      },
+      "value": {
+        "zh": "《阿维斯陀·密赫尔·亚什特》（第10亚什特）",
+        "en": "Mihr Yasht (Yasht 10) of the Avesta"
+      }
+    }
+  ],
+  "related": [
+    "ahura-mazda",
+    "anahita",
+    "chinvat-bridge"
+  ],
+  "sources": [
+    {
+      "zh": "《阿维斯陀·密赫尔·亚什特》（第10亚什特）",
+      "en": "Avesta, Mihr Yasht (Yasht 10)"
+    },
+    {
+      "zh": "阿尔塔薛西斯二世苏萨、哈马丹铭文",
+      "en": "Inscriptions of Artaxerxes II at Susa and Hamadan"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mithra.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mithra_(4684713252).jpg",
+    "sourceTitle": "Mithra (4684713252)",
+    "artist": "dynamosquito from France",
+    "license": "CC BY-SA 2.0",
+    "width": 750,
+    "height": 1000
+  }
+}

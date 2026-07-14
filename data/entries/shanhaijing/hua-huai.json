@@ -1,0 +1,88 @@
+{
+  "id": "hua-huai",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "猾褢",
+    "en": "Huahuai"
+  },
+  "title": {
+    "zh": "预示大兴徭役的人形彘鬣之兽",
+    "en": "Man-Shaped, Boar-Bristled Beast That Portends Forced Labor"
+  },
+  "summary": {
+    "zh": "尧光山异兽，形状像人而披猪鬃，冬天蛰伏在洞穴里，叫声像砍木头；它出现的县就要大兴徭役。",
+    "en": "A beast of Mount Yaoguang shaped like a man but bristled like a boar, hibernating in caves through winter, its cry like chopping wood; its appearance means mass forced labor for the county."
+  },
+  "description": {
+    "zh": "尧光之山，山南多玉，山北多金。《南山经》记：\"有兽焉，其状如人而彘鬣，穴居而冬蛰，其名曰猾褢，其音如斫木，见则县有大繇。\"它长着人的形状，背上却披猪鬃，住在洞穴里，整个冬天蛰伏不出，叫起来像斧头砍木头的笃笃声。\n\n\"大繇\"即大兴徭役——猾褢一出现，这个县的百姓就要被征去服苦役。这条征兆在《山海经》的灾异名录里格外世故：旱涝是天灾，徭役却是人祸，写经的人把官府征发劳力与怪兽出没同列为灾，等于承认在山民眼里两者的分量相当。同属南次二经的柜山狸力\"见则其县多土功\"，与猾褢正好配套——一个预示破土动工，一个预示征调民夫。它斫木般的叫声也像谶语：大役一起，先响起来的正是伐木声。这头人形兽没有任何后续传说，只在历代图本里留下一个披鬃毛、蹲在洞口的身影。",
+    "en": "Mount Yaoguang yields jade on its southern slope and gold on the northern. Its beast, the huahuai, is shaped like a man but bristled with a boar's mane; it dens in caves and sleeps through the winter, and its cry sounds like an axe striking timber. The final clause is the point: when it is seen, the county will suffer da yao — a great levy of forced labor.\n\nAmong the book's catalogued calamities this one is strikingly worldly. Drought and flood are acts of heaven, but corvee labor is an act of government, and the compilers list the state's conscription of workers alongside natural disaster as something a monster can forebode — an admission of how the two weighed equally on the people of the hills. It pairs neatly with the lili of Mount Ju in the same range, whose appearance means heavy earthworks: one beast announces the digging, the other the drafting of the diggers. Even the huahuai's wood-chopping voice reads like an omen fulfilled, since the first sound of any great project is the felling of trees. The creature acquired no later legend, surviving only in illustrated editions as a bristle-backed figure crouched at a cave mouth."
+  },
+  "domains": {
+    "zh": [
+      "徭役之兆",
+      "人形兽",
+      "灾异"
+    ],
+    "en": [
+      "Omens of Forced Labor",
+      "Man-Shaped Beasts",
+      "Calamities"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "尧光之山",
+        "en": "Mount Yaoguang"
+      }
+    },
+    {
+      "label": {
+        "zh": "习性",
+        "en": "Habit"
+      },
+      "value": {
+        "zh": "穴居，冬蛰",
+        "en": "Cave-dwelling; hibernates in winter"
+      }
+    },
+    {
+      "label": {
+        "zh": "征兆",
+        "en": "Portent"
+      },
+      "value": {
+        "zh": "见则县有大繇",
+        "en": "Its appearance brings mass corvee labor"
+      }
+    }
+  ],
+  "related": [
+    "chang-you"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/hua-huai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol7b-huahuai.jpg",
+    "sourceTitle": "Shahaijing-chongzhen(1628–1644)-nanshanjing1-fol7b-huahuai",
+    "artist": "Jiang Yinghao 蔣應鎬 (illustr.); Li Wenxiao 李文孝 (engr.)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 503
+  }
+}

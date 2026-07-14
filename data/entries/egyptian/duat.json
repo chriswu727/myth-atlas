@@ -1,0 +1,101 @@
+{
+  "id": "duat",
+  "tradition": "egyptian",
+  "type": "place",
+  "era": "ancient",
+  "name": {
+    "zh": "杜阿特",
+    "en": "Duat",
+    "original": "dwꜣt",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "埃及冥界",
+    "en": "The Egyptian Netherworld"
+  },
+  "summary": {
+    "zh": "太阳每夜穿行的冥界，分十二个小时区，有河流、火湖与重重门户。死者在此接受审判，通过者抵达丰饶的芦苇之野。",
+    "en": "The netherworld the sun crosses each night, divided into twelve hour-regions with rivers, lakes of fire, and guarded gates; here the dead are judged, the justified passing on to the Field of Reeds."
+  },
+  "description": {
+    "zh": "杜阿特的圣书体写法是一颗五角星外加圆圈。它是太阳落山后运行的另一个世界，位置说法不一——地下、天际之外或努特女神的体内——但地理是具体的：一条河流贯穿全境，太阳船循河而行，两岸有沙洲、火湖、喷火的巨蛇与手持利刃的守门者，全程划分为十二个小时区，对应黑夜的十二个小时，每区入口都有名字必须报出才能通行的大门。\n\n对它最系统的描绘是新王国王陵墓壁上的'冥界书'。《阿姆杜阿特书》（意为'冥界所有之书'）最早完整出现于图特摩斯三世墓（约公元前1425年），逐小时图解太阳神的夜航：第七小时太阳船遭遇阿佩普的伏击，众神将巨蛇捆缚肢解；至深处太阳神的巴与奥西里斯的遗体合一，获得再生之力；第十二小时众神拖曳太阳船穿过一条巨蛇的身体，从蛇口而出即是黎明。稍晚的《门之书》则按十二重门组织同一旅程。\n\n对普通死者，杜阿特既是险途又是归宿。《亡灵书》就是穿越此地的指南：如何叫出门卫的名字、如何避开捕魂的罗网、如何在双重真理之殿通过心脏称量。通过审判者抵达'芦苇之野'（雅卢）——那里有开满作物的田垄和永远温和的风，是尼罗河谷的完美复本，死者在此耕种收获，永世安居。",
+    "en": "The Duat is written with a five-pointed star inside a circle. It is the other world through which the sun travels after setting; its location is variously conceived — beneath the earth, beyond the horizon, inside the body of the sky goddess Nut — but its geography is concrete: a river runs through it, along which the solar barque sails past sandbanks, lakes of fire, flame-spitting serpents, and knife-wielding gatekeepers, the whole divided into twelve regions matching the twelve hours of night, each entered through a gate whose name must be spoken aloud.\n\nThe fullest maps of it are the netherworld books painted in New Kingdom royal tombs. The Amduat, 'the book of what is in the netherworld,' first appears complete in the tomb of Thutmose III (c. 1425 BCE) and charts the sun god's voyage hour by hour: in the seventh hour Apep ambushes the barque and is bound and carved apart; in the depths the ba of Ra unites with the corpse of Osiris and draws the power of renewal; in the twelfth hour the gods haul the barque through the body of a great serpent, emerging from its mouth into dawn. The slightly later Book of Gates organizes the same journey around twelve guarded portals.\n\nFor the ordinary dead the Duat was both an ordeal and a destination. The Book of the Dead served as its guidebook: how to name the doorkeepers, evade the nets that trawl for souls, and pass the weighing of the heart in the Hall of Two Truths. The justified reach the Field of Reeds, a perfected replica of the Nile valley with heavy-laden fields and mild winds, where the dead plough, harvest, and dwell forever."
+  },
+  "domains": {
+    "zh": [
+      "冥界",
+      "夜航",
+      "审判",
+      "重生"
+    ],
+    "en": [
+      "Netherworld",
+      "Night Voyage",
+      "Judgment",
+      "Rebirth"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "结构",
+        "en": "Layout"
+      },
+      "value": {
+        "zh": "十二个小时区，门户重重",
+        "en": "Twelve hour-regions behind guarded gates"
+      }
+    },
+    {
+      "label": {
+        "zh": "终点",
+        "en": "Destination"
+      },
+      "value": {
+        "zh": "芦苇之野（雅卢）",
+        "en": "Field of Reeds (Aaru)"
+      }
+    },
+    {
+      "label": {
+        "zh": "文献",
+        "en": "Key texts"
+      },
+      "value": {
+        "zh": "《阿姆杜阿特书》《门之书》《亡灵书》",
+        "en": "Amduat, Book of Gates, Book of the Dead"
+      }
+    }
+  ],
+  "related": [
+    "ra",
+    "osiris",
+    "apep",
+    "anubis",
+    "weighing-of-the-heart",
+    "book-of-the-dead"
+  ],
+  "sources": [
+    {
+      "zh": "《阿姆杜阿特书》（图特摩斯三世墓，约公元前1425年）",
+      "en": "Amduat, tomb of Thutmose III, c. 1425 BCE"
+    },
+    {
+      "zh": "《门之书》",
+      "en": "Book of Gates"
+    },
+    {
+      "zh": "《亡灵书》",
+      "en": "Book of the Dead"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/duat.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tumba_de_Rams%C3%A9s_I,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_103.jpg",
+    "sourceTitle": "Tumba de Ramsés I, Valle de las Reyes, Luxor, Egipto, 2022-04-03, DD 103",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "width": 767,
+    "height": 1000
+  }
+}

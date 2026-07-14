@@ -1,0 +1,33 @@
+{
+  "id": "lei-shen",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": { "zh": "雷神", "en": "Thunder God of Lake Lei" },
+  "title": { "zh": "龙身人头、鼓腹作雷的雷泽之神", "en": "Dragon-Bodied God Who Drums His Belly for Thunder" },
+  "summary": {
+    "zh": "居于雷泽的神：龙的身体，人的头颅，一拍自己的肚腹便发出雷声。纬书相传华胥在雷泽踩到巨人足迹，感而生伏羲。",
+    "en": "A god of Lake Lei with a dragon's body and a human head who makes thunder by drumming his own belly. Apocryphal tradition says Huaxu trod in a giant footprint by this lake and conceived Fuxi."
+  },
+  "description": {
+    "zh": "《海内东经》记：\"雷泽中有雷神，龙身而人头，鼓其腹。在吴西。\"雷泽在吴地以西，泽中住着雷神：修长的龙身顶着一颗人头，它不用锤，不用鼓，拍打自己的肚腹，腹音隆隆，就是人间听到的雷。《淮南子·墬形训》记\"雷泽有神，龙身人头，鼓其腹而熙\"，还添了一个\"熙\"字——它拍着肚子自得其乐，雷声原来是一位神的嬉戏。\n\n这位雷神在感生神话里担任了要角。汉代纬书《诗含神雾》（《太平御览》引）说：\"大迹出雷泽，华胥履之，生宓牺。\"巨大的足迹出现在雷泽岸边，姑娘华胥踩了上去，感应而孕，生下人首蛇身的伏羲。旧注多以为那足迹正是雷泽之神留下的，龙身的雷神因此被算作伏羲的父亲——中华人文始祖的血统里，有一半来自这位拍肚子打雷的神。后世雷公演变为鸟喙持椎、连击天鼓的形象，鼓腹作雷的古老想象则留在了这条经文里。",
+    "en": "The Classic of Regions Within the Seas: East places Lake Lei west of the land of Wu and gives it a resident: the thunder god, dragon-bodied and human-headed, who drums on his own belly. No hammer, no drumhead; the rumble of that belly is what men below hear as thunder. The Huainanzi repeats the description and adds one telling word: he drums his belly in play. Thunder, in this oldest version, is a god amusing himself.\n\nThe god was drafted into one of China's founding conception myths. The Han apocryphon Shi Han Shen Wu, quoted in the Taiping Yulan encyclopedia, relates that a giant footprint appeared by Lake Lei; the maiden Huaxu stepped into it and conceived Fuxi, the snake-bodied first sage who would devise the trigrams. Commentators took the footprint to be the lake-god's own, which makes the belly-drumming thunderer Fuxi's father. Later ages gave China's thunder deity a bird's beak, a mallet, and a ring of sky-drums; the older image of thunder as a dragon slapping its own stomach survives only in lines like this one."
+  },
+  "domains": {
+    "zh": ["雷神", "雷泽", "感生神话", "龙身"],
+    "en": ["Thunder Gods", "Lake Lei", "Miraculous Conception", "Dragon Bodies"]
+  },
+  "traits": [
+    { "label": { "zh": "形貌", "en": "Form" }, "value": { "zh": "龙身而人头", "en": "Dragon body, human head" } },
+    { "label": { "zh": "发雷之法", "en": "Thunder" }, "value": { "zh": "鼓其腹，腹鸣即雷", "en": "Drums his belly; the rumble is thunder" } },
+    { "label": { "zh": "神裔", "en": "Offspring" }, "value": { "zh": "旧说华胥履其迹而生伏羲", "en": "Fuxi, conceived from his footprint by Huaxu" } }
+  ],
+  "related": ["fuxi", "tian-wu"],
+  "sources": [
+    { "zh": "《山海经·海内东经》", "en": "Shanhaijing, 'Classic of Regions Within the Seas: East'" },
+    { "zh": "《淮南子·墬形训》", "en": "Huainanzi, 'Terrestrial Forms'" },
+    { "zh": "《诗含神雾》（《太平御览》引）", "en": "Shi Han Shen Wu, quoted in the Taiping Yulan" }
+  ],
+  "volume": { "zh": "海内东经", "en": "Classic of Regions Within the Seas: East" },
+  "image": null
+}

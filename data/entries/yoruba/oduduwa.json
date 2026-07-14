@@ -1,0 +1,107 @@
+{
+  "id": "oduduwa",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "奥杜杜瓦",
+    "en": "Oduduwa",
+    "original": "Odùduwà",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "造地之神、诸王之祖",
+    "en": "Maker of the Land, Ancestor of Kings"
+  },
+  "summary": {
+    "zh": "在伊费倒沙成陆的造地之神，约鲁巴诸王室共同的始祖。凭铁链自天而降，五趾雄鸡把沙刨成大陆；唯有他的后裔才有资格佩戴串珠王冠。",
+    "en": "The god who made dry land at Ife, descending on an iron chain with a snail shell of earth and a five-toed cock, and the ancestor from whom every Yoruba royal house claims its crown."
+  },
+  "description": {
+    "zh": "在伊费的创世传说里，奥杜杜瓦攀着一条铁链从天而降，随身带着一只装满泥土的蜗牛壳和一只五趾雄鸡。他把泥土倒在原初的水面上，雄鸡用爪把它刨散开去，第一片陆地就在伊费出现。这一版本中，造陆的任务本属于奥巴塔拉，他途中醉饮棕榈酒睡去，奥杜杜瓦接手完成了大业。\n\n造出大地之后，他就地为王，成为伊费的第一位圣王，约鲁巴各王朝都把血脉追到他的家门。传统说法称他的子孙戴着串珠王冠散往四方，建立了七个王国，其中包括奥约，贝宁王朝的世系传说也上溯于此；至今只有能追溯到奥杜杜瓦的君主才有资格佩戴垂珠王冠，伊费的历代\"奥尼\"（伊费王）被尊为他的直接继承人。\n\n塞缪尔·约翰逊的《约鲁巴人史》记录了另一支传统：奥杜杜瓦是率族人自东方长途迁来的王子。他的名字始终是约鲁巴认同的锚点——1945年在伦敦成立的泛约鲁巴组织就自称\"奥杜杜瓦子孙会\"（Egbe Omo Oduduwa）。",
+    "en": "In the cosmogony of Ife, Oduduwa came down from heaven on an iron chain, carrying a snail shell of earth and a five-toed cock. He poured the earth on the primeval waters, the cock scratched it outward, and the first dry land appeared at Ile-Ife. In this version the task had belonged to Obatala, who drank palm wine on the way and fell asleep, and Oduduwa took it over and finished the work.\n\nHaving made the land, he ruled it as the first sacred king of Ife, and the Yoruba dynasties trace themselves to his household. Tradition counts seven crowned kingdoms founded by his children and grandchildren, among them Oyo, and the dynastic legend of Benin also reaches back to him; only rulers who can trace descent to Oduduwa may wear the fringed beaded crown, and the Ooni of Ife reigns as his direct successor.\n\nSamuel Johnson's History of the Yorubas records another tradition, in which Oduduwa is a prince who migrated with his people from the east. His name has remained the anchor of Yoruba identity: the pan-Yoruba movement founded in London in 1945 called itself Egbe Omo Oduduwa, 'Society of the Children of Oduduwa'."
+  },
+  "domains": {
+    "zh": [
+      "造地",
+      "王权",
+      "祖先",
+      "伊费"
+    ],
+    "en": [
+      "Land-making",
+      "Kingship",
+      "Ancestry",
+      "Ife"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "创世法器",
+        "en": "Instruments of creation"
+      },
+      "value": {
+        "zh": "铁链、盛土的蜗牛壳、五趾雄鸡",
+        "en": "Iron chain, snail shell of earth, five-toed cock"
+      }
+    },
+    {
+      "label": {
+        "zh": "王权象征",
+        "en": "Royal emblem"
+      },
+      "value": {
+        "zh": "串珠垂帘王冠，唯其后裔可戴",
+        "en": "Fringed beaded crown, reserved for his descendants"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred seat"
+      },
+      "value": {
+        "zh": "伊费，历代奥尼奉为始祖",
+        "en": "Ile-Ife, where the Ooni reigns as his heir"
+      }
+    }
+  ],
+  "related": [
+    "obatala",
+    "olodumare",
+    "ile-ife",
+    "shango"
+  ],
+  "sources": [
+    {
+      "zh": "塞缪尔·约翰逊《约鲁巴人史》（1921）",
+      "en": "Samuel Johnson, The History of the Yorubas (1921)"
+    },
+    {
+      "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）",
+      "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)"
+    },
+    {
+      "zh": "乌利·拜尔《约鲁巴神话》（1980）",
+      "en": "Ulli Beier, Yoruba Myths (1980)"
+    }
+  ],
+  "geo": {
+    "lat": 7.47,
+    "lon": 4.56,
+    "label": {
+      "zh": "伊费",
+      "en": "Ile-Ife"
+    }
+  },
+  "image": {
+    "file": "/images/entries/oduduwa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaded_crown_(ade)_of_Onijagbo_Obasoro_Alowolodu,_Ogoga_of_Ikere,_reigned_1890-1928,_Yoruba,_Ikere,_Osun_state,_Nigeria,_late_19th_century,_basketry,_beads,_cloth_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08538.JPG",
+    "sourceTitle": "Beaded crown (ade) of Onijagbo Obasoro Alowolodu, Ogoga of Ikere, reigned 1890-1928, Yoruba, Ikere, Osun state, Nigeria, late 19th century, basketry, beads, cloth - Brooklyn Museum - Brooklyn, NY - DSC08538",
+    "artist": "Daderot",
+    "license": "CC0",
+    "width": 639,
+    "height": 1000
+  }
+}

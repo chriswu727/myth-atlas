@@ -1,0 +1,93 @@
+{
+  "id": "domovoy",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "多莫沃伊",
+    "en": "Domovoy",
+    "original": "Домовой",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "灶后守宅的家神",
+    "en": "Guardian Spirit behind the Stove"
+  },
+  "summary": {
+    "zh": "每户一位的守宅精灵：多毛的小老头，住在灶后，疼爱马匹、夜里守屋；搬家时须念\"爷爷多莫沃伊，请随我们来\"。",
+    "en": "The hairy little old man of the household, one to each home, living behind the stove; he tends the horses and guards the house, and must be formally invited along when the family moves."
+  },
+  "description": {
+    "zh": "多莫沃伊是家宅的守护精灵，每户一位。民间说他是个矮小的老头，浑身长毛，面貌常像这家的男主人；住在灶后、门槛下或阁楼里，夜里能听见他走动、叹气。家宅安宁时他看护牲口、替人守夜，尤其疼爱马匹：中意哪匹马就替它编鬃、添料，嫌弃毛色不合就整夜折腾，害马出汗打颤。\n\n他厌恶争吵、脏话与懒惰，受了冒犯便作祟：敲墙、藏东西、夜里压得人喘不过气——民间把梦魇叫作\"多莫沃伊压身\"。主妇在灶边留一碟粥、一块面包和盐安抚他。搬家必须行请神礼：捧着旧宅的灶灰或面包盐，念\"爷爷多莫沃伊，请随我们来\"，否则他滞留空屋夜夜哭嚎，新宅也不得安生。他夜里呜咽预示灾祸；据说他有时伸手抚人，掌心温暖是吉兆，冰冷潮湿是凶兆。\n\n东正教会把他归入不洁之灵，供奉却从未断绝。1819年普希金写下短诗《致多莫沃伊》，请这位看不见的庇护者看守乡间的宅院与林园；至今俄语口语里，屋中无端的响动仍会被半开玩笑地推给\"多莫沃伊\"。",
+    "en": "The domovoy is the guardian spirit of the household, one to each home. He is described as a small old man covered in hair, often wearing the face of the master of the house; he lives behind the stove, under the threshold or in the attic, and at night he can be heard shuffling and sighing. In a peaceful house he watches the livestock and keeps guard, and he dotes on horses above all: a horse he favours has its mane plaited and its manger filled, while one whose colour displeases him is ridden and tormented all night until it stands sweating and trembling.\n\nHe detests quarrels, foul language and idleness, and when offended he makes himself felt: knocking in the walls, hiding things, pressing on a sleeper's chest — the nightmare was called \"the domovoy's weight.\" The housewife left a saucer of porridge, bread and salt by the stove to appease him. A move to a new house required a formal invitation: carrying embers or ash from the old stove, or bread and salt, the family recited \"Grandfather Domovoy, come with us,\" for otherwise he would stay weeping in the empty house and the new one would know no peace. His moaning at night foretold misfortune, and if his hand brushed a sleeper, a warm palm meant luck, a cold damp one meant grief.\n\nThe Orthodox Church counted him among the unclean spirits, yet his offerings never ceased. In 1819 Pushkin addressed a short poem \"To the Domovoy,\" asking the unseen protector to watch over his country estate; in colloquial Russian, an unexplained creak in the house is still jokingly blamed on the domovoy."
+  },
+  "domains": {
+    "zh": [
+      "家宅",
+      "灶火",
+      "马匹",
+      "预兆"
+    ],
+    "en": [
+      "Household",
+      "Hearth",
+      "Horses",
+      "Omens"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "灶后、门槛下、阁楼",
+        "en": "Behind the stove, under the threshold, in the attic"
+      }
+    },
+    {
+      "label": {
+        "zh": "供品",
+        "en": "Offerings"
+      },
+      "value": {
+        "zh": "粥、面包与盐",
+        "en": "Porridge, bread and salt"
+      }
+    },
+    {
+      "label": {
+        "zh": "搬家礼",
+        "en": "Moving rite"
+      },
+      "value": {
+        "zh": "捧旧灶灰念\"爷爷多莫沃伊，请随我们来\"",
+        "en": "Carrying old hearth ash: \"Grandfather Domovoy, come with us\""
+      }
+    }
+  ],
+  "related": [
+    "kikimora",
+    "vodyanoy"
+  ],
+  "sources": [
+    {
+      "zh": "阿法纳西耶夫《斯拉夫人对自然的诗意观照》（1865-1869）",
+      "en": "Alexander Afanasyev, The Poetic Outlook of the Slavs on Nature, 1865-69"
+    },
+    {
+      "zh": "达利《俄罗斯民间的信仰、迷信与偏见》（1845-1846）",
+      "en": "Vladimir Dal, On the Beliefs, Superstitions and Prejudices of the Russian People, 1845-46"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/domovoy.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domovoi_Bilibin.jpg",
+    "sourceTitle": "Domovoi Bilibin",
+    "artist": "Ivan Bilibin",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 748
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "book-of-the-dead",
+  "tradition": "egyptian",
+  "type": "artifact",
+  "era": "ancient",
+  "name": {
+    "zh": "亡灵书",
+    "en": "Book of the Dead",
+    "original": "rw nw prt m hrw",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "通往来世的咒文合集",
+    "en": "The Spell Collection for the Afterlife"
+  },
+  "summary": {
+    "zh": "陪葬纸草上的来世咒文集，埃及人称'白昼显形之书'，约两百章按需选抄，教死者报出门卫之名、通过心脏称量、抵达芦苇之野。",
+    "en": "The corpus of funerary spells written on burial papyri — 'Spells of Coming Forth by Day' — some two hundred chapters teaching the dead to name the gatekeepers, pass the weighing, and reach the Field of Reeds."
+  },
+  "description": {
+    "zh": "'亡灵书'这个名字是现代人起的——1842年，普鲁士学者卡尔·理查德·莱普修斯刊布都灵藏纸草时定名《埃及人的死者之书》并给各章编号，沿用至今。埃及人自己称之为'白昼显形之书'：让死者能在白昼自由出入冥界、化形往来的咒文。全集约两百章，从未有'标准全本'，抄写作坊按买主的财力选抄章节，写在纸草卷上随葬，讲究的配有彩绘插图，卷长可达二十余米，死者姓名逐处填入空位。\n\n它是埃及丧葬文献近两千年演化的末端：古王国的《金字塔铭文》（最早刻于约公元前2350年的乌纳斯金字塔墓室）专属王室；中王国的《棺文》写上了官员平民的棺板；新王国（约公元前1550年起）咒文移到纸草上，来世资格彻底放开——只要买得起一卷。内容包罗死后诸事：保住姓名与心脏的咒、不头下脚上行走的咒、化作贝努鸟或莲花的咒、辨认十二重门守卫名号的咒，核心是第125章的心脏称量审判。\n\n存世抄本数以百计，最著名的《阿尼纸草》长约24米，1888年由大英博物馆购藏（编号EA 10470），其审判场景与插图是今天埃及来世想象的标准图像来源。",
+    "en": "The title 'Book of the Dead' is modern: in 1842 the Prussian scholar Karl Richard Lepsius published a Turin papyrus as 'Das Todtenbuch der Ägypter' and assigned the chapter numbers still in use. The Egyptians called it the 'Spells of Coming Forth by Day' — utterances enabling the dead to move freely in and out of the netherworld in daylight and take what forms they wished. The corpus runs to roughly two hundred chapters, but no standard edition ever existed: workshops copied a selection matched to the buyer's purse onto a papyrus roll placed in the burial, the finest examples running over twenty meters with painted vignettes, the owner's name filled into blanks throughout.\n\nIt is the last stage of nearly two millennia of funerary literature: the Pyramid Texts of the Old Kingdom, first carved in the pyramid of Unas around 2350 BCE, were reserved for kings; the Coffin Texts of the Middle Kingdom spread onto the coffins of officials and commoners; from the New Kingdom (c. 1550 BCE) the spells moved to papyrus and the afterlife opened to anyone who could afford a scroll. The contents cover every posthumous contingency — spells to keep one's name and heart, to avoid walking upside down, to transform into a bennu bird or a lotus, to name the guardians of the gates — centered on the judgment of spell 125.\n\nHundreds of copies survive. The most celebrated, the Papyrus of Ani, about 24 meters long, was acquired by the British Museum in 1888 (EA 10470), and its judgment vignette remains the standard image of the Egyptian afterlife."
+  },
+  "domains": {
+    "zh": [
+      "来世",
+      "咒文",
+      "丧葬",
+      "纸草"
+    ],
+    "en": [
+      "Afterlife",
+      "Spells",
+      "Funerary Rites",
+      "Papyrus"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "本名",
+        "en": "Original title"
+      },
+      "value": {
+        "zh": "白昼显形之书",
+        "en": "Spells of Coming Forth by Day"
+      }
+    },
+    {
+      "label": {
+        "zh": "规模",
+        "en": "Scope"
+      },
+      "value": {
+        "zh": "约200章，按需选抄",
+        "en": "c. 200 spells, copied to order"
+      }
+    },
+    {
+      "label": {
+        "zh": "名本",
+        "en": "Famous copy"
+      },
+      "value": {
+        "zh": "《阿尼纸草》，大英博物馆EA 10470",
+        "en": "Papyrus of Ani, British Museum EA 10470"
+      }
+    }
+  ],
+  "related": [
+    "weighing-of-the-heart",
+    "duat",
+    "osiris",
+    "thoth",
+    "bennu"
+  ],
+  "sources": [
+    {
+      "zh": "《阿尼纸草》（大英博物馆藏，约公元前1250年）",
+      "en": "Papyrus of Ani, British Museum, c. 1250 BCE"
+    },
+    {
+      "zh": "莱普修斯《埃及人的死者之书》（1842年）",
+      "en": "K. R. Lepsius, Das Todtenbuch der Ägypter, 1842"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/book-of-the-dead.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Book_of_the_Dead_of_Hunefer_sheet_3.jpg",
+    "sourceTitle": "Papyrus of Hunefer title QS:P1476,en:\"Papyrus of Hunefer \"label QS:Len,\"Papyrus of Hunefer \"label QS:Les,\"Papiro de Hunefer\"label QS:Lfr,\"Papyrus de Hounefer\"label QS:Lde,\"Papyrus des Hunefer\"label QS:Lmwl,\"Papiro de Hunefer\"label QS:Lca,\"Papir d'Hunefer\"label QS:Lel,\"Πάπυρος του Χουνεφέρ\"",
+    "artist": "Hunefer",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 457
+  }
+}

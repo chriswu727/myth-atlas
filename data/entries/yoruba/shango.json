@@ -1,0 +1,107 @@
+{
+  "id": "shango",
+  "tradition": "yoruba",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "尚戈",
+    "en": "Shango",
+    "original": "Ṣàngó",
+    "originalLang": "约鲁巴语"
+  },
+  "title": {
+    "zh": "雷电的奥里沙、奥约的神王",
+    "en": "Orisha of Thunder, Deified King of Oyo"
+  },
+  "summary": {
+    "zh": "雷电与正义的奥里沙，生前是奥约王国早期的阿拉芬（国王）。持双头斧，掷雷石击打说谎者；在科索自缢后封神，信众高呼\"王未曾吊死\"。",
+    "en": "Orisha of thunder and justice, in life an early king of Oyo. He hurls thunderstones at liars; after he hanged himself at Koso his followers cried 'the king did not hang' and worshipped him as a god."
+  },
+  "description": {
+    "zh": "尚戈是雷电的奥里沙，形象是佩红白串珠、手持双头斧\"奥谢\"的武士王，圣兽为公羊，专属乐器是双面沙漏形的巴塔鼓。约鲁巴人把田里偶尔掘出的新石器时代磨制石斧称为\"埃杜阿拉\"——雷石，相信那是尚戈掷向说谎者与盗贼的雷霆，郑重供在他的神龛里；被雷击中的宅院须请尚戈祭司前来净化。\n\n传说他生前是奥约王国早期的阿拉芬（国王），约翰逊的王表把他列在第三位，统治严酷而威震四方。一次他试验召雷的咒药，闪电劈中王宫，烧死了自己的妻儿；众叛亲离之下他弃位出走，在科索地方自缢于一棵阿扬树。追随者不肯承认，奔走高呼\"奥巴科索\"——王未曾吊死——宣告他已化为雷神升天。科索从此是他的圣所，这句话也成了他最响亮的尊号，今日奥约城中的科索神庙仍由王室供奉。\n\n在被贩往美洲的约鲁巴人当中，尚戈成为传播最广的奥里沙之一：古巴桑特里亚里的昌戈与圣芭芭拉相认同，巴西坎东布莱称他为尚戈（Xangô），特立尼达的奥里沙信仰长期干脆以\"尚戈\"为名。",
+    "en": "Shango is the orisha of thunder and lightning, pictured as a warrior king with red-and-white beads, a double-headed axe called oshe, the ram as his sacred animal, and the hourglass-shaped bata drums as his music. Neolithic stone celts turned up by farmers' hoes are kept in his shrines as edun ara, thunderstones, the bolts he hurls at liars and thieves; a compound struck by lightning had to be purified by his priests.\n\nTradition remembers him as an early Alaafin of Oyo, third in Samuel Johnson's king list, a ruler of terrifying power. Experimenting with a charm that commanded lightning, he brought a bolt down on his own palace, killing his wives and children. Deserted by his subjects, he left the throne and hanged himself on an ayan tree at Koso, but his followers proclaimed 'Oba ko so', the king did not hang, declaring that he had ascended as the god of thunder. Koso remains his sanctuary, the phrase his greatest praise-name, and the Koso shrine in present-day Oyo is still kept by the royal house.\n\nAmong the Yoruba carried to the Americas, Shango became one of the most widely worshipped orishas: Chango in Cuban Santeria, merged with Saint Barbara; Xango in Brazil; and in Trinidad the orisha religion itself was long known simply as 'Shango'."
+  },
+  "domains": {
+    "zh": [
+      "雷霆",
+      "闪电",
+      "王权",
+      "正义"
+    ],
+    "en": [
+      "Thunder",
+      "Lightning",
+      "Kingship",
+      "Justice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "双头斧\"奥谢\"",
+        "en": "Double-headed axe (oshe)"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Sacred objects"
+      },
+      "value": {
+        "zh": "雷石（埃杜阿拉）、巴塔鼓",
+        "en": "Thunderstones (edun ara), bata drums"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣色与圣兽",
+        "en": "Colors and animal"
+      },
+      "value": {
+        "zh": "红白双色，公羊",
+        "en": "Red and white; the ram"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Wives"
+      },
+      "value": {
+        "zh": "奥雅、奥孙、奥芭",
+        "en": "Oya, Oshun, Oba"
+      }
+    }
+  ],
+  "related": [
+    "oya",
+    "oshun",
+    "oduduwa"
+  ],
+  "sources": [
+    {
+      "zh": "塞缪尔·约翰逊《约鲁巴人史》（1921）",
+      "en": "Samuel Johnson, The History of the Yorubas (1921)"
+    },
+    {
+      "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）",
+      "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)"
+    },
+    {
+      "zh": "皮埃尔·维尔热《关于奥里沙与伏都崇拜的笔记》（1957）",
+      "en": "Pierre Verger, Notes sur le culte des Orisa et Vodun (1957)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/shango.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:WLA_brooklynmuseum_Yoruba_Dance_Staff.jpg",
+    "sourceTitle": "WLA brooklynmuseum Yoruba Dance Staff",
+    "license": "CC BY-SA 2.5",
+    "width": 666,
+    "height": 1000
+  }
+}

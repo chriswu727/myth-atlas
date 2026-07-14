@@ -1,0 +1,100 @@
+{
+  "id": "heracles",
+  "tradition": "greek",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "赫拉克勒斯",
+    "en": "Heracles",
+    "original": "Ἡρακλῆς",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "完成十二苦差的大力英雄",
+    "en": "The Hero of the Twelve Labors"
+  },
+  "summary": {
+    "zh": "宙斯与凡人阿尔克墨涅之子，希腊最负盛名的大力英雄，为赎罪完成十二件苦差，死后升入奥林波斯为神。",
+    "en": "Son of Zeus and the mortal Alcmene, the strongest of Greek heroes, who performed twelve labors in atonement and was received into Olympus as a god after death."
+  },
+  "description": {
+    "zh": "赫拉克勒斯是宙斯与凡间女子阿尔克墨涅之子，希腊最负盛名的大力英雄。赫拉自他出生便加以迫害，派两条毒蛇袭击摇篮，被襁褓中的婴儿徒手扼死。成年后赫拉使他陷入疯狂，误杀妻儿；德尔斐神谕命他服侍迈锡尼王欧律斯透斯，完成十二件苦差赎罪。\n\n他扼死刀枪不入的涅墨亚狮子，狮皮从此披在肩上；斩杀九头蛇许德拉，以火烙断颈防其再生；活捉金角鹿与厄律曼托斯野猪；引河水一日冲净奥革阿斯三千头牛的牛圈；先后取来阿玛宗女王的腰带、革律翁的牛群与赫斯珀里得斯的金苹果；最后徒手把冥府看门犬刻耳柏洛斯带到人间。晚年他误穿浸了半人马涅索斯毒血的衣袍，剧毒蚀骨，遂在俄塔山顶架起柴堆自焚；宙斯接他升入奥林波斯为神，与青春女神赫柏成婚。他的崇拜遍及希腊与罗马世界，罗马人称他赫丘利。",
+    "en": "Heracles, son of Zeus and the mortal woman Alcmene, was the strongest of the Greek heroes. Hera persecuted him from birth, sending two serpents against his cradle; the infant strangled them with his bare hands. As a grown man he was driven mad by the goddess and killed his own wife and children, and the Delphic oracle sentenced him to serve King Eurystheus of Mycenae and perform twelve labors in atonement.\n\nHe strangled the invulnerable Nemean lion and wore its skin ever after; cut down the many-headed Hydra of Lerna, searing each neck to stop it regrowing; captured the golden-horned hind and the Erymanthian boar; turned a river to wash out in one day the stables where Augeas kept three thousand cattle; fetched the belt of the Amazon queen, the cattle of Geryon, and the golden apples of the Hesperides; and at the last dragged the hound Cerberus up from the underworld with his bare hands. He died in a robe soaked with the poisoned blood of the centaur Nessus, burned himself on a pyre atop Mount Oeta, and was received into Olympus as a god, wedded to Hebe, goddess of youth. His cult spread across the Greek and Roman world, where he was called Hercules."
+  },
+  "domains": {
+    "zh": [
+      "神力",
+      "苦差",
+      "赎罪",
+      "升神"
+    ],
+    "en": [
+      "Strength",
+      "Labors",
+      "Atonement",
+      "Apotheosis"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapons"
+      },
+      "value": {
+        "zh": "木棒、弓箭、涅墨亚狮皮",
+        "en": "Club, bow, and the Nemean lion's skin"
+      }
+    },
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "宙斯与阿尔克墨涅",
+        "en": "Zeus and Alcmene"
+      }
+    },
+    {
+      "label": {
+        "zh": "宿敌",
+        "en": "Persecutor"
+      },
+      "value": {
+        "zh": "天后赫拉",
+        "en": "The goddess Hera"
+      }
+    }
+  ],
+  "related": [
+    "zeus",
+    "cerberus",
+    "prometheus",
+    "hades",
+    "golden-fleece"
+  ],
+  "sources": [
+    {
+      "zh": "阿波罗多洛斯《书藏》",
+      "en": "Apollodorus, Bibliotheca"
+    },
+    {
+      "zh": "索福克勒斯《特拉基斯少女》",
+      "en": "Sophocles, Women of Trachis"
+    },
+    {
+      "zh": "欧里庇得斯《赫拉克勒斯》",
+      "en": "Euripides, Heracles"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/heracles.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+    "sourceTitle": "So-called Hercules Farnese",
+    "artist": "Glycon of Athens (copy), Lysippos (original type)",
+    "license": "CC BY 2.5",
+    "width": 571,
+    "height": 1000
+  }
+}

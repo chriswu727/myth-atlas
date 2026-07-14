@@ -1,0 +1,101 @@
+{
+  "id": "selkie",
+  "tradition": "celtic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "塞尔基",
+    "en": "Selkie",
+    "original": "selkie",
+    "originalLang": "苏格兰语（奥克尼、设德兰方言）"
+  },
+  "title": {
+    "zh": "褪去海豹皮的海中人",
+    "en": "The seal-folk who shed their skins"
+  },
+  "summary": {
+    "zh": "奥克尼与设德兰群岛传说中的海豹人：褪下海豹皮即成人形。渔夫藏起皮衣可娶塞尔基为妻，但她找回皮衣之日必归大海。",
+    "en": "The seal-folk of Orkney and Shetland lore, human once the sealskin is shed. A fisherman who hides the skin may keep a selkie wife, but the day she finds it she returns to the sea."
+  },
+  "description": {
+    "zh": "塞尔基是苏格兰北方岛屿——奥克尼与设德兰——传说中的海豹人：在海中是灰海豹，上岸褪下皮衣便是容貌出众的男女。皮衣是变形的全部凭据，丢了皮衣的塞尔基回不了海。最流行的故事型由此而来：渔夫窥见塞尔基女子们在月夜沙滩上跳舞，偷藏起其中一张海豹皮，皮的主人只得随他还家为妻。她操持家务、生儿育女，眼睛始终望着海的方向；多年后孩子无意间说出阁楼或草垛里那张“旧皮子”的下落，她披皮入海，从此只在礁石边远远望一眼岸上的孩子。这一“海豹皮妻子”属于世界性的天鹅处女故事型，在北方群岛生出了咸涩的本地形态。\n\n塞尔基男子则反向而行：传说他们专来引诱对婚姻失望的渔家妇女，想召唤情人的女子须在涨潮时向海里落七滴泪。奥克尼以西的孤礁苏尔礁（Sule Skerry）是传说的著名舞台，收入柴尔德民歌集第113号的叙事歌《苏尔礁的大塞尔基》唱的正是这样一段婚外情的结局：塞尔基预言渔妇的人类丈夫将一枪打死他和他带走的儿子——歌到此为止，不作宽解。19世纪末，奥克尼本地文人沃尔特·特雷尔·丹尼森系统采录了群岛的海豹人口述，是今日塞尔基研究的基础材料。\n\n二十世纪以来塞尔基屡次登上银幕，《罗恩·伊尼什的秘密》（1994）与动画《海洋之歌》（2014）都以海豹皮妻子型故事为骨架。",
+    "en": "Selkies are the seal-folk of Orkney and Shetland: grey seals in the water, and once ashore, when the skin is laid aside, men and women of unusual beauty. The skin is the whole of the magic; a selkie who loses it cannot go back. The best-known story type follows from that: a fisherman spies the selkie women dancing on a moonlit beach, steals one skin, and its owner must follow him home as his wife. She keeps his house and bears his children with her eyes always on the water, until, years later, a child mentions the strange old skin found in the loft, and she is gone with the tide, seen afterwards only as a seal watching the shore. It is the swan-maiden tale of world folklore, given a salt northern shape.\n\nMale selkies swim the other way, coming ashore to court fishermen's wives who are unhappy in their marriages; a woman who would summon her lover must shed seven tears into the sea at high tide. The lonely rock of Sule Skerry, west of Orkney, is the setting of the ballad 'The Great Silkie of Sule Skerry', number 113 in Child's collection, in which the selkie foretells that the woman's mortal husband will shoot both him and the son he takes to sea, and the song offers no consolation. In the late nineteenth century the Orcadian antiquarian Walter Traill Dennison wrote down the islands' seal-folk traditions at length, and his papers remain the base material of selkie lore.\n\nThe skin-wife story has anchored several films, among them The Secret of Roan Inish (1994) and the animated Song of the Sea (2014)."
+  },
+  "domains": {
+    "zh": [
+      "海豹人",
+      "变形",
+      "异类婚姻",
+      "北方群岛"
+    ],
+    "en": [
+      "Seal-folk",
+      "Shape-shifting",
+      "Otherworld marriage",
+      "Northern isles"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "变形凭据",
+        "en": "Token"
+      },
+      "value": {
+        "zh": "海豹皮，失皮者不得归海",
+        "en": "The sealskin, without which there is no return"
+      }
+    },
+    {
+      "label": {
+        "zh": "召唤法",
+        "en": "Summons"
+      },
+      "value": {
+        "zh": "涨潮时向海落七滴泪",
+        "en": "Seven tears shed into the flood tide"
+      }
+    },
+    {
+      "label": {
+        "zh": "传说舞台",
+        "en": "Famous haunt"
+      },
+      "value": {
+        "zh": "奥克尼以西孤礁苏尔礁",
+        "en": "Sule Skerry, west of Orkney"
+      }
+    }
+  ],
+  "related": [
+    "kelpie",
+    "tir-na-nog"
+  ],
+  "sources": [
+    {
+      "zh": "叙事歌《苏尔礁的大塞尔基》（柴尔德民歌集第113号，1882–1898年刊）",
+      "en": "'The Great Silkie of Sule Skerry', Child Ballad 113, in F. J. Child, The English and Scottish Popular Ballads, 1882-1898"
+    },
+    {
+      "zh": "沃尔特·特雷尔·丹尼森的奥克尼民俗采录（19世纪末）",
+      "en": "Walter Traill Dennison's Orkney folklore papers, late 19th century"
+    }
+  ],
+  "geo": {
+    "lat": 59.083,
+    "lon": -4.407,
+    "label": {
+      "zh": "苏尔礁",
+      "en": "Sule Skerry"
+    }
+  },
+  "image": {
+    "file": "/images/entries/selkie.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vernon_Hill,_The_Great_Silkie_of_Sule_Skerry,_1912.png",
+    "sourceTitle": "Vernon Hill, The Great Silkie of Sule Skerry, 1912",
+    "artist": "Vernon Hill (Life time: N/A, published in USA)",
+    "license": "Public domain",
+    "width": 670,
+    "height": 1000
+  }
+}

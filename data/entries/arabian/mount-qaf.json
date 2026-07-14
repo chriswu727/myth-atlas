@@ -1,0 +1,106 @@
+{
+  "id": "mount-qaf",
+  "tradition": "arabian",
+  "type": "place",
+  "era": "folk",
+  "name": {
+    "zh": "卡夫山",
+    "en": "Mount Qaf",
+    "original": "جبل قاف",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "环抱人世的翡翠山脉",
+    "en": "The emerald range that rings the world"
+  },
+  "summary": {
+    "zh": "环绕整个人间世界的翡翠山脉，天空的青色是它的反光。它是众山之母，山根在地下相连，山那边是镇尼的国土。故事里“翻过卡夫山”即走到人世尽头。",
+    "en": "The emerald mountain range encircling the inhabited world; the sky takes its colour from its reflection. Mother of all mountains, its roots joined underground, with the lands of the jinn beyond. To cross Qaf is to leave the human world."
+  },
+  "description": {
+    "zh": "中世纪伊斯兰宇宙志把人间世界画成一片被环形大洋围绕的陆地，而大洋之外还有一圈山——卡夫山。卡兹维尼等宇宙志作者写道，这道山脉由绿色翡翠构成，天空的青色便是它的反光；它是“众山之母”，大地上所有山脉的根都在地下与它相连，如同经脉，真主要使哪处地动，便撼动通往那里的一条山根。人类无法凭双脚抵达卡夫山：先得渡过无人能渡的环洋，再穿过数月行程的黑暗地带。一些早期注经家认为《古兰经》第五十章开头的单字母“卡夫”指的就是这座山，此说后世多有存疑。\n\n卡夫山最持久的角色是人世与灵界的边境。山的那一边（或山中）是镇尼与仙灵的国土，《一千零一夜》里的精灵动辄自称来自卡夫，“巴士拉的哈桑”等长篇故事把最远的奇境安排在卡夫之外；波斯传统则让神鸟西摩格栖居其巅，阿塔尔的长诗《百鸟朝凤》（约1177）写群鸟飞越七重山谷去卡夫山寻它。“从卡夫到卡夫”在波斯语和阿拉伯语里意为“普天之下”。\n\n关于它的现实投影，学者多指向高加索山脉——阿拉伯语“高加索”与卡夫同源相涉，早期地理学家也确曾把这道人世边墙安在里海以北的群山。世界越被测绘，卡夫山越向纯粹的传说退去，最终成为“世界尽头”的代名词。",
+    "en": "Medieval Islamic cosmography drew the inhabited world as a disc of land ringed by an impassable ocean — and beyond the ocean, a ring of mountains: Qaf. Cosmographers such as al-Qazwini describe the range as made of green emerald, whose reflection gives the sky its colour. It is the mother of mountains: the roots of every mountain on earth run underground to join it like veins, and when God wills an earthquake he shakes the root that leads there. No traveller reaches Qaf on foot; the encircling sea cannot be crossed, and months of darkness lie beyond it. Some early commentators took the single letter Qaf that opens the fiftieth surah of the Quran to name the mountain, an identification later scholarship treated with doubt.\n\nQaf's enduring role is as the frontier between the human world and the world of spirits. Beyond it, or within it, lie the kingdoms of the jinn; spirits in the Thousand and One Nights routinely claim it as home, and long tales such as that of Hasan of Basra place their furthest wonderlands past Qaf. Persian tradition perches the divine bird Simurgh on its summit — Attar's poem The Conference of the Birds (c. 1177) sends the birds across seven valleys to seek it there. In Persian and Arabic idiom, 'from Qaf to Qaf' means the whole world.\n\nAs for a real-world shadow, scholars point to the Caucasus, whose Arabic name is entangled with Qaf's; early geographers did set the world's edge-wall among the mountains beyond the Caspian. The more the world was mapped, the further Qaf receded into pure legend, until it became simply a name for the end of the earth."
+  },
+  "domains": {
+    "zh": [
+      "世界边缘",
+      "翡翠",
+      "镇尼国土",
+      "众山之母"
+    ],
+    "en": [
+      "Edge of the world",
+      "Emerald",
+      "Realm of the jinn",
+      "Mother of mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "材质",
+        "en": "Substance"
+      },
+      "value": {
+        "zh": "绿色翡翠，天空因其反光而青",
+        "en": "Green emerald; the sky is tinted by its reflection"
+      }
+    },
+    {
+      "label": {
+        "zh": "居民",
+        "en": "Inhabitants"
+      },
+      "value": {
+        "zh": "镇尼诸族；波斯传统中神鸟西摩格栖于其巅",
+        "en": "The jinn; in Persian tradition the Simurgh nests on its summit"
+      }
+    },
+    {
+      "label": {
+        "zh": "成语",
+        "en": "Idiom"
+      },
+      "value": {
+        "zh": "“从卡夫到卡夫”，意即普天之下",
+        "en": "'From Qaf to Qaf' means the whole world"
+      }
+    }
+  ],
+  "related": [
+    "jinn",
+    "bahamut",
+    "roc"
+  ],
+  "sources": [
+    {
+      "zh": "卡兹维尼《创造物之奇迹与万物之异象》（13世纪）",
+      "en": "Al-Qazwini, The Wonders of Creation ('Aja'ib al-makhluqat), 13th century"
+    },
+    {
+      "zh": "阿塔尔《百鸟朝凤》（约1177）",
+      "en": "Farid ud-Din Attar, The Conference of the Birds, c. 1177"
+    },
+    {
+      "zh": "《一千零一夜》“巴士拉的哈桑”等篇",
+      "en": "The Thousand and One Nights, 'Hasan of Basra' and other tales"
+    }
+  ],
+  "geo": {
+    "lat": 43.35,
+    "lon": 42.44,
+    "label": {
+      "zh": "高加索山脉（一说卡夫山原型）",
+      "en": "The Caucasus, a proposed real-world model"
+    }
+  },
+  "image": {
+    "file": "/images/entries/mount-qaf.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islamic_cosmology.jpg",
+    "sourceTitle": "Islamic cosmology",
+    "artist": "See below",
+    "license": "Public domain",
+    "width": 693,
+    "height": 1000
+  }
+}

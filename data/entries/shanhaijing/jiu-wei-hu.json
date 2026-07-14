@@ -1,0 +1,99 @@
+{
+  "id": "jiu-wei-hu",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "九尾狐",
+    "en": "Nine-Tailed Fox"
+  },
+  "title": {
+    "zh": "青丘山中音如婴儿的食人妖狐",
+    "en": "Man-Eating Fox of Mount Qingqiu with an Infant's Cry"
+  },
+  "summary": {
+    "zh": "青丘山异兽，状如狐而九尾，叫声像婴儿啼哭，能吃人；吃它的肉可以不中蛊毒。后世从大禹的祥瑞一路演变为祸国妖姬。",
+    "en": "A fox with nine tails from Mount Qingqiu whose cry sounds like a wailing infant; it eats people, yet its flesh wards off gu sorcery. Later ages recast it from royal omen to bewitching temptress."
+  },
+  "description": {
+    "zh": "《南山经》记青丘之山\"有兽焉，其状如狐而九尾，其音如婴儿，能食人；食者不蛊\"。寥寥数语写出它的两面：它发出婴儿般的啼声，是吃人的猛兽；人若反过来吃它的肉，却能不受蛊毒邪气侵害。《海外东经》与《大荒东经》又记有青丘国，\"其狐四足九尾\"，九尾狐俨然是那一方水土的名物。\n\n汉代人眼中的九尾狐是祥瑞。《吴越春秋·越王无余外传》载大禹三十未娶，行至涂山，见九尾白狐，又闻涂山人唱\"绥绥白狐，九尾庞庞\"，于是娶涂山氏之女为妻；汉代画像石上，九尾狐与玉兔、蟾蜍、三足乌一同侍立在西王母座旁，是子孙昌盛、王者受命的符号。\n\n六朝志怪以降，狐渐渐成精作祟，唐人笔下已多狐媚故事；明代《封神演义》让千年狐狸精附身妲己、祸乱殷商，九尾狐自此定型为祸国妖姬的代名词。这一形象东传日本，化作玉藻前传说，又流入今天的小说、动漫与游戏。",
+    "en": "The Classic of the Southern Mountains gives it four terse clauses: on Mount Qingqiu lives a beast shaped like a fox with nine tails, its voice like that of a human infant; it can devour people, and whoever eats its flesh is proof against gu, the insect-borne witchcraft poison. The predator that lures with a baby's cry can itself be eaten as a talisman. Elsewhere in the book, the Classics of Regions Beyond the Seas and of the Great Wilderness record a Land of Qingqiu whose foxes have four legs and nine tails.\n\nTo Han-dynasty eyes the creature was auspicious. The Wu Yue Chunqiu tells how Yu the Great, still unmarried at thirty, saw a white nine-tailed fox at Mount Tushan and heard the local song 'the white fox roams, its nine tails full and thick', whereupon he took the daughter of Tushan as his wife. On Han pictorial stones the nine-tailed fox stands beside the Queen Mother of the West with the jade rabbit, the toad, and the three-legged crow, an emblem of abundant offspring and rightful rule.\n\nFrom the Six Dynasties onward foxes turned demonic in the tale literature, and the Ming novel Investiture of the Gods sealed the type: a thousand-year fox spirit possesses Daji and ruins the Shang court. Carried east, the figure became Japan's Tamamo-no-Mae, and it now populates fiction, comics, and games."
+  },
+  "domains": {
+    "zh": [
+      "妖狐",
+      "祥瑞",
+      "蛊毒"
+    ],
+    "en": [
+      "Fox Spirits",
+      "Omens",
+      "Gu Sorcery"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "青丘之山",
+        "en": "Mount Qingqiu"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "如婴儿啼哭",
+        "en": "Like a wailing infant"
+      }
+    },
+    {
+      "label": {
+        "zh": "功效",
+        "en": "Virtue"
+      },
+      "value": {
+        "zh": "食其肉者不中蛊毒",
+        "en": "Eating its flesh wards off gu poison"
+      }
+    }
+  ],
+  "related": [
+    "qingqiu-shan",
+    "chi-ru",
+    "guan-guan",
+    "xiwangmu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "《吴越春秋·越王无余外传》",
+      "en": "Wu Yue Chunqiu, 'Outer Tradition of King Wuyu of Yue'"
+    },
+    {
+      "zh": "《封神演义》",
+      "en": "Investiture of the Gods (Fengshen Yanyi)"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/jiu-wei-hu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic176_-_%E4%B9%9D%E5%B0%BE%E7%8B%90%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic176 - 九尾狐圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 659,
+    "height": 1000
+  }
+}

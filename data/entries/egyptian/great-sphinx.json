@@ -1,0 +1,103 @@
+{
+  "id": "great-sphinx",
+  "tradition": "egyptian",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "大斯芬克斯",
+    "en": "Great Sphinx"
+  },
+  "title": {
+    "zh": "吉萨的狮身人面巨像",
+    "en": "The Lion-bodied Colossus of Giza"
+  },
+  "summary": {
+    "zh": "吉萨高地的狮身人面像，长约73米，凿自整块石灰岩，面容一般认为属于第四王朝法老卡夫拉。新王国时期被奉为'地平线上的荷鲁斯'。",
+    "en": "The lion-bodied, human-headed colossus at Giza, some 73 meters long and carved from bedrock limestone, its face usually identified as pharaoh Khafre; the New Kingdom worshipped it as Horemakhet."
+  },
+  "description": {
+    "zh": "大斯芬克斯卧在吉萨高地卡夫拉金字塔的祭道旁，通长约73米，高约20米，由整块石灰岩基岩凿出，是现存最古老的巨型雕像。它的身躯是伏卧的雄狮，人面戴条纹王巾（内梅斯），额前原有圣蛇，一般认为面容属于第四王朝法老卡夫拉（约公元前2558年至前2532年在位），雕像即凿建于其金字塔工程期间。狮身人面在埃及图像志中是王权与太阳的合体：狮子的力量加上国王的面容。与希腊神话中出谜语食人的女性斯芬克斯不同，埃及的斯芬克斯是雄性的守护者，'斯芬克斯'这个名字本身是希腊人后加的。\n\n新王国时期，被黄沙半掩的巨像获得新的神格，被奉为'霍尔-埃姆-阿赫特'（地平线上的荷鲁斯），成为朝圣之地。立在巨像两爪之间的《记梦碑》记述：王子图特摩斯狩猎途中在巨像阴影下午睡，梦中巨像开口，许诺只要清除压身的积沙便赐他王位；图特摩斯四世（约公元前1400年前后在位）即位后立碑还愿。这块花岗岩石碑至今仍在原地。\n\n巨像的鼻子早在中世纪已毁，15世纪开罗史家马克里齐记载是1378年一名苏菲狂信者所为；'拿破仑炮击说'属于后起讹传——18世纪中叶的写生图上鼻子已经缺失。巨像屡次被沙掩埋又屡次清出，最近一次全面清沙完成于1936年。",
+    "en": "The Great Sphinx crouches beside the causeway of Khafre's pyramid on the Giza plateau: about 73 meters long and 20 meters high, cut from the living limestone bedrock, the oldest colossal statue in existence. The body is a recumbent lion; the human head wears the striped nemes headcloth and once bore a uraeus, and the face is generally identified as Khafre, fourth king of the Fourth Dynasty (r. c. 2558–2532 BCE), during whose pyramid works the statue was carved. In Egyptian iconography the lion-king composite fuses solar power with royal authority — and unlike the riddling, man-eating female sphinx of Greek myth, the Egyptian sphinx is male and protective; even the name 'sphinx' is a later Greek label.\n\nIn the New Kingdom the half-buried colossus acquired a cult of its own as Horemakhet, 'Horus in the Horizon,' and drew pilgrims. The Dream Stele standing between its paws tells how prince Thutmose, napping in the statue's shadow during a hunt, dreamed that the Sphinx spoke and promised him the throne if he cleared away the engulfing sand; as Thutmose IV (r. c. 1400 BCE) he erected the granite stele in fulfillment, and it remains in place.\n\nThe nose was already gone in the Middle Ages — the fifteenth-century Cairo historian al-Maqrizi blames a Sufi zealot in 1378 — and the tale of Napoleonic cannon fire is a later invention, since mid-eighteenth-century drawings show the nose missing. Sand has buried and re-buried the monument repeatedly; the last full clearance was completed in 1936."
+  },
+  "domains": {
+    "zh": [
+      "王权",
+      "守护",
+      "太阳",
+      "巨像"
+    ],
+    "en": [
+      "Kingship",
+      "Guardianship",
+      "Sun",
+      "Colossus"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "尺寸",
+        "en": "Dimensions"
+      },
+      "value": {
+        "zh": "长约73米，高约20米",
+        "en": "c. 73 m long, 20 m high"
+      }
+    },
+    {
+      "label": {
+        "zh": "年代",
+        "en": "Date"
+      },
+      "value": {
+        "zh": "第四王朝，约公元前2500年",
+        "en": "Fourth Dynasty, c. 2500 BCE"
+      }
+    },
+    {
+      "label": {
+        "zh": "新王国神名",
+        "en": "New Kingdom name"
+      },
+      "value": {
+        "zh": "霍尔-埃姆-阿赫特（地平线上的荷鲁斯）",
+        "en": "Horemakhet, 'Horus in the Horizon'"
+      }
+    }
+  ],
+  "related": [
+    "horus",
+    "ra"
+  ],
+  "sources": [
+    {
+      "zh": "图特摩斯四世《记梦碑》（约公元前1400年）",
+      "en": "Dream Stele of Thutmose IV, c. 1400 BCE"
+    },
+    {
+      "zh": "老普林尼《博物志》卷三十六",
+      "en": "Pliny the Elder, Natural History, Book 36"
+    },
+    {
+      "zh": "马克里齐《埃及志》（15世纪）",
+      "en": "Al-Maqrizi, Al-Khitat, 15th century"
+    }
+  ],
+  "geo": {
+    "lat": 29.9753,
+    "lon": 31.1376,
+    "label": {
+      "zh": "吉萨",
+      "en": "Giza"
+    }
+  },
+  "image": {
+    "file": "/images/entries/great-sphinx.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Sphinx,_Pyramids_of_Gizeh-1839)_by_David_Roberts,_RA.jpg",
+    "sourceTitle": "The Great Sphinx, Pyramids of Gizeh-1839) by David Roberts, RA",
+    "artist": "David Roberts",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 635
+  }
+}

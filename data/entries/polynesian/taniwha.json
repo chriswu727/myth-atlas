@@ -1,0 +1,101 @@
+{
+  "id": "taniwha",
+  "tradition": "polynesian",
+  "type": "creature",
+  "era": "folk",
+  "name": {
+    "zh": "塔尼法",
+    "en": "Taniwha",
+    "original": "Taniwha",
+    "originalLang": "毛利语"
+  },
+  "title": {
+    "zh": "深水中的巨怪与守护者",
+    "en": "Water Monsters and Guardians of the Deep"
+  },
+  "summary": {
+    "zh": "毛利传统中潜居深潭、河湾与海穴的水中巨怪，或为部落守护者，或为食人凶兽。2002年一条塔尼法的巢穴之说曾让新西兰一号国道改线。",
+    "en": "Beings of Maori tradition dwelling in deep pools, river bends and sea caves — tribal guardians to some, man-eaters in the old tales. In 2002 a taniwha's lair rerouted State Highway 1."
+  },
+  "description": {
+    "zh": "塔尼法栖身于幽深的水：河流的深弯、暗潭、湖底与海蚀洞。它们没有固定形貌，故事里或似巨大的蜥蜴与壁虎，或化作鲨鱼、鲸，甚至一段漂流的原木。对与之结缘的部落而言，塔尼法是守护者\"凯蒂亚基\"，预警灾祸、护送渡海；对陌生人与冒犯者，它们是吞人的凶兽。传说中导航者库佩渡海来到新西兰时，便有塔尼法图希朗吉为其引路，后世相传它居于南岛北端的水道中。\n\n罗托鲁阿一带流传着成组的屠塔尼法故事，见于乔治·格雷1855年《波利尼西亚神话》：巨怪霍图普库盘踞路旁山谷，吞食往来行人，勇士们编织绳套设伏，将其诱出勒毙，剖腹时找到了死者的衣物与兵器；蒂基塔普湖的卡塔奥雷本是酋长的宠兽，因暗中食人被猎杀，由此引发部落间的连环复仇。\n\n塔尼法至今是活着的传统。2002年，怀卡托的纳蒂纳霍部落指出一号国道梅雷梅雷段的扩建工程侵入了独眼塔尼法卡鲁塔希的巢穴，新西兰交通部门与部落协商后修改了路线，此事成为全国新闻。在毛利人的公共表达中，塔尼法既是须敬畏的水中之灵，也常被用作强大人物或潜在危机的比喻。",
+    "en": "Taniwha live in deep water: river bends, dark pools, lake beds and sea caves. They have no single shape — the stories show them as huge lizard- or gecko-like creatures, as sharks or whales, even as a drifting log. To the tribe bound to one, a taniwha is a kaitiaki, a guardian that warns of disaster and escorts canoes; to strangers and to those who give offense, the old tales make them devourers of people. When the navigator Kupe crossed the ocean to New Zealand, the taniwha Tuhirangi is said to have guided his canoe, and later tradition placed it in the waters at the top of the South Island.\n\nA cluster of taniwha-slaying stories from the Rotorua district appears in George Grey's Polynesian Mythology (1855): the monster Hotupuku lurked in a valley on the travelers' road and swallowed passers-by until warriors plaited ropes into a snare, lured it out and strangled it, finding the clothes and weapons of the dead when the belly was opened; Kataore of Lake Tikitapu, a chief's pet that secretly ate travelers, was hunted down, setting off a chain of intertribal revenge.\n\nThe taniwha remains a living tradition. In 2002 Ngati Naho of Waikato objected that widening State Highway 1 at Meremere encroached on the lair of the one-eyed taniwha Karu Tahi; the road authority negotiated with the iwi and altered the route, and the case made national news. In Maori public speech the taniwha is both a water spirit owed respect and a ready metaphor for a formidable figure or a danger lying below the surface."
+  },
+  "domains": {
+    "zh": [
+      "深水",
+      "守护",
+      "禁忌",
+      "巨怪"
+    ],
+    "en": [
+      "Deep water",
+      "Guardianship",
+      "Tapu",
+      "Monsters"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Forms"
+      },
+      "value": {
+        "zh": "巨蜥、鲨鱼、鲸或漂木，随故事而变",
+        "en": "Giant lizard, shark, whale or drifting log, varying by tale"
+      }
+    },
+    {
+      "label": {
+        "zh": "双重身份",
+        "en": "Dual nature"
+      },
+      "value": {
+        "zh": "部落守护者\"凯蒂亚基\"或食人凶兽",
+        "en": "Tribal kaitiaki guardian, or man-eater"
+      }
+    },
+    {
+      "label": {
+        "zh": "近事",
+        "en": "Recent case"
+      },
+      "value": {
+        "zh": "2002年卡鲁塔希巢穴之说致一号国道改线",
+        "en": "Karu Tahi's lair rerouted State Highway 1 in 2002"
+      }
+    }
+  ],
+  "related": [
+    "tangaroa",
+    "hawaiki",
+    "maui"
+  ],
+  "sources": [
+    {
+      "zh": "乔治·格雷《波利尼西亚神话》（1855年）",
+      "en": "George Grey, Polynesian Mythology (1855)"
+    },
+    {
+      "zh": "《特阿拉：新西兰百科全书》\"塔尼法\"条（2007年）",
+      "en": "Te Ara: The Encyclopedia of New Zealand, \"Taniwha\" (2007)"
+    }
+  ],
+  "geo": {
+    "lat": -38.19,
+    "lon": 176.33,
+    "label": {
+      "zh": "蒂基塔普湖（罗托鲁阿）",
+      "en": "Lake Tikitapu, Rotorua"
+    }
+  },
+  "image": {
+    "file": "/images/entries/taniwha.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ureia2.jpg",
+    "sourceTitle": "Ureia2",
+    "license": "Public domain",
+    "width": 373,
+    "height": 1000
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "isis",
+  "tradition": "egyptian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "伊西斯",
+    "en": "Isis",
+    "original": "ꜣst",
+    "originalLang": "古埃及语"
+  },
+  "title": {
+    "zh": "魔法女神与神圣之母",
+    "en": "Goddess of Magic and Divine Motherhood"
+  },
+  "summary": {
+    "zh": "奥西里斯之妻、荷鲁斯之母，'大魔法师'。她收殓亡夫残躯使其复活，在三角洲芦苇丛中抚养遗孤，崇拜后来遍及整个希腊罗马世界。",
+    "en": "Wife of Osiris and mother of Horus, 'Great of Magic,' who reassembled her murdered husband and raised their son in the Delta marshes; her cult later spread across the Greco-Roman world."
+  },
+  "description": {
+    "zh": "伊西斯的名字在埃及语中意为'宝座'，早期形象即是头顶宝座符号的女子；后来她吸收哈托尔女神的特征，改戴牛角夹日轮的头冠。她被尊为'大魔法师'（weret-hekau），法力在诸神中数一数二：《都灵纸草》记载她用拉的口涎和泥土捏成毒蛇咬伤老迈的太阳神，再以解咒为条件逼他吐露秘名，从而获得了与拉比肩的权能。\n\n她最著名的事迹是拯救丈夫与儿子。奥西里斯被塞特谋害肢解后，伊西斯与妹妹奈芙蒂斯走遍埃及收殓残躯，她化作鸢鸟悬停在缝合后的遗体上扇翅续气，令亡夫复活并怀上荷鲁斯。为躲避塞特的追杀，她藏身于三角洲凯姆尼斯的芦苇丛中独自抚养幼子；《梅特涅石碑》记载幼年荷鲁斯被蝎子蜇死，伊西斯的哀号令太阳船停驶，托特降下咒文将孩子救活——这段神话使她成为埃及医疗咒语中最常被召唤的神祇，母子像也成为护身符的经典题材。\n\n托勒密时代起，伊西斯崇拜越出埃及，神庙遍布提洛岛、庞贝与罗马城，信众将她奉为万名之神、航海者的守护者。尼罗河第一瀑布菲莱岛上的伊西斯神庙香火延续到公元6世纪查士丁尼下令关闭为止，是埃及古代宗教最后一座仍在运作的神庙。",
+    "en": "The name of Isis means 'throne,' and her earliest images show a woman wearing the throne hieroglyph on her head; later she adopted the cow horns and solar disk of Hathor. Egyptians called her weret-hekau, 'Great of Magic.' A Turin papyrus tells how she fashioned a serpent from clay and the spittle of the aging Ra, let it bite him, and cured the poison only after he surrendered his secret name, thereby winning power equal to the sun god's own.\n\nHer defining deeds are the rescue of her husband and son. After Set murdered and dismembered Osiris, Isis and her sister Nephthys searched Egypt for the scattered pieces; hovering as a kite over the rejoined body, she fanned life back into it and conceived Horus. She hid from Set in the papyrus thickets of Chemmis in the Delta and raised the child alone. The Metternich Stela records how the infant Horus died of a scorpion's sting, and how her cries halted the barque of the sun until Thoth descended with the spell that revived him — the episode that made her the most invoked deity in Egyptian healing magic, and the nursing mother-and-child figure a standard amulet.\n\nFrom the Ptolemaic period her cult spread far beyond Egypt, with temples at Delos, Pompeii, and Rome. Her sanctuary on the island of Philae at the First Cataract functioned until Justinian closed it in the sixth century CE, the last active temple of the ancient Egyptian religion."
+  },
+  "domains": {
+    "zh": [
+      "魔法",
+      "母性",
+      "医疗",
+      "王座"
+    ],
+    "en": [
+      "Magic",
+      "Motherhood",
+      "Healing",
+      "Throne"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形象",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "头顶宝座符号或牛角日轮的女子",
+        "en": "Woman crowned with throne sign or horns and disk"
+      }
+    },
+    {
+      "label": {
+        "zh": "圣地",
+        "en": "Sacred site"
+      },
+      "value": {
+        "zh": "菲莱岛伊西斯神庙",
+        "en": "Temple of Isis at Philae"
+      }
+    },
+    {
+      "label": {
+        "zh": "化身",
+        "en": "Animal form"
+      },
+      "value": {
+        "zh": "鸢鸟",
+        "en": "Kite (bird of prey)"
+      }
+    }
+  ],
+  "related": [
+    "osiris",
+    "horus",
+    "set",
+    "thoth",
+    "ra"
+  ],
+  "sources": [
+    {
+      "zh": "《金字塔铭文》（约公元前2400年）",
+      "en": "Pyramid Texts, c. 2400 BCE"
+    },
+    {
+      "zh": "《梅特涅石碑》（第三十王朝）",
+      "en": "Metternich Stela, Thirtieth Dynasty"
+    },
+    {
+      "zh": "普鲁塔克《论伊西斯与奥西里斯》",
+      "en": "Plutarch, De Iside et Osiride"
+    }
+  ],
+  "geo": {
+    "lat": 24.03,
+    "lon": 32.88,
+    "label": {
+      "zh": "菲莱岛",
+      "en": "Philae"
+    }
+  },
+  "image": {
+    "file": "/images/entries/isis.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Nefertari_being_led_by_Isis_MET_DP167142.jpg",
+    "sourceTitle": "Queen Nefertari being led by Isis",
+    "artist": "Charles Wilkinson",
+    "license": "CC0",
+    "width": 668,
+    "height": 1000
+  }
+}

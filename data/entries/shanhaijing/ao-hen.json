@@ -1,0 +1,41 @@
+{
+  "id": "ao-hen",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": { "zh": "獓狠", "en": "Aohen" },
+  "title": { "zh": "毛如披蓑的食人白牛", "en": "Shaggy Man-eating White Ox of Mount Sanwei" },
+  "summary": {
+    "zh": "三危之山的食人巨兽，形如牛，白身四角，长毛披垂如同蓑衣。",
+    "en": "A man-eating beast of Mount Sanwei: shaped like an ox, white-bodied with four horns, its long hair hanging like a straw rain-cape."
+  },
+  "description": {
+    "zh": "三危之山是三青鸟的居所，“是山也，广员百里”。山上有兽，“其状如牛，白身四角，其豪如披蓑，其名曰獓𤝙，是食人”——形如牛，白色的身体上生着四只角，长毛下披如同蓑衣覆体，以人为食。獓𤝙二字通行本亦作獓狠。“豪如披蓑”是《山海经》摹写毛发的名句：豪即长毛，蓑是御雨的草衣。\n\n三危在上古地理中久负盛名。《尚书·舜典》记舜“窜三苗于三危”，把三苗部族流放到这片西部边地；后世传统把三危比定为敦煌东南的三危山，与鸣沙山隔谷相望，谷对面的崖壁上便是莫高窟。一座安置流放者的边山，既住着为西王母取食的神鸟三青鸟，也住着披蓑食人的白牛，吉物与凶兽同栖一岭，是西山经常见的布局。明清图本多把獓狠画作长毛垂地的四角白牛。",
+    "en": "Mount Sanwei, home of the three azure birds, 'measures a hundred li around'. On it lives a beast 'shaped like an ox, white-bodied with four horns, its long hair like a draped rain-cape; it eats men'. The name is written Aoyin in some recensions and Aohen in others, and the phrase 'haired like a draped rain-cape' — the straw cloak of Chinese farmers — is among the book's most vivid strokes of description.\n\nSanwei itself was famous long before commentators tried to place it. The Book of Documents records that the sage-king Shun 'banished the San Miao tribes to Sanwei', making the mountain a place of exile at the western edge of the known world; tradition later fixed it as the Sanwei hills southeast of Dunhuang, facing the Mingsha dunes across the valley of the Mogao caves. That one ridge should house both the azure birds who fetch food for the Queen Mother of the West and a shaggy white ox that eats men is a pairing entirely typical of the western mountains, where auspicious and murderous creatures share a single slope. Ming and Qing illustrated editions draw the Aohen as a four-horned white ox whose hair sweeps the ground."
+  },
+  "domains": {
+    "zh": ["食人", "四角", "长毛", "三危之山"],
+    "en": ["Man-eater", "Four Horns", "Shaggy Coat", "Mount Sanwei"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "形貌", "en": "Form" },
+      "value": { "zh": "状如牛，白身四角，豪如披蓑", "en": "An ox, white with four horns, haired like a rain-cape" }
+    },
+    {
+      "label": { "zh": "异写", "en": "Variant name" },
+      "value": { "zh": "獓𤝙", "en": "Aoyin" }
+    },
+    {
+      "label": { "zh": "出没地", "en": "Haunt" },
+      "value": { "zh": "三危之山（传统比定敦煌）", "en": "Mount Sanwei, traditionally located near Dunhuang" }
+    }
+  ],
+  "related": ["san-qing-niao", "qiongqi"],
+  "sources": [
+    { "zh": "《山海经·西山经》", "en": "Shanhaijing, 'Classic of the Western Mountains'" },
+    { "zh": "《尚书·舜典》", "en": "Book of Documents, 'Canon of Shun'" }
+  ],
+  "volume": { "zh": "西山经", "en": "Classic of the Western Mountains" },
+  "image": null
+}

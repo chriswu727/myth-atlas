@@ -1,0 +1,95 @@
+{
+  "id": "norns",
+  "tradition": "norse",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "诺伦三女神",
+    "en": "The Norns",
+    "original": "nornir",
+    "originalLang": "古诺斯语"
+  },
+  "title": {
+    "zh": "在世界树下裁定命运的三姐妹",
+    "en": "The Three Sisters Who Decree Fate Beneath the World Tree"
+  },
+  "summary": {
+    "zh": "乌尔德、薇儿丹蒂与斯库尔德，住在世界树下的命运之泉边，刻写律令、裁定寿数，连诸神也逃不出她们的裁决。",
+    "en": "Urd, Verdandi, and Skuld dwell by the Well of Urd beneath the world tree, carving laws and allotting lifespans; even the gods cannot escape their decrees."
+  },
+  "description": {
+    "zh": "诺伦三女神住在世界树尤克特拉希尔下的乌尔德之泉边：乌尔德、薇儿丹蒂、斯库尔德，三个名字大致对应「已成」「正在成」「将要成」。《女占卜者的预言》说她们从泉边的殿堂中走出，在木片上刻写、制定律令，为世人分派寿数与命运。她们每天以泉水混着泉边的白泥浇灌世界树，使这株承受着啃咬与朽蚀的巨树保持常青。诸神每日在泉边开庭议事，等于把议事厅设在了命运的源头——而无论奥丁的智慧还是托尔的神力，都改动不了三姐妹的裁决，诸神黄昏正是她们律令的一部分。\n\n《欺骗古鲁菲》补充说，除这三位之外还有许多小诺伦，出身各异，有的属神族，有的属精灵与侏儒，每个孩子降生时都有诺伦到场定其一生：善良的诺伦分派好命，厄运则怪那些恶意的诺伦。《海尔吉·匈丁斯巴纳之歌》描写英雄降生之夜，诺伦们来到堡中捻搓金线，将他的命运之线系向四方。北欧人由此把「诺伦的裁决」当作命运的代称，萨迦里的人物谈及无可挽回之事时便说：诺伦如此织定。",
+    "en": "The norns dwell beside the Well of Urd, beneath the world tree Yggdrasil: Urd, Verdandi, and Skuld, names that roughly answer to 'what became', 'what is becoming', and 'what shall be'. The Voluspa describes them coming out of the hall by the well to carve on wooden slips, lay down laws, and allot life and fate to the children of men. Each day they draw water from the well and mix it with the white clay of its banks to pour over the tree, keeping the gnawed and rotting ash evergreen. The gods hold their daily court of judgement at this same well, seating their council at the source of fate itself; neither Odin's wisdom nor Thor's strength can amend the sisters' decrees, and Ragnarok is simply one of them.\n\nGylfaginning adds that besides these three there are many lesser norns of varied descent, some of the gods, some of the elves and dwarfs, and that norns attend every birth to shape the child's life: the kindly ones grant good lives, and misfortune is the work of the malicious ones. In the first lay of Helgi Hundingsbane, norns come to the stronghold on the night of the hero's birth, twisting golden strands and fastening the threads of his fate to the quarters of the sky. Saga characters speak of what cannot be undone in one phrase: so the norns have woven."
+  },
+  "domains": {
+    "zh": [
+      "命运",
+      "时间",
+      "律令",
+      "纺织"
+    ],
+    "en": [
+      "Fate",
+      "Time",
+      "Law",
+      "Weaving"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "三姐妹",
+        "en": "The Three"
+      },
+      "value": {
+        "zh": "乌尔德、薇儿丹蒂、斯库尔德",
+        "en": "Urd, Verdandi, Skuld"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "世界树下的乌尔德之泉",
+        "en": "The Well of Urd beneath Yggdrasil"
+      }
+    },
+    {
+      "label": {
+        "zh": "职司",
+        "en": "Office"
+      },
+      "value": {
+        "zh": "刻写律令，裁定寿数，浇灌世界树",
+        "en": "Carve laws, allot lifespans, water the world tree"
+      }
+    }
+  ],
+  "related": [
+    "yggdrasil",
+    "odin",
+    "ragnarok",
+    "valkyrie"
+  ],
+  "sources": [
+    {
+      "zh": "《诗体埃达·女占卜者的预言》《海尔吉·匈丁斯巴纳之歌》",
+      "en": "Poetic Edda: Voluspa and the first lay of Helgi Hundingsbane"
+    },
+    {
+      "zh": "斯诺里·斯图鲁松《散文埃达·欺骗古鲁菲》",
+      "en": "Snorri Sturluson, Prose Edda: Gylfaginning"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/norns.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nornorna_spinner_%C3%B6dets_tr%C3%A5dar_vid_Yggdrasil.jpg",
+    "sourceTitle": "Nornorna spinner ödets trådar vid Yggdrasil",
+    "artist": "L. B. Hansen",
+    "license": "Public domain",
+    "width": 807,
+    "height": 1000
+  }
+}

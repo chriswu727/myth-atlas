@@ -1,0 +1,42 @@
+{
+  "id": "nu-ba",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": { "zh": "女魃", "en": "Nüba" },
+  "title": { "zh": "止住风雨的黄帝天女，旱神之始", "en": "The Heaven-Daughter Who Stopped the Storm and Became Drought" },
+  "summary": {
+    "zh": "身穿青衣的黄帝之女。下凡止住蚩尤召来的大风雨、助父杀蚩尤，从此不能升天，所居之地滴雨不下，被人喝令「神北行」驱赶。",
+    "en": "The Yellow Emperor's daughter in blue-green robes. Sent down to stop Chiyou's storm, she could never reascend; wherever she stays no rain falls, and people drive her off shouting 'Goddess, go north!'"
+  },
+  "description": {
+    "zh": "大荒北经记系昆之山上有共工之台，射箭的人不敢朝北方张弓；山中有人身穿青衣，名叫黄帝女魃。她的来历系于那场大战：蚩尤造兵器伐黄帝，黄帝命应龙在冀州之野蓄水迎击，蚩尤请来风伯雨师，纵起漫天风雨。黄帝于是降下这位天女，风雨顿止，蚩尤被杀。\n\n胜利的代价落在她身上：魃再也回不了天上，她住到哪里，哪里就不下雨。田祖叔均把此事禀告天帝，天帝将她安置在赤水之北，可她时常逃亡流窜。要驱逐她的人先清理水道、疏通沟渠，然后喝令一声「神北行！」——请她回赤水之北去。经文把一套完整的逐旱仪式原样录了下来。\n\n旱魃之名在《诗经·大雅·云汉》里已经出现：「旱魃为虐，如惔如焚」，周人咏大旱如火烧。《神异经》则把她缩成南方一种二三尺高、袒身、眼睛长在头顶、行走如风的怪物，所见之国大旱。愈到后世她愈失去天女的身份：明清民间相信新葬的尸体会变成旱魃作祟，大旱之年遂有掘墓鞭尸的「打旱骨桩」之俗，一位助父平乱的女神最终沦为人人喊打的僵尸精怪。",
+    "en": "On Mount Xikun in the northern wilderness, where archers dare not draw a bow toward the north, lives a figure in blue-green robes: Ba, daughter of the Yellow Emperor. Her story is fixed to the great war. When Chiyou forged weapons and attacked, the Emperor sent the winged dragon Yinglong to hoard the waters against him; Chiyou answered with the Lord of Wind and Master of Rain and a blinding tempest. Then the Emperor sent down his heaven-daughter. The storm died at once, and Chiyou was killed.\n\nThe cost fell on her: Ba could not return to heaven, and wherever she settled no rain fell. Shujun, patron of ploughing, reported it to the god on high, who lodged her north of the Red River — but she kept escaping. Those who would expel her first cleared the watercourses and dredged the ditches, then shouted 'Goddess, go north!' The classic preserves the exorcism verbatim, an actual drought rite embedded in myth.\n\nHer name was already proverbial when the Book of Odes lamented 'the drought demon ravages, like scorching, like burning.' The Shenyijing shrank her into a southern creature two or three feet tall, naked, eyes on top of its head, running like the wind, bringing drought to any land that saw it. By Ming and Qing times the fall was complete: villagers believed fresh corpses turned into drought demons, and in dry years dug up graves to flog them — the goddess who saved her father's war reduced to a revenant hunted by farmers."
+  },
+  "domains": {
+    "zh": ["旱灾", "天女", "止雨", "驱逐仪式"],
+    "en": ["Drought", "Heaven-Daughter", "Storm-Stopping", "Exorcism Rite"]
+  },
+  "traits": [
+    {
+      "label": { "zh": "形象", "en": "Appearance" },
+      "value": { "zh": "衣青衣，居系昆之山", "en": "Blue-green robes, dwelling on Mount Xikun" }
+    },
+    {
+      "label": { "zh": "神能", "en": "Power" },
+      "value": { "zh": "所至风雨立止，所居之地不雨", "en": "Storms cease where she arrives; no rain falls where she stays" }
+    },
+    {
+      "label": { "zh": "驱逐咒令", "en": "Formula of expulsion" },
+      "value": { "zh": "先决通沟渎，再令曰「神北行」", "en": "Dredge the ditches first, then command: 'Goddess, go north!'" }
+    }
+  ],
+  "related": ["ying-long", "huangdi", "chiyou"],
+  "sources": [
+    { "zh": "《山海经·大荒北经》", "en": "Classic of Mountains and Seas, 'Great Wilderness: North'" },
+    { "zh": "《诗经·大雅·云汉》", "en": "Book of Odes, 'Yun Han' (Great Odes)" },
+    { "zh": "《神异经》", "en": "Shenyijing (Classic of Divine Marvels)" }
+  ],
+  "volume": { "zh": "大荒北经", "en": "Classic of the Great Wilderness: North" },
+  "image": null
+}

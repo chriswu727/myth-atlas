@@ -1,0 +1,107 @@
+{
+  "id": "solomon-and-the-jinn",
+  "tradition": "arabian",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "所罗门与精灵",
+    "en": "Solomon and the Jinn",
+    "original": "سليمان",
+    "originalLang": "阿拉伯语（所罗门之名）"
+  },
+  "title": {
+    "zh": "役使镇尼的先知王",
+    "en": "The prophet-king who commanded the jinn"
+  },
+  "summary": {
+    "zh": "《古兰经》中真主使风与镇尼皆听命于先知王所罗门：精灵为他建殿宇、铸巨盆、潜海采珠，违命者锁以铁镣。传说他以刻有至大圣名的指环封印叛逆的镇尼，沉瓶入海。",
+    "en": "In the Quran God subjects the wind and jinn to Solomon: they build sanctuaries and dive for pearls, rebels bound in fetters. Legend adds the seal-ring by which he corked defiant jinn into bottles sunk in the sea."
+  },
+  "description": {
+    "zh": "在伊斯兰传统里，所罗门（苏莱曼）是先知亦是王，真主赐他常人未有的权柄：清风供他驱策，朝行一月之程，暮行一月之程；镇尼与恶魔听他号令，为他修建殿宇、雕造塑像、铸造如水池般巨大的铜盆、潜入深海采集珠宝，桀骜不驯者则被铁镣锁成一串（《古兰经》21:81-82、34:12-13、38:36-38）。他还通晓鸟兽之语，戴胜鸟为他侦得示巴女王的国度，一名伊夫利特自请瞬间搬来女王的宝座。\n\n后世传说为这份权柄添上一件信物：一枚刻着真主至大圣名的指环，即“所罗门的封印”。凭它他召唤、审问、发落诸灵，把最顽劣的镇尼塞进黄铜瓶，以铅封口盖印，投入大海。《一千零一夜》的渔夫捞起的正是这样一只瓶子。役使精灵的母题其实更早：约成书于一至三世纪的希腊语《所罗门遗训》已写他用天使所赐的指环驱使群魔修建圣殿。\n\n他的死亡也与镇尼有关。《古兰经》第三十四章第十四节说，所罗门拄杖而立时逝去，众镇尼不知，继续苦役，直到蛀虫蚀断手杖、遗体倒下，精灵们才发觉——若它们真通晓幽玄，何至于此。这节经文既终结了那个精灵服劳役的时代，也留给《一千零一夜》一个现成的宇宙：海底与瓶中，到处是所罗门时代封存的怒灵。",
+    "en": "In Islamic tradition Solomon (Sulayman) is prophet as well as king, granted powers no ruler held before him: the wind at his command, covering a month's journey in a morning and a month's in an evening; the jinn and devils bound to his service, building sanctuaries, carving statues, casting basins as large as reservoirs, diving into the deep for pearls, with the defiant chained together in fetters (Quran 21:81-82, 34:12-13, 38:36-38). He understood the speech of birds; the hoopoe scouted the kingdom of Sheba for him, and an ifrit offered to fetch its queen's throne in the blink of an eye.\n\nLater legend gave this authority a token: a signet ring engraved with the greatest name of God, the Seal of Solomon. With it he summoned, judged and sentenced the spirits, corking the worst of the jinn into brass bottles stoppered with lead and stamped with the seal, then sinking them in the sea. The bottle the fisherman hauls up in the Thousand and One Nights is one of these. The motif is older than Islam: the Greek Testament of Solomon, composed roughly between the first and third centuries, already shows him compelling demons to build the Temple with a ring brought by an angel.\n\nEven his death turns on the jinn. Quran 34:14 relates that Solomon died standing, propped on his staff, and the jinn toiled on unaware until a worm gnawed the staff through and the body fell — proof, the verse notes, that they never knew the unseen. The scene closes the age of spirit corvee and bequeaths the Nights its ready-made cosmos: a sea floor littered with bottled wrath from Solomon's reign."
+  },
+  "domains": {
+    "zh": [
+      "王权",
+      "封印",
+      "役使精灵",
+      "鸟兽之语"
+    ],
+    "en": [
+      "Kingship",
+      "Sealing",
+      "Command of spirits",
+      "Speech of birds"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "信物",
+        "en": "Token"
+      },
+      "value": {
+        "zh": "刻有至大圣名的指环“所罗门的封印”",
+        "en": "The Seal of Solomon, a ring engraved with God's greatest name"
+      }
+    },
+    {
+      "label": {
+        "zh": "劳役",
+        "en": "Corvee"
+      },
+      "value": {
+        "zh": "建殿、铸盆、潜海采珠",
+        "en": "Building sanctuaries, casting basins, diving for pearls"
+      }
+    },
+    {
+      "label": {
+        "zh": "死亡",
+        "en": "Death"
+      },
+      "value": {
+        "zh": "拄杖而逝，蛀虫蚀杖方为镇尼所知",
+        "en": "Died standing on his staff, unnoticed till a worm gnawed it through"
+      }
+    }
+  ],
+  "related": [
+    "jinn",
+    "ifrit",
+    "flying-carpet",
+    "aladdin-lamp"
+  ],
+  "sources": [
+    {
+      "zh": "《古兰经》21:81-82、27:15-44、34:12-14、38:36-38",
+      "en": "Quran 21:81-82, 27:15-44, 34:12-14, 38:36-38"
+    },
+    {
+      "zh": "《所罗门遗训》（希腊语，约1-3世纪）",
+      "en": "Testament of Solomon, Greek, c. 1st-3rd century"
+    },
+    {
+      "zh": "《一千零一夜》“渔夫与魔鬼的故事”",
+      "en": "The Thousand and One Nights, 'The Fisherman and the Jinni'"
+    }
+  ],
+  "geo": {
+    "lat": 31.78,
+    "lon": 35.23,
+    "label": {
+      "zh": "耶路撒冷",
+      "en": "Jerusalem"
+    }
+  },
+  "image": {
+    "file": "/images/entries/solomon-and-the-jinn.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spencer_Coll._Persian_MS._46_fol_127v_Sulayman_plans_the_Temple.jpg",
+    "sourceTitle": "Spencer Coll. Persian MS. 46 fol 127v Sulayman plans the Temple",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "width": 635,
+    "height": 1000
+  }
+}

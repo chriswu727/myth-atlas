@@ -1,0 +1,89 @@
+{
+  "id": "ming-she",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "鸣蛇",
+    "en": "Mingshe"
+  },
+  "title": {
+    "zh": "见则大旱的四翼之蛇",
+    "en": "Four-Winged Serpent That Portends Drought"
+  },
+  "summary": {
+    "zh": "鲜山水中的异蛇，蛇身生四翼，鸣声像击磬，它在哪座城邑现身，哪里就要大旱。与主水的化蛇同出伊水流域。",
+    "en": "A serpent of Mount Xian's waters with four wings and a call like a struck stone chime; wherever it appears, that town will suffer drought — counterpart to the flood-bringing Huashe."
+  },
+  "description": {
+    "zh": "《中次二经》记鲜山“多金玉，无草木”，鲜水从山中流出，北注伊水，水里多鸣蛇：“其状如蛇而四翼，其音如磬，见则其邑大旱。”蛇身上生着四只翅膀，叫起来像敲石磬，一声声清越；它在哪里露面，那座城邑随后就要大旱。\n\n往西三百里的阳山水中住着化蛇，人面豺身鸟翼，见则其邑大水。同出伊水流域，一蛇主旱、一蛇主涝，是《中次二经》里方向相反的一对灾兆。四翼与磬音之外，经文再无一字，鸣蛇的全部形象就悬在这十几个字上；磬本是庙堂祭祀的石制乐器，这声正音偏偏出自旱兆之蛇的口中。",
+    "en": "Mount Xian carries gold and jade but no vegetation; the Xian River leaves it and runs north into the Yi. Its waters hold many Mingshe, 'singing snakes': serpents with four wings whose call rings like a struck stone chime. The consequence is fixed — wherever one is seen, that town will suffer a great drought.\n\nThree hundred li to the west, the waters of Mount Yang hold the Huashe, a human-faced flood omen. Within the same Yi River basin the two serpents mark opposite disasters, drought and deluge, a matched pair of hydrological warnings in the second central sequence. Beyond the four wings and the chime-like voice the classic offers nothing more; the creature's whole image hangs on a dozen characters, and the chime — an instrument of temple ritual — sounds here from the mouth of a drought omen."
+  },
+  "domains": {
+    "zh": [
+      "旱兆",
+      "翼蛇",
+      "伊水"
+    ],
+    "en": [
+      "Drought Omens",
+      "Winged Serpents",
+      "The Yi River"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "鲜山鲜水",
+        "en": "Mount Xian and the Xian River"
+      }
+    },
+    {
+      "label": {
+        "zh": "鸣声",
+        "en": "Call"
+      },
+      "value": {
+        "zh": "如击磬",
+        "en": "Like a struck stone chime"
+      }
+    },
+    {
+      "label": {
+        "zh": "兆示",
+        "en": "Omen"
+      },
+      "value": {
+        "zh": "见则其邑大旱",
+        "en": "Its appearance portends drought"
+      }
+    }
+  ],
+  "related": [
+    "hua-she",
+    "fu-zhu"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/ming-she.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic508_-_%E9%B3%B4%E8%9B%87%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic508 - 鳴蛇圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 680,
+    "height": 1000
+  }
+}

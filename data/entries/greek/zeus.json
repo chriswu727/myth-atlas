@@ -1,0 +1,107 @@
+{
+  "id": "zeus",
+  "tradition": "greek",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "宙斯",
+    "en": "Zeus",
+    "original": "Ζεύς",
+    "originalLang": "古希腊语"
+  },
+  "title": {
+    "zh": "众神之王，雷霆的执掌者",
+    "en": "King of the Gods, Wielder of the Thunderbolt"
+  },
+  "summary": {
+    "zh": "奥林波斯诸神之王，司掌天空与雷霆。推翻父亲克洛诺斯后与兄弟抽签分掌宇宙，得天空为其疆域。",
+    "en": "King of the Olympian gods, ruler of sky and thunder. After overthrowing his father Cronus, he drew the sky when the three brothers divided the cosmos by lot."
+  },
+  "description": {
+    "zh": "宙斯是奥林波斯诸神之王，克洛诺斯与瑞亚的幼子，司掌天空、雷霆与誓言的秩序。克洛诺斯惧怕被子女推翻，将新生儿逐一吞下；瑞亚以襁褓裹石让丈夫吞下，把婴儿宙斯藏进克里特岛的山洞抚养。成年后宙斯迫使父亲吐出兄姊，联合他们与提坦神族鏖战十年，得独眼巨人锻造的雷霆为武器，终将提坦囚入塔耳塔洛斯深渊。\n\n战后三兄弟抽签分掌宇宙：宙斯得天空，波塞冬得海洋，哈迪斯得冥府。他坐镇奥林波斯山，以雷霆惩罚僭越者与背誓之人，也以多变的形貌——公牛、天鹅、金雨——留下无数情缘与半神后代，赫拉克勒斯、珀耳修斯皆是其子。奥林匹亚的宙斯神庙中曾立有菲狄亚斯约公元前435年完成的黄金象牙巨像，位列古代世界七大奇迹；四年一度的奥林匹亚赛会亦以他的名义举行。",
+    "en": "Zeus, youngest child of the Titans Cronus and Rhea, rules the sky and wields the thunderbolt as king of the Olympian gods. Cronus, fearing overthrow, swallowed each of his children at birth; Rhea saved the last by handing her husband a stone wrapped in swaddling clothes and hiding the infant in a cave on Crete. Grown to strength, Zeus forced his father to disgorge his siblings and led them through a ten-year war against the Titans, armed with thunderbolts forged by the Cyclopes, until the elder gods were cast into Tartarus.\n\nAfter the victory the three brothers cast lots: Zeus took the sky, Poseidon the sea, Hades the underworld. From his seat on Mount Olympus he punishes oath-breakers and enforces the order of gods and men, while his many transformations — bull, swan, shower of gold — fathered heroes across Greece, Heracles and Perseus among them. His sanctuary at Olympia held Phidias's gold-and-ivory statue, completed around 435 BCE and counted among the Seven Wonders of the ancient world, and the games held there every four years were celebrated in his name."
+  },
+  "domains": {
+    "zh": [
+      "天空",
+      "雷霆",
+      "王权",
+      "誓言"
+    ],
+    "en": [
+      "Sky",
+      "Thunder",
+      "Kingship",
+      "Oaths"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "圣物",
+        "en": "Symbols"
+      },
+      "value": {
+        "zh": "雷霆、鹰、橡树",
+        "en": "Thunderbolt, eagle, oak"
+      }
+    },
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "克洛诺斯与瑞亚",
+        "en": "Cronus and Rhea"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Chief sanctuaries"
+      },
+      "value": {
+        "zh": "奥林匹亚、多多纳",
+        "en": "Olympia, Dodona"
+      }
+    }
+  ],
+  "related": [
+    "poseidon",
+    "hades",
+    "athena",
+    "apollo",
+    "heracles",
+    "typhon",
+    "mount-olympus",
+    "prometheus"
+  ],
+  "sources": [
+    {
+      "zh": "赫西俄德《神谱》",
+      "en": "Hesiod, Theogony"
+    },
+    {
+      "zh": "荷马《伊利亚特》",
+      "en": "Homer, Iliad"
+    }
+  ],
+  "geo": {
+    "lat": 37.638,
+    "lon": 21.63,
+    "label": {
+      "zh": "奥林匹亚宙斯神庙",
+      "en": "Temple of Zeus, Olympia"
+    }
+  },
+  "image": {
+    "file": "/images/entries/zeus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colossal_Head_of_Jupiter,_so-called_Jupiter_of_Otricoli_(49357484321).jpg",
+    "sourceTitle": "Colossal Head of Jupiter, so-called Jupiter of Otricoli (49357484321)",
+    "artist": "Jamie Heath from United Kingdom",
+    "license": "CC BY-SA 2.0",
+    "width": 562,
+    "height": 1000
+  }
+}

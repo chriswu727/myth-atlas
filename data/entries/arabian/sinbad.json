@@ -1,0 +1,102 @@
+{
+  "id": "sinbad",
+  "tradition": "arabian",
+  "type": "hero",
+  "era": "folk",
+  "name": {
+    "zh": "辛巴达",
+    "en": "Sinbad the Sailor",
+    "original": "السندباد البحري",
+    "originalLang": "阿拉伯语"
+  },
+  "title": {
+    "zh": "七下大海的巴格达商人",
+    "en": "The Baghdad merchant of the seven voyages"
+  },
+  "summary": {
+    "zh": "巴格达富商，七次出海七次船毁人存：登上过鲸背误当的小岛，绑在鲁克鸟脚上飞出绝境，被海中老人骑上肩头，最终带着钻石与故事回家养老。",
+    "en": "The Baghdad merchant who sailed seven times and was wrecked seven times: he camped on a whale's back, flew tied to a roc's leg, carried the Old Man of the Sea, and came home rich in diamonds and stories."
+  },
+  "description": {
+    "zh": "故事的框架是两个同名人的相遇：赤贫的脚夫辛巴达在巴格达一座豪宅门前歇脚，感叹世道不公，宅子的主人——航海家辛巴达——请他入席，用七个晚上讲完自己七次航海的经历，每讲一夜赠金百枚。第一次，船员们在“小岛”上生火，岛沉入水，那是一头巨鲸的背；第二次，他被遗落荒岛，把自己绑上鲁克鸟的脚，落进铺满钻石与巨蟒的深谷，靠商人抛下的肉块粘钻脱身；此后又遇上食人的黑巨人、把死者与生者同穴合葬的国度、赖在肩头不下来的海中老人，直到第七次航海后发誓再不出海。\n\n每次归来他都散财行善，然后“旧念复萌”——对风浪与利润的双重渴望，是这组故事最诚实的发动机。它的底色是阿拔斯时代真实的印度洋贸易：巴格达与巴士拉的商船经波斯湾往印度、锡兰直至东南亚，十世纪的《印度奇观志》等航海见闻录里已满是巨鸟、鲸岛与食人部落的水手传说，辛巴达故事被认为脱胎于这类见闻与《奥德赛》式的历险母题。\n\n辛巴达故事集原本独立流传，加朗在译出《一千零一夜》之前先译了它，随后并入法译本（1704年起），从此与山鲁佐德的框架绑定。二十世纪雷·哈里豪森的定格特效电影三部曲让“辛巴达”成为冒险电影的老字号，那位精于止损的中世纪海商，如今是挥剑斗骷髅的万能英雄。",
+    "en": "The cycle opens with two men of the same name. Sinbad the porter, dead poor, rests at the gate of a Baghdad mansion and laments the injustice of fortune; the master of the house — Sinbad the sailor — invites him in and over seven evenings recounts his seven voyages, paying a hundred gold pieces per night. On the first, the crew kindle a fire on a low island that dives: it was the back of a whale. On the second, marooned, he ties himself to a roc's leg and is dropped into a valley floored with diamonds and serpents, escaping by the merchants' trick of meat thrown down to stick the gems. Later voyages bring a man-eating black giant, a kingdom that buries the living spouse with the dead, and the Old Man of the Sea who mounts his shoulders and will not climb down — until after the seventh voyage he swears off the sea for good.\n\nAfter each return he gives alms, settles down, and then the old craving stirs again; the twin appetite for wind and profit is the cycle's honest engine. Beneath the marvels lies the real Indian Ocean trade of the Abbasid age, when ships out of Basra ran to India, Ceylon and beyond. Tenth-century compilations of sailors' reports such as the Book of the Wonders of India already teem with giant birds, whale-islands and cannibal coasts, and the Sinbad tales are read as that lore worked into an Odyssey-shaped romance.\n\nThe cycle circulated independently; Galland translated it before he knew of the Nights at all, then folded it into his French version from 1704, binding Sinbad to Scheherazade's frame ever since. Ray Harryhausen's stop-motion film trilogy made the name a franchise of adventure cinema, turning a medieval merchant with a genius for cutting losses into an all-purpose sword-swinging hero."
+  },
+  "domains": {
+    "zh": [
+      "航海",
+      "商旅",
+      "印度洋",
+      "历险"
+    ],
+    "en": [
+      "Seafaring",
+      "Merchant ventures",
+      "Indian Ocean",
+      "Adventure"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "航次",
+        "en": "Voyages"
+      },
+      "value": {
+        "zh": "七次，次次船毁人存",
+        "en": "Seven, each ending in wreck and survival"
+      }
+    },
+    {
+      "label": {
+        "zh": "名场面",
+        "en": "Famous scrapes"
+      },
+      "value": {
+        "zh": "鲸背之岛、钻石谷、海中老人",
+        "en": "The whale-island, the diamond valley, the Old Man of the Sea"
+      }
+    },
+    {
+      "label": {
+        "zh": "母港",
+        "en": "Home ports"
+      },
+      "value": {
+        "zh": "巴格达居家，巴士拉出海",
+        "en": "Baghdad for living, Basra for sailing"
+      }
+    }
+  ],
+  "related": [
+    "roc",
+    "scheherazade",
+    "mount-qaf"
+  ],
+  "sources": [
+    {
+      "zh": "《一千零一夜》“辛巴达航海记”（加朗法译本自1704年起收入）",
+      "en": "The Thousand and One Nights, the voyages of Sinbad, included in Galland's French version from 1704"
+    },
+    {
+      "zh": "布祖尔格·伊本·沙赫里亚尔（辑）《印度奇观志》（10世纪）",
+      "en": "Buzurg ibn Shahriyar (attrib.), The Book of the Wonders of India, 10th century"
+    }
+  ],
+  "geo": {
+    "lat": 33.34,
+    "lon": 44.4,
+    "label": {
+      "zh": "巴格达",
+      "en": "Baghdad"
+    }
+  },
+  "image": {
+    "file": "/images/entries/sinbad.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinbad_the_sailor_%26_other_stories_from_the_Arabian_nights_-_Dulac_frontispiece.jpg",
+    "sourceTitle": "Sinbad the sailor & other stories from the Arabian nights - Dulac frontispiece",
+    "artist": "Edmund Dulac",
+    "license": "Public domain",
+    "width": 794,
+    "height": 1000
+  }
+}

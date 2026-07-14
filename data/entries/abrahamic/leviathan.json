@@ -1,0 +1,100 @@
+{
+  "id": "leviathan",
+  "tradition": "abrahamic",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "利维坦",
+    "en": "Leviathan",
+    "original": "לִוְיָתָן",
+    "originalLang": "希伯来语"
+  },
+  "title": {
+    "zh": "深海巨兽",
+    "en": "The Great Beast of the Deep"
+  },
+  "summary": {
+    "zh": "希伯来圣经中的海中巨兽，鳞甲密合如盾、口喷火焰，鱼钩不能钓起。《以赛亚书》预言末日耶和华将击杀这条盘曲的海蛇。",
+    "en": "The great sea monster of the Hebrew Bible, armored in interlocking scales and breathing fire. Isaiah foretells that the Lord will slay the coiling serpent at the end of days."
+  },
+  "description": {
+    "zh": "利维坦是希伯来圣经中的海中巨兽。《约伯记》第四十一章用整章篇幅描摹它：背上鳞甲一片紧扣一片，气不得透入其间；口中喷出火把，鼻孔冒烟如烧开的锅；心硬如石，刀剑、枪矛、标枪都不能伤它；它以铁为干草、以铜为烂木，游过之处深渊翻腾如白发的浪。经文借耶和华之口问约伯：你能用鱼钩钓上利维坦，用绳子压下它的舌头吗——意在宣示人力在造物面前的界限。\n\n利维坦的形象承自更古老的迦南神话。乌加里特泥板（公元前十四至十三世纪）记载巴力击败七头海蛇洛坦（Lotan），词形与利维坦同源。《诗篇》第七十四篇说神在太初砸碎利维坦的多个头颅，《以赛亚书》第二十七章则把决战推向末日：\"到那日，耶和华必用他刚硬有力的大刀刑罚鳄鱼——就是那快行的蛇，刑罚鳄鱼——就是那曲行的蛇，并杀海中的大鱼。\"拉比传统进一步发挥：《巴比伦塔木德》（Bava Batra 74b-75a）说神造了雌雄一对利维坦，杀死雌兽腌存，留待末日设宴款待义人，其皮将做成帐幕。\n\n一六五一年，霍布斯借这个名字为其政治哲学著作《利维坦》命名，以海中巨兽比喻吞纳众人意志的国家；此后利维坦成为西方语言里\"庞然巨物\"的通用意象。",
+    "en": "Leviathan is the great sea monster of the Hebrew Bible. Job 41 devotes an entire chapter to it: rows of scales locked so tightly that no air passes between them, firebrands streaming from its mouth, smoke pouring from its nostrils as from a boiling pot. Sword, spear, and javelin cannot touch it; it treats iron as straw and bronze as rotten wood, and leaves a wake of churning white water behind it. The chapter is framed as God's question to Job — can you draw out Leviathan with a fishhook? — a statement of the limits of human power before creation.\n\nThe figure descends from older Canaanite myth. Ugaritic tablets of the fourteenth to thirteenth century BCE describe Baal's defeat of Lotan, a seven-headed sea serpent whose name is cognate with Leviathan. Psalm 74 recalls God crushing the heads of Leviathan at the beginning of time, while Isaiah 27:1 defers the final battle to the last day, when the Lord with his hard, great sword will punish 'Leviathan the fleeing serpent, Leviathan the twisting serpent.' Rabbinic tradition adds that God made a male and a female; the female was slain and salted away, to be served to the righteous at the banquet of the world to come (Babylonian Talmud, Bava Batra 74b-75a).\n\nIn 1651 Thomas Hobbes borrowed the name for his treatise on the state, and Leviathan has since served Western languages as the standing image of any overwhelming vastness."
+  },
+  "domains": {
+    "zh": [
+      "深海",
+      "混沌",
+      "末日决战"
+    ],
+    "en": [
+      "The deep sea",
+      "Chaos",
+      "The final battle"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早记载",
+        "en": "Earliest attestation"
+      },
+      "value": {
+        "zh": "《约伯记》41章；乌加里特泥板中的洛坦为其前身",
+        "en": "Job 41; the Ugaritic Lotan is its precursor"
+      }
+    },
+    {
+      "label": {
+        "zh": "特征",
+        "en": "Features"
+      },
+      "value": {
+        "zh": "鳞甲密合、口喷火焰、刀枪不入",
+        "en": "Interlocking scales, fiery breath, invulnerable to weapons"
+      }
+    },
+    {
+      "label": {
+        "zh": "对应巨兽",
+        "en": "Counterpart"
+      },
+      "value": {
+        "zh": "陆上的贝希摩斯",
+        "en": "Behemoth, its counterpart on land"
+      }
+    }
+  ],
+  "related": [
+    "behemoth",
+    "noahs-ark",
+    "jonah-and-the-great-fish"
+  ],
+  "sources": [
+    {
+      "zh": "《约伯记》41章",
+      "en": "Job 41"
+    },
+    {
+      "zh": "《诗篇》74:14；104:26",
+      "en": "Psalm 74:14; 104:26"
+    },
+    {
+      "zh": "《以赛亚书》27:1",
+      "en": "Isaiah 27:1"
+    },
+    {
+      "zh": "《巴比伦塔木德》Bava Batra 74b-75a",
+      "en": "Babylonian Talmud, Bava Batra 74b-75a"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/leviathan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Destruction_of_Leviathan.png",
+    "sourceTitle": "Destruction of Leviathan",
+    "artist": "Gustave Doré",
+    "license": "Public domain",
+    "width": 791,
+    "height": 1000
+  }
+}

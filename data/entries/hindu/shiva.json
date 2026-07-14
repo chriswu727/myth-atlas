@@ -1,0 +1,115 @@
+{
+  "id": "shiva",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "湿婆",
+    "en": "Shiva",
+    "original": "शिव",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "毁灭与再生之神，舞王",
+    "en": "The Destroyer and Transformer, Lord of the Dance"
+  },
+  "summary": {
+    "zh": "额生第三只眼的毁灭与再生之神，青喉、月冠、蛇饰，恒河从他的发髻间泻下。居于冈仁波齐雪峰，以宇宙之舞终结并重启世界。",
+    "en": "The three-eyed god of destruction and renewal, blue-throated and moon-crowned, the Ganges falling through his matted hair. From Mount Kailash he dances the universe to its end and rebirth."
+  },
+  "description": {
+    "zh": "湿婆是苦行者的形象：灰白的身体涂着火葬场的灰烬，颈间盘着眼镜蛇，腰围虎皮，头顶新月，纠结的发髻承接着从天而降的恒河水。他的额头竖着第三只眼，睁开时喷出的神火曾把爱神伽摩烧成灰烬。喉咙呈青黑色——搅乳海时浮出的剧毒“哈拉哈拉”足以毁灭三界，他一口吞下，毒液停在喉间，因此得名“青颈者”（Nilakantha）。他持三叉戟，摇达玛鲁鼓，骑白色公牛南迪，与妻子雪山神女帕尔瓦蒂居于冈仁波齐峰，两个儿子是象头神迦尼萨与战神室建陀。\n\n他的前身可追溯到《梨俱吠陀》中令人畏惧的暴风之神楼陀罗。作为“舞王”（Nataraja），他在火圈中踏着宇宙之舞：一手持鼓奏出创造之音，一手托着毁灭之火，脚下踩着象征无知的侏儒。南印度朱罗王朝（9-13世纪）的舞王铜像是印度艺术最著名的造型之一。\n\n湿婆的主要崇拜形式是林伽——竖立的石柱状圣物。全印十二座“光之林伽”（Jyotirlinga）神庙是湿婆派最重要的朝圣网络，瓦拉纳西的迦尸·维什瓦纳特庙位居其列；每年湿婆之夜（Maha Shivaratri），信徒彻夜守夜浴林伽。",
+    "en": "Shiva wears the guise of an ascetic: his pale body smeared with cremation ash, a cobra coiled at his throat, a tiger skin about his waist, a crescent moon in his matted hair, through which the Ganges falls from heaven. A third eye stands upright on his brow; its fire once burned Kama, god of desire, to ash. His throat is dark blue—when the poison halahala rose from the churning ocean and threatened the three worlds, he swallowed it and held it there, earning the name Nilakantha. He carries the trident, sounds the damaru drum, rides the white bull Nandi, and dwells on Mount Kailash with his wife Parvati and their sons Ganesha and Kartikeya.\n\nHis Vedic ancestor is Rudra, the feared storm god of the Rigveda. As Nataraja, Lord of the Dance, he dances within a ring of flame, one hand drumming creation into being, another bearing the fire of dissolution, one foot pressing down a dwarf who embodies ignorance. The Chola bronzes of south India (9th–13th century) fixed this image as one of the most celebrated forms in Indian art.\n\nShiva is chiefly worshipped as the linga, an upright stone pillar. Twelve Jyotirlinga temples, among them Kashi Vishwanath at Varanasi, form the great pilgrimage circuit of Shaivism, and on the night of Maha Shivaratri devotees keep vigil bathing the linga until dawn."
+  },
+  "domains": {
+    "zh": [
+      "毁灭与再生",
+      "苦行",
+      "舞蹈",
+      "瑜伽"
+    ],
+    "en": [
+      "Destruction and Renewal",
+      "Asceticism",
+      "Dance",
+      "Yoga"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "三叉戟（特里舒拉）",
+        "en": "Trident (trishula)"
+      }
+    },
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "白牛南迪",
+        "en": "The bull Nandi"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "冈仁波齐峰（凯拉萨山）",
+        "en": "Mount Kailash"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Marks"
+      },
+      "value": {
+        "zh": "第三只眼、青喉、新月、恒河",
+        "en": "Third eye, blue throat, crescent moon, the Ganges"
+      }
+    }
+  ],
+  "related": [
+    "vishnu",
+    "brahma",
+    "ganesha",
+    "durga",
+    "kali",
+    "samudra-manthan"
+  ],
+  "sources": [
+    {
+      "zh": "《梨俱吠陀》楼陀罗颂歌",
+      "en": "Rigveda, hymns to Rudra"
+    },
+    {
+      "zh": "《湿婆往世书》",
+      "en": "Shiva Purana"
+    }
+  ],
+  "geo": {
+    "lat": 31.07,
+    "lon": 81.31,
+    "label": {
+      "zh": "冈仁波齐峰",
+      "en": "Mount Kailash"
+    }
+  },
+  "image": {
+    "file": "/images/entries/shiva.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siva-parvati-by-raja-ravi-varma.jpg",
+    "sourceTitle": "Siva-parvati-by-raja-ravi-varma",
+    "artist": "anonymous, may be Raja Ravi Varma",
+    "license": "Public domain",
+    "width": 670,
+    "height": 1000
+  }
+}

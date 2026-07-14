@@ -1,0 +1,102 @@
+{
+  "id": "ku",
+  "tradition": "polynesian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "库",
+    "en": "Ku",
+    "original": "Kū",
+    "originalLang": "夏威夷语"
+  },
+  "title": {
+    "zh": "夏威夷战神",
+    "en": "Hawaiian God of War"
+  },
+  "summary": {
+    "zh": "夏威夷四大神之一，名意为\"直立\"。战争形态\"夺岛之库\"是卡美哈梅哈一世的守护神；其羽毛神像以红黄羽覆面、珠母贝为目、犬齿为口。",
+    "en": "One of the four great Hawaiian gods; the name means \"to stand.\" As Kukailimoku, \"Ku the island snatcher,\" he was Kamehameha I's war god, embodied in feather images with pearl-shell eyes and dog-tooth mouths."
+  },
+  "description": {
+    "zh": "库与卡内、罗诺、卡纳罗阿并列为夏威夷的四大神，名字本义是\"站立、直立\"。以库开头的神名自成一族：林中的库莫库哈利伊受独木舟工匠供奉，海边的库乌拉受渔人供奉，最令人生畏的是战争形态库卡伊利莫库——\"夺岛之库\"。战神祭祀属于最高等级的鲁阿基尼神庙，仪式需献人牲，只有最高酋长有权兴建此类神庙。\n\n库卡伊利莫库最著名的一段历史与卡美哈梅哈一世相连。大酋长卡拉尼欧普乌临终前把这尊战神像托付给侄子卡美哈梅哈，后者奉其征战，最终统一夏威夷群岛。1790至1791年，卡美哈梅哈在夏威夷岛西北岸的卡瓦伊哈埃修筑普乌科霍拉神庙献给库卡伊利莫库，落成时以宿敌克欧瓦为牲——此后十九年内他兼并了全部群岛。\n\n库的神像自成一格：以藤蔓气根编出头颅骨架，覆满数以万计的镰嘴管舌雀（ʻiʻiwi）红羽并缀黄羽，珠母贝嵌作双眼，咧开的阔口里排满成列的犬齿，头发用人发。这类羽毛战神首像今存于檀香山毕晓普博物馆、大英博物馆等处，是波利尼西亚造像中辨识度最高的一类。1819年卡美哈梅哈死后旧祭祀体系废除，库的神庙祭仪随之终结，神像散入博物馆与私人之手。",
+    "en": "Ku, with Kane, Lono and Kanaloa, is one of the four great gods of Hawaii; the name itself means \"to stand upright.\" The name heads a whole family of Ku-gods: Kumokuhalii of the forest received the prayers of canoe builders, Kuula those of fishermen, and the most feared was the war aspect Kukailimoku, \"Ku the snatcher of islands.\" His rites belonged to the luakini class of temple, where human sacrifice was offered, and only the highest chiefs could dedicate one.\n\nThe most famous chapter of Kukailimoku's history runs through Kamehameha I. The dying high chief Kalaniopuu entrusted the war god's image to his nephew Kamehameha, who carried it through his campaigns to unify the archipelago. In 1790-91 Kamehameha built Puukohola Heiau at Kawaihae on the northwest coast of Hawaii Island for Kukailimoku, and his rival Keoua was slain at its dedication; within two decades he ruled all the islands.\n\nThe god's images are unmistakable: a basketry skull of woven aerial rootlets covered with tens of thousands of red iiwi feathers set off with yellow, eyes of pearl shell, a wide grinning mouth set with rows of dog teeth, and human hair. Feathered war-god heads of this type survive in the Bishop Museum in Honolulu and the British Museum. After Kamehameha's death in 1819 the old temple system was abolished, Ku's rites ended, and the images passed into museums and private hands."
+  },
+  "domains": {
+    "zh": [
+      "战争",
+      "王权",
+      "森林与工艺",
+      "渔猎"
+    ],
+    "en": [
+      "War",
+      "Chiefly power",
+      "Forest and crafts",
+      "Fishing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "战争形态",
+        "en": "War aspect"
+      },
+      "value": {
+        "zh": "库卡伊利莫库，\"夺岛之库\"",
+        "en": "Kukailimoku, \"Ku the island snatcher\""
+      }
+    },
+    {
+      "label": {
+        "zh": "神像",
+        "en": "Image"
+      },
+      "value": {
+        "zh": "红黄羽毛首像，珠母贝目，犬齿口",
+        "en": "Feathered head with pearl-shell eyes and dog-tooth mouth"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名信奉者",
+        "en": "Famous devotee"
+      },
+      "value": {
+        "zh": "卡美哈梅哈一世",
+        "en": "Kamehameha I"
+      }
+    }
+  ],
+  "related": [
+    "lono",
+    "pele",
+    "tangaroa"
+  ],
+  "sources": [
+    {
+      "zh": "戴维·马洛《夏威夷古俗》（约1840年代成稿，1903年英译刊行）",
+      "en": "David Malo, Hawaiian Antiquities (written c. 1840s, published in translation 1903)"
+    },
+    {
+      "zh": "玛莎·贝克威思《夏威夷神话》（1940年）",
+      "en": "Martha Beckwith, Hawaiian Mythology (1940)"
+    }
+  ],
+  "geo": {
+    "lat": 20.026,
+    "lon": -155.821,
+    "label": {
+      "zh": "普乌科霍拉神庙（卡瓦伊哈埃）",
+      "en": "Puukohola Heiau, Kawaihae"
+    }
+  },
+  "image": {
+    "file": "/images/entries/ku.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuka%27ilimoku.jpg",
+    "sourceTitle": "Kuka'ilimoku",
+    "artist": "Lebrac",
+    "license": "CC BY-SA 3.0",
+    "width": 750,
+    "height": 1000
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "five-suns",
+  "tradition": "aztec",
+  "type": "tale",
+  "era": "ancient",
+  "name": {
+    "zh": "五太阳纪",
+    "en": "The Five Suns"
+  },
+  "title": {
+    "zh": "阿兹特克的创世纪元：四个毁灭的世界与现行的第五个",
+    "en": "The Aztec Ages of Creation: Four Destroyed Worlds and the Present Fifth"
+  },
+  "summary": {
+    "zh": "阿兹特克宇宙观：世界已历四个太阳纪，分别毁于猛豹、飓风、火雨与洪水；现行第五纪\"四运动\"在特奥蒂瓦坎点燃，终将毁于地震。",
+    "en": "In Aztec cosmology four previous world-ages perished by jaguars, hurricane, fiery rain, and flood. The present Fifth Sun, kindled at Teotihuacan, is fated to end in earthquakes."
+  },
+  "description": {
+    "zh": "阿兹特克人相信，在现行的时代之前，世界已有四个\"太阳纪\"相继诞生又毁灭。按1558年《诸太阳传说》的次序：第一纪\"四豹\"由特斯卡特利波卡任太阳，其民为食橡果的巨人，历676年，尽数被美洲豹吞噬；第二纪\"四风\"由克察尔科亚特尔主掌，毁于飓风，人变成了猴子；第三纪\"四雨\"属雨神特拉洛克，天降火雨，幸存者化为火鸡；第四纪\"四水\"由玉裙水神查尔丘特利库埃执掌，洪水滔天五十二年，人尽为鱼——唯有塔塔与内内夫妇藏身中空巨木得免，却因偷偷烤鱼、烟气触怒诸神而被变成狗。各纪的名称、次序与年数在《墨西哥人绘画史》等文献中略有出入。\n\n第五个太阳诞生于特奥蒂瓦坎。诸神在黑暗中聚集，商定由一位神跳入大火化为新日：富有的特克西斯特卡特尔四次临火而退，满身脓疮的卑微小神纳纳瓦特辛却闭目一跃而入，升作太阳；特克西斯特卡特尔羞愧随之，成为第二个太阳，诸神掷兔击面减其光辉——墨西哥人至今说月中有兔。可是新日悬在天边索求血食，众神只得尽数献出自己的心脏，风神埃埃卡特尔奋力吹动，太阳方才起行。此纪名为\"四运动\"（Nahui Ollin），注定毁于大地震；供养太阳运行的血债，成为阿兹特克人心祭制度的神学根基。\n\n这套宇宙观最著名的图像凝结在太阳石上：这块直径约3.58米的玄武岩巨盘于1790年在墨西哥城中央广场出土，中央刻\"四运动\"符记，环抱前四纪太阳的四个方形徽记，今藏墨西哥国立人类学博物馆。",
+    "en": "The Aztecs held that four Suns, four whole world-ages, had risen and been destroyed before the present one. In the sequence of the Leyenda de los Soles (1558): the First Sun, 4 Jaguar, was ruled by Tezcatlipoca and peopled by acorn-eating giants, until after 676 years jaguars devoured them all; the Second, 4 Wind, under Quetzalcoatl, ended in a hurricane that turned people into monkeys; the Third, 4 Rain, under Tlaloc, perished beneath a rain of fire, its survivors becoming turkeys; the Fourth, 4 Water, under the water goddess Chalchiuhtlicue, She of the Jade Skirt, drowned in a flood lasting fifty-two years that turned humanity into fish. Only the couple Tata and Nene survived in a hollow log — and were turned into dogs when the smoke of the fish they secretly roasted offended the gods. Other sources, such as the Historia de los mexicanos por sus pinturas, give the ages in a different order and duration.\n\nThe Fifth Sun was born at Teotihuacan. The gods gathered in darkness and agreed that one of them must leap into a great fire to become the new sun. Rich Tecciztecatl approached the flames four times and flinched; the humble, pustule-covered Nanahuatzin shut his eyes and jumped, and rose as the sun. Shamed, Tecciztecatl followed and rose as a second sun, so the gods threw a rabbit at his face to dim him — Mexicans still see the rabbit in the moon. But the new sun hung motionless, demanding blood, and only after the assembled gods gave up their own hearts and the wind god Ehecatl blew with all his force did it begin to move. This age, 4 Movement (Nahui Ollin), is fated to end in earthquakes; the debt of blood that keeps the sun moving became the theological ground of Aztec heart sacrifice.\n\nThe most famous image of this cosmology is the Sun Stone, a basalt disk about 3.58 meters across unearthed in the Zócalo of Mexico City in 1790: at its center is the sign 4 Movement, framed by the four square emblems of the perished Suns. It now hangs in the National Museum of Anthropology."
+  },
+  "domains": {
+    "zh": [
+      "创世",
+      "毁灭",
+      "宇宙纪元",
+      "献祭"
+    ],
+    "en": [
+      "Creation",
+      "Cataclysm",
+      "World ages",
+      "Sacrifice"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "四个已逝纪元",
+        "en": "The four dead Suns"
+      },
+      "value": {
+        "zh": "四豹、四风、四雨、四水",
+        "en": "4 Jaguar, 4 Wind, 4 Rain, 4 Water"
+      }
+    },
+    {
+      "label": {
+        "zh": "现行纪元",
+        "en": "The present Sun"
+      },
+      "value": {
+        "zh": "四运动，将毁于地震",
+        "en": "4 Movement, to end in earthquakes"
+      }
+    },
+    {
+      "label": {
+        "zh": "图像见证",
+        "en": "Monument"
+      },
+      "value": {
+        "zh": "太阳石，1790年出土",
+        "en": "The Sun Stone, unearthed in 1790"
+      }
+    }
+  ],
+  "related": [
+    "quetzalcoatl",
+    "tezcatlipoca",
+    "tlaloc",
+    "xolotl",
+    "mictlantecuhtli",
+    "xiuhcoatl"
+  ],
+  "sources": [
+    {
+      "zh": "《诸太阳传说》（《奇马尔波波卡手抄本》，1558年）",
+      "en": "Leyenda de los Soles (Codex Chimalpopoca, 1558)"
+    },
+    {
+      "zh": "贝尔纳迪诺·德·萨阿贡《佛罗伦萨手抄本》第七卷",
+      "en": "Bernardino de Sahagún, Florentine Codex, Book 7"
+    },
+    {
+      "zh": "《墨西哥人绘画史》（约1535年）",
+      "en": "Historia de los mexicanos por sus pinturas (c. 1535)"
+    },
+    {
+      "zh": "阿兹特克太阳石（墨西哥国立人类学博物馆藏）",
+      "en": "The Aztec Sun Stone, National Museum of Anthropology, Mexico City"
+    }
+  ],
+  "geo": {
+    "lat": 19.6925,
+    "lon": -98.8438,
+    "label": {
+      "zh": "特奥蒂瓦坎（第五太阳诞生地）",
+      "en": "Teotihuacan, birthplace of the Fifth Sun"
+    }
+  },
+  "image": {
+    "file": "/images/entries/five-suns.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg",
+    "sourceTitle": "Monolito de la Piedra del Sol",
+    "artist": "El Comandante",
+    "license": "CC BY-SA 3.0",
+    "width": 1000,
+    "height": 750
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "hanuman",
+  "tradition": "hindu",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "哈奴曼",
+    "en": "Hanuman",
+    "original": "हनुमान्",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "风神之子，罗摩的神猴大将",
+    "en": "Son of the wind, Rama's monkey champion"
+  },
+  "summary": {
+    "zh": "风神之子、力大无穷的神猴：一跃跨过大海寻得悉多，火烧楞伽城，托举药山救活罗什曼那。对罗摩的忠诚使他成为最受爱戴的神祇之一。",
+    "en": "The mighty monkey son of the wind god: he leapt the ocean to find Sita, burned Lanka with his tail, and carried a mountain of herbs to save Lakshmana. Devotion to Rama made him India's best-loved champion."
+  },
+  "description": {
+    "zh": "哈奴曼是风神伐由与猴女安阇那之子，能随意变大缩小、腾空飞行。幼年时他把初升的朝阳当成熟果，一跃入天去摘，因陀罗掷金刚杵击中他的下颌（hanu），“哈奴曼”之名由此而来；风神一怒屏息，三界窒息，诸神只得各赠恩赐赔罪，成就了他刀枪不入的神躯。\n\n他是《罗摩衍那》后半部的灵魂人物。悉多被魔王罗波那劫往楞伽岛后，哈奴曼在猴群束手无策时纵身一跃跨过百由旬的大海，潜入楞伽城，在无忧树园中找到悉多并献上罗摩的戒指为信物；被魔兵擒获后，罗刹在他尾巴上缠布浇油点火，他趁势挣脱，拖着火尾窜遍全城，把楞伽烧成火海。决战中罗什曼那中箭垂死，须在天亮前取得喜马拉雅山中的还魂仙草，哈奴曼飞抵药山认不出仙草，索性将整座山托在掌中带回战场。\n\n哈奴曼被尊为“力量与忠诚”的化身，也是长生不死的“奇兰吉维”之一。16世纪杜勒西达斯以阿瓦德语写成赞歌《哈奴曼颂》（Hanuman Chalisa），至今是印度传诵最广的祷文之一；印度各地的哈奴曼像动辄高达数十米，摔跤手与习武者奉他为祖师。《西游记》孙悟空的形象是否受哈奴曼影响，自胡适提出以来学界聚讼至今。",
+    "en": "Hanuman is the son of Vayu, god of wind, by the monkey lady Anjana; he can grow or shrink at will and fly through the air. As an infant he took the rising sun for a ripe fruit and leapt for it; Indra's thunderbolt struck his jaw—hanu—giving him his name. When the wind god held his breath in protest and the three worlds began to suffocate, the gods appeased him with boons that left the child all but invulnerable.\n\nHe is the soul of the later books of the Ramayana. When Ravana carried Sita off to the island of Lanka, Hanuman crossed the hundred-league sea in a single bound, found her in the ashoka grove and gave her Rama's ring as a token. Captured, his tail wrapped in oiled cloth and set alight, he broke free and raced the flames across the rooftops until Lanka burned. Later, with Lakshmana dying of an arrow wound and the healing herb needed before dawn, Hanuman flew to the Himalayas, could not tell the herbs apart, and simply carried the whole mountain back to the battlefield in his palm.\n\nRevered as the embodiment of strength and selfless devotion, Hanuman is counted among the chiranjivi, the undying. The Hanuman Chalisa, a hymn composed in Awadhi by Tulsidas in the 16th century, remains one of the most widely recited prayers in India; colossal Hanuman statues tens of metres tall rise across the country, and wrestlers honour him as their patron. Since the scholar Hu Shih, a long debate has weighed his possible influence on Sun Wukong, the Monkey King of the Chinese novel Journey to the West."
+  },
+  "domains": {
+    "zh": [
+      "力量",
+      "忠诚",
+      "飞行",
+      "长生"
+    ],
+    "en": [
+      "Strength",
+      "Devotion",
+      "Flight",
+      "Immortality"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父亲",
+        "en": "Father"
+      },
+      "value": {
+        "zh": "风神伐由",
+        "en": "Vayu, god of the wind"
+      }
+    },
+    {
+      "label": {
+        "zh": "神通",
+        "en": "Powers"
+      },
+      "value": {
+        "zh": "变大缩小、飞行、近乎不死",
+        "en": "Changing size, flight, near-invulnerability"
+      }
+    },
+    {
+      "label": {
+        "zh": "名场面",
+        "en": "Famous deeds"
+      },
+      "value": {
+        "zh": "跃海寻悉多、火烧楞伽、掌托药山",
+        "en": "Leaping the sea, burning Lanka, carrying the herb mountain"
+      }
+    },
+    {
+      "label": {
+        "zh": "经典祷文",
+        "en": "Hymn"
+      },
+      "value": {
+        "zh": "杜勒西达斯《哈奴曼颂》（16世纪）",
+        "en": "Hanuman Chalisa by Tulsidas (16th century)"
+      }
+    }
+  ],
+  "related": [
+    "rama",
+    "rakshasa",
+    "vishnu"
+  ],
+  "sources": [
+    {
+      "zh": "蚁垤《罗摩衍那》",
+      "en": "Valmiki, Ramayana"
+    },
+    {
+      "zh": "杜勒西达斯《哈奴曼颂》",
+      "en": "Tulsidas, Hanuman Chalisa"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hanuman.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanuman_fetches_the_herb-bearing_mountain,_in_a_print_from_the_Ravi_Varma_Press,_1910%27s.jpg",
+    "sourceTitle": "Hanuman fetches the herb-bearing mountain, in a print from the Ravi Varma Press, 1910's",
+    "license": "Public domain",
+    "width": 688,
+    "height": 1000
+  }
+}

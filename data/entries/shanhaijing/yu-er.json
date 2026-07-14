@@ -1,0 +1,90 @@
+{
+  "id": "yu-er",
+  "tradition": "shanhaijing",
+  "type": "spirit",
+  "era": "ancient",
+  "name": {
+    "zh": "于儿",
+    "en": "Yu'er"
+  },
+  "title": {
+    "zh": "操两蛇游于江渊的水神",
+    "en": "River Spirit Who Grasps Two Snakes in the Yangtze Deeps"
+  },
+  "summary": {
+    "zh": "夫夫山之神，人身而操两蛇，常在长江深渊中游弋，出入时有光芒，属洞庭山系一群操蛇水神之列。",
+    "en": "Spirit of Mount Fufu, human in form with two snakes held about his body, who ranges the deep pools of the Yangtze and comes and goes wrapped in light."
+  },
+  "description": {
+    "zh": "《中次十二经》记夫夫之山“其上多黄金，其下多青雄黄”，神于儿居之：“其状人身而身操两蛇，常游于江渊，出入有光。”人的身形，身上缠握着两条蛇，长年在长江的深渊里出没，每次现身都带着一团光。\n\n操蛇、珥蛇是《山海经》里神明身份的通用标记：海外东经的雨师妾两手各操一蛇，左耳青蛇右耳赤蛇；同属中次十二经的洞庭之山也“多怪神，状如人而载蛇，左右手操蛇”。在这一大群无名的操蛇之神里，于儿是名姓分明的一位。\n\n他与洞庭山的帝之二女、光山的龙首之神计蒙同属江汉洞庭之间的水神群——游于深渊，出入或有光、或有风雨，是这一群神共同的做派。",
+    "en": "Mount Fufu bears gold above and azure orpiment below. Its resident god is Yu'er: a human figure with two snakes held about his body, who ranges the deep pools of the Yangtze and comes and goes wrapped in light.\n\nGrasping or wearing snakes is the standard insignia of divinity in the Shanhaijing. The Rain Master's Consort of the overseas classics clutches a serpent in each hand, a green snake at her left ear and a red one at her right; Mount Dongting, in this same twelfth central sequence, teems with strange gods 'shaped like men, draped with snakes, gripping snakes in both hands.' Within that anonymous snake-handling crowd, Yu'er is one of the few with a name of his own.\n\nTogether with the two daughters of the supreme god at Dongting and the dragon-headed Jimeng of Mount Guang, he belongs to the family of water gods between the Yangtze, the Han and Lake Dongting, whose crossings are marked now by light, now by storm."
+  },
+  "domains": {
+    "zh": [
+      "江渊",
+      "操蛇之神",
+      "洞庭山系"
+    ],
+    "en": [
+      "The Yangtze Deeps",
+      "Snake-Wielding Spirits",
+      "The Dongting Range"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Abode"
+      },
+      "value": {
+        "zh": "夫夫之山",
+        "en": "Mount Fufu"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "人身而操两蛇",
+        "en": "Human form grasping two snakes"
+      }
+    },
+    {
+      "label": {
+        "zh": "异象",
+        "en": "Sign"
+      },
+      "value": {
+        "zh": "出入有光",
+        "en": "Light attends his comings and goings"
+      }
+    }
+  ],
+  "related": [
+    "di-zhi-er-nu",
+    "ji-meng",
+    "tai-feng"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/yu-er.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic42_-_%E4%BA%8E%E5%85%92%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic42 - 于兒神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 685,
+    "height": 1000
+  }
+}

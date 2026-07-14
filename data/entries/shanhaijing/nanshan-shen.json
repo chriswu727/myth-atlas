@@ -1,0 +1,91 @@
+{
+  "id": "nanshan-shen",
+  "tradition": "shanhaijing",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "南山山神",
+    "en": "Gods of the Southern Mountains"
+  },
+  "title": {
+    "zh": "南山三列山系的鸟龙之神",
+    "en": "Bird-and-Dragon Guardians of the Three Southern Ranges"
+  },
+  "summary": {
+    "zh": "南山经三列山系的集体山神：鹊山十山之神鸟身龙首，次二经十七山之神龙身鸟首，次三经十四山之神龙身人面，各有祠礼。",
+    "en": "The collective mountain gods of the three southern ranges: bird-bodied and dragon-headed in the first, dragon-bodied and bird-headed in the second, dragon-bodied and human-faced in the third, each with prescribed rites."
+  },
+  "description": {
+    "zh": "《南山经》的四十一座山分作三列山系，每列的结尾都停下来交代一件事：这一路的山神长什么样，该怎么祭。自招摇之山至箕尾之山的鹊山十山，\"其神状皆鸟身而龙首\"；自柜山至漆吴之山的十七山，\"其神状皆龙身而鸟首\"；自天虞之山至南禺之山的十四山，\"其神皆龙身而人面\"。鸟与龙两种部件在三列山系间翻转拼装，越往南，龙身越占上风，最后换上一张人脸。\n\n祭法各有等差。鹊山之神：\"毛用一璋玉瘗，糈用稌米，一璧稻米、白菅为席\"——以带毛的牲与一块璋玉埋入地下，祭米用稌稻，再陈一璧，铺白菅草为席。次二经之神毛用一璧瘗，糈用稌；次三经之神则\"皆一白狗祈，糈用稌\"，用一只白狗祷祭。瘗是埋祭，山神在地不在天，祭品要埋进土里才算送达。\n\n这些山神没有名字，没有事迹，也没有神殿，只有形貌与应得的祭品清单，像一份写给行旅与祭司的公文。正是这类段落让历代学者把《山经》读作上古巫祝的祭祀地理手册——比起讲故事，它更关心在哪座山、该埋下什么。",
+    "en": "The forty-one mountains of the Classic of the Southern Mountains fall into three ranges, and at the end of each range the itinerary pauses for the same two matters: what the gods of these mountains look like, and what they are owed. The ten mountains from Zhaoyao to Jiwei have gods with birds' bodies and dragons' heads; the seventeen from Ju to Qiwu, dragons' bodies and birds' heads; the fourteen from Tianyu to Nanyu, dragons' bodies and human faces. Bird and dragon are recombined range by range, the dragon gaining ground southward until it finally wears a human face.\n\nThe rites are graded. The gods of the first range receive a sacrificial animal buried with a zhang scepter of jade, an offering of tu rice, a bi disk, and a mat of white rushes; those of the second, a buried bi disk and tu rice; those of the third, the prayer of a single white dog with tu rice. Burial is the operative act — these gods dwell in the earth, not the sky, and offerings reach them only by being put into the ground.\n\nThe gods have no names, no deeds, no temples: only bodies and a tariff of dues, like a circular issued to travelers and officiants. Passages such as these are why scholars have long read the Classic of Mountains less as storytelling than as a ritual geography — a handbook of which mountain requires what, buried where."
+  },
+  "domains": {
+    "zh": [
+      "山川之神",
+      "祭祀",
+      "龙",
+      "鸟"
+    ],
+    "en": [
+      "Mountain Gods",
+      "Sacrificial Rites",
+      "Dragons",
+      "Birds"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "鹊山十山之神",
+        "en": "Gods of the first range"
+      },
+      "value": {
+        "zh": "鸟身而龙首",
+        "en": "Bird-bodied, dragon-headed"
+      }
+    },
+    {
+      "label": {
+        "zh": "南次二经之神",
+        "en": "Gods of the second range"
+      },
+      "value": {
+        "zh": "龙身而鸟首",
+        "en": "Dragon-bodied, bird-headed"
+      }
+    },
+    {
+      "label": {
+        "zh": "南次三经之神",
+        "en": "Gods of the third range"
+      },
+      "value": {
+        "zh": "龙身而人面",
+        "en": "Dragon-bodied, human-faced"
+      }
+    }
+  ],
+  "related": [
+    "qingqiu-shan",
+    "fenghuang-shanhaijing"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/nanshan-shen.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Spirits_and_the_Supernatural_-_pic11_-_%E5%A4%A9%E8%99%9E%E5%B1%B1%E8%87%B3%E5%8D%97%E7%A6%BA%E5%B1%B1%E5%85%B1%E5%8D%81%E5%9B%9B%E5%B1%B1%E4%B9%8B%E7%A5%9E%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Spirits and the Supernatural - pic11 - 天虞山至南禺山共十四山之神圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 678,
+    "height": 1000
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "qu-ru",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "瞿如",
+    "en": "Quru"
+  },
+  "title": {
+    "zh": "祷过山上三足人面的白首怪鸟",
+    "en": "Three-Legged, Human-Faced Bird of Mount Daoguo"
+  },
+  "summary": {
+    "zh": "祷过山怪鸟，形状像池鹭一类的水鸟而头是白色，长着人的面孔和三只脚，叫声就是自己的名字。",
+    "en": "A bird of Mount Daoguo shaped like a small heron but white-headed, with a human face and three legs, forever calling out its own name."
+  },
+  "description": {
+    "zh": "《南山经》记祷过之山\"有鸟焉，其状如䴔而白首，三足、人面，其名曰瞿如，其鸣自号也\"。䴔是一种似凫的水鸟，旧注或以为即池鹭之属；瞿如像它，却顶着一颗白头，脸是人脸，脚有三只。祷过之山下多犀、兕与象，是全书少见的热带风物志，瞿如便栖在这片南国山林里。\n\n\"其鸣自号\"——它叫出来的声音正是自己的名字，仿佛一头会自报家门的鸟。这是《山海经》命名学里一个反复出现的程式：南次二经柜山的鴸\"其名自号\"，令丘山的颙\"其鸣自号\"，都属此类。古人为陌生的鸟兽命名，最省事的办法就是摹写其叫声，经文却把因果倒转，说成鸟在呼喊自己的名字，于是每一声鸟鸣都成了自我介绍。瞿如没有附带功效，也不预示灾祥，在通篇\"食之\"\"佩之\"\"见则\"的账目里，它罕见地只是被看见、被记下——三只脚站在水边，白着头，喊自己的名字。",
+    "en": "Mount Daoguo, whose lower slopes teem with rhinoceroses, buffalo, and elephants — one of the book's rare glimpses of tropical fauna — is also home to the quru. The Classic of the Southern Mountains describes a bird shaped like the jiao, a duck-like waterbird that old commentators identify with small herons, but with a white head, a human face, and three legs. Its cry, the text adds, is its own name.\n\nThat last clause follows a recurring formula in the book's science of names. The zhu of Mount Ju 'calls its own name'; so does the drought-bird Yong of Mount Lingqiu. The practical origin is plain — the easiest way to name an unknown bird is to transcribe its call — but the text reverses cause and effect, so that the bird seems to announce itself, every cry a self-introduction. Unusually, the quru comes with no prescription and no portent: in a ledger otherwise ruled by 'eat it and', 'wear it and', 'when seen', it is simply observed and recorded — a white-headed thing on three legs at the water's edge, shouting its own name."
+  },
+  "domains": {
+    "zh": [
+      "怪鸟",
+      "人面",
+      "自呼其名"
+    ],
+    "en": [
+      "Strange Birds",
+      "Human Faces",
+      "Self-Naming Cries"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "出没地",
+        "en": "Haunt"
+      },
+      "value": {
+        "zh": "祷过之山",
+        "en": "Mount Daoguo"
+      }
+    },
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "白首、人面、三足",
+        "en": "White head, human face, three legs"
+      }
+    },
+    {
+      "label": {
+        "zh": "叫声",
+        "en": "Cry"
+      },
+      "value": {
+        "zh": "鸣声即其名",
+        "en": "Its call is its own name"
+      }
+    }
+  ],
+  "related": [
+    "hu-jiao",
+    "yong"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    }
+  ],
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/qu-ru.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic098_-_%E7%9E%BF%E5%A6%82%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic098 - 瞿如圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 661,
+    "height": 1000
+  }
+}

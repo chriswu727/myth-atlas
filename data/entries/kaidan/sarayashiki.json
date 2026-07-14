@@ -1,0 +1,102 @@
+{
+  "id": "sarayashiki",
+  "tradition": "kaidan",
+  "type": "tale",
+  "era": "folk",
+  "name": {
+    "zh": "皿屋敷（阿菊）",
+    "en": "Sarayashiki (Okiku)",
+    "original": "皿屋敷",
+    "originalLang": "日语"
+  },
+  "title": {
+    "zh": "井中数盘的女幽灵",
+    "en": "The ghost who counts plates in the well"
+  },
+  "summary": {
+    "zh": "侍女阿菊因弄失主家十枚一组的传家瓷盘之一而被杀，尸体投入井中。夜半井底传来数盘声：一枚、二枚……数到九枚便化作恸哭。",
+    "en": "The maidservant Okiku, blamed for losing one of ten heirloom plates, is killed and thrown down a well. At night her voice counts from the well: one plate, two plates... breaking into wails at nine."
+  },
+  "description": {
+    "zh": "皿屋敷的骨架很简单：侍女阿菊掌管主家十枚一组的传家瓷盘，其中一枚或被摔碎、或被构陷藏起，主人以此为由将她拷打杀害，尸体投入宅中水井。此后每到深夜，井底传来女人数盘子的声音——「一枚、二枚、三枚……」数到第九枚，声音便断成撕心的恸哭，再从头数起，永远数不到十。\n\n这个故事在日本各地有数十处「皿屋敷」遗迹，最著名的是两个系统。播州（今兵库县姬路）一系里，阿菊是探知家老青山铁山谋反的忠仆，铁山藏起一枚「唐草文样」传家盘嫁祸于她，将她吊打后投井；姬路城内至今留有「阿菊井」。江户番町一系里，主人是旗本青山主膳，情节大同小异。人形净琉璃《播州皿屋敷》1741年在大坂丰竹座初演；1916年冈本绮堂的新歌舞伎《番町皿屋敷》把它改写成一出爱情悲剧——青山播磨的恋人阿菊故意摔盘试探他的真心，播磨因所爱之人不信任自己而亲手杀她。\n\n宽政七年（1795年），姬路一带麝香凤蝶的蛹大量出现，形似被反绑双手的女子，民间哄传为「阿菊虫」，是阿菊怨念所化——一桩把昆虫物候写进怪谈的著名公案。",
+    "en": "The skeleton of the tale is simple. The maidservant Okiku has charge of a set of ten heirloom plates; one is broken or hidden to frame her, her master tortures and kills her on that pretext, and her body goes down the estate well. Every night thereafter a woman's voice counts from the bottom of the well, one plate, two plates, three, and at nine it collapses into weeping and begins again, never reaching ten.\n\nDozens of places in Japan claim a Sarayashiki, a 'dish mansion,' but two lineages dominate. In the Banshu line, set in Himeji, Okiku is a loyal servant who has discovered the steward Aoyama Tetsuzan's plot against his lord; he hides one plate of an heirloom set to convict her, has her beaten, and throws her into the well. A well in the grounds of Himeji Castle is still shown as Okiku's Well. In the Edo line the master is the hatamoto Aoyama Shuzen of Bancho. The puppet play Banshu Sarayashiki premiered at the Toyotake-za in Osaka in 1741; in 1916 Okamoto Kido's new-kabuki Bancho Sarayashiki rewrote it as a tragedy of trust, in which Okiku deliberately breaks a plate to test her lover's heart and he kills her for doubting him.\n\nIn 1795 a mass emergence of swallowtail pupae around Himeji, each resembling a tiny woman with bound arms, was talked of across the country as 'Okiku bugs,' her grudge made flesh."
+  },
+  "domains": {
+    "zh": [
+      "怨灵",
+      "冤狱",
+      "水井",
+      "数数"
+    ],
+    "en": [
+      "Vengeful ghosts",
+      "False accusation",
+      "Wells",
+      "Counting"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "标志声音",
+        "en": "Signature sound"
+      },
+      "value": {
+        "zh": "井底数盘，数到九枚化作恸哭",
+        "en": "Counting plates from the well, breaking off at nine"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗迹",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "姬路城「阿菊井」",
+        "en": "Okiku's Well, Himeji Castle"
+      }
+    },
+    {
+      "label": {
+        "zh": "异闻",
+        "en": "Curiosity"
+      },
+      "value": {
+        "zh": "1795年姬路「阿菊虫」骚动",
+        "en": "The 'Okiku bug' sensation of 1795 in Himeji"
+      }
+    }
+  ],
+  "related": [
+    "yotsuya-kaidan",
+    "botan-doro",
+    "hanako-san"
+  ],
+  "sources": [
+    {
+      "zh": "净琉璃《播州皿屋敷》（1741年大坂丰竹座初演）",
+      "en": "Banshu Sarayashiki, puppet play (premiered 1741, Toyotake-za, Osaka)"
+    },
+    {
+      "zh": "冈本绮堂《番町皿屋敷》（1916年）",
+      "en": "Okamoto Kido, Bancho Sarayashiki (1916)"
+    }
+  ],
+  "geo": {
+    "lat": 34.839,
+    "lon": 134.694,
+    "label": {
+      "zh": "姬路城·阿菊井",
+      "en": "Okiku's Well, Himeji Castle"
+    }
+  },
+  "image": {
+    "file": "/images/entries/sarayashiki.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hokusai_Sarayashiki.jpg",
+    "sourceTitle": "Hokusai Sarayashiki",
+    "artist": "Hokusai",
+    "license": "Public domain",
+    "width": 725,
+    "height": 1000
+  }
+}

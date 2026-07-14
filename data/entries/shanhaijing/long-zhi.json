@@ -1,0 +1,92 @@
+{
+  "id": "long-zhi",
+  "tradition": "shanhaijing",
+  "type": "creature",
+  "era": "ancient",
+  "name": {
+    "zh": "蠪蛭",
+    "en": "Longzhi"
+  },
+  "title": {
+    "zh": "九首九尾的食人虎爪之狐",
+    "en": "The Nine-Headed, Nine-Tailed, Tiger-Clawed Fox That Eats Men"
+  },
+  "summary": {
+    "zh": "凫丽之山的食人凶兽：狐狸的身形，却有九个脑袋、九条尾巴和虎爪，啼声如婴儿。一作蠪侄。",
+    "en": "A man-eater of Fuli Mountain: a fox in outline, but with nine heads, nine tails, and tiger's claws, crying like an infant. The name is also written Longzhi with a different second graph."
+  },
+  "description": {
+    "zh": "东次二经的凫丽之山，山上多金玉，山下多箴石。山中有兽，底子是一只狐狸，但向两端同时增殖：九个脑袋，九条尾巴，四足换上虎爪，名叫蠪蛭——传世诸本又写作蠪侄。它的声音像婴儿啼哭，而它吃人。婴啼诱人靠近、利爪与九口分食，这套组合在《山海经》食人兽里堪称配置齐全。\n\n提到九尾之狐，南次一经青丘之山的九尾狐名声最大——那一只仅九尾，叫声同样如婴儿，同样食人，后世却被汉代纬书接纳为祥瑞，一路演成妲己一系的狐妖大宗。蠪蛭像是它未被驯化的东方远亲：多出九个头，添上虎爪，凶性只增不减，也没有获得任何洗白的机会，自始至终停留在食人凶兽的名单上。两相对照，可见同一母题在书内不同山系的平行变奏。\n\n“蠪”字本义是大蚂蚁，与狐形全不相干，注家一般视作纯粹的记音字。历代图本画蠪蛭，九头多作一排并列于肩，九尾散作扇形，几乎占满画幅，是东次二经插图里最拥挤的一格。",
+    "en": "Fuli Mountain, in the second eastern guideway, holds gold and jade above and needle-stone below. Its beast is at base a fox, multiplied at both ends: nine heads, nine tails, and the four paws swapped for a tiger's claws. It is called the longzhi — the manuscripts also transmit a variant graph for the second syllable. Its voice is the crying of an infant, and it eats people. The infant's wail to draw the victim close, tiger's claws to hold, and nine mouths to share: among the classic's man-eaters, few are so completely equipped.\n\nThe famous nine-tailed fox of Qingqiu, in the southern guideways, has only the nine tails — with the same infant cry and the same taste for human flesh — yet Han-dynasty apocrypha rehabilitated it as an auspicious sign, and it went on to a vast career in fox-demon lore, Daji included. The longzhi reads like its undomesticated eastern cousin: nine extra heads, tiger's claws, and no rehabilitation whatsoever. It stays on the man-eater list from beginning to end, a parallel variation on the same motif in a different mountain range of the same book.\n\nThe character 'long' properly names a large ant and has nothing to do with foxes; commentators treat it as a pure phonetic loan. In illustrated editions the nine heads are usually ranked in a row across the shoulders and the nine tails fanned out behind, filling the frame — the most crowded panel in the second eastern guideway."
+  },
+  "domains": {
+    "zh": [
+      "食人",
+      "九首九尾",
+      "狐形",
+      "东山"
+    ],
+    "en": [
+      "Man-Eating",
+      "Nine Heads and Tails",
+      "Fox-Shaped",
+      "Eastern Mountains"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "狐身，九首九尾，虎爪",
+        "en": "Fox's body, nine heads, nine tails, tiger's claws"
+      }
+    },
+    {
+      "label": {
+        "zh": "声音",
+        "en": "Voice"
+      },
+      "value": {
+        "zh": "如婴儿啼哭",
+        "en": "Like a crying infant"
+      }
+    },
+    {
+      "label": {
+        "zh": "异文",
+        "en": "Variant"
+      },
+      "value": {
+        "zh": "一作蠪侄",
+        "en": "Second graph varies across editions"
+      }
+    }
+  ],
+  "related": [
+    "zhu-ru",
+    "he-yu",
+    "pao-xiao"
+  ],
+  "sources": [
+    {
+      "zh": "《山海经·东山经》（东次二经·凫丽之山）",
+      "en": "Classic of Mountains and Seas, 'Eastern Mountains' (Fuli Mountain)"
+    }
+  ],
+  "volume": {
+    "zh": "东山经",
+    "en": "Classic of the Eastern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/long-zhi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imperial_Encyclopaedia_-_Animal_Kingdom_-_pic286_-_%E8%A0%AA%E5%A7%AA%E5%9C%96.png",
+    "sourceTitle": "Imperial Encyclopaedia - Animal Kingdom - pic286 - 蠪姪圖",
+    "artist": "Chen Menglei",
+    "license": "Public domain",
+    "width": 664,
+    "height": 1000
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "brahma",
+  "tradition": "hindu",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "梵天",
+    "en": "Brahma",
+    "original": "ब्रह्मा",
+    "originalLang": "梵语"
+  },
+  "title": {
+    "zh": "创造之神，三相神之一",
+    "en": "The Creator, first of the Trimurti"
+  },
+  "summary": {
+    "zh": "四面四臂的创造之神，从毗湿奴脐间莲花中诞生，每一面诵读一部吠陀。虽位列三相神，全印度专门供奉他的神庙却屈指可数。",
+    "en": "The four-faced creator god, born from a lotus rising from Vishnu's navel. First of the Trimurti, yet temples dedicated to him are famously rare."
+  },
+  "description": {
+    "zh": "梵天通常被描绘为红肤或金肤的老者，四张面孔朝向四方，四臂分持吠陀经卷、念珠、水罐与祭勺，坐骑是一只白色的汉萨天鹅（Hamsa）。四张面孔对应四部吠陀，他的每一天（一劫）相当于四十三亿两千万人间年，宇宙在他醒来时展开、入睡时收拢。他的配偶是智慧与言语女神辩才天女娑罗室伐底。\n\n往世书体系里，梵天从沉睡于乳海的毗湿奴脐间生出的一朵莲花中诞生，随后着手创造诸天、大地与众生；更早的吠陀文献则把创造归于生主（Prajapati），梵天是这一角色在史诗时代的继承者。传说他原有五张面孔，因傲慢冒犯湿婆，被湿婆化身的陪胪（Bhairava）斩去一面，只剩四面。\n\n尽管位列三相神，梵天在印度几乎没有活跃的祭祀：通行的解释见于往世书中的诅咒故事，或谓创造已经完成、无需再求。拉贾斯坦邦普什卡（Pushkar）湖畔的梵天庙是极少数专祀他的名庙，每年迦剌底迦月（10-11月）满月的普什卡骆驼节期间香火最盛。",
+    "en": "Brahma is depicted as a red- or gold-skinned elder with four faces turned to the four quarters, his four hands holding the Vedas, a rosary, a water pot and a sacrificial ladle. He rides a white swan, the hamsa. His four faces are said to have spoken the four Vedas; one day of his life, a kalpa, spans 4.32 billion human years, the universe unfolding when he wakes and dissolving when he sleeps. His consort is Saraswati, goddess of speech and learning.\n\nIn the Puranic account he is born inside a lotus that grows from the navel of Vishnu as the latter sleeps on the cosmic ocean, and from that seat he fashions the heavens, the earth and living beings. He inherits the role of the older Vedic creator Prajapati. One tale holds that he once had five heads until Shiva, in the form of Bhairava, cut one off to punish his arrogance.\n\nDespite his rank in the Trimurti, Brahma receives almost no active worship in India, a fact the Puranas explain with curse legends. The temple beside the lake at Pushkar in Rajasthan is the best known of the very few shrines dedicated to him, busiest during the full-moon camel fair each autumn."
+  },
+  "domains": {
+    "zh": [
+      "创造",
+      "吠陀",
+      "宇宙周期"
+    ],
+    "en": [
+      "Creation",
+      "The Vedas",
+      "Cosmic Cycles"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "坐骑",
+        "en": "Mount"
+      },
+      "value": {
+        "zh": "白天鹅（汉萨）",
+        "en": "White swan (hamsa)"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consort"
+      },
+      "value": {
+        "zh": "辩才天女娑罗室伐底",
+        "en": "Saraswati"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志",
+        "en": "Emblems"
+      },
+      "value": {
+        "zh": "四面四臂，手持吠陀与水罐",
+        "en": "Four faces, four arms; Vedas and water pot"
+      }
+    },
+    {
+      "label": {
+        "zh": "主要圣地",
+        "en": "Principal shrine"
+      },
+      "value": {
+        "zh": "拉贾斯坦邦普什卡梵天庙",
+        "en": "Brahma temple at Pushkar, Rajasthan"
+      }
+    }
+  ],
+  "related": [
+    "vishnu",
+    "shiva",
+    "mount-meru"
+  ],
+  "sources": [
+    {
+      "zh": "《毗湿奴往世书》",
+      "en": "Vishnu Purana"
+    },
+    {
+      "zh": "《摩诃婆罗多》",
+      "en": "Mahabharata"
+    }
+  ],
+  "geo": {
+    "lat": 26.49,
+    "lon": 74.55,
+    "label": {
+      "zh": "普什卡",
+      "en": "Pushkar"
+    }
+  },
+  "image": {
+    "file": "/images/entries/brahma.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brahma_riding_on_his_goose.jpg",
+    "sourceTitle": "Brahma riding on his goose",
+    "artist": "Unknown (production)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 770
+  }
+}

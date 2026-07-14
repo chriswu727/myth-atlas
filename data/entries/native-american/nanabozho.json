@@ -1,0 +1,95 @@
+{
+  "id": "nanabozho",
+  "tradition": "native-american",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "纳纳博佐",
+    "en": "Nanabozho",
+    "original": "Nenabozho",
+    "originalLang": "奥吉布瓦语"
+  },
+  "title": {
+    "zh": "阿尼什纳贝人的文化英雄与大兔",
+    "en": "Culture Hero and Great Hare of the Anishinaabe"
+  },
+  "summary": {
+    "zh": "奥吉布瓦等阿尼什纳贝民族的骗子神兼文化英雄：西风之子，常现大兔之形，洪水后在龟背上重造大地，为人类命名万物、带来医道。",
+    "en": "Trickster and culture hero of the Ojibwe and other Anishinaabe peoples: son of the West Wind, often a great hare, who remade the land on a turtle's back after the flood and named all things."
+  },
+  "description": {
+    "zh": "纳纳博佐（又作纳纳布什、维纳博佐）是五大湖区阿尼什纳贝民族（奥吉布瓦、渥太华、波塔瓦托米）口传的中心人物。他是西风之灵与人间女子维诺娜所生，由外祖母诺科米斯抚养长大，能随意变形，最常取一只大兔的形貌，故也被早期法国传教士记作\"米沙博\"（大兔）。他一身兼有骗子与恩人两种性情：为族人盗火、命名动植物、创立米德维温医道会，也不乏贪嘴闯祸、被自己的诡计反噬的滑稽故事。\n\n他最重要的事迹是洪水后的再造世界。水下豹类的水灵杀死了纳纳博佐的狼兄弟，他复仇击伤水灵首领，大水随之淹没世界。纳纳博佐攀在浮木上，请水鸟与水兽轮流下潜取土：潜鸟、水獭、海狸相继气绝而返，最后小小的麝鼠拼死潜底，浮上来时已经断气，爪中却攥着一撮泥土。纳纳博佐把这撮土敷在大龟背上，吹气使其生长，成为今日的大地——\"龟岛\"，至今是原住民对北美大陆的称呼。\n\n1839年，与奥吉布瓦裔妻子简·约翰斯顿共事的印第安事务官亨利·斯库尔克拉夫特在《阿尔吉克研究》中记录了大量纳纳博佐故事；朗费罗1855年的长诗《海华沙之歌》即取材于此，却错把阿尼什纳贝的纳纳博佐安上了易洛魁人名\"海华沙\"，混淆流传至今。在阿尼什纳贝社区，纳纳博佐故事传统上只在落雪的季节讲述。",
+    "en": "Nanabozho (also Nanabush or Wenabozho) is the central figure of the oral traditions of the Anishinaabe peoples of the Great Lakes: the Ojibwe, Odawa, and Potawatomi. Born of the spirit of the West Wind and Wenonah, a human woman, and raised by his grandmother Nokomis, he changes shape at will and most often takes the form of a great hare, which is why early French missionaries recorded him as Michabou, the Great Hare. He is trickster and benefactor in one body: he stole fire for the people, gave the animals and plants their names, and founded the Midewiwin medicine society, yet a whole cycle of stories shows him undone by his own appetite and schemes.\n\nHis greatest deed is remaking the world after the flood. When the underwater spirits killed his wolf brother, Nanabozho wounded their chief in revenge, and the waters rose over the earth. Clinging to driftwood, he asked the water animals to dive for soil: loon, otter, and beaver each surfaced dead, until the little muskrat went down and floated up lifeless with a few grains of earth clenched in its paw. Nanabozho spread the earth on the back of the great turtle and breathed it into growth, making the land of today, Turtle Island, still a Native name for North America.\n\nIn 1839 Henry Rowe Schoolcraft, who worked alongside his Ojibwe wife Jane Johnston, recorded many Nanabozho stories in Algic Researches; Longfellow drew on them for The Song of Hiawatha (1855) but attached the Iroquois name Hiawatha to the Anishinaabe hero, a confusion that persists. In Anishinaabe communities, Nanabozho stories are traditionally told only when snow lies on the ground."
+  },
+  "domains": {
+    "zh": [
+      "文化英雄",
+      "变形",
+      "再造大地",
+      "医道"
+    ],
+    "en": [
+      "Culture hero",
+      "Shapeshifting",
+      "Remaking the earth",
+      "Medicine ways"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "民族来源",
+        "en": "Peoples"
+      },
+      "value": {
+        "zh": "奥吉布瓦、渥太华、波塔瓦托米（阿尼什纳贝）",
+        "en": "Ojibwe, Odawa, Potawatomi (Anishinaabe)"
+      }
+    },
+    {
+      "label": {
+        "zh": "常见形貌",
+        "en": "Common form"
+      },
+      "value": {
+        "zh": "大兔",
+        "en": "A great hare"
+      }
+    },
+    {
+      "label": {
+        "zh": "讲述时节",
+        "en": "Storytelling season"
+      },
+      "value": {
+        "zh": "传统上仅在冬季讲述",
+        "en": "Traditionally told only in winter"
+      }
+    }
+  ],
+  "related": [
+    "earth-diver-creation",
+    "wendigo",
+    "coyote",
+    "raven"
+  ],
+  "sources": [
+    {
+      "zh": "亨利·罗·斯库尔克拉夫特《阿尔吉克研究》（1839）",
+      "en": "Henry Rowe Schoolcraft, Algic Researches (1839)"
+    },
+    {
+      "zh": "巴兹尔·约翰斯顿《奥吉布瓦遗产》（1976）",
+      "en": "Basil Johnston, Ojibway Heritage (1976)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/nanabozho.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nanabozho_pictograph,_Mazinaw_Rock.jpg",
+    "sourceTitle": "Nanabozho pictograph, Mazinaw Rock",
+    "artist": "D. Gordon E. Robertson",
+    "license": "CC BY-SA 3.0",
+    "width": 982,
+    "height": 1000
+  }
+}
