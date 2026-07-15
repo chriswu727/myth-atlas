@@ -171,14 +171,14 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
           <div>
             <p className="eyebrow">01 · ATLAS</p>
             <h2 className="atlas-title mt-3">
-              {locale === "zh" ? "循光痕，渡向诸神故土" : "Follow the traces of light to the homelands of gods"}
+              {locale === "zh" ? "循微光，渡向诸神故土" : "Follow the glimmers to the homelands of gods"}
             </h2>
           </div>
           <div className="atlas-deck">
             <p className="mt-5 text-vellum-dim">
               {locale === "zh"
-                ? "每一片幽明色域，都覆着一方古老神土。俯近大地，神迹、异兽与夜行怪谈便从沉睡的坐标中浮现。"
-                : "Each field of half-light veils an elder mythology. Draw close to the earth and the sites of miracles, monsters, and night-born tales rise from sleeping coordinates."}
+                ? "每一枚漂泊的微光，都系着一方古老神土。俯近大地，神迹、异兽与夜行怪谈便从沉睡的坐标中浮现。"
+                : "Each wandering glimmer is bound to an elder mythology. Draw close to the earth and the sites of miracles, monsters, and night-born tales rise from sleeping coordinates."}
             </p>
             <p className="catalog-no mt-6">{dict.home.mapHint[locale]}</p>
           </div>
