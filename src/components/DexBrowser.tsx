@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useDeferredValue, useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import MiniSearch from "minisearch";
 import EntryCard from "@/components/EntryCard";
@@ -49,6 +49,7 @@ export default function DexBrowser({
   const [tid, setTid] = useState(sp.get("t") ?? "");
   const [type, setType] = useState<EntryType | "">((sp.get("ty") as EntryType) ?? "");
   const [era, setEra] = useState<Era | "">((sp.get("e") as Era) ?? "");
+  const deferredQ = useDeferredValue(q);
 
   useEffect(() => {
     const p = new URLSearchParams();
@@ -79,47 +80,49 @@ export default function DexBrowser({
   }, [entries]);
 
   const matchIds = useMemo(() => {
-    if (!q.trim()) return null;
-    return new Set(mini.search(q).map((r) => r.id as string));
-  }, [q, mini]);
+    if (!deferredQ.trim()) return null;
+    return new Set(mini.search(deferredQ).map((r) => r.id as string));
+  }, [deferredQ, mini]);
 
-  const visible = entries.filter(
-    (e) =>
-      (!matchIds || matchIds.has(e.id)) &&
-      (!tid || e.tradition === tid) &&
-      (!type || e.type === type) &&
-      (!era || e.era === era)
+  const visible = useMemo(
+    () =>
+      entries.filter(
+        (entry) =>
+          (!matchIds || matchIds.has(entry.id)) &&
+          (!tid || entry.tradition === tid) &&
+          (!type || entry.type === type) &&
+          (!era || entry.era === era)
+      ),
+    [entries, matchIds, tid, type, era]
   );
 
   const traditionById = useMemo(() => new Map(traditions.map((t) => [t.id, t])), [traditions]);
-  const hasFilter = q || tid || type || era;
-
-  const chip = (active: boolean) =>
-    `border px-3 py-1 text-xs tracking-wide transition-colors cursor-pointer ${
-      active
-        ? "border-brass text-brass"
-        : "border-[var(--brass-faint)] text-vellum-dim hover:border-[var(--brass-soft)] hover:text-vellum"
-    }`;
+  const hasFilter = Boolean(q || tid || type || era);
 
   return (
-    <div>
-      <div className="flex flex-col gap-4">
+    <div className="grid gap-10 lg:grid-cols-[15rem_1fr]">
+      <aside className="filter-panel lg:sticky lg:top-28 lg:self-start">
+        <label htmlFor="dex-search" className="eyebrow block">
+          {locale === "zh" ? "叩问万象" : "Invoke the codex"}
+        </label>
         <input
+          id="dex-search"
           type="search"
           name="q"
           value={q}
-          onChange={(e) => setQ(e.target.value)}
+          onChange={(event) => setQ(event.target.value)}
           placeholder={dict.dex.search[locale]}
-          className="w-full border hairline bg-ink-well px-4 py-2.5 text-base placeholder:text-vellum-faint focus:border-brass focus:outline-none"
+          className="mt-3 w-full border-b border-[var(--line-strong)] bg-transparent py-2 text-base placeholder:text-vellum-faint focus:border-brass focus:outline-none"
         />
 
-        <div className="flex flex-wrap items-center gap-2">
-          <span className="catalog-no mr-1 min-w-10">{dict.dex.tradition[locale]}</span>
+        <div className="mt-8">
+          <label htmlFor="tradition-filter" className="catalog-no block">{dict.dex.tradition[locale]}</label>
           <select
+            id="tradition-filter"
             name="tradition"
             value={tid}
-            onChange={(e) => setTid(e.target.value)}
-            className="border hairline bg-ink-well px-2 py-1 text-sm text-vellum focus:border-brass focus:outline-none"
+            onChange={(event) => setTid(event.target.value)}
+            className="mt-2 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-vellum focus:border-brass focus:outline-none"
           >
             <option value="">{dict.dex.all[locale]}</option>
             {traditions.map((t) => (
@@ -130,68 +133,77 @@ export default function DexBrowser({
           </select>
         </div>
 
-        <div className="flex flex-wrap items-center gap-2">
-          <span className="catalog-no mr-1 min-w-10">{dict.dex.type[locale]}</span>
-          <button type="button" className={chip(type === "")} onClick={() => setType("")}>
+        <div className="mt-7">
+          <p className="catalog-no">{dict.dex.type[locale]}</p>
+          <div className="mt-2 flex flex-wrap gap-2">
+          <button type="button" className="filter-chip" data-active={type === ""} onClick={() => setType("")}>
             {dict.dex.all[locale]}
           </button>
           {ENTRY_TYPES.map((ty) => (
-            <button key={ty} type="button" className={chip(type === ty)} onClick={() => setType(ty)}>
+            <button key={ty} type="button" className="filter-chip" data-active={type === ty} onClick={() => setType(ty)}>
               {typeLabels[ty][locale]}
             </button>
           ))}
+          </div>
         </div>
 
-        <div className="flex flex-wrap items-center gap-2">
-          <span className="catalog-no mr-1 min-w-10">{dict.dex.era[locale]}</span>
-          <button type="button" className={chip(era === "")} onClick={() => setEra("")}>
+        <div className="mt-7">
+          <p className="catalog-no">{dict.dex.era[locale]}</p>
+          <div className="mt-2 flex flex-wrap gap-2">
+          <button type="button" className="filter-chip" data-active={era === ""} onClick={() => setEra("")}>
             {dict.dex.all[locale]}
           </button>
           {ERAS.map((er) => (
-            <button key={er} type="button" className={chip(era === er)} onClick={() => setEra(er)}>
+            <button key={er} type="button" className="filter-chip" data-active={era === er} onClick={() => setEra(er)}>
               {eraLabels[er][locale]}
             </button>
           ))}
+          </div>
         </div>
-      </div>
+        {hasFilter && (
+          <button
+            type="button"
+            onClick={() => {
+              setQ("");
+              setTid("");
+              setType("");
+              setEra("");
+            }}
+            className="button-secondary mt-8 w-full"
+          >
+            {dict.dex.clear[locale]}
+          </button>
+        )}
+      </aside>
 
-      <p className="catalog-no mt-6 border-b hairline pb-2">
-        {visible.length} {dict.dex.results[locale]}
-      </p>
-
-      {visible.length === 0 ? (
-        <div className="py-20 text-center text-vellum-dim">
-          <p>{dict.dex.empty[locale]}</p>
-          {hasFilter && (
-            <button
-              type="button"
-              onClick={() => {
-                setQ("");
-                setTid("");
-                setType("");
-                setEra("");
-              }}
-              className="mt-4 border border-[var(--brass-soft)] px-4 py-1.5 text-sm text-brass hover:border-brass"
-            >
-              {dict.dex.clear[locale]}
-            </button>
-          )}
+      <section>
+        <div className="flex items-end justify-between border-t border-[var(--line-strong)] pt-2">
+          <p className="catalog-no">{locale === "zh" ? "卷中所见" : "Revealed in the leaves"}</p>
+          <p className="font-[family-name:var(--font-display-stack)] text-3xl">
+            {visible.length} <span className="catalog-no">{dict.dex.results[locale]}</span>
+          </p>
         </div>
-      ) : (
-        <div className="mt-6 grid grid-cols-2 gap-x-5 gap-y-8 sm:grid-cols-3 lg:grid-cols-4">
-          {visible.map((e) => {
-            const t = traditionById.get(e.tradition);
+
+        {visible.length === 0 ? (
+          <div className="paper-panel mt-8 py-20 text-center text-vellum-dim">
+            <p>{dict.dex.empty[locale]}</p>
+          </div>
+        ) : (
+          <div className="mt-8 grid grid-cols-2 gap-x-4 gap-y-10 sm:grid-cols-3 xl:grid-cols-4 xl:gap-x-6">
+          {visible.map((entry) => {
+            const tradition = traditionById.get(entry.tradition);
             return (
               <EntryCard
-                key={e.id}
-                entry={e}
-                tradition={{ shortName: t?.shortName ?? e.tradition, color: t?.color ?? "#c3a55e" }}
+                key={entry.id}
+                entry={entry}
+                tradition={{ shortName: tradition?.shortName ?? entry.tradition, color: tradition?.color ?? "#9f3428" }}
                 locale={locale}
               />
             );
           })}
-        </div>
-      )}
+          </div>
+        )}
+      </section>
     </div>
   );
 }

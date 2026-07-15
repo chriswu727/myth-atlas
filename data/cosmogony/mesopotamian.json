@@ -22,7 +22,7 @@
     {
       "motif": "first-beings",
       "phase": { "zh": "诸神出世", "en": "The generations" },
-      "title": { "zh": "两水之中生出神，神吵得阿普苏睡不着", "en": "Gods born of the waters, and the noise that kept Apsu awake" },
+      "title": { "zh": "诸神生于两水，喧声惊动深渊", "en": "Gods rise from the two waters; their uproar wakes the deep" },
       "text": {
         "zh": "两水交融，一代代神从中生出：拉赫穆与拉哈穆，接着是安沙尔与基沙尔，再是天神安努，安努又生埃阿（恩基）。小辈神祇成群结队来回冲撞，搅得提亚马特腹中不宁，喧声昼夜不停。阿普苏白天不得休息，夜里睡不成觉，与侍臣穆姆商议要把他们全灭掉；提亚马特反对，说哪有亲手毁掉自己所生之物的道理。",
         "en": "From the mingling waters the generations come: Lahmu and Lahamu, then Anshar and Kishar, then Anu the sky, and Anu fathers Ea (Enki). The young gods band together and surge back and forth until Tiamat's belly is churning, and their uproar never stops. Apsu gets no rest by day and no sleep by night. He plots with his vizier Mummu to destroy them all, and Tiamat objects: how can they wipe out what they themselves brought forth?"
@@ -72,17 +72,17 @@
     {
       "motif": "ordeal",
       "phase": { "zh": "灭世之水", "en": "The Flood" },
-      "title": { "zh": "人太吵，恩利尔决定淹掉他们", "en": "Mankind was noisy, so Enlil drowned it" },
+      "title": { "zh": "喧声上达天庭，灭世之水降下", "en": "The din reaches heaven; the destroying waters descend" },
       "text": {
-        "zh": "人繁衍开来，喧声像牛群一样传到天上，恩利尔睡不成觉。他先降瘟疫，再降旱灾与饥荒，每次都被恩基教人化解，最后索性发洪水。恩基受誓约所缚不能明说，就隔着芦苇墙自言自语：拆屋，造船，弃财，保命。风暴刮了六天七夜，众神吓得缩在天墙下；船搁在尼穆什山上，放出的乌鸦不再飞回，水才算退了。",
-        "en": "Mankind multiplies, and the din carries up like a bellowing herd until Enlil cannot sleep. He sends plague, then drought, then famine, and each time Enki teaches men how to slip out of it, so at last he calls up the Flood. Bound by his oath, Enki cannot warn anyone directly, so he talks at a reed wall: tear down the house, build a boat, abandon property, save life. The storm blows six days and seven nights and the gods themselves cower against the outer wall of heaven. The boat grounds on Mount Nimush, and only when the released raven fails to return are the waters known to have gone down."
+        "zh": "《阿特拉哈西斯》里，人繁衍开来，喧声像牛群一样传到天上，恩利尔睡不成觉。他先降瘟疫，再降旱灾与饥荒，每次都被恩基教人化解，最后索性发洪水。恩基受誓约所缚不能明说，就隔着芦苇墙自言自语：拆屋，造船，弃财，保命。《吉尔伽美什史诗》第十一板接过这条故事：风暴刮了六天七夜，众神吓得缩在天墙下；船搁在尼穆什山上，放出的乌鸦不再飞回，水才算退了。",
+        "en": "In Atrahasis mankind multiplies, and the din carries up like a bellowing herd until Enlil cannot sleep. He sends plague, then drought, then famine, and each time Enki teaches men how to escape, so at last Enlil calls up the Flood. Bound by his oath, Enki cannot warn anyone directly, so he speaks to a reed wall: tear down the house, build a boat, abandon property, save life. Tablet XI of Gilgamesh takes up the story with its own details: the storm blows six days and seven nights and the gods cower against the outer wall of heaven; the boat grounds on Mount Nimush, and only when the released raven fails to return are the waters known to have gone down."
       },
       "entries": ["mesopotamian-flood", "enlil", "enki", "gilgamesh"]
     },
     {
       "motif": "now",
       "phase": { "zh": "当世", "en": "The world as it stands" },
-      "title": { "zh": "不再灭世，改为限口；巴比伦立于天地之间", "en": "No second flood, and Babylon at the centre" },
+      "title": { "zh": "洪水退去，王权再降；巴比伦升起", "en": "The Flood withdraws; kingship descends and Babylon rises" },
       "text": {
         "zh": "洪水过后众神反悔，改用别的办法压住人口：《阿特拉哈西斯》末尾定下夭折、不育的女人和不得生育的女祭司，人从此有生有死，不再被整批抹掉。《苏美尔王表》则说洪水扫过之后，王权重新自天而降，落在基什。而在《埃努玛·埃利什》里，安努纳基抡起砖模，制砖整整一年，第二年立起埃萨吉拉的塔顶，与阿普苏比高，巴比伦就此为马尔杜克建成；宴席上众神宣读他的五十个名号——塞琉古时期的仪式抄本记着：每年新年节第四日，祭司要把这部诗从头到尾诵读一遍。",
         "en": "After the Flood the gods relent and take up other means of holding the population down: Atrahasis ends by instituting infant mortality, barren women, and classes of priestess forbidden to bear, so that people now die piecemeal instead of being wiped out together. The Sumerian King List says that once the Flood had swept over, kingship descended from heaven a second time and came to rest at Kish. In Enuma Elish the Anunnaki take up the brick mould and make bricks for a full year; in the second they raise the head of Esagila to match the Apsu, and Babylon stands for Marduk, whose fifty names are proclaimed at the banquet. A Seleucid ritual text records the sequel: on the fourth day of the new year festival the priest recites the whole poem, start to finish."

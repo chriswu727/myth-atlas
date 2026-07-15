@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "deity",
   "era": "ancient",
-  "name": { "zh": "帝台", "en": "Ditai" },
-  "title": { "zh": "在鼓钟之山宴饮百神的神人", "en": "The Divine Personage Who Feasted the Hundred Gods" },
+  "name": {
+    "zh": "帝台",
+    "en": "Ditai"
+  },
+  "title": {
+    "zh": "在鼓钟之山宴饮百神的神人",
+    "en": "The Divine Personage Who Feasted the Hundred Gods"
+  },
   "summary": {
     "zh": "只在中次七经留下遗迹的神人：休与山有他祷神的五色棋石，鼓钟山是他宴饮百神之处，高前山寒泉号称帝台之浆。",
     "en": "A divine personage known only through relics in the seventh central sequence: five-colored gaming stones on Mount Xiuyu, a feasting-ground for the hundred gods on Mount Guzhong, and a cold spring called his draught."
@@ -14,19 +20,74 @@
     "en": "Ditai has no described form; Guo Pu's note says only 'the name of a divine personage.' He survives in the seventh central sequence as three relics. On Mount Xiuyu, first peak of the Ku range, lie the 'gaming stones of Ditai': five-colored, patterned pebbles shaped like quail eggs. With these stones, the text says, he prayed to the hundred gods, and whoever wears one is proof against gu poison.\n\nMount Guzhong, 'Drum-and-Bell Mountain,' is 'where Ditai feasted the hundred gods with wine.' And on Mount Gaoqian rises a spring, piercingly cold and clear, called 'the draught of Ditai'; those who drink of it are freed from pain of the heart. Stones, banquet-ground and draught sketch a figure never once shown: a host among the hills around Mount Song who prayed to the gods and poured them wine, of rank enough to seat all hundred of them at his table."
   },
   "domains": {
-    "zh": ["宴饮百神", "五色石", "仙浆"],
-    "en": ["Feasting the Gods", "Five-Colored Stones", "Divine Draughts"]
+    "zh": [
+      "宴饮百神",
+      "五色石",
+      "仙浆"
+    ],
+    "en": [
+      "Feasting the Gods",
+      "Five-Colored Stones",
+      "Divine Draughts"
+    ]
   },
   "traits": [
-    { "label": { "zh": "遗迹", "en": "Relic" }, "value": { "zh": "休与之山帝台之棋，五色文石如鹑卵", "en": "Gaming stones on Mount Xiuyu, five-colored, shaped like quail eggs" } },
-    { "label": { "zh": "遗迹", "en": "Relic" }, "value": { "zh": "鼓钟之山，觞百神之所", "en": "Mount Guzhong, where he feasted the hundred gods" } },
-    { "label": { "zh": "遗迹", "en": "Relic" }, "value": { "zh": "高前之山帝台之浆，饮之不心痛", "en": "The cold spring of Mount Gaoqian, his draught against pain of the heart" } }
+    {
+      "label": {
+        "zh": "遗迹",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "休与之山帝台之棋，五色文石如鹑卵",
+        "en": "Gaming stones on Mount Xiuyu, five-colored, shaped like quail eggs"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗迹",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "鼓钟之山，觞百神之所",
+        "en": "Mount Guzhong, where he feasted the hundred gods"
+      }
+    },
+    {
+      "label": {
+        "zh": "遗迹",
+        "en": "Relic"
+      },
+      "value": {
+        "zh": "高前之山帝台之浆，饮之不心痛",
+        "en": "The cold spring of Mount Gaoqian, his draught against pain of the heart"
+      }
+    }
   ],
-  "related": ["shan-gao", "wen-wen"],
+  "related": [
+    "shan-gao",
+    "wen-wen"
+  ],
   "sources": [
-    { "zh": "《山海经·中山经》", "en": "Shanhaijing, 'Classic of the Central Mountains'" },
-    { "zh": "郭璞《山海经注》", "en": "Guo Pu, Commentary on the Shanhaijing" }
+    {
+      "zh": "《山海经·中山经》",
+      "en": "Shanhaijing, 'Classic of the Central Mountains'"
+    },
+    {
+      "zh": "郭璞《山海经注》",
+      "en": "Guo Pu, Commentary on the Shanhaijing"
+    }
   ],
-  "volume": { "zh": "中山经", "en": "Classic of the Central Mountains" },
-  "image": null
+  "volume": {
+    "zh": "中山经",
+    "en": "Classic of the Central Mountains"
+  },
+  "image": {
+    "file": "/images/entries/di-tai.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original symbolic illustration: the relics of Ditai",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
 }

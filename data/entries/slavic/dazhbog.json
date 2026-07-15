@@ -1,0 +1,102 @@
+{
+  "id": "dazhbog",
+  "tradition": "slavic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "达日博格",
+    "en": "Dazhbog",
+    "original": "Дажьбогъ",
+    "originalLang": "古东斯拉夫语"
+  },
+  "title": {
+    "zh": "编年史中与太阳重合的赐予之神",
+    "en": "The Giving God Identified with the Sun"
+  },
+  "summary": {
+    "zh": "基辅罗斯少数有中世纪文字见证的神祇：弗拉基米尔大公曾立其神像，斯拉夫译本又以其名解释太阳神赫利俄斯。",
+    "en": "One of the few Rus gods attested in medieval writing: Prince Vladimir raised his idol at Kyiv, while a Slavonic chronicle identified him with the sun-god Helios."
+  },
+  "description": {
+    "zh": "《往年纪事》记载，弗拉基米尔大公于980年在基辅宫廷外立起一组神像：雷神佩伦居首，达日博格与霍尔斯、斯特里博格、塞马尔格尔、莫科什并列。八年后，罗斯受洗，木像被推倒，旧神的祭祀也从编年史叙事中退场。达日博格因此成为少数有中世纪东斯拉夫文字明确点名的神，却没有留下完整神话；围绕他的光辉，多半只能从几段彼此分离的文字中辨认。\n\n《往年纪事》在1114年条目引述斯拉夫语《马拉拉编年史》时，把希腊神赫利俄斯解释为达日博格，并称其为斯瓦罗格之子。这段译写构成达日博格与太阳最直接的早期联系，但它同时是一场跨文化对译，不能等同于一篇保存完好的斯拉夫创世神话。《伊戈尔远征记》又把罗斯诸侯或罗斯人称作“达日博格的孙辈”；神名在这里已进入祖先与共同体的诗性语言。\n\n其名字通常被联系到“给予”的古斯拉夫语词根与 bog——神、福分或财富，因而常译作“赐予之神”。现代重建有时把他写成驾太阳车、掌丰饶与正义的完整太阳神王，这些细节远超过早期材料能够承担的分量。可以确认的轮廓虽稀薄，却极有力量：基辅山岗上的一尊神像，一位在编年史中与赫利俄斯重合的斯瓦罗格之子，以及战败诗篇里仍被呼作祖先的名字。",
+    "en": "The Primary Chronicle records that in 980 Prince Vladimir raised a group of idols outside his court at Kyiv. Perun stood first; Dazhbog appeared with Khors, Stribog, Simargl, and Mokosh. Eight years later the chronicle has the images overthrown as Rus accepted Christianity, and the rites of the old gods recede from its story. Dazhbog is therefore one of the few deities of medieval Rus named directly in writing, but no complete myth about him survives. His brightness must be traced across a few separated passages.\n\nUnder the year 1114, the Primary Chronicle quotes the Slavonic version of the Chronicle of John Malalas and glosses the Greek Helios as Dazhbog, son of Svarog. This is the clearest early link between Dazhbog and the sun, but it is also an act of translation between pantheons, not a self-contained Slavic creation narrative. The Tale of Igor's Campaign later calls the Rus princes or people “the grandsons of Dazhbog.” There the divine name has entered the poetic language of ancestry and collective identity.\n\nThe name is commonly connected with an old Slavic root meaning “give” and with bog, a word carrying the senses of god, fortune, or wealth, hence “the giving god.” Modern reconstructions often equip him with a solar chariot and a complete portfolio of fertility, law, and kingship, details that exceed the surviving medieval evidence. What remains secure is spare but resonant: an idol on the hill at Kyiv, a son of Svarog identified with Helios in a chronicle, and a divine ancestor still invoked in a poem of defeat."
+  },
+  "domains": {
+    "zh": [
+      "太阳",
+      "赐予",
+      "祖先",
+      "基辅罗斯"
+    ],
+    "en": [
+      "Sun",
+      "Giving",
+      "Ancestry",
+      "Kievan Rus"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "最早明载",
+        "en": "Written attestation"
+      },
+      "value": {
+        "zh": "《往年纪事》980年基辅神像名录",
+        "en": "The Kyiv idol list under 980 in the Primary Chronicle"
+      }
+    },
+    {
+      "label": {
+        "zh": "父亲",
+        "en": "Father"
+      },
+      "value": {
+        "zh": "斯瓦罗格，见斯拉夫语《马拉拉编年史》译写",
+        "en": "Svarog, in the Slavonic rendering of Malalas"
+      }
+    },
+    {
+      "label": {
+        "zh": "后裔称谓",
+        "en": "Descendants"
+      },
+      "value": {
+        "zh": "《伊戈尔远征记》中的“达日博格之孙”",
+        "en": "The “grandsons of Dazhbog” in The Tale of Igor's Campaign"
+      }
+    }
+  ],
+  "related": [
+    "svarog",
+    "perun",
+    "mokosh"
+  ],
+  "sources": [
+    {
+      "zh": "《往年纪事》（《罗斯原初编年史》）980年、1114年条",
+      "en": "The Primary Chronicle, entries for 980 and 1114"
+    },
+    {
+      "zh": "《伊戈尔远征记》",
+      "en": "The Tale of Igor's Campaign"
+    }
+  ],
+  "geo": {
+    "lat": 50.456,
+    "lon": 30.518,
+    "label": {
+      "zh": "基辅，弗拉基米尔神像所在山岗",
+      "en": "Kyiv, the hill of Vladimir's idols"
+    }
+  },
+  "image": {
+    "file": "/images/entries/dazhbog.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original symbolic illustration: Dazhbog and the returning sun",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
+}

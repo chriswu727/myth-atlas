@@ -9,7 +9,10 @@
     "original": "メリーさんの電話",
     "originalLang": "日语"
   },
-  "title": { "zh": "被丢弃后打来电话的洋娃娃", "en": "The discarded doll that calls you back" },
+  "title": {
+    "zh": "被丢弃后打来电话的洋娃娃",
+    "en": "The discarded doll that calls you back"
+  },
   "summary": {
     "zh": "被扔掉的洋娃娃打来电话：「我是玛丽，现在在垃圾场。」每一通电话她都更近一步，最后一通说：「我就在你身后。」1970至80年代日本孩子间流传。",
     "en": "The doll you threw away telephones: 'This is Mary. I'm at the dump now.' Each call she is closer, and the last one says: 'I'm right behind you.' Told among Japanese children since the 1970s-80s."
@@ -19,27 +22,73 @@
     "en": "The protagonist is a Western-style doll named Mary, thrown out during a move or a year-end cleaning. That night the house phone rings and a girl's voice says, 'This is Mary. I'm at the garbage dump now.' It rings again: 'This is Mary. I'm at the shopping street now.' Call by call she closes in, the crossroads, your street, the front door. The last call: 'This is Mary. I'm right behind you.' Whether the listener turns, and what is seen, varies by telling; most versions simply stop there and leave the final frame to the audience.\n\nThe story spread among children in the 1970s and 80s and was recorded repeatedly during the school-kaidan collecting boom. Its machinery was all new at the time: household telephones had just become universal, calls arrived without caller ID, and a ring after dark carried no clue who was on the line. The doll, meanwhile, plugged into an old Japanese conviction that human-shaped things acquire souls with use and bear grudges when discarded, the belief behind the doll-memorial rites that temples still hold. An old faith and a new appliance were wired together, and the circuit worked.\n\nThe mobile era upgraded Mary on schedule: versions now have the incoming call display the victim's own number, or map the caller's location to inside the house. With Satoru-kun she forms one pole of the Japanese 'telephone spirit' pair, the doll walking back from the dump, the boy walking over from the other side, both ringtones counting down to the same sentence: right behind you."
   },
   "domains": {
-    "zh": ["都市传说", "电话", "人偶", "步步逼近"],
-    "en": ["Urban legends", "Telephones", "Dolls", "The closing distance"]
+    "zh": [
+      "都市传说",
+      "电话",
+      "人偶",
+      "步步逼近"
+    ],
+    "en": [
+      "Urban legends",
+      "Telephones",
+      "Dolls",
+      "The closing distance"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "结构", "en": "Structure" },
-      "value": { "zh": "报位置的电话逐通逼近", "en": "Each call reports a nearer location" }
+      "label": {
+        "zh": "结构",
+        "en": "Structure"
+      },
+      "value": {
+        "zh": "报位置的电话逐通逼近",
+        "en": "Each call reports a nearer location"
+      }
     },
     {
-      "label": { "zh": "末句", "en": "Final line" },
-      "value": { "zh": "「我现在，就在你身后」", "en": "'I'm right behind you now'" }
+      "label": {
+        "zh": "末句",
+        "en": "Final line"
+      },
+      "value": {
+        "zh": "「我现在，就在你身后」",
+        "en": "'I'm right behind you now'"
+      }
     },
     {
-      "label": { "zh": "旧信仰底座", "en": "Older belief" },
-      "value": { "zh": "人偶有灵、弃偶生怨与人形供养", "en": "Dolls house spirits; temples hold doll-memorial rites" }
+      "label": {
+        "zh": "旧信仰底座",
+        "en": "Older belief"
+      },
+      "value": {
+        "zh": "人偶有灵、弃偶生怨与人形供养",
+        "en": "Dolls house spirits; temples hold doll-memorial rites"
+      }
     }
   ],
-  "related": ["satoru-kun", "hanako-san", "teke-teke"],
-  "sources": [
-    { "zh": "1970—80年代日本儿童口传，学校怪谈采集记录", "en": "Japanese children's oral tradition, 1970s-80s, recorded in school-kaidan collections" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "satoru-kun",
+    "hanako-san",
+    "teke-teke"
   ],
-  "image": null
+  "sources": [
+    {
+      "zh": "1970—80年代日本儿童口传，学校怪谈采集记录",
+      "en": "Japanese children's oral tradition, 1970s-80s, recorded in school-kaidan collections"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/mary-san.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_phone_booth_in_Japan_from_1900.jpg",
+    "sourceTitle": "Historic Japanese telephone booth (telephone-lore context; not a depiction of Mary-san)",
+    "artist": "Yoh-Plus",
+    "license": "CC BY 4.0",
+    "width": 750,
+    "height": 1000
+  }
 }

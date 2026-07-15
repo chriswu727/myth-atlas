@@ -9,7 +9,10 @@
     "original": "Yee naaldlooshii",
     "originalLang": "纳瓦霍语"
   },
-  "title": { "zh": "纳瓦霍传统中行邪术的变形者", "en": "Malevolent Shapeshifter of Navajo Tradition" },
+  "title": {
+    "zh": "纳瓦霍传统中行邪术的变形者",
+    "en": "Malevolent Shapeshifter of Navajo Tradition"
+  },
   "summary": {
     "zh": "纳瓦霍传统中背弃正道、修习邪术的人，能披兽皮化为郊狼、狼或鸮夜行害人。属深度禁忌话题，纳瓦霍人传统上避而不谈。",
     "en": "In Navajo tradition, a practitioner of witchcraft who dons an animal skin to travel by night as coyote, wolf, or owl and do harm. A deeply tabooed subject, traditionally not discussed."
@@ -19,28 +22,65 @@
     "en": "The Navajo term is yee naaldlooshii, \"by means of it, it goes on all fours.\" In Navajo tradition the skin-walker is a human being: a man or woman who has abandoned Hózhǫ́, the way of beauty and harmony, to practice witchcraft (the ánt'įįhnii) for personal gain. Initiation is said to demand a terrible crime, such as the killing of a close relative. Thereafter the witch can don the pelt of a coyote, wolf, owl, or bear and travel the night in animal form, spreading sickness and misfortune; accounts speak of robbing graves and of harming victims with corpse poison.\n\nFor the Navajo this is the darkest region of witchcraft belief and a strict taboo of speech: talking about skin-walkers is thought to risk drawing their attention, and speaking of them to outsiders is especially improper. The anthropologist Clyde Kluckhohn's Navaho Witchcraft (1944) documented the belief system through fieldwork, recording along the way the hesitation and fear of those he interviewed. The figure makes sense only inside its social frame: in Navajo thought, illness and misfortune flow from broken harmony, and one who breaks harmony deliberately is a witch.\n\nReports from Utah's \"Skinwalker Ranch\" in 1996 and the reality shows that followed turned the English word into a generic wilderness monster, stripped of its Navajo context. Within Navajo society the belief remains a grave and sensitive subject."
   },
   "domains": {
-    "zh": ["邪术", "变形", "夜行", "禁忌"],
-    "en": ["Witchcraft", "Shapeshifting", "Night travel", "Taboo"]
+    "zh": [
+      "邪术",
+      "变形",
+      "夜行",
+      "禁忌"
+    ],
+    "en": [
+      "Witchcraft",
+      "Shapeshifting",
+      "Night travel",
+      "Taboo"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "民族来源", "en": "People" },
-      "value": { "zh": "纳瓦霍（迪内）", "en": "Navajo (Diné)" }
+      "label": {
+        "zh": "民族来源",
+        "en": "People"
+      },
+      "value": {
+        "zh": "纳瓦霍（迪内）",
+        "en": "Navajo (Diné)"
+      }
     },
     {
-      "label": { "zh": "词义", "en": "Meaning" },
-      "value": { "zh": "\"借它四足而行者\"", "en": "\"By means of it, it goes on all fours\"" }
+      "label": {
+        "zh": "词义",
+        "en": "Meaning"
+      },
+      "value": {
+        "zh": "\"借它四足而行者\"",
+        "en": "\"By means of it, it goes on all fours\""
+      }
     },
     {
-      "label": { "zh": "常取兽形", "en": "Common forms" },
-      "value": { "zh": "郊狼、狼、鸮、熊", "en": "Coyote, wolf, owl, bear" }
+      "label": {
+        "zh": "常取兽形",
+        "en": "Common forms"
+      },
+      "value": {
+        "zh": "郊狼、狼、鸮、熊",
+        "en": "Coyote, wolf, owl, bear"
+      }
     },
     {
-      "label": { "zh": "语境提示", "en": "Context note" },
-      "value": { "zh": "纳瓦霍社会的深度禁忌话题，非娱乐性怪谈", "en": "A grave taboo subject in Navajo society, not folklore for entertainment" }
+      "label": {
+        "zh": "语境提示",
+        "en": "Context note"
+      },
+      "value": {
+        "zh": "纳瓦霍社会的深度禁忌话题，非娱乐性怪谈",
+        "en": "A grave taboo subject in Navajo society, not folklore for entertainment"
+      }
     }
   ],
-  "related": ["coyote", "wendigo"],
+  "related": [
+    "coyote",
+    "wendigo"
+  ],
   "sources": [
     {
       "zh": "克莱德·克拉克洪《纳瓦霍巫术》（1944，哈佛皮博迪博物馆论文集）",
@@ -51,5 +91,13 @@
       "en": "Navajo oral tradition (public documentation is limited owing to speech taboos)"
     }
   ],
-  "image": null
+  "image": {
+    "file": "/images/entries/skin-walker.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original contextual illustration: Diné high-desert night",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
 }

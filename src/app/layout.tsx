@@ -27,9 +27,22 @@ const cjk = Noto_Serif_SC({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://myth-atlas.vercel.app"),
   title: "寰宇神话志 · Myth Atlas",
   description:
-    "收录世界各地的神话、志怪与传说 — A catalog of the world's myths, strange creatures, and legends.",
+    "从残卷、神庙与口传深处醒来的寰宇神话志：诸神、异兽、创世与仍在暗处流传的旧梦。",
+  openGraph: {
+    type: "website",
+    title: "寰宇神话志 · Myth Atlas",
+    description: "诸神沉默之后，仍有群星、残卷与夜行者记得世界曾如何诞生。",
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "寰宇神话志 · Myth Atlas" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "寰宇神话志 · Myth Atlas",
+    description: "诸神、异兽、创世与仍在暗处流传的旧梦",
+    images: ["/og.png"],
+  },
 };
 
 export default function RootLayout({

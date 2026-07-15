@@ -9,7 +9,10 @@
     "original": "八尺様",
     "originalLang": "日语"
   },
-  "title": { "zh": "发出「波波波」笑声的两米四高女人", "en": "The eight-foot woman who laughs 'po po po'" },
+  "title": {
+    "zh": "发出「波波波」笑声的两米四高女人",
+    "en": "The eight-foot woman who laughs 'po po po'"
+  },
   "summary": {
     "zh": "身高八尺、头戴宽檐帽的女人，发出「波波波」的怪声，被她看上的年轻人会在几天内被带走。2008年8月2ch「洒落怖」系列帖发帖流传。",
     "en": "A woman some eight shaku tall, often in a wide-brimmed hat, voicing an odd 'po po po'; young people she takes a liking to are carried off within days. Posted to 2channel's Sharekowa thread series in August 2008."
@@ -19,27 +22,73 @@
     "en": "Hasshaku-sama is a female apparition roughly eight shaku, nearly two and a half meters, tall. Her clothes change from sighting to sighting, a white dress in one account, mourning black in another, but the wide-brimmed hat and the low, popping 'po po po' from beneath it are constant. She haunts a single rural district, penned in by four Jizo statues at its boundaries, and when she takes a liking to a young person, that person is carried off within days.\n\nThe original story was posted on 26 August 2008 to 2channel's Sharekowa thread series ('scary stories that are no laughing matter'). The narrator, a high schooler summering at his grandparents' village, hears the popping sound in the garden and sees an impossibly tall woman over the hedge. His grandfather goes pale, summons an old woman from a neighboring hamlet, and shuts the boy in an upstairs room sealed with paper charms, salt heaped in the corners, a small Buddha image in a wooden box. In the night something calls through the door in his father's voice; knuckles rap the window glass between bursts of 'po po po.' At dawn the extended family arrives in nine cars, hides him in the back seat of the middle one, and runs the convoy out of the village while chanting, and through his fingers he glimpses the woman standing on a paddy ridge. He is told never to return. Years later, the story ends, his dying grandfather asks to see him, and the family phones only to insist: do not come.\n\nThe tale is one of the summits of 2channel-era composed horror, endlessly reposted, read aloud, and drawn, entering English creepypasta as Hachishakusama. The post never names the village, which is precisely why it can sit just outside anyone's hometown."
   },
   "domains": {
-    "zh": ["网络怪谈", "结界", "乡村", "掳人"],
-    "en": ["Net folklore", "Wards and boundaries", "Rural Japan", "Abduction"]
+    "zh": [
+      "网络怪谈",
+      "结界",
+      "乡村",
+      "掳人"
+    ],
+    "en": [
+      "Net folklore",
+      "Wards and boundaries",
+      "Rural Japan",
+      "Abduction"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "初出", "en": "First appearance" },
-      "value": { "zh": "2008年8月26日，2ch「洒落怖」系列帖", "en": "26 August 2008, 2channel Sharekowa thread" }
+      "label": {
+        "zh": "初出",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "2008年8月26日，2ch「洒落怖」系列帖",
+        "en": "26 August 2008, 2channel Sharekowa thread"
+      }
     },
     {
-      "label": { "zh": "标志特征", "en": "Signature" },
-      "value": { "zh": "八尺身高、宽檐帽、「波波波」声", "en": "Eight shaku tall, wide-brimmed hat, 'po po po'" }
+      "label": {
+        "zh": "标志特征",
+        "en": "Signature"
+      },
+      "value": {
+        "zh": "八尺身高、宽檐帽、「波波波」声",
+        "en": "Eight shaku tall, wide-brimmed hat, 'po po po'"
+      }
     },
     {
-      "label": { "zh": "封印", "en": "Containment" },
-      "value": { "zh": "村界四方的地藏像", "en": "Four Jizo statues at the village bounds" }
+      "label": {
+        "zh": "封印",
+        "en": "Containment"
+      },
+      "value": {
+        "zh": "村界四方的地藏像",
+        "en": "Four Jizo statues at the village bounds"
+      }
     }
   ],
-  "related": ["kisaragi-station", "kunekune", "kuchisake-onna"],
-  "sources": [
-    { "zh": "2ch「死ぬほど洒落にならない怖い話」系列帖（2008年8月26日）", "en": "2channel Sharekowa thread series (26 August 2008)" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "kisaragi-station",
+    "kunekune",
+    "kuchisake-onna"
   ],
-  "image": null
+  "sources": [
+    {
+      "zh": "2ch「死ぬほど洒落にならない怖い話」系列帖（2008年8月26日）",
+      "en": "2channel Sharekowa thread series (26 August 2008)"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/hasshaku-sama.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aomori_countryside,_Aomori_Prefecture;_June_2010_(21).jpg",
+    "sourceTitle": "Aomori countryside (rural setting context; not a sighting photograph)",
+    "artist": "HerryLawford",
+    "license": "CC BY 2.0",
+    "width": 1000,
+    "height": 562
+  }
 }

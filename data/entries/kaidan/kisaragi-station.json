@@ -42,5 +42,13 @@
     { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
   ],
   "geo": { "lat": 34.703, "lon": 137.732, "label": { "zh": "静冈县滨松市·新滨松站（旅程起点）", "en": "Shin-Hamamatsu station, Hamamatsu, Shizuoka (start of the journey)" } },
-  "image": null
+  "image": {
+    "file": "/images/entries/kisaragi-station.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enshu_Railway_Line_1501.JPG",
+    "sourceTitle": "Enshu Railway Line 1501",
+    "artist": "まも(Mamo)",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 693
+  }
 }

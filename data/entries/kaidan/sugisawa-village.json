@@ -9,7 +9,10 @@
     "original": "杉沢村",
     "originalLang": "日语"
   },
-  "title": { "zh": "从地图上被抹去的灭村之地", "en": "The massacre village erased from the map" },
+  "title": {
+    "zh": "从地图上被抹去的灭村之地",
+    "en": "The massacre village erased from the map"
+  },
   "summary": {
     "zh": "传说青森山中有个杉泽村：昭和初年一名发狂的村民杀光全村，村子从地图和公文中被抹除。入口立着髑髅状的岩石与警告牌。2000年电视节目使其全国闻名。",
     "en": "In the mountains of Aomori, the story goes, a villager went mad in the early Showa years and slaughtered Sugisawa entire; the village was struck from maps and records. A TV feature in 2000 made it famous nationwide."
@@ -19,28 +22,80 @@
     "en": "The Sugisawa legend arrives fully furnished. In the early Showa years, in a small mountain village of Aomori prefecture called Sugisawa, one villager went suddenly mad, killed every other inhabitant in a night, and took his own life. The village lay abandoned, was administratively merged into a neighbor, and its name was struck from maps, land registers, and public documents. The entrance is said to survive: a rock shaped like a skull beside a wooden sign reading, 'Those who go beyond this point forfeit their lives.' Explorers who find the village disappear; one account has a party seeing heaps of bones in a ruined house, the survivors losing their minds.\n\nThe story circulated on personal websites and BBS boards in the late 1990s, and in August 2000 Fuji TV's variety program Unbelievable aired a feature on 'the village not on the map.' Aomori's prefectural offices fielded waves of inquiries, legend-trippers poured into the hills, and Sugisawa became a national byword. Hamlets outside Aomori city are regularly proposed as the original, but the prefecture has stated plainly that no record of such a massacre exists, and the gap between tale and record became part of the tale.\n\nSugisawa is the northern mirror of the Inunaki type of hidden-village legend, sharing its grammar: a name erased by officialdom, a signposted threshold, visitors who do not come back. It is also read as a forerunner of the 'otherworld expedition' genre of 2channel-era horror, in which the most durable monster is a place that maps refuse to show."
   },
   "domains": {
-    "zh": ["隐匿村落", "灭村传说", "禁地", "电视流言"],
-    "en": ["Hidden villages", "Massacre legends", "Forbidden places", "TV-borne rumor"]
+    "zh": [
+      "隐匿村落",
+      "灭村传说",
+      "禁地",
+      "电视流言"
+    ],
+    "en": [
+      "Hidden villages",
+      "Massacre legends",
+      "Forbidden places",
+      "TV-borne rumor"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "入口标志", "en": "Threshold markers" },
-      "value": { "zh": "髑髅状岩石与警告木牌", "en": "A skull-shaped rock and a wooden warning sign" }
+      "label": {
+        "zh": "入口标志",
+        "en": "Threshold markers"
+      },
+      "value": {
+        "zh": "髑髅状岩石与警告木牌",
+        "en": "A skull-shaped rock and a wooden warning sign"
+      }
     },
     {
-      "label": { "zh": "全国化契机", "en": "Breakout moment" },
-      "value": { "zh": "2000年8月富士电视台特辑", "en": "Fuji TV feature, August 2000" }
+      "label": {
+        "zh": "全国化契机",
+        "en": "Breakout moment"
+      },
+      "value": {
+        "zh": "2000年8月富士电视台特辑",
+        "en": "Fuji TV feature, August 2000"
+      }
     },
     {
-      "label": { "zh": "官方口径", "en": "Official record" },
-      "value": { "zh": "青森县否认存在灭村记录", "en": "Aomori prefecture denies any such record" }
+      "label": {
+        "zh": "官方口径",
+        "en": "Official record"
+      },
+      "value": {
+        "zh": "青森县否认存在灭村记录",
+        "en": "Aomori prefecture denies any such record"
+      }
     }
   ],
-  "related": ["inunaki-village", "kisaragi-station"],
-  "sources": [
-    { "zh": "1990年代末日本网络BBS与个人网站流传", "en": "Late-1990s Japanese BBS and personal-website lore" },
-    { "zh": "富士电视台《奇迹体验！难以置信》特辑（2000年8月）", "en": "Fuji TV, Kiseki Taiken! Unbelievable feature (August 2000)" }
+  "related": [
+    "inunaki-village",
+    "kisaragi-station"
   ],
-  "geo": { "lat": 40.82, "lon": 140.75, "label": { "zh": "青森县青森市近郊山地（传说所在）", "en": "Mountains near Aomori city (legendary location)" } },
-  "image": null
+  "sources": [
+    {
+      "zh": "1990年代末日本网络BBS与个人网站流传",
+      "en": "Late-1990s Japanese BBS and personal-website lore"
+    },
+    {
+      "zh": "富士电视台《奇迹体验！难以置信》特辑（2000年8月）",
+      "en": "Fuji TV, Kiseki Taiken! Unbelievable feature (August 2000)"
+    }
+  ],
+  "geo": {
+    "lat": 40.82,
+    "lon": 140.75,
+    "label": {
+      "zh": "青森县青森市近郊山地（传说所在）",
+      "en": "Mountains near Aomori city (legendary location)"
+    }
+  },
+  "image": {
+    "file": "/images/entries/sugisawa-village.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original editorial illustration: Sugisawa Village",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
 }

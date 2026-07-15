@@ -12,7 +12,7 @@
     {
       "motif": "chaos",
       "phase": { "zh": "天地初发", "en": "When heaven and earth began" },
-      "title": { "zh": "天地已经分开了，没人说是谁分的", "en": "Heaven and earth are already apart" },
+      "title": { "zh": "天地初发，开辟者无名", "en": "Heaven and earth begin; no divider is named" },
       "text": {
         "zh": "《古事记》开篇只有「天地初発之時」六个字，天和地已经是两样东西了，怎么分开的、谁分的，一句不提。《日本书纪》正文另起一头：天地未剖，阴阳不分，浑沌如鸡子，其中清而轻的上浮为天，重而浊的滞积为地——这套写法是从汉籍宇宙论借来的现成话。开天辟地这个动作，两书都没有人做。",
         "en": "The Kojiki opens with six characters and no explanation: at the time when heaven and earth first appeared. They are already two separate things; nobody is said to have parted them. The Nihon Shoki starts from somewhere else entirely, with heaven and earth unhewn, yin and yang undivided, chaos like a hen's egg, the clear and light drifting up to become heaven and the heavy and turbid settling into earth, a formula taken ready-made from Chinese cosmological writing. In neither text does anyone perform the act of splitting."
@@ -24,8 +24,8 @@
       "phase": { "zh": "神代", "en": "The age of the gods" },
       "title": { "zh": "五柱别天神成而隐身", "en": "Five deities appear and hide their bodies" },
       "text": {
-        "zh": "高天原上先成三柱神：天之御中主神、高御产巢日神、神产巢日神。三柱都是「独神」，没有配偶，成形之后随即隐去身形，不生子嗣，也不再管事。接着出宇摩志阿斯诃备比古迟神与天之常立神，五柱合称别天津神。此后是神世七代，先出两柱独神，再出五对男女神，最后一代是伊邪那岐与伊邪那美——七代里唯一交合生育、留下子嗣的一对。故事要到他们手里才动起来。",
-        "en": "Three deities come into being in Takamagahara: Ame-no-Minakanushi, Takamimusuhi, Kamumusuhi. Each is a hitorigami, a solitary deity with no consort; each hides its body as soon as it appears, fathers nothing, and takes no further part. Two more follow, Umashiashikabihikoji and Ame-no-Tokotachi, completing the five Kotoamatsukami, the separate heavenly deities. Then come the seven generations of the divine age, two solitary deities and then five brother-and-sister pairs, the last of them Izanagi and Izanami, the only pair of the seven who couple and leave offspring. Nothing in the story moves until they arrive."
+        "zh": "高天原上先成三柱神：天之御中主神、高御产巢日神、神产巢日神。三柱都是没有配偶的「独神」，《古事记》只说他们「隐身」，并不是从神话里退场：高御产巢日神后来与天照并列主持高天原诸事，神产巢日神则在出云叙事中派神救活大穴牟迟，又认出少名毘古那是自己的孩子。接着出宇摩志阿斯诃备比古迟神与天之常立神，五柱合称别天津神。此后是神世七代，先出两柱独神，再出五对男女神，最后一代是伊邪那岐与伊邪那美——七代里唯一被写到交合生育、留下子嗣的一对。",
+        "en": "Three deities come into being in Takamagahara: Ame-no-Minakanushi, Takamimusuhi and Kamumusuhi. Each is a hitorigami, a solitary deity with no consort, and each is said to hide its body. That line does not remove them from the mythology: Takamimusuhi later shares the direction of heaven with Amaterasu, while Kamumusuhi sends aid to revive Onamuji and recognises Sukunabikona as a child. Two more solitary deities follow, Umashiashikabihikoji and Ame-no-Tokotachi, completing the five Kotoamatsukami. Then come the seven generations of the divine age, first two solitary deities and then five male-and-female pairs. The last are Izanagi and Izanami, the only pair whose coupling and offspring the text narrates."
       },
       "entries": ["takamagahara", "izanagi", "izanami"]
     },

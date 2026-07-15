@@ -1,0 +1,102 @@
+{
+  "id": "aengus",
+  "tradition": "celtic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "安格斯",
+    "en": "Aengus",
+    "original": "Óengus mac ind Óc",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "博因河畔永远年轻的神",
+    "en": "The Ever-Young God of the Boyne"
+  },
+  "summary": {
+    "zh": "达格达与博因河女神之子，居于新格兰奇古冢；他在梦中寻觅天鹅少女凯尔，最终也化作白鸟，与她同飞而去。",
+    "en": "Son of the Dagda and the river goddess Boann, dwelling at Newgrange. He sought the swan-maiden Caer from a dream and took swan form to fly away beside her."
+  },
+  "description": {
+    "zh": "安格斯是达格达与博因河女神博安之子，古爱尔兰语称 Óengus mac ind Óc，意为“年轻者之子”，后世遂称他安格斯·奥格。为了掩过博安丈夫埃尔克马，达格达令太阳停驻，使怀胎与分娩仿佛只占一日；孩子随后被送往米迪尔处抚养。成年后，安格斯以文字游戏夺得博因河畔的布鲁格：他向达格达请求在那里住“一日一夜”，继而宣称时间无非由日与夜构成，因而永居其间。这座布鲁格通常与新格兰奇墓丘相联系。\n\n《安格斯之梦》让他的欲望先化作一位无名少女。她夜夜来到床前，天亮便消失，安格斯因思念而病倒。寻访一年后，众人才在贝尔·德拉贡湖发现凯尔·伊博尔梅丝：一百五十名少女以银链相连，每隔一年在人形与天鹅形之间转换。萨温节来临，安格斯站在湖边认出凯尔，自己也化为天鹅。两只白鸟绕湖三匝，歌声令听者沉睡三日三夜，而后并翼飞回布鲁格。\n\n在《埃泰因的追求》中，安格斯又以庇护者与魔法施行者的身份出现，保护被化为蝇虫、随风漂泊的埃泰因。中世纪叙事给他的面貌远比现代“爱神”标签复杂：青春、梦、欲望、诗意与时间的诡计彼此缠绕。他的神殿落在博因河真实的弯曲处：一座早于这些文本数千年的石冢。",
+    "en": "Aengus is the son of the Dagda and Boann, goddess of the River Boyne. His Old Irish name, Óengus mac ind Óc, makes him the son of the Young One, and later tradition calls him Aengus Óg. To conceal Boann's pregnancy from her husband Elcmar, the Dagda holds the sun still so that conception and birth seem to pass within a single day. The child is fostered by Midir. When grown, Aengus wins the Brug on the Boyne through a riddle of tenure: he asks to live there for “a day and a night,” then claims that all time is composed of days and nights. The Brug is commonly identified with the great passage tomb of Newgrange.\n\nThe Dream of Aengus begins with a woman who visits his sleep and vanishes each morning. Longing makes him ill, and a year of searching finally reveals Caer Ibormeith at Loch Bel Dracon. She stands among 150 maidens joined by silver chains, changing between human and swan form on alternate years. At Samhain, Aengus recognises her and becomes a swan himself. The two white birds circle the lake three times and sing a song that puts its hearers to sleep for three days and nights before flying together to the Brug.\n\nIn The Wooing of Etain, Aengus also appears as protector and worker of enchantments, sheltering Etain after she has been transformed and driven through the air. The medieval figure is more intricate than the modern label “god of love” suggests: youth, desire, dreams, poetry, and tricks played upon time all gather around him. His otherworldly house is anchored in a monument of stone beside the Boyne that was already ancient when the stories were written."
+  },
+  "domains": {
+    "zh": [
+      "青春",
+      "梦",
+      "爱情",
+      "诗歌"
+    ],
+    "en": [
+      "Youth",
+      "Dreams",
+      "Love",
+      "Poetry"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父母",
+        "en": "Parents"
+      },
+      "value": {
+        "zh": "达格达与博因河女神博安",
+        "en": "The Dagda and Boann of the River Boyne"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "博因河畔布鲁格，通常对应新格兰奇",
+        "en": "The Brug on the Boyne, commonly identified with Newgrange"
+      }
+    },
+    {
+      "label": {
+        "zh": "化身",
+        "en": "Transformation"
+      },
+      "value": {
+        "zh": "与凯尔同化天鹅",
+        "en": "A swan beside Caer Ibormeith"
+      }
+    }
+  ],
+  "related": [
+    "dagda",
+    "tir-na-nog",
+    "brigid"
+  ],
+  "sources": [
+    {
+      "zh": "《安格斯之梦》（Aislinge Óenguso）",
+      "en": "Aislinge Óenguso (The Dream of Aengus)"
+    },
+    {
+      "zh": "《埃泰因的追求》（Tochmarc Étaíne）",
+      "en": "Tochmarc Étaíne (The Wooing of Etain)"
+    }
+  ],
+  "geo": {
+    "lat": 53.6947,
+    "lon": -6.4755,
+    "label": {
+      "zh": "新格兰奇，博因河谷",
+      "en": "Newgrange, Boyne Valley"
+    }
+  },
+  "image": {
+    "file": "/images/entries/aengus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newgrange_Passage_Tomb_-_geograph.org.uk_-_2857133.jpg",
+    "sourceTitle": "Newgrange Passage Tomb (Brú na Bóinne context for Aengus)",
+    "artist": "Graham Hogg",
+    "license": "CC BY-SA 2.0",
+    "width": 1000,
+    "height": 750
+  }
+}

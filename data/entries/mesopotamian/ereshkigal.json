@@ -1,0 +1,98 @@
+{
+  "id": "ereshkigal",
+  "tradition": "mesopotamian",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "埃列什基伽勒",
+    "en": "Ereshkigal",
+    "original": "Ereškigal",
+    "originalLang": "苏美尔语"
+  },
+  "title": {
+    "zh": "大地之下不可离席的女王",
+    "en": "Queen Who Cannot Leave the Great Earth Below"
+  },
+  "summary": {
+    "zh": "名字意为“大地女主人”的冥界统治者。伊南娜在她的七重门前被剥尽荣饰，诸神赴宴时她也只能遣使者升上天庭。",
+    "en": "The “Lady of the Great Earth” rules the netherworld. Inanna is stripped at her seven gates, while Ereshkigal herself can send only a messenger to the feasts above."
+  },
+  "description": {
+    "zh": "埃列什基伽勒的名字意为“大地女主人”，这里的“大地”是死者沉入的幽暗国度。她坐在冥界宫殿中，统辖七重门、判官与群鬼；书记在泥板上记下亡者，宰相南塔尔替她传令。与能在城邦间巡游的众神不同，她的王权也把自己锁在王座上：天上诸神设宴时，埃列什基伽勒无法离开冥界，只能派南塔尔上去领取属于她的份额。\n\n《伊南娜下冥界》里，妹妹伊南娜盛装来到门前。守门人每开一门，便按冥界法则取下一件冠冕、珠饰或衣裳；越过第七门时，伊南娜已一无所有。她企图夺取姐姐的王座，却被七位判官定罪、杀死，尸体悬上钩。三日后，恩基造出的两名使者潜入冥界，听见埃列什基伽勒如临产般呻吟，随声哀悼，终于换得尸体与生命之水。伊南娜得以复归，却必须交出替身；冥界的法从未被取消。\n\n阿卡德语《涅伽尔与埃列什基伽勒》从另一道门写她：涅伽尔在天神宴会上侮慢她的使者，随后被迫下到冥界。不同版本把冲突与结合写得或暴烈、或较为和缓，结局都让涅伽尔成为她后来的配偶；更早传统则另有古伽兰纳。宾夕法尼亚大学 ORACC 神祇资料库指出，埃列什基伽勒在文学之外很少拥有独立祭祀。现代人常把“夜之女王”浮雕直接认作她，学界却没有定论；冥后最可靠的肖像仍在楔形文字里，而非一件身份未决的图像。",
+    "en": "Ereshkigal's name means “Lady of the Great Earth,” the earth here being the dark country into which the dead descend. She sits within the palace of the netherworld and commands its seven gates, judges, and demons. A scribe records the dead on tablets; her minister Namtar carries her orders. Unlike gods who travel between cities and assemblies, Ereshkigal is bound by the very sovereignty she holds. When the heavenly gods give a banquet, she cannot leave the realm below and must send Namtar upward to receive her share.\n\nIn Inanna's Descent, her sister arrives at the gates in full regalia. At every door the keeper removes a crown, jewel, or garment according to the law of the underworld, until Inanna passes the seventh gate with nothing. She reaches for Ereshkigal's throne, is judged by the seven judges, killed, and hung on a hook. After three days, two beings fashioned by Enki slip below and hear Ereshkigal groaning as though in labour. They echo her pain and win the corpse and the water of life. Inanna rises, but she must provide a substitute. The law of the netherworld has bent without being abolished.\n\nThe Akkadian Nergal and Ereshkigal approaches her through another gate. Nergal insults her messenger at a divine banquet and is made to descend. Different recensions narrate the confrontation and union with sharply different degrees of violence, but Nergal becomes her later consort; earlier tradition gives her Gugalana. The ORACC Ancient Mesopotamian Gods and Goddesses project notes that she rarely had an independent cult outside literature. The famous Queen of the Night relief is often labelled Ereshkigal in popular accounts, but its identity remains disputed; her most secure portrait is still written in cuneiform rather than fixed in an uncertain image."
+  },
+  "domains": {
+    "zh": [
+      "冥界",
+      "死亡",
+      "七重门",
+      "王权"
+    ],
+    "en": [
+      "Underworld",
+      "Death",
+      "Seven gates",
+      "Sovereignty"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名字",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "大地女主人",
+        "en": "Lady of the Great Earth"
+      }
+    },
+    {
+      "label": {
+        "zh": "宰相",
+        "en": "Minister"
+      },
+      "value": {
+        "zh": "南塔尔",
+        "en": "Namtar"
+      }
+    },
+    {
+      "label": {
+        "zh": "配偶",
+        "en": "Consorts"
+      },
+      "value": {
+        "zh": "早期传统的古伽兰纳；后期的涅伽尔",
+        "en": "Gugalana in earlier tradition; later Nergal"
+      }
+    }
+  ],
+  "related": [
+    "ishtar",
+    "enki",
+    "gilgamesh"
+  ],
+  "sources": [
+    {
+      "zh": "苏美尔诗《伊南娜下冥界》",
+      "en": "Inanna's Descent to the Netherworld (Sumerian)"
+    },
+    {
+      "zh": "阿卡德语《涅伽尔与埃列什基伽勒》",
+      "en": "Nergal and Ereshkigal (Akkadian)"
+    },
+    {
+      "zh": "ORACC《古代美索不达米亚诸神：埃列什基伽勒》",
+      "en": "ORACC, Ancient Mesopotamian Gods and Goddesses: Ereškigal"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/ereshkigal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_of_the_Night_relief_(also_Burney_relief),_old_Babylonian_period,_1800-1750_BCE._From_Southern_Mesopotamia,_in_modern-day_Iraq._It_may_represent_the_goddesses_Ishtar,_Lilith,_or_Ereshkigal._The_British_Museum,_London.jpg",
+    "sourceTitle": "Queen of the Night relief (also Burney relief), old Babylonian period, 1800-1750 BCE. From Southern Mesopotamia, in modern-day Iraq. It may represent the goddesses Ishtar, Lilith, or Ereshkigal. The British Museum, London",
+    "artist": "SpeakingArch",
+    "license": "CC BY-SA 4.0",
+    "width": 782,
+    "height": 1000
+  }
+}

@@ -39,5 +39,13 @@
     { "zh": "珍妮特·兰洛瓦《Mary Whales, I Believe in You》（1978）", "en": "Janet Langlois, \"Mary Whales, I Believe in You\" (1978)" },
     { "zh": "艾伦·邓德斯《镜中的血腥玛丽》，《西部民俗》（1998）", "en": "Alan Dundes, \"Bloody Mary in the Mirror,\" Western Folklore (1998)" }
   ],
-  "image": null
+  "image": {
+    "file": "/images/entries/bloody-mary.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hallow%27een_-gre-eting._(1587788).jpg",
+    "sourceTitle": "Hallow'een -gre-eting. (1587788)",
+    "artist": "The Rose Company",
+    "license": "Public domain",
+    "width": 491,
+    "height": 760
+  }
 }

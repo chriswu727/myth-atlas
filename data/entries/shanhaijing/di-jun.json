@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "deity",
   "era": "ancient",
-  "name": { "zh": "帝俊", "en": "Di Jun" },
-  "title": { "zh": "大荒诸经中的至上天帝", "en": "The High God of the Great Wilderness Classics" },
+  "name": {
+    "zh": "帝俊",
+    "en": "Di Jun"
+  },
+  "title": {
+    "zh": "大荒诸经中的至上天帝",
+    "en": "The High God of the Great Wilderness Classics"
+  },
   "summary": {
     "zh": "只出现在大荒四经与海内经的天帝：妻羲和生十日，妻常羲生十二月，子孙发明了舟、车、琴瑟、歌舞与百工技巧。",
     "en": "A high god found only in the Great Wilderness and final chapters: his wife Xihe bore the ten suns, Changxi the twelve moons, and his descendants invented boats, carts, zithers, song and craft."
@@ -14,29 +20,84 @@
     "en": "The name Di Jun appears nowhere in the five books of mountain itineraries and in no other transmitted pre-Qin text, yet he surfaces more than a dozen times across the four Great Wilderness classics and the final chapter, where he outranks every other god. His three wives are each remarkable: Xihe bore the ten suns and bathed them in the Sweet Gulf beyond the southeastern sea; Changxi bore the twelve moons in the western wilderness; Ehuang bore the one-headed, three-bodied people of the Sanshen country. Five-colored birds that sing and dance for themselves are called 'the friends of Di Jun below', keeping his two altars on earth.\n\nThe final chapter hangs the genealogy of invention on him: his descendant Fanyu first built boats and Jiguang first built wooden carts; Yanlong first made the qin and se zithers; his eight sons began song and dance; and Yijun, of the three-bodied line, invented the hundred crafts for the people below. When the ten suns brought calamity, it was Di Jun who gave the archer Yi a vermilion bow and plain arrows and sent him down to relieve the lands beneath.\n\nWhy so great a god vanished from all other early literature became a classic puzzle. The commentator Guo Pu read 'Jun' as a loan for 'Shun'; in 1917 Wang Guowei identified the 'High Ancestor Nao' worshipped in Shang oracle-bone inscriptions, and Guo Moruo argued this figure was Di Jun himself, identical with Di Ku of the transmitted histories. The three-way identification remains the standard hypothesis: Di Jun as the supreme god of the Shang, surviving only in this book."
   },
   "domains": {
-    "zh": ["天帝", "日月之父", "发明谱系", "大荒"],
-    "en": ["High God", "Father of Suns and Moons", "Genealogy of Invention", "Great Wilderness"]
+    "zh": [
+      "天帝",
+      "日月之父",
+      "发明谱系",
+      "大荒"
+    ],
+    "en": [
+      "High God",
+      "Father of Suns and Moons",
+      "Genealogy of Invention",
+      "Great Wilderness"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "配偶", "en": "Consorts" },
-      "value": { "zh": "羲和（生十日）、常羲（生十二月）、娥皇（生三身之国）", "en": "Xihe (ten suns), Changxi (twelve moons), Ehuang (the Three-Bodied country)" }
+      "label": {
+        "zh": "配偶",
+        "en": "Consorts"
+      },
+      "value": {
+        "zh": "羲和（生十日）、常羲（生十二月）、娥皇（生三身之国）",
+        "en": "Xihe (ten suns), Changxi (twelve moons), Ehuang (the Three-Bodied country)"
+      }
     },
     {
-      "label": { "zh": "出典范围", "en": "Textual range" },
-      "value": { "zh": "仅见于大荒四经与海内经，传世先秦他书无载", "en": "Only in the Great Wilderness classics and the final chapter; absent from other pre-Qin texts" }
+      "label": {
+        "zh": "出典范围",
+        "en": "Textual range"
+      },
+      "value": {
+        "zh": "仅见于大荒四经与海内经，传世先秦他书无载",
+        "en": "Only in the Great Wilderness classics and the final chapter; absent from other pre-Qin texts"
+      }
     },
     {
-      "label": { "zh": "学者比定", "en": "Scholarly identification" },
-      "value": { "zh": "甲骨文高祖夒，或即帝喾、舜之原型", "en": "The Shang 'High Ancestor Nao' of oracle bones; prototype of Di Ku and Shun" }
+      "label": {
+        "zh": "学者比定",
+        "en": "Scholarly identification"
+      },
+      "value": {
+        "zh": "甲骨文高祖夒，或即帝喾、舜之原型",
+        "en": "The Shang 'High Ancestor Nao' of oracle bones; prototype of Di Ku and Shun"
+      }
     }
   ],
-  "related": ["xi-he", "chang-xi", "san-shen-guo", "fu-sang-shi-ri", "hou-yi", "wang-hai"],
-  "sources": [
-    { "zh": "《山海经·大荒东经》《大荒南经》《大荒西经》《海内经》", "en": "Classic of Mountains and Seas, Great Wilderness classics and final chapter" },
-    { "zh": "郭璞《山海经注》", "en": "Guo Pu's commentary on the Classic of Mountains and Seas" },
-    { "zh": "王国维《殷卜辞中所见先公先王考》（1917）", "en": "Wang Guowei, 'The Pre-dynastic Lords and Kings of Shang Seen in Yin Oracle Inscriptions' (1917)" }
+  "related": [
+    "xi-he",
+    "chang-xi",
+    "san-shen-guo",
+    "fu-sang-shi-ri",
+    "hou-yi",
+    "wang-hai"
   ],
-  "volume": { "zh": "大荒东经", "en": "Classic of the Great Wilderness: East" },
-  "image": null
+  "sources": [
+    {
+      "zh": "《山海经·大荒东经》《大荒南经》《大荒西经》《海内经》",
+      "en": "Classic of Mountains and Seas, Great Wilderness classics and final chapter"
+    },
+    {
+      "zh": "郭璞《山海经注》",
+      "en": "Guo Pu's commentary on the Classic of Mountains and Seas"
+    },
+    {
+      "zh": "王国维《殷卜辞中所见先公先王考》（1917）",
+      "en": "Wang Guowei, 'The Pre-dynastic Lords and Kings of Shang Seen in Yin Oracle Inscriptions' (1917)"
+    }
+  ],
+  "volume": {
+    "zh": "大荒东经",
+    "en": "Classic of the Great Wilderness: East"
+  },
+  "image": {
+    "file": "/images/entries/di-jun.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original symbolic illustration: Di Jun's ten suns and twelve moons",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
 }

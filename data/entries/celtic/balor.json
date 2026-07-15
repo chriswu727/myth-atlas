@@ -1,0 +1,93 @@
+{
+  "id": "balor",
+  "tradition": "celtic",
+  "type": "deity",
+  "era": "ancient",
+  "name": {
+    "zh": "巴罗尔",
+    "en": "Balor",
+    "original": "Balor",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "毒眼所视、军阵俱灭的弗莫里巨人",
+    "en": "Fomorian Champion of the Destructive Eye"
+  },
+  "summary": {
+    "zh": "弗莫里族最可怖的战士，一只眼能摧毁军阵；莫伊图拉决战中，外孙鲁格以投石索贯穿其眼，让毁灭之视反落向弗莫里人。",
+    "en": "The most dreadful Fomorian champion, whose eye could destroy an army. At Mag Tuired, his grandson Lugh drove a sling-stone through it and turned its ruin upon the Fomorians."
+  },
+  "description": {
+    "zh": "巴罗尔是弗莫里族的战争首领，也是《第二次莫伊图拉之战》中最具毁灭性的身影。他的独眼平日闭合，眼睑沉重，需要部下用钩或杆将它抬起；一旦睁开，凝视便使迎面的军阵失去力量、倒地毁灭。弗莫里人在故事里从海上压迫爱尔兰，向图阿哈·德·达南征收沉重贡赋，巴罗尔的眼睛正是这份统治最直接的形状：它无须挥剑，只须看见。\n\n决战来到莫伊图拉平原，巴罗尔下令抬起眼睑，准备让图阿哈军队暴露在毒视之下。鲁格抢先把投石索中的石弹射入眼中，石弹穿过头颅，从后方把眼珠击出；巴罗尔倒下时，那只眼转向自己的弗莫里军阵，毁灭反噬来处。中世纪文本把鲁格写作巴罗尔的外孙，弑杀因此也完成一场世代更替：新王以精确的一击终结旧日海上强权。\n\n后来的爱尔兰民间故事扩写了这段亲缘：预言巴罗尔将死于外孙之手，于是他把女儿囚在高塔，然而命运仍令她生下鲁格。这些塔楼、偷渡与婴儿幸存的细节并非都来自同一份中世纪文本，应与《莫伊图拉之战》的核心叙事区分。现代图像也常给他加上七层眼罩或把他画作纯粹独眼巨人；可以确定的古老轮廓更简峻——一位弗莫里首领，一只必须被抬起的死眼，以及石弹穿眼后倒转的灾厄。",
+    "en": "Balor is a leader of the Fomorians and the most destructive figure on their side in The Second Battle of Mag Tuired. His single eye is normally closed, its lid so heavy that attendants must raise it with hooks or poles. Once opened, the gaze strips strength from the host before it and brings ruin without the need for a weapon. The Fomorians come from across the sea to oppress Ireland and exact tribute from the Tuatha De Danann; Balor's eye gives that domination its clearest form. It needs only to see.\n\nOn the plain of Mag Tuired, Balor orders the lid lifted so that the opposing army will stand inside the deadly gaze. Lugh acts first. A stone from his sling drives through the eye and out the back of Balor's head, casting the eye toward the Fomorian ranks, where its destruction falls upon its own people. The medieval account makes Lugh Balor's grandson, so the killing is also a transfer between generations: a young king ends the old maritime power with one exact shot.\n\nLater Irish folklore enlarges the family story. A prophecy says that Balor will die by his grandson, so he imprisons his daughter in a high tower; fate nevertheless brings about Lugh's birth and survival. The tower, secret visitor, and rescued infant do not all belong to one uniform medieval version and should be distinguished from the central battle narrative. Modern art also multiplies eye coverings or turns Balor into a generic cyclops. The older outline is starker: a Fomorian lord, an eyelid that must be raised, and a weaponised gaze turned backward at the instant of defeat."
+  },
+  "domains": {
+    "zh": [
+      "毒眼",
+      "弗莫里族",
+      "战争",
+      "毁灭"
+    ],
+    "en": [
+      "Destructive eye",
+      "Fomorians",
+      "War",
+      "Ruin"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "武器",
+        "en": "Weapon"
+      },
+      "value": {
+        "zh": "抬起眼睑后摧毁军阵的凝视",
+        "en": "A gaze released when attendants lift the eyelid"
+      }
+    },
+    {
+      "label": {
+        "zh": "敌手",
+        "en": "Slayer"
+      },
+      "value": {
+        "zh": "外孙鲁格",
+        "en": "His grandson Lugh"
+      }
+    },
+    {
+      "label": {
+        "zh": "败亡",
+        "en": "Defeat"
+      },
+      "value": {
+        "zh": "投石索贯眼，毒视转向弗莫里军阵",
+        "en": "A sling-stone through the eye turns the gaze on the Fomorians"
+      }
+    }
+  ],
+  "related": [
+    "lugh",
+    "dagda"
+  ],
+  "sources": [
+    {
+      "zh": "《第二次莫伊图拉之战》（Cath Maige Tuired）",
+      "en": "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+    },
+    {
+      "zh": "《爱尔兰来侵书》（Lebor Gabála Érenn）",
+      "en": "Lebor Gabála Érenn (The Book of the Taking of Ireland)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/balor.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliffs,_Tory_Island_-_geograph.org.uk_-_2493087.jpg",
+    "sourceTitle": "Cliffs of Tory Island (geographic context for Balor)",
+    "artist": "Kenneth Allen",
+    "license": "CC BY-SA 2.0",
+    "width": 640,
+    "height": 480
+  }
+}
