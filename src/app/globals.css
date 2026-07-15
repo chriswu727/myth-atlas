@@ -605,7 +605,7 @@ h1, h2, h3, h4 {
   position: relative;
   isolation: isolate;
   overflow: hidden;
-  background: #11191b;
+  background: #121c1e;
   color: #ede3cc;
 }
 
@@ -729,8 +729,8 @@ h1, h2, h3, h4 {
   position: relative;
   overflow: hidden;
   background:
-    radial-gradient(circle at 14% 28%, rgba(210, 179, 101, 0.055), transparent 17%),
-    radial-gradient(circle at 82% 22%, rgba(189, 73, 59, 0.055), transparent 20%);
+    radial-gradient(circle at 14% 28%, rgba(219, 192, 123, 0.09), transparent 19%),
+    radial-gradient(circle at 82% 22%, rgba(189, 73, 59, 0.07), transparent 22%);
 }
 
 .world-map-svg {
@@ -757,7 +757,8 @@ h1, h2, h3, h4 {
 
 .map-anchor-node {
   animation: mapNodeBreath 5.6s ease-in-out infinite;
-  opacity: 0.68;
+  filter: drop-shadow(0 0 4px rgba(232, 211, 153, 0.72));
+  opacity: 0.86;
   transform-box: fill-box;
   transform-origin: center;
   transition: filter 240ms ease, opacity 240ms ease, transform 240ms cubic-bezier(0.2, 0.75, 0.2, 1);
@@ -765,9 +766,10 @@ h1, h2, h3, h4 {
 
 .map-anchor-orbit {
   animation: mapOrbitDrift 11s linear infinite;
-  opacity: 0.46;
+  opacity: 0.7;
 }
 
+.map-anchor-aura,
 .map-anchor-halo {
   transition: fill 240ms ease, stroke 240ms ease;
 }
@@ -787,7 +789,7 @@ h1, h2, h3, h4 {
 
 .map-tradition-anchor[aria-pressed="true"] .map-anchor-orbit {
   animation-duration: 3.6s !important;
-  opacity: 0.9;
+  opacity: 1;
 }
 
 .map-tradition-anchor:focus > [data-map-marker] > g > circle:first-child {
@@ -1570,8 +1572,8 @@ h1, h2, h3, h4 {
 }
 
 @keyframes mapNodeBreath {
-  0%, 100% { opacity: 0.52; }
-  50% { opacity: 0.82; }
+  0%, 100% { opacity: 0.7; transform: scale(0.97); }
+  50% { opacity: 1; transform: scale(1.04); }
 }
 
 @keyframes mapOrbitDrift {
