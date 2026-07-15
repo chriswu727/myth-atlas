@@ -8,17 +8,9 @@ const output = join(root, 'public', 'images', 'entries');
 mkdirSync(output, { recursive: true });
 
 const cthulhu = [
-  ['cthulhu', 'CTHULHU', 'tentacles', '#77a79d'],
-  ['azathoth', 'AZATHOTH', 'chaos', '#c49a68'],
-  ['yog-sothoth', 'YOG-SOTHOTH', 'orbs', '#8aa3c2'],
-  ['nyarlathotep', 'NYARLATHOTEP', 'mask', '#b77b5e'],
   ['shub-niggurath', 'SHUB-NIGGURATH', 'horns', '#748f67'],
   ['dagon', 'DAGON', 'fish', '#6b99a2'],
   ['mother-hydra', 'MOTHER HYDRA', 'hydra', '#568e7f'],
-  ['deep-ones', 'DEEP ONES', 'shoal', '#628c98'],
-  ['elder-things', 'ELDER THINGS', 'elder-star', '#9c8c6c'],
-  ['shoggoth', 'SHOGGOTH', 'ooze', '#71836d'],
-  ['mi-go', 'MI-GO', 'fungus', '#967b9f'],
   ['great-race-of-yith', 'GREAT RACE OF YITH', 'cone', '#b18b58'],
   ['yig', 'YIG', 'serpent', '#9e744c'],
   ['ghouls', 'GHOULS', 'skull', '#867d6b'],
@@ -35,18 +27,14 @@ const cthulhu = [
 ];
 
 const scp = [
-  ['scp-049', 'SCP-049', 'plague', '#aeb9ae'],
   ['scp-055', 'SCP-055', 'void', '#8c97a3'],
   ['scp-087', 'SCP-087', 'stairs', '#8792a0'],
-  ['scp-096', 'SCP-096', 'redacted-face', '#a49b9b'],
   ['scp-106', 'SCP-106', 'corrosion', '#8f877a'],
   ['scp-173', 'SCP-173', 'concrete', '#a2947f'],
-  ['scp-682', 'SCP-682', 'reptile', '#87936f'],
   ['scp-914', 'SCP-914', 'gears', '#a68a61'],
   ['scp-999', 'SCP-999', 'blob', '#c39a5c'],
   ['scp-2000', 'SCP-2000', 'vault', '#6f91a5'],
   ['scp-2521', 'SCP-2521', 'symbols', '#8e78a0'],
-  ['scp-3008', 'SCP-3008', 'aisle', '#9d8f6d'],
 ];
 
 function organicMotif(kind, color) {
