@@ -660,14 +660,16 @@ h1, h2, h3, h4 {
   gap: 0.48rem;
 }
 
-.map-legend-star,
+.map-legend-field,
 .map-inspector-sigil {
   display: block;
   width: 0.75rem;
   height: 0.75rem;
   flex: 0 0 auto;
   background: #bd493b;
-  clip-path: polygon(50% 0, 61% 37%, 100% 50%, 61% 63%, 50% 100%, 39% 63%, 0 50%, 39% 37%);
+  border-radius: 38% 62% 46% 54% / 58% 42% 58% 42%;
+  box-shadow: 0 0 0.65rem rgba(189, 73, 59, 0.42);
+  transform: rotate(-12deg);
 }
 
 .map-legend-pin {
@@ -754,15 +756,27 @@ h1, h2, h3, h4 {
   outline: none;
 }
 
-.map-tradition-anchor .map-anchor-star {
-  transform-origin: center;
-  transition: transform 180ms ease, filter 180ms ease;
+.map-anchor-field {
+  animation: mapFieldBreath 6s ease-in-out infinite;
+  opacity: 0.64;
+  transition: filter 240ms ease, opacity 240ms ease;
 }
 
-.map-tradition-anchor:hover .map-anchor-star,
-.map-tradition-anchor:focus .map-anchor-star,
-.map-tradition-anchor[aria-pressed="true"] .map-anchor-star {
-  transform: scale(1.25) rotate(45deg);
+.map-anchor-field-wash {
+  opacity: 0.38;
+  stroke: rgba(255, 248, 233, 0.5);
+  stroke-width: 0.65;
+}
+
+.map-anchor-field-core {
+  opacity: 0.72;
+}
+
+.map-tradition-anchor:hover .map-anchor-field,
+.map-tradition-anchor:focus .map-anchor-field,
+.map-tradition-anchor[aria-pressed="true"] .map-anchor-field {
+  animation-play-state: paused;
+  opacity: 1;
 }
 
 .map-tradition-anchor:focus > [data-map-marker] > g > circle:first-child {
@@ -774,7 +788,17 @@ h1, h2, h3, h4 {
   font-family: var(--font-body-stack);
   font-weight: 600;
   letter-spacing: 0.035em;
+  opacity: 0;
   pointer-events: none;
+  transition: opacity 180ms ease;
+  visibility: hidden;
+}
+
+.map-tradition-anchor:hover .map-anchor-label,
+.map-tradition-anchor:focus .map-anchor-label,
+.map-anchor-label[data-active="true"] {
+  opacity: 1;
+  visibility: visible;
 }
 
 .map-entry-marker {
@@ -836,7 +860,7 @@ h1, h2, h3, h4 {
 .map-inspector-sigil {
   width: 2.5rem;
   height: 2.5rem;
-  opacity: 0.75;
+  opacity: 0.68;
 }
 
 .map-inspector > div {
@@ -1505,6 +1529,11 @@ h1, h2, h3, h4 {
   to { opacity: 1; }
 }
 
+@keyframes mapFieldBreath {
+  0%, 100% { opacity: 0.52; }
+  50% { opacity: 0.78; }
+}
+
 .map-fade-1 { animation: mapFade 0.7s ease both; }
 .map-fade-2 { animation: mapFade 1s ease 0.12s both; }
 .map-marker { animation: mapFade 0.35s ease both; }
@@ -1746,14 +1775,6 @@ h1, h2, h3, h4 {
     width: 42rem;
     max-width: none;
     touch-action: pan-x pan-y;
-  }
-
-  .map-anchor-label {
-    display: none;
-  }
-
-  .map-anchor-label[data-active="true"] {
-    display: block;
   }
 
   .map-tip {

@@ -31,7 +31,7 @@ export const dict = {
     absent: { zh: '此卷未留下这一幕', en: 'This scene is absent from the tradition' },
   },
   home: {
-    mapHint: { zh: '移转星图，俯近大地；点亮一枚星标，步入那方神域', en: 'Turn the atlas and draw close to the earth; awaken a star to enter its mythology' },
+    mapHint: { zh: '移转图卷，俯近大地；触碰一片色域，步入其下沉眠的神话', en: 'Turn the atlas and draw close to the earth; touch a field to enter the mythology sleeping beneath' },
     traditions: { zh: '诸域神谱', en: 'The Mythic Realms' },
     featured: { zh: '开卷异闻', en: 'Tales at the Threshold' },
     browseAll: { zh: '启封万象全卷', en: 'Unseal the complete codex' },
