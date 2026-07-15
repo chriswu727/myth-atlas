@@ -1,0 +1,19 @@
+{
+  "id": "qallupilluit", "tradition": "inuit", "type": "creature", "era": "folk",
+  "name": { "zh": "卡卢皮卢克", "en": "Qallupilluit", "original": "ᖃᓪᓗᐱᓪᓗᐃᑦ", "originalLang": "因纽特语，复数" },
+  "title": { "zh": "冰缘下面，有东西在用裂水呼吸", "en": "Something Breathes Beneath the Edge of the Ice" },
+  "summary": { "zh": "藏在海冰裂口下、诱捕独行儿童的水中异类；它把真实危险长出了脸。", "en": "Water beings beneath broken ice who carry away children wandering too close to open sea." },
+  "description": {
+    "zh": "卡卢皮卢伊特常被说成住在海冰下的类人异物，皮肤湿滑、头发纠结，声音像隔着水传来的哼唱。有的故事说它穿着巨大的阿玛乌蒂——带育儿兜的女式外衣——却把兜口朝向相反，用来装走靠近裂水的孩子；有的说它从冰洞伸出长臂，以歌声引人。它的外貌与性别在讲述中不稳定，稳定的是地点：海岸、潮沟与薄冰，所有一个孩子不应独自靠近的地方。\n\n这类故事常被轻率解释成「大人吓孩子的水怪」，内里却还有海冰的真实知识。极地海冰会漂移、变薄、在雪层下隐藏开水，一步判断错误便没有回来的路。卡卢皮卢克把肉眼难以读出的危险变成一个正在等待的意志，让警告在记忆里活得比规则更久。现代因纽特图画书与动画继续改写它：有时孩子被救回，有时怪物显出孤独。传说没有冻结成古物；它在每一代新的冰况与新的童年里，再次从黑水下抬头。",
+    "en": "Qallupilluit are often described as humanlike beings living beneath sea ice, with wet skin, tangled hair, and a humming voice heard through water. In some stories one wears an enormous amauti, the woman’s parka with a child-carrying pouch, but turns the pouch the wrong way to hold children taken from the ice edge. In others long arms rise through a breathing hole while song draws the listener closer. Appearance and gender shift between tellers. The location does not: shore lead, tidal crack, and thin ice, every place where a child must never wander alone.\n\nIt is easy to reduce the tale to “a monster adults used to frighten children,” but the being carries more than a lesson. Arctic sea ice moves, thins, and hides open water under drifted snow; a single bad reading can erase the road home. Qallupilluit give intention and memory to a danger difficult for the eye to judge. Modern Inuit picture books and animation continue to reshape them. Sometimes a child returns; sometimes the creature’s loneliness is revealed. The tradition is therefore not a frozen relic. It lifts its head again from black water inside every generation’s changing ice and changing childhood."
+  },
+  "domains": { "zh": ["海冰", "诱拐", "儿童禁忌"], "en": ["Sea ice", "Abduction", "Child warnings"] },
+  "related": ["sedna", "ijiraq", "tariaksuq"],
+  "sources": [
+    { "zh": "因纽特口传传统（努纳武特多地版本）", "en": "Inuit oral traditions from multiple Nunavut communities" },
+    { "zh": "伊莱沙·基拉布克、乔伊·昂《卡卢帕利克》（2011）", "en": "Elisha Kilabuk and Joy Ang, The Qalupalik (2011)" },
+    { "zh": "尼尔·克里斯托弗《因纽特神话与传说》（2011）", "en": "Neil Christopher, Inuit Myths and Legends (2011)" }
+  ],
+  "geo": { "lat": 63.7, "lon": -68.5, "label": { "zh": "努纳武特海岸", "en": "Nunavut coast" } },
+  "image": { "file": "/images/entries/qallupilluit.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inuit_mask_from_Fifth_Thule_Expedition,_sealskin.jpg", "sourceTitle": "Inuit sealskin mask from the Fifth Thule Expedition (related material; not a Qallupilluit portrait)", "artist": "Unknown maker; photo by Arnold Mikkelsen", "license": "CC BY-SA 4.0", "width": 1243, "height": 1600 }
+}

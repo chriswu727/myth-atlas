@@ -1,0 +1,19 @@
+{
+  "id": "nanook", "tradition": "inuit", "type": "spirit", "era": "folk",
+  "name": { "zh": "纳努克", "en": "Nanuq", "original": "ᓇᓄᖅ", "originalLang": "因纽特语" },
+  "title": { "zh": "白熊不是猎物，是暂时披兽皮来访的主人", "en": "The Bear Is a Visiting Person in a White Hide" },
+  "summary": { "zh": "北极熊及其主宰之灵；猎人须按仪礼接待死去的熊，才可能再次相逢。", "en": "Polar bear and master of bears, approached through a hunter’s exact obligations to the slain animal." },
+  "description": {
+    "zh": "Nanuq首先就是「北极熊」这个词；早期民族志又把巴芬岛关于「熊之主」的观念记作Nanook。后来普及读物常把它塑成一位全北极通行的北极熊神，实际传统比这谨慎：熊可能是有强大inua——内在主人或人格——的动物，也可能脱下皮毛成为人；不同地区未必给统领诸熊者相同名字。猎人面对一位听得懂言语、会评判勇气，也会把遭遇消息带回同类的客人，低等兽类的分类在这里失效。\n\n猎得熊后，尸身必须按性别与地方习俗接受水、工具、针具或武器，骨头不得任意抛弃，膀胱与灵魂的归还亦有规矩。若猎人表现诚实、没有炫耀，熊灵可能告诉其他熊：这户人家懂得如何待客，于是新的猎物愿意靠近；若遭羞辱，冰原便会封闭。这样的仪式把危险的互相依赖化成可实践的伦理，远比浪漫的「自然崇拜」更加严格。纳努克站起时比人高出一倍，而故事要求猎人先承认，那双黑眼睛背后也有一个正在看人的世界。",
+    "en": "Nanuq is first of all the word for “polar bear.” Early ethnography also recorded a Baffin Island conception of a master of bears under the name Nanook. Popular retellings later turned this into one universal Arctic bear god, but the traditions are more careful. A bear may be an animal possessing a formidable inua—an indwelling owner or personhood—or a being able to remove its hide and become human; communities do not necessarily give the keeper of all bears the same name. The hunter therefore meets no lower creature but a visitor who understands speech, judges courage, and can carry news of the encounter back to its kind.\n\nAfter a kill, the body receives water, tools, sewing implements, or weapons according to local custom and the animal’s sex. Bones cannot simply be scattered, and bladder or soul must be returned in the proper way. If the hunter acts truthfully and without boasting, the bear spirit may tell other bears that this household knows how to receive a guest, and another animal may approach. If dishonored, the ice closes. Such observances are not a vague romance of “nature worship”; they make dangerous dependence into a practiced ethic. When Nanuq rises it towers over a person, yet the story first demands recognition that another world is looking back through those black eyes."
+  },
+  "domains": { "zh": ["北极熊", "狩猎礼法", "兽灵"], "en": ["Polar bears", "Hunting rites", "Animal personhood"] },
+  "related": ["sedna", "sila", "tupilaq"],
+  "sources": [
+    { "zh": "弗朗茨·博厄斯《中央爱斯基摩人》（1888）", "en": "Franz Boas, The Central Eskimo (1888)" },
+    { "zh": "克努德·拉斯穆森《内茨利克爱斯基摩人的精神文化》（1931）", "en": "Knud Rasmussen, The Netsilik Eskimos: Social Life and Spiritual Culture (1931)" },
+    { "zh": "埃德蒙·卡彭特《爱斯基摩现实》（1959）", "en": "Edmund Carpenter, Eskimo Realities (1959)" }
+  ],
+  "geo": { "lat": 65.4, "lon": -69.4, "label": { "zh": "巴芬岛", "en": "Baffin Island" } },
+  "image": { "file": "/images/entries/nanook.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Stone_sculpture_(Polar_bear)_-_Inuit_people_in_Canada_-_Made_by_Nalenik_Temela_in_the_1960s_-_1980s_-_Material._Stone.jpg", "sourceTitle": "Inuit stone polar bear by Nalenik Temela", "artist": "Nalenik Temela; photo by Yanajin33", "license": "CC BY-SA 4.0", "width": 1600, "height": 1200 }
+}

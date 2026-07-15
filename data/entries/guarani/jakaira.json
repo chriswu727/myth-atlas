@@ -1,0 +1,19 @@
+{
+  "id": "jakaira", "tradition": "guarani", "type": "deity", "era": "ancient",
+  "name": { "zh": "雅卡伊拉", "en": "Jakaira", "original": "Jakaira Ru Ete", "originalLang": "姆比亚瓜拉尼语" },
+  "title": { "zh": "生命的雾从他口中散开，叶片因此记住绿色", "en": "Life-Giving Mist Leaves His Mouth and the Leaves Remember Green" },
+  "summary": { "zh": "姆比亚诸父中掌生命雾气、植物与更新者；圣烟使可见世界与灵魂之言相接。", "en": "The Mbya divine father of life-giving mist, vegetation, and renewal through sacred breath and smoke." },
+  "description": {
+    "zh": "雅卡伊拉·鲁·埃特与其伴侣属于创世诸父中的雾与生命一路。卡多甘记录的圣歌把「赋予生命的薄雾」与他们相连：雾覆盖最初大地，使植物生长，也让神圣气息进入人的骨与言语。烟草烟、祈祷中的呼吸与清晨林间水汽在这里并非三个互不相干的现象，它们都是看不见的生命如何暂时显形。部分后来的瓜拉尼材料又把雅卡伊拉与玉米、马黛茶或丰饶相连，具体关联必须按社群区分，不能拼成通用职权表。\n\n雾让边界变柔：树的轮廓消失，声音走得比身体更远，神与人的世界短暂重叠。祈祷屋里，烟升向屋顶，神圣词语由领唱者传给众人；儿童的灵魂名也来自诸父掌管的天空方位。雅卡伊拉因此不只是「植物神」，他守护的是生命能够被呼吸、传递与更新的介质。植物的繁茂只是结果之一。每当潮湿森林在黎明吐出白雾，创世并未简单重复；世界是在再次获得足以继续活下去的气息。",
+    "en": "Jakaira Ru Ete and his companion belong to the lineage of mist and living renewal among the divine fathers. In the songs recorded by Cadogan, a life-giving haze is associated with them. It covers the first earth, fosters vegetation, and lets sacred breath enter human bone and word. Tobacco smoke, breath within prayer, and morning vapor in the forest are not three unrelated phenomena here. Each reveals for a moment how invisible life becomes perceptible. Later Guaraní materials also connect Jakaira with maize, yerba mate, or fertility, but those associations must be located community by community rather than assembled into a universal portfolio.\n\nMist softens boundaries. Trees lose their edges, voices travel farther than bodies, and divine and human regions briefly overlap. Inside the prayer house, smoke climbs to the roof while sacred words pass from leader to community; a child’s soul-name also comes from a celestial direction tended by the fathers. Jakaira is therefore more than a “vegetation god.” He guards the medium through which life can be breathed, transmitted, and renewed. Green abundance is one consequence. Whenever the wet forest releases white mist at dawn, creation does not merely repeat. The world receives enough breath to continue living."
+  },
+  "domains": { "zh": ["生命雾气", "植物", "圣烟"], "en": ["Life-giving mist", "Vegetation", "Sacred smoke"] },
+  "related": ["namandu", "karai", "tupa"],
+  "sources": [
+    { "zh": "莱昂·卡多甘《存在之根》（1959）", "en": "León Cadogan, Ayvu Rapyta (1959)" },
+    { "zh": "格拉谢拉·查莫罗《瓜拉尼神学：词语》（2004）", "en": "Graciela Chamorro, Teología Guaraní: La palabra (2004)" },
+    { "zh": "巴尔托梅乌·梅利亚《被征服的瓜拉尼与被还原的瓜拉尼》（1986）", "en": "Bartomeu Melià, El Guaraní conquistado y reducido (1986)" }
+  ],
+  "geo": { "lat": -26.1, "lon": -54.6, "label": { "zh": "姆比亚瓜拉尼传统区", "en": "Mbya Guaraní region" } },
+  "image": { "file": "/images/entries/jakaira.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parodi_1935_Ilex_paraguariensis_%22yerba_mate%22_Misiones.png", "sourceTitle": "Yerba mate cultivation in Misiones, 1926 (related plant tradition; not a portrait of Jakaira)", "artist": "Lorenzo R. Parodi", "license": "Public domain", "width": 1600, "height": 1198 }
+}

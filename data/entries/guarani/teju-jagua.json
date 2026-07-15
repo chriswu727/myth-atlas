@@ -1,0 +1,23 @@
+{
+  "id": "teju-jagua", "tradition": "guarani", "type": "creature", "era": "folk",
+  "name": { "zh": "特茹·哈瓜", "en": "Teju Jagua", "original": "Teju Jagua", "originalLang": "瓜拉尼语" },
+  "title": { "zh": "七颗犬首守着洞穴，巨蜥腹下却没有远行的腿", "en": "Seven Dog Heads Guard the Cavern Above a Lizard Body Unable to Roam" },
+  "summary": { "zh": "陶与克拉娜七子传说中的洞穴守卫，巨蜥之身负七颗犬首，守护果实与秘藏。", "en": "The cave guardian among Tau and Kerana’s sons, a vast lizard bearing seven dog heads over hidden treasure." },
+  "description": {
+    "zh": "二十世纪最流行的图像把特茹·哈瓜画成庞大蜥蜴，肩上簇生七颗犬首，双眼喷火。身体沉重、行动迟缓，使它不像兄弟们那样四处猎人；它伏在洞穴与山丘附近，守着埋藏的财物，也吞食果实与蜂蜜。名字本身由teju（蜥蜴）与jagua（犬或美洲豹，依语境而定）组成，混合形体从语言里直接长出。某些版本只给它一颗犬首，七首的标准形象主要由后来的绘画、雕塑与教材固定。\n\n它被列为陶与克拉娜的长子：恶灵陶为报复克拉娜受诅咒的婚姻，使七个孩子都带怪形。这一完整家族最著名的文本依据是科尔曼1929年瓜拉尼语长诗，属于以口传材料为根的现代文学综合。特茹·哈瓜因此处在神话与民族文学交界，不能假装拥有不间断的前殖民谱系。它的迟缓却赋予传说一种独特悲意：拥有七倍警觉、七张可以咆哮的嘴，却被自身重量钉在入口，只能守护永远无法带走的财富。洞穴里的宝藏也许并无金银，只剩怪物被迫看守的那条未曾走过的路。",
+    "en": "The most popular twentieth-century image gives Teju Jagua an immense lizard body, seven dog heads clustered above the shoulders, and eyes that cast fire. Weight and slowness keep it from roaming after people like its brothers. It remains near caves and hills, guarding buried riches and feeding upon fruit and honey. The name joins teju, lizard, with jagua, dog or jaguar according to context, allowing a composite body to grow directly from language. Some versions give it only one canine head. The standard seven-headed form was stabilized largely through later illustration, sculpture, and school retelling.\n\nTeju Jagua is named as the eldest child of Tau and Kerana. In the cycle, the malevolent Tau’s conquest of the cursed Kerana causes seven children to bear monstrous shapes. The complete family is known above all through Colmán’s 1929 Guaraní poem, a modern literary synthesis rooted in oral materials. Teju Jagua therefore stands at the boundary between folklore and national literature rather than inside an uninterrupted precolonial genealogy. Its immobility gives the image a peculiar sorrow: sevenfold vigilance and seven mouths capable of roaring, yet a body pinned by its own weight to one threshold, guarding wealth it can never carry away. The treasure in the cave may be less gold than the road the monster will never walk."
+  },
+  "domains": { "zh": ["洞穴", "秘藏", "混合兽"], "en": ["Caves", "Hidden treasure", "Composite beast"] },
+  "traits": [
+    { "label": { "zh": "形体", "en": "Form" }, "value": { "zh": "巨蜥之身，常见版本有七颗犬首", "en": "A giant lizard body, commonly with seven dog heads" } },
+    { "label": { "zh": "食物", "en": "Food" }, "value": { "zh": "果实与蜂蜜", "en": "Fruit and honey" } }
+  ],
+  "related": ["pombero", "jasy-jatere", "kurupi"],
+  "sources": [
+    { "zh": "纳西索·科尔曼《我们的祖先》（1929）", "en": "Narciso R. Colmán, Ñande Ypy Kuéra (1929)" },
+    { "zh": "保罗·德·卡瓦略·内托《巴拉圭民俗》（1961）", "en": "Paulo de Carvalho Neto, Folklore del Paraguay (1961)" },
+    { "zh": "迪奥尼西奥·冈萨雷斯·托雷斯《巴拉圭民俗》（1980）", "en": "Dionisio González Torres, Folklore del Paraguay (1980)" }
+  ],
+  "geo": { "lat": -25.4, "lon": -56.9, "label": { "zh": "巴拉圭民间传说圈", "en": "Paraguayan folklore region" } },
+  "image": { "file": "/images/entries/teju-jagua.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teju_Jagua.png", "sourceTitle": "Contemporary Teju Jagua illustration", "artist": "Tamssss", "license": "CC BY 4.0", "width": 1358, "height": 1600 }
+}

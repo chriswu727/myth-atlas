@@ -1,0 +1,19 @@
+{
+  "id": "anansi", "tradition": "akan", "type": "hero", "era": "folk",
+  "name": { "zh": "阿南西", "en": "Ananse", "original": "Ananse", "originalLang": "阿坎语" },
+  "title": { "zh": "世间故事原在天上，蜘蛛用四场不可能的捕猎买下它们", "en": "Stories Once Belonged to the Sky; Spider Bought Them with Impossible Captures" },
+  "summary": { "zh": "会织网也会织谎的蜘蛛智者；他从天神手中赢得故事，又常跌进自己的机关。", "en": "The spider trickster who wins the world’s stories from the sky and repeatedly falls into his own designs." },
+  "description": {
+    "zh": "最初，世上的故事都叫「尼亚梅的故事」。阿南西想让它们改姓，天神便开出价码：活捉巨蟒奥尼尼、豹奥塞博、蜂群姆莫博罗与森林小灵姆莫阿蒂亚。蜘蛛没有力量，却有次序。他假装争论蟒蛇长度，诱它躺上树枝受绑；挖坑擒豹，再让豹自己用网脱困；向蜂群泼水，劝它们躲进葫芦；做出黏人的假偶，激怒小灵直到被胶住。尼亚梅收货后，把故事交给阿南西，于是每次讲述都成了蜘蛛仍在支付的回声。\n\n阿南西不承担端正英雄的职责。他贪食、撒谎、逃避劳动、欺骗妻儿和更强的动物，胜利后常因多伸一只手而受罚。正因如此，故事可以借他触碰权力、贫困、婚姻与欲望，而不必把训诫说死。跨大西洋奴隶贸易把Ananse带到加勒比海与美洲，名字变成Anancy、Aunt Nancy，仍靠小者的机巧抵抗主人。蜘蛛网从不许诺洁白道德，它连接的是生存所需的矛盾智慧：弱者必须聪明，聪明也会把弱者变成下一位压迫者。",
+    "en": "At first every tale was called a story of Nyame. Ananse wanted them to bear his name, so the sky god demanded a price: Onini the python, Osebo the leopard, the Mmoboro hornets, and a Mmoatia forest being, all alive. Spider possessed no strength, only sequence. He pretended to dispute the python’s length and tied it to a branch for measuring; trapped Leopard in a pit and offered a web as rescue; threw water on the hornets and persuaded them to shelter in a gourd; made a sticky doll whose silence enraged the forest spirit into striking it. Nyame accepted the impossible cargo and released the stories. Every telling since carries the echo of Spider’s payment.\n\nAnanse does not perform the duties of a clean hero. He overeats, lies, avoids work, deceives wife, children, and stronger animals, then loses victory by reaching once too often. Through him stories can handle power, poverty, marriage, and appetite without closing into a single moral. The Atlantic slave trade carried Ananse to the Caribbean and Americas, where he became Anancy and Aunt Nancy and kept opposing masters through the intelligence of the small. His web joins no spotless ethic. It holds the contradictory wisdom of survival: the weak must become clever, and cleverness can make the weak into another oppressor."
+  },
+  "domains": { "zh": ["故事", "诡计", "生存智慧"], "en": ["Stories", "Trickery", "Survival wisdom"] },
+  "related": ["nyame", "mmoatia", "sasabonsam"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿坎-阿散蒂民间故事》（1930）", "en": "R. S. Rattray, Akan-Ashanti Folk-Tales (1930)" },
+    { "zh": "佩吉·阿皮亚《阿南西故事》（1966）", "en": "Peggy Appiah, Ananse the Spider: Tales from an Ashanti Village (1966)" },
+    { "zh": "伦敦自然史博物馆〈寻找阿南西的常识〉（2022）", "en": "Natural History Museum, London, “Finding common sense with Ananse” (2022)" }
+  ],
+  "geo": { "lat": 6.7, "lon": -1.6, "label": { "zh": "阿散蒂地区", "en": "Asante region" } },
+  "image": { "file": "/images/entries/anansi.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staff_of_Office_Figures_spider_web_and_spider_motif.jpg", "sourceTitle": "Akan staff referring to Ananse", "artist": "Unknown Akan artist", "license": "CC0", "width": 1114, "height": 1600 }
+}

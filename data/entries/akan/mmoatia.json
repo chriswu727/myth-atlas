@@ -1,0 +1,19 @@
+{
+  "id": "mmoatia", "tradition": "akan", "type": "spirit", "era": "folk",
+  "name": { "zh": "姆莫阿蒂亚", "en": "Mmoatia", "original": "mmoatia", "originalLang": "阿坎语，复数" },
+  "title": { "zh": "小小的脚跟朝前，把追踪者领向错误的过去", "en": "Their Heels Face Forward and Lead the Tracker Backward" },
+  "summary": { "zh": "居于森林的矮小灵族，足迹方向颠倒；会教授药草，也会把闯入者引入失路。", "en": "Small forest beings with reversed feet who teach medicine or guide an intruder away from every path." },
+  "description": {
+    "zh": "姆莫阿蒂亚是森林里身量矮小的灵族，脚的方向与人相反，因此足迹永远把追踪者送往错误一边。它们居于远离村落的林地，有自己的歌、聚会与规矩；笑声可能近在灌木后，人拨开枝叶却只看见更深的绿。故事常说它们懂得草药、疗法与巫术，愿意把知识交给被选择的人，也会惩罚窥探、失礼和泄密。人与小灵相遇后带回的医术，既是恩赐，也是一份不能随意说破的债。\n\n阿南西购买故事的著名任务里，尼亚梅要求他活捉一位姆莫阿蒂亚。蜘蛛做了涂胶的木偶，给它端上山药；小灵道谢得不到回应，盛怒之下拍打木偶，双手都被粘住。这个喜剧保存了更严肃的主题：礼仪的缺失会立刻改变关系，而聪明人能够利用礼仪。后世常把mmoatia译成fairy或dwarf，方便了比较，也把它们塞进欧洲小精灵的模具。脚印的反向提醒人们保持距离：相似的身形，不代表它们与人生活在同一个方向。",
+    "en": "Mmoatia are small forest beings whose feet face opposite to human feet, so their tracks send a follower the wrong way. They inhabit woodland beyond settlement and possess gatherings, songs, and rules of their own. Laughter sounds behind a bush; parted leaves reveal only deeper green. The beings are said to know herbs, healing, and dangerous knowledge. They may teach a person they have selected, yet punish spying, disrespect, or disclosure. Medicine brought home from an encounter is both gift and debt, bound to conditions that cannot be spoken away.\n\nIn the famous purchase of stories, Nyame requires Ananse to capture a mmoatia alive. Spider makes a gum-coated wooden figure and offers it yams. When the figure refuses to answer thanks, the forest being grows angry and strikes it, losing both hands to the adhesive. The comedy preserves a serious point: failed etiquette can change a relationship instantly, and a clever person can weaponize etiquette. Later translations call mmoatia fairies or dwarfs, aiding comparison while pressing them into European molds. Their reversed tracks advise distance. A roughly human shape does not mean that these beings travel through existence in the same direction."
+  },
+  "domains": { "zh": ["森林小灵", "药草", "反足"], "en": ["Forest beings", "Herbal knowledge", "Reversed feet"] },
+  "related": ["anansi", "sasabonsam", "abosom"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿坎-阿散蒂民间故事》（1930）", "en": "R. S. Rattray, Akan-Ashanti Folk-Tales (1930)" },
+    { "zh": "R·S·拉特雷《阿散蒂》（1923）", "en": "R. S. Rattray, Ashanti (1923)" },
+    { "zh": "佩吉·阿皮亚《阿南西故事》（1966）", "en": "Peggy Appiah, Ananse the Spider: Tales from an Ashanti Village (1966)" }
+  ],
+  "geo": { "lat": 5.4, "lon": -1.3, "label": { "zh": "加纳南部森林带", "en": "Southern Ghana forest belt" } },
+  "image": { "file": "/images/entries/mmoatia.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakum_forest.jpg", "sourceTitle": "Kakum forest, Ghana (landscape context; not a depiction of mmoatia)", "artist": "Enock Manoba", "license": "CC BY-SA 4.0", "width": 1600, "height": 824 }
+}

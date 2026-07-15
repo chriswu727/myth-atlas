@@ -1,0 +1,19 @@
+{
+  "id": "tupa", "tradition": "guarani", "type": "deity", "era": "ancient",
+  "name": { "zh": "图帕", "en": "Tupã", "original": "Tupã Ru Ete", "originalLang": "瓜拉尼语" },
+  "title": { "zh": "雷不是他的武器，雷声本身就是他抵达的名字", "en": "Thunder Is Not His Weapon; Thunder Is the Name of His Arrival" },
+  "summary": { "zh": "与雷雨和天空相连的神圣之父；传教译名使他后来被广泛重写为唯一造物主。", "en": "A divine father of thunder and storm, later recast as a sole creator through missionary translation." },
+  "description": {
+    "zh": "在姆比亚《存在之根》的诸父序列里，图帕·鲁·埃特与其伴侣守护雷、雨水与来自某一天空方位的灵魂。他是创世合作者之一，并不独占宇宙起源。雷暴压过森林时，声音与闪光表明神圣力量正在移动；雨既使作物与河流复苏，也可能撕裂大地。Tupã这个词与雷鸣的联系很深，十六、十七世纪耶稣会传教士却选择它翻译基督教God，于是殖民文本、教理与后来的民族文学逐渐把图帕提升为「瓜拉尼唯一最高造物主」。\n\n这一翻译极其成功，以至现代许多故事从图帕造人、安排日月讲起，仿佛尼亚曼杜与其他诸父从未存在。它们已经成为真实的民间传统，却不应被伪装成未经改变的前殖民正典。图帕因此拥有两段重叠的生命：圣歌里雷雨一系的真父，以及翻译史里承担基督教全能神位置的名字。辨认这层叠影不会削弱神话，反而让雷声更深。每次风暴到来，天空既回响古老的神圣父名，也回响几个世纪以来语言被迫容纳另一个上帝时留下的震动。",
+    "en": "Within the divine sequence of Mbya Ayvu Rapyta, Tupã Ru Ete and his companion tend thunder, rain, and souls descending from a particular quarter of heaven. He is one collaborator in creation, not the exclusive source of the cosmos. When a storm crosses the forest, sound and flash disclose sacred power in motion. Rain restores crop and river and can also tear the ground apart. Tupã is deeply associated with thunder, yet Jesuit missionaries of the sixteenth and seventeenth centuries selected the word to translate the Christian God. Catechism, colonial writing, and later national literature gradually promoted Tupã into “the single supreme Guaraní creator.”\n\nThe translation succeeded so thoroughly that many modern tales begin with Tupã making humanity and arranging sun and moon, as though Ñamandu and the other fathers had never existed. These accounts have become genuine folklore in their own right, but they should not be presented as an unchanged precolonial canon. Tupã now bears two overlapping lives: the true father of the thunder lineage in sacred song, and the name made to occupy the Christian Almighty’s position in translation. Recognizing the double exposure deepens the myth. Every storm echoes both an old divine father-name and the shock left when language was required to house another God."
+  },
+  "domains": { "zh": ["雷", "雨", "翻译史"], "en": ["Thunder", "Rain", "Missionary translation"] },
+  "related": ["namandu", "karai", "jakaira"],
+  "sources": [
+    { "zh": "莱昂·卡多甘《存在之根》（1959）", "en": "León Cadogan, Ayvu Rapyta (1959)" },
+    { "zh": "安东尼奥·鲁伊斯·德·蒙托亚《瓜拉尼语宝库》（1639）", "en": "Antonio Ruiz de Montoya, Tesoro de la lengua guaraní (1639)" },
+    { "zh": "巴尔托梅乌·梅利亚《被征服的瓜拉尼与被还原的瓜拉尼》（1986）", "en": "Bartomeu Melià, El Guaraní conquistado y reducido (1986)" }
+  ],
+  "geo": { "lat": -25.3, "lon": -55.7, "label": { "zh": "巴拉圭与姆比亚瓜拉尼传统区", "en": "Paraguay and the Mbya Guaraní region" } },
+  "image": { "file": "/images/entries/tupa.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thunderstorms_Erupt_Across_Argentina_and_Paraguay_(CIRA_2024-01-10).png", "sourceTitle": "Thunderstorms over Argentina and Paraguay (natural domain; not a portrait of Tupã)", "artist": "CSU/CIRA and NOAA", "license": "Public domain", "width": 1600, "height": 900 }
+}

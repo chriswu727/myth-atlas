@@ -1,0 +1,19 @@
+{
+  "id": "nyame", "tradition": "akan", "type": "deity", "era": "ancient",
+  "name": { "zh": "尼亚梅", "en": "Nyame", "original": "Nyame / Onyankopɔn", "originalLang": "阿坎语" },
+  "title": { "zh": "穹顶曾低得触手可及，后来神把天空带走", "en": "The Sky Once Hung Within Reach, Until God Withdrew It" },
+  "summary": { "zh": "阿坎传统的天与至高者；遥远而非缺席，雨、命运与故事仍从他那里降下。", "en": "The Akan sky and Supreme Being, remote but not absent, source of rain, destiny, and stories." },
+  "description": {
+    "zh": "Nyame既指上天，也指居于上天的至高者；Onyankopɔn与Odomankoma等称号在不同语境中强调伟大、唯一或创造之力。创世故事通常不为他安排出生：天空与神仿佛先于叙事本身存在，诸河流与阿博松的力量从其秩序中展开。著名的「退天」母题说，天空原本低垂，人伸手即可触及；一位老妇舂富富时杵端不停撞到尼亚梅，或有人把脏手、烟雾与废物冒犯穹顶，于是神把天空升到今日的高度。版本各异，留下的都是一段被人类日常粗暴拉远的亲密。\n\n遥远不等于隐退。雨仍从尼亚梅来，誓言仍以他的名字封口，阿迪ンク拉符号Gye Nyame——「除神以外」——宣告没有力量能越过他。阿南西想得到世间全部故事时，也必须到天上向尼亚梅支付几乎不可能的代价。阿坎宗教实践更多通过阿博松、祖先与祭司处理具体危机，这让早期欧洲作者误以为至高者只是一个抽象观念；实际情形更像王权的远近层级。尼亚梅不必在每座村落拥有神龛，因为每次抬头，整个天空已经替他展开。",
+    "en": "Nyame names both the sky and the Supreme Being of the sky. Titles such as Onyankopɔn and Odomankoma stress greatness, singularity, or creative power in different settings. Creation stories rarely give him a birth. Sky and God seem to precede narration itself, while rivers and abosom unfold within the order attributed to him. In the celebrated withdrawal motif, the sky once hung low enough to touch. An old woman pounding fufu repeatedly struck Nyame with her pestle, or people offended the low heaven with dirty hands, smoke, and refuse, until the divine sky rose to its present height. Details vary; every version preserves an intimacy pushed away by ordinary human carelessness.\n\nDistance is not absence. Rain still comes from Nyame, oaths close under his name, and the Adinkra sign Gye Nyame—“except for God”—declares that no force exceeds him. When Ananse desires ownership of all stories, he must travel upward and pay Nyame an impossible price. Akan ritual usually approaches particular crises through abosom, ancestors, and priests, leading early European writers to mistake the high god for an abstraction. The arrangement is closer to a hierarchy of royal nearness. Nyame does not require a shrine in every settlement because every lifted gaze already opens his sky."
+  },
+  "domains": { "zh": ["天空", "创造", "雨"], "en": ["Sky", "Creation", "Rain"] },
+  "related": ["asase-yaa", "anansi", "abosom"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿散蒂》（1923）", "en": "R. S. Rattray, Ashanti (1923)" },
+    { "zh": "夸梅·吉克耶《非洲哲学思想论》（1987）", "en": "Kwame Gyekye, An Essay on African Philosophical Thought (1987)" },
+    { "zh": "科菲·阿萨雷·奥波库《西非传统宗教》（1978）", "en": "Kofi Asare Opoku, West African Traditional Religion (1978)" }
+  ],
+  "geo": { "lat": 6.7, "lon": -1.6, "label": { "zh": "阿散蒂与阿坎文化区", "en": "Asante and wider Akan region" } },
+  "image": { "file": "/images/entries/nyame.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gye_nyame_symbol.jpg", "sourceTitle": "Gye Nyame Adinkra symbol", "artist": "Brenac40", "license": "CC BY-SA 4.0", "width": 1299, "height": 1600 }
+}

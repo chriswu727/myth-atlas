@@ -1,0 +1,19 @@
+{
+  "id": "tano", "tradition": "akan", "type": "deity", "era": "ancient",
+  "name": { "zh": "塔诺", "en": "Tano", "original": "Tano / Ta Kora", "originalLang": "阿坎语" },
+  "title": { "zh": "河流不是神的象征，奔流本身就是神的身体", "en": "The River Does Not Symbolize the God; Its Current Is His Body" },
+  "summary": { "zh": "塔诺河及其强大的阿博松，守护国家、誓约与水边禁地，通过祭司降临人间。", "en": "The Tano River and its powerful abosom, guardian of polity, oath, and sacred waters through possessing priests." },
+  "description": {
+    "zh": "塔诺是加纳西南部一条真实河流，也是阿坎世界最有声望的阿博松之一。不同神龛称呼塔诺、塔·科拉或其他地方名，并讲述支流、石头与祭器如何从主河分得力量。神可在水中显现，也会附着祭司，以舞步、声音与占示回答疾病、纠纷和战争。人迁往新聚落时，有时携带原神龛的水或圣物，让同一股力量在另一处「分枝」；因此阿博松的谱系像河网，既有源头，也不断产生新的地方关系。\n\n河岸的林地与某些水段受到禁令保护，捕鱼、砍伐、渡河与进入可能只在特定日子获准。禁忌不是附会在自然景观上的装饰，它实际规定谁能接近水、怎样取用资源、何时必须停手。殖民与基督教化没有让塔诺仅剩一个古名，神龛、祭司与地方叙事仍延续并改变。面对塔诺，人们不是把河想象成像神；河水的流动、危险、供养与边界，就是神圣力量可被听见的形状。饮下它的人，进入的不是比喻。",
+    "en": "Tano is a physical river in southwestern Ghana and one of the most prestigious abosom in the Akan world. Shrines address Tano, Ta Kora, and related local names, recounting how tributaries, stones, and ritual vessels receive power from a principal current. The deity appears through water and through possession of priests, whose dance, voice, and divination answer illness, dispute, and war. When people establish a new settlement they may carry water or sacred material from an older shrine, allowing the same force to branch in another place. The genealogy of abosom therefore resembles a river system: a source joined by continually forming local relationships.\n\nGroves beside the river and particular reaches of water are protected by prohibitions. Fishing, cutting, crossing, and entry may be allowed only on designated days. Taboo is no ornament placed upon scenery; it determines who may approach water, how resources can be taken, and when hands must stop. Colonial rule and Christianization did not leave Tano as an obsolete name. Shrines, priests, and local accounts continue while changing. People do not merely imagine that the river resembles a god. Current, danger, nourishment, and boundary are the audible form of sacred force. Whoever drinks the water enters something more than metaphor."
+  },
+  "domains": { "zh": ["河流", "国家守护", "神灵附体"], "en": ["River", "Political guardianship", "Spirit possession"] },
+  "related": ["abosom", "nyame", "asase-yaa"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿散蒂的宗教与艺术》（1927）", "en": "R. S. Rattray, Religion and Art in Ashanti (1927)" },
+    { "zh": "罗伯特·伍森《加纳南部的神、祖先与人》（1958）", "en": "Robert W. Wyllie, studies of Akan shrines and possession" },
+    { "zh": "科菲·阿萨雷·奥波库《西非传统宗教》（1978）", "en": "Kofi Asare Opoku, West African Traditional Religion (1978)" }
+  ],
+  "geo": { "lat": 6.8, "lon": -2.8, "label": { "zh": "塔诺河流域", "en": "Tano River basin" } },
+  "image": { "file": "/images/entries/tano.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tano_River.jpg", "sourceTitle": "The sacred Tano River and its protected banks", "artist": "Kwabena Kwabi", "license": "CC BY-SA 4.0", "width": 1600, "height": 1200 }
+}

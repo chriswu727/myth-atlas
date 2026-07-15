@@ -1,0 +1,19 @@
+{
+  "id": "pombero", "tradition": "guarani", "type": "spirit", "era": "folk",
+  "name": { "zh": "波姆贝罗", "en": "Pombero", "original": "Pombéro / Karai Pyhare", "originalLang": "巴拉圭瓜拉尼语" },
+  "title": { "zh": "夜之主人先用口哨绕过屋墙，再来检查门边的供物", "en": "The Lord of Night Circles the House in Whistles Before Taking His Offering" },
+  "summary": { "zh": "巴拉圭乡野的夜行小灵，护鸟、戏弄旅人；烟草与甘蔗酒可换取短暂安宁。", "en": "A nocturnal rural spirit who guards birds and troubles households, appeased with tobacco and cane liquor." },
+  "description": {
+    "zh": "波姆贝罗又叫Karai Pyhare——「夜之先生」。他矮壮、遍体暗毛，脚步几乎无声，却能模仿鸟叫，让口哨在远近之间突然换位。白日里捕杀过多鸟兽、夜间高声说出他名字或在林缘失礼，都可能招来报复：牲口被放走，屋顶遭石击，熟悉的路莫名绕远。人们在门外留下烟草、蜂蜜、甘蔗酒或食物，请这位难以预测的邻居暂时高兴。连续几夜被接受的供物，也可能换来狩猎与家宅的庇护。\n\n传说也有更黑暗的性威胁：波姆贝罗会窥伺独行者与熟睡者，乡村里难以解释的怀孕有时被推给他的夜访。这种说法既为禁忌提供超自然语言，也可能遮蔽真实暴力，不能只当成滑稽怪谈。Pombero一名及今日完整形象在巴拉圭、阿根廷东北与邻近地区的混合民俗中成形，吸收瓜拉尼森林主人观念、殖民乡村生活与后来的大众叙事。它不是姆比亚创世圣歌里的神圣之父。波姆贝罗更接近夜幕之后仍拥有土地使用权的地方住客：人关上门，并不意味着外面的世界已经归人所有。",
+    "en": "Pombero is also called Karai Pyhare, the Lord of Night. He is short, powerful, and darkly hairy, moving almost without footsteps while imitating birds and throwing a whistle from near to far. Killing too many birds, speaking his name loudly after dark, or behaving without respect at the forest edge can bring retaliation: livestock released, stones on the roof, familiar paths made long. Tobacco, honey, cane liquor, and food are left outside to keep the unpredictable neighbor content. An offering accepted across several nights may purchase protection for hunting and household as readily as neglect invites mischief.\n\nThe tradition also carries a darker sexual threat. Pombero spies upon people alone or asleep, and rural communities have sometimes attributed unexplained pregnancies to his night visit. Such a claim gives taboo a supernatural language and can also conceal human violence; it cannot be treated only as comic folklore. The name and familiar modern figure formed within the mixed traditions of Paraguay, northeastern Argentina, and neighboring areas, drawing from Guaraní owners of the forest, colonial rural life, and later popular storytelling. He is not a divine father from Mbya creation song. Pombero is the local resident who retains rights of use after nightfall: closing a door does not transfer the outside world into human ownership."
+  },
+  "domains": { "zh": ["夜行", "鸟兽守护", "供物"], "en": ["Night wandering", "Bird guardianship", "Offerings"] },
+  "related": ["jasy-jatere", "kurupi", "teju-jagua"],
+  "sources": [
+    { "zh": "纳西索·科尔曼《我们的祖先》（1929）", "en": "Narciso R. Colmán, Ñande Ypy Kuéra (1929)" },
+    { "zh": "保罗·德·卡瓦略·内托《巴拉圭民俗》（1961）", "en": "Paulo de Carvalho Neto, Folklore del Paraguay (1961)" },
+    { "zh": "迪奥尼西奥·冈萨雷斯·托雷斯《巴拉圭民俗》（1980）", "en": "Dionisio González Torres, Folklore del Paraguay (1980)" }
+  ],
+  "geo": { "lat": -25.4, "lon": -57.1, "label": { "zh": "巴拉圭乡野传说圈", "en": "Rural Paraguay lore region" } },
+  "image": { "file": "/images/entries/pombero.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pombero.Mito_paraguayo.JPG", "sourceTitle": "Pombero figure at Museo Mitológico Ramón Elías", "artist": "Museum artist; photo by Patty P", "license": "Public domain", "width": 987, "height": 1600 }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "namandu", "tradition": "guarani", "type": "deity", "era": "ancient",
+  "name": { "zh": "尼亚曼杜", "en": "Ñamandu", "original": "Ñamandu Ru Ete Tenondé", "originalLang": "姆比亚瓜拉尼语" },
+  "title": { "zh": "未有大地以前，神先从自身微光中立起言语", "en": "Before Earth, the Divine Rose from Its Own Light and Established Speech" },
+  "summary": { "zh": "姆比亚圣歌中自我显现的第一父；他先立灵魂之言、爱与圣歌，再展开大地。", "en": "The Mbya First Father who manifests himself, establishes the soul-word, love, and sacred song, then unfolds earth." },
+  "description": {
+    "zh": "卡多甘记录的《存在之根》没有从泥土或战争开篇。起初是原初黑暗与细小的永恒微光，尼亚曼杜·鲁·埃特·特农德——「最初而真实的父」——从自身神圣智慧中逐步显现。他展开脚底，直立起来，让头顶的花冠发光。随后被创造的第一批事物越过山海：灵魂之言的根基、对同类的爱、圣歌与神圣话语，先于可触摸的世界成立。对姆比亚而言，ayvu既是语言，也是从神而来的生命原则；人拥有名字，才真正获得一席存在。\n\n尼亚曼杜又创造其他神圣之父与其伴侣，让他们分别照管火焰、雾、雷与灵魂来源；共同撑开第一重天与最初大地。大地并非永久完成品，洪水或火可以毁去一次世界，神又展开新的土地。现代普及读物常把Ñamandu简化成「瓜拉尼最高神」，却忽略不同瓜拉尼社群有各自第一父称号与创世序列。《存在之根》本身也是长者在祈祷与仪式中说出的「美丽词语」，卡多甘的纸面记录只留下其中一次回声。尼亚曼杜最初创造的是让世界得以被说出、被爱、被歌唱的条件，物质尚在其后。",
+    "en": "Cadogan’s Ayvu Rapyta does not begin with clay or divine warfare. Within primordial darkness and a faint eternal radiance, Ñamandu Ru Ete Tenondé—the first and true father—gradually manifests from his own sacred wisdom. He unfolds the soles of his feet, stands, and lets the crown of his head shine. The first creations are not mountains and seas. The foundation of the soul-word, love of one’s fellows, sacred song, and divine speech are established before the tangible world. For the Mbya, ayvu is language and also a life principle proceeding from the divine. A person receives a true place in existence through a name.\n\nÑamandu creates other divine fathers and their companions to tend flame, mist, thunder, and the sources of human souls. Together they support the first heaven and first earth. Earth is not a permanently finished object: flood or fire can destroy one world before sacred power unfolds another. Popular summaries often reduce Ñamandu to “the supreme Guaraní god,” overlooking the distinct First Father titles and sequences of different Guaraní peoples. Ayvu Rapyta itself consists of “beautiful words” spoken by elders in prayer and ritual; Cadogan’s page preserves one echo of that living act. Ñamandu’s first creation is not matter. It is the condition that lets a world be spoken, loved, and sung."
+  },
+  "domains": { "zh": ["自生", "神圣言语", "创世"], "en": ["Self-manifestation", "Sacred speech", "Creation"] },
+  "related": ["karai", "jakaira", "tupa"],
+  "sources": [
+    { "zh": "莱昂·卡多甘《存在之根：瓜伊拉姆比亚瓜拉尼神话文本》（1959）", "en": "León Cadogan, Ayvu Rapyta: Textos míticos de los Mbyá-Guaraní del Guairá (1959)" },
+    { "zh": "埃莱娜·克拉斯特《没有恶的土地：图皮-瓜拉尼先知传统》（1975）", "en": "Hélène Clastres, La terre sans mal: le prophétisme tupi-guarani (1975)" },
+    { "zh": "格拉谢拉·查莫罗《瓜拉尼神学：词语》（2004）", "en": "Graciela Chamorro, Teología Guaraní: La palabra (2004)" }
+  ],
+  "geo": { "lat": -26.1, "lon": -54.6, "label": { "zh": "瓜伊拉与姆比亚传统区", "en": "Guairá and Mbya region" } },
+  "image": { "file": "/images/entries/namandu.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opy_mbya_guarani.jpg", "sourceTitle": "Mbya Guaraní opy prayer house (ritual context; not a portrait of Ñamandu)", "artist": "Veronica Romero Jachuka", "license": "CC BY-SA 4.0", "width": 1200, "height": 1600 }
+}

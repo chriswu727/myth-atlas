@@ -1,0 +1,19 @@
+{
+  "id": "sarimanok", "tradition": "philippine", "type": "creature", "era": "folk",
+  "name": { "zh": "萨里马诺克", "en": "Sarimanok", "original": "sarimanok", "originalLang": "马拉瑙语" },
+  "title": { "zh": "彩翼神鸟衔鱼而来，把上界的吉兆带进王屋", "en": "A Radiant Bird Carries the Upper World into the Royal House" },
+  "summary": { "zh": "马拉瑙艺术中衔鱼、饰以旋卷纹的祥鸟，连接王权、财富与上界讯息。", "en": "The radiant Maranao bird bearing a fish, an emblem of rank, fortune, and messages from the upper world." },
+  "description": {
+    "zh": "萨里马诺克张开层层卷曲的羽翼，喙或爪间常衔一条鱼，尾羽化成马拉瑙okir纹样的藤蔓与旋涡。它出现在王族房屋torogan的梁端、木雕、黄铜器与节庆装饰上，既是吉兆，也是身份与美的宣言。名称常被解释为sari（华服、斑斓）与manok（鸡、鸟）的组合，但图像远超过一只装饰公鸡：上界之鸟俯冲水面取鱼，把天空、陆地与湖泊串成一条垂直通道。\n\n流行叙事有时把它称为能与人交谈的神鸟，或与马拉瑙史诗《达兰根》中的王族与灵界相连；具体故事会随艺术家、家族与整理者改变。它更稳固的生命在图像而非一条固定剧情中。二十世纪，萨里马诺克成为菲律宾广播、建筑与国家设计反复采用的符号，也因此常被抽离马拉瑙社会，只剩「菲律宾吉祥鸟」的外壳。把鱼、okir与torogan放回画面，才能看见它原本的宇宙方向：这份光彩远离无根的异国趣味，它是拉瑙湖边一座屋宇向上界伸出的羽毛。",
+    "en": "The Sarimanok opens wings built from curling layers, carrying a fish in beak or claws while its tail becomes the vine and spiral of Maranao okir design. It appears on the projecting beams of royal torogan houses, in carving, brasswork, and festival display, at once an omen and a declaration of rank and beauty. The name is often explained through sari, splendid or many-colored, and manok, fowl or bird, yet the image exceeds a decorative rooster. A bird of the upper realm descends toward water and takes a fish, threading sky, earth, and lake along a single vertical path.\n\nPopular accounts sometimes make it a divine bird capable of human speech or connect it with royal and spirit worlds surrounding the Maranao epic Darangen. Particular stories change with artist, lineage, and collector. Its more stable life lies in image rather than one canonical plot. During the twentieth century the Sarimanok became a repeated symbol in Philippine broadcasting, architecture, and national design, often detached from Maranao society until only a generic “Filipino lucky bird” remained. Return fish, okir, and torogan to the composition and its original direction becomes visible. Splendor is no rootless exotic ornament. It is the feather a house beside Lake Lanao extends toward the upper world."
+  },
+  "domains": { "zh": ["吉兆", "王权", "上界"], "en": ["Omen", "Royal rank", "Upper world"] },
+  "related": ["bakunawa", "diwata", "bathala"],
+  "sources": [
+    { "zh": "纳古拉·马达莱《马拉瑙人：历史、艺术与传统》（1997）", "en": "Nagura Madale, The Maranaws: Dwellers of the Lake (1997)" },
+    { "zh": "菲律宾国家文化艺术委员会，马拉瑙okir与torogan资料", "en": "National Commission for Culture and the Arts, materials on Maranao okir and torogan" },
+    { "zh": "《达兰根》马拉瑙史诗口传传统", "en": "The Maranao oral epic tradition of the Darangen" }
+  ],
+  "geo": { "lat": 7.9, "lon": 124.3, "label": { "zh": "拉瑙湖与马拉瑙地区", "en": "Lake Lanao and Maranao region" } },
+  "image": { "file": "/images/entries/sarimanok.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarimanok_bird_of_Philippine_Folklore.jpg", "sourceTitle": "Sarimanok displayed at the Philippine Center, New York", "artist": "Unknown maker; photo by Rodsan18", "license": "CC BY-SA 2.0", "width": 1600, "height": 1490 }
+}

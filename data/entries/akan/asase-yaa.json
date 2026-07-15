@@ -1,0 +1,19 @@
+{
+  "id": "asase-yaa", "tradition": "akan", "type": "deity", "era": "ancient",
+  "name": { "zh": "阿萨瑟·亚", "en": "Asase Yaa", "original": "Asase Yaa", "originalLang": "阿坎语" },
+  "title": { "zh": "所有脚步都在她身上，所有亡者都回到她腹中", "en": "Every Footstep Rests on Her; Every Dead Returns Within" },
+  "summary": { "zh": "承受耕作、誓言与埋葬的大地之母；土地有禁日，因为她也必须休息。", "en": "Earth as mother of cultivation, oath, and burial, with sacred days on which the soil must rest." },
+  "description": {
+    "zh": "Asase意为大地，Yaa是按阿坎出生日命名法属于星期四的女性名；阿散蒂地区常以阿萨瑟·亚称呼大地，在芳蒂等地又见Asase Efua等形式。她没有远离人的高天宫殿，因为房屋、田地与墓穴都在她身上。播种前要以酒或水浇地，重大誓言可让人含土为证，埋葬则把身体交回这位母亲。杀戮与血落在地面也会构成污秽，需要仪式修复。她与尼亚梅常被并称为天与地，却不必被硬配成所有地区一致的神婚夫妻。\n\n大地拥有自己的休息日：阿散蒂许多地方在星期四不下田，其他阿坎社群的禁日可能不同。锄刃停下，承认供养者也有不可侵犯的节律。阿萨瑟·亚与生育、真话和祖先相连；人若对她发假誓，惩罚会从脚下而来。她很少被塑成一尊统一偶像，神圣性正存在于无处不在。人无法走出她的领土，只能在每次开垦、埋葬与饮下第一口新水时，再次询问土地是否愿意承受。",
+    "en": "Asase means earth, while Yaa is the female day-name associated with Thursday in Akan naming. In much of Asante country the earth is addressed as Asase Yaa; Fante and other Akan communities may use forms such as Asase Efua. She possesses no distant celestial palace because house, field, and grave all rest upon her. Before cultivation, water or drink may be poured to the soil. A grave oath can be sealed by touching or tasting earth, and burial returns the body to its mother. Bloodshed also stains the ground and may demand ritual repair. She and Nyame are often paired as earth and sky, though no single divine marriage should be forced across every Akan community.\n\nEarth has a day of rest. Many Asante localities avoid farm work on Thursday, while other Akan groups observe a different sacred day. Stillness of the hoe is not idleness but recognition that the provider has an inviolable rhythm. Asase Yaa is bound to fertility, truthful speech, and the ancestors; a false oath sworn upon her brings judgment from beneath the speaker’s feet. She is seldom contained in one standardized idol because her holiness lies in being everywhere. No person can walk beyond her territory. At each clearing, burial, and first pouring of water, people can only ask again whether the ground is willing to bear them."
+  },
+  "domains": { "zh": ["大地", "生育", "誓言"], "en": ["Earth", "Fertility", "Oaths"] },
+  "related": ["nyame", "abosom", "akua-ba"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿散蒂》（1923）", "en": "R. S. Rattray, Ashanti (1923)" },
+    { "zh": "科菲·阿萨雷·奥波库《西非传统宗教》（1978）", "en": "Kofi Asare Opoku, West African Traditional Religion (1978)" },
+    { "zh": "夸梅·吉克耶《非洲哲学思想论》（1987）", "en": "Kwame Gyekye, An Essay on African Philosophical Thought (1987)" }
+  ],
+  "geo": { "lat": 6.7, "lon": -1.6, "label": { "zh": "加纳阿散蒂地区", "en": "Asante region, Ghana" } },
+  "image": { "file": "/images/entries/asase-yaa.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Head_(Mma),_late_1600s_to_early_1700s,_Guinea_Coast,_Ghana,_Akan_people,_terracotta_-_Cleveland_Museum_of_Art_-_DSC08761.JPG", "sourceTitle": "Akan terracotta memorial head (earth and ancestor context; not a portrait of Asase Yaa)", "artist": "Unknown Akan artist; photo by Daderot", "license": "CC0", "width": 1199, "height": 1600 }
+}

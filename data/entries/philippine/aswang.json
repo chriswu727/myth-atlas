@@ -1,0 +1,19 @@
+{
+  "id": "aswang", "tradition": "philippine", "type": "creature", "era": "folk",
+  "name": { "zh": "阿斯旺", "en": "Aswang", "original": "aswang", "originalLang": "菲律宾诸语言" },
+  "title": { "zh": "一种名字，收拢黑夜里的所有恶名", "en": "One Name for a Night Full of Accusations" },
+  "summary": { "zh": "可指巫者、食尸者、变形兽或夜行猎手的恐惧总名，各地形貌与习性迥异。", "en": "An umbrella of fear covering witches, corpse-eaters, shape-shifters, and nocturnal predators." },
+  "description": {
+    "zh": "阿斯旺没有一份可以逐项核对的物种说明。米沙鄢、比科尔与其他地区用这个词指向不同的危险：白日里是普通邻人，夜间化成犬、猪或大鸟；以细长舌管吸食胎儿；偷走尸体并用香蕉茎做的替身换回棺木；或者只是一名被怀疑懂得伤人巫术的人。马纳南加尔常被纳入阿斯旺大类，却拥有自己分离躯干的鲜明形态。地方经验、天主教妖魔观与殖民医学不断叠加，让这个词变得比任何单一怪物更宽。\n\n故事最阴暗的部分也许不在变形，而在指认。一个过于孤僻的女人、拒绝共同生活的人、陌生的助产者，都可能被流言推入阿斯旺的名字；恐惧由此维持边界，也伤害真实的人。与此同时，蒜、盐、刺魟尾、倒置衣物与祷文构成家庭的夜间武库，鸡鸣则替黎明划线。卡皮斯省在大众文化中被称为阿斯旺之乡，电影与广播又把地方异闻塑成全国恐怖符号。这个名字能够活到今天，正因为它从未被一种脸固定：每个时代都把最难承认的饥饿，藏进它的胃里。",
+    "en": "Aswang has no species description that can be checked feature by feature. In the Visayas, Bicol, and elsewhere, the word points toward different dangers: a neighbor by day who becomes dog, pig, or great bird at night; a predator using a tubular tongue against the unborn; a corpse thief replacing the body in a coffin with a banana-stalk likeness; or a person accused of possessing harmful magic. The manananggal is often included within this broad class while retaining its distinctive divided body. Local experience, Catholic demonology, and colonial medicine accumulated around the term until it became wider than any one monster.\n\nThe darkest motion may be accusation rather than transformation. An isolated woman, a person refusing communal expectations, or an unfamiliar midwife could be pushed by rumor under the name aswang. Fear policed social boundaries and injured living people. Against it, households assembled an arsenal of garlic, salt, stingray tail, reversed clothing, and prayer, while the rooster drew a line toward dawn. Capiz became known in popular culture as an aswang homeland, and cinema and radio turned regional lore into a national horror emblem. The word survives because no face can contain it. Each era deposits the hunger it least wants to acknowledge inside the same unmeasured stomach."
+  },
+  "domains": { "zh": ["变形", "食尸", "巫术指控"], "en": ["Shape-shifting", "Corpse eating", "Witchcraft accusation"] },
+  "related": ["manananggal", "tikbalang", "kapre"],
+  "sources": [
+    { "zh": "伊莎贝洛·德洛斯雷耶斯《菲律宾民俗》（1889）", "en": "Isabelo de los Reyes, El folk-lore Filipino (1889)" },
+    { "zh": "马克西莫·拉莫斯《菲律宾下层神话生物》（1971）", "en": "Maximo D. Ramos, The Creatures of Philippine Lower Mythology (1971)" },
+    { "zh": "费内拉·坎内尔《基督教、权力与附魔》（1999）", "en": "Fenella Cannell, Power and Intimacy in the Christian Philippines (1999)" }
+  ],
+  "geo": { "lat": 11.4, "lon": 122.6, "label": { "zh": "卡皮斯与米沙鄢传说圈", "en": "Capiz and the Visayan lore region" } },
+  "image": { "file": "/images/entries/aswang.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aswang.jpg", "sourceTitle": "Contemporary Aswang illustration", "artist": "Microsoft Copilot image, uploaded to Wikimedia Commons", "license": "Public domain", "width": 1348, "height": 1600 }
+}

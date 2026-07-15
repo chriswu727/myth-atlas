@@ -1,0 +1,19 @@
+{
+  "id": "jasy-jatere", "tradition": "guarani", "type": "creature", "era": "folk",
+  "name": { "zh": "贾西·亚特雷", "en": "Jasy Jatere", "original": "Jasy Jatere", "originalLang": "瓜拉尼语" },
+  "title": { "zh": "正午最安静的时候，金杖与口哨来领走不睡的孩子", "en": "At the Stillest Hour of Noon, a Golden Staff Comes for the Wakeful Child" },
+  "summary": { "zh": "午睡时出没、以口哨诱走儿童的金发小灵；他的魔杖藏着魅惑与归路。", "en": "A fair-haired siesta spirit who lures children with a whistle, keeping enchantment and return in a golden staff." },
+  "description": {
+    "zh": "巴拉圭与阿根廷东北的故事说，贾西·亚特雷在午后最炽热、成年人都应休息时出现。他像一个金发或浅发的小男孩，赤裸或衣着简朴，手持金杖，吹出无法确定方向的口哨。不肯午睡、独自走进玉米地和林边的孩子会跟随声音离家；有人数日后回来，神志恍惚、不会说话，必须以仪式解开魅惑，另一些故事则没有归还。若夺走或折断他的杖，力量也会失去依附。\n\n流行的「陶与克拉娜七子」谱系把他列为其中一子，而且常说他是唯一外貌并不畸怪的孩子。这套整齐家谱主要经科尔曼1929年长诗与二十世纪民俗整理定型；贾西·亚特雷的午睡警告可能来自更广的口传层，却不等于一部共享古经。他把真实的炎热、蛇虫、迷路与儿童看护编成一段可听见的危险。正午的恐怖尤其特别：没有黑夜遮掩，世界亮得过分，影子缩在脚下，诱拐者仍能从最清楚的光里把路带走。",
+    "en": "Stories in Paraguay and northeastern Argentina place Jasy Jatere in the fiercest stillness of afternoon, when adults and children should be resting. He resembles a small fair- or golden-haired boy, naked or simply dressed, carrying a golden staff and producing a whistle whose direction cannot be fixed. A child who refuses the siesta and wanders toward maize or forest follows the sound away from home. Some return days later mute and disoriented, requiring ritual release from enchantment; other versions offer no return. If the staff is seized or broken, the power fastening the spell may also be lost.\n\nThe popular genealogy of Tau and Kerana’s seven children makes him one of the brothers and often the only one without a monstrous appearance. That orderly family was fixed above all by Colmán’s 1929 poem and twentieth-century folklore collections. The siesta warning may descend from a wider oral layer, but it does not amount to one ancient scripture shared by all Guaraní peoples. Jasy Jatere weaves heat, snakes, disorientation, and child care into an audible danger. Noon terror is peculiar: darkness provides no cover, the world is almost too bright, shadows contract beneath the feet, and an abductor can still remove the road from the clearest light."
+  },
+  "domains": { "zh": ["午睡", "诱拐", "魔杖"], "en": ["Siesta", "Abduction", "Enchanted staff"] },
+  "related": ["pombero", "kurupi", "teju-jagua"],
+  "sources": [
+    { "zh": "纳西索·科尔曼《我们的祖先》（1929）", "en": "Narciso R. Colmán, Ñande Ypy Kuéra (1929)" },
+    { "zh": "保罗·德·卡瓦略·内托《巴拉圭民俗》（1961）", "en": "Paulo de Carvalho Neto, Folklore del Paraguay (1961)" },
+    { "zh": "迪奥尼西奥·冈萨雷斯·托雷斯《巴拉圭民俗》（1980）", "en": "Dionisio González Torres, Folklore del Paraguay (1980)" }
+  ],
+  "geo": { "lat": -26.0, "lon": -56.2, "label": { "zh": "巴拉圭与阿根廷东北", "en": "Paraguay and northeastern Argentina" } },
+  "image": { "file": "/images/entries/jasy-jatere.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yasy_Yatere.JPG", "sourceTitle": "Jasy Jatere figure at Museo Mitológico Ramón Elías", "artist": "Museum artist; photo by Patty P", "license": "Public domain", "width": 1200, "height": 1600 }
+}

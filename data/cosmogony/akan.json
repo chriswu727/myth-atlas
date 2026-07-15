@@ -1,0 +1,63 @@
+{
+  "tradition": "akan",
+  "source": {
+    "zh": "R·S·拉特雷《阿散蒂》（1923）、《阿散蒂的宗教与艺术》（1927）、《阿坎-阿散蒂民间故事》（1930）；科菲·阿萨雷·奥波库《西非传统宗教》（1978）；夸梅·吉克耶《非洲哲学思想论》（1987）",
+    "en": "R. S. Rattray, Ashanti (1923), Religion and Art in Ashanti (1927), and Akan-Ashanti Folk-Tales (1930); Kofi Asare Opoku, West African Traditional Religion (1978); Kwame Gyekye, An Essay on African Philosophical Thought (1987)"
+  },
+  "note": {
+    "zh": "阿坎传统没有一部依次讲述混沌、造地、造人和末日的经典。尼亚梅与阿萨瑟·亚在故事开场时通常已经存在，叙事重心落在天为何变远、神灵如何进入河流与神龛、人格如何由多重灵性组成，以及故事怎样归阿南西所有。所以下列时间线保留「没有创世事件」的空格，把宇宙关系的建立排成比较顺序；它是研究性编排，不是阿坎讲述者会从头念到尾的一篇经文。阿散蒂、芳蒂、阿夸皮姆及其他阿坎社群的称名、禁日与神灵谱系各有差异。",
+    "en": "Akan tradition has no canonical sequence moving from chaos through land, humanity, and apocalypse. Nyame and Asase Yaa usually already exist when narrative begins. Stories concentrate on why the sky became distant, how divinity enters river and shrine, how personhood is composed from several spiritual inheritances, and how Ananse gained ownership of stories. The line below therefore preserves the absence of a material creation event and arranges the establishment of cosmic relationships for comparison. It is an analytical sequence, not a scripture an Akan teller would recite from beginning to end. Asante, Fante, Akuapem, and other Akan communities differ in divine names, sacred days, and shrine lineages."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "故事之前", "en": "Before narration" },
+      "title": { "zh": "没有被讲述的混沌：天与地已经在那里", "en": "No Narrated Chaos: Sky and Earth Are Already There" },
+      "text": {
+        "zh": "阿坎起源叙事通常不描写一片等待造形的虚无，也没有诸神从原初怪物尸身里建世界。尼亚梅的天与阿萨瑟·亚的大地在故事开场时已经构成上下两域，创造的具体工序留在叙事之外。这个沉默很重要：缺少一场宇宙工程，不等于缺少宇宙观。世界的意义将通过亲近、退离、誓言与神灵分枝逐步显现。",
+        "en": "Akan origin narrative generally does not describe a void waiting to be shaped, nor gods constructing the world from a primordial monster’s body. Nyame’s sky and the earth of Asase Yaa already form upper and lower regions when stories begin, while the mechanics of material creation remain outside narration. The silence matters. Absence of a cosmic engineering episode does not mean absence of cosmology. The world’s meaning appears through nearness, withdrawal, oath, and the branching of divine power."
+      },
+      "entries": ["nyame", "asase-yaa"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "天空退远", "en": "The sky withdraws" },
+      "title": { "zh": "舂杵一次次撞痛低垂的天，尼亚梅升到触不到的高处", "en": "A Pestle Strikes the Low Sky Until Nyame Rises Beyond Reach" },
+      "text": {
+        "zh": "从前天空低得伸手可触，人和尼亚梅之间没有今日的距离。一位老妇舂富富，杵端不断撞到天空；另一些版本说烟、脏手或被随意抛起的东西冒犯了神。尼亚梅终于抬高穹顶。天地分离由日常失礼造成，没有英雄劈开宇宙，也没有战争。这段故事把神的遥远解释成人自己制造的后果，同时保留雨、誓言与祈祷仍可跨越的通道。",
+        "en": "The sky once hung within reach and no present distance separated people from Nyame. An old woman pounding fufu repeatedly struck the low heaven with her pestle; other versions blame smoke, dirty hands, or objects carelessly thrown upward. Nyame raised the vault at last. Separation follows ordinary disrespect, without a hero splitting the cosmos or a divine war. The tale makes sacred distance a human consequence while preserving routes that rain, oath, and prayer can still cross."
+      },
+      "entries": ["nyame", "asase-yaa"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "力量分枝", "en": "Power branches" },
+      "title": { "zh": "河流、岩石与神龛接住从高天分下的阿博松", "en": "River, Rock, and Shrine Receive Branches of Sacred Power" },
+      "text": {
+        "zh": "具体世界由阿博松变得可交涉。塔诺与其他河神在水中有身体，也可经一瓶圣水、一块石或祭器分出新的神龛；地方共同体以禁日、颜色、鼓点与供物和它们建立历史。自然景物因此获得社会身份，神灵也因迁徙产生谱系。宇宙不是一次造完的静物，它随着新村落、新祭司和新的承诺继续长出支流。",
+        "en": "The inhabitable world becomes negotiable through the abosom. Tano and other river powers possess bodies in water and may branch into new shrines through sacred water, stone, or vessel. A local community builds history with them through forbidden days, colors, rhythms, and offerings. Landscape acquires social identity, while divinity gains genealogy through movement. The cosmos is no still object completed once; with new settlements, priests, and promises, it continues to grow tributaries."
+      },
+      "entries": ["abosom", "tano", "asase-yaa"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "人格降生", "en": "A person is assembled" },
+      "title": { "zh": "克拉从尼亚梅而来，血与灵性由父母谱系汇入", "en": "Kra Comes from Nyame While Blood and Spirit Enter through Lineage" },
+      "text": {
+        "zh": "阿坎思想中的人由多重成分相合：来自尼亚梅的kra承载生命与命运，mogya之血把人接入母系，sunsum的个体灵性常与父系传递相连，honam则是可见身体。术语解释因学者与社群而有差异，却共同拒绝把人缩成一颗孤立灵魂。出生是一场宇宙与家族的汇流，死亡也只是这些成分按不同道路分开。",
+        "en": "Akan accounts assemble a person from several components. Kra comes from Nyame and carries life and destiny; mogya, blood, places the person within the maternal lineage; individual sunsum is often associated with paternal transmission; honam is the visible body. Explanations differ among scholars and communities, yet together they resist reducing a person to one isolated soul. Birth is a confluence of cosmos and lineage, while death sends the components along different roads again."
+      },
+      "entries": ["nyame", "asase-yaa", "akua-ba"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "故事降到人间", "en": "Stories descend" },
+      "title": { "zh": "阿南西交出四件不可能的猎物，天上的故事从此在地上结网", "en": "Ananse Pays Four Impossible Captures and Stories Web the Earth" },
+      "text": {
+        "zh": "世间故事最初属于尼亚梅。阿南西以计谋捕来蟒蛇、豹、蜂与森林小灵，向天神付清价码，于是故事改称阿南西的故事。创世的最后一步不是造出新的物种，而是让世界获得讲述自己的能力。蜘蛛故事随大西洋奴隶贸易越海，在加勒比与美洲继续变化；每一次重讲，宇宙秩序都接受弱者的讥笑与检验。",
+        "en": "Stories first belonged to Nyame. Through stratagem Ananse captures python, leopard, hornets, and forest being, pays the sky god’s price, and causes tales to bear Spider’s name. The final movement creates no new species. It gives the world the capacity to speak about itself. Ananse stories crossed the Atlantic through enslavement and continued changing in the Caribbean and Americas. With every telling, cosmic and social order submit again to the laughter and scrutiny of the small."
+      },
+      "entries": ["anansi", "nyame", "mmoatia"]
+    }
+  ]
+}

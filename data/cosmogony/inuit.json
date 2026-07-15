@@ -1,0 +1,63 @@
+{
+  "tradition": "inuit",
+  "source": {
+    "zh": "弗朗茨·博厄斯《中央爱斯基摩人》（1888）；克努德·拉斯穆森《伊格卢利克爱斯基摩人的精神文化》（1929）、《内茨利克爱斯基摩人的社会生活与精神文化》（1931）；约翰·本内特、苏珊·罗利编《乌卡乌希乌克：努纳武特口述史项目》（2004）",
+    "en": "Franz Boas, The Central Eskimo (1888); Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos (1929) and The Netsilik Eskimos: Social Life and Spiritual Culture (1931); John Bennett and Susan Rowley, eds., Uqalurait: An Oral History of Nunavut (2004)"
+  },
+  "note": {
+    "zh": "这不是一则从头到尾流传的「因纽特创世史」，而是把加拿大与格陵兰记录中反复出现的几组起源母题排在同一条线上。因纽特诸社群语言、地理与故事谱系各不相同：有些地方由乌鸦使陆地与光出现，有些没有乌鸦创世；塞德娜在巴芬岛与格陵兰极重要，在阿拉斯加大部分地区却不是中心人物。下列阶段用于跨文化比较，不代表每位讲述者会把它们连成一篇，也不把尤皮克、伊努皮亚特与因纽特传统混成同一套神谱。",
+    "en": "This is not one Inuit creation story transmitted from beginning to end. It aligns recurring origin motifs recorded in Canada and Greenland. Inuit communities possess different languages, geographies, and narrative lineages: Raven brings land or light in some western accounts and is absent from other creations; the Sea Woman is central across Baffin Island and Greenland but not throughout most of Alaska. These stages are arranged for comparison and do not imply that a teller would join them into one narrative, nor do they collapse Yupik, Iñupiat, and Inuit traditions into a single pantheon."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "未定形的世界", "en": "An unfinished world" },
+      "title": { "zh": "海、天与黑暗已经存在，边界却尚未变硬", "en": "Sea, Sky, and Darkness Exist Before Boundaries Harden" },
+      "text": {
+        "zh": "许多起源故事不从绝对虚无开始。海、冰、天空与黑暗仿佛早已在那里，只是陆地、光和物种间的差别仍未固定。人可以与动物交谈，动物脱下皮便显出人的身份，名字与灵魂也能在死者和新生儿之间往返。创世不是一次从无到有的工程，更像世界逐渐学会区分形体，同时永远留下一些可以互换的缝隙。",
+        "en": "Many Arctic origin narratives do not begin from absolute nothingness. Sea, ice, sky, and darkness seem already present, while land, light, and the distinctions among species remain unsettled. Humans speak with animals; an animal removes its hide and reveals a person; names and souls pass between the dead and newborn children. Creation is less an engineering of something from nothing than a world gradually learning stable forms while preserving narrow passages through which those forms can still change."
+      },
+      "entries": ["sila", "tariaksuq"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "陆地与光", "en": "Land and light" },
+      "title": { "zh": "乌鸦把泥从海底带起，也把光从容器里放出", "en": "Raven Raises Mud and Releases Light" },
+      "text": {
+        "zh": "在部分阿拉斯加与西北北极传统里，乌鸦从海底取泥、让陆地长大，或偷开藏住日月星辰的容器，使长夜第一次有了方向。别处讲述会把这些工作交给别的文化英雄，或者根本没有同一段事件。本时间线保留乌鸦母题，只把它标为跨极地西部的一支，不让一个著名故事覆盖东部海岸的沉默。",
+        "en": "In some Alaskan and western Arctic traditions, Raven brings mud from beneath the sea and lets land expand, or opens a container in which sun, moon, and stars have been withheld, giving direction to the long dark. Other communities assign such work to different culture heroes or possess no matching episode. The timeline keeps the Raven motif as one western branch of a circumpolar narrative field, without allowing a famous story to speak over the silence of eastern coasts."
+      },
+      "entries": ["raven"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "人成为人", "en": "Becoming human" },
+      "title": { "zh": "身体从土、雪或动物关系中获得，名字把灵魂安置其中", "en": "Bodies Come from Earth or Relation; Names Seat the Soul" },
+      "text": {
+        "zh": "西部一些故事让乌鸦用泥或植物造人，东部材料则更常把人类起源散在不同祖先与动物婚配故事里。比统一的第一对男女更稳定的，是名字与人格的延续：新生儿接受亡亲之名，也继承某些称谓、关系与期待。一个身体降生，并不自动成为孤立的新个体；名字把此前活过的人重新安置在营地之中。",
+        "en": "Some western stories have Raven shape people from earth or vegetation, while eastern records more often distribute human origins among separate ancestors and marriages with animals. More persistent than one universal first couple is continuity through naming. A newborn receives the name of a deceased relation and with it particular forms of address, relationship, and expectation. A body’s birth does not automatically produce an isolated new individual; a name seats someone who has lived before within the camp again."
+      },
+      "entries": ["sila"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "海女下沉", "en": "The Sea Woman descends" },
+      "title": { "zh": "砍落的手指变成海豹、鲸与海象", "en": "Severed Fingers Become Seal, Whale, and Walrus" },
+      "text": {
+        "zh": "在巴芬岛、加拿大中部北极与格陵兰的诸版本里，海女被父亲抛入风暴，攀船的手指遭逐节砍断。骨节落水，化成维持人类生存的海兽；她沉到海底，成为兽群与部分死者的主人。世界的丰饶由一次亲属背叛产生，因此食物从来不无条件。每一场捕猎都继续面对这道尚未愈合的伤口。",
+        "en": "Across versions from Baffin Island, the central Canadian Arctic, and Greenland, the Sea Woman is thrown into a storm by her father and loses the fingers gripping his boat. The joints fall into water and become the marine animals that sustain human life; she sinks below and becomes keeper of the animals and, in some places, of the dead. Abundance begins in an act of betrayal, so food is never unconditional. Every hunt continues to face a wound that has not closed."
+      },
+      "entries": ["sedna"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "关系必须更新", "en": "Relations must be renewed" },
+      "title": { "zh": "禁忌缠住海母的头发，萨满在黑暗中替人认错", "en": "Taboo Tangles Her Hair; the Shaman Descends to Repair It" },
+      "text": {
+        "zh": "人破坏分肉、狩猎、出生与死亡的规矩，过错会缠进塞德娜的头发，她便扣住海兽。安加库克越过海底为她梳理，营地坦白犯忌，关系才重新流动。这不是已经结束的创世尾声：冰况、猎物与人的行为每年都让世界面临失衡。创世得以延续，靠的不是永恒秩序，而是一次又一次修复。",
+        "en": "When rules governing meat, hunting, birth, and death are broken, the offenses knot themselves into the Sea Woman’s hair and she withholds game. An angakkuq journeys below to comb it while the camp admits the violation, allowing relation to move again. This is not an epilogue after creation has ended. Ice, animals, and human conduct expose the world to imbalance every year. Creation continues through repair repeated again and again, not through an order made permanent once."
+      },
+      "entries": ["sedna", "sila", "nanook"]
+    }
+  ]
+}

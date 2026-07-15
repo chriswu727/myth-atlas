@@ -1,0 +1,19 @@
+{
+  "id": "ijiraq", "tradition": "inuit", "type": "creature", "era": "folk",
+  "name": { "zh": "伊吉拉克", "en": "Ijiraq", "original": "ᐃᔨᕋᖅ", "originalLang": "因纽特语" },
+  "title": { "zh": "眼睛看见它时，道路已经改变", "en": "By the Time the Eye Finds It, the Road Has Changed" },
+  "summary": { "zh": "能变化形体并扰乱方向感的荒野存在；被它带走的人会遗忘归路。", "en": "A shape-changing wilderness being that bends direction and leaves the taken unable to remember home." },
+  "description": {
+    "zh": "伊吉拉克出现在远离聚落的石地、山丘与无人营地边缘。它可以披上人、驯鹿或任何熟悉之物的样子，唯有眼睛仍显得横斜，像从人眼外侧望来。旅人若追随一个看似认识的身影，地标会在不知不觉间交换位置，罗盘也无法解释为何营地从世界上消失。被带走的孩子或猎人即使归来，常说不清经过；有些讲述说，伊吉拉克会让记忆像风吹雪一样覆平。\n\n它与塔里亚克苏克常被混称，但不少讲者区分二者：影人有近似人类的社会，只怕被正眼看见；伊吉拉克更接近一位主动的变形者与诱拐者。努纳武特剑桥湾以北的佩利山又被当作它们出没的地点之一，山本身因此获得了地图之外的第二层坐标。故事的恐怖不靠血腥，而靠认知失效：极地旅行仰赖天光、风纹与记忆，一旦「熟悉」本身开始说谎，辽阔就会立刻合拢成牢笼。",
+    "en": "The ijiraq appears among stone fields, hills, and abandoned camps far from settlement. It may wear the shape of a person, a caribou, or anything familiar, while the eyes remain strangely set, seeming to look from the outer side of a human gaze. A traveler following a recognized figure discovers that landmarks have traded places and that no compass can explain why camp has vanished from the world. Children or hunters taken away may return unable to give a full account. In some tellings the ijiraq smooths memory as wind smooths tracks under new snow.\n\nIt is often confused with the tariaksuq, but many tellers distinguish them. Shadow people resemble a hidden human society and fear direct sight; the ijiraq is an active shape-shifter and abductor. Mount Pelly north of Cambridge Bay has become one of the places associated with such beings, giving the mountain a second coordinate beyond the map. The horror requires no gore. Arctic travel depends upon sky light, snow pattern, wind, and remembered relation. Once familiarity itself begins to lie, the immense open land closes at once into a prison."
+  },
+  "domains": { "zh": ["变形", "迷途", "失忆"], "en": ["Shape-shifting", "Lost paths", "Memory loss"] },
+  "related": ["tariaksuq", "qallupilluit", "sila"],
+  "sources": [
+    { "zh": "因纽特口传传统（基蒂克美奥特与巴芬地区版本）", "en": "Inuit oral traditions from Kitikmeot and Baffin regions" },
+    { "zh": "约翰·本内特、苏珊·罗利编《乌卡乌希乌克：努纳武特口述史项目》（2004）", "en": "John Bennett and Susan Rowley, eds., Uqalurait: An Oral History of Nunavut (2004)" },
+    { "zh": "尼尔·克里斯托弗《因纽特神话与传说》（2011）", "en": "Neil Christopher, Inuit Myths and Legends (2011)" }
+  ],
+  "geo": { "lat": 69.4, "lon": -105.1, "label": { "zh": "佩利山附近", "en": "Near Mount Pelly" } },
+  "image": { "file": "/images/entries/ijiraq.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Pelly_1998-06-28.jpg", "sourceTitle": "Mount Pelly, associated in modern accounts with ijirait", "artist": "Ansgar Walk", "license": "CC BY-SA 2.5", "width": 1600, "height": 1047 }
+}

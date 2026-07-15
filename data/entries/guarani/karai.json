@@ -1,0 +1,19 @@
+{
+  "id": "karai", "tradition": "guarani", "type": "deity", "era": "ancient",
+  "name": { "zh": "卡拉伊", "en": "Karaí", "original": "Karaí Ru Ete", "originalLang": "姆比亚瓜拉尼语" },
+  "title": { "zh": "圣火之父守着世界的热，也守着毁灭世界的火", "en": "Father of Sacred Flame Guards Both Warmth and World-Ending Fire" },
+  "summary": { "zh": "姆比亚创世圣歌中的真父之一，掌火焰与太阳之热；温暖和灾火同出一源。", "en": "One of the Mbya true fathers, keeper of flame and solar heat, source of warmth and catastrophic fire." },
+  "description": {
+    "zh": "尼亚曼杜建立神圣言语之后，创造卡拉伊·鲁·埃特与其神圣伴侣，使他们成为火焰一路的父母。Karaí在现代瓜拉尼语里也可作尊称或指宗教领袖，殖民时期又被用于称呼西班牙人；这些历史含义不能直接倒回神话人物。圣歌里的卡拉伊更接近一股有父名的宇宙职责：守护火、太阳热力与净化之力，让寒冷的大地可以居住，也让仪式中的烟与光打开通往诸父的道路。\n\n同一股火也可能成为世界的终结。图皮-瓜拉尼诸传统多有第一大地遭洪水、烈火或二者相继毁灭的讲述，细节随社群而变；卡拉伊的力量由此兼有养护与审判。火无法被锁进一张固定的善神肖像，它是一份必须正确维系的关系：炉火煮熟食物，圣火照亮祈祷屋，失控之火则把一代大地化成灰。把卡拉伊与基督教圣人或「太阳神」简单等同，都会丢失这种双面性。他守在火焰里，提醒世界：温暖之所以珍贵，正因它从未失去烧毁一切的能力。",
+    "en": "After establishing sacred speech, Ñamandu creates Karaí Ru Ete and his divine companion as parents within the lineage of flame. In modern Guaraní, karaí can also serve as an honorific or designate a religious leader; during colonial history it was applied to Spaniards as well. Those later social meanings cannot simply be projected backward onto the divine figure. In sacred song, Karaí is closer to a cosmic responsibility bearing a father’s name: guardian of fire, solar heat, and purification, making a cold earth habitable while ritual smoke and light open a route toward the divine fathers.\n\nThe same fire can end a world. Tupi-Guaraní traditions contain varied accounts in which a first earth is destroyed by flood, flame, or both in sequence. Karaí’s power therefore joins nurture to judgment. Fire is not the portrait of a consistently benevolent god but a relation that must be maintained correctly. Hearth flame cooks food; sacred flame illuminates the prayer house; unbounded flame reduces an age of earth to ash. Equating Karaí with either a Christian saint or a simple “sun god” loses this double edge. He remains within flame to remind the world that warmth is precious because it has never surrendered its ability to destroy everything."
+  },
+  "domains": { "zh": ["圣火", "太阳热力", "净化"], "en": ["Sacred fire", "Solar heat", "Purification"] },
+  "related": ["namandu", "jakaira", "tupa"],
+  "sources": [
+    { "zh": "莱昂·卡多甘《存在之根》（1959）", "en": "León Cadogan, Ayvu Rapyta (1959)" },
+    { "zh": "库尔特·尼穆恩达茹《阿帕波库瓦瓜拉尼人的创世与灭世传说》（1914）", "en": "Curt Nimuendajú, Die Sagen von der Erschaffung und Vernichtung der Welt... (1914)" },
+    { "zh": "格拉谢拉·查莫罗《瓜拉尼神学：词语》（2004）", "en": "Graciela Chamorro, Teología Guaraní: La palabra (2004)" }
+  ],
+  "geo": { "lat": -26.1, "lon": -54.6, "label": { "zh": "姆比亚瓜拉尼传统区", "en": "Mbya Guaraní region" } },
+  "image": { "file": "/images/entries/karai.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parede_da_casa_de_rezas.jpg", "sourceTitle": "Interior of a Guaraní prayer house (ritual context; not a portrait of Karaí)", "artist": "Ana Carolina Renz Peterson", "license": "CC BY-SA 4.0", "width": 1600, "height": 1200 }
+}

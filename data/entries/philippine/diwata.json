@@ -1,0 +1,19 @@
+{
+  "id": "diwata", "tradition": "philippine", "type": "spirit", "era": "ancient",
+  "name": { "zh": "迪瓦塔", "en": "Diwata", "original": "diwata / divata", "originalLang": "菲律宾诸语言" },
+  "title": { "zh": "神、祖灵与山林主人，共住在一个古老词里", "en": "Deity, Ancestor, and Forest Keeper Within One Ancient Word" },
+  "summary": { "zh": "群岛多地对神灵与自然主人的称呼；可赐丰收、治病，也会因闯入与失礼降罚。", "en": "A widespread name for deities and place-spirits who heal and bless, yet punish intrusion and neglect." },
+  "description": {
+    "zh": "diwata与梵语devatā同源，经东南亚海路进入菲律宾语言；然而词源相近，不等于各岛信奉同一族神。在米沙鄢早期记录里，divata可以指受祭的神力、祖灵，也指向它举行的仪式；在巴拉望、棉兰老与吕宋部分地区，迪瓦塔又是山、树、泉水或稻田的主人。它们可能貌美如人，也可能完全无形，通过梦、疾病、丰收与猎物是否出现表明意志。祭司或巴巴伊兰献上米酒、槟榔、鸡与歌舞，请它们恢复人与地方的关系。\n\n殖民传教士常把迪瓦塔译成偶像、妖魔或仙女，现代流行文化又偏爱把它们统一画成有翅膀的白衣女性。这两种框架都缩窄了原词。迪瓦塔可以是高位神名，也可以只是某块岩石不容冒犯的主人；可以护佑家族，也能让轻慢者发热、迷路或失去收成。经过古树、洞穴与土丘时低声说tabi-tabi po，承认土地已有关系与记忆，远离向童话精灵卖萌的轻浮。群岛上的诸灵没有一张共同面孔，它们共享的是一句边界宣言：人类来到之前，这里已经有人在。",
+    "en": "Diwata is cognate with Sanskrit devatā and reached Philippine languages through wider Southeast Asian exchange. Shared etymology does not mean that every island worshiped one family of gods. In early Visayan records, divata could name a sacred power, an ancestor spirit, or the rite conducted for it. In Palawan, Mindanao, and parts of Luzon, diwata may be owners of mountains, trees, springs, or rice fields. Some appear beautifully human and others remain invisible, disclosing will through dreams, illness, harvest, and the presence or refusal of game. A ritual specialist or babaylan offers rice wine, betel, fowl, song, and dance to repair relations between people and place.\n\nMissionaries often translated diwata as idol, demon, or fairy; modern fantasy prefers to give every one of them wings and a white dress. Both frames narrow the word. A diwata may be a high divine name or simply the owner whom one rock must not offend. It may guard a lineage or answer disrespect with fever, lost paths, and failed crops. Whispering tabi-tabi po beside an old tree, cave, or mound is no playful address to a storybook sprite. It acknowledges that land already possesses memory and relationship. The spirits of the archipelago share no single face. What they share is a boundary spoken quietly: someone was here before humankind arrived."
+  },
+  "domains": { "zh": ["地方神灵", "祖灵", "丰收"], "en": ["Place spirits", "Ancestors", "Fertility"] },
+  "related": ["bathala", "kapre", "tikbalang"],
+  "sources": [
+    { "zh": "米格尔·德·洛阿尔卡《菲律宾群岛关系记》（1582）", "en": "Miguel de Loarca, Relación de las Yslas Filipinas (1582)" },
+    { "zh": "威廉·亨利·斯科特《描绘裂缝：菲律宾前殖民史料研究》（1982）", "en": "William Henry Scott, Cracks in the Parchment Curtain (1982)" },
+    { "zh": "F·兰达·霍卡诺《菲律宾神话纲要》（1969）", "en": "F. Landa Jocano, Outline of Philippine Mythology (1969)" }
+  ],
+  "geo": { "lat": 10.9, "lon": 122.6, "label": { "zh": "菲律宾群岛多地", "en": "Across the Philippine archipelago" } },
+  "image": { "file": "/images/entries/diwata.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:BathalaDiwataPhilippinemythology.jpg", "sourceTitle": "Modern Philippine mythological illustration (related visual tradition)", "artist": "Rodsan18 (Dragonbite)", "license": "CC BY-SA 1.0", "width": 1233, "height": 1600 }
+}

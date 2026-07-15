@@ -1,0 +1,19 @@
+{
+  "id": "akua-ba", "tradition": "akan", "type": "artifact", "era": "folk",
+  "name": { "zh": "阿库阿芭", "en": "Akua’ba", "original": "akua’ba", "originalLang": "阿坎语" },
+  "title": { "zh": "她先把木头当女儿背在身后，命运才给木头一颗心", "en": "She Carried Wood as a Daughter Until Fate Gave the Image a Heart" },
+  "summary": { "zh": "源自阿库阿求子传说的圆首木像；被照料、背负并献还神龛，以祈愿生育安康。", "en": "The round-headed fertility figure carried and cared for after Akua’s legendary prayer for a child." },
+  "description": {
+    "zh": "传说阿库阿久未得子，祭司让她请人雕一个小女孩，像照顾真婴一样背在背上、喂养、洗浴、佩戴珠饰。邻人讥笑这根木头，叫它「阿库阿的孩子」——akua’ba；她仍按仪礼相待，后来终于生下健康的女儿。嘲笑她的人开始仿效，名字也从笑语变成一种祈愿器物。圆盘般的大头、高额、细颈与颈环表现阿坎关于美、健康和智慧的理想，女性形象又与母系家族延续相连。\n\n木像经祭司祝圣后才进入具体关系。求子者把它贴身背负，成功生产后可送回神龛作答谢，也可能留在家中纪念孩子；用途还包括护孕、求健康与训练女孩照料婴儿。西方收藏史一度把它们统称「生育娃娃」，仿佛任何一件相似雕刻都自动具有魔力。阿库阿芭的力量来自故事、祝圣、照护与承诺共同组成的过程。人们从未混淆木与肉；把木头当作孩子，是让祈愿先在身体上练习成为现实。",
+    "en": "A woman named Akua could not conceive. A priest instructed her to commission a small female figure and treat it as a living infant: carry it on her back, feed and wash it, and give it beads. Neighbors mocked the wooden child as Akua’ba, “Akua’s child,” but she maintained the observance and eventually bore a healthy daughter. Others adopted the practice, and the taunt became the name of an object of prayer. The large disk-shaped head, high forehead, slender neck, and rings of flesh express Akan ideals of beauty, health, and wisdom. Female form also serves continuity in a matrilineal society.\n\nA figure enters a particular relationship only after consecration by a priest. A petitioner carries it close to the body. After a successful birth it may be returned to the shrine in thanks or kept within the family as remembrance; related uses include protection in pregnancy, hope for health, and teaching girls to care for infants. Western collecting long reduced the works to “fertility dolls,” as though every similar carving automatically contained magic. Akua’ba power emerges from story, consecration, care, and promise acting together. Wood is treated as a child not because anyone mistakes timber for flesh, but because a prayer must first practice becoming real upon the body."
+  },
+  "domains": { "zh": ["求子", "母系延续", "木雕"], "en": ["Fertility", "Matrilineal continuity", "Carved figure"] },
+  "related": ["asase-yaa", "abosom", "nyame"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿散蒂》（1923）", "en": "R. S. Rattray, Ashanti (1923)" },
+    { "zh": "大都会艺术博物馆〈阿库阿芭像〉藏品释文", "en": "The Metropolitan Museum of Art, Akua’ba figure collection essays" },
+    { "zh": "赫伯特·科尔、道兰·罗斯《加纳的艺术》（1977）", "en": "Herbert M. Cole and Doran H. Ross, The Arts of Ghana (1977)" }
+  ],
+  "geo": { "lat": 6.7, "lon": -1.6, "label": { "zh": "阿散蒂地区", "en": "Asante region" } },
+  "image": { "file": "/images/entries/akua-ba.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vruchtbaarheidspop_(akua-ba),_asset_GMi6UBsoilPhbtLKrIuAvlHU.jpg", "sourceTitle": "Akan akua’ba fertility figure", "artist": "Unknown Akan artist", "license": "CC0", "width": 923, "height": 1600 }
+}

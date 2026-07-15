@@ -1,0 +1,19 @@
+{
+  "id": "bakunawa", "tradition": "philippine", "type": "creature", "era": "folk",
+  "name": { "zh": "巴库纳瓦", "en": "Bakunawa", "original": "Bakunawa", "originalLang": "米沙鄢诸语言" },
+  "title": { "zh": "当月亮被咬暗，整座村庄便用声浪迎战", "en": "When the Moon Is Bitten Dark, the Village Fights with Noise" },
+  "summary": { "zh": "米沙鄢与邻近地区吞噬月亮的巨蛇；锅盆、锣鼓和喊声迫使它松口。", "en": "The moon-swallowing serpent driven away by a community’s gongs, pans, and shouts." },
+  "description": {
+    "zh": "月食开始时，海与天之间仿佛有一张巨口合拢。米沙鄢与菲律宾中部多地把吞月者称为巴库纳瓦，形如蛇、龙或海中大物；家家敲锅、击锣、放声喊叫，逼它吐出月亮。这个仪式不是安静观测天象：声音把分散的人召到同一场宇宙危机里，黑影退去便成为全村共同夺回的光。北萨马卡普尔岛的阿巴克农人至今仍把月食与名为bakunawa的蛇相连，并保留孕妇在食甚期间不得进出屋舍的禁忌。\n\n现代重述常说天空原有七轮月，巴库纳瓦因迷恋其光而逐一吞食，只剩最后一轮由人守住；这个优美的完整周期主要见于较晚整理，不能当作所有地区共有的远古文本。早期西班牙词典与民俗记录更稳定地保存了「食月」与制造巨响两件事。巴库纳瓦后来进入纹样、游戏与民族奇幻，时而成为灾兽，时而被重写为受伤的守护者。无论形象如何改变，它总在月面最暗的一刻提醒人：天上的光也会需要地上众人的声音。",
+    "en": "As an eclipse begins, an immense mouth seems to close between sea and sky. Across the Visayas and nearby regions the swallower is called Bakunawa, imagined as serpent, dragon, or vast marine being. Households strike pots and gongs and raise their voices until it spits the moon out. This is no silent observation of astronomy. Noise gathers scattered people into one cosmic emergency, and the retreating shadow becomes light won back by the entire settlement. Among the Abaknon of Capul Island in Northern Samar, lunar eclipse is still associated with a serpent called bakunawa, alongside cautions that pregnant women should not cross a threshold during the event.\n\nModern retellings often give the sky seven moons and have Bakunawa consume six out of desire for their beauty, leaving a final moon guarded by human noise. That elegant cycle is most visible in later synthesis and cannot stand as an ancient text shared by every community. Earlier dictionaries and folklore records preserve two more stable elements: the eating of the moon and the making of tremendous sound. Bakunawa now moves through design, games, and national fantasy, alternately disaster and wounded guardian. Whatever form it takes, it returns at the darkest face of the moon to remind the earth that celestial light may still require human voices."
+  },
+  "domains": { "zh": ["月食", "海蛇", "仪式声响"], "en": ["Lunar eclipse", "Sea serpent", "Ritual noise"] },
+  "related": ["bathala", "sarimanok", "diwata"],
+  "sources": [
+    { "zh": "米格尔·德·洛阿尔卡《菲律宾群岛关系记》（1582）及早期米沙鄢词汇资料", "en": "Miguel de Loarca, Relación de las Yslas Filipinas (1582), and early Visayan vocabularies" },
+    { "zh": "菲律宾国家博物馆〈阿巴克农人与他们的世界观〉（2021）", "en": "National Museum of the Philippines, “Abaknon and their view of the world” (2021)" },
+    { "zh": "马克西莫·拉莫斯《菲律宾下层神话生物》（1971）", "en": "Maximo D. Ramos, The Creatures of Philippine Lower Mythology (1971)" }
+  ],
+  "geo": { "lat": 11.0, "lon": 124.0, "label": { "zh": "米沙鄢海域", "en": "Visayan seas" } },
+  "image": { "file": "/images/entries/bakunawa.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acropoclipse.jpg", "sourceTitle": "Composite lunar eclipse (the event associated with Bakunawa; not a depiction)", "artist": "Elias Politis", "license": "CC BY-SA 3.0", "width": 1600, "height": 1065 }
+}
