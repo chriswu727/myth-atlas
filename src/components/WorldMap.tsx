@@ -323,10 +323,10 @@ export default function WorldMap({
     <div className="world-map-shell">
       <div className="map-command-bar">
         <div className="map-legend" aria-hidden="true">
-          <span><i className="map-legend-field" />{locale === "zh" ? "神话色域" : "mythic field"}</span>
+          <span><i className="map-legend-node" />{locale === "zh" ? "神话源点" : "mythic beacon"}</span>
           <span><i className="map-legend-pin" />{locale === "zh" ? "传说坐标" : "legendary site"}</span>
         </div>
-        <p>{locale === "zh" ? "择一片色域，唤醒其下沉眠的神话" : "Choose a field and awaken the myth beneath"}</p>
+        <p>{locale === "zh" ? "循一枚微光，唤醒其下沉眠的神话" : "Follow a glimmer and awaken the myth beneath"}</p>
         <div className="map-controls" aria-label={locale === "zh" ? "神话图卷缩放" : "Map zoom controls"}>
           <button type="button" onClick={() => zoomBy(1 / 1.45)} aria-label={locale === "zh" ? "缩小神话图卷" : "Zoom out"}>
             <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10" /></svg>
@@ -424,9 +424,6 @@ export default function WorldMap({
               const anchorOffset = anchorOffsets.get(tradition.id) ?? { x: 0, y: 0 };
               const active = activeTid === tradition.id;
               const selected = selectedTid === tradition.id;
-              const fieldAngle = (index * 47) % 120 - 60;
-              const fieldWidth = 29 + index % 4 * 2;
-              const fieldHeight = 19 + index % 3 * 2;
               return (
                 <g
                   key={tradition.id}
@@ -461,34 +458,36 @@ export default function WorldMap({
                     <g transform={`translate(${anchorOffset.x},${anchorOffset.y})`}>
                       <circle r="22" fill="transparent" />
                       <g
-                        className="map-anchor-field"
+                        className="map-anchor-node"
                         data-active={active ? "true" : "false"}
                         style={{
-                          animationDelay: `${-index * 0.37}s`,
-                          animationDuration: `${5.2 + index % 5 * 0.45}s`,
-                          filter: active ? `drop-shadow(0 0 7px ${tradition.color})` : undefined,
+                          animationDelay: `${-index * 0.31}s`,
+                          animationDuration: `${4.8 + index % 5 * 0.42}s`,
+                          filter: active ? `drop-shadow(0 0 8px ${tradition.color})` : undefined,
                         }}
                       >
-                        <rect
-                          x={-fieldWidth / 2}
-                          y={-fieldHeight / 2}
-                          width={fieldWidth}
-                          height={fieldHeight}
-                          rx="6"
-                          transform={`rotate(${fieldAngle})`}
-                          fill={tradition.color}
-                          className="map-anchor-field-wash"
+                        <circle
+                          r="11"
+                          fill="none"
+                          stroke={active ? tradition.color : "#d4c59e"}
+                          strokeWidth="0.9"
+                          strokeDasharray="9 61"
+                          strokeLinecap="round"
+                          className="map-anchor-orbit"
+                          style={{
+                            animationDelay: `${-index * 0.53}s`,
+                            animationDuration: `${9 + index % 6 * 0.8}s`,
+                          }}
                         />
-                        <rect
-                          x={-fieldHeight * 0.42}
-                          y={-fieldWidth * 0.36}
-                          width={fieldHeight * 0.84}
-                          height={fieldWidth * 0.72}
-                          rx="5"
-                          transform={`rotate(${fieldAngle + 38})`}
-                          fill={tradition.color}
-                          className="map-anchor-field-core"
+                        <circle
+                          r="5.5"
+                          fill={active ? `${tradition.color}32` : "rgba(215, 200, 163, 0.08)"}
+                          stroke={active ? tradition.color : "rgba(220, 205, 168, 0.68)"}
+                          strokeWidth="0.7"
+                          className="map-anchor-halo"
                         />
+                        <circle r={active ? 2.7 : 2.15} fill={active ? tradition.color : "#dbc78f"} className="map-anchor-core" />
+                        <circle cx="9.4" cy="-2.4" r="1" fill={active ? tradition.color : "#e1d3ac"} className="map-anchor-satellite" />
                       </g>
                       <text
                         x={tweak.dx ?? 12}
@@ -530,7 +529,7 @@ export default function WorldMap({
       <aside className={`map-inspector ${activeTradition ? "is-active" : ""}`} aria-live="polite">
         {activeTradition ? (
           <>
-            <span className="map-inspector-sigil" style={{ backgroundColor: activeTradition.color }} />
+            <span className="map-inspector-sigil" style={{ color: activeTradition.color }} />
             <div>
               <p>{locale === "zh" ? "已唤醒的神域" : "AWAKENED REALM"}</p>
               <strong>{activeTradition.label}</strong>
@@ -549,7 +548,7 @@ export default function WorldMap({
             <div>
               <p>{locale === "zh" ? "图卷静候指引" : "THE ATLAS AWAITS"}</p>
               <strong>{locale === "zh" ? "选择一方古域" : "Choose an ancient realm"}</strong>
-              <span>{locale === "zh" ? "色域之下皆有古老回声；俯近大地，可见传说坐标" : "Each field carries an ancient echo; draw close to uncover legendary sites"}</span>
+              <span>{locale === "zh" ? "微光所系，皆是一方古老回声；俯近大地，可见传说坐标" : "Each glimmer binds an ancient echo; draw close to uncover legendary sites"}</span>
             </div>
           </>
         )}

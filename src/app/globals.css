@@ -660,16 +660,15 @@ h1, h2, h3, h4 {
   gap: 0.48rem;
 }
 
-.map-legend-field,
-.map-inspector-sigil {
+.map-legend-node {
   display: block;
-  width: 0.75rem;
-  height: 0.75rem;
+  width: 0.42rem;
+  height: 0.42rem;
+  margin-inline: 0.16rem;
   flex: 0 0 auto;
-  background: #bd493b;
-  border-radius: 38% 62% 46% 54% / 58% 42% 58% 42%;
-  box-shadow: 0 0 0.65rem rgba(189, 73, 59, 0.42);
-  transform: rotate(-12deg);
+  border-radius: 999px;
+  background: #dbc78f;
+  box-shadow: 0 0 0 3px rgba(219, 199, 143, 0.15), 0 0 0.72rem rgba(219, 199, 143, 0.55);
 }
 
 .map-legend-pin {
@@ -756,27 +755,38 @@ h1, h2, h3, h4 {
   outline: none;
 }
 
-.map-anchor-field {
-  animation: mapFieldBreath 6s ease-in-out infinite;
-  opacity: 0.64;
-  transition: filter 240ms ease, opacity 240ms ease;
+.map-anchor-node {
+  animation: mapNodeBreath 5.6s ease-in-out infinite;
+  opacity: 0.68;
+  transform-box: fill-box;
+  transform-origin: center;
+  transition: filter 240ms ease, opacity 240ms ease, transform 240ms cubic-bezier(0.2, 0.75, 0.2, 1);
 }
 
-.map-anchor-field-wash {
-  opacity: 0.38;
-  stroke: rgba(255, 248, 233, 0.5);
-  stroke-width: 0.65;
+.map-anchor-orbit {
+  animation: mapOrbitDrift 11s linear infinite;
+  opacity: 0.46;
 }
 
-.map-anchor-field-core {
-  opacity: 0.72;
+.map-anchor-halo {
+  transition: fill 240ms ease, stroke 240ms ease;
 }
 
-.map-tradition-anchor:hover .map-anchor-field,
-.map-tradition-anchor:focus .map-anchor-field,
-.map-tradition-anchor[aria-pressed="true"] .map-anchor-field {
-  animation-play-state: paused;
+.map-anchor-core,
+.map-anchor-satellite {
+  transition: fill 240ms ease, r 240ms ease;
+}
+
+.map-tradition-anchor:hover .map-anchor-node,
+.map-tradition-anchor:focus .map-anchor-node,
+.map-tradition-anchor[aria-pressed="true"] .map-anchor-node {
   opacity: 1;
+  transform: scale(1.16);
+}
+
+.map-tradition-anchor[aria-pressed="true"] .map-anchor-orbit {
+  animation-duration: 3.6s !important;
+  opacity: 0.9;
 }
 
 .map-tradition-anchor:focus > [data-map-marker] > g > circle:first-child {
@@ -858,9 +868,39 @@ h1, h2, h3, h4 {
 }
 
 .map-inspector-sigil {
+  position: relative;
+  display: block;
   width: 2.5rem;
   height: 2.5rem;
-  opacity: 0.68;
+  flex: 0 0 auto;
+  border: 1px dashed currentColor;
+  border-radius: 999px;
+  color: #d3b569;
+  opacity: 0.78;
+}
+
+.map-inspector-sigil::before,
+.map-inspector-sigil::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 999px;
+  content: "";
+  transform: translate(-50%, -50%);
+}
+
+.map-inspector-sigil::before {
+  width: 0.72rem;
+  height: 0.72rem;
+  border: 1px solid currentColor;
+  background: color-mix(in srgb, currentColor 18%, transparent);
+}
+
+.map-inspector-sigil::after {
+  width: 0.26rem;
+  height: 0.26rem;
+  background: currentColor;
+  box-shadow: 0 0 0.7rem currentColor;
 }
 
 .map-inspector > div {
@@ -1529,9 +1569,13 @@ h1, h2, h3, h4 {
   to { opacity: 1; }
 }
 
-@keyframes mapFieldBreath {
+@keyframes mapNodeBreath {
   0%, 100% { opacity: 0.52; }
-  50% { opacity: 0.78; }
+  50% { opacity: 0.82; }
+}
+
+@keyframes mapOrbitDrift {
+  to { stroke-dashoffset: -70; }
 }
 
 .map-fade-1 { animation: mapFade 0.7s ease both; }
@@ -1767,8 +1811,21 @@ h1, h2, h3, h4 {
     overflow-x: auto;
     overflow-y: hidden;
     overscroll-behavior-x: contain;
-    scrollbar-color: rgba(189, 73, 59, 0.65) rgba(230, 220, 194, 0.08);
+    scrollbar-color: rgba(211, 181, 105, 0.24) transparent;
     scrollbar-width: thin;
+  }
+
+  .map-canvas::-webkit-scrollbar {
+    height: 3px;
+  }
+
+  .map-canvas::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .map-canvas::-webkit-scrollbar-thumb {
+    border-radius: 999px;
+    background: rgba(211, 181, 105, 0.24);
   }
 
   .world-map-svg {
