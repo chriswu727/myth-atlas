@@ -1,0 +1,23 @@
+{
+  "id": "manananggal", "tradition": "philippine", "type": "creature", "era": "folk",
+  "name": { "zh": "马纳南加尔", "en": "Manananggal", "original": "manananggal", "originalLang": "他加禄语" },
+  "title": { "zh": "入夜以后，她把自己的身体留下一半", "en": "At Night She Leaves Half Her Body Behind" },
+  "summary": { "zh": "上半身生翼离体的夜行猎手；找到藏起的下半身，便能让黎明审判她。", "en": "A winged upper body hunting by night while its vulnerable lower half waits hidden for dawn." },
+  "description": {
+    "zh": "名字来自他加禄语tanggal，「取下、分离」；manananggal就是「会把自己分开者」。白昼的她可以是沉静而寻常的人，黄昏后却在腰际裂开，上半身长出蝙蝠般的翼，拖着内脏越过屋顶。她常以长舌穿过茅屋缝隙，寻找孕妇、胎儿或熟睡者，夜风中微弱的tik-tik声反而会在她最接近时变远，以声音欺骗猎物。留在灌木或空屋里的下半身没有防卫，是这场变形唯一暴露的契约。\n\n若有人在断面撒上盐、蒜灰、醋或香料，上半身便无法在日出前接回，晨光会把夜行者烧毁。不同岛屿的材料与步骤各异，甚至有版本让黑色小鸡或传递的魔石造成这种能力。马纳南加尔经常被归入阿斯旺，却比那个宽泛称呼拥有更具戏剧性的身体政治：一个人必须把可见的社会身份留在地上，才让秘密饥饿升空。电影海报反复放大她的翼与断口，但旧故事真正令人不安的，是清晨邻人重新完整出现时，谁也无法证明昨夜屋脊上那一半属于谁。",
+    "en": "The name grows from Tagalog tanggal, “to remove or separate”: manananggal is one who takes herself apart. By day she may appear quiet and ordinary. At dusk the body divides at the waist, the upper half opens batlike wings, and entrails trail as it passes over roofs. A long tongue enters through gaps in a house to seek a pregnant woman, an unborn child, or a sleeper. The faint tik-tik heard in the dark may seem farther away as the hunter comes closer, turning sound itself into deception. The lower half, hidden in brush or an empty building, cannot defend itself; it is the one exposed term in the transformation.\n\nIf someone finds that half and coats the severed surface with salt, garlic ash, vinegar, or spices, the flying body cannot rejoin before sunrise and daylight destroys it. Materials and procedures change among islands, and some versions make the power pass through a black chick or magical stone. The manananggal belongs to the wider field of aswang lore but possesses a more theatrical politics of the body. A visible social self must remain on the ground before secret hunger can fly. Film posters enlarge wing and wound, yet the older terror waits at morning, when a neighbor appears whole again and nobody can prove whose half crossed the roof."
+  },
+  "domains": { "zh": ["分身", "夜猎", "孕产恐惧"], "en": ["Bodily division", "Night hunting", "Pregnancy fear"] },
+  "traits": [
+    { "label": { "zh": "弱点", "en": "Vulnerability" }, "value": { "zh": "在遗下的下半身断面施盐、蒜或醋", "en": "Salt, garlic, or vinegar on the abandoned lower half" } },
+    { "label": { "zh": "时限", "en": "Deadline" }, "value": { "zh": "日出前必须重新接合", "en": "Must reunite before sunrise" } }
+  ],
+  "related": ["aswang", "kapre", "tikbalang"],
+  "sources": [
+    { "zh": "伊莎贝洛·德洛斯雷耶斯《菲律宾民俗》（1889）", "en": "Isabelo de los Reyes, El folk-lore Filipino (1889)" },
+    { "zh": "马克西莫·拉莫斯《菲律宾下层神话生物》（1971）", "en": "Maximo D. Ramos, The Creatures of Philippine Lower Mythology (1971)" },
+    { "zh": "达米亚娜·尤金尼奥编《菲律宾民间文学：传说》（2002）", "en": "Damiana L. Eugenio, ed., Philippine Folk Literature: The Legends (2002)" }
+  ],
+  "geo": { "lat": 10.6, "lon": 122.9, "label": { "zh": "米沙鄢传说圈", "en": "Visayan lore region" } },
+  "image": { "file": "/images/entries/manananggal.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manananggal_of_Philippine_Mythology_Commons.jpg", "sourceTitle": "Manananggal of Philippine folklore", "artist": "Rodsan18 (Dragonbite)", "license": "CC BY 2.5", "width": 1231, "height": 1600 }
+}

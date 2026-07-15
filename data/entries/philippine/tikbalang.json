@@ -1,0 +1,19 @@
+{
+  "id": "tikbalang", "tradition": "philippine", "type": "creature", "era": "folk",
+  "name": { "zh": "蒂克巴朗", "en": "Tikbalang", "original": "tikbalang", "originalLang": "他加禄语" },
+  "title": { "zh": "午后的路会在它蹄下折回原处", "en": "At Noon the Road Folds Back Beneath Its Hooves" },
+  "summary": { "zh": "出没山林、让旅人绕回原地的高瘦异类；今日著名的马首形象经历了殖民演变。", "en": "A tall wilderness trickster who loops a traveler’s path, later acquiring its famous horse-headed form." },
+  "description": {
+    "zh": "今日的蒂克巴朗通常长着马头、人的躯干与异常细长的四肢，蹲伏时膝盖仍高过头顶。它在烈日正中的林道、榕树与山脚现身，模仿熟人的声音，令旅人一次次回到同一块石头。脱困的方法也带着倒转的逻辑：把衣服反穿，出声请求看不见的主人让路，或辨认周围哪一件事物正在重复。有人还说，若能从它鬃毛中拔下三根金色毛，便可驯服这位让道路失序者。\n\n十六世纪末的他加禄资料已经记录tigbalang或类似名称，却未必描述马头；当时马匹由西班牙殖民体系带入群岛不久。早期词义更接近山野幽灵、幻象或使人发狂的存在，今日半人半马的身体很可能在数百年的接触中逐渐成形。这个变化削弱不了传说，反而展示民间想象如何吞下陌生动物，再把殖民权力骑乘的形象变成森林自己的怪物。长相会改，夺走方向的能力却始终未变：路还在脚下，世界却拒绝通向目的地。",
+    "en": "Today the tikbalang generally bears a horse’s head, a human torso, and limbs so attenuated that its knees rise above its head when it crouches. It appears on forest roads, around balete trees, and at mountain feet in the dead heat of noon, imitating familiar voices and returning a traveler again and again to the same stone. Escapes follow a logic of reversal: wear a garment inside out, ask the unseen owners of the place for permission to pass, or identify the detail that has begun to repeat. Another tradition promises mastery to anyone able to pluck three golden hairs from its mane.\n\nLate sixteenth-century Tagalog materials already record tigbalang or related forms, but do not necessarily give the being a horse’s head. Horses had only recently entered the islands through Spanish colonial systems. The older term points more toward a wilderness phantom, apparition, or maddening force, while the now-famous hybrid body probably developed across centuries of contact. That history does not diminish the tale. It shows folk imagination swallowing a foreign animal and turning an image ridden by colonial power into the forest’s own monster. The tikbalang’s enduring gift is not anatomy but the theft of direction: the road remains underfoot while the world refuses to lead anywhere."
+  },
+  "domains": { "zh": ["迷路", "山林", "幻形"], "en": ["Disorientation", "Wilderness", "Apparition"] },
+  "related": ["kapre", "diwata", "aswang"],
+  "sources": [
+    { "zh": "胡安·德·普拉森西亚《他加禄人的习俗》（1589）及早期他加禄词汇表", "en": "Juan de Plasencia, Customs of the Tagalogs (1589), and early Tagalog vocabularies" },
+    { "zh": "马克西莫·拉莫斯《菲律宾下层神话生物》（1971）", "en": "Maximo D. Ramos, The Creatures of Philippine Lower Mythology (1971)" },
+    { "zh": "达米亚娜·尤金尼奥编《菲律宾民间文学：传说》（2002）", "en": "Damiana L. Eugenio, ed., Philippine Folk Literature: The Legends (2002)" }
+  ],
+  "geo": { "lat": 14.2, "lon": 121.4, "label": { "zh": "吕宋山林", "en": "Luzon highlands and forests" } },
+  "image": { "file": "/images/entries/tikbalang.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tikbalang_The_Philippine_Demon_Horse_Commons.jpg", "sourceTitle": "Tikbalang, the Philippine demon horse", "artist": "Rodsan18 (Dragonbite)", "license": "CC BY 2.5", "width": 1221, "height": 1600 }
+}

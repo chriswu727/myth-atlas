@@ -1,0 +1,19 @@
+{
+  "id": "kurupi", "tradition": "guarani", "type": "creature", "era": "folk",
+  "name": { "zh": "库鲁皮", "en": "Kurupi", "original": "Kurupi", "originalLang": "瓜拉尼语" },
+  "title": { "zh": "野性的生殖力缠在腰间，也缠住了林缘所有禁忌", "en": "Wild Fertility Coils Around His Waist and Every Forest-Edge Taboo" },
+  "summary": { "zh": "巴拉圭七怪传说中生殖力过剩的林野异类；其故事兼具丰饶象征与性暴力警告。", "en": "A forest being of excessive fertility whose lore joins abundance to a warning about sexual violence." },
+  "description": {
+    "zh": "库鲁皮常被描绘为矮小、皮肤黝黑、足向后生的林野男子，最醒目的特征是一条极长的生殖器，必须像绳索一样缠在腰间。传说让它从远处使女人受孕，或在林缘追逐并强暴独行者；也有版本强调它对动物繁殖与野地丰饶的支配。现代儿童读物常回避这个身体，奇幻作品又把它改造成普通森林战士，但早期民俗材料的核心正是无法被社会秩序容纳的生殖力，以及这种力量带来的恐惧。\n\n在陶与克拉娜的七子谱系中，库鲁皮是受诅咒的兄弟之一；这套谱系经科尔曼《我们的祖先》获得最完整的文学形态。把它称为「前殖民瓜拉尼生育神」会夸大证据，因为我们读到的统一形象深受二十世纪巴拉圭民族民俗建构影响。传说仍值得被认真对待：它把欲望、父权借口、野外危险与生育焦虑压缩到一个过度的身体上。过去一些无法公开说明的怀孕会被归咎于库鲁皮，如同波姆贝罗传说，这种解释既保护名誉，也可能替真实施害者遮蔽。怪物的腰间缠着的，因此不只是一种夸张器官，还有社会不愿直视的责任。",
+    "en": "Kurupi is usually described as a short, dark forest man, sometimes with backward feet, whose defining feature is a sexual organ so long that it must be wound around his waist like rope. Tales have him impregnate women from a distance or pursue and assault people alone near the forest; other versions emphasize his rule over animal reproduction and untamed fertility. Children’s books often remove the body, while fantasy recasts him as a conventional woodland warrior. Earlier folklore, however, centers reproductive force too excessive for social order and the fear produced by that force.\n\nWithin the genealogy of Tau and Kerana, Kurupi is one of seven cursed sons, a family given its fullest literary form by Colmán’s Ñande Ypy Kuéra. Calling him a universal “precolonial Guaraní fertility god” exceeds the evidence, because the standardized figure owes much to twentieth-century Paraguayan nation-building through folklore. The tale still demands serious reading. It compresses desire, patriarchal excuse, wilderness danger, and anxiety around pregnancy into an excessive body. Some pregnancies that could not be publicly explained were attributed to Kurupi; as with Pombero, the story could preserve reputation and conceal a human aggressor. What coils around the monster’s waist is therefore more than an exaggerated organ. It is responsibility that society refuses to face."
+  },
+  "domains": { "zh": ["野性生殖力", "林缘", "性禁忌"], "en": ["Untamed fertility", "Forest edge", "Sexual taboo"] },
+  "related": ["pombero", "jasy-jatere", "teju-jagua"],
+  "sources": [
+    { "zh": "纳西索·科尔曼《我们的祖先》（1929）", "en": "Narciso R. Colmán, Ñande Ypy Kuéra (1929)" },
+    { "zh": "保罗·德·卡瓦略·内托《巴拉圭民俗》（1961）", "en": "Paulo de Carvalho Neto, Folklore del Paraguay (1961)" },
+    { "zh": "迪奥尼西奥·冈萨雷斯·托雷斯《巴拉圭民俗》（1980）", "en": "Dionisio González Torres, Folklore del Paraguay (1980)" }
+  ],
+  "geo": { "lat": -25.7, "lon": -56.5, "label": { "zh": "巴拉圭民间传说圈", "en": "Paraguayan folklore region" } },
+  "image": { "file": "/images/entries/kurupi.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kurupi.png", "sourceTitle": "Kurupi figure at Museo Mitológico Ramón Elías", "artist": "Museum artist; photo by Patty P", "license": "Public domain", "width": 1199, "height": 1600 }
+}

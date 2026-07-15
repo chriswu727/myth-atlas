@@ -1,0 +1,19 @@
+{
+  "id": "sila", "tradition": "inuit", "type": "spirit", "era": "ancient",
+  "name": { "zh": "西拉", "en": "Sila", "original": "ᓯᓚ", "originalLang": "因纽特语" },
+  "title": { "zh": "风、天气与心智，共用同一次呼吸", "en": "Weather, Mind, and Breath in a Single Word" },
+  "summary": { "zh": "既是天空与天气，也是遍行人身的知觉；看不见，却以风暴回答失序。", "en": "The air, weather, and intelligence moving through human beings, unseen but never absent." },
+  "description": {
+    "zh": "把西拉只译成「天气神」会失去它最幽深的部分。在许多因纽特语言里，sila同时指外面的天气、包围世界的空气，也指清醒、理智或人的意识。拉斯穆森记录的伊格卢利克人说，西拉是一股巨大的力量，经由风与海显现，没有固定人形；人无法看见它，却知道所有生命都借它呼吸。另一些地区把西拉讲作最初的灵，或以Sillap Inua——「西拉的主人／人格」——称呼那道意志。名字相同并不表示各地拥有一位履历一致的神；它恰好说明语言把宇宙与心灵放在同一片气息里。\n\n安静的天候意味着关系尚稳；突来的暴风、白雾与冰裂，则可能是失序的回声。安加库克以鼓、歌与屏息进入另一种知觉，深入聆听自然原本就有的心智。现代因纽特思想中，sila仍可同时说天气、环境与判断力，这种活着的多义比任何雕像更接近它。人每一次吸气，都把外面的世界带进身体；每一次呼气，又把自身还给风。西拉没有神殿，因为天空本身从未在门外。",
+    "en": "To translate Sila only as a “weather god” loses its deepest reach. Across Inuit languages, sila can name the weather outside, the air surrounding the world, and also awareness, reason, or a person’s mind. Rasmussen’s Iglulik accounts speak of an immense power revealed through wind and sea, without a fixed human shape. It cannot be seen, yet all life is known to breathe through it. Elsewhere one encounters Sillap Inua, the owner or personhood of sila, or stories that make it a primordial spirit. The shared word does not prove that every community worshiped a single deity with the same biography. It shows language placing cosmos and consciousness inside one breath.\n\nCalm weather may mark a relationship held in balance; sudden storm, white fog, and breaking ice may answer disorder. Through drum, song, and disciplined breath, an angakkuq enters another mode of attention—not an escape from nature, but an encounter with the mind already present in it. In modern Inuit speech, sila can still carry weather, environment, and judgment at once, a living multiplicity closer to the tradition than any statue. Every inhalation brings the outer world into the body; every exhalation returns the self to wind. Sila needs no temple because the sky was never outside the door."
+  },
+  "domains": { "zh": ["天气", "气息", "心智"], "en": ["Weather", "Breath", "Mind"] },
+  "related": ["sedna", "tariaksuq", "ijiraq"],
+  "sources": [
+    { "zh": "克努德·拉斯穆森《伊格卢利克爱斯基摩人的精神文化》（1929）", "en": "Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos (1929)" },
+    { "zh": "弗雷德里克·劳格林等编《北极民族人类学》（1991）", "en": "Frederick A. Milan et al., Anthropology of the North (1991)" },
+    { "zh": "玛丽特·雅各布森《萨满教：传统与现代格陵兰的因纽特宗教》（1999）", "en": "Merete Demant Jakobsen, Shamanism: Traditional and Contemporary Approaches to the Inuit Religion of Greenland (1999)" }
+  ],
+  "geo": { "lat": 68.6, "lon": -95.9, "label": { "zh": "加拿大北极圈", "en": "Canadian Arctic" } },
+  "image": { "file": "/images/entries/sila.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inuit_drum_dance_at_the_community_centre,_Gjoa_Haven,_September_2019.jpg", "sourceTitle": "Inuit drum dance at Gjoa Haven (ritual context; not a depiction of Sila)", "artist": "Kerry Raymond", "license": "CC BY 4.0", "width": 900, "height": 1600 }
+}

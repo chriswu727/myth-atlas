@@ -1,0 +1,19 @@
+{
+  "id": "torngarsuk", "tradition": "inuit", "type": "spirit", "era": "folk",
+  "name": { "zh": "托恩加苏克", "en": "Torngarsuk", "original": "Torngarsuk", "originalLang": "格陵兰语旧式拼写" },
+  "title": { "zh": "萨满的巨灵，被传教士误写成地狱之王", "en": "A Shaman’s Great Spirit Recast as the Devil" },
+  "summary": { "zh": "格陵兰萨满的重要助灵，形态随显现而变；欧洲记录者把它强行译成魔王。", "en": "A powerful Greenlandic helping spirit whose shifting form missionaries forced into the shape of Satan." },
+  "description": {
+    "zh": "十八世纪传教士笔下，托恩加苏克有时像巨熊，有时像独臂人或海中怪物，是安加库克召来问病、问猎与进入灵界的大助灵。名字与tornaq——助灵——同源，所指未必是一位拥有固定身世的神，更可能是某些萨满与一股强大灵力的专属关系。它可以住在海下、山中或不可见之处，显形由仪式与讲述而定。汉斯·埃格德等欧洲作者急于寻找当地的「最高神」与「恶魔」，于是把复杂的灵界协商压进基督教二分法。\n\n十九世纪《地狱辞典》的插图进一步让托恩加苏克长成带武器与獠牙的魔王，后世神秘学又把这张图当作古老肖像。真正值得保存的恰是误读的裂缝：格陵兰萨满传统没有需要统治全部邪灵的撒旦。助灵可以危险，也可以治病；力量取决于关系、训练与交换。欧洲魔典里的怪物卡容不下托恩加苏克；它提醒我们，早期文字档案本身也会制造神话——有时纸上的恶魔，比冰雪里的灵更年轻。",
+    "en": "In eighteenth-century missionary accounts, Torngarsuk appears as a great bear, a one-armed person, or a marine being summoned by an angakkuq for illness, hunting, and travel into the spirit world. The name is related to tornaq, a helping spirit, and may not denote one god with a settled biography. It can instead mark a particular shaman’s relationship with exceptional spiritual power. Its dwelling may be sea, mountain, or an invisible region, while its form depends on ritual and teller. European writers such as Hans Egede were eager to identify a native “supreme god” and a devil, compressing a field of negotiated relations into a Christian opposition.\n\nThe nineteenth-century Dictionnaire infernal pushed the change further, drawing Torngarsuk as a weapon-bearing demon. Later occult books recycled that image as though it were an ancient portrait. The revealing object is the fracture itself. Greenlandic shamanism did not require a Satan ruling every dangerous spirit. A helper could heal and still be perilous; its force emerged from training, exchange, and relationship. Torngarsuk cannot be cut from a European demonology and pasted back onto the ice. It reminds us that archives also manufacture mythology, and that the devil printed on paper may be far younger than the spirit encountered in snow."
+  },
+  "domains": { "zh": ["助灵", "萨满旅程", "殖民误读"], "en": ["Helping spirit", "Shamanic travel", "Colonial mistranslation"] },
+  "related": ["sila", "tupilaq", "sedna"],
+  "sources": [
+    { "zh": "汉斯·埃格德《格陵兰记述》（1745）", "en": "Hans Egede, A Description of Greenland (1745)" },
+    { "zh": "戴维·克兰茨《格陵兰史》（1767）", "en": "David Cranz, The History of Greenland (1767)" },
+    { "zh": "玛丽特·雅各布森《萨满教：传统与现代格陵兰的因纽特宗教》（1999）", "en": "Merete Demant Jakobsen, Shamanism: Traditional and Contemporary Approaches to the Inuit Religion of Greenland (1999)" }
+  ],
+  "geo": { "lat": 64.2, "lon": -51.7, "label": { "zh": "西格陵兰", "en": "West Greenland" } },
+  "image": { "file": "/images/entries/torngarsuk.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torngarsuk.png", "sourceTitle": "Louis Le Breton’s 1863 demonological reinterpretation", "artist": "Louis Le Breton", "license": "Public domain", "width": 1388, "height": 1600 }
+}

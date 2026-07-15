@@ -1,0 +1,23 @@
+{
+  "id": "tupilaq", "tradition": "inuit", "type": "creature", "era": "folk",
+  "name": { "zh": "图皮拉克", "en": "Tupilaq", "original": "tupilak", "originalLang": "格陵兰语旧式拼写" },
+  "title": { "zh": "用骨、皮与秘密编成的复仇之物", "en": "An Engine of Revenge Sewn from Bone and Secrecy" },
+  "summary": { "zh": "萨满秘密制成并遣向仇敌的灵物；若对方力量更强，它会转身吞噬主人。", "en": "A secretly made avenging being that may be turned back upon the person who sent it." },
+  "description": {
+    "zh": "在东格陵兰较详尽的记录里，图皮拉克没有今日纪念品店里小雕像的固定长相。施术者暗中搜集骨、皮、毛、筋、鸟喙乃至墓中遗物，把它们缝成一个临时躯体，再以歌、触碰与自身生命物质赋予方向。成品从无人看见的地方下水，变成海兽或混合怪物，追索被指定的仇敌。制造过程必须保密，因为力量来自知识的不对称：别人若知道它如何被造，就可能拆解它。\n\n最可怕的规则是回返。目标若拥有更强的萨满力量，可以把图皮拉克扭转方向，让它沿旧路猎杀创造者。唯一的逃生办法有时是当众承认自己造了什么；秘密一旦被说破，附着其上的力量也随之松动。二十世纪初，外来者听说这种灵物后要求观看，格陵兰雕刻家才开始把想象中的形体刻成牙、骨与木，形成今日著名的扭曲小像。实体雕刻并非「古代巫毒玩偶」的遗存；它是口传观念在殖民接触与艺术市场中获得的新身体。",
+    "en": "In the fullest East Greenland accounts, a tupilaq was not the small figure now familiar from souvenir displays. A practitioner secretly gathered bone, hide, hair, sinew, beaks, and sometimes material associated with a grave, sewing them into a temporary body. Song, touch, and substances from the maker’s own life gave it direction. Launched where nobody could see, the being entered the water, assumed the shape of an animal or composite monster, and pursued the named enemy. Manufacture had to remain hidden because force depended on unequal knowledge: if others learned how the thing was composed, they might undo it.\n\nThe most frightening law was return. A target with greater shamanic power could reverse the tupilaq and send it hunting back along the path to its creator. In some accounts the maker’s only escape was public confession; once the secret was spoken, the force fastened to secrecy weakened. When outsiders asked to see such beings in the early twentieth century, Greenlandic carvers began giving imagined forms to them in tooth, bone, and wood, producing the contorted figures now internationally known. The carving is not the surviving body of an ancient “voodoo doll.” It is an oral idea acquiring a new anatomy through colonial encounter and the art market."
+  },
+  "domains": { "zh": ["复仇", "巫术造物", "回返"], "en": ["Vengeance", "Made monster", "Reversal"] },
+  "traits": [
+    { "label": { "zh": "原初形态", "en": "Original form" }, "value": { "zh": "灵性造物，无统一外貌", "en": "A spiritual construct with no fixed appearance" } },
+    { "label": { "zh": "破法", "en": "Undoing" }, "value": { "zh": "力量可被更强者反送，或因公开忏悔而散", "en": "Reversal by a stronger practitioner or dissolution through confession" } }
+  ],
+  "related": ["torngarsuk", "ijiraq", "tariaksuq"],
+  "sources": [
+    { "zh": "威廉·塔尔比策《安马萨利克爱斯基摩人》（1914）", "en": "William Thalbitzer, The Ammassalik Eskimo (1914)" },
+    { "zh": "克努德·拉斯穆森《横越北极美洲》（1927）", "en": "Knud Rasmussen, Across Arctic America (1927)" },
+    { "zh": "H·C·彼得森《图皮拉克》（1986）", "en": "H. C. Petersen, The Tupilak (1986)" }
+  ],
+  "geo": { "lat": 65.6, "lon": -37.6, "label": { "zh": "东格陵兰", "en": "East Greenland" } },
+  "image": { "file": "/images/entries/tupilaq.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tupilak_12312345.jpg", "sourceTitle": "Modern Greenlandic tupilaq carving", "artist": "Louis Chemnitz", "license": "CC BY-SA 4.0", "width": 866, "height": 1600 }
+}

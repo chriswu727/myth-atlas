@@ -1,0 +1,83 @@
+{
+  "tradition": "guarani",
+  "source": {
+    "zh": "莱昂·卡多甘《存在之根：瓜伊拉姆比亚瓜拉尼神话文本》（1959）；库尔特·尼穆恩达茹《阿帕波库瓦瓜拉尼人的创世与灭世传说》（1914）；埃莱娜·克拉斯特《没有恶的土地》（1975）；格拉谢拉·查莫罗《瓜拉尼神学：词语》（2004）",
+    "en": "León Cadogan, Ayvu Rapyta: Textos míticos de los Mbyá-Guaraní del Guairá (1959); Curt Nimuendajú, Die Sagen von der Erschaffung und Vernichtung der Welt... (1914); Hélène Clastres, La terre sans mal (1975); Graciela Chamorro, Teología Guaraní: La palabra (2004)"
+  },
+  "note": {
+    "zh": "下列主线以卡多甘记录的姆比亚《存在之根》为核心，并在洪水、灭世与「无恶之地」处参照阿帕波库瓦及其他图皮-瓜拉尼材料。它代表一组相近而不相同的传统，不是所有瓜拉尼社群共有的唯一创世史。尼亚曼杜、卡拉伊、雅卡伊拉与图帕在姆比亚圣歌中各有宇宙职责；耶稣会将Tupã用作基督教上帝译名之后，许多较晚故事把图帕改写成独一造物主。本线保留这段翻译史，不把后来的合成版本倒写成前殖民原典。",
+    "en": "The sequence centers on the Mbya Ayvu Rapyta recorded by Cadogan, while drawing on Apapocuva and other Tupi-Guaraní materials for destruction, flood, and the Land-without-Evil. It represents related but distinct traditions, not one creation shared by every Guaraní community. Ñamandu, Karaí, Jakaira, and Tupã hold different responsibilities in Mbya sacred song. After Jesuits used Tupã to translate the Christian God, many later stories recast Tupã as sole creator. The line preserves that history of translation rather than projecting a later synthesis backward as precolonial scripture."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "原初黑暗", "en": "Primordial darkness" },
+      "title": { "zh": "未有地、未有天，只有永恒微光中的神圣智慧", "en": "Before Earth or Sky, Sacred Wisdom Dwells in Faint Eternal Light" },
+      "text": {
+        "zh": "世界尚无可站立之处，太阳也没有升起。原初黑暗中存在一线不会熄灭的微光，尼亚曼杜·鲁·埃特·特农德从自身智慧里逐步显现：脚底展开，身体直立，头顶冠羽放光。他没有父母，也没有被另一位神塑造；自我显现就是创世的第一动作。物质仍未出现，世界先获得一个能够思想并发光的中心。",
+        "en": "There is no ground on which to stand and no sun has risen. Within primordial darkness persists a faint radiance that will not go out. From his own wisdom Ñamandu Ru Ete Tenondé gradually manifests: the soles of his feet unfold, the body stands, and the crown above his head gives light. He has no parents and is shaped by no earlier deity. Self-manifestation is the first creative action. Matter has not appeared, yet the world acquires a center capable of thought and radiance."
+      },
+      "entries": ["namandu"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "言语先于万物", "en": "Speech before things" },
+      "title": { "zh": "灵魂之言、对同类的爱与圣歌先被建立", "en": "The Soul-Word, Love of Others, and Sacred Song Are Established First" },
+      "text": {
+        "zh": "尼亚曼杜最早创造的不是山、兽或人形，而是ayvu——既是言语，也是灵魂与生命原则；随后是对同类的爱，以及让神圣知识得以传递的歌。可触世界因此建立在关系与表达之上。人的名字不是出生后的标签，而是来自诸父的灵魂席位。创世先让存在能够互相呼唤，才让被呼唤的事物获得形体。",
+        "en": "Ñamandu’s earliest creations are not mountain, animal, or human body. He establishes ayvu, at once speech, soul, and a principle of life; then love for one’s fellows and the song through which sacred knowledge can be transmitted. The tangible world is founded upon relation and expression. A person’s name is not a label attached after birth but a seat of soul coming from the divine fathers. Creation first makes it possible for beings to call one another, and only afterward gives form to what can be called."
+      },
+      "entries": ["namandu"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "诸父出现", "en": "The divine fathers appear" },
+      "title": { "zh": "火、雾与雷各得真父，天空有了四方", "en": "Flame, Mist, and Thunder Receive True Fathers; Heaven Gains Directions" },
+      "text": {
+        "zh": "尼亚曼杜创造卡拉伊、雅卡伊拉、图帕等真父及其神圣伴侣，让他们各守火焰与太阳热、生命雾气与植物、雷雨与水，也掌管从不同天空方位降下的人类灵魂名。诸神不是一位最高神的装饰性随从，而是共同维持世界可居住性的多条力量。四方由职责与亲属关系被辨认，天空开始拥有结构。",
+        "en": "Ñamandu creates true fathers including Karaí, Jakaira, and Tupã with their sacred companions. They tend flame and solar heat, life-giving mist and vegetation, thunder and water, and the human soul-names descending from different celestial quarters. These beings are not decorative attendants around one supreme deity. Their powers jointly maintain the conditions that let a world be inhabited. Direction becomes recognizable through responsibility and kinship, and heaven begins to possess structure."
+      },
+      "entries": ["namandu", "karai", "jakaira", "tupa"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "第一大地", "en": "The first earth" },
+      "title": { "zh": "永恒棕榈立住中央与四方，薄雾覆盖新生土地", "en": "Eternal Palms Hold Center and Directions While Mist Covers New Land" },
+      "text": {
+        "zh": "圣歌让第一大地在神圣支撑上展开，以中央及四方的永恒pindó棕榈标记秩序；泉水、林木与可食植物随后出现，雅卡伊拉一系的生命雾气使土地能够生长。不同译本对支撑物、方位与植物名称有细节差异，但共同强调大地需要持续承托。它没有被一次造完后独自运转，诸父的气息、热与雨仍须不断穿过它。",
+        "en": "Sacred song unfolds the first earth upon divine supports, marking center and directions with eternal pindó palms. Springs, forest, and edible plants follow, while the life-giving mist of Jakaira’s lineage makes the land capable of growth. Translations differ in details of supports, directions, and botanical names, yet share an insistence that earth requires continued bearing. It is not made once and left to operate alone. Breath, heat, and rain from the divine fathers must continue moving through it."
+      },
+      "entries": ["namandu", "jakaira", "karai", "tupa"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "灵魂落座", "en": "The soul takes a seat" },
+      "title": { "zh": "诸父送下名字，孩子在共同体中找到自己的言语", "en": "The Fathers Send a Name and the Child Finds Its Word in Community" },
+      "text": {
+        "zh": "人的身体在父母与土地的照料中形成，灵魂之言则由诸父从各自天空方位送来。宗教领袖在仪式中辨认孩子属于哪一路神圣来源，并为之显出名字。一个人「落座」于共同体，需要身体、名字、亲属与地方共同稳固；初生灵魂仍可能因禁忌失守而迷失。人类起源因此不是远古只发生一次的造人事件，每个孩子的到来都重新完成它。",
+        "en": "A human body forms through parents and the nourishment of land, while the soul-word is sent by the divine fathers from their celestial quarters. In ceremony a religious leader discerns the sacred source to which a child belongs and brings forth the appropriate name. To “take a seat” within community requires body, name, kin, and place to become stable together; a newborn soul may still be lost if obligations fail. Human origin is therefore not one remote manufacture of the first couple. Every child’s arrival completes it again."
+      },
+      "entries": ["namandu", "karai", "jakaira", "tupa"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "第一世界毁灭", "en": "The first world is destroyed" },
+      "title": { "zh": "洪水与烈火越过大地，只有依神圣之言者找到通路", "en": "Flood and Fire Cross the Earth; Sacred Speech Opens a Passage" },
+      "text": {
+        "zh": "姆比亚、阿帕波库瓦与相关传统以不同次序讲述第一大地遭洪水、烈火或黑暗毁灭，有人凭歌、舞、轻盈的身体或神助逃往更高领域。灾难并不构成所有瓜拉尼人共享的统一末日表，它说明现存大地也可能失去支撑。世界若背离正确生活方式，土地会再次变重、燃烧或沉没；创世与灭世始终隔着一层可以被人的行为磨薄的界面。",
+        "en": "Mbya, Apapocuva, and related traditions recount in different orders a first earth destroyed by flood, fire, or darkness. Some people escape toward a higher region through song, dance, a body made light, or divine assistance. These variations do not form one apocalypse shared by all Guaraní peoples. They declare that the present earth can also lose its support. When life departs from the proper way, land may grow heavy, burn, or sink again. Creation and destruction remain separated by a surface human conduct can wear thin."
+      },
+      "entries": ["karai", "tupa", "namandu"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "无恶之地", "en": "The Land-without-Evil" },
+      "title": { "zh": "迁徙、歌舞与轻盈的身体继续寻找不会腐坏的土地", "en": "Migration, Song, and Lightened Bodies Seek a Land That Does Not Decay" },
+      "text": {
+        "zh": "图皮-瓜拉尼历史中反复出现对yvy marã e’ỹ——「无恶之地／不坏之地」——的追寻，它既被理解为地理上的圣地，也可指通过正确生活与仪式接近的不朽状态。殖民压迫、土地丧失与先知运动不断改变这场追寻的方向。今日的祈祷屋、语言复振与领土斗争让创世不只停在古歌里：守住词语与tekoa生活之地，就是让世界继续有一处可以落座。",
+        "en": "Tupi-Guaraní histories repeatedly turn toward yvy marã e’ỹ, the Land-without-Evil or land that does not decay. It can be understood as a sacred destination and as an immortal condition approached through right living and ritual. Colonial violence, dispossession, and prophetic movements continually changed the direction of the search. Prayer houses, language revitalization, and struggles for territory keep creation from remaining only in ancient song. To defend sacred words and the tekoa, the place of communal life, is to keep one part of the world capable of taking a seat."
+      },
+      "entries": ["namandu", "jakaira", "tupa"]
+    }
+  ]
+}

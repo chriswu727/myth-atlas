@@ -1,0 +1,23 @@
+{
+  "id": "sedna", "tradition": "inuit", "type": "deity", "era": "ancient",
+  "name": { "zh": "塞德娜", "en": "Sedna", "original": "ᓴᓐᓇ", "originalLang": "因纽特语音译之一" },
+  "title": { "zh": "断指沉海，万兽由她的伤口游出", "en": "From Her Severed Fingers, the Sea Beasts Swim" },
+  "summary": { "zh": "沉在海底的海兽之母；人的禁忌会缠乱她的长发，也会封住整个猎季。", "en": "The Sea Woman below the ocean, whose tangled hair can close an entire season of hunting." },
+  "description": {
+    "zh": "她在不同海岸有许多名字：塞德娜、努利亚尤克、内里维克，意为「食物所在之处」。最常见的故事说，她嫁给伪装成人的海鸟，父亲驾船来救；风暴追上小舟，父亲为求自保把女儿推入海中，又砍断她攀住船舷的手指。第一节落水化成小海豹，第二节化成髯海豹，最后的指骨变作海象与鲸。她沉入海床，从此海中一切可猎之兽都在她掌下。不同地区会改变丈夫、父亲与结局，因此「塞德娜」更像一束相互照亮的故事，而非全北极统一的女神姓名。\n\n当人违背猎猎、分肉、生产或死亡的禁忌，污秽便化作结扣缠进她的头发；没有手指的海母无法自行梳理，于是扣住兽群，让呼吸孔空寂、猎人挨饿。安加库克在熄灯的鼓声中越过海底，经过守门兽与死者，替她梳发、认罪或与她搏斗，直到海兽重返冰下。这个神话把生计写成一份双向契约：人以肉为生，却不能把动物当作没有意志的库存。每一只浮出水面的海豹，都是海母暂时松开的手。",
+    "en": "She has many names along different coasts: Sedna, Nuliajuk, Nerrivik, “the place where food is.” In the best-known sequence she marries a seabird disguised as a man. Her father comes by boat to rescue her, but when the bird raises a storm he throws his daughter overboard and cuts away the fingers gripping the gunwale. One joint becomes small seals, another bearded seals, and the last bones become walruses and whales. She sinks to the seabed and holds every huntable creature of the ocean in her keeping. Husband, father, and ending change from region to region, so Sedna is a family of related tellings rather than one name accepted throughout the Arctic.\n\nWhen people violate rules governing hunting, meat, birth, or death, the offense becomes filth knotted into her hair. Fingerless, the Sea Woman cannot comb it; she withholds the animals, breathing holes fall silent, and hunger enters the camp. In darkness and drum sound an angakkuq travels beneath the sea, passes guardians and the dead, and combs, confesses, bargains, or fights until the animals are released. The myth makes subsistence a reciprocal covenant. People live by flesh, yet animals are never an unthinking storehouse. Every seal rising at the ice is something the Sea Woman has chosen, for a time, to let go."
+  },
+  "domains": { "zh": ["海兽", "禁忌", "海底亡国"], "en": ["Sea animals", "Taboo", "Undersea dead"] },
+  "traits": [
+    { "label": { "zh": "异名", "en": "Other names" }, "value": { "zh": "努利亚尤克、内里维克等", "en": "Nuliajuk, Nerrivik, and others" } },
+    { "label": { "zh": "和解仪式", "en": "Reconciliation" }, "value": { "zh": "萨满下潜，为她梳开发结", "en": "A shaman descends and combs out her hair" } }
+  ],
+  "related": ["sila", "nanook", "qallupilluit"],
+  "sources": [
+    { "zh": "弗朗茨·博厄斯《中央爱斯基摩人》（1888）", "en": "Franz Boas, The Central Eskimo (1888)" },
+    { "zh": "克努德·拉斯穆森《伊格卢利克爱斯基摩人的精神文化》（1929）", "en": "Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos (1929)" },
+    { "zh": "英格·克莱万〈塞德娜〉，《宗教百科全书》（1987）", "en": "Inge Kleivan, “Sedna,” Encyclopedia of Religion (1987)" }
+  ],
+  "geo": { "lat": 64.2, "lon": -76.5, "label": { "zh": "巴芬岛传统中心之一", "en": "One major Baffin Island tradition" } },
+  "image": { "file": "/images/entries/sedna.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canada,_qaqaq_ashoona,_sedna,_madre_dei_mari,_legno,_1988.JPG", "sourceTitle": "Qaqaq Ashoona, Sedna, Mother of the Sea (1988)", "artist": "Qaqaq Ashoona; photo by Sailko", "license": "CC BY 3.0", "width": 1600, "height": 1027 }
+}

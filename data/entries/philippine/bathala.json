@@ -1,0 +1,19 @@
+{
+  "id": "bathala", "tradition": "philippine", "type": "deity", "era": "ancient",
+  "name": { "zh": "巴塔拉", "en": "Bathala", "original": "Bathala Maykapal", "originalLang": "他加禄语" },
+  "title": { "zh": "在天地尚未有形之前，他已居于高空", "en": "He Dwelt Above Before Sky and Earth Had Form" },
+  "summary": { "zh": "早期他加禄传统的造物与护持者；殖民记录把他的名字与基督教上帝层层叠合。", "en": "The Tagalog creator and sustainer whose name became layered with the Christian God under colonial rule." },
+  "description": {
+    "zh": "约1590年的《拳师抄本》写道，他加禄人相信巴塔拉在未有天、地与万物以前已经存在，无人创造他；他依自身意愿造出美丽的天地，又以泥土造出最初男女。Bathala Maykapal可理解为「巴塔拉·创造者／所有者」，早期词汇表也记录人们在祭仪与誓言中向他呼告。Bathala一名常被追溯到梵语bhattāra，经古马来语batara随海上文化传播进入群岛；词的远行本身，正像群岛诸神沿贸易风迁徙的痕迹。\n\n后来流行的造世故事让巴塔拉与海蛇乌里朗·卡卢卢瓦争战，又与有翼的加朗·卡卢卢瓦结友；三者死后或留下椰树、土地与诸界。另一些版本说神鸟啄开海上竹竿，马拉卡斯与玛甘达从中走出。它们来自不同时间、地区与收藏者，不宜缝成一段从未改变的「正典」。西班牙传教之后，Bathala逐渐成为基督教Dios的译名，旧神与新神在同一个称号里重叠。今天说bahala na时仍有人联想到「交给巴塔拉」，但语言学关系并无简单定论；留下的确定之事，是这个名字没有随祭坛倒塌而沉默。",
+    "en": "The Boxer Codex of about 1590 reports that Tagalog people held Bathala to exist before heaven, earth, or anything else, unmade by another being. By his own will he fashioned the beautiful world and made the first man and woman from earth. Bathala Maykapal can be understood as “Bathala the maker or owner,” and early vocabularies record his name in offerings and oaths. Bathala is often traced to Sanskrit bhattāra through Old Malay batara, a word carried into the archipelago by the same maritime exchange that moved scripts, epics, and ritual forms.\n\nA later popular creation cycle sets Bathala against the sea serpent Ulilang Kaluluwa and beside the winged Galang Kaluluwa; from their conflict and deaths come land, coconut, and ordered realms. Other tellings have a sacred bird split a bamboo stalk from which Malakas and Maganda emerge. These materials belong to different collectors, regions, and periods and should not be sewn into an unchanged canon. Under Spanish rule, Bathala increasingly served as a Tagalog name for the Christian Dios, allowing old creator and new God to overlap inside one title. The phrase bahala na is still popularly heard as “leave it to Bathala,” although its linguistic history is debated. What remains certain is that the name did not fall silent when the old shrines did."
+  },
+  "domains": { "zh": ["创世", "高天", "护持"], "en": ["Creation", "High sky", "Providence"] },
+  "related": ["diwata", "bakunawa", "sarimanok"],
+  "sources": [
+    { "zh": "《拳师抄本》（约1590），他加禄宗教记述", "en": "Boxer Codex (c. 1590), account of Tagalog religion" },
+    { "zh": "胡安·德·普拉森西亚《他加禄人的习俗》（1589）", "en": "Juan de Plasencia, Customs of the Tagalogs (1589)" },
+    { "zh": "F·兰达·霍卡诺《菲律宾神话纲要》（1969）", "en": "F. Landa Jocano, Outline of Philippine Mythology (1969)" }
+  ],
+  "geo": { "lat": 14.6, "lon": 121.0, "label": { "zh": "他加禄地区", "en": "Tagalog region" } },
+  "image": { "file": "/images/entries/bathala.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_dieu_supr%C3%AAme_Bathala_aux_Philippines_(mus%C3%A9e_du_quai_Branly,_Paris)_(46974254744).jpg", "sourceTitle": "Bathala figure in a modern Philippine anting-anting display", "artist": "Unknown maker; photo by Jean-Pierre Dalbéra", "license": "CC BY 2.0", "width": 1600, "height": 1422 }
+}

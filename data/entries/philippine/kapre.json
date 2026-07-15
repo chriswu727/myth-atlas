@@ -1,0 +1,19 @@
+{
+  "id": "kapre", "tradition": "philippine", "type": "creature", "era": "folk",
+  "name": { "zh": "卡普雷", "en": "Kapre", "original": "kapre", "originalLang": "菲律宾诸语言" },
+  "title": { "zh": "先有烟草的红点，巨人才从老树里显形", "en": "First the Red Cigar, Then the Giant in the Tree" },
+  "summary": { "zh": "盘踞古老大树、叼着雪茄的黑色巨人；会戏弄路人，也可能守护一处家园。", "en": "A dark giant smoking in an ancient tree, capable of misleading strangers or guarding a chosen place." },
+  "description": {
+    "zh": "卡普雷高大、浓黑、遍体毛发，常坐在巴莱特榕、芒果或相思树最粗的枝杈上。夜行者先闻到不知从哪里飘来的烟草，再看见树冠中一粒红火；若抬头太久，巨大的笑声会从叶后落下。它能让熟路延长，让人绕圈，或把自己的树隐藏在突来的雾里。与食人的夜怪相比，卡普雷未必主动杀害：它可能只厌恶闯入者，也可能爱上某个人，留下礼物、保护房屋，同时以占有欲使这份庇护变得危险。\n\nkapre一词通常被认为经西班牙语cafre而来，后者又源自阿拉伯语kāfir，殖民时代曾被欧洲人用作贬称。于是这位看似「远古」的黑巨人，名字里其实埋着印度洋贸易、种族化语言与殖民凝视。大型食烟树灵的本地观念可能更早存在，后来却被新词与新外貌重新包裹。传说仍保留对古树的实际敬畏：砍伐前要告知看不见的住客，从树根旁经过要说tabi-tabi po请求让路。卡普雷不是某一棵树的插图；它是树拒绝被当成空地时，吐出的第一口烟。",
+    "en": "The kapre is immense, dark, and covered in hair, most often seated in the strongest fork of a balete, mango, or acacia tree. A night traveler smells tobacco with no visible smoker, then sees one red coal inside the crown. Look too long and great laughter may fall from behind the leaves. The being stretches familiar roads, turns a walker in circles, or hides its tree inside sudden mist. Compared with more predatory night beings, a kapre does not always seek to kill. It may simply resent trespass, or become attached to a person, leaving gifts and guarding a house while possessiveness makes the protection dangerous.\n\nThe word kapre is generally traced through Spanish cafre to Arabic kāfir, a term Europeans used as a racial insult in the colonial period. The apparently ancient black giant therefore carries Indian Ocean exchange and colonial classification inside its name. Indigenous ideas of great tree-dwelling beings may be older, but a new word and body wrapped themselves around them. The tale preserves an everyday respect for old trees. A person announces cutting, and says tabi-tabi po—please let me pass—near the roots. The kapre is not an illustration attached to one tree. It is the first breath of smoke exhaled when a tree refuses to be treated as empty land."
+  },
+  "domains": { "zh": ["古树", "烟草", "迷径"], "en": ["Ancient trees", "Tobacco", "Looped roads"] },
+  "related": ["tikbalang", "diwata", "aswang"],
+  "sources": [
+    { "zh": "马克西莫·拉莫斯《菲律宾下层神话生物》（1971）", "en": "Maximo D. Ramos, The Creatures of Philippine Lower Mythology (1971)" },
+    { "zh": "达米亚娜·尤金尼奥编《菲律宾民间文学：传说》（2002）", "en": "Damiana L. Eugenio, ed., Philippine Folk Literature: The Legends (2002)" },
+    { "zh": "让-保罗·波特《菲律宾民间信仰与习俗》（1967）", "en": "Jean-Paul G. Potet, studies of Philippine folk belief and language" }
+  ],
+  "geo": { "lat": 14.5, "lon": 121.2, "label": { "zh": "吕宋与菲律宾多地", "en": "Luzon and wider Philippines" } },
+  "image": { "file": "/images/entries/kapre.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapre_of_Philippine_Folklore_Commons.jpg", "sourceTitle": "Kapre of Philippine folklore", "artist": "Rodsan18 (Dragonbite)", "license": "CC BY 2.5", "width": 1235, "height": 1600 }
+}

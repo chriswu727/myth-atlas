@@ -1,0 +1,19 @@
+{
+  "id": "tariaksuq", "tradition": "inuit", "type": "spirit", "era": "folk",
+  "name": { "zh": "塔里亚克苏克", "en": "Tariaksuq", "original": "ᑕᕆᐊᖅᓱᖅ", "originalLang": "因纽特语" },
+  "title": { "zh": "只在余光里存在的影人", "en": "The Shadow People Who Exist at the Edge of Sight" },
+  "summary": { "zh": "与人平行生活的隐秘族类；侧眼可见，正面一看便融回地景。", "en": "A hidden people living beside humankind, visible in peripheral vision and gone under a direct gaze." },
+  "description": {
+    "zh": "塔里亚克苏克常被译作「影人」。他们居住、狩猎、养育后代，生活仿佛与人类村落平行，却只在视线边缘留下动作：雪坡后有人经过，石堆旁传来低语，回头时只剩风。某些版本说他们半人半驯鹿，另一些只强调身体透明或难以直视；也有故事讲人误入他们的营地，吃过食物便难以回到自己的时间。共同规则落在观看之上，而非长相——余光可以容纳他们，凝视反而把他们抹去。\n\n影人的传说让「无人之地」这个概念失去确定性。地图上没有房屋，不等于那里没有主人；荒凉也可能只是人类感官的限制。它们有时帮助迷路者，有时诱人离群，善恶并不固定。与更具攻击性的伊吉拉克相比，塔里亚克苏克更像一整个相邻社会，其存在取决于人是否承认世界并未把所有层面都交给肉眼。走过暮色中的石原，一张陌生脸或许还不够可怕；更深的恐惧来自那一瞬间的领悟——自己一直从别人的家门前经过。",
+    "en": "Tariaksuit are commonly rendered as “shadow people.” They dwell, hunt, and raise families in a life running beside human settlement, yet movement remains at the edge of vision: someone crosses behind a snow slope, a voice sounds near a cairn, and a turn of the head finds only wind. Some versions make them partly human and partly caribou; others stress transparency or the impossibility of direct sight. There are also accounts of a person entering their camp and finding return difficult after accepting food. The shared law is less anatomy than vision. Peripheral sight can hold them; concentrated looking erases them.\n\nThe tradition makes “empty land” uncertain. The absence of houses on a map does not mean a place has no inhabitants, and desolation may be only the limit of human senses. Shadow people sometimes guide the lost and sometimes draw a person away; their moral character is not fixed. Compared with the more aggressive ijiraq, the tariaksuit resemble an entire neighboring society whose presence depends on admitting that the visible world has not surrendered every layer to the eye. Crossing a stone plain at dusk, the deepest unease may not be seeing a strange face. It may be realizing that one has always been walking past somebody else’s door."
+  },
+  "domains": { "zh": ["影子", "隐形族类", "异界聚落"], "en": ["Shadows", "Hidden people", "Parallel settlements"] },
+  "related": ["ijiraq", "qallupilluit", "torngarsuk"],
+  "sources": [
+    { "zh": "因纽特口传传统（努纳武特诸版本）", "en": "Inuit oral traditions from Nunavut" },
+    { "zh": "约翰·本内特、苏珊·罗利编《乌卡乌希乌克：努纳武特口述史项目》（2004）", "en": "John Bennett and Susan Rowley, eds., Uqalurait: An Oral History of Nunavut (2004)" },
+    { "zh": "尼尔·克里斯托弗《因纽特神话与传说》（2011）", "en": "Neil Christopher, Inuit Myths and Legends (2011)" }
+  ],
+  "geo": { "lat": 67.5, "lon": -89.0, "label": { "zh": "努纳武特内陆", "en": "Interior Nunavut" } },
+  "image": { "file": "/images/entries/tariaksuq.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eskimo_human_effigy_form,_Honolulu_Museum_of_Art_III.jpg", "sourceTitle": "Inuit human effigy (related material; not a Tariaksuq portrait)", "artist": "Unknown maker; photo by Hiart", "license": "CC0", "width": 341, "height": 1600 }
+}

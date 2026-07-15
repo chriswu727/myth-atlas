@@ -1,0 +1,19 @@
+{
+  "id": "abosom", "tradition": "akan", "type": "spirit", "era": "ancient",
+  "name": { "zh": "阿博松", "en": "Abosom", "original": "abosom", "originalLang": "阿坎语，复数" },
+  "title": { "zh": "河、岩与森林都有姓名，也都有必须履行的契约", "en": "River, Rock, and Forest Each Bear a Name and a Covenant" },
+  "summary": { "zh": "居于自然地点并通过祭司显现的诸神灵；有禁日、性情与各自照管的共同体。", "en": "Divinities of place who possess priests, keep forbidden days, and guard particular communities." },
+  "description": {
+    "zh": "abosom是obosom的复数，常被译作小神、神灵或自然神，却不能简单理解成尼亚梅手下的一排官员。每一位阿博松都在具体关系中被认识：一段河水、一块岩石、一处森林、一只从旧神龛带来的容器；它有自己的名字、性别表达、禁日、偏爱的颜色与祭品，也有曾经回应疾病、战争或迁徙的历史。强大的神灵可以从原处「生出」支系，随水、石或祭物进入新的村落，形成既相连又独立的神龛网络。\n\n祭司进入附体状态时，身体成为神说话的临时屋舍。鼓点改变，步伐与嗓音随之改变，人们询问病因、失踪、誓言与未来，回答通过隐语、动作和占示降下。阿博松也可能拒绝、嫉妒或施罚，关系必须靠定期祭礼维持。祖先与阿博松在阿坎思想中各有位置：祖先曾是人，神灵则属于另一种存在谱系。现代博物馆常把祭器单独陈列，仿佛力量锁在木头里；真正的神圣却横跨物、地点、祭司与共同体，缺少其中任何一环，展柜只剩一扇没有房屋的门。",
+    "en": "Abosom is the plural of obosom, often translated as lesser gods, divinities, or nature spirits, yet they are more than a rank of officials beneath Nyame. Each is known through a particular relationship: a reach of river, a rock, a forest, or a vessel carried from an older shrine. It possesses a name, gendered presence, forbidden day, favored colors and offerings, and a history of answering illness, war, or migration. A powerful obosom may generate branches from an original place, traveling through water, stone, or ritual object into a new settlement. The result is a shrine network whose members remain connected while becoming locally distinct.\n\nDuring possession, a priest’s body becomes a temporary house for divine speech. The drum rhythm changes; step and voice change with it. People ask about sickness, disappearance, oath, and future, receiving answers through oblique language, gesture, and divination. An obosom can refuse, grow jealous, or punish, and the relationship requires recurring ritual care. Ancestors and abosom occupy different positions in Akan thought: ancestors were once human, while the divinities belong to another order. Museums often isolate a shrine figure as though force were locked in wood. Sacred presence actually crosses object, location, priest, and community. Remove the relation and the case holds only a door without a house."
+  },
+  "domains": { "zh": ["地方神", "神灵附体", "神龛"], "en": ["Place divinities", "Possession", "Shrines"] },
+  "related": ["tano", "nyame", "asase-yaa"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿散蒂的宗教与艺术》（1927）", "en": "R. S. Rattray, Religion and Art in Ashanti (1927)" },
+    { "zh": "科菲·阿萨雷·奥波库《西非传统宗教》（1978）", "en": "Kofi Asare Opoku, West African Traditional Religion (1978)" },
+    { "zh": "大都会艺术博物馆〈非洲艺术：诸神居所与祖先凳室〉", "en": "The Metropolitan Museum of Art, “Arts of Africa: Dwellings of the Gods and Ancestral Stool Rooms”" }
+  ],
+  "geo": { "lat": 6.5, "lon": -1.8, "label": { "zh": "阿坎文化区", "en": "Akan cultural region" } },
+  "image": { "file": "/images/entries/abosom.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akan_shrine_figure_(Ghana),_World_Museum_Liverpool.JPG", "sourceTitle": "Akan shrine figure from Ghana", "artist": "Unknown Akan artist; photo by Rept0n1x", "license": "CC BY-SA 3.0", "width": 1199, "height": 1600 }
+}

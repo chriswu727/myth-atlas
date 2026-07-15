@@ -1,0 +1,19 @@
+{
+  "id": "sasabonsam", "tradition": "akan", "type": "creature", "era": "folk",
+  "name": { "zh": "萨萨邦萨姆", "en": "Sasabonsam", "original": "sasabonsam", "originalLang": "阿坎语" },
+  "title": { "zh": "铁齿藏在树冠，垂下的腿替森林设下钩索", "en": "Iron Teeth in the Canopy, Hooked Legs Across the Path" },
+  "summary": { "zh": "栖居深林、以铁齿与长腿袭击猎人的凶灵；其名字也卷入了巫术恐惧。", "en": "A dangerous forest being of iron teeth and impossible limbs, entangled with fears of witchcraft." },
+  "description": {
+    "zh": "萨萨邦萨姆盘踞在最不宜独行的密林深处。拉特雷记录的阿散蒂讲述给它铁齿、赤红长发与长到能缠住树枝的腿，脚或爪像钩一样垂在猎径上；人从下面经过，它便把猎物提进树冠。别处版本改变肤色、足数与形态，有时让它近似巨蝠或食血者。精确外观从来没有统一，但森林的垂直危险始终存在：人的眼睛看着脚下，捕猎者却从上方降临。\n\nSasabonsam也会与saman——鬼魂、可怕灵物——以及巫术词汇交叠，早期欧洲作者因而把它写成「非洲吸血鬼」或恶魔。这种标签抓住食血想象，却抹平了阿坎森林自己的社会边界。猎人进入深林须懂得禁忌、神龛与非人居者，萨萨邦萨姆把未经许可的侵入变成一张有牙的后果。今天它出现在恐怖小说与游戏中，常被抽离河流、祭司和地方伦理；把它放回树冠，才能听见原来的警告：密林并不因无人居住而空无所有。",
+    "en": "Sasabonsam occupies the deep forest where no one should walk carelessly alone. In Rattray’s Asante records it has iron teeth, long red hair, and legs capable of winding around branches, with hooklike feet or claws hanging over a hunting path. A person passing beneath can be lifted into the canopy. Other tellings alter color, number of limbs, and shape, at times making it resemble a vast bat or blood eater. Anatomy was never standardized, but the vertical danger of the forest remains. Human eyes attend to the ground while the hunter descends from above.\n\nThe name also overlaps with words for ghosts, frightening spirits, and the field of witchcraft. Early European writers consequently recast Sasabonsam as an “African vampire” or demon. The label catches the blood imagery while erasing the forest’s own social boundary. A hunter entering deep woodland must understand prohibitions, shrines, and nonhuman residents; Sasabonsam gives unpermitted intrusion a consequence with teeth. Modern horror and games circulate the figure without river, priest, or local ethic. Return it to the canopy and the older warning can be heard: a forest does not become empty simply because no human house is visible."
+  },
+  "domains": { "zh": ["密林", "铁齿", "伏猎"], "en": ["Deep forest", "Iron teeth", "Ambush"] },
+  "related": ["mmoatia", "anansi", "abosom"],
+  "sources": [
+    { "zh": "R·S·拉特雷《阿散蒂》（1923）", "en": "R. S. Rattray, Ashanti (1923)" },
+    { "zh": "R·S·拉特雷《阿坎-阿散蒂民间故事》（1930）", "en": "R. S. Rattray, Akan-Ashanti Folk-Tales (1930)" },
+    { "zh": "伊娃·迈耶罗维茨《阿坎宇宙观》（1949）", "en": "Eva L. R. Meyerowitz, Akan Traditions of Origin (1952)" }
+  ],
+  "geo": { "lat": 5.4, "lon": -1.3, "label": { "zh": "加纳南部森林带", "en": "Southern Ghana forest belt" } },
+  "image": { "file": "/images/entries/sasabonsam.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akan_Gold_Weight_MHNT_bovid_head.jpg", "sourceTitle": "Akan animal-head goldweight (related material; not a Sasabonsam portrait)", "artist": "Unknown Akan artist; photo by Didier Descouens", "license": "CC BY-SA 4.0", "width": 1600, "height": 1600 }
+}

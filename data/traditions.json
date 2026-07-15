@@ -220,6 +220,50 @@
     "color": "#9c5a38"
   },
   {
+    "id": "inuit",
+    "category": "pantheon",
+    "name": { "zh": "因纽特神话", "en": "Inuit Mythic Traditions" },
+    "shortName": { "zh": "因纽特", "en": "Inuit" },
+    "region": { "zh": "北美极地与格陵兰", "en": "Arctic North America & Greenland" },
+    "period": { "zh": "跨极地口传传统，19世纪起系统记录", "en": "circumpolar oral traditions, systematically recorded from the 19th century" },
+    "anchor": { "lat": 69.2, "lon": -72.0 },
+    "countries": [124, 304, 840],
+    "color": "#6b9da3"
+  },
+  {
+    "id": "philippine",
+    "category": "pantheon",
+    "name": { "zh": "菲律宾群岛神话", "en": "Myths of the Philippine Archipelago" },
+    "shortName": { "zh": "菲律宾群岛", "en": "Philippine" },
+    "region": { "zh": "吕宋、米沙鄢与棉兰老", "en": "Luzon, Visayas & Mindanao" },
+    "period": { "zh": "前殖民口传至当代民间信仰", "en": "precolonial oral traditions to living folklore" },
+    "anchor": { "lat": 12.4, "lon": 122.1 },
+    "countries": [608],
+    "color": "#b56b4c"
+  },
+  {
+    "id": "akan",
+    "category": "pantheon",
+    "name": { "zh": "阿坎神话", "en": "Akan Mythic Tradition" },
+    "shortName": { "zh": "阿坎", "en": "Akan" },
+    "region": { "zh": "加纳与科特迪瓦南部", "en": "Southern Ghana & Côte d’Ivoire" },
+    "period": { "zh": "活态口传传统，17世纪起见于文字记录", "en": "living oral tradition, recorded in writing from the 17th century" },
+    "anchor": { "lat": 6.7, "lon": -1.5 },
+    "countries": [288, 384],
+    "color": "#c08a3e"
+  },
+  {
+    "id": "guarani",
+    "category": "pantheon",
+    "name": { "zh": "瓜拉尼神话", "en": "Guaraní Mythic Traditions" },
+    "shortName": { "zh": "瓜拉尼", "en": "Guaraní" },
+    "region": { "zh": "巴拉圭河流域与南美低地", "en": "Paraguay Basin & South American lowlands" },
+    "period": { "zh": "活态口传与圣歌传统，16世纪起见于文字记录", "en": "living oral and sacred-song traditions, recorded from the 16th century" },
+    "anchor": { "lat": -24.2, "lon": -56.4 },
+    "countries": [600, 32, 76, 68],
+    "color": "#4f8a68"
+  },
+  {
     "id": "shanhaijing",
     "category": "classic",
     "name": { "zh": "山海经", "en": "Classic of Mountains and Seas" },

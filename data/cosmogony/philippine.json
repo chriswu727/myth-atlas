@@ -1,0 +1,63 @@
+{
+  "tradition": "philippine",
+  "source": {
+    "zh": "《拳师抄本》（约1590）；胡安·德·普拉森西亚《他加禄人的习俗》（1589）；梅布尔·库克·科尔《菲律宾民间故事》（1916）；H·奥特利·拜尔《菲律宾山地民族的起源神话》（1913）；达米亚娜·尤金尼奥编《菲律宾民间文学：神话》（1993）",
+    "en": "Boxer Codex (c. 1590); Juan de Plasencia, Customs of the Tagalogs (1589); Mabel Cook Cole, Philippine Folk Tales (1916); H. Otley Beyer, Origin Myths among the Mountain Peoples of the Philippines (1913); Damiana L. Eugenio, ed., Philippine Folk Literature: The Myths (1993)"
+  },
+  "note": {
+    "zh": "菲律宾群岛拥有数百种地方创世故事，不存在一条覆盖全境的顺序。下列主线以早期他加禄材料与二十世纪广泛传播的巴塔拉叙事为骨架，并把「竹中男女」作为另一个可比较的人类起源母题并置；它没有代表米沙鄢、伊富高、比兰、布基农、马拉瑙等传统。巴塔拉与海蛇、翼神争斗的完整故事主要见于较晚汇编，早期《拳师抄本》更简洁地说巴塔拉独自造天地与泥中男女，两者不能假装成同一时代的原文。",
+    "en": "The Philippine archipelago possesses hundreds of local creations and no sequence covering every island. The line below uses early Tagalog material and the widely circulated twentieth-century Bathala cycle as its spine, while placing the bamboo couple beside it as a separate human-origin motif. It does not represent Visayan, Ifugao, Bilaan, Bukidnon, Maranao, and many other traditions. The full conflict between Bathala, serpent, and winged being is most visible in later compilations; the early Boxer Codex says more simply that Bathala made heaven, earth, and a first couple from soil. The two cannot be presented as one text from one era."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "天海未分", "en": "Before ordered realms" },
+      "title": { "zh": "巴塔拉独居高空，海蛇盘在无边水下", "en": "Bathala Dwells Above; a Serpent Coils in Boundless Water" },
+      "text": {
+        "zh": "较晚的他加禄合成叙事说，世界尚无土地时已有三股力量：高空的巴塔拉、海中的乌里朗·卡卢卢瓦与有翼的加朗·卡卢卢瓦，彼此原本互不相识。早期《拳师抄本》没有这组三神，只说巴塔拉在一切之前自存。把两层材料并看，可以看见创世故事怎样从一句至高创造，长成一场天空、海洋与友谊的戏剧。",
+        "en": "A later Tagalog synthesis places three powers before land: Bathala in the heights, the serpent Ulilang Kaluluwa within the sea, and the winged Galang Kaluluwa, each originally unknown to the others. The earlier Boxer Codex has no such triad and says only that Bathala existed by himself before all things. Seen together, the two layers reveal how a brief assertion of supreme creation grew into a drama of sky, ocean, conflict, and friendship."
+      },
+      "entries": ["bathala"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "高空之战", "en": "War in the heights" },
+      "title": { "zh": "蛇不肯分享天空，三日交战后坠入海底", "en": "The Serpent Refuses the Sky and Falls After Three Days" },
+      "text": {
+        "zh": "乌里朗·卡卢卢瓦看见高空广阔，要求与巴塔拉分享统治；遭拒之后，两者鏖战三日三夜，海蛇被击死焚烧。后来加朗·卡卢卢瓦来到，巴塔拉却与它结为朋友。翼神患病临终，请求把身体埋在旧敌焚毁之处。创世因此由两种关系共同推动：拒绝分享引出战争，愿意接纳陌生者则留下可以生长的遗体。",
+        "en": "Ulilang Kaluluwa sees the breadth of heaven and demands to share Bathala’s rule. Refusal leads to three days and nights of battle, ending with the serpent killed and burned. When Galang Kaluluwa later arrives, Bathala instead makes a friend. Dying of illness, the winged being asks to be buried where the old enemy was consumed. Creation is moved by two opposed relations: refusal to share produces war, while willingness to receive a stranger leaves a body from which new life can grow."
+      },
+      "entries": ["bathala"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "土地与椰树", "en": "Land and coconut" },
+      "title": { "zh": "两具遗骸相合，树干、果实与最初土地随之升起", "en": "Two Remains Meet and the Coconut Rises with Land" },
+      "text": {
+        "zh": "在流行版本中，埋葬之处长出第一棵椰树：圆果像加朗·卡卢卢瓦的头，叶片如翼，坚硬树干来自海蛇之躯；巴塔拉又使土地铺展，让植物与动物出现。椰树把死亡转成群岛最日常的食物、饮水、纤维与屋材。这个阶段在早期他加禄记载中并无同样细节，属于后世广泛传播的创世诗性，而非可直接追到十六世纪的定本。",
+        "en": "In the popular version, the first coconut grows where the bodies were joined. Its round fruit recalls Galang Kaluluwa’s head, the leaves spread like wings, and the hard trunk carries the serpent’s body. Bathala extends land and brings forth plants and animals. Death becomes the archipelago’s most ordinary source of food, drink, fiber, and shelter. The early Tagalog records do not preserve this episode in the same detail; it belongs to a later, widely circulated poetry of origins rather than a fixed sixteenth-century text."
+      },
+      "entries": ["bathala", "diwata"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "竹中之人", "en": "People within bamboo" },
+      "title": { "zh": "神鸟啄开竹节，强者与美者从空腔里回答", "en": "A Sacred Bird Opens Bamboo and Two Voices Answer" },
+      "text": {
+        "zh": "另一支广为流传的人类起源说，海上漂着一根巨竹，神鸟提格马马努坎啄开竹节，从中走出马拉卡斯与玛甘达——「强者」与「美者」。有的讲法让他们成为最初男女，有的只说他们是洪水后的人类祖先。竹中出人母题也有许多地方变体，不能只属于他加禄版本；本线把它与巴塔拉并置，是为了显示群岛创世如何由不同故事接续，而非宣称两者原本就是一篇。",
+        "en": "A separate and widely circulated human-origin motif sends a great bamboo over the sea. The sacred tigmamanukan bird pecks the joint open, and Malakas and Maganda—Strong and Beautiful—emerge from the hollow. Some versions make them the first man and woman, others the ancestors of humanity after a flood. The bamboo-birth motif has many local variants and cannot be owned by one Tagalog account. It is placed beside Bathala here to show how archipelagic creations connect separate stories, not to claim they began as one composition."
+      },
+      "entries": ["bathala", "diwata"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "仍会被咬暗的月", "en": "The moon can still be bitten" },
+      "title": { "zh": "诸灵留在山林，巴库纳瓦每次月食仍重演宇宙危机", "en": "Spirits Remain in the Land and Bakunawa Returns at Eclipse" },
+      "text": {
+        "zh": "造物没有把世界清空给人。迪瓦塔仍拥有山、树、泉水与稻田，经过边界要请求让路；月食时巴库纳瓦再次吞咬月亮，人们以锣鼓、锅盆与喊声让它松口。群岛神话没有统一的末日，只有不断回来的失衡时刻。人每次守礼、献祭或共同击响器物，都在参与一次微小的再创世，让光和道路重新可用。",
+        "en": "Creation never emptied the world for humankind. Diwata continue to own mountain, tree, spring, and field, and a traveler asks permission at their boundaries. During eclipse, Bakunawa bites the moon again and people answer with gongs, pans, and shouting until it releases the light. The archipelago has no single shared apocalypse, only recurring moments of imbalance. Every observance, offering, and communal burst of sound takes part in a small re-creation, making light and passage usable once more."
+      },
+      "entries": ["diwata", "bakunawa", "sarimanok"]
+    }
+  ]
+}
