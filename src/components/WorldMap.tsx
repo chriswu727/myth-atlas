@@ -219,7 +219,8 @@ export default function WorldMap({
 
   const countries = useMemo(
     () =>
-      world?.features.map((shape) => ({
+      world?.features.map((shape, index) => ({
+        key: shape.id == null ? `country-${index}` : `country-${shape.id}`,
         id: Number(shape.id),
         d: path(shape) ?? undefined,
       })) ?? [],
@@ -352,8 +353,8 @@ export default function WorldMap({
           <g ref={contentRef}>
             <path
               d={spherePath}
-              fill="#111b20"
-              stroke="rgba(235,221,190,0.48)"
+              fill="#142126"
+              stroke="rgba(235,221,190,0.62)"
               strokeWidth="1"
               vectorEffect="non-scaling-stroke"
               className="map-fade-1"
@@ -361,7 +362,7 @@ export default function WorldMap({
             <path
               d={graticulePath}
               fill="none"
-              stroke="rgba(230,220,194,0.15)"
+              stroke="rgba(230,220,194,0.2)"
               strokeWidth="0.5"
               vectorEffect="non-scaling-stroke"
               className="map-fade-1"
@@ -373,10 +374,10 @@ export default function WorldMap({
                 const highlighted = activeTid !== null && owners?.includes(activeTid);
                 return (
                   <path
-                    key={country.id}
+                    key={country.key}
                     d={country.d}
-                    fill={highlighted && activeColor ? `${activeColor}78` : "rgba(230,220,194,0.07)"}
-                    stroke={highlighted ? "rgba(242,232,207,0.66)" : "rgba(230,220,194,0.31)"}
+                    fill={highlighted && activeColor ? `${activeColor}88` : "rgba(230,220,194,0.105)"}
+                    stroke={highlighted ? "rgba(242,232,207,0.78)" : "rgba(230,220,194,0.4)"}
                     strokeWidth={highlighted ? "0.8" : "0.5"}
                     vectorEffect="non-scaling-stroke"
                     className="map-country"
@@ -463,15 +464,20 @@ export default function WorldMap({
                         style={{
                           animationDelay: `${-index * 0.31}s`,
                           animationDuration: `${4.8 + index % 5 * 0.42}s`,
-                          filter: active ? `drop-shadow(0 0 8px ${tradition.color})` : undefined,
+                          filter: active ? `drop-shadow(0 0 12px ${tradition.color})` : undefined,
                         }}
                       >
                         <circle
-                          r="11"
+                          r="9.4"
+                          fill={active ? `${tradition.color}26` : "rgba(233, 215, 169, 0.1)"}
+                          className="map-anchor-aura"
+                        />
+                        <circle
+                          r="13"
                           fill="none"
-                          stroke={active ? tradition.color : "#d4c59e"}
-                          strokeWidth="0.9"
-                          strokeDasharray="9 61"
+                          stroke={active ? tradition.color : "#ead9a9"}
+                          strokeWidth="1.1"
+                          strokeDasharray="13 69"
                           strokeLinecap="round"
                           className="map-anchor-orbit"
                           style={{
@@ -480,14 +486,14 @@ export default function WorldMap({
                           }}
                         />
                         <circle
-                          r="5.5"
-                          fill={active ? `${tradition.color}32` : "rgba(215, 200, 163, 0.08)"}
-                          stroke={active ? tradition.color : "rgba(220, 205, 168, 0.68)"}
-                          strokeWidth="0.7"
+                          r="6.2"
+                          fill={active ? `${tradition.color}45` : "rgba(226, 208, 163, 0.16)"}
+                          stroke={active ? tradition.color : "rgba(238, 220, 174, 0.9)"}
+                          strokeWidth="0.9"
                           className="map-anchor-halo"
                         />
-                        <circle r={active ? 2.7 : 2.15} fill={active ? tradition.color : "#dbc78f"} className="map-anchor-core" />
-                        <circle cx="9.4" cy="-2.4" r="1" fill={active ? tradition.color : "#e1d3ac"} className="map-anchor-satellite" />
+                        <circle r={active ? 3.2 : 2.65} fill={active ? tradition.color : "#f0d88f"} className="map-anchor-core" />
+                        <circle cx="11.2" cy="-3" r="1.2" fill={active ? tradition.color : "#f1e1b8"} className="map-anchor-satellite" />
                       </g>
                       <text
                         x={tweak.dx ?? 12}
