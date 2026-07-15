@@ -1,0 +1,105 @@
+{
+  "id": "scp-087",
+  "tradition": "scp",
+  "type": "place",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-087 · 无尽楼梯",
+    "en": "SCP-087 · The Stairwell",
+    "original": "SCP-087",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "向地下延伸、却不肯抵达楼底的黑暗阶梯",
+    "en": "The Stairwell That Refuses to Reach a Bottom"
+  },
+  "summary": {
+    "zh": "一座吞噬普通照明的封闭楼梯井，从下方不断传来孩童哭声；探索越深，声音似乎越近，出口却越来越遥远。",
+    "en": "A light-devouring stairwell descending beyond measurement, haunted by a child’s cries and a face without visible pupils or features."
+  },
+  "description": {
+    "zh": "SCP-087是一段位于校园建筑内的混凝土楼梯井。灯光只能照亮极短距离，结构却持续向下，远超建筑与地基能够容纳的深度。探索者会听见孩童的哭声从更低处传来；无论下降多少层，声源仍像隔着相似距离。台阶、平台、转角不断重复，简陋得几乎没有可供记忆定位的差异，令“继续向下”逐渐成为唯一剩余的方向。\n\n多次探索记录把读者固定在头灯、计数与无线电的狭窄视野里。深处出现一张苍白的脸，没有正常可辨的瞳孔、鼻孔或嘴部，却能在黑暗中逼近。档案没有揭示哭声的孩子、楼梯的终点或实体的完整身份；后续通道也被永久封闭。087的力量来自拒绝结局。它把最普通的建筑构件变成一条垂直神话道路：每一级都证明确实走得更深，每一次重复又否认“更深”必然带来答案。",
+    "en": "SCP-087 is a concrete stairwell located inside an educational building. Light reaches only a short distance, while the structure descends far beyond any depth the building and its foundations could contain. Explorers hear a child crying from below. No matter how many flights they descend, the sound appears to remain at roughly the same separation. Steps, landings, and turns repeat with almost no feature by which memory can establish position, until continuing downward seems to be the only direction left.\n\nA series of exploration logs confines the reader to headlamp, counted floors, and a failing radio. In the depths, a pale face appears without normally visible pupils, nostrils, or mouth, yet draws closer through darkness. The file never reveals the child, the bottom, or the complete nature of the presence. Further access is eventually sealed. SCP-087 derives its force from refusing an ending. It transforms the most ordinary architectural component into a vertical mythic road: every step proves that one has traveled deeper, while every repetition denies that depth must produce an answer."
+  },
+  "domains": {
+    "zh": [
+      "无尽下行",
+      "孩童哭声",
+      "探索日志",
+      "重复建筑"
+    ],
+    "en": [
+      "Endless descent",
+      "Child’s crying",
+      "Exploration logs",
+      "Repetitive architecture"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Euclid",
+        "en": "Euclid"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Zaeyde",
+        "en": "Zaeyde"
+      }
+    },
+    {
+      "label": {
+        "zh": "档案形态",
+        "en": "Document form"
+      },
+      "value": {
+        "zh": "多次探索记录逐层逼近未知",
+        "en": "Successive exploration logs approach the unknown"
+      }
+    }
+  ],
+  "related": [
+    "scp-3008",
+    "scp-106",
+    "scp-096",
+    "scp-055"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-087 原始档案，作者：Zaeyde",
+      "en": "SCP-087 source article by Zaeyde",
+      "url": "https://scp-wiki.wikidot.com/scp-087"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-087”，原作者为 Zaeyde；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-087” by Zaeyde. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-087.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-087",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

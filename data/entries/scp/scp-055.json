@@ -1,0 +1,105 @@
+{
+  "id": "scp-055",
+  "tradition": "scp",
+  "type": "artifact",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-055 · 遗忘之物",
+    "en": "SCP-055 · The Self-Keeping Secret",
+    "original": "SCP-055",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "一离开收容室便从记忆里退潮的反模因",
+    "en": "The Antimeme That Withdraws from Memory"
+  },
+  "summary": {
+    "zh": "某种无法被稳定记住或记录的对象；人能确认它不具备某些性质，却无法把关于它的正面知识带出房间。",
+    "en": "An object that resists memory and description: observers can retain what it is not, but positive knowledge soon disappears."
+  },
+  "description": {
+    "zh": "SCP-055被保存在一间高度戒备的收容室里，然而基金会无法稳定回答“里面是什么”。观察者可以进入、测量、交谈或书写；离开后，关于对象的正面信息便从记忆和记录链条中滑脱。某些否定判断似乎能短暂留下，例如它不符合一个容易猜测的简单形状，但这些残片不足以重建整体。更惊人的漏洞是：组织甚至会忘记自己拥有这个收容项目，需要一次又一次重新发现同一份空白。\n\n传统隐形仍允许关于对象的知识存在，055却让失败发生在信息成为可持续知识的那一步。眼睛可能看见，仪器也可能工作。SCP社群由此发展出“反模因”概念：某些观念主动阻止自身传播，像生物躲避捕食一样逃离认知。055的档案也把网站形式变成叙事机关，读者读完时已经参与了遗忘实验。它没有提供怪物肖像，却成为基金会神话最有代表性的抽象存在之一——一座档案馆真正无法容忍的，是一种连自己的索引卡都能吃掉的未知。",
+    "en": "SCP-055 is held in a heavily secured chamber, yet the Foundation cannot sustain an answer to the question of what occupies it. An observer may enter, measure, speak, or write. After departure, positive information about the object slips from memory and from the chain of usable records. Certain negative conclusions can remain for a time—for example, that it does not have one obvious simple shape—but fragments never reconstruct the whole. More alarming, the organization can forget that the containment project itself exists and repeatedly rediscover the same absence.\n\nThis is not ordinary invisibility. Eyes may see and instruments may function; failure occurs when perception should become durable knowledge. The SCP community developed the idea of an antimeme from this structure: information that prevents its own transmission as actively as an organism evades predation. The page’s form becomes a narrative mechanism, making every reader participate in the forgetting experiment. Without offering a monster portrait, SCP-055 became one of the Foundation’s defining abstractions. An archive fears more than the unknown; it fears an unknown capable of eating its own index card."
+  },
+  "domains": {
+    "zh": [
+      "反模因",
+      "认知遮蔽",
+      "组织失忆",
+      "负面知识"
+    ],
+    "en": [
+      "Antimeme",
+      "Cognitive concealment",
+      "Institutional amnesia",
+      "Negative knowledge"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Keter",
+        "en": "Keter"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "qntm 与 CptBellman",
+        "en": "qntm and CptBellman"
+      }
+    },
+    {
+      "label": {
+        "zh": "异常机制",
+        "en": "Anomalous mechanism"
+      },
+      "value": {
+        "zh": "正面信息无法形成持久记忆",
+        "en": "Positive information fails to become durable memory"
+      }
+    }
+  ],
+  "related": [
+    "scp-2521",
+    "scp-2000",
+    "scp-914",
+    "scp-3008"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-055 原始档案，作者：qntm 与 CptBellman",
+      "en": "SCP-055 source article by qntm and CptBellman",
+      "url": "https://scp-wiki.wikidot.com/scp-055"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-055”，原作者为 qntm 与 CptBellman；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-055” by qntm and CptBellman. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-055.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-055",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

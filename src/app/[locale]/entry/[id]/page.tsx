@@ -109,7 +109,9 @@ export default async function EntryPage({
                   ({e.image.license})
                 </>
               ) : (
-                e.era === "modern" ? dict.entry.noImageModern[locale] : dict.entry.noImageOld[locale]
+                e.era === "modern" || e.era === "contemporary"
+                  ? dict.entry.noImageModern[locale]
+                  : dict.entry.noImageOld[locale]
               )}
             </figcaption>
           </figure>
@@ -156,10 +158,27 @@ export default async function EntryPage({
               <dt className="eyebrow">{dict.entry.sources[locale]}</dt>
               <dd className="mt-1.5 space-y-1 text-vellum-dim">
                 {e.sources.map((source, index) => (
-                  <p key={index}>{source[locale]}</p>
+                  <p key={index}>
+                    {source.url ? (
+                      <a href={source.url} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
+                        {source[locale]}
+                      </a>
+                    ) : source[locale]}
+                  </p>
                 ))}
               </dd>
             </div>
+            {e.rights && (
+              <div>
+                <dt className="eyebrow">{dict.entry.rights[locale]}</dt>
+                <dd className="mt-1.5 text-vellum-dim">
+                  <a href={e.rights.url} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
+                    {e.rights.name}
+                  </a>
+                  <p className="mt-1 leading-relaxed">{e.rights.note[locale]}</p>
+                </dd>
+              </div>
+            )}
           </dl>
         </aside>
 

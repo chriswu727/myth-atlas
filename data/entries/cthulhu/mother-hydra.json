@@ -1,0 +1,94 @@
+{
+  "id": "mother-hydra",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "母神海德拉",
+    "en": "Mother Hydra",
+    "original": "Mother Hydra",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "因斯茅斯海祭中与达贡并列的母名",
+    "en": "The Mother-Name in Innsmouth’s Tide-Rites"
+  },
+  "summary": {
+    "zh": "因斯茅斯秘教呼唤的海中母神；原作只留下祭仪中的名号，具体身世和形体多出自后世补写。",
+    "en": "The mother-name invoked in Innsmouth’s sea cult, powerful in ritual yet almost entirely undescribed by Lovecraft."
+  },
+  "description": {
+    "zh": "母神海德拉出现在《印斯茅斯的阴霾》的宗教语言里，与父神达贡、克苏鲁并列接受因斯茅斯秘教的祈祷。洛夫克拉夫特没有让她从海里升起，也没有留下可供博物图鉴描摹的身体；她首先是一种称谓，一处暗示深潜者社会拥有祖源、婚配与丰殖仪式的空白。\n\n角色扮演资料和共享宇宙小说后来把这处空白填成巨型雌性深潜者、达贡的伴侣或整个海族的母体。那些设定便于叙事，却不是早期小说已经宣告的谱系。保留未知，反而能看见她在因斯茅斯神话中的真正位置：镇民以金饰、渔获和跨族婚姻换取海底的许诺；“母神”把这种交易包装成返祖归宗。人类家庭的姓氏、港口的经济和深海中的漫长血缘由此缠在一起，直到某个后代在镜中发现，潮汐早已写进自己的面孔。",
+    "en": "Mother Hydra appears in the religious language of The Shadow over Innsmouth, invoked beside Father Dagon and Cthulhu by the Esoteric Order. Lovecraft never brings her rising from the sea and leaves no body for a bestiary to measure. She begins as a title, a deliberate blank suggesting that Deep One society possesses ancestry, mating, and fertility rites beyond the narrator’s knowledge.\n\nRoleplaying manuals and shared-universe fiction later filled that blank with a gigantic female Deep One, Dagon’s consort, or the mother of an entire marine race. Those arrangements are useful to later stories but were not proclaimed as genealogy in the original novella. Preserving uncertainty reveals her actual place in the Innsmouth myth. Townspeople exchange gold, plentiful catches, and intermarriage for promises from below; the word “Mother” turns that bargain into a homecoming. Human surnames, harbor economics, and abyssal bloodlines knot together until a descendant looks into a mirror and discovers that the tide has long been writing itself across the face."
+  },
+  "domains": {
+    "zh": [
+      "海族母名",
+      "丰殖仪式",
+      "跨族婚配",
+      "文本留白"
+    ],
+    "en": [
+      "Marine mother-name",
+      "Fertility rites",
+      "Intermarriage",
+      "Textual absence"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次现身",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "《印斯茅斯的阴霾》（1931写成）",
+        "en": "The Shadow over Innsmouth (written 1931)"
+      }
+    },
+    {
+      "label": {
+        "zh": "层级提醒",
+        "en": "Layer note"
+      },
+      "value": {
+        "zh": "伴侣与巨型深潜者形象主要来自后世",
+        "en": "The consort and giant Deep One identity is mainly later lore"
+      }
+    }
+  ],
+  "related": [
+    "dagon",
+    "deep-ones",
+    "innsmouth",
+    "shub-niggurath"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《印斯茅斯的阴霾》",
+      "en": "H. P. Lovecraft, The Shadow over Innsmouth",
+      "url": "https://www.gutenberg.org/ebooks/73181"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/mother-hydra.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/mother-hydra",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

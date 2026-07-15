@@ -1,0 +1,105 @@
+{
+  "id": "scp-3008",
+  "tradition": "scp",
+  "type": "place",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-3008 · 无限宜家",
+    "en": "SCP-3008 · A Perfectly Normal, Regular Old IKEA",
+    "original": "SCP-3008",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "闭店广播之后，样板间化作没有边界的夜国",
+    "en": "The Endless Store That Becomes a Night Kingdom at Closing"
+  },
+  "summary": {
+    "zh": "外表普通的家具商场，入口内却延伸为无边迷宫；受困者建立聚落，并在熄灯后抵御无面“员工”。",
+    "en": "An apparently ordinary furniture store opening into an endless interior where stranded people build settlements and survive hostile Staff after closing."
+  },
+  "description": {
+    "zh": "SCP-3008从外部看是一家普通的宜家商场，穿过入口后，内部空间却向所有方向延伸，远超建筑外壳。货架、样板间、餐厅与仓储区不断重复，偶尔出现无法对应现实商品目录的区域。来自不同地点和时间的受困者用床架、柜板与照明设备建立聚落，寻找食物补给，记录路线，并等待一扇很可能不会再次出现的出口。\n\n商场的昼夜由照明和广播划分。闭店时，身着员工制服、四肢比例错误且没有正常面孔的“员工”会变得暴力，以营业结束的礼貌套语追逐所有顾客。于是消费空间转化为完整的现代洪荒：创世材料是扁平包装家具，部落边界由陈列柜构成，末日每天在熄灯广播中重演。基金会只能监控现实世界的一处入口，无法收容内部无穷地理。3008之所以迅速成为网络时代标志性怪谈，是因为它没有发明陌生宫殿；它只让最熟悉、最标准化的全球空间失去尽头。",
+    "en": "SCP-3008 appears from outside to be an ordinary IKEA store. Beyond the entrance, however, interior space extends in every direction far past the building’s shell. Shelves, model rooms, restaurant sections, and warehouses repeat, interrupted by regions corresponding to no real catalogue. People stranded from different places and times build settlements from bed frames, cabinets, and lighting equipment. They search for food, map routes, and wait for an exit unlikely to appear in the same place twice.\n\nThe store’s day and night are defined by lights and announcements. At closing, figures in employee uniforms, with incorrect proportions and no normal faces, become violent and pursue every customer using the language of routine service. Consumer space turns into a modern primal world. Flat-pack furniture becomes creation material, display units mark tribal walls, and apocalypse returns with each closing message. The Foundation can monitor one entrance in ordinary reality but cannot contain the unbounded geography inside. SCP-3008 became a defining network legend because it invents no unfamiliar palace. It merely removes the end from one of the world’s most familiar and standardized spaces."
+  },
+  "domains": {
+    "zh": [
+      "无限室内",
+      "幸存者聚落",
+      "无面员工",
+      "消费空间神话"
+    ],
+    "en": [
+      "Infinite interior",
+      "Survivor settlements",
+      "Faceless Staff",
+      "Retail-space mythology"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Euclid",
+        "en": "Euclid"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Mortos",
+        "en": "Mortos"
+      }
+    },
+    {
+      "label": {
+        "zh": "空间周期",
+        "en": "Spatial cycle"
+      },
+      "value": {
+        "zh": "亮灯时搜集与建设，闭店后进入围城之夜",
+        "en": "Gathering and construction by day, siege after closing"
+      }
+    }
+  ],
+  "related": [
+    "scp-087",
+    "scp-2000",
+    "scp-2521",
+    "scp-055"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-3008 原始档案，作者：Mortos",
+      "en": "SCP-3008 source article by Mortos",
+      "url": "https://scp-wiki.wikidot.com/scp-3008"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-3008”，原作者为 Mortos；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-3008” by Mortos. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-3008.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-3008",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "deep-ones",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "深潜者",
+    "en": "Deep Ones",
+    "original": "Deep Ones",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "在海沟与人类族谱之间往返的不朽海民",
+    "en": "The Deathless People Between Trench and Bloodline"
+  },
+  "summary": {
+    "zh": "居于海底、可与人类繁衍的古老族群；他们带来金饰与丰饶，也让因斯茅斯的后代逐渐走向海。",
+    "en": "An immortal marine people who interbreed with humans, purchasing Innsmouth’s devotion with gold, fish, and a tidal inheritance."
+  },
+  "description": {
+    "zh": "深潜者是《印斯茅斯的阴霾》中真正撑起小镇历史的族群。他们栖居于近海礁下的伊哈·恩斯雷，与奥贝德·马什船长订立交易：海底提供金饰、丰沛渔获与某种长寿，人类则献上仪式、祭品和婚姻。混血后代童年可能近似常人，成年后眼睛、皮肤、颈部和步态逐渐改变，最终投入海中，在水下继续近乎无尽的生命。\n\n小说把这种转变写成恐怖，也在结尾让叙述者感到一种危险的归乡诱惑。现代阅读必须同时看见文本里的排外焦虑：洛夫克拉夫特把对移民、族际婚姻和“血统污染”的恐惧编码进因斯茅斯人的身体。深潜者因此不只是怪物图鉴的一页，也是作者偏见被文学化的证据。后世创作者常反转视角，把他们写成被陆地政权轰炸、污名化的海洋文明；这种改写没有抹掉原作，却显示现代神话能够审问自己的出生阴影。",
+    "en": "The Deep Ones are the people who truly sustain the history of The Shadow over Innsmouth. They dwell at Y’ha-nthlei beneath the reefs and bargain with Captain Obed Marsh: the sea supplies strange gold, abundant fish, and a form of longevity, while the town gives rites, sacrifices, and marriage. Hybrid descendants may resemble other children, but eyes, skin, neck, and gait change with age. Eventually they enter the ocean and continue an almost endless life below.\n\nThe novella treats this transformation as horror, then lets the narrator feel its dangerous promise of homecoming. A modern reading must also confront the story’s xenophobic machinery: Lovecraft encoded fears of immigration, intermarriage, and corrupted ancestry into Innsmouth bodies. The Deep Ones are therefore both monsters and evidence of an author’s prejudice made biological. Later creators frequently reverse the viewpoint, imagining an oceanic civilization bombed and stigmatized by authorities on land. Such retellings do not erase the original; they show a modern mythology becoming capable of interrogating the shadow present at its birth."
+  },
+  "domains": {
+    "zh": [
+      "海底族群",
+      "不朽血脉",
+      "因斯茅斯交易",
+      "变身归海"
+    ],
+    "en": [
+      "Marine people",
+      "Immortal bloodline",
+      "Innsmouth bargain",
+      "Tidal transformation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core text"
+      },
+      "value": {
+        "zh": "《印斯茅斯的阴霾》",
+        "en": "The Shadow over Innsmouth"
+      }
+    },
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Dwelling"
+      },
+      "value": {
+        "zh": "魔鬼礁下的伊哈·恩斯雷",
+        "en": "Y’ha-nthlei beneath Devil Reef"
+      }
+    }
+  ],
+  "related": [
+    "innsmouth",
+    "dagon",
+    "mother-hydra",
+    "cthulhu"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《印斯茅斯的阴霾》",
+      "en": "H. P. Lovecraft, The Shadow over Innsmouth",
+      "url": "https://www.gutenberg.org/ebooks/73181"
+    },
+    {
+      "zh": "David E. Schultz、S. T. 乔希编《An Epicure in the Terrible》",
+      "en": "David E. Schultz and S. T. Joshi, eds., An Epicure in the Terrible"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/deep-ones.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/deep-ones",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

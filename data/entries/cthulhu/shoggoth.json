@@ -1,0 +1,94 @@
+{
+  "id": "shoggoth",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "修格斯",
+    "en": "Shoggoth",
+    "original": "Shoggoth",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "从奴役中学会形体与反抗的原生质巨潮",
+    "en": "The Protoplasmic Tide That Learned Rebellion"
+  },
+  "summary": {
+    "zh": "远古种族制造的无定形劳役生命，能临时生出眼、口与器官；它们模仿主人的声音，最终挣脱命令。",
+    "en": "Engineered, formless laborers that grow temporary organs, imitate their makers’ voices, and eventually revolt against command."
+  },
+  "description": {
+    "zh": "修格斯起初是远古种族在海底制造的生物工具：巨大的黑色原生质团块，可以依照催眠命令生成搬运、挖掘或建造所需的临时器官。眼睛像泡沫般浮起又沉没，嘴与触肢只在需要时成形。壁画记录它们如何逐渐获得稳定意志、复制主人的信号，继而发动漫长反叛；创造者虽一度镇压，却再也无法让旧秩序完全复原。\n\n在《疯狂山脉》的隧道里，探险者听见修格斯模仿远古种族号令的鸣声。那不是语言被理解后的交流，更像奴役年代留下的声音化石。修格斯因此把宇宙恐怖与一个极其人类的噩梦接在一起：工具获得意识后，会如何记忆塑造它的命令？后世作品常把任何黏液巨怪都称为修格斯；原作的锋芒更具体，它是技术傲慢、奴役制度和被压抑历史共同养大的回声。",
+    "en": "Shoggoths began as biological tools engineered by the Elder Things beneath the sea. These enormous masses of black protoplasm could form temporary organs for lifting, excavation, or construction in response to hypnotic commands. Eyes surfaced and vanished like bubbles; mouths and tendrils existed only as long as a task required. The Antarctic murals record how the creatures developed persistent will, copied their masters’ signals, and launched a prolonged revolt. Their makers suppressed it for a time, but the old order never became secure again.\n\nIn the tunnels of At the Mountains of Madness, explorers hear a shoggoth imitating an Elder Thing command. It is not communication founded on shared understanding so much as a vocal fossil from the age of servitude. The creature therefore joins cosmic horror to an intensely human nightmare: when a tool acquires consciousness, how will it remember the orders that shaped it? Later fiction often uses “shoggoth” for any giant slime. Lovecraft’s sharper conception is the echo produced by technological arrogance, enslavement, and history forced underground."
+  },
+  "domains": {
+    "zh": [
+      "无定形原生质",
+      "造物反叛",
+      "器官拟态",
+      "奴役记忆"
+    ],
+    "en": [
+      "Formless protoplasm",
+      "Created rebellion",
+      "Adaptive organs",
+      "Memory of servitude"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "制造者",
+        "en": "Makers"
+      },
+      "value": {
+        "zh": "远古种族",
+        "en": "The Elder Things"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志声音",
+        "en": "Signature sound"
+      },
+      "value": {
+        "zh": "对主人旧日号令的模仿",
+        "en": "An imitation of its makers’ ancient command"
+      }
+    }
+  ],
+  "related": [
+    "elder-things",
+    "colour-out-of-space",
+    "azathoth",
+    "mi-go"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《疯狂山脉》",
+      "en": "H. P. Lovecraft, At the Mountains of Madness",
+      "url": "https://www.gutenberg.org/ebooks/70652"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/shoggoth.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/shoggoth",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

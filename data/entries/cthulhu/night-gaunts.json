@@ -1,0 +1,94 @@
+{
+  "id": "night-gaunts",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "夜魇",
+    "en": "Night-Gaunts",
+    "original": "Night-gaunts",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "无面翼影从梦的悬崖俯冲而下",
+    "en": "Faceless Wings Descending from Dream’s Cliffs"
+  },
+  "summary": {
+    "zh": "无面、长角、蝠翼的幻梦境生物，以倒钩尾擒住旅人；它们沉默可怖，也能成为穿越梦界的盟友。",
+    "en": "Faceless horned fliers of Dreamland who seize travelers with barbed tails, terrifying as captors and invaluable as allies."
+  },
+  "description": {
+    "zh": "夜魇来自洛夫克拉夫特童年反复出现的噩梦，后来在《梦寻秘境卡达斯》中获得完整位置。它们通体黑暗，长着角、蝙蝠翼和带倒钩的尾巴，面部却没有眼、鼻、嘴，连威吓都在绝对沉默中完成。夜魇从恩格拉尼克山等险地俯冲，以尾巴和肢体抓住旅人，把人送往更深、更陌生的梦境区域。\n\n无面没有使它们失去关系。故事后段，食尸鬼借助夜魇组成空中军队，卡特也从俘虏转为乘客。它们像梦本身一样不保证善恶：被其抓住时，每一次失重都是恐怖；当方向一致时，那双翼又能跨越任何清醒世界没有的道路。后世视觉作品常为无脸补上发光眼睛或口器，反而削弱了原始设计。夜魇最纯粹的力量来自空白——你无法从它脸上辨认意图，只能在悬崖突然远去时，猜测自己将被带向哪一层夜色。",
+    "en": "Night-gaunts arose from recurring childhood nightmares reported by Lovecraft and later received their fullest place in The Dream-Quest of Unknown Kadath. They are utterly black, horned, bat-winged, and equipped with barbed tails, but their faces possess neither eyes, nose, nor mouth. Even menace occurs in absolute silence. They dive from dangerous regions such as Mount Ngranek, seize travelers with limbs and tails, and carry them toward stranger, deeper provinces of dream.\n\nFacelessness does not leave them without relationships. Later in the story, ghouls employ night-gaunts as an aerial host, and Carter’s role changes from captive to passenger. Like dream itself, they promise no stable moral alignment. When they take you, every loss of altitude is terror; when their direction matches yours, those wings cross roads unavailable to waking geography. Later art often adds shining eyes or jaws, weakening the original conception. Their clearest power lies in the blank: no expression reveals intention, and only the receding cliff tells the traveler that another depth of night has opened."
+  },
+  "domains": {
+    "zh": [
+      "无面飞行者",
+      "幻梦境",
+      "噩梦原型",
+      "沉默擒获"
+    ],
+    "en": [
+      "Faceless fliers",
+      "Dreamlands",
+      "Nightmare archetype",
+      "Silent capture"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "来源",
+        "en": "Origin"
+      },
+      "value": {
+        "zh": "作者童年噩梦，后写入幻梦境",
+        "en": "Lovecraft’s childhood nightmares, later placed in Dreamland"
+      }
+    },
+    {
+      "label": {
+        "zh": "面貌",
+        "en": "Face"
+      },
+      "value": {
+        "zh": "完全空白，无眼、鼻、口",
+        "en": "Entirely blank, without eyes, nose, or mouth"
+      }
+    }
+  ],
+  "related": [
+    "dreamlands",
+    "ghouls",
+    "nyarlathotep",
+    "azathoth"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《梦寻秘境卡达斯》",
+      "en": "H. P. Lovecraft, The Dream-Quest of Unknown Kadath",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特书信中关于童年夜魇梦的记述",
+      "en": "H. P. Lovecraft’s letters describing childhood night-gaunt dreams"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/night-gaunts.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/night-gaunts",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

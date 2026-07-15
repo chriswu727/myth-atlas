@@ -1,0 +1,94 @@
+{
+  "id": "elder-sign",
+  "tradition": "cthulhu",
+  "type": "artifact",
+  "era": "modern",
+  "name": {
+    "zh": "旧印",
+    "en": "Elder Sign",
+    "original": "Elder Sign",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "在门槛上划开守护与误读的符号",
+    "en": "The Sign Drawn Between Protection and Reinvention"
+  },
+  "summary": {
+    "zh": "用于抵御或标记远古力量的神秘符号；原作形态不一，今日通行的枝状印与星眼印来自不同文本层。",
+    "en": "A protective or prohibitive mark whose twig-like Lovecraft form and later star-and-eye design belong to different layers."
+  },
+  "description": {
+    "zh": "旧印在多篇神话文本中承担防护、封锁或身份标记的功能，却没有一份从头到尾一致的使用说明。洛夫克拉夫特在书信里画过类似树枝或手势的简洁符形；《梦寻秘境卡达斯》等故事只把它当作读者无法完全看清的古老记号。它的力量更接近门槛上的警告，不是随手一挥就能消灭宇宙存在的万能法术。\n\n今天最熟悉的五角星内含火焰或眼睛的图样，主要由奥古斯特·德雷斯在扩展作品中确立，后来经角色扮演游戏传播。两种图形都属于克苏鲁共享传统，但年代与作者不同。旧印因此也是一堂微型的文本考古课：玩家记忆中的“标准徽章”未必来自最早小说，视觉统一常由后来的编辑、出版和游戏机制完成。将不同版本并列，不会削弱神秘感；它让符号像真正古老的护符一样，经过传抄、重绘与误读，才抵达今日。",
+    "en": "The Elder Sign serves as protection, prohibition, or recognition across mythos stories without receiving a single consistent manual. Lovecraft drew a simple branchlike or gestural form in a letter, while works such as The Dream-Quest of Unknown Kadath treat the sign as an ancient mark never fully displayed to the reader. Its force resembles a warning placed upon a threshold more than a universal spell capable of erasing cosmic beings with one gesture.\n\nThe familiar pentagram containing a flame or eye was established chiefly by August Derleth’s extensions and spread widely through roleplaying games. Both images belong to the shared Cthulhu tradition, but they occupy different dates and authorships. The sign therefore offers a compact lesson in textual archaeology. A player’s “standard” emblem may not originate in the earliest fiction; visual consistency is often produced by later editors, publishers, and game systems. Placing the variants side by side increases rather than diminishes their mystery, allowing the mark to behave like a genuine amulet altered by copying, redrawing, and misreading before reaching the present."
+  },
+  "domains": {
+    "zh": [
+      "护符符号",
+      "门槛封锁",
+      "版本分层",
+      "后世重绘"
+    ],
+    "en": [
+      "Protective sign",
+      "Threshold ward",
+      "Version layers",
+      "Later redesign"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "早期形态",
+        "en": "Early form"
+      },
+      "value": {
+        "zh": "洛夫克拉夫特书信中的枝状简符",
+        "en": "Lovecraft’s branchlike letter sketch"
+      }
+    },
+    {
+      "label": {
+        "zh": "通行形态",
+        "en": "Popular form"
+      },
+      "value": {
+        "zh": "德雷斯体系的星形与眼焰图样",
+        "en": "Derleth’s star containing an eye or flame"
+      }
+    }
+  ],
+  "related": [
+    "necronomicon",
+    "yog-sothoth",
+    "cthulhu",
+    "miskatonic-university"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特书信与《梦寻秘境卡达斯》",
+      "en": "H. P. Lovecraft’s letters and The Dream-Quest of Unknown Kadath",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "奥古斯特·德雷斯《The Lurker at the Threshold》",
+      "en": "August Derleth, The Lurker at the Threshold"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/elder-sign.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/elder-sign",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

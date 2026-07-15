@@ -25,7 +25,7 @@ const ids = new Set(entries.map(({ data }) => data.id));
 const imageNames = new Set(
   entries.flatMap(({ data }) => (data.image?.file ? [basename(data.image.file)] : [])),
 );
-const localImages = readdirSync(imagesRoot).filter((file) => file.endsWith('.jpg'));
+const localImages = readdirSync(imagesRoot).filter((file) => /\.(jpe?g|png|webp|svg)$/i.test(file));
 
 const missingImages = entries
   .filter(({ data }) => !data.image?.file)

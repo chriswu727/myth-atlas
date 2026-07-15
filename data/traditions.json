@@ -275,6 +275,28 @@
     "color": "#7a3b2e"
   },
   {
+    "id": "cthulhu",
+    "category": "modern-myth",
+    "name": { "zh": "克苏鲁神话", "en": "The Cthulhu Mythos" },
+    "shortName": { "zh": "克苏鲁", "en": "Cthulhu Mythos" },
+    "region": { "zh": "虚构的新英格兰、极地与群星深处", "en": "Fictional New England, the polar wastes & deep space" },
+    "period": { "zh": "1917至1937年的洛夫克拉夫特核心文本及其后世回声", "en": "Lovecraft's 1917–1937 core fiction and its later echoes" },
+    "anchor": { "lat": 41.824, "lon": -71.4128 },
+    "countries": [840],
+    "color": "#668f87"
+  },
+  {
+    "id": "scp",
+    "category": "modern-myth",
+    "name": { "zh": "SCP基金会", "en": "SCP Foundation" },
+    "shortName": { "zh": "SCP", "en": "SCP" },
+    "region": { "zh": "无国界的协作网络与虚构收容设施", "en": "A borderless collaborative network and fictional containment sites" },
+    "period": { "zh": "2007年至今，持续生长的开放协作神话", "en": "2007 to the present, an evolving open collaborative mythology" },
+    "anchor": { "lat": 3.0, "lon": -22.0 },
+    "countries": [],
+    "color": "#8795a2"
+  },
+  {
     "id": "kaidan",
     "category": "urban",
     "name": { "zh": "日本怪谈", "en": "Japanese Kaidan & Urban Legends" },

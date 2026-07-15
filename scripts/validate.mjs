@@ -7,7 +7,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
 
 const TYPES = ['deity', 'creature', 'hero', 'spirit', 'place', 'artifact', 'tale'];
-const ERAS = ['ancient', 'folk', 'modern'];
+const ERAS = ['ancient', 'folk', 'modern', 'contemporary'];
 const MOTIFS = ['chaos', 'first-beings', 'separation', 'world-form', 'humans', 'ordeal', 'now'];
 const EMOJI = /\p{Extended_Pictographic}/u;
 
@@ -42,7 +42,7 @@ const traditionIds = new Set(traditions.map((t) => t.id));
 for (const t of traditions) {
   const f = 'traditions.json';
   if (!isStr(t.id)) err(f, 'tradition missing id');
-  if (!['pantheon', 'classic', 'urban', 'lostland'].includes(t.category)) err(f, `${t.id}: bad category`);
+  if (!['pantheon', 'classic', 'modern-myth', 'urban', 'lostland'].includes(t.category)) err(f, `${t.id}: bad category`);
   bilingual(f, t, 'name');
   bilingual(f, t, 'shortName');
   if (!t.anchor || typeof t.anchor.lat !== 'number' || typeof t.anchor.lon !== 'number')
@@ -139,7 +139,15 @@ for (const tid of [...traditionIds]) {
     else
       for (const [i, s] of e.sources.entries()) {
         if (!isStr(s?.zh) || !isStr(s?.en)) err(file, `sources[${i}] must be bilingual`);
+        if (s?.url != null && !/^https:\/\//.test(s.url)) err(file, `sources[${i}].url must be https`);
       }
+
+    if (e.rights != null) {
+      if (!isStr(e.rights.name) || !/^https:\/\//.test(e.rights.url ?? ''))
+        err(file, 'rights must include name and https url');
+      if (!isStr(e.rights.note?.zh) || !isStr(e.rights.note?.en))
+        err(file, 'rights.note must be bilingual');
+    }
 
     if (e.geo != null) {
       const ok =

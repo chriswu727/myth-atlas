@@ -1,0 +1,95 @@
+{
+  "id": "necronomicon",
+  "tradition": "cthulhu",
+  "type": "artifact",
+  "era": "modern",
+  "name": {
+    "zh": "死灵之书",
+    "en": "Necronomicon",
+    "original": "Necronomicon",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "一本从未存在、却留下完整流传史的禁书",
+    "en": "The Forbidden Book That Never Existed Yet Has a History"
+  },
+  "summary": {
+    "zh": "虚构诗人阿卜杜勒·阿尔哈兹莱德所著禁书，记载旧日存在与越界仪式；现实中没有洛夫克拉夫特认可的真本。",
+    "en": "A fictional grimoire by Abdul Alhazred, furnished with translations, lost editions, library copies, and no authentic volume in reality."
+  },
+  "description": {
+    "zh": "《死灵之书》据称由也门诗人阿卜杜勒·阿尔哈兹莱德写成，原名《Al Azif》，题名借沙漠夜虫之声暗示恶灵低语。它经历希腊译本、拉丁译本、查禁、焚毁与秘密收藏，少数版本藏在米斯卡托尼克大学等机构。洛夫克拉夫特专门撰写《死灵之书的历史》，用书目学语气为一本虚构禁书建立作者、年代、译者和存世谱系。\n\n这种精密的伪史让许多读者询问真本下落，甚至令书商目录和图书馆玩笑式地加入卡片。市面后来出现多种以此为名的现代作品，却没有任何一本是洛夫克拉夫特发现或翻译的古籍。死灵之书的重要性正来自“不存在”：不同作者可以引用同一部缺席文本，让各自故事仿佛只是更庞大档案的一页。它是共享世界的铰链，也是现代伪文献神话的范本——可信度不由实物产生，而由那些关于版本、缺页和被锁书架的细节共同召唤。",
+    "en": "The Necronomicon is attributed to the Yemeni poet Abdul Alhazred, who supposedly titled it Al Azif after the nocturnal sound of desert insects interpreted as demonic speech. Its invented history includes Greek and Latin translations, suppression, burning, and copies hidden in a handful of institutions such as Miskatonic University. Lovecraft wrote a separate “History of the Necronomicon,” using bibliographical language to supply the imaginary book with an author, dates, translators, editions, and surviving locations.\n\nThat precision led readers to ask where a real copy could be found, while booksellers and librarians sometimes added playful catalogue records. Several modern publications have borrowed the title, but none is an ancient volume discovered or translated by Lovecraft. The Necronomicon matters because it is absent. Different writers can cite the same missing authority, making each story resemble one leaf from a larger archive. It is both a hinge for shared-world fiction and a model for modern documentary myth: credibility arises not from an object but from accumulated details about editions, lost leaves, and locked shelves."
+  },
+  "domains": {
+    "zh": [
+      "虚构禁书",
+      "伪书目学",
+      "阿尔哈兹莱德",
+      "共享世界铰链"
+    ],
+    "en": [
+      "Fictional grimoire",
+      "Pseudo-bibliography",
+      "Abdul Alhazred",
+      "Shared-world hinge"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "虚构作者",
+        "en": "Fictional author"
+      },
+      "value": {
+        "zh": "阿卜杜勒·阿尔哈兹莱德",
+        "en": "Abdul Alhazred"
+      }
+    },
+    {
+      "label": {
+        "zh": "现实边界",
+        "en": "Reality check"
+      },
+      "value": {
+        "zh": "不存在洛夫克拉夫特认可的古代真本",
+        "en": "No authentic ancient volume was endorsed by Lovecraft"
+      }
+    }
+  ],
+  "related": [
+    "miskatonic-university",
+    "yog-sothoth",
+    "cthulhu",
+    "elder-sign"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《死灵之书的历史》",
+      "en": "H. P. Lovecraft, “History of the Necronomicon”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《克苏鲁的呼唤》",
+      "en": "H. P. Lovecraft, “The Call of Cthulhu”",
+      "url": "https://www.gutenberg.org/ebooks/68283"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/necronomicon.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/necronomicon",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

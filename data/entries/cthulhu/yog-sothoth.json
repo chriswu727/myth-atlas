@@ -1,0 +1,95 @@
+{
+  "id": "yog-sothoth",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "犹格·索托斯",
+    "en": "Yog-Sothoth",
+    "original": "Yog-Sothoth",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "既是门，亦是钥匙与守门者",
+    "en": "The Gate, the Key, and the Keeper"
+  },
+  "summary": {
+    "zh": "与一切时间和空间共在的球形辉光；它不居于某处，因为所有门槛都落在它之中。",
+    "en": "A confluence of luminous spheres coextensive with time and space, present wherever forbidden thresholds open."
+  },
+  "description": {
+    "zh": "犹格·索托斯被描述成聚散不定的发光球体，又在《穿越银钥匙之门》中显露为超越个体与维度的存在。它与全部时间、空间相邻，因此召唤不会把遥远神灵请到此地；仪式真正撕开的是遮蔽此地的薄膜。巫师惠特利借它为邓威治的血脉播下异种后裔；伦道夫·卡特则在门后看见自己的生命只是更庞大意识的一小段截面。\n\n“犹格·索托斯知晓门；犹格·索托斯即是门”的仪式语言，使它成为这套文本中最接近宇宙结构本身的名字。不过，知识不等于仁慈，遍在也不等于创造者身份。它给予的启示往往扩大知觉，却同时溶解提问者赖以成为“自己”的边界。后世神系常把它列为外神、阿撒托斯之后的第二位；原作更含混，也更锋利：门没有善恶，只有开启之后再也无法缩小的世界。",
+    "en": "Yog-Sothoth appears as a shifting congregation of luminous spheres and, in “Through the Gates of the Silver Key,” as an intelligence beyond individuality and dimensional limits. Because it is adjacent to all time and space, a summoning does not bring a distant god into the room; it tears the membrane that made the room seem separate. Wizard Whateley invokes it to seed the Dunwich bloodline, while Randolph Carter discovers beyond the gate that his life is only one section of a much larger consciousness.\n\nThe ritual formula identifying Yog-Sothoth as gate, key, and keeper makes it the name closest to cosmic structure itself. Knowledge does not imply mercy, however, and omnipresence does not prove a creator’s role. Its revelations enlarge perception while dissolving the boundary by which the seeker remained a self. Later taxonomies rank it among the Outer Gods beneath Azathoth. Lovecraft’s version is less orderly and more severe: a threshold possesses no moral alignment, only a world that cannot become small again after it opens."
+  },
+  "domains": {
+    "zh": [
+      "时空门槛",
+      "禁忌知识",
+      "球形辉光",
+      "血脉越界"
+    ],
+    "en": [
+      "Space-time thresholds",
+      "Forbidden knowledge",
+      "Luminous spheres",
+      "Transgressive bloodlines"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次现身",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "《查尔斯·迪克斯特·瓦德事件》",
+        "en": "The Case of Charles Dexter Ward"
+      }
+    },
+    {
+      "label": {
+        "zh": "核心意象",
+        "en": "Central image"
+      },
+      "value": {
+        "zh": "门、钥匙与守门者合为一体",
+        "en": "Gate, key, and keeper made one"
+      }
+    }
+  ],
+  "related": [
+    "azathoth",
+    "elder-sign",
+    "necronomicon",
+    "dreamlands"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《邓威治恐怖事件》",
+      "en": "H. P. Lovecraft, “The Dunwich Horror”",
+      "url": "https://www.gutenberg.org/ebooks/50133"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特、E. Hoffmann Price《穿越银钥匙之门》",
+      "en": "H. P. Lovecraft and E. Hoffmann Price, “Through the Gates of the Silver Key”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/yog-sothoth.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/yog-sothoth",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

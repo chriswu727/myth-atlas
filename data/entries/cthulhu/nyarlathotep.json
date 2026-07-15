@@ -1,0 +1,95 @@
+{
+  "id": "nyarlathotep",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "奈亚拉托提普",
+    "en": "Nyarlathotep",
+    "original": "Nyarlathotep",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "披着千种面孔行过人群的混沌信使",
+    "en": "The Crawling Chaos in a Thousand Masks"
+  },
+  "summary": {
+    "zh": "少数主动走入人类城市的宇宙存在，以先知、法老与陌生人的面貌传播奇迹、疯狂和终局。",
+    "en": "A cosmic messenger who enters human cities in changing masks, offering wonders that ripen into delirium and ruin."
+  },
+  "description": {
+    "zh": "奈亚拉托提普最早在1920年的同名散文诗里以一位从埃及归来的巡回演说者出现。他展示电学奇迹与无法解释的影像，观众在狂热中离场，城市随即落入噩梦般的寒冷和解体。与沉睡、遥远或近乎无意识的诸多存在不同，它会说话、诱导、嘲弄，也似乎乐于把宇宙的冷漠翻译成个人能够感到的恶意。\n\n在《梦寻秘境卡达斯》中，它披上黑色法老的尊贵形貌，替外神传令，同时设局将卡特送往阿撒托斯的王庭。洛夫克拉夫特留下了许多面貌，却没有编出一份固定的“千面目录”；后来的小说、游戏和跑团不断为它增添化身。奈亚拉托提普因此像一座仍在工作的神话机器：每个时代都能给它一张合时宜的脸，而面具后的职责始终不变——让人类亲耳听见自己在宇宙中的位置。",
+    "en": "Nyarlathotep first enters literature in the 1920 prose poem bearing its name, appearing as an itinerant lecturer newly returned from Egypt. It demonstrates electrical marvels and impossible images; audiences depart in feverish processions as the city slips into nightmare, cold, and dissolution. Unlike the sleepers, remote powers, and nearly mindless forces around it, Nyarlathotep speaks, tempts, mocks, and seems to enjoy translating cosmic indifference into malice that a single person can feel.\n\nIn The Dream-Quest of Unknown Kadath it wears the majestic form of a black pharaoh, carries messages for the Outer Gods, and plots to send Carter toward the court of Azathoth. Lovecraft supplied several manifestations but never wrote a fixed catalogue of one thousand masks. Novels, games, and roleplaying traditions have continued adding them. Nyarlathotep therefore behaves like a mythology still at work: every age can fashion an appropriate face, while the office behind the mask remains constant—to make humanity hear, in a recognizable voice, how little the cosmos requires it."
+  },
+  "domains": {
+    "zh": [
+      "千面化身",
+      "混沌信使",
+      "黑色法老",
+      "诱惑与预兆"
+    ],
+    "en": [
+      "Thousand masks",
+      "Messenger of chaos",
+      "Black Pharaoh",
+      "Temptation and omen"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次现身",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "散文诗《奈亚拉托提普》（1920）",
+        "en": "The prose poem “Nyarlathotep” (1920)"
+      }
+    },
+    {
+      "label": {
+        "zh": "与人类的距离",
+        "en": "Relation to humanity"
+      },
+      "value": {
+        "zh": "主动接近、交谈并操纵",
+        "en": "Actively approaches, speaks, and manipulates"
+      }
+    }
+  ],
+  "related": [
+    "azathoth",
+    "dreamlands",
+    "yog-sothoth",
+    "hastur"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《奈亚拉托提普》",
+      "en": "H. P. Lovecraft, “Nyarlathotep”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《梦寻秘境卡达斯》",
+      "en": "H. P. Lovecraft, The Dream-Quest of Unknown Kadath",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/nyarlathotep.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/nyarlathotep",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

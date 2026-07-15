@@ -1,0 +1,95 @@
+{
+  "id": "ghouls",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "食尸鬼",
+    "en": "Ghouls",
+    "original": "Ghouls",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "在墓道尽头保存人性残响的夜行族",
+    "en": "The Night People Beneath the Last Cemetery"
+  },
+  "summary": {
+    "zh": "犬面、蹄足的地下食尸族群，从墓园通往幻梦境；人类可能逐渐成为他们，他们也可能保留旧日情谊。",
+    "en": "Dog-faced subterranean eaters of the dead who travel from cemeteries into Dreamland and may once have been human."
+  },
+  "description": {
+    "zh": "洛夫克拉夫特笔下的食尸鬼住在墓园、地窟与幻梦境的地下通道中，形似橡胶般皮肤包裹的犬面人形，脚掌近蹄，以死者为食。《皮克曼的模特》先让画家把它们带进波士顿地下；《梦寻秘境卡达斯》则让已经完成转变的皮克曼成为族群中的向导，率领同伴帮助伦道夫·卡特。\n\n它们恐怖，却不完全属于恶。食尸鬼遵守友谊、交换情报，也会在关键时刻冒险救援。人类与它们之间还存在可渗透的界线：长期迷恋墓穴、模仿其生活的人，可能逐渐变成其中一员。这样的设定让“怪物”不再只是门外来客，而是一种社会和身体的迁徙。食尸鬼位于克苏鲁神话较少见的灰色地带——死亡是它们的食粮，忠诚却仍然有效；坟墓是文明排除之物的终点，也成了另一条道路的入口。",
+    "en": "Lovecraft’s ghouls inhabit cemeteries, crypts, and the underground passages of Dreamland. They are dog-faced humanoids with rubbery skin and hooflike feet, feeding upon the dead. “Pickman’s Model” first brings them beneath Boston through a painter’s canvases; The Dream-Quest of Unknown Kadath reveals that Pickman has completed his transformation and now acts as a guide among them, leading his companions to aid Randolph Carter.\n\nThey are horrifying without being simply evil. Ghouls keep friendships, exchange information, and accept danger in a rescue. The line between humanity and their community is permeable: a person who haunts graves and imitates their life may gradually become one of them. Monstrosity becomes a social and bodily migration rather than an intruder waiting outside the door. Ghouls occupy an uncommon grey province in the mythos. Death is their food, but loyalty continues to matter; the grave, where civilization deposits what it excludes, opens into a road traveled by another people."
+  },
+  "domains": {
+    "zh": [
+      "墓园地下",
+      "幻梦境",
+      "食死者",
+      "人类变形"
+    ],
+    "en": [
+      "Cemetery underworld",
+      "Dreamlands",
+      "Eaters of the dead",
+      "Human transformation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core texts"
+      },
+      "value": {
+        "zh": "《皮克曼的模特》《梦寻秘境卡达斯》",
+        "en": "“Pickman’s Model” and The Dream-Quest of Unknown Kadath"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名成员",
+        "en": "Notable member"
+      },
+      "value": {
+        "zh": "画家理查德·厄普顿·皮克曼",
+        "en": "The painter Richard Upton Pickman"
+      }
+    }
+  ],
+  "related": [
+    "dreamlands",
+    "night-gaunts",
+    "arkham",
+    "nyarlathotep"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《皮克曼的模特》",
+      "en": "H. P. Lovecraft, “Pickman’s Model”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《梦寻秘境卡达斯》",
+      "en": "H. P. Lovecraft, The Dream-Quest of Unknown Kadath",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/ghouls.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/ghouls",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

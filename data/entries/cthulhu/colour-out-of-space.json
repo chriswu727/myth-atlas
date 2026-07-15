@@ -1,0 +1,94 @@
+{
+  "id": "colour-out-of-space",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "星之彩",
+    "en": "Colour Out of Space",
+    "original": "The Colour",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "落进农庄、却不属于光谱的天外之色",
+    "en": "The Colour That Fell Outside the Spectrum"
+  },
+  "summary": {
+    "zh": "随陨石降临阿卡姆乡野的未知现象，以不可见的方式吸干土地、植物、动物与人，最终返回天空。",
+    "en": "An extraterrestrial phenomenon carried by a meteorite, draining a farm while displaying a colour no human spectrum contains."
+  },
+  "description": {
+    "zh": "一颗陨石落在阿卡姆以西的加德纳农场。样本在实验室里不断缩小，内部小球最终消失；来年果实硕大却无法入口，花木呈现没有人能准确命名的颜色。污染逐渐进入井水、牲畜与家庭成员，生命像被某种看不见的饥渴从内部抽空。最后，一束异色辉光升向夜空，仍有一小部分坠回井中，等待水库覆盖这片荒地。\n\n《星之彩》有意拒绝把未知变成可供雕像表现的神。它没有脸、语言、祭司或明确意图，连“颜色”都只是人类感官为某种超出光谱的现象勉强提供的词。后世有时将其编入外神谱系，原作更接近一次生态层面的接触事件：土壤、食物链、家庭关系和记忆一同败坏。它让克苏鲁神话摆脱触手图标，回到更根本的恐惧——宇宙来客可能没有恶意，只是它存在的物理方式，就足以让我们的世界停止适合生命。",
+    "en": "A meteorite falls on the Gardner farm west of Arkham. Samples shrink in the laboratory, and globules within them eventually vanish. The following year produces enormous fruit that cannot be eaten, while plants display a hue no observer can accurately name. Contamination enters the well, livestock, and members of the family. Life seems to be drained from within by an invisible appetite. At last an eruption of alien radiance rises into the night, though a small portion falls back toward the well and waits beneath land designated for a reservoir.\n\n“The Colour Out of Space” refuses to turn the unknown into a god suitable for sculpture. It has no face, language, priesthood, or legible intention; even “colour” is only the nearest word human senses can offer for something outside their spectrum. Later taxonomies sometimes place it inside a divine hierarchy. The original operates more like ecological contact, corrupting soil, food chain, kinship, and memory together. It frees the mythos from its tentacled emblem and returns to a deeper terror: a visitor needs no malice when its mode of physical existence is enough to make our world unfit for life."
+  },
+  "domains": {
+    "zh": [
+      "天外污染",
+      "不可见光谱",
+      "生态枯竭",
+      "陨石接触"
+    ],
+    "en": [
+      "Extraterrestrial contamination",
+      "Impossible spectrum",
+      "Ecological draining",
+      "Meteor contact"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core text"
+      },
+      "value": {
+        "zh": "《星之彩》（1927）",
+        "en": "“The Colour Out of Space” (1927)"
+      }
+    },
+    {
+      "label": {
+        "zh": "形态",
+        "en": "Form"
+      },
+      "value": {
+        "zh": "无法由人类光谱与生物分类描述",
+        "en": "Outside human spectral and biological categories"
+      }
+    }
+  ],
+  "related": [
+    "arkham",
+    "elder-things",
+    "shoggoth",
+    "mi-go"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《星之彩》",
+      "en": "H. P. Lovecraft, “The Colour Out of Space”",
+      "url": "https://www.gutenberg.org/ebooks/68236"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/colour-out-of-space.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/colour-out-of-space",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

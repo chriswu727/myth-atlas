@@ -1,0 +1,105 @@
+{
+  "id": "scp-049",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-049 · 疫医",
+    "en": "SCP-049 · Plague Doctor",
+    "original": "SCP-049",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "宣称能嗅见瘟疫、又以死亡施行治疗的医者",
+    "en": "The Physician Whose Cure Begins with Death"
+  },
+  "summary": {
+    "zh": "身着中世纪疫医外观的人形实体，能以触碰致死，并把尸体改造成服从的活动个体；它坚信自己在治疗一种无名瘟疫。",
+    "en": "A plague-doctor figure whose touch kills and whose surgery animates corpses, all in pursuit of an unnamed Pestilence only it perceives."
+  },
+  "description": {
+    "zh": "SCP-049呈现为中世纪疫医的轮廓，但长袍、手套与鸟喙面具似乎直接属于身体，而非可脱下的服装。它语言流畅、态度礼貌，能讨论医学史，却坚持世间潜伏着一种只有它能辨认的“瘟疫”。当某人被判定已受感染，049的直接触碰会令其迅速死亡；随后，它以随身器械和成分不明的材料进行手术，把尸体改造成迟钝、服从、仍可活动的实例。\n\n档案的恐怖来自医患语言被彻底翻转。049不把死亡视为失败，反将它当成治疗的第一步；每一具残缺的复活体，在它看来都是接近成功的临床记录。它偶尔合作、会因研究进展显得兴奋，也能对质疑表现出烦躁，使“善意”比单纯残暴更难收容。2018年的重写保留核心形象，同时深化了它与研究员的关系。此处将初稿与重写视作同一档案的版本史，不把任何一次修订伪装成自古固定的传说。",
+    "en": "SCP-049 resembles a medieval plague doctor, although robe, gloves, and beaked mask appear to be parts of its body rather than removable clothing. It speaks with courtesy, understands medical history, and insists that an unseen Pestilence infects the world. When it diagnoses a person as afflicted, direct skin contact causes rapid death. The entity then performs surgery with instruments and unknown compounds, converting the corpse into a slow, obedient, animate subject.\n\nThe document’s horror comes from a complete reversal of clinical language. SCP-049 does not treat death as failure; death is the first movement of its cure. Every damaged reanimation becomes, in its own view, another medical record approaching success. It can cooperate, display excitement at apparent progress, and become irritated when its premise is challenged, making benevolent conviction harder to contain than simple cruelty. A major 2018 rewrite retained the figure while deepening its relationship with Foundation personnel. This archive presents original and revised authorship as a version history rather than pretending the file emerged as an unchanging legend."
+  },
+  "domains": {
+    "zh": [
+      "伪医学",
+      "致死触碰",
+      "尸体改造",
+      "瘟疫执念"
+    ],
+    "en": [
+      "False medicine",
+      "Lethal touch",
+      "Corpse modification",
+      "Pestilence fixation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Euclid",
+        "en": "Euclid"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Gabriel Jade；后由 djkaktus 与 Gabriel Jade 重写",
+        "en": "Gabriel Jade; rewritten by djkaktus and Gabriel Jade"
+      }
+    },
+    {
+      "label": {
+        "zh": "档案形态",
+        "en": "Document form"
+      },
+      "value": {
+        "zh": "访谈、收容事故与手术记录交织",
+        "en": "Interviews, containment incidents, and surgical records"
+      }
+    }
+  ],
+  "related": [
+    "scp-106",
+    "scp-096",
+    "scp-173",
+    "scp-914"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-049 原始档案，作者：Gabriel Jade；后由 djkaktus 与 Gabriel Jade 重写",
+      "en": "SCP-049 source article by Gabriel Jade; rewritten by djkaktus and Gabriel Jade",
+      "url": "https://scp-wiki.wikidot.com/scp-049"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-049”，原作者为 Gabriel Jade；后由 djkaktus 与 Gabriel Jade 重写；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-049” by Gabriel Jade; rewritten by djkaktus and Gabriel Jade. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-049.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-049",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

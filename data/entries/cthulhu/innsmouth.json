@@ -1,0 +1,102 @@
+{
+  "id": "innsmouth",
+  "tradition": "cthulhu",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "因斯茅斯",
+    "en": "Innsmouth",
+    "original": "Innsmouth",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "潮味、金饰与封闭血脉盘踞的衰港",
+    "en": "The Decaying Port Where the Tide Enters the Blood"
+  },
+  "summary": {
+    "zh": "新英格兰虚构港镇，以海上交易换来财富、渔获与深潜者婚姻；衰败街巷下延伸着通往海底的族谱。",
+    "en": "A decaying New England port whose bargains with the Deep Ones purchase gold and fish at the price of a tidal ancestry."
+  },
+  "description": {
+    "zh": "因斯茅斯曾凭航海和炼金厂繁荣，后来变成外人绕行的灰色港镇。房屋临海腐朽，街上行人带着被称作“因斯茅斯面貌”的共同特征：宽口、凸眼、僵硬步态。奥贝德·马什船长在太平洋学会召唤深潜者，以祭礼和跨族婚姻换取黄金与渔获，并建立达贡秘教。小镇的经济复苏与居民身体变化从一开始就是同一份契约。\n\n《印斯茅斯的阴霾》让叙述者先以旅行者眼光审视这种封闭，继而发现自己的家谱也通向海底。恐怖由他者转回自我，结尾甚至把归海写成带有诱惑的解放。现实层面，故事也暴露洛夫克拉夫特对族际混合的偏执恐惧；今日整理不能只继承气氛而忽略这层思想史。因斯茅斯把港口资本、家族秘密、国家暴力与身体变形锁进一座城：当政府炸毁礁石，档案仍无法证明海下的亲族已经消失。",
+    "en": "Innsmouth prospered through shipping and a refinery before becoming a grey port avoided by outsiders. Houses decay toward the water, and people in the streets share what neighboring towns call the “Innsmouth look”: broad mouths, prominent eyes, and a rigid gait. Captain Obed Marsh learned Pacific rites for contacting the Deep Ones, trading ceremony and intermarriage for gold and plentiful catches, then founded the Esoteric Order of Dagon. Economic recovery and bodily alteration were clauses in the same agreement from the beginning.\n\nThe Shadow over Innsmouth lets its narrator first inspect this isolation as a traveler, then discover that his own genealogy descends toward the sea. Horror turns from the other toward the self, and the ending makes oceanic return sound dangerously liberating. Historically, the story also exposes Lovecraft’s obsessive fear of racial mixture; preserving atmosphere without that intellectual context would reproduce its prejudice unexamined. Innsmouth endures because port capital, family secrecy, state violence, and transformation are locked into one town. Even after federal forces destroy the reef, no file can prove that the relatives below have vanished."
+  },
+  "domains": {
+    "zh": [
+      "衰败海港",
+      "达贡秘教",
+      "深海血脉",
+      "归海变形"
+    ],
+    "en": [
+      "Decaying port",
+      "Esoteric Order of Dagon",
+      "Oceanic bloodline",
+      "Tidal transformation"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core text"
+      },
+      "value": {
+        "zh": "《印斯茅斯的阴霾》",
+        "en": "The Shadow over Innsmouth"
+      }
+    },
+    {
+      "label": {
+        "zh": "关键地点",
+        "en": "Key site"
+      },
+      "value": {
+        "zh": "魔鬼礁与海下的伊哈·恩斯雷",
+        "en": "Devil Reef and submerged Y’ha-nthlei"
+      }
+    }
+  ],
+  "related": [
+    "deep-ones",
+    "dagon",
+    "mother-hydra",
+    "arkham"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《印斯茅斯的阴霾》",
+      "en": "H. P. Lovecraft, The Shadow over Innsmouth",
+      "url": "https://www.gutenberg.org/ebooks/73181"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "geo": {
+    "lat": 42.68,
+    "lon": -70.81,
+    "label": {
+      "zh": "虚构港镇在马萨诸塞北岸的约略位置",
+      "en": "Approximate fictional placement on Massachusetts’ North Shore"
+    }
+  },
+  "image": {
+    "file": "/images/entries/innsmouth.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/innsmouth",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

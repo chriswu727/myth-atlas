@@ -13,10 +13,12 @@ export default function EntryCard({
   entry,
   tradition,
   locale,
+  eager = false,
 }: {
   entry: EntryCardData;
   tradition: CardTradition;
   locale: Locale;
+  eager?: boolean;
 }) {
   const primary = locale === "zh" ? entry.nameZh : entry.nameEn;
   const secondary = locale === "zh" ? entry.nameEn : entry.nameZh;
@@ -30,6 +32,7 @@ export default function EntryCard({
               src={entry.image.file}
               alt={primary}
               fill
+              loading={eager ? "eager" : "lazy"}
               sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 22vw"
               className="object-cover"
             />

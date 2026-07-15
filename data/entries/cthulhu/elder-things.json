@@ -1,0 +1,94 @@
+{
+  "id": "elder-things",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "远古种族",
+    "en": "Elder Things",
+    "original": "Old Ones / Elder Things",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "在南极石城留下地球前史的星形造物者",
+    "en": "The Star-Headed Makers of Earth’s Buried Prehistory"
+  },
+  "summary": {
+    "zh": "在复杂生命出现前抵达地球的星际文明，于南极建立城市并制造修格斯，最终被自己的造物反噬。",
+    "en": "A star-headed civilization that reached primordial Earth, raised Antarctic cities, and engineered the shoggoths that later rebelled."
+  },
+  "description": {
+    "zh": "《疯狂山脉》的探险队在南极冰层下发现一种兼具植物与动物特征的桶状生命：五角星般的头部、放射状肢体、可收拢的翼。更深处的巨城壁画把地球史改写成非人的编年纪。远古种族从群星间迁来，建立海陆城市，培育或促成早期生命，并制造修格斯作为可塑的劳役工具。文明漫长衰退后，修格斯学会反抗，气候与其他外来族群又将残存者逼入深海。\n\n早期文本有时也用“Old Ones”称呼它们，容易与后世神系的“Great Old Ones”混淆；“Elder Things”成为较清晰的通行名称。它们在克苏鲁神话中占有罕见位置：虽远超人类，仍然会建设、记录、迁徙、战争与失败。南极学者读懂壁画之后甚至生出短暂同情——在更可怕的黑暗面前，这些星形造物者仿佛只是另一支被时间埋葬的文明。",
+    "en": "The expedition in At the Mountains of Madness finds barrel-shaped organisms beneath Antarctic ice, combining vegetal and animal features: five-pointed heads, radial limbs, and wings that fold against the body. Deeper murals in a colossal city rewrite Earth’s history as a nonhuman chronicle. The Elder Things migrated between stars, built settlements on land and undersea, cultivated or initiated early terrestrial life, and engineered shoggoths as plastic labor. Across immense ages their civilization declined; the servants learned rebellion, while climate and competing arrivals drove survivors toward the deep ocean.\n\nLovecraft sometimes calls them “Old Ones,” a phrase easily confused with the later taxonomic label “Great Old Ones”; “Elder Things” became the clearer conventional name. They hold a rare position in the mythos. Though vastly alien, they still build, record, migrate, wage war, and fail. Once the Antarctic scholars learn to read the murals, they even feel a brief kinship. Against the greater darkness beyond the city, these star-headed makers begin to resemble another civilization buried by time rather than a simple assembly of monsters."
+  },
+  "domains": {
+    "zh": [
+      "南极前史",
+      "星际文明",
+      "生命工程",
+      "壁画档案"
+    ],
+    "en": [
+      "Antarctic prehistory",
+      "Interstellar civilization",
+      "Bioengineering",
+      "Mural archive"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core text"
+      },
+      "value": {
+        "zh": "《疯狂山脉》（1931写成）",
+        "en": "At the Mountains of Madness (written 1931)"
+      }
+    },
+    {
+      "label": {
+        "zh": "造物",
+        "en": "Creation"
+      },
+      "value": {
+        "zh": "修格斯与地球早期生命实验",
+        "en": "Shoggoths and experiments in early terrestrial life"
+      }
+    }
+  ],
+  "related": [
+    "shoggoth",
+    "mi-go",
+    "great-race-of-yith",
+    "colour-out-of-space"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《疯狂山脉》",
+      "en": "H. P. Lovecraft, At the Mountains of Madness",
+      "url": "https://www.gutenberg.org/ebooks/70652"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/elder-things.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/elder-things",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

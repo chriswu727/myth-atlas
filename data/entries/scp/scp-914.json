@@ -1,0 +1,105 @@
+{
+  "id": "scp-914",
+  "tradition": "scp",
+  "type": "artifact",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-914 · 发条装置",
+    "en": "SCP-914 · The Clockworks",
+    "original": "SCP-914",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "以五档刻度重新解释投入之物的黄铜机械",
+    "en": "The Brass Machine That Reinterprets Whatever Enters"
+  },
+  "summary": {
+    "zh": "一座庞大复杂的发条机械，物品从入口进入后，会依“粗制”至“超精制”等档位在另一侧以新形态出现。",
+    "en": "A vast clockwork machine that transforms input according to five settings, from destructive simplification to dangerous refinement."
+  },
+  "description": {
+    "zh": "SCP-914是一座占满房间的黄铜发条机械，布满齿轮、皮带、弹簧和难以追踪的传动结构，却没有可识别的电源。物品放入入口，门锁闭后转动控制旋钮，机械便运转，随后从出口送出结果。五个档位从“粗制”“简制”“一比一”延伸到“精制”与“超精制”；它们没有稳定等价表，更像五种解释世界的语法。同一件物品可能被拆解、复制、优化，也可能变成目标功能的危险寓言。\n\n档案由大量测试记录生长而成，每一次投入都是微型创世实验：研究员提出问题，机器用物质回答，而答案常超出提问者真正理解的范围。SCP-914因此兼具宝库、工坊与许愿陷阱的古老结构，只是神灯被换成工业时代的旋钮和审批表。基金会一面利用它制造工具，一面限制测试，因为“更精良”从来不等于“更安全”。机械没有解释设计者，也没有表明意图；它只是持续证明，改良本身可以是一种陌生、精确而不关心人的力量。",
+    "en": "SCP-914 is a room-sized assembly of brass clockwork, packed with gears, belts, springs, and transmissions too complex to trace, yet showing no identifiable power source. An item enters one booth, the door locks, and an operator turns a control knob. After the mechanism runs, a result appears in the opposite booth. Five settings move from Rough and Coarse through 1:1 to Fine and Very Fine. They do not form a reliable conversion table so much as five grammars for interpreting matter. One object may be dismantled, duplicated, optimized, or returned as a dangerous metaphor for its intended function.\n\nThe article grows through experiment logs. Every input becomes a small creation trial: researchers pose a question and the machine answers materially, often beyond what the questioner understood. SCP-914 inherits the old structure of treasure house, workshop, and treacherous wish, replacing the lamp with industrial controls and approval forms. The Foundation uses it to produce tools while restricting tests, because “more refined” never guarantees “safer.” The mechanism reveals neither maker nor purpose. It simply demonstrates that improvement can be alien, exact, and indifferent to human need."
+  },
+  "domains": {
+    "zh": [
+      "发条机械",
+      "物质转化",
+      "测试日志",
+      "危险改良"
+    ],
+    "en": [
+      "Clockwork mechanism",
+      "Material transformation",
+      "Test logs",
+      "Dangerous refinement"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Safe",
+        "en": "Safe"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Dr Gears",
+        "en": "Dr Gears"
+      }
+    },
+    {
+      "label": {
+        "zh": "控制档位",
+        "en": "Control settings"
+      },
+      "value": {
+        "zh": "粗制、简制、一比一、精制、超精制",
+        "en": "Rough, Coarse, 1:1, Fine, and Very Fine"
+      }
+    }
+  ],
+  "related": [
+    "scp-055",
+    "scp-173",
+    "scp-2000",
+    "scp-999"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-914 原始档案，作者：Dr Gears",
+      "en": "SCP-914 source article by Dr Gears",
+      "url": "https://scp-wiki.wikidot.com/scp-914"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-914”，原作者为 Dr Gears；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-914” by Dr Gears. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-914.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-914",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}
