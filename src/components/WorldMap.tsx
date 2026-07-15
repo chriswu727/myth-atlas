@@ -323,16 +323,16 @@ export default function WorldMap({
     <div className="world-map-shell">
       <div className="map-command-bar">
         <div className="map-legend" aria-hidden="true">
-          <span><i className="map-legend-star" />{locale === "zh" ? "神话谱系" : "mythic lineage"}</span>
+          <span><i className="map-legend-field" />{locale === "zh" ? "神话色域" : "mythic field"}</span>
           <span><i className="map-legend-pin" />{locale === "zh" ? "传说坐标" : "legendary site"}</span>
         </div>
-        <p>{locale === "zh" ? "择一枚星标，唤醒那方神域" : "Choose a star and awaken its realm"}</p>
-        <div className="map-controls" aria-label={locale === "zh" ? "星图缩放" : "Map zoom controls"}>
-          <button type="button" onClick={() => zoomBy(1 / 1.45)} aria-label={locale === "zh" ? "缩小星图" : "Zoom out"}>
+        <p>{locale === "zh" ? "择一片色域，唤醒其下沉眠的神话" : "Choose a field and awaken the myth beneath"}</p>
+        <div className="map-controls" aria-label={locale === "zh" ? "神话图卷缩放" : "Map zoom controls"}>
+          <button type="button" onClick={() => zoomBy(1 / 1.45)} aria-label={locale === "zh" ? "缩小神话图卷" : "Zoom out"}>
             <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10" /></svg>
           </button>
           <span ref={zoomLabelRef} className="map-zoom-readout">1.0×</span>
-          <button type="button" onClick={() => zoomBy(1.45)} aria-label={locale === "zh" ? "放大星图" : "Zoom in"}>
+          <button type="button" onClick={() => zoomBy(1.45)} aria-label={locale === "zh" ? "放大神话图卷" : "Zoom in"}>
             <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M8 3v10" /></svg>
           </button>
           <button type="button" className="map-reset" onClick={resetMap}>
@@ -347,7 +347,7 @@ export default function WorldMap({
           viewBox={`0 0 ${W} ${H}`}
           className="world-map-svg"
           role="group"
-          aria-label={locale === "zh" ? "可交互世界神话星图" : "Interactive world mythology atlas"}
+          aria-label={locale === "zh" ? "可交互世界神话图卷" : "Interactive world mythology atlas"}
         >
           <g ref={contentRef}>
             <path
@@ -424,6 +424,9 @@ export default function WorldMap({
               const anchorOffset = anchorOffsets.get(tradition.id) ?? { x: 0, y: 0 };
               const active = activeTid === tradition.id;
               const selected = selectedTid === tradition.id;
+              const fieldAngle = (index * 47) % 120 - 60;
+              const fieldWidth = 29 + index % 4 * 2;
+              const fieldHeight = 19 + index % 3 * 2;
               return (
                 <g
                   key={tradition.id}
@@ -453,20 +456,40 @@ export default function WorldMap({
                   onFocus={() => setPreviewTid(tradition.id)}
                   onBlur={() => setPreviewTid(null)}
                   className="map-tradition-anchor"
-                  style={{ animationDelay: `${0.35 + index * 0.035}s` }}
                 >
                   <g data-map-marker>
                     <g transform={`translate(${anchorOffset.x},${anchorOffset.y})`}>
-                      <circle r="20" fill="transparent" />
-                      <circle r={active ? 8.5 : 7.5} fill="none" stroke={tradition.color} strokeWidth="0.8" opacity={active ? 0.8 : 0.34} />
-                      <path
-                        d="M0,-9 L2.5,-2.5 L9,0 L2.5,2.5 L0,9 L-2.5,2.5 L-9,0 L-2.5,-2.5 Z"
-                        fill={tradition.color}
-                        stroke="#0b1114"
-                        strokeWidth="1"
-                        className="map-anchor-star"
-                        style={active ? { filter: `drop-shadow(0 0 6px ${tradition.color})` } : undefined}
-                      />
+                      <circle r="22" fill="transparent" />
+                      <g
+                        className="map-anchor-field"
+                        data-active={active ? "true" : "false"}
+                        style={{
+                          animationDelay: `${-index * 0.37}s`,
+                          animationDuration: `${5.2 + index % 5 * 0.45}s`,
+                          filter: active ? `drop-shadow(0 0 7px ${tradition.color})` : undefined,
+                        }}
+                      >
+                        <rect
+                          x={-fieldWidth / 2}
+                          y={-fieldHeight / 2}
+                          width={fieldWidth}
+                          height={fieldHeight}
+                          rx="6"
+                          transform={`rotate(${fieldAngle})`}
+                          fill={tradition.color}
+                          className="map-anchor-field-wash"
+                        />
+                        <rect
+                          x={-fieldHeight * 0.42}
+                          y={-fieldWidth * 0.36}
+                          width={fieldHeight * 0.84}
+                          height={fieldWidth * 0.72}
+                          rx="5"
+                          transform={`rotate(${fieldAngle + 38})`}
+                          fill={tradition.color}
+                          className="map-anchor-field-core"
+                        />
+                      </g>
                       <text
                         x={tweak.dx ?? 12}
                         y={tweak.dy ?? 0}
@@ -492,7 +515,7 @@ export default function WorldMap({
 
         {mapError ? (
           <p className="map-error" role="status">
-            {locale === "zh" ? "星图底卷未能展开，请稍后重试。" : "The base atlas could not be opened. Please try again."}
+            {locale === "zh" ? "神话图卷未能展开，请稍后重试。" : "The base atlas could not be opened. Please try again."}
           </p>
         ) : null}
 
@@ -524,9 +547,9 @@ export default function WorldMap({
           <>
             <span className="map-inspector-sigil" />
             <div>
-              <p>{locale === "zh" ? "星图静候指引" : "THE ATLAS AWAITS"}</p>
+              <p>{locale === "zh" ? "图卷静候指引" : "THE ATLAS AWAITS"}</p>
               <strong>{locale === "zh" ? "选择一方古域" : "Choose an ancient realm"}</strong>
-              <span>{locale === "zh" ? "星标显现谱系，俯近大地可见传说坐标" : "Stars reveal lineages; draw close to uncover legendary sites"}</span>
+              <span>{locale === "zh" ? "色域之下皆有古老回声；俯近大地，可见传说坐标" : "Each field carries an ancient echo; draw close to uncover legendary sites"}</span>
             </div>
           </>
         )}
