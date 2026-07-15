@@ -780,6 +780,7 @@ h1, h2, h3, h4 {
 .map-tradition-anchor:hover .map-anchor-node,
 .map-tradition-anchor:focus .map-anchor-node,
 .map-tradition-anchor[aria-pressed="true"] .map-anchor-node {
+  animation: none;
   opacity: 1;
   transform: scale(1.16);
 }
@@ -800,7 +801,6 @@ h1, h2, h3, h4 {
   letter-spacing: 0.035em;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 180ms ease;
   visibility: hidden;
 }
 
