@@ -1,0 +1,99 @@
+{
+  "id": "hastur",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "哈斯塔",
+    "en": "Hastur",
+    "original": "Hastur",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "从牧神、星名与黄衣残页中迁徙的名字",
+    "en": "The Name Migrating Through Shepherd, Star, and Yellow Pages"
+  },
+  "summary": {
+    "zh": "从比尔斯到钱伯斯再到洛夫克拉夫特与德雷斯不断改义的名字；黄衣之王与克苏鲁神系的联系属于累积传统。",
+    "en": "A name transformed by Bierce, Chambers, Lovecraft, and Derleth, accumulating Carcosa, the Yellow Sign, and later mythos rank."
+  },
+  "description": {
+    "zh": "哈斯塔并非一开始就是克苏鲁神话中的黄衣神祇。安布罗斯·比尔斯在1890年代把它写作牧羊人的善意神名；罗伯特·W. 钱伯斯随后在《黄衣之王》中让哈斯塔与卡尔克萨、毕宿五、黄印及一部使人疯狂的戏剧互相照映，名字究竟属于地点、人物还是力量并不稳定。洛夫克拉夫特在《暗夜呢喃》中借用这些词，却只作神秘名单的一部分。\n\n奥古斯特·德雷斯后来把哈斯塔明确纳入克苏鲁神系，赋予阵营、亲缘和元素对立；桌游与角色扮演传统又把黄衣之王塑造成其化身或同一存在。今天通行的哈斯塔是一座多人累建的神殿，不能倒推为某位作者一次完成的设计。它最迷人的地方正在迁徙：一个名字穿过四位作家与多种媒介，每次都丢失旧义、吸收新影，最终比任何单一“正史”更像真正经过世纪流传的禁忌神名。",
+    "en": "Hastur did not begin as a yellow-robed deity within the Cthulhu Mythos. Ambrose Bierce used the name in the 1890s for a benevolent god of shepherds. Robert W. Chambers then placed Hastur among Carcosa, Aldebaran, the Yellow Sign, and a play that destroys its readers, leaving uncertain whether the word names a place, person, or force. Lovecraft borrowed this vocabulary in “The Whisperer in Darkness” but only as part of a mysterious catalogue.\n\nAugust Derleth later assigned Hastur a definite mythos position, elemental alignment, and relationship to other powers. Board games and roleplaying traditions further shaped the King in Yellow as an avatar or identical being. The familiar Hastur is therefore a temple assembled by many hands rather than a design completed by one author. Its fascination lies precisely in migration. A name crosses four writers and several media, shedding old meanings and gathering new shadows until it resembles a genuinely transmitted forbidden god more closely than any tidy, singular canon could."
+  },
+  "domains": {
+    "zh": [
+      "黄衣之王",
+      "卡尔克萨",
+      "跨作者迁徙",
+      "文本层累"
+    ],
+    "en": [
+      "King in Yellow",
+      "Carcosa",
+      "Cross-author migration",
+      "Layered tradition"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "名称源流",
+        "en": "Name lineage"
+      },
+      "value": {
+        "zh": "比尔斯 → 钱伯斯 → 洛夫克拉夫特 → 德雷斯",
+        "en": "Bierce → Chambers → Lovecraft → Derleth"
+      }
+    },
+    {
+      "label": {
+        "zh": "辨伪",
+        "en": "Layer note"
+      },
+      "value": {
+        "zh": "固定神格、阵营与克苏鲁亲缘属于后世整理",
+        "en": "Fixed rank, alignment, and kinship are later systematizations"
+      }
+    }
+  ],
+  "related": [
+    "nyarlathotep",
+    "elder-sign",
+    "necronomicon",
+    "yig"
+  ],
+  "sources": [
+    {
+      "zh": "罗伯特·W. 钱伯斯《黄衣之王》",
+      "en": "Robert W. Chambers, The King in Yellow",
+      "url": "https://www.gutenberg.org/ebooks/8492"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《暗夜呢喃》",
+      "en": "H. P. Lovecraft, “The Whisperer in Darkness”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "奥古斯特·德雷斯相关神话扩展文本",
+      "en": "August Derleth’s later mythos fiction"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/hastur.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/hastur",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "scp-2521",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-2521 · 无法书写之物",
+    "en": "SCP-2521 · The Unwritten",
+    "original": "●●|●●●●●|●●|●",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "当名字被写下，名字所指之物便来取走文字",
+    "en": "The Presence That Comes to Collect Its Description"
+  },
+  "summary": {
+    "zh": "一种会夺走所有关于自身文字与言语信息的实体；官方档案只能以图示保存，因为图像似乎不触发它的追索。",
+    "en": "An entity that removes written or spoken information about itself, forcing its official file to communicate almost entirely through pictograms."
+  },
+  "description": {
+    "zh": "SCP-2521对关于自身的文字和言语表现出近乎即时的反应。记录一旦写成、话语一旦说出，黑色触肢实体便可能出现，抱走纸张、设备，甚至带走掌握信息的人。图像与非语言符号似乎不在同一触发范围，于是官方档案放弃常规段落，只用一连串图示说明对象、收容失败与写作者的命运。标题本身也以圆点和竖线构成，像一份从捕食者嘴边抢救出来的无声索引。\n\n它把SCP的网页载体推进到极致：形式不是包装故事的容器，形式就是收容措施。读者需要“看图说话”，却被告知说话正是危险。本站为了编目不得不用语言描述，因此将本页理解为站外评论，而不是基金会宇宙中的安全档案；原创图版保留符号化，不复制原页面图示。2521与055形成一对现代禁忌：一个让知识无法留在脑中，另一个让知识一旦留下便招来取走它的手。古代神话警告不可呼唤真名，网络神话则让服务器、文本框和搜索索引共同承担禁令。",
+    "en": "SCP-2521 responds almost immediately to written or spoken information about itself. Once a record is made or a statement voiced, a black, tendriled presence may arrive to carry away paper, equipment, or even the person holding the information. Images and nonverbal symbols appear to fall outside the same trigger. Its official article therefore abandons normal paragraphs and uses a sequence of pictograms to explain the object, containment failure, and the recorder’s fate. Even the title is assembled from dots and bars, a silent index rescued from a predator’s reach.\n\nThe entry pushes the SCP website medium to an extreme. Form is not a vessel containing the story; form becomes containment procedure. A reader must interpret the pictures while learning that verbal interpretation is dangerous. Myth Atlas necessarily uses language for external commentary and does not pretend this page is an in-universe safe file; its original plate remains symbolic without copying the source artwork. SCP-2521 pairs with SCP-055 as a modern taboo. One prevents knowledge from remaining in the mind; the other arrives when knowledge is allowed to remain anywhere else. Ancient myths forbid a true name, while network myth makes servers, text fields, and search indexes carry the prohibition."
+  },
+  "domains": {
+    "zh": [
+      "信息捕食",
+      "图像档案",
+      "不可言说",
+      "媒介即收容"
+    ],
+    "en": [
+      "Information predation",
+      "Pictogram file",
+      "Unspeakability",
+      "Medium as containment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Keter",
+        "en": "Keter"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "LurkD",
+        "en": "LurkD"
+      }
+    },
+    {
+      "label": {
+        "zh": "档案形态",
+        "en": "Document form"
+      },
+      "value": {
+        "zh": "官方页面几乎完全由图示构成",
+        "en": "The official article is composed almost entirely of pictograms"
+      }
+    }
+  ],
+  "related": [
+    "scp-055",
+    "scp-173",
+    "scp-2000",
+    "scp-3008"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-2521 原始档案，作者：LurkD",
+      "en": "SCP-2521 source article by LurkD",
+      "url": "https://scp-wiki.wikidot.com/scp-2521"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-2521”，原作者为 LurkD；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-2521” by LurkD. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-2521.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-2521",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

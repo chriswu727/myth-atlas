@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+<title id="title">SCP-049</title><desc id="desc">Original abstract editorial plate for Myth Atlas</desc>
+<defs><filter id="grain"><feTurbulence baseFrequency=".74" numOctaves="4" seed="119" type="fractalNoise"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .16"/></feComponentTransfer></filter><radialGradient id="halo"><stop offset="0" stop-color="#aeb9ae" stop-opacity=".17"/><stop offset="1" stop-color="#aeb9ae" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1200" fill="#090b0e"/><rect x="36" y="36" width="828" height="1128" rx="2" fill="#101419" stroke="#394049" stroke-width="2"/><rect x="55" y="55" width="790" height="1090" fill="none" stroke="#aeb9ae" stroke-opacity=".28"/><rect width="900" height="1200" filter="url(#grain)" opacity=".75"/><circle cx="450" cy="500" r="370" fill="url(#halo)"/>
+<g opacity=".22" stroke="#aeb9ae" fill="none"><circle cx="450" cy="500" r="300"/><circle cx="450" cy="500" r="248"/><path d="M128 500h644M450 178v644" stroke-dasharray="5 12"/></g>
+<g><path d="M336 412c47-126 181-126 228 0l-31 217H367l-31-217Z" stroke="#aeb9ae" stroke-width="8" stroke-linecap="square" stroke-linejoin="round" fill="none"/><path d="M370 450h160l111 56-111 55H370l-111-55 111-56Z" stroke="#aeb9ae" stroke-width="8" stroke-linecap="square" stroke-linejoin="round" fill="none"/><circle cx="398" cy="445" r="20" fill="#aeb9ae"/><circle cx="502" cy="445" r="20" fill="#aeb9ae"/></g>
+<path d="M92 94h95M713 94h95M92 1106h95M713 1106h95" stroke="#b94a45" stroke-width="5"/>
+<text x="92" y="139" fill="#b94a45" font-size="18" font-family="monospace" letter-spacing="4">ARCANA MUNDI · CONTAINMENT ARCHIVE</text>
+<text x="92" y="1026" fill="#aeb9ae" font-size="42" font-family="Georgia,serif" letter-spacing="3">SCP-049</text>
+<text x="92" y="1070" fill="#818992" font-size="15" font-family="monospace" letter-spacing="3">PLATE SCP-049 · MYTH ATLAS EDITORIAL</text>
+<text x="808" y="139" text-anchor="end" fill="#818992" font-size="15" font-family="monospace">CC BY-SA 3.0</text>
+</svg>

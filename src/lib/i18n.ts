@@ -54,6 +54,7 @@ export const dict = {
     traits: { zh: '古卷侧记', en: 'Marginalia' },
     related: { zh: '命运相连者', en: 'Bound by Fate' },
     sources: { zh: '残卷所据', en: 'Witnessed in' },
+    rights: { zh: '文本许可', en: 'Text & derivative license' },
     location: { zh: '故事显现之地', en: 'Where the Tale Appeared' },
     backToDex: { zh: '退回万象图鉴', en: 'Return to the codex' },
     imageSource: { zh: '图版来处', en: 'Plate provenance' },
@@ -102,7 +103,8 @@ export const typeLabels: Record<EntryType, { zh: string; en: string }> = {
 export const eraLabels: Record<Era, { zh: string; en: string }> = {
   ancient: { zh: '上古', en: 'Ancient' },
   folk: { zh: '民间', en: 'Folk' },
-  modern: { zh: '今世', en: 'Modern' },
+  modern: { zh: '近代', en: 'Modern' },
+  contemporary: { zh: '现代', en: 'Contemporary' },
 };
 
 export const motifLabels: Record<Motif, { zh: string; en: string }> = {
@@ -118,6 +120,7 @@ export const motifLabels: Record<Motif, { zh: string; en: string }> = {
 export const categoryLabels: Record<Category, { zh: string; en: string }> = {
   pantheon: { zh: '诸神谱系', en: 'Divine lineages' },
   classic: { zh: '异兽古卷', en: 'Elder bestiaries' },
+  'modern-myth': { zh: '近现代神话', en: 'Modern mythologies' },
   urban: { zh: '今世怪谈', en: 'Modern hauntings' },
   lostland: { zh: '沉没之境', en: 'Drowned realms' },
 };

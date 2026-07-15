@@ -1,0 +1,103 @@
+{
+  "id": "miskatonic-university",
+  "tradition": "cthulhu",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "米斯卡托尼克大学",
+    "en": "Miskatonic University",
+    "original": "Miskatonic University",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "把禁书与南极冰样一同编号的学术殿堂",
+    "en": "The University Cataloguing Forbidden Books and Antarctic Ice"
+  },
+  "summary": {
+    "zh": "阿卡姆的虚构大学，收藏死灵之书并组织多次危险考察；知识在此既是照明，也是打开门锁的工具。",
+    "en": "Arkham’s fictional university, keeper of a Necronomicon and sponsor of expeditions where scholarship becomes a dangerous key."
+  },
+  "description": {
+    "zh": "米斯卡托尼克大学坐落在阿卡姆，是洛夫克拉夫特之乡最重要的知识机构。它拥有医学院、图书馆、自然科学系和一部上锁的《死灵之书》，教授与研究者频繁出现在邓威治、南极、澳大利亚和旧宅案件中。《疯狂山脉》的探险队携带大学名义深入冰原，也把无法被现有学科容纳的样本与记录带回文明边缘。\n\n大学在这些故事里既不是纯洁堡垒，也不只是愚蠢权威。学术方法能辨认伪史、翻译碑文、连接分散证据；同一种求知欲也会凿穿本应保持封闭的墙。米斯卡托尼克因此成为现代神话极具影响力的制度发明：禁忌知识不再只属于山中巫师，也会被捐赠、编目、写进基金申请，并在阅览室规定时间内调取。后世无数超自然学院、秘密档案部和调查者组织都继承了这套想象——理性之灯越亮，书架后方的阴影也越清楚。",
+    "en": "Miskatonic University stands in Arkham as the principal institution of knowledge in Lovecraft Country. It possesses a medical school, a library, natural-science departments, and a locked copy of the Necronomicon. Its professors and researchers enter the affairs of Dunwich, Antarctica, Australia, and haunted New England houses. The expedition in At the Mountains of Madness carries the university’s authority into the ice and brings samples and records back toward the border of what existing disciplines can contain.\n\nThe university is neither a pure fortress nor merely a foolish authority. Scholarship can expose false history, translate inscriptions, and join scattered evidence; the same appetite for knowledge can drill through walls that should have remained sealed. Miskatonic became one of modern mythology’s most influential institutional inventions. Forbidden knowledge no longer belongs only to a sorcerer in the hills. It can be donated, catalogued, funded, and requested during reading-room hours. Countless later occult academies, secret archives, and investigative organizations inherit this pattern: the brighter reason’s lamp burns, the more precisely it outlines the shadow behind the shelves."
+  },
+  "domains": {
+    "zh": [
+      "虚构大学",
+      "禁书收藏",
+      "探险学术",
+      "机构化秘闻"
+    ],
+    "en": [
+      "Fictional university",
+      "Forbidden collection",
+      "Expeditionary scholarship",
+      "Institutional occult"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "所在地",
+        "en": "Location"
+      },
+      "value": {
+        "zh": "虚构城镇阿卡姆",
+        "en": "The fictional town of Arkham"
+      }
+    },
+    {
+      "label": {
+        "zh": "著名藏品",
+        "en": "Famous holding"
+      },
+      "value": {
+        "zh": "奥劳斯·沃尔米乌斯拉丁译本《死灵之书》",
+        "en": "The Olaus Wormius Latin Necronomicon"
+      }
+    }
+  ],
+  "related": [
+    "arkham",
+    "necronomicon",
+    "elder-things",
+    "great-race-of-yith"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《疯狂山脉》",
+      "en": "H. P. Lovecraft, At the Mountains of Madness",
+      "url": "https://www.gutenberg.org/ebooks/70652"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《邓威治恐怖事件》",
+      "en": "H. P. Lovecraft, “The Dunwich Horror”",
+      "url": "https://www.gutenberg.org/ebooks/50133"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "geo": {
+    "lat": 42.52,
+    "lon": -70.9,
+    "label": {
+      "zh": "虚构校址：阿卡姆",
+      "en": "Fictional campus: Arkham"
+    }
+  },
+  "image": {
+    "file": "/images/entries/miskatonic-university.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/miskatonic-university",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

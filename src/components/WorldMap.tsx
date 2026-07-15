@@ -46,6 +46,8 @@ const LABEL_TWEAKS: Record<string, { dx?: number; dy?: number; anchor?: "start" 
   shanhaijing: { dy: -9 },
   chinese: { dy: 11 },
   "american-folklore": { dy: 11 },
+  cthulhu: { anchor: "end", dx: -12, dy: 12 },
+  scp: { dy: 10 },
   "native-american": { dy: -8 },
   maya: { anchor: "end", dx: -11, dy: 9 },
   aztec: { anchor: "end", dx: -11, dy: -5 },

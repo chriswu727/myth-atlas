@@ -1,0 +1,94 @@
+{
+  "id": "mi-go",
+  "tradition": "cthulhu",
+  "type": "creature",
+  "era": "modern",
+  "name": {
+    "zh": "米·戈",
+    "en": "Mi-Go",
+    "original": "Mi-Go",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "从犹格斯越过真空采矿的翼菌之民",
+    "en": "The Winged Fungi Crossing Vacuum from Yuggoth"
+  },
+  "summary": {
+    "zh": "来自犹格斯的星际真菌族群，在佛蒙特群山采掘矿物，并把人脑装入圆筒带往群星之间。",
+    "en": "Fungoid travelers from Yuggoth who mine Vermont’s hills and carry human brains between worlds in metal cylinders."
+  },
+  "description": {
+    "zh": "米·戈在《暗夜呢喃》中出没于佛蒙特洪水后的山林。它们呈粉红甲壳、菌质躯体与膜翼的组合，翅膀不适合地球大气，却能帮助它们穿越星际以太。人类传说中的雪人之名“Mi-Go”被小说移作这种外星族群的称呼；它们从犹格斯来到地球采掘矿物，并与少数人类合作者维持隐秘网络。\n\n它们最令人不安的技术是脑圆筒：把活人的大脑从身体取出，连接感官装置，再运往无法由肉身抵达的星球。对米·戈而言，这可能是旅行、保存甚至恩惠；对接受邀请的人而言，声音从桌上的金属容器传出，任何保证都失去可验证的表情。小说始终没有把它们简化成纯粹恶魔。它们拥有科学、外交和自身目标，只是“人格”“身体”“同意”这些人类概念，在跨星文明的手术台上显得脆弱得可怕。",
+    "en": "The Mi-Go move through the flooded hills of Vermont in “The Whisperer in Darkness.” Their bodies combine pinkish shell, fungoid tissue, and membranous wings ill suited to Earth’s atmosphere but useful for travel through interstellar ether. Lovecraft transfers “Mi-Go,” a Himalayan name associated with the abominable snowman, to this alien people. They come from Yuggoth to mine unusual materials and maintain a concealed network with selected human collaborators.\n\nTheir most disturbing instrument is the brain cylinder. A living human brain can be removed, joined to sensory apparatus, and transported toward planets a body could never reach. To the Mi-Go this may constitute travel, preservation, or even a favor. To the invited human, a voice issuing from a metal canister has no face by which any promise can be tested. The story does not reduce them to demons. They possess science, diplomacy, and purposes of their own; it is simply that human ideas of personhood, embodiment, and consent become terrifyingly fragile upon an operating table built by a civilization between stars."
+  },
+  "domains": {
+    "zh": [
+      "犹格斯",
+      "星际真菌",
+      "脑圆筒",
+      "秘密采矿"
+    ],
+    "en": [
+      "Yuggoth",
+      "Interstellar fungi",
+      "Brain cylinders",
+      "Secret mining"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core text"
+      },
+      "value": {
+        "zh": "《暗夜呢喃》（1930写成）",
+        "en": "“The Whisperer in Darkness” (written 1930)"
+      }
+    },
+    {
+      "label": {
+        "zh": "技术",
+        "en": "Technology"
+      },
+      "value": {
+        "zh": "脑体分离与跨星运输",
+        "en": "Brain extraction and interstellar transport"
+      }
+    }
+  ],
+  "related": [
+    "elder-things",
+    "great-race-of-yith",
+    "necronomicon",
+    "colour-out-of-space"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《暗夜呢喃》",
+      "en": "H. P. Lovecraft, “The Whisperer in Darkness”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/mi-go.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/mi-go",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

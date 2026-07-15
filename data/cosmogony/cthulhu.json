@@ -1,0 +1,62 @@
+{
+  "tradition": "cthulhu",
+  "source": {
+    "zh": "洛夫克拉夫特《阿撒托斯》《敦威治恐怖事件》《疯狂山脉》《超越时间之影》《克苏鲁的呼唤》及相关小说（1919—1936）",
+    "en": "H. P. Lovecraft, Azathoth, The Dunwich Horror, At the Mountains of Madness, The Shadow Out of Time, The Call of Cthulhu, and related fiction (1919–1936)"
+  },
+  "note": {
+    "zh": "洛夫克拉夫特没有写过一篇统一的创世神话。下列年表把散落在不同叙述者、不同年代乃至互有冲突的小说线索排成比较用宇宙史；它是一张编辑星图，不是原作中的正典经文。",
+    "en": "Lovecraft never wrote a unified creation myth. This comparative chronology aligns clues scattered across different narrators, ages, and sometimes contradictory stories. It is an editorial star chart, not a canonical scripture found in the fiction."
+  },
+  "stages": [
+    {
+      "motif": "chaos",
+      "phase": { "zh": "太初无形", "en": "The Formless Deep" },
+      "title": { "zh": "盲目之神在宇宙中央沸腾", "en": "The blind god seethes at the center of infinity" },
+      "text": { "zh": "阿撒托斯常被后世概括成万物源头，但洛夫克拉夫特从未给出一篇从它开始的创世篇章。《阿撒托斯》残稿只让叙述者越过熟悉世界，窥见恒星之外的黑暗；后来的故事把盲目而痴愚的核置于终极混沌中央，笛声与无心智的舞蹈环绕它。这里没有意志宣布“要有光”，只有比秩序更早、也不需要理解秩序的存在。", "en": "Azathoth is often summarized by later mythographers as the source of everything, yet Lovecraft supplied no creation chapter beginning with it. The fragment Azathoth only carries its dreamer beyond the familiar world toward darkness outside the stars; later stories place a blind, mindless nucleus at ultimate chaos, ringed by piping and senseless dance. No will commands light into being. There is only an existence older than order and under no obligation to comprehend it." },
+      "entries": ["azathoth"]
+    },
+    {
+      "motif": "first-beings",
+      "phase": { "zh": "初神醒来", "en": "The First Ones Awaken" },
+      "title": { "zh": "门、钥匙与千般面孔行过群星", "en": "The gate, the key, and the thousand masks cross the stars" },
+      "text": { "zh": "犹格-索托斯与一切时空相接，既是门也是钥匙；奈亚拉托提普则与沉默诸神不同，主动走入城市、荒漠与梦境，以法老、传教者和科学奇观的面孔向人说话。莎布-尼古拉丝只在祷词与暗示里显形，被呼为孕育万千子嗣的黑山羊。这些名字没有稳定族谱，洛夫克拉夫特书信中的玩笑家谱更不能当作教义。", "en": "Yog-Sothoth touches all time and space, gate and key at once. Nyarlathotep differs from the silent powers by entering cities, deserts, and dreams, speaking through the faces of pharaoh, preacher, and technological wonder. Shub-Niggurath appears chiefly in invocations and implications, hailed as the black goat of innumerable young. These names possess no stable genealogy, and Lovecraft's joking family trees in letters cannot be promoted into doctrine." },
+      "entries": ["yog-sothoth", "nyarlathotep", "shub-niggurath"]
+    },
+    {
+      "motif": "world-form",
+      "phase": { "zh": "万物受形", "en": "All Things Take Form" },
+      "title": { "zh": "远星来客在年轻地球上刻城造命", "en": "Visitors from distant stars carve cities into the young Earth" },
+      "text": { "zh": "《疯狂山脉》以壁画给出一部非人的地球史：桶状古老者越过太空来到尚年轻的行星，筑起海底与极地城市，并制造可变形的修格斯充当劳役。它们培育的原始细胞后来可能成为地球生命的开端。别处的米·戈从冥王星外飞来，伊斯伟大种族把心智投向不同时代。地球从一开始就不是人的产业，只是许多迁徙文明暂住过的一块旧地。", "en": "At the Mountains of Madness presents a nonhuman terrestrial history through carved murals. Barrel-shaped Elder Things cross space to the young planet, build cities beneath sea and polar ice, and manufacture mutable shoggoths as labor. Primitive cells they cultivate may become the beginning of earthly life. Elsewhere the Mi-Go arrive from beyond Pluto, while the Great Race of Yith projects minds across epochs. Earth was never humanity's estate; from the beginning it was an old ground occupied and abandoned by migrating civilizations." },
+      "entries": ["elder-things", "shoggoth", "mi-go", "great-race-of-yith"]
+    },
+    {
+      "motif": "humans",
+      "phase": { "zh": "泥土有灵", "en": "Breath Given to Clay" },
+      "title": { "zh": "人类从无名实验的余波里醒来", "en": "Humanity wakes in the wake of an unnamed experiment" },
+      "text": { "zh": "洛夫克拉夫特没有一位为人类吹入灵魂的造物主。《疯狂山脉》暗示，古老者培养的食物细胞在失控演化中生出后来生命；人类不过这条支流末端的偶然动物。梦境中的食尸鬼仍保留人的姿态，印斯茅斯居民又会随血统回归深潜者，人的边界因此从不牢固。最可怕的发现不是我们由谁特意创造，而是宇宙根本没有为我们安排一个理由。", "en": "Lovecraft offers no creator who breathes a soul into humanity. At the Mountains of Madness suggests that food organisms cultivated by the Elder Things develop beyond their intended use and become the ancestry of later life; humans are accidental animals at the end of that branch. Dreamland ghouls retain traces of human form, while the people of Innsmouth may return through ancestry to the Deep Ones. The human boundary is never secure. The terrible discovery is not which god designed us, but that the cosmos supplied no purpose for us at all." },
+      "entries": ["ghouls", "deep-ones", "innsmouth"]
+    },
+    {
+      "motif": "ordeal",
+      "phase": { "zh": "天倾与洪荒", "en": "Deluge and Ruin" },
+      "title": { "zh": "拉莱耶升起，又在海啸中沉没", "en": "R'lyeh rises and sinks again beneath the flood" },
+      "text": { "zh": "克苏鲁与同族从群星来到地球，在太平洋筑起违背人类几何直觉的拉莱耶。当天象改变，城市沉入海底，克苏鲁在石室中进入近似死亡的长眠，却仍以梦触及敏感者。1925年的地震让拉莱耶短暂破浪而出，一艘误入的船唤醒巨物；撞击、海水与再次下沉只把门重新合上。这里的洪荒没有洗净罪恶，它只是把过早醒来的东西压回黑水。", "en": "Cthulhu and its kind come from the stars and raise R'lyeh in the Pacific, a city hostile to human geometry. When the heavens change, the city sinks and Cthulhu enters a deathlike sleep within stone, still touching receptive minds through dreams. An earthquake in 1925 briefly drives R'lyeh above the waves; a stray ship opens the chamber and awakens the vast sleeper. Collision, seawater, and renewed subsidence merely close the door again. This deluge cleanses no sin. It presses something prematurely awakened back beneath black water." },
+      "entries": ["cthulhu", "rlyeh"]
+    },
+    {
+      "motif": "separation",
+      "phase": { "zh": "真名成书", "en": "True Names Enter the Book" },
+      "title": { "zh": "人用禁书在无知与深空之间凿门", "en": "Forbidden books cut doors between ignorance and the deep cosmos" },
+      "text": { "zh": "《死灵之书》、古老者壁画、伊斯人的档案与米斯卡托尼克大学收藏让不同故事彼此连通。知识在这套神话里承担了“分开天地”的反向功能：它不建立安全边界，而是拆掉人类赖以生存的无知。一个名字、一枚印记、一段数学或一张南极照片，都可能证明历史比文明漫长，生命比物种宽阔，理性只是一层暂时没有裂开的薄冰。", "en": "The Necronomicon, Elder Thing murals, Yithian archives, and Miskatonic University collections allow otherwise separate stories to answer one another. Knowledge performs an inverted separation of heaven and earth: it establishes no safe boundary, but removes the ignorance on which human life depends. A name, a sign, a line of mathematics, or a photograph from Antarctica may prove that history is longer than civilization, life broader than species, and reason only a sheet of ice that has not yet cracked." },
+      "entries": ["necronomicon", "elder-sign", "miskatonic-university"]
+    },
+    {
+      "motif": "now",
+      "phase": { "zh": "此世余音", "en": "Echoes of This Age" },
+      "title": { "zh": "群星尚未归位，梦先在城市中传染", "en": "The stars are not yet right, but dreams already spread through cities" },
+      "text": { "zh": "克苏鲁没有被杀死，古老者的城市仍在冰下，伊斯人的心智仍从未来回望，奈亚拉托提普甚至从未离场。现代性带来的无线电、考古学、航空与大学档案原本承诺扩大知识，却在这些故事中成为接收深空讯号的器官。末日不是按历法必然到来；它取决于群星、偶然与一扇门是否被错误的人推开。世界仍运转，只因宇宙暂时没有注意到我们。", "en": "Cthulhu is not slain, the Elder Thing city remains beneath ice, Yithian minds still look backward from the future, and Nyarlathotep never truly leaves. Radio, archaeology, aviation, and university archives promised to enlarge modern knowledge; in these stories they become organs for receiving a deeper signal. Doom is not scheduled by a sacred calendar. It depends on stars, accident, and whether the wrong hand opens a door. The world continues because, for the moment, the wider cosmos has not turned its attention toward us." },
+      "entries": ["cthulhu", "nyarlathotep", "arkham", "dreamlands"]
+    }
+  ]
+}

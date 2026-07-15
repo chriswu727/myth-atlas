@@ -1,0 +1,94 @@
+{
+  "id": "shub-niggurath",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "莎布·尼古拉丝",
+    "en": "Shub-Niggurath",
+    "original": "Shub-Niggurath",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "万千幼崽环绕的林野黑影",
+    "en": "The Black Presence of the Thousand Young"
+  },
+  "summary": {
+    "zh": "在咒语与呼号中反复出现的丰殖之名；原作几乎不赋形，后世才让森林、角与繁生围拢其身。",
+    "en": "A name of monstrous fecundity repeated in invocations, scarcely embodied by Lovecraft and visualized chiefly by later mythmakers."
+  },
+  "description": {
+    "zh": "莎布·尼古拉丝在洛夫克拉夫特的故事中多半只以一句受敬畏的名号被呼出，从未走到舞台中央。祭仪称它为“林中黑山羊”并簇拥“千只幼崽”的意象，将繁殖、森林、牲祭和无边增生压在同一个音节里。读者看见的是信徒的呼号与仪式余波，看不见一幅由作者认证的完整肖像。\n\n这一空缺给后世留下了极大的造神空间。德雷斯体系、角色扮演游戏与视觉艺术逐渐赋予它角、蹄、触须、树根或不断分娩的巨体，也常把它列为外神之一。这些形象已经成为共享传统的重要组成，却不应倒灌回早期文本。原作中的力量恰恰来自缺席：一个从不现身的名字，仍能令偏僻山谷、古老森林和外星族群在同一场礼仪里回答。它是一枚关于生命的反向圣徽——春日复苏在这里被翻转成繁生失去尺度之后的黑色丰饶。",
+    "en": "In Lovecraft’s fiction, Shub-Niggurath is usually a name spoken with ritual awe rather than a character brought to center stage. Invocations join the image of a black goat of the woods with a thousand young, compressing fertility, forest, sacrifice, and uncontrolled increase into a single formula. Readers witness the worshippers’ cries and the residue of ceremonies, but never receive a complete portrait certified by the original author.\n\nThat absence left later mythmakers an unusually broad field. Derlethian taxonomies, roleplaying games, and visual artists gradually supplied horns, hooves, tendrils, roots, and a body forever giving birth, commonly ranking the entity among the Outer Gods. Those images now belong to the shared tradition but should not be poured backward into the early stories. The original force comes precisely from withholding form: a name that never appears can still make isolated valleys, ancient woods, and alien species answer within the same rite. It becomes an inverted emblem of life—not spring’s renewal, but fecundity after all measure has been lost."
+  },
+  "domains": {
+    "zh": [
+      "黑暗丰殖",
+      "森林祭仪",
+      "千只幼崽",
+      "无定形神名"
+    ],
+    "en": [
+      "Dark fecundity",
+      "Forest rites",
+      "Thousand young",
+      "Unfixed divine name"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "文本形态",
+        "en": "Textual form"
+      },
+      "value": {
+        "zh": "主要存在于呼号、咒语和旁涉中",
+        "en": "Appears chiefly in invocations and allusions"
+      }
+    },
+    {
+      "label": {
+        "zh": "层级提醒",
+        "en": "Layer note"
+      },
+      "value": {
+        "zh": "通行外形多由后世游戏与艺术建立",
+        "en": "The familiar appearance is largely a later construction"
+      }
+    }
+  ],
+  "related": [
+    "yig",
+    "azathoth",
+    "yog-sothoth",
+    "elder-sign"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《暗夜呢喃》及相关书信文本",
+      "en": "H. P. Lovecraft, “The Whisperer in Darkness” and related texts",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/shub-niggurath.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/shub-niggurath",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

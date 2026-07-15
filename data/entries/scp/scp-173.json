@@ -1,0 +1,115 @@
+{
+  "id": "scp-173",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-173 · 雕像",
+    "en": "SCP-173 · The Sculpture",
+    "original": "SCP-173",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "只在无人注视的间隙里移动的第一份档案",
+    "en": "The First File That Moves Between Blinks"
+  },
+  "summary": {
+    "zh": "由混凝土与钢筋构成的雕像，受持续直视时静止，一旦视线中断便高速移动并攻击；它也是 SCP 写作传统的起点。",
+    "en": "A concrete-and-rebar sculpture that remains still under observation and attacks in the interval of a blink—the first SCP file."
+  },
+  "description": {
+    "zh": "SCP-173是一座由混凝土、钢筋与涂层构成的雕像。只要有人持续直视，它便保持静止；视线被眨眼、遮挡或人员失误打断时，它会以无法由普通监控连续捕捉的速度改变位置，并以颈部折断或勒杀方式攻击。因此收容人员必须成组进入，彼此通报眨眼，把最微小的生理动作变成一场精确仪式。\n\n2007年，Moto42把这份短档案发布到4chan超自然版，它随后成为SCP Wiki与整套协作写作形式的种子：编号、对象等级、收容措施和临床语气从一个会在视线外移动的雕像周围生长成全球共享宇宙。旧页面曾使用加藤泉作品《无题 2004》的照片，但该图不属于SCP的开放许可，并于2022年从官方页面移除。本站不保存、不重绘那件雕塑，只用原创几何图版表达“观察即封印”的机制。尊重这一边界，本身也是完整收录不可缺少的一页。",
+    "en": "SCP-173 is a sculpture made from concrete, reinforcing bar, and applied coating. It remains motionless while held in direct sight. When blinking, obstruction, or procedural failure interrupts observation, it changes position faster than ordinary monitoring can follow and attacks by breaking the neck or strangulation. Personnel therefore enter in groups and announce their blinks, turning the smallest involuntary human action into a precise containment ritual.\n\nMoto42 posted the short file to 4chan’s paranormal board in 2007. It became the seed of the SCP Wiki and its collaborative form: numbering, object class, containment procedures, and clinical voice grew outward from a sculpture that moves outside attention. The old article used a photograph of Izumi Kato’s Untitled 2004, but that image was never covered by the SCP open license and was removed from the official page in 2022. Myth Atlas neither preserves nor redraws that sculpture. Its original geometric plate represents only the mechanism of observation as a seal. Respecting that boundary is itself an essential part of documenting the tradition completely."
+  },
+  "domains": {
+    "zh": [
+      "观察封印",
+      "眨眼间隙",
+      "第一份SCP",
+      "协作写作起点"
+    ],
+    "en": [
+      "Observation seal",
+      "Blink interval",
+      "First SCP",
+      "Collaborative origin"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Euclid",
+        "en": "Euclid"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Moto42",
+        "en": "Moto42"
+      }
+    },
+    {
+      "label": {
+        "zh": "历史位置",
+        "en": "Historical place"
+      },
+      "value": {
+        "zh": "2007年首篇SCP档案，奠定基金会文体",
+        "en": "The 2007 founding file that established the Foundation format"
+      }
+    },
+    {
+      "label": {
+        "zh": "图像边界",
+        "en": "Image boundary"
+      },
+      "value": {
+        "zh": "旧加藤泉雕塑照片不属于CC许可，本站不使用",
+        "en": "The former Izumi Kato image is not CC-licensed and is not used here"
+      }
+    }
+  ],
+  "related": [
+    "scp-096",
+    "scp-049",
+    "scp-682",
+    "scp-914"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-173 原始档案，作者：Moto42",
+      "en": "SCP-173 source article by Moto42",
+      "url": "https://scp-wiki.wikidot.com/scp-173"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-173”，原作者为 Moto42；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-173” by Moto42. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-173.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-173",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

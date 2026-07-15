@@ -6,12 +6,12 @@ export interface L<T = string> {
   en: T;
 }
 
-export type Category = 'pantheon' | 'classic' | 'urban' | 'lostland';
+export type Category = 'pantheon' | 'classic' | 'modern-myth' | 'urban' | 'lostland';
 export type EntryType = 'deity' | 'creature' | 'hero' | 'spirit' | 'place' | 'artifact' | 'tale';
-export type Era = 'ancient' | 'folk' | 'modern';
+export type Era = 'ancient' | 'folk' | 'modern' | 'contemporary';
 
 export const ENTRY_TYPES: EntryType[] = ['deity', 'creature', 'hero', 'spirit', 'place', 'artifact', 'tale'];
-export const ERAS: Era[] = ['ancient', 'folk', 'modern'];
+export const ERAS: Era[] = ['ancient', 'folk', 'modern', 'contemporary'];
 
 export interface Tradition {
   id: string;
@@ -68,6 +68,16 @@ export interface EntryImage {
   height?: number;
 }
 
+export interface EntrySource extends L {
+  url?: string;
+}
+
+export interface EntryRights {
+  name: string;
+  url: string;
+  note: L;
+}
+
 export interface Entry {
   id: string;
   tradition: string;
@@ -80,7 +90,8 @@ export interface Entry {
   domains: L<string[]>;
   traits?: { label: L; value: L }[];
   related?: string[];
-  sources: L[];
+  sources: EntrySource[];
+  rights?: EntryRights;
   geo?: { lat: number; lon: number; label?: L };
   volume?: L;
   image?: EntryImage | null;

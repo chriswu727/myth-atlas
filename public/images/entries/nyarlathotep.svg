@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+<title id="title">NYARLATHOTEP</title><desc id="desc">Original abstract editorial plate for Myth Atlas</desc>
+<defs><filter id="grain"><feTurbulence baseFrequency=".74" numOctaves="4" seed="204" type="fractalNoise"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .16"/></feComponentTransfer></filter><radialGradient id="halo"><stop offset="0" stop-color="#b77b5e" stop-opacity=".17"/><stop offset="1" stop-color="#b77b5e" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1200" fill="#090b0e"/><rect x="36" y="36" width="828" height="1128" rx="2" fill="#101419" stroke="#394049" stroke-width="2"/><rect x="55" y="55" width="790" height="1090" fill="none" stroke="#b77b5e" stroke-opacity=".28"/><rect width="900" height="1200" filter="url(#grain)" opacity=".75"/><circle cx="450" cy="500" r="370" fill="url(#halo)"/>
+<g opacity=".22" stroke="#b77b5e" fill="none"><circle cx="450" cy="500" r="300"/><circle cx="450" cy="500" r="248"/><path d="M128 500h644M450 178v644" stroke-dasharray="5 12"/></g>
+<g><path d="M450 282c-116 0-177 89-160 207 18 126 92 226 160 226s142-100 160-226c17-118-44-207-160-207Z" stroke="#b77b5e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M337 451c40-37 78-35 110 5-41 26-80 25-110-5Zm116 5c32-40 70-42 110-5-30 30-69 31-110 5ZM412 606l38-23 38 23" stroke="#b77b5e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M450 282v301M326 382c73-34 175-34 248 0" stroke="#b77b5e" stroke-width="3" stroke-linecap="round" fill="none" opacity=".65"/><rect x="272" y="344" width="356" height="54" fill="#090b0e" opacity=".85"/></g>
+<path d="M92 94h95M713 94h95M92 1106h95M713 1106h95" stroke="#c3a567" stroke-width="5"/>
+<text x="92" y="139" fill="#c3a567" font-size="18" font-family="monospace" letter-spacing="4">ARCANA MUNDI · THE MODERN MYTHIC AGE</text>
+<text x="92" y="1026" fill="#b77b5e" font-size="42" font-family="Georgia,serif" letter-spacing="3">NYARLATHOTEP</text>
+<text x="92" y="1070" fill="#818992" font-size="15" font-family="monospace" letter-spacing="3">PLATE NYARLATHOTEP · MYTH ATLAS EDITORIAL</text>
+<text x="808" y="139" text-anchor="end" fill="#818992" font-size="15" font-family="monospace">CC BY 4.0</text>
+</svg>

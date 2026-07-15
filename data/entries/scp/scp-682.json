@@ -1,0 +1,105 @@
+{
+  "id": "scp-682",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-682 · 难以摧毁的爬行者",
+    "en": "SCP-682 · Hard-to-Destroy Reptile",
+    "original": "SCP-682",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "把每一次处决都转化成下一层甲胄的憎恶",
+    "en": "The Hatred That Turns Every Execution into Armor"
+  },
+  "summary": {
+    "zh": "具有极端智力、再生与适应能力的巨型爬行实体；基金会的处决试验不断失败，反而扩展了它可抵抗的世界。",
+    "en": "An intelligent, regenerative reptilian entity whose failed termination trials repeatedly become lessons in adaptation."
+  },
+  "description": {
+    "zh": "SCP-682是一头体型与组织状态不断变化的巨大爬行实体，能从极少残余中恢复，也会针对酸液、武器、异常效应与环境压力长出新的抵抗方式。它能够交谈，表现出高等判断力，却对生命抱有近乎普遍的敌意。常规收容把它浸在强酸中持续削弱；真正构成神话主体的，则是漫长的处决试验记录——基金会一次次把其他异常与技术投向它，又一次次记录失败、反制与意外共鸣。\n\n这种结构把“不死怪物”改写成一部不断更新的竞技史。每次实验都像邀请另一则传说进入擂台，682因而成为SCP宇宙的重要交叉节点。然而记录也在反问处决执念：当机构宣称某对象必须毁灭，便能以此正当化多少风险、牺牲和灾难？682的适应能力使答案变得字面化——施加于它的每一种暴力，都可能被身体保存成下一次突破收容的工具。基金会越努力证明它不该存在，它越能从这份证明里获得继续存在的新方法。",
+    "en": "SCP-682 is a massive reptilian entity whose size and tissue condition change constantly. It can regenerate from minimal remains and develop new resistance to acid, weapons, anomalous effects, and environmental pressure. It speaks and demonstrates advanced judgment while expressing almost universal hostility toward living things. Routine containment keeps it submerged in powerful acid to reduce its strength. The larger mythology resides in the long termination log, where the Foundation directs other anomalies and technologies against it, then records failure, countermeasure, and unexpected resonance.\n\nThis structure transforms an immortal monster into a continuously updated contest chronicle. Each experiment invites another legend into the arena, making SCP-682 a major crossover point in the shared universe. The record also interrogates the institution’s obsession with execution. Once an organization declares that an object must be destroyed, how much risk, sacrifice, and catastrophe can that claim excuse? Adaptation makes the answer literal. Every violence applied to the creature may be preserved by its body as another instrument for escape. The harder the Foundation works to prove it should not exist, the more methods of continued existence it acquires."
+  },
+  "domains": {
+    "zh": [
+      "适应再生",
+      "处决试验",
+      "敌意智慧",
+      "跨档案交叉"
+    ],
+    "en": [
+      "Adaptive regeneration",
+      "Termination trials",
+      "Hostile intelligence",
+      "Cross-file encounters"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Keter",
+        "en": "Keter"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Dr Gears 与 Epic Phail Spy",
+        "en": "Dr Gears and Epic Phail Spy"
+      }
+    },
+    {
+      "label": {
+        "zh": "核心档案",
+        "en": "Core document"
+      },
+      "value": {
+        "zh": "持续扩展的处决试验记录",
+        "en": "A continually expanding termination-test log"
+      }
+    }
+  ],
+  "related": [
+    "scp-096",
+    "scp-106",
+    "scp-173",
+    "scp-999"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-682 原始档案，作者：Dr Gears 与 Epic Phail Spy",
+      "en": "SCP-682 source article by Dr Gears and Epic Phail Spy",
+      "url": "https://scp-wiki.wikidot.com/scp-682"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-682”，原作者为 Dr Gears 与 Epic Phail Spy；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-682” by Dr Gears and Epic Phail Spy. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-682.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-682",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

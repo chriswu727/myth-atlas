@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+<title id="title">NECRONOMICON</title><desc id="desc">Original abstract editorial plate for Myth Atlas</desc>
+<defs><filter id="grain"><feTurbulence baseFrequency=".74" numOctaves="4" seed="204" type="fractalNoise"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .16"/></feComponentTransfer></filter><radialGradient id="halo"><stop offset="0" stop-color="#a27258" stop-opacity=".17"/><stop offset="1" stop-color="#a27258" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1200" fill="#090b0e"/><rect x="36" y="36" width="828" height="1128" rx="2" fill="#101419" stroke="#394049" stroke-width="2"/><rect x="55" y="55" width="790" height="1090" fill="none" stroke="#a27258" stroke-opacity=".28"/><rect width="900" height="1200" filter="url(#grain)" opacity=".75"/><circle cx="450" cy="500" r="370" fill="url(#halo)"/>
+<g opacity=".22" stroke="#a27258" fill="none"><circle cx="450" cy="500" r="300"/><circle cx="450" cy="500" r="248"/><path d="M128 500h644M450 178v644" stroke-dasharray="5 12"/></g>
+<g><path d="M450 346c-78-53-160-58-246-14v347c91-41 173-31 246 22 73-53 155-63 246-22V332c-86-44-168-39-246 14Z" stroke="#a27258" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M450 346v355M257 406c58-22 106-16 146 16M257 470c58-22 106-16 146 16M497 422c40-32 88-38 146-16M497 486c40-32 88-38 146-16" stroke="#a27258" stroke-width="3" stroke-linecap="round" fill="none" opacity=".65"/><circle cx="450" cy="512" r="47" stroke="#a27258" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<path d="M92 94h95M713 94h95M92 1106h95M713 1106h95" stroke="#c3a567" stroke-width="5"/>
+<text x="92" y="139" fill="#c3a567" font-size="18" font-family="monospace" letter-spacing="4">ARCANA MUNDI · THE MODERN MYTHIC AGE</text>
+<text x="92" y="1026" fill="#a27258" font-size="42" font-family="Georgia,serif" letter-spacing="3">NECRONOMICON</text>
+<text x="92" y="1070" fill="#818992" font-size="15" font-family="monospace" letter-spacing="3">PLATE NECRONOMICON · MYTH ATLAS EDITORIAL</text>
+<text x="808" y="139" text-anchor="end" fill="#818992" font-size="15" font-family="monospace">CC BY 4.0</text>
+</svg>

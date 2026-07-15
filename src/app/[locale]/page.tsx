@@ -7,7 +7,7 @@ import { getAllCardData, getEntries, getEntry, getTraditions } from "@/lib/data"
 import { categoryLabels, dict, isLocale } from "@/lib/i18n";
 import type { Category } from "@/lib/types";
 
-const CATEGORY_ORDER: Category[] = ["pantheon", "classic", "urban", "lostland"];
+const CATEGORY_ORDER: Category[] = ["pantheon", "classic", "modern-myth", "urban", "lostland"];
 const CURATED_IDS = ["raven", "yggdrasil", "amaterasu", "quetzalcoatl"];
 const HERO_ORBIT_IDS = ["raven", "anubis"];
 

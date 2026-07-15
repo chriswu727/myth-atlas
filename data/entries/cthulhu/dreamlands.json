@@ -1,0 +1,95 @@
+{
+  "id": "dreamlands",
+  "tradition": "cthulhu",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "幻梦境",
+    "en": "Dreamlands",
+    "original": "Dreamlands",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "从七十级睡眠阶梯抵达的第二世界",
+    "en": "The Second World Beyond Seventy Steps of Sleep"
+  },
+  "summary": {
+    "zh": "清醒世界之外的梦域，拥有港城、神山、月兽与猫之军势；熟练梦行者可反复进入，甚至永久停留。",
+    "en": "A persistent realm beyond waking life, filled with ports, gods, moon-beasts, cats, and roads known to practiced dreamers."
+  },
+  "description": {
+    "zh": "一场私人幻觉本应在醒来时消散；幻梦境却拥有稳定地理、居民和历史，俨然一片第二世界。梦行者经由深眠阶梯进入，穿过乌撒、塞勒菲斯、迪拉斯-琳等城，远处的卡达斯由大地诸神居住。猫可以在月光中越过世界，食尸鬼与夜魇掌握地下及空中的路线，月兽的黑船则把港口贸易拖向更残酷的疆域。\n\n伦道夫·卡特在《梦寻秘境卡达斯》中寻找梦中夕照之城，最终发现那景色由自己对新英格兰故乡的记忆建成。幻梦境因此容纳了与宇宙恐怖不同的音色：危险依旧浩大，乡愁、友谊、美与冒险却没有被完全驱逐。它也提醒读者，洛夫克拉夫特的作品没有一套从一开始便整齐完备的神系；邓萨尼式梦幻故事与克苏鲁档案后来被读者缝在一起。缝线本身已成为传统，而两侧原本不同的色泽仍值得看见。",
+    "en": "The Dreamlands are not a private illusion that dissolves upon waking but a second world with persistent geography, inhabitants, and history. Dreamers descend through the gates of deeper sleep and travel among Ulthar, Celephaïs, and Dylath-Leen, while the gods of Earth dwell at distant Kadath. Cats cross worlds in moonlight, ghouls and night-gaunts command subterranean and aerial routes, and the black ships of moon-beasts pull harbor commerce toward crueller frontiers.\n\nIn The Dream-Quest of Unknown Kadath, Randolph Carter seeks a sunset city seen in dreams and learns that its beauty was composed from memories of his New England home. The Dreamlands therefore possess a different register from documentary cosmic horror. Danger remains immense, but longing, friendship, beauty, and adventure have not been entirely driven away. The realm also shows that Lovecraft did not create one perfectly unified pantheon. His Dunsanian dream tales and Cthulhu documents were stitched together by authors and readers afterward. The seam now belongs to the tradition, while the distinct colors on either side remain worth seeing."
+  },
+  "domains": {
+    "zh": [
+      "共享梦域",
+      "梦行旅程",
+      "乌撒与卡达斯",
+      "乡愁幻城"
+    ],
+    "en": [
+      "Shared dream realm",
+      "Oneiric journey",
+      "Ulthar and Kadath",
+      "City of longing"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "核心文本",
+        "en": "Core text"
+      },
+      "value": {
+        "zh": "《梦寻秘境卡达斯》",
+        "en": "The Dream-Quest of Unknown Kadath"
+      }
+    },
+    {
+      "label": {
+        "zh": "进入方式",
+        "en": "Entry"
+      },
+      "value": {
+        "zh": "经由深层睡眠之门与梦中阶梯",
+        "en": "Through gates and stairs of deeper sleep"
+      }
+    }
+  ],
+  "related": [
+    "night-gaunts",
+    "ghouls",
+    "nyarlathotep",
+    "azathoth"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《梦寻秘境卡达斯》",
+      "en": "H. P. Lovecraft, The Dream-Quest of Unknown Kadath",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《塞勒菲斯》《乌撒之猫》",
+      "en": "H. P. Lovecraft, “Celephaïs” and “The Cats of Ulthar”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/dreamlands.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/dreamlands",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

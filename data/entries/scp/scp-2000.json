@@ -1,0 +1,115 @@
+{
+  "id": "scp-2000",
+  "tradition": "scp",
+  "type": "place",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-2000 · 机械降神",
+    "en": "SCP-2000 · Deus Ex Machina",
+    "original": "SCP-2000",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "在人类灭绝之后重新印制文明的黄石深库",
+    "en": "The Yellowstone Vault That Reprints Civilization"
+  },
+  "summary": {
+    "zh": "隐藏在黄石地下的全球重启设施，可在末日后复制人口、重建基础设施并植入历史，使文明相信自己从未终结。",
+    "en": "A subterranean reset facility that rebuilds humanity after apocalypse, restoring population, infrastructure, and an edited memory of history."
+  },
+  "description": {
+    "zh": "SCP-2000埋藏在黄石国家公园深处，是基金会为人类文明准备的重启装置。当某类全球灾难越过恢复极限，设施会启用保存的基因、工业系统与记忆处理技术，大规模制造人口，重建交通和城市，再为新社会植入一段足以衔接日常生活的过去。幸存者不必知道世界曾经结束；历史可以像基础设施一样从备份恢复。\n\n“机械降神”属于Thaumiel级：它的异常性被用于收容或抵消更大灾难。但档案逐渐显露更寒冷的疑问。设施已经启动过多少次？今日被视为自然连续的历史，有多少段其实是灾后编辑？如果一代人拥有身体、家庭与记忆，他们是否需要一个未经制造的过去才算真实？SCP-2000把末日神话从最后审判改造成版本管理。文明不再只有一次生灭，而可能在地下机器的节律中反复覆写；每次重建都拯救人类，也让“原本的人类”这个说法变得更难指向。",
+    "en": "SCP-2000 lies beneath Yellowstone National Park, a reset mechanism prepared for the collapse of human civilization. When a global catastrophe passes the possibility of ordinary recovery, the facility can activate stored genetic resources, industrial systems, and memory technologies. It manufactures population at immense scale, reconstructs infrastructure and cities, and supplies society with a past coherent enough for daily life to continue. Survivors do not need to know that the world ended. History can be restored from backup like any other system.\n\n“Deus Ex Machina” is classified Thaumiel because its anomaly contains or counters disasters of greater scope. The file gradually exposes colder questions. How many times has it already operated? How much apparently continuous history is actually post-catastrophe editing? If people possess bodies, families, and memories, do they require an unmanufactured past to be real? SCP-2000 changes apocalypse from final judgment into version control. Civilization may no longer have one creation and one destruction, but repeated overwriting in the rhythm of underground machinery. Every reconstruction saves humanity while making “the original humanity” harder to locate."
+  },
+  "domains": {
+    "zh": [
+      "文明重启",
+      "人口复制",
+      "记忆重建",
+      "循环末日"
+    ],
+    "en": [
+      "Civilization reset",
+      "Population replication",
+      "Memory reconstruction",
+      "Cyclical apocalypse"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Thaumiel",
+        "en": "Thaumiel"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "HammerMaiden",
+        "en": "HammerMaiden"
+      }
+    },
+    {
+      "label": {
+        "zh": "设施位置",
+        "en": "Facility location"
+      },
+      "value": {
+        "zh": "黄石国家公园地下",
+        "en": "Beneath Yellowstone National Park"
+      }
+    },
+    {
+      "label": {
+        "zh": "神话功能",
+        "en": "Mythic function"
+      },
+      "value": {
+        "zh": "现代洪水神话：毁灭之后由机器再造众生",
+        "en": "A machine-age flood myth that remakes humanity after destruction"
+      }
+    }
+  ],
+  "related": [
+    "scp-055",
+    "scp-914",
+    "scp-3008",
+    "scp-2521"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-2000 原始档案，作者：HammerMaiden",
+      "en": "SCP-2000 source article by HammerMaiden",
+      "url": "https://scp-wiki.wikidot.com/scp-2000"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-2000”，原作者为 HammerMaiden；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-2000” by HammerMaiden. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-2000.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-2000",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

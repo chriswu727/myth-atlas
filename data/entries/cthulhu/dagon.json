@@ -1,0 +1,95 @@
+{
+  "id": "dagon",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "达贡",
+    "en": "Dagon",
+    "original": "Dagon",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "深海祭坛前升起的父神之名",
+    "en": "The Father-Name Raised Before the Deep"
+  },
+  "summary": {
+    "zh": "深潜者与因斯茅斯秘教敬奉的海中名号，连接一战漂流者所见巨影、古代神名与后来的族群祭仪。",
+    "en": "A sea-name revered by the Deep Ones and Innsmouth’s Esoteric Order, joining an ancient god to modern oceanic dread."
+  },
+  "description": {
+    "zh": "在早期短篇《达贡》中，一名一战水手漂到海底突然隆起的泥地，看见刻满水栖人形的巨碑，以及从深渊攀上石面的庞然生物。故事没有明说那就是达贡，却让古代腓力士神名成为见证者为不可名状之物寻找的唯一旧词。后来《印斯茅斯的阴霾》把“父神达贡”安置进小镇的秘教，与母神海德拉和深潜者共同接受礼拜。\n\n这两篇文本之间存在有意留下的海雾：达贡可以是独立的巨型存在，也可能只是深潜者对克苏鲁或某位远古祖先的尊号。后世体系倾向把它固定为伟大旧日支配者或深潜者领袖。本站不替迷雾封口；更重要的是这个名字如何工作——它让圣经、近东古神和现代海洋恐怖叠在一起，使海岸居民相信，陆地文明只是一次短暂退潮，真正古老的祭坛仍在水线以下。",
+    "en": "In the early story “Dagon,” a sailor of the First World War drifts onto mud suddenly raised from the ocean floor. He finds a monolith carved with aquatic humanoids and sees a colossal creature climb from the abyss to embrace the stone. The story never plainly identifies that being as Dagon; instead, an ancient Philistine divine name becomes the witness’s only inherited word for what cannot otherwise be named. “The Shadow over Innsmouth” later installs Father Dagon within the town’s Esoteric Order, worshipped beside Mother Hydra and the Deep Ones.\n\nThe water between those texts remains deliberately clouded. Dagon may be an individual giant, a title for Cthulhu, or an ancestral honorific used by an oceanic people. Later systems tend to fix him as a Great Old One or sovereign of the Deep Ones. This archive leaves the uncertainty open. More important is the name’s work: biblical memory, an ancient Near Eastern deity, and modern sea horror overlap, persuading coastal worshippers that land civilization is only a brief low tide and the elder altars remain below the waterline."
+  },
+  "domains": {
+    "zh": [
+      "海底祭坛",
+      "因斯茅斯秘教",
+      "深潜者",
+      "古神名回声"
+    ],
+    "en": [
+      "Submarine altar",
+      "Innsmouth cult",
+      "Deep Ones",
+      "Ancient divine echo"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次现身",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "《达贡》（1917写成，1919发表）",
+        "en": "“Dagon” (written 1917, published 1919)"
+      }
+    },
+    {
+      "label": {
+        "zh": "身份争议",
+        "en": "Identity question"
+      },
+      "value": {
+        "zh": "原作未固定其与海中巨影、克苏鲁的关系",
+        "en": "The original texts do not fix its relation to the sea giant or Cthulhu"
+      }
+    }
+  ],
+  "related": [
+    "mother-hydra",
+    "deep-ones",
+    "innsmouth",
+    "cthulhu"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《达贡》",
+      "en": "H. P. Lovecraft, “Dagon”",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "H. P. 洛夫克拉夫特《印斯茅斯的阴霾》",
+      "en": "H. P. Lovecraft, The Shadow over Innsmouth",
+      "url": "https://www.gutenberg.org/ebooks/73181"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/dagon.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/dagon",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

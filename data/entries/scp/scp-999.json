@@ -1,0 +1,105 @@
+{
+  "id": "scp-999",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-999 · 橙色欢愉体",
+    "en": "SCP-999 · The Tickle Monster",
+    "original": "SCP-999",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "在冷峻收容档案中自行发光的橙色喜悦",
+    "en": "The Orange Joy Glowing Inside the Archive"
+  },
+  "summary": {
+    "zh": "温暖、黏稠、顽皮的橙色生命，接触能带来强烈愉悦并缓解创伤；它把“异常”从威胁重新解释为礼物。",
+    "en": "A warm, playful orange organism whose touch induces joy and emotional relief, recasting anomaly as gift rather than threat."
+  },
+  "description": {
+    "zh": "SCP-999是一团半透明橙色胶状生命，能够随意改变轮廓，从通风口或狭窄缝隙穿过。它喜欢糖果、游戏和人的陪伴，会以拥抱、翻滚与类似挠痒的方式接触对象。其气味因观察者偏好而改变，触碰则引发持久的愉悦、信任与情绪舒缓；对长期抑郁或创伤者，这种效果可能显著改善状态。它还会主动安慰痛苦的人，而非仅仅被动服从测试。\n\n在一个以威胁等级、隔离门和事故报告构成的宇宙里，999的重要性来自彻底改变“收容”的道德色彩。房间在此从囚笼转为庇护所，保护温柔事物不被机构或世界耗损。围绕它的后世故事增添了宏大血缘与终局预言，但主档案本身已经足够完整：喜悦摆脱幼稚装饰的位置，成为一种能对抗恐惧、敌意甚至其他异常影响的力量。基金会神话因此拥有罕见的明亮中心——黑暗仍在，一团橙色生命却选择继续亲近人。",
+    "en": "SCP-999 is a translucent orange gelatinous organism able to alter its outline and pass through vents or narrow gaps. It enjoys sweets, games, and human company, approaching through embraces, rolling movement, and contact resembling tickling. Its scent changes according to an observer’s preference, while touch produces durable joy, trust, and emotional relief. People living with depression or trauma may experience meaningful improvement. The entity also seeks out distressed individuals to comfort them instead of merely cooperating when a test requires it.\n\nWithin a universe built from threat classes, isolation doors, and incident reports, SCP-999 changes the moral meaning of containment. A chamber need not only be a prison; it can be shelter protecting something gentle from an institution or world that might exploit it. Later tales attach cosmic ancestry and future prophecy, but the main file already makes a complete statement. Joy is not childish decoration. It is a force capable of resisting fear, hostility, and even certain anomalous effects. The Foundation mythology gains a rare bright center, not by denying darkness, but through an orange life that continues choosing affection inside it."
+  },
+  "domains": {
+    "zh": [
+      "情绪疗愈",
+      "友善异常",
+      "橙色胶体",
+      "欢愉抵抗"
+    ],
+    "en": [
+      "Emotional healing",
+      "Benevolent anomaly",
+      "Orange gelatin",
+      "Joy as resistance"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Safe",
+        "en": "Safe"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "ProfSnider",
+        "en": "ProfSnider"
+      }
+    },
+    {
+      "label": {
+        "zh": "行为倾向",
+        "en": "Disposition"
+      },
+      "value": {
+        "zh": "主动亲近并安慰人类",
+        "en": "Actively affectionate and comforting toward humans"
+      }
+    }
+  ],
+  "related": [
+    "scp-682",
+    "scp-914",
+    "scp-049",
+    "scp-2000"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-999 原始档案，作者：ProfSnider",
+      "en": "SCP-999 source article by ProfSnider",
+      "url": "https://scp-wiki.wikidot.com/scp-999"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-999”，原作者为 ProfSnider；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-999” by ProfSnider. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-999.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-999",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

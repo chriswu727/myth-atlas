@@ -1,0 +1,94 @@
+{
+  "id": "azathoth",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "阿撒托斯",
+    "en": "Azathoth",
+    "original": "Azathoth",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "混沌王庭中央无眼的搏动",
+    "en": "The Blind Pulse at the Court of Chaos"
+  },
+  "summary": {
+    "zh": "在终极混沌中心翻腾的盲目存在，四周响着长笛与鼓点；它象征无目的、无理性的宇宙根底。",
+    "en": "A blind, mindless presence seething at ultimate chaos, surrounded by flutes and drums beyond ordered space."
+  },
+  "description": {
+    "zh": "在《梦寻秘境卡达斯》与十四行诗组《来自幽暗处的真菌》中，阿撒托斯盘踞于有序宇宙之外。它没有颁布律法，也没有以意志设计世界；围绕它的只有不止息的长笛、鼓点与无定形舞者。那幅景象拒绝了传统创世神话的安慰：宇宙中央或许没有理解万物的父神，只有一场盲目、持续、无法解释的能量风暴。\n\n后世作品常把阿撒托斯称作“核沌原神”，又衍生出“它一旦醒来，现实便会消失”的著名说法。后一命题并未被洛夫克拉夫特明确写成教义，更接近读者把梦境意象、印度神话类比与共享宇宙设定熔在一起的现代神学。把层级分开之后，阿撒托斯仍然足够可怖：它无需醒来毁灭世界，因为它本来就在提醒人类，世界未必曾被谁有意识地创造。",
+    "en": "In The Dream-Quest of Unknown Kadath and the sonnet cycle Fungi from Yuggoth, Azathoth occupies a region outside ordered space. It issues no law and designs no world through conscious intention. Endless flutes, drums, and amorphous dancers surround it instead. The image withdraws the reassurance offered by traditional creation stories: at the supposed center of everything there may be no understanding father, only blind, continuous, inexplicable force.\n\nLater writers call Azathoth the “Nuclear Chaos,” and popular summaries often claim that reality is merely its dream and will vanish if it wakes. That proposition is not an explicit doctrine in Lovecraft’s fiction; it is a modern theology assembled from dream imagery, comparative mythology, and shared-universe elaboration. Once the layers are separated, Azathoth remains terrible enough. It need not awaken to destroy creation, because its presence already suggests that creation may never have been deliberate at all."
+  },
+  "domains": {
+    "zh": [
+      "终极混沌",
+      "盲目宇宙",
+      "魔笛与鼓",
+      "无意志的起源"
+    ],
+    "en": [
+      "Ultimate chaos",
+      "Mindless cosmos",
+      "Flutes and drums",
+      "Unwilled origin"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次命名",
+        "en": "First named"
+      },
+      "value": {
+        "zh": "《阿撒托斯》残篇（1922）",
+        "en": "The fragment “Azathoth” (1922)"
+      }
+    },
+    {
+      "label": {
+        "zh": "辨伪",
+        "en": "Layer note"
+      },
+      "value": {
+        "zh": "“醒来即毁灭现实”属于后世通俗扩写",
+        "en": "The waking-erases-reality doctrine is a later popular elaboration"
+      }
+    }
+  ],
+  "related": [
+    "nyarlathotep",
+    "yog-sothoth",
+    "dreamlands",
+    "shub-niggurath"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《梦寻秘境卡达斯》及《来自幽暗处的真菌》",
+      "en": "H. P. Lovecraft, The Dream-Quest of Unknown Kadath and Fungi from Yuggoth",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/azathoth.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/azathoth",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

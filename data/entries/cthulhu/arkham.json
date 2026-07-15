@@ -1,0 +1,102 @@
+{
+  "id": "arkham",
+  "tradition": "cthulhu",
+  "type": "place",
+  "era": "modern",
+  "name": {
+    "zh": "阿卡姆",
+    "en": "Arkham",
+    "original": "Arkham",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "女巫旧巷与大学灯火共存的河畔城",
+    "en": "The River Town of Witch-Lanes and University Lamps"
+  },
+  "summary": {
+    "zh": "马萨诸塞虚构古城，米斯卡托尼克河与大学穿城而过；学术、殖民旧史和禁忌家族在此交叠。",
+    "en": "A fictional Massachusetts town where Miskatonic scholarship, colonial witch-lore, and inherited secrets occupy neighboring streets."
+  },
+  "description": {
+    "zh": "阿卡姆是洛夫克拉夫特为新英格兰重新绘制的虚构古城。米斯卡托尼克河穿过老屋、尖塔、曲折街巷和同名大学；白日里它拥有图书馆、报社与教授，入夜之后，山坡上的女巫屋、封闭阁楼和殖民时代墓地又显露另一张地图。《女巫屋中之梦》《夜魔》等故事让城市不断累积建筑与家族，仿佛不同案件只是地方档案馆抽出的卷宗。\n\n它常被类比为塞勒姆，也借用了普罗维登斯及马萨诸塞多座城镇的气味，却没有唯一现实原型。阿卡姆最重要的功能是让宇宙恐怖拥有日常地址：研究者可以从早餐桌走进图书馆，再从一条错误的注释抵达不属于地球的空间。它后来成为“洛夫克拉夫特之乡”的中心节点，影响漫画、桌游与游戏中的阴森大学城。相比荒野古迹，阿卡姆更让人不安，因为禁忌不在文明之外；它就被编目在文明最自豪的书架上。",
+    "en": "Arkham is the old New England town Lovecraft redrew from imagination. The Miskatonic River passes crooked streets, aging houses, steeples, and the university bearing its name. By day there are libraries, newspapers, and professors. After dark, the Witch House, sealed attics, and colonial graveyards reveal another map. Stories including “The Dreams in the Witch House” and “The Unnamable” accumulate buildings and families until each narrative resembles a case file removed from a municipal archive.\n\nThe town is often compared with Salem and borrows atmosphere from Providence and several Massachusetts settlements, yet it has no single real model. Arkham’s essential work is to give cosmic horror an ordinary address. A scholar can leave the breakfast table for the library and pass, through one mistaken annotation, into a space that does not belong to Earth. It became the central node of Lovecraft Country and shaped later comics, games, and ominous university towns. Unlike a wilderness ruin, Arkham locates the forbidden inside civilization, carefully catalogued upon the shelves of which civilization is most proud."
+  },
+  "domains": {
+    "zh": [
+      "洛夫克拉夫特之乡",
+      "米斯卡托尼克河",
+      "女巫旧史",
+      "学术恐怖"
+    ],
+    "en": [
+      "Lovecraft Country",
+      "Miskatonic River",
+      "Witch history",
+      "Academic horror"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "地理性质",
+        "en": "Geographic status"
+      },
+      "value": {
+        "zh": "虚构的马萨诸塞城镇",
+        "en": "A fictional Massachusetts town"
+      }
+    },
+    {
+      "label": {
+        "zh": "标志机构",
+        "en": "Defining institution"
+      },
+      "value": {
+        "zh": "米斯卡托尼克大学",
+        "en": "Miskatonic University"
+      }
+    }
+  ],
+  "related": [
+    "miskatonic-university",
+    "innsmouth",
+    "necronomicon",
+    "ghouls"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《女巫屋中之梦》《夜魔》等",
+      "en": "H. P. Lovecraft, “The Dreams in the Witch House,” “The Unnamable,” and other tales",
+      "url": "https://www.gutenberg.org/ebooks/author/34724"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "geo": {
+    "lat": 42.52,
+    "lon": -70.9,
+    "label": {
+      "zh": "虚构城镇在马萨诸塞的约略位置",
+      "en": "Approximate fictional placement in Massachusetts"
+    }
+  },
+  "image": {
+    "file": "/images/entries/arkham.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/arkham",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

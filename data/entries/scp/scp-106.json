@@ -1,0 +1,105 @@
+{
+  "id": "scp-106",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-106 · 老人",
+    "en": "SCP-106 · The Old Man",
+    "original": "SCP-106",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "从腐蚀的墙面伸手、把猎物拖入私有深渊",
+    "en": "The Old Man Reaching Through Corroded Walls"
+  },
+  "summary": {
+    "zh": "外形腐朽的老年人形，可穿过固体并留下腐蚀痕迹，将受害者带入由其控制的口袋维度缓慢猎取。",
+    "en": "A decaying humanoid that passes through matter, spreads corrosion, and drags victims into a private dimension built for pursuit."
+  },
+  "description": {
+    "zh": "SCP-106看似一名严重腐败的老人，身体表面不断渗出能侵蚀物质的黑色液体。墙、地板和密闭门不能构成稳定阻隔；它会沉入固体，又从另一个表面探出，如同整座设施只是薄皮。被它抓住的人可能被拖进一处由其支配的口袋维度，那里的空间、时间与痛感都可被重新安排，逃生路线因狩猎者的兴趣而改变。\n\n收容方案以层层隔离、悬空室和可牺牲诱饵构成，文件的冷酷几乎与对象本身相称。106常表现出耐心和玩弄欲，不急于杀死猎物，而是延长追逐、制造希望，再关闭出口。某些故事线尝试把它与战争、衰老或特定人物相连，但主档案没有为其提供唯一前史。这个空缺很重要：老人不是从一段悲惨传记中获得恐怖，而像建筑材料自身的腐败突然拥有了捕猎意志。只要墙面出现第一滴黑液，安全空间的概念便已先于人体被溶穿。",
+    "en": "SCP-106 resembles an elderly human in advanced decay, continually exuding a black substance that corrodes surrounding material. Walls, floors, and sealed doors cannot form a reliable barrier. The entity sinks into solid matter and emerges from another surface as if the entire facility were only a thin skin. Captured people may be drawn into a pocket dimension under its control, where space, time, and pain can be rearranged and escape routes change according to the hunter’s interest.\n\nContainment uses layered isolation, a suspended chamber, and procedures involving expendable bait; the file’s institutional coldness nearly matches the object. SCP-106 displays patience and a taste for play. It does not need to kill quickly, preferring to extend pursuit, create hope, and close the exit afterward. Some tale continuities connect it to war, aging, or a particular human identity, but the main article grants no single origin. That absence matters. The Old Man does not require a tragic biography; it feels like decay inside building material has acquired the will to hunt. Once the first black stain appears, the idea of safe space has already dissolved."
+  },
+  "domains": {
+    "zh": [
+      "腐蚀渗透",
+      "口袋维度",
+      "捕猎游戏",
+      "收容残酷"
+    ],
+    "en": [
+      "Corrosive passage",
+      "Pocket dimension",
+      "Predatory play",
+      "Brutal containment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Keter",
+        "en": "Keter"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Dr Gears",
+        "en": "Dr Gears"
+      }
+    },
+    {
+      "label": {
+        "zh": "异常能力",
+        "en": "Anomalous ability"
+      },
+      "value": {
+        "zh": "穿过固体并进入自有维度",
+        "en": "Passage through matter and entry into a private dimension"
+      }
+    }
+  ],
+  "related": [
+    "scp-087",
+    "scp-049",
+    "scp-096",
+    "scp-682"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-106 原始档案，作者：Dr Gears",
+      "en": "SCP-106 source article by Dr Gears",
+      "url": "https://scp-wiki.wikidot.com/scp-106"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-106”，原作者为 Dr Gears；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-106” by Dr Gears. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-106.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-106",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

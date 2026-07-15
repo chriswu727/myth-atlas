@@ -1,0 +1,105 @@
+{
+  "id": "scp-096",
+  "tradition": "scp",
+  "type": "creature",
+  "era": "contemporary",
+  "name": {
+    "zh": "SCP-096 · 羞涩的人",
+    "en": "SCP-096 · The Shy Guy",
+    "original": "SCP-096",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "任何一幅面孔影像都可能成为追猎的钟声",
+    "en": "The Face That Turns Any Image into a Summons"
+  },
+  "summary": {
+    "zh": "一旦有人直接或间接看见其面孔，实体便陷入极端悲恸，随后以无法阻挡的速度追至观看者所在之处。",
+    "en": "A humanoid that enters unstoppable pursuit whenever anyone sees its face, even as a tiny detail in a distant photograph."
+  },
+  "description": {
+    "zh": "SCP-096是四肢异常修长、皮肤缺乏色素的人形实体，平时蜷缩、踱步或遮掩面部。危险并不取决于观看者是否理解所见：肉眼、录像或照片中哪怕只有数个像素，只要呈现了它的脸，观看者便成为目标。实体先以哭泣和尖叫进入强烈应激，随后直线追踪触发者，越过距离、地形与常规阻拦。事件结束后，它重新恢复消沉状态。\n\n这套机制让图像本身成为延迟引信。一张风景照可以安静保存多年，直到有人放大背景；数据库里的缩略图也可能把收容失败复制到任何地点。SCP-096于是把现代视觉文化最基本的承诺反转：照片原本让远方安全地抵达眼前，这里却让远方实体沿着观看关系反向抵达观者。著名事故记录还揭露基金会内部有人故意安排突破以推动销毁提案，使档案不只讲异常怪物，也讲制度在“更安全的结果”名义下制造灾难的能力。",
+    "en": "SCP-096 is an elongated, unpigmented humanoid that ordinarily paces, crouches, or covers its face. Danger does not depend on whether an observer understands the image. Direct sight, video, or even a few pixels in the background of a photograph can designate a viewer as the target. The entity first enters a state of crying and screaming, then pursues that person in a direct line, overcoming distance, terrain, and conventional obstruction. After the event it returns to a withdrawn state.\n\nThis mechanism converts every image into a delayed fuse. A landscape photograph may remain harmless for years until someone enlarges the background; a database thumbnail can reproduce a containment failure anywhere. SCP-096 reverses the central promise of modern visual culture. Photography usually allows the distant world to arrive safely before the eye; here the distant entity follows the act of viewing back to the viewer. A major incident report also exposes personnel who deliberately engineered a breach to justify destruction, widening the horror from an anomalous creature to an institution capable of manufacturing catastrophe in pursuit of a supposedly safer result."
+  },
+  "domains": {
+    "zh": [
+      "图像触发",
+      "不可阻挡追猎",
+      "面孔禁忌",
+      "制度事故"
+    ],
+    "en": [
+      "Image trigger",
+      "Unstoppable pursuit",
+      "Facial taboo",
+      "Institutional incident"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "对象等级",
+        "en": "Object Class"
+      },
+      "value": {
+        "zh": "Euclid",
+        "en": "Euclid"
+      }
+    },
+    {
+      "label": {
+        "zh": "原作者",
+        "en": "Original author"
+      },
+      "value": {
+        "zh": "Dr Dan",
+        "en": "Dr Dan"
+      }
+    },
+    {
+      "label": {
+        "zh": "触发条件",
+        "en": "Trigger"
+      },
+      "value": {
+        "zh": "任何直接或间接的面部视觉信息",
+        "en": "Any direct or mediated visual information of the face"
+      }
+    }
+  ],
+  "related": [
+    "scp-173",
+    "scp-049",
+    "scp-106",
+    "scp-682"
+  ],
+  "sources": [
+    {
+      "zh": "SCP-096 原始档案，作者：Dr Dan",
+      "en": "SCP-096 source article by Dr Dan",
+      "url": "https://scp-wiki.wikidot.com/scp-096"
+    },
+    {
+      "zh": "SCP Wiki 授权指南",
+      "en": "SCP Wiki Licensing Guide",
+      "url": "https://scp-wiki.wikidot.com/licensing-guide"
+    }
+  ],
+  "rights": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": {
+      "zh": "本条衍生自“SCP-096”，原作者为 Dr Dan；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-096” by Dr Dan. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+    }
+  },
+  "image": {
+    "file": "/images/entries/scp-096.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-096",
+    "sourceTitle": "Myth Atlas original containment plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY-SA 3.0",
+    "width": 900,
+    "height": 1200
+  }
+}

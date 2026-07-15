@@ -1,0 +1,94 @@
+{
+  "id": "cthulhu",
+  "tradition": "cthulhu",
+  "type": "deity",
+  "era": "modern",
+  "name": {
+    "zh": "克苏鲁",
+    "en": "Cthulhu",
+    "original": "Cthulhu",
+    "originalLang": "英语"
+  },
+  "title": {
+    "zh": "沉在群星夹角里的拉莱耶之主",
+    "en": "The Sleeper Beneath the Angles of R’lyeh"
+  },
+  "summary": {
+    "zh": "太平洋沉城拉莱耶中的远古存在，以梦侵入人心；群星归位时，石门与海面将同时开启。",
+    "en": "An ancient presence sleeping in drowned R’lyeh, entering human dreams while the stars delay the hour of its return."
+  },
+  "description": {
+    "zh": "克苏鲁沉睡在南太平洋的石城拉莱耶。雕像把它压缩成一种勉强可识的轮廓：介乎巨人、龙翼与头足之物之间；然而小说真正的恐怖不在外形，而在遥远心灵对全世界梦境的潮汐牵引。艺术家、诗人和精神脆弱者先听见含混的召唤，散布各洲的秘密崇拜则守候着同一句预言：当天体位置重新吻合，沉城会升起，旧主将穿过门扉。\n\n《克苏鲁的呼唤》把它写成宇宙尺度中的一个强大异类，没有授予它整套神系的最高王座。后来的奥古斯特·德雷斯及游戏谱系把零散名字整理成秩序、元素和阵营，“克苏鲁神话”也由此成为通行称呼。本站保留这两层地貌：原作中的克苏鲁是一道从文献碎片、梦与海底遗迹逐渐逼近的阴影；共享宇宙中的克苏鲁则成为现代恐怖最醒目的门徽。",
+    "en": "Cthulhu sleeps inside the stone city of R’lyeh beneath the South Pacific. Sculptures reduce it to a barely legible convergence of giant, dragon-wing, and cephalopod, yet the story’s deeper terror lies in the tidal pressure of a distant mind upon dreams across the world. Artists, poets, and vulnerable sleepers hear the first indistinct summons. Scattered cults preserve a prophecy that when the heavens regain the proper geometry, the drowned city will rise and its master will pass through the opened gate.\n\n“The Call of Cthulhu” presents a formidable extraterrestrial being, not the crowned ruler of a complete and orderly pantheon. August Derleth and later games arranged Lovecraft’s scattered names into clearer ranks, elements, and factions, while popularizing “Cthulhu Mythos” as the shared label. This archive keeps those strata visible: in the original tale Cthulhu advances through documents, dreams, and ruins; in the later shared universe, it becomes the most recognizable seal upon the door of cosmic horror."
+  },
+  "domains": {
+    "zh": [
+      "沉眠旧日支配者",
+      "梦境感应",
+      "拉莱耶",
+      "群星归位"
+    ],
+    "en": [
+      "Sleeping Great Old One",
+      "Dream influence",
+      "R’lyeh",
+      "Astral alignment"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "初次现身",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "《克苏鲁的呼唤》（1928）",
+        "en": "“The Call of Cthulhu” (1928)"
+      }
+    },
+    {
+      "label": {
+        "zh": "文本层级",
+        "en": "Textual layer"
+      },
+      "value": {
+        "zh": "洛夫克拉夫特核心文本；后世扩展繁多",
+        "en": "Lovecraft core; extensively expanded later"
+      }
+    }
+  ],
+  "related": [
+    "rlyeh",
+    "dagon",
+    "deep-ones",
+    "necronomicon"
+  ],
+  "sources": [
+    {
+      "zh": "H. P. 洛夫克拉夫特《克苏鲁的呼唤》",
+      "en": "H. P. Lovecraft, “The Call of Cthulhu”",
+      "url": "https://www.gutenberg.org/ebooks/68283"
+    },
+    {
+      "zh": "S. T. 乔希、David E. Schultz《H. P. Lovecraft Encyclopedia》",
+      "en": "S. T. Joshi and David E. Schultz, An H. P. Lovecraft Encyclopedia"
+    }
+  ],
+  "rights": {
+    "name": "CC BY 4.0 · public-domain literary sources",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": {
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+    }
+  },
+  "image": {
+    "file": "/images/entries/cthulhu.svg",
+    "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/cthulhu",
+    "sourceTitle": "Myth Atlas original editorial plate",
+    "artist": "Myth Atlas editorial",
+    "license": "CC BY 4.0",
+    "width": 900,
+    "height": 1200
+  }
+}

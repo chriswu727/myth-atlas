@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+<title id="title">DEEP ONES</title><desc id="desc">Original abstract editorial plate for Myth Atlas</desc>
+<defs><filter id="grain"><feTurbulence baseFrequency=".74" numOctaves="4" seed="153" type="fractalNoise"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .16"/></feComponentTransfer></filter><radialGradient id="halo"><stop offset="0" stop-color="#628c98" stop-opacity=".17"/><stop offset="1" stop-color="#628c98" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1200" fill="#090b0e"/><rect x="36" y="36" width="828" height="1128" rx="2" fill="#101419" stroke="#394049" stroke-width="2"/><rect x="55" y="55" width="790" height="1090" fill="none" stroke="#628c98" stroke-opacity=".28"/><rect width="900" height="1200" filter="url(#grain)" opacity=".75"/><circle cx="450" cy="500" r="370" fill="url(#halo)"/>
+<g opacity=".22" stroke="#628c98" fill="none"><circle cx="450" cy="500" r="300"/><circle cx="450" cy="500" r="248"/><path d="M128 500h644M450 178v644" stroke-dasharray="5 12"/></g>
+<g><path d="M235 398c90-89 205-89 294 0-89 89-204 89-294 0Zm136 222c90-89 205-89 294 0-89 89-204 89-294 0Z" stroke="#628c98" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M529 398l89-75v150l-89-75ZM371 620l-89-75v150l89-75Z" stroke="#628c98" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="332" cy="388" r="14" fill="#628c98"/><circle cx="568" cy="610" r="14" fill="#628c98"/></g>
+<path d="M92 94h95M713 94h95M92 1106h95M713 1106h95" stroke="#c3a567" stroke-width="5"/>
+<text x="92" y="139" fill="#c3a567" font-size="18" font-family="monospace" letter-spacing="4">ARCANA MUNDI · THE MODERN MYTHIC AGE</text>
+<text x="92" y="1026" fill="#628c98" font-size="42" font-family="Georgia,serif" letter-spacing="3">DEEP ONES</text>
+<text x="92" y="1070" fill="#818992" font-size="15" font-family="monospace" letter-spacing="3">PLATE DEEP-ONES · MYTH ATLAS EDITORIAL</text>
+<text x="808" y="139" text-anchor="end" fill="#818992" font-size="15" font-family="monospace">CC BY 4.0</text>
+</svg>
