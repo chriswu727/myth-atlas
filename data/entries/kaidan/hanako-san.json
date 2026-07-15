@@ -41,5 +41,13 @@
     { "zh": "常光彻《学校的怪谈》丛书（1990年起）", "en": "Tsunemitsu Toru, Gakko no Kaidan series (from 1990)" },
     { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
   ],
-  "image": null
+  "image": {
+    "file": "/images/entries/hanako-san.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takanawadai_Elementary_school_17.jpg",
+    "sourceTitle": "Takanawadai Elementary school 17",
+    "artist": "scarletgreen",
+    "license": "CC BY 2.0",
+    "width": 1000,
+    "height": 669
+  }
 }

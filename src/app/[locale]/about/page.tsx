@@ -19,41 +19,61 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
   if (!isLocale(locale)) notFound();
 
   const withImages = getEntries().filter((e) => e.image);
-  const traditionName = new Map(getTraditions().map((t) => [t.id, t.shortName[locale]]));
+  const creditGroups = getTraditions()
+    .map((tradition) => ({
+      tradition,
+      entries: withImages.filter((entry) => entry.tradition === tradition.id),
+    }))
+    .filter((group) => group.entries.length > 0);
 
   return (
-    <div className="mx-auto w-full max-w-3xl px-5 pt-12">
-      <h1 className="text-4xl">{dict.about.title[locale]}</h1>
-      <div className="prose-myth mt-8 leading-[1.9] text-vellum-dim">
-        <p>{dict.about.method[locale]}</p>
-        <p>{dict.about.images[locale]}</p>
-      </div>
+    <div className="site-shell pt-12">
+      <header className="grid gap-8 border-b border-[var(--line-strong)] pb-12 lg:grid-cols-[0.8fr_1.2fr] lg:items-end">
+        <div>
+          <p className="eyebrow">{locale === "zh" ? "群卷如何被寻回，诸像从何处借光" : "HOW THE LEAVES WERE FOUND · WHENCE THE PLATES BORROW LIGHT"}</p>
+          <h1 className="mt-4 text-7xl leading-none sm:text-9xl">{dict.about.title[locale]}</h1>
+        </div>
+        <div className="reading-rule prose-myth text-lg leading-[1.9] text-vellum-dim">
+          <p>{dict.about.method[locale]}</p>
+          <p>{dict.about.images[locale]}</p>
+        </div>
+      </header>
 
       {withImages.length > 0 && (
-        <section className="mt-12">
-          <h2 className="eyebrow border-b hairline pb-2">{dict.about.credits[locale]}</h2>
-          <ul className="mt-4 space-y-2 text-sm text-vellum-dim">
-            {withImages.map((e) => (
-              <li key={e.id} className="flex flex-wrap items-baseline gap-x-2">
-                <Link href={`/${locale}/entry/${e.id}`} className="text-vellum hover:text-brass">
-                  {locale === "zh" ? e.name.zh : e.name.en}
-                </Link>
-                <span className="catalog-no">{traditionName.get(e.tradition)}</span>
-                <span>
-                  — {e.image!.artist ? `${e.image!.artist}, ` : ""}
-                  <a
-                    href={e.image!.sourceUrl}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="underline underline-offset-2 hover:text-brass"
-                  >
-                    {e.image!.sourceTitle ?? "Wikimedia Commons"}
-                  </a>{" "}
-                  ({e.image!.license})
-                </span>
-              </li>
+        <section className="mt-16">
+          <div className="section-heading">
+            <h2 className="text-3xl">{dict.about.credits[locale]}</h2>
+            <span className="catalog-no">{withImages.length}</span>
+          </div>
+          <div className="mt-8 grid gap-4 lg:grid-cols-2">
+            {creditGroups.map(({ tradition, entries }) => (
+              <details key={tradition.id} className="paper-panel group p-4">
+                <summary className="flex cursor-pointer list-none items-center justify-between gap-4">
+                  <span className="flex items-center gap-3">
+                    <span className="h-2.5 w-2.5" style={{ backgroundColor: tradition.color }} />
+                    <span className="text-lg">{tradition.name[locale]}</span>
+                  </span>
+                  <span className="catalog-no">{entries.length}</span>
+                </summary>
+                <ul className="mt-4 space-y-3 border-t border-[var(--line)] pt-4 text-sm text-vellum-dim">
+                  {entries.map((entry) => (
+                    <li key={entry.id}>
+                      <Link href={`/${locale}/entry/${entry.id}`} className="text-vellum hover:text-brass">
+                        {locale === "zh" ? entry.name.zh : entry.name.en}
+                      </Link>
+                      <span className="block text-xs leading-relaxed">
+                        {entry.image!.artist ? `${entry.image!.artist}, ` : ""}
+                        <a href={entry.image!.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
+                          {entry.image!.sourceTitle ?? "Wikimedia Commons"}
+                        </a>{" "}
+                        ({entry.image!.license})
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              </details>
             ))}
-          </ul>
+          </div>
         </section>
       )}
     </div>

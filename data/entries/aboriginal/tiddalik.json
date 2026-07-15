@@ -9,40 +9,97 @@
     "original": "Tiddalik",
     "originalLang": "贡艾库尔奈语"
   },
-  "title": { "zh": "喝干天下水的巨蛙", "en": "The Frog Who Drank the Waters" },
+  "title": {
+    "zh": "吞尽溪河的蛙",
+    "en": "The Frog Who Drank the Waters"
+  },
   "summary": {
-    "zh": "维多利亚州吉普斯兰贡艾库尔奈人的叙事：巨蛙一口喝干河湖，大地枯焦，众兽设法逗它发笑，笑声一开洪水奔涌，世界复得活水。",
-    "en": "From the Gunaikurnai of Gippsland, Victoria: a giant frog drinks every river and lake dry, and the parched animals must make him laugh so the waters burst free again."
+    "zh": "贡艾库尔奈人传述：蒂达利克喝尽水潭、溪流与大河，群兽轮番逗它发笑；蛙口终于张开，活水如洪潮重返大地。",
+    "en": "In a Gunaikurnai telling, Tiddalik drinks the waterhole, creek, and river dry. The animals must make the frog laugh before the waters can surge back across Country."
   },
   "description": {
-    "zh": "梦创时代的一个清晨，巨蛙蒂达利克醒来觉得渴，便开始喝水：先喝干了身边的水潭，再喝干溪流、大河与湖泊，最后连沼泽里的泥浆也吸得一滴不剩，肚腹涨成一座光亮的小山。大地随之枯焦，草木垂死，兽群聚到巨蛙面前商议：谁也没有力气剖开它的肚子，唯一的指望是逗它发笑，让水从嘴里涌出来。袋鼠跳滑稽的舞，笑翠鸟讲最好笑的故事，蜥蜴鼓起颈边的皱领走圈——蒂达利克眼皮都不抬。最后上场的是鳗鱼诺云努姆：它离了水，在滚烫的干泥上不由自主地扭摆、打结、竖起身子抽搐。巨蛙嘴角一裂，笑声轰然而出，河水湖水随之奔涌四野，大地重新有了活水。\n\n这则叙事出自维多利亚州吉普斯兰的贡艾库尔奈人，常在旱季讲给孩童，既解释洪枯交替，也告诫贪多独占的下场。有博物学者指出，故事与澳洲内陆的储水蛙相映成趣——这类蛙在雨季把水囊满全身钻入地下，原住民旱时确会掘蛙取水。\n\n二十世纪中叶，作家里德将它收入《澳大利亚原住民寓言与传奇》，此后蒂达利克成为澳洲儿童读物与课堂上流传最广的原住民叙事之一，绘本、木偶剧与动画反复重讲这只绷着脸的巨蛙。",
-    "en": "One morning in the Dreaming the giant frog Tiddalik woke up thirsty and began to drink. He drained the waterhole beside him, then the creeks, the rivers, and the lakes, and finally sucked the last moisture from the swamps, his belly swelling into a gleaming hill. The land withered. The animals gathered before him and took counsel: none had the strength to cut him open, so their only hope was to make him laugh and let the water pour from his mouth. The kangaroo danced absurdly, the kookaburra told his best stories, the frill-necked lizard strutted in circles with his collar spread — Tiddalik did not so much as lift an eyelid. Last came Nabunum the eel, who, stranded on the hot cracked mud, began helplessly to writhe, knot, and rear. The frog's mouth split into a grin, laughter burst out of him, and the rivers and lakes came flooding back across the country.\n\nThe story belongs to the Gunaikurnai of Gippsland, Victoria, traditionally told to children in the dry season — an account of the swing between drought and flood, and a warning against hoarding. Naturalists have noted its resonance with Australia's water-holding frogs, which swell with stored water and burrow underground through the dry; desert peoples really did dig them up for drinking water in drought.\n\nIn the mid-twentieth century the writer A. W. Reed included the tale in his Aboriginal Fables and Legendary Tales, and Tiddalik went on to become one of the most widely retold Aboriginal stories in Australian classrooms, picture books, puppet plays, and animation."
+    "zh": "很久以前，大蛙蒂达利克走到水边饮水。它喝空水潭，又把小溪与大河一并吞下，直到河床裸露，四野再无一滴水。口渴的群兽召开会议，决定轮番逗它发笑：龟与鸭嘴兽跳起越背游戏，鸭和鸟在空中追逐，巴塔鲁克鼓起肚腹来回踱步，蛙仍昏昏欲睡。最后，蛇在尘土上扭出弯曲的舞，几乎把自己系成一个结。蒂达利克腹中先传出低沉轰鸣，随后张口大笑；被独占的水从蛙口倾泻，重新灌满水潭与河道。\n\n这是贡艾库尔奈土地与水域原住民公司公布的蒂迪利克（Tidilick）版本。该机构说明，这则故事由卢特比特·尧翁·布拉陶阿隆氏族群记录，保存着当地洪水与剧烈自然变迁的记忆；地貌在水退水涨之间成形，故事也因此与具体的乡土相连。澳大利亚各地都流传蒂达利克叙事，但细节并不完全相同；维多利亚博物馆本吉拉卡中心公开讲述的版本，明确归属于吉普斯兰的贡艾库尔奈人。\n\n在贡艾库尔奈与本吉拉卡的公开说明中，水的珍贵、听取长者、共同协作与拒绝贪占，是故事留给孩子的几重教诲。蒂达利克后来进入绘本、课堂与舞台，拼写亦常作 Tiddalik；这些现代重述传播甚广，却不应遮去故事与贡艾库尔奈乡土及知识持有者之间的关系。",
+    "en": "Long ago, the great frog Tidilick went down to drink. He emptied the waterhole, then swallowed the creek and the river until the channels lay bare and every animal was thirsty. The animals called a council and tried, one after another, to make him laugh. Turtle and platypus played leapfrog; duck and bird wheeled through the air; Bataluk strutted back and forth with his stomach puffed out. Tidilick only drifted toward sleep. At last snake began a wiggling, twisting dance and nearly tied himself into a knot. A rumble sounded inside the frog, his mouth opened, and all the hoarded water poured back into the waterholes and rivers.\n\nThis is the public version presented by the Gunaikurnai Land and Waters Aboriginal Corporation, where the name is spelled Tidilick. The organisation identifies it with the Lurtbit Yauung Brataualung clan group and describes the flood as a record of natural change that helped shape the local landscape. Tiddalik stories are told in many parts of Australia, with details that vary; Museums Victoria states that the version shared at Bunjilaka belongs specifically to the Gunnai Kurnai people of Gippsland.\n\nGunaikurnai and Bunjilaka teaching materials draw several lessons from the story: water is precious, Elders should be heard, greed harms the whole community, and collective action restores what one creature has withheld. Later books, classrooms, puppet plays, and animations made the spelling Tiddalik widely familiar, but those retellings should not obscure the story's connection to Gunaikurnai Country and its knowledge holders."
   },
-  "geo": { "lat": -37.9, "lon": 147.0, "label": { "zh": "吉普斯兰（维多利亚州）", "en": "Gippsland, Victoria" } },
+  "geo": {
+    "lat": -37.9,
+    "lon": 147,
+    "label": {
+      "zh": "吉普斯兰（维多利亚州）",
+      "en": "Gippsland, Victoria"
+    }
+  },
   "domains": {
-    "zh": ["旱与洪", "贪婪之诫", "众兽逗笑", "儿童讲述"],
-    "en": ["Drought and flood", "Greed cautionary tale", "Animal comedy", "Children's telling"]
+    "zh": [
+      "水与洪流",
+      "分享之诫",
+      "群兽议会",
+      "乡土记忆"
+    ],
+    "en": [
+      "Water and flood",
+      "Sharing",
+      "Council of animals",
+      "Country and memory"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "民族来源", "en": "People" },
-      "value": { "zh": "贡艾库尔奈（维多利亚州吉普斯兰）", "en": "Gunaikurnai of Gippsland, Victoria" }
+      "label": {
+        "zh": "民族来源",
+        "en": "People"
+      },
+      "value": {
+        "zh": "贡艾库尔奈（维多利亚州吉普斯兰）",
+        "en": "Gunaikurnai of Gippsland, Victoria"
+      }
     },
     {
-      "label": { "zh": "解围者", "en": "The one who broke the drought" },
-      "value": { "zh": "鳗鱼诺云努姆的扭摆之舞", "en": "The writhing dance of Nabunum the eel" }
+      "label": {
+        "zh": "解围者",
+        "en": "The one who broke the drought"
+      },
+      "value": {
+        "zh": "蛇扭身起舞，几乎把自己系成结",
+        "en": "Snake's twisting dance, nearly tying itself in a knot"
+      }
     },
     {
-      "label": { "zh": "现实回响", "en": "Natural echo" },
-      "value": { "zh": "内陆储水蛙旱季蓄水入土，旱时可掘蛙取水", "en": "Australian water-holding frogs store water underground and were dug up in drought" }
+      "label": {
+        "zh": "乡土记忆",
+        "en": "Country"
+      },
+      "value": {
+        "zh": "洪水与自然变迁塑成当地地貌",
+        "en": "Flood and natural change shaping the local landscape"
+      }
     }
   ],
-  "related": ["bunyip", "the-dreaming"],
+  "related": [
+    "bunyip",
+    "the-dreaming"
+  ],
   "sources": [
+    {
+      "zh": "贡艾库尔奈土地与水域原住民公司《Stories & Songlines：Tidilick》",
+      "en": "Gunaikurnai Land and Waters Aboriginal Corporation, “Stories & Songlines: Tidilick”"
+    },
+    {
+      "zh": "维多利亚博物馆本吉拉卡原住民文化中心《Creation Stories：Tiddalik》",
+      "en": "Museums Victoria, Bunjilaka Aboriginal Cultural Centre, “Creation Stories: Tiddalik”"
+    },
     {
       "zh": "里德《澳大利亚原住民寓言与传奇》（1965）",
       "en": "A. W. Reed, Aboriginal Fables and Legendary Tales (1965)"
     }
   ],
-  "image": null
+  "image": {
+    "file": "/images/entries/tiddalik.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original editorial illustration: Tiddalik",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
 }

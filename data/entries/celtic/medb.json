@@ -1,0 +1,102 @@
+{
+  "id": "medb",
+  "tradition": "celtic",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "梅芙",
+    "en": "Medb",
+    "original": "Medb",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "为一头公牛发动战争的康诺特女王",
+    "en": "Queen of Connacht Who Went to War for a Bull"
+  },
+  "summary": {
+    "zh": "康诺特的统治者。她与丈夫清点财富时发现少一头名牛，为夺库利褐牛集结四省大军，也把库丘林逼上孤守浅滩之路。",
+    "en": "Ruler of Connacht. A reckoning of wealth left her one prize bull short, so she raised an army for the Brown Bull of Cooley and met Cu Chulainn at the fords."
+  },
+  "description": {
+    "zh": "梅芙在《夺牛记》中统治康诺特，以克鲁亚亨为王庭。她与丈夫艾利尔在床榻上逐项清点财物，金银、衣饰、羊群与马匹都势均力敌，唯有白角牛芬本纳赫原属梅芙，却因“不愿受女人统治”转入艾利尔牛群。为了补平这道差额，她派使者借取阿尔斯特的库利褐牛；交涉因使者醉后夸口而破裂，借牛变成夺牛，财富的比较遂拉开一场席卷四省的战争。\n\n阿尔斯特男丁受玛查诅咒而病倒时，梅芙率联军北上，沿途的浅滩却被少年库丘林守住。他援引单挑之法，日复一日斩杀康诺特勇士；梅芙则以赏赐、婚约、威吓与策略不断寻找能够突破的人。她既是战争的发动者，也始终是军队真正的意志中心。最终褐牛被带到康诺特，与白角牛决斗并将其杀死，随后拖着残躯回到库利死去；两头牛俱亡，最初那场精确到一头牲畜的财富争衡只留下遍地尸骨。\n\n其他叙事称梅芙为爱尔兰至高王之女，并列举她不同的丈夫与婚盟，显出王权、土地与婚姻在早期爱尔兰故事中的纠缠。较晚的《博因河之战》保存了她被奶酪投石索击中的奇异死法。后世常把她简化为纵欲或嫉妒的女王，但《夺牛记》里的梅芙更危险也更完整：她公开衡量权力，调动联盟，为自己的王权定义“相等”，并让整个岛屿付出代价。",
+    "en": "Medb rules Connacht from Cruachan in the Tain Bo Cuailnge. In bed, she and her husband Ailill compare their property piece by piece: jewels, clothing, sheep, horses, and cattle are equal until one animal breaks the balance. Finnbennach, the White-Horned Bull, had belonged to Medb but crossed into Ailill's herd because, the tale says, it would not be ruled by a woman. Medb sends to borrow the Brown Bull of Cooley in Ulster. A drunken boast by her envoys ruins the agreement, and the proposed loan becomes a cattle raid. A private accounting opens into a war of four provinces.\n\nWith the men of Ulster disabled by Macha's curse, Medb leads the coalition north. At the fords Cu Chulainn invokes single combat and kills Connacht's champions one after another. Medb answers with reward, marriage promises, intimidation, and strategy, always remaining the directing will of the host. The Brown Bull is eventually driven into Connacht, where it fights and kills Finnbennach, then returns to Cooley and dies. Both animals are lost, and the difference of one bull that began the campaign has been paid for with an army's dead.\n\nOther narratives call Medb a daughter of a high king and place a series of husbands and political unions around her, revealing how sovereignty, territory, and marriage interlock in early Irish storytelling. The later Cath Bóinde preserves the memorable account of her death by a sling-stone made of hardened cheese. Retellings often reduce her to lust or jealousy, but the Tain gives her a more formidable shape: a ruler who measures power openly, builds coalitions, defines equality on her own terms, and makes the island bear the cost."
+  },
+  "domains": {
+    "zh": [
+      "王权",
+      "战争",
+      "财富",
+      "康诺特"
+    ],
+    "en": [
+      "Sovereignty",
+      "War",
+      "Wealth",
+      "Connacht"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "王庭",
+        "en": "Royal seat"
+      },
+      "value": {
+        "zh": "克鲁亚亨",
+        "en": "Cruachan"
+      }
+    },
+    {
+      "label": {
+        "zh": "争夺之物",
+        "en": "Object of the raid"
+      },
+      "value": {
+        "zh": "库利褐牛",
+        "en": "The Brown Bull of Cooley"
+      }
+    },
+    {
+      "label": {
+        "zh": "对手",
+        "en": "Opponent"
+      },
+      "value": {
+        "zh": "守卫浅滩的库丘林",
+        "en": "Cu Chulainn at the fords"
+      }
+    }
+  ],
+  "related": [
+    "tain-bo-cuailnge",
+    "cu-chulainn",
+    "morrigan"
+  ],
+  "sources": [
+    {
+      "zh": "《夺牛记》（Táin Bó Cúailnge）",
+      "en": "Táin Bó Cúailnge (The Cattle Raid of Cooley)"
+    },
+    {
+      "zh": "《博因河之战》（Cath Bóinde）",
+      "en": "Cath Bóinde (The Battle of the Boyne)"
+    }
+  ],
+  "geo": {
+    "lat": 53.795,
+    "lon": -8.299,
+    "label": {
+      "zh": "克鲁亚亨，罗斯康芒郡",
+      "en": "Cruachan, County Roscommon"
+    }
+  },
+  "image": {
+    "file": "/images/entries/medb.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maeve%26druid.jpg",
+    "sourceTitle": "Maeve&druid",
+    "artist": "Stephen Reid",
+    "license": "Public domain",
+    "width": 400,
+    "height": 587
+  }
+}

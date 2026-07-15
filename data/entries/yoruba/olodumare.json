@@ -9,7 +9,10 @@
     "original": "Olódùmarè",
     "originalLang": "约鲁巴语"
   },
-  "title": { "zh": "至高神、天空之主", "en": "Supreme God, Owner of the Sky" },
+  "title": {
+    "zh": "至高神、天空之主",
+    "en": "Supreme God, Owner of the Sky"
+  },
   "summary": {
     "zh": "约鲁巴神系的至高神，又称奥罗伦（\"天空之主\"），万物权能\"阿谢\"的源头。不设神庙与神像，经由众奥里沙治理世界。",
     "en": "Supreme god of the Yoruba pantheon, also called Olorun, 'Owner of the Sky'. Source of ase, the power behind all effective action, he has no shrines or images and rules through the orishas."
@@ -19,19 +22,78 @@
     "en": "Olodumare, also called Olorun, 'Owner of the Sky', is the supreme god of the Yoruba pantheon. He dwells remote in the heavens, the sole source of ase, the power that makes words and deeds effective. The orishas govern the world as his ministers; when Obatala has molded a human figure from clay, it is Olodumare who breathes life into it. Before birth, every soul kneels in his presence to receive its destiny.\n\nCreation began at his command. He handed the descending gods a snail shell filled with earth, a pigeon, and a five-toed hen: the earth was poured on the primeval waters, the birds scratched it wide into land, and he then twice sent the chameleon down to test whether the ground had grown firm and broad. According to the Ife tradition recorded by E. Bolaji Idowu, the report that 'the earth is wide' (ile n fe) gave the holy city of Ife its name.\n\nUnlike the orishas, Olodumare has no temples, no images, and no priesthood of his own; worship reaches him through the lesser gods, yet every prayer is sealed with the word ase, much as with amen. Across the Atlantic, Cuban Santeria and Brazilian Candomble kept his name at the summit of their pantheons."
   },
   "domains": {
-    "zh": ["创世", "天空", "命运", "权能"],
-    "en": ["Creation", "Sky", "Destiny", "Divine power"]
+    "zh": [
+      "创世",
+      "天空",
+      "命运",
+      "权能"
+    ],
+    "en": [
+      "Creation",
+      "Sky",
+      "Destiny",
+      "Divine power"
+    ]
   },
   "traits": [
-    { "label": { "zh": "别称", "en": "Also called" }, "value": { "zh": "奥罗伦（\"天空之主\"）", "en": "Olorun, 'Owner of the Sky'" } },
-    { "label": { "zh": "崇拜方式", "en": "Worship" }, "value": { "zh": "无神庙、无神像、无专属祭司", "en": "No shrines, images, or dedicated priesthood" } },
-    { "label": { "zh": "权能", "en": "Power" }, "value": { "zh": "阿谢——成事之力的源头", "en": "Source of ase, the power to make things happen" } }
+    {
+      "label": {
+        "zh": "别称",
+        "en": "Also called"
+      },
+      "value": {
+        "zh": "奥罗伦（\"天空之主\"）",
+        "en": "Olorun, 'Owner of the Sky'"
+      }
+    },
+    {
+      "label": {
+        "zh": "崇拜方式",
+        "en": "Worship"
+      },
+      "value": {
+        "zh": "无神庙、无神像、无专属祭司",
+        "en": "No shrines, images, or dedicated priesthood"
+      }
+    },
+    {
+      "label": {
+        "zh": "权能",
+        "en": "Power"
+      },
+      "value": {
+        "zh": "阿谢——成事之力的源头",
+        "en": "Source of ase, the power to make things happen"
+      }
+    }
   ],
-  "related": ["obatala", "oduduwa", "eshu", "ifa-divination"],
+  "related": [
+    "obatala",
+    "oduduwa",
+    "eshu",
+    "ifa-divination"
+  ],
   "sources": [
-    { "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）", "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)" },
-    { "zh": "伊法口传经文（奥杜·伊法）", "en": "Oral Ifa corpus (Odu Ifa)" },
-    { "zh": "威廉·巴斯科姆《伊法占卜：西非神人之间的沟通》（1969）", "en": "William Bascom, Ifa Divination: Communication Between Gods and Men in West Africa (1969)" }
+    {
+      "zh": "E·博拉吉·伊多武《奥罗杜马雷：约鲁巴信仰中的神》（1962）",
+      "en": "E. Bolaji Idowu, Olodumare: God in Yoruba Belief (1962)"
+    },
+    {
+      "zh": "伊法口传经文（奥杜·伊法）",
+      "en": "Oral Ifa corpus (Odu Ifa)"
+    },
+    {
+      "zh": "威廉·巴斯科姆《伊法占卜：西非神人之间的沟通》（1969）",
+      "en": "William Bascom, Ifa Divination: Communication Between Gods and Men in West Africa (1969)"
+    }
   ],
-  "image": null
+  "image": {
+    "file": "/images/entries/olodumare.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_View_of_Oke-Ila_Orangun_Landscape_near_Ayikunugba_Waterfall.jpg",
+    "sourceTitle": "Oke-Ila Orangun landscape (Yoruba homeland and sky context; not a deity depiction)",
+    "artist": "Timiadekola",
+    "license": "CC BY-SA 4.0",
+    "width": 1000,
+    "height": 562
+  }
 }

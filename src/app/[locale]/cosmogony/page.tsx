@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import CosmogonyExplorer from "@/components/CosmogonyExplorer";
+import { toInteractiveCosmogony } from "@/components/CosmogonyTimeline";
 import { getCosmogonies, getTradition } from "@/lib/data";
 import { dict, isLocale, motifLabels } from "@/lib/i18n";
 import { MOTIFS, type Motif } from "@/lib/types";
@@ -32,28 +34,49 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
     }
     return { c, t, byMotif };
   });
+  const interactiveStories = cosmogonies.map((cosmogony) => toInteractiveCosmogony(cosmogony, locale));
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-5 pt-12">
-      <header className="max-w-3xl">
-        <p className="eyebrow">{locale === "zh" ? "世界如何开始" : "HOW THE WORLD BEGAN"}</p>
-        <h1 className="mt-3 text-4xl sm:text-5xl">{dict.cosmogony.title[locale]}</h1>
-        <p className="mt-5 leading-[1.9] text-vellum-dim">{dict.cosmogony.lede[locale]}</p>
+    <div className="site-shell pt-12">
+      <header className="grid gap-8 border-b border-[var(--line-strong)] pb-12 lg:grid-cols-[0.85fr_1.15fr] lg:items-end">
+        <div>
+          <p className="eyebrow">{locale === "zh" ? "在日月尚未升起以前" : "BEFORE THE SUN AND MOON ASCENDED"}</p>
+          <h1 className="mt-4 text-7xl leading-[0.9] sm:text-9xl">{dict.cosmogony.title[locale]}</h1>
+        </div>
+        <div className="reading-rule">
+          <p className="text-xl leading-[1.8] text-vellum-dim">{dict.cosmogony.lede[locale]}</p>
+          <p className="catalog-no mt-4">{cosmogonies.length} {locale === "zh" ? "部创世残卷" : "chronicles of origin"}</p>
+        </div>
       </header>
 
-      <section className="mt-12">
-        <div className="flex items-baseline justify-between border-b hairline pb-2">
-          <h2 className="text-xl">{dict.cosmogony.compare[locale]}</h2>
+      <section className="mt-16">
+        <div className="section-heading">
+          <h2 className="text-3xl">{locale === "zh" ? "二十次天地初醒" : "Twenty awakenings of the world"}</h2>
           <span className="catalog-no">{cosmogonies.length}</span>
         </div>
-        <p className="catalog-no mt-2 leading-relaxed">{dict.cosmogony.compareHint[locale]}</p>
+        <p className="mt-3 max-w-3xl text-sm leading-relaxed text-vellum-dim">
+          {locale === "zh"
+            ? "择一方古域，循年表逐幕下行。每一次移步，都是从无形深处向此世逼近。"
+            : "Choose an elder realm and descend through its chronicle, each step drawing nearer from the formless deep to the world that remains."}
+        </p>
+        <div className="mt-7">
+          <CosmogonyExplorer stories={interactiveStories} locale={locale} />
+        </div>
+      </section>
 
-        <div className="mt-6 overflow-x-auto">
-          <table className="w-max table-fixed border-collapse text-sm">
+      <section className="mt-20">
+        <div className="section-heading">
+          <h2 className="text-3xl">{dict.cosmogony.compare[locale]}</h2>
+          <span className="catalog-no">{cosmogonies.length}</span>
+        </div>
+        <p className="mt-3 max-w-3xl text-sm leading-relaxed text-vellum-dim">{dict.cosmogony.compareHint[locale]}</p>
+
+        <div className="paper-panel mt-6 overflow-x-auto">
+          <table className="cosmogony-table w-max table-fixed border-collapse text-sm">
             <thead>
               <tr>
-                <th className="sticky left-0 z-10 w-36 bg-ink px-3 py-2 text-left align-bottom">
-                  <span className="eyebrow">{locale === "zh" ? "体系" : "Tradition"}</span>
+                <th className="sticky left-0 z-10 w-36 bg-[var(--paper-pale)] px-3 py-3 text-left align-bottom">
+                  <span className="eyebrow">{locale === "zh" ? "神话谱系" : "Tradition"}</span>
                 </th>
                 {MOTIFS.map((m) => (
                   <th
@@ -68,17 +91,12 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
             <tbody>
               {rows.map(({ c, t, byMotif }) => (
                 <tr key={c.tradition} className="align-top">
-                  <th className="sticky left-0 z-10 border-b hairline bg-ink px-3 py-4 text-left font-normal">
+                  <th className="sticky left-0 z-10 border-b hairline bg-[var(--paper-pale)] px-3 py-4 text-left font-normal">
                     <Link
                       href={`/${locale}/tradition/${t.id}`}
                       className="group flex items-center gap-2 whitespace-nowrap"
                     >
-                      <svg viewBox="0 0 14 14" className="h-3 w-3 shrink-0" aria-hidden="true">
-                        <path
-                          d="M7,0.5 L8.7,5.3 L13.5,7 L8.7,8.7 L7,13.5 L5.3,8.7 L0.5,7 L5.3,5.3 Z"
-                          fill={t.color}
-                        />
-                      </svg>
+                      <span className="h-2 w-2 rotate-45" style={{ backgroundColor: t.color }} />
                       <span className="group-hover:text-brass">{t.shortName[locale]}</span>
                     </Link>
                   </th>
@@ -110,34 +128,6 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
         </div>
       </section>
 
-      <section className="mt-16">
-        <h2 className="border-b hairline pb-2 text-xl">
-          {locale === "zh" ? "逐个体系" : "One tradition at a time"}
-        </h2>
-        <div className="mt-6 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
-          {rows.map(({ c, t }) => (
-            <Link
-              key={c.tradition}
-              href={`/${locale}/tradition/${t.id}`}
-              className="group border hairline p-4 transition-colors hover:border-[var(--brass)]"
-            >
-              <p className="flex items-center gap-2">
-                <svg viewBox="0 0 14 14" className="h-3 w-3 shrink-0" aria-hidden="true">
-                  <path
-                    d="M7,0.5 L8.7,5.3 L13.5,7 L8.7,8.7 L7,13.5 L5.3,8.7 L0.5,7 L5.3,5.3 Z"
-                    fill={t.color}
-                  />
-                </svg>
-                <span className="group-hover:text-brass">{t.name[locale]}</span>
-              </p>
-              <p className="catalog-no mt-2 line-clamp-2 leading-relaxed">{c.source[locale]}</p>
-              <p className="mt-3 line-clamp-2 text-sm leading-relaxed text-vellum-dim">
-                {c.stages[0]?.title[locale]} → {c.stages[c.stages.length - 1]?.title[locale]}
-              </p>
-            </Link>
-          ))}
-        </div>
-      </section>
     </div>
   );
 }

@@ -1,0 +1,93 @@
+{
+  "id": "scathach",
+  "tradition": "celtic",
+  "type": "hero",
+  "era": "ancient",
+  "name": {
+    "zh": "斯卡塔赫",
+    "en": "Scathach",
+    "original": "Scáthach",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "影之国的武艺导师",
+    "en": "Warrior Teacher in the Land of Shadows"
+  },
+  "summary": {
+    "zh": "居于阿尔巴险要堡垒的女武师，库丘林越过危桥投身其门下，从她手中学得战技与致命长矛加·博尔加。",
+    "en": "The warrior teacher of a perilous fortress in Alba. Cu Chulainn crossed the bridge to her domain and learned from her the deadly spear-cast of the gae bolga."
+  },
+  "description": {
+    "zh": "在《求婚埃默》里，库丘林为配得上埃默，离开阿尔斯特，渡海前往阿尔巴寻找女武师斯卡塔赫。她住在一座难以接近的堡垒中，门前横着一座会把挑战者弹回原地的危桥。年轻英雄屡次跃起、屡次坠落，最后施展“鲑鱼跃”落在桥心，才抵达这位导师的领地。古爱尔兰语 Scáthach 意近“影一般的、幽暗的”，后世因而常把她的居所称作“影之国”；中世纪文本本身更直接地把地点放在阿尔巴，也就是不列颠北方。\n\n斯卡塔赫训练来自各地的青年战士，教授腾跃、盾术、矛术以及战车上的厮杀。库丘林在她门下获得最令人畏惧的绝技加·博尔加：长矛从脚趾间发出，入体后倒刺散开，只有剖开血肉才能取出。她的对手是同样骁勇的艾芙；库丘林在决斗中以计制胜，又迫使艾芙与斯卡塔赫休战。临别前，斯卡塔赫为弟子预言征战、荣名与短促的寿命，影之堡垒由此成为英雄踏入命运之前的门槛。\n\n斯卡塔赫并非一位拥有完整神谱的女神，也不能由后世“凯尔特女武神”的形象倒推回古文献。现存叙事主要把她写成导师、预言者与边境之外的强大女性。她的分量不在统领军队，而在于把库丘林铸成《阿尔斯特故事群》中那件锋利又注定折断的武器。",
+    "en": "In The Wooing of Emer, Cu Chulainn leaves Ulster and crosses the sea to Alba because Emer's father has demanded that he master the warrior arts. Scathach lives in a stronghold reached by a treacherous bridge that throws challengers back to the bank. The young hero repeatedly leaps and falls until his famous salmon-leap carries him to the centre and across. Her Old Irish name suggests one who is shadowy or obscure, which later retellings turned into a “Land of Shadows”; the medieval narrative itself places her more plainly in Alba, the northern land across the sea.\n\nScathach trains young warriors in leaps, shield-work, spear fighting, and the disciplines of battle. From her Cu Chulainn receives the most feared technique in his repertory, the gae bolga: a spear cast with the foot whose barbs open inside the victim and can be removed only by cutting the body apart. Her rival is the formidable Aife. Cu Chulainn defeats Aife by a ruse and compels peace between the two women. Before he leaves, Scathach foretells his battles, his fame, and the brevity of the life ahead of him. Her fortress therefore stands at the threshold between apprenticeship and fate.\n\nThe surviving texts do not present Scathach as the centre of a complete divine cult, and modern images of a generic “Celtic warrior goddess” should not be read back into them. Her clearest roles are teacher, prophet, and powerful woman beyond the ordinary borders of Ulster. Her importance lies in the making of Cu Chulainn: she gives the Hound of Ulster the weapon and knowledge that will win his greatest combats and hasten his ruin."
+  },
+  "domains": {
+    "zh": [
+      "武艺",
+      "教习",
+      "预言",
+      "边境"
+    ],
+    "en": [
+      "Martial arts",
+      "Instruction",
+      "Prophecy",
+      "Thresholds"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "居所",
+        "en": "Stronghold"
+      },
+      "value": {
+        "zh": "阿尔巴的险要堡垒，门前有危桥",
+        "en": "A perilous fortress in Alba, approached by a testing bridge"
+      }
+    },
+    {
+      "label": {
+        "zh": "弟子",
+        "en": "Pupil"
+      },
+      "value": {
+        "zh": "库丘林",
+        "en": "Cu Chulainn"
+      }
+    },
+    {
+      "label": {
+        "zh": "绝技",
+        "en": "Deadly art"
+      },
+      "value": {
+        "zh": "加·博尔加的投掷法",
+        "en": "The casting of the gae bolga"
+      }
+    }
+  ],
+  "related": [
+    "cu-chulainn",
+    "tain-bo-cuailnge"
+  ],
+  "sources": [
+    {
+      "zh": "《求婚埃默》（Tochmarc Emire）",
+      "en": "Tochmarc Emire (The Wooing of Emer)"
+    },
+    {
+      "zh": "《艾芙独子之死》（Aided Óenfir Aífe）",
+      "en": "Aided Óenfir Aífe (The Death of Aife's Only Son)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/scathach.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C3%B9n_Sg%C3%A0thaich_-_general_view.jpg",
+    "sourceTitle": "Dùn Sgàthaich, Skye (place traditionally associated with Scáthach)",
+    "artist": "Tom Parnell",
+    "license": "CC BY-SA 4.0",
+    "width": 666,
+    "height": 1000
+  }
+}

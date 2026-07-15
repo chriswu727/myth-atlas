@@ -1,0 +1,94 @@
+{
+  "id": "leshy",
+  "tradition": "slavic",
+  "type": "spirit",
+  "era": "folk",
+  "name": {
+    "zh": "列希",
+    "en": "Leshy",
+    "original": "леший",
+    "originalLang": "俄语"
+  },
+  "title": {
+    "zh": "使林径回转的森林主人",
+    "en": "Forest Master Who Turns the Paths"
+  },
+  "summary": {
+    "zh": "东斯拉夫森林的主人，能与树木一同高矮、模仿熟人呼唤，让猎人与牧群在熟悉的小径上不断回到原处。",
+    "en": "Master of the East Slavic forest, changing size with the trees and mimicking familiar voices so that hunters and herds circle endlessly on paths they know."
+  },
+  "description": {
+    "zh": "列希没有一副固定面孔，因为森林本身从不肯把它完整交出。北方村落的讲述中，他可高过松梢，也可缩到草叶下；有时像披着苔藓的老人，有时借熟人面貌在树后招手。他以拍掌、尖笑、口哨和呼名声引人离路，模仿同伴的嗓音尤其逼真。迷路者明明沿原路返回，却总在同一棵树前看见自己的脚印，直到天色沉入林冠。\n\n猎人、樵夫与牧人把他称为“森林主人”，进入林地便等于踏进别人的家。列希会驱赶兽群、藏起牲畜，也可能把野兽引到尊重规矩的猎人面前。十九世纪民族志记录了牧人与森林主人订立约定的说法：放牧季开始时留下鸡蛋、面包或其他礼物，请他看守群畜。若在林中迷失，常见的破解法是把衣服前后反穿、左右鞋对调，或倒退着走，以自己的颠倒打乱精怪施加的颠倒。\n\n列希不像童话人物那样拥有一篇权威传记，他散落在禁忌、咒语、迷路经验与地方传闻里。达尔的词典与民俗笔记、泽列宁对东斯拉夫信仰的整理保存了许多变体。与家宅的多莫沃伊、水域的沃佳诺伊相对，他掌管未被耕作与围墙收服的空间；人一旦听见树后有人用亲友的声音呼唤，村落秩序便已退到很远。",
+    "en": "The leshy has no settled face because the forest never yields him whole. In northern and eastern Slavic accounts he can rise above the pines or shrink beneath the grass. He may look like an old man furred with moss, or borrow the appearance of someone known to the traveller and beckon from behind a trunk. Clapping, whistling, laughter, and a call in a companion's exact voice draw people from the path. A lost hunter follows his own tracks back and still finds himself before the same tree as daylight sinks into the canopy.\n\nHunters, woodcutters, and herders address him as the “forest master”; to enter the woods is to enter another being's household. He scatters livestock and hides cattle, yet he may also drive game toward a hunter who observes the proper terms. Nineteenth-century ethnography records herders making seasonal agreements with the forest master and leaving eggs, bread, or other gifts for the protection of their animals. A person led astray may reverse a coat, exchange the left and right shoes, or walk backward, answering the spirit's disorientation with a deliberate inversion of the self.\n\nNo single canonical tale contains the leshy. He survives across prohibitions, charms, accounts of losing the path, and local reports collected by writers such as Vladimir Dal and later East Slavic ethnographers. The domovoy rules the house and the vodyanoy the water; the leshy presides over the space beyond field and fence. When a relative's voice sounds from behind an unseen tree, the ordered world of the village has already fallen a long way behind."
+  },
+  "domains": {
+    "zh": [
+      "森林",
+      "迷途",
+      "变形",
+      "兽群"
+    ],
+    "en": [
+      "Forest",
+      "Disorientation",
+      "Shapeshifting",
+      "Wild animals"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "形貌",
+        "en": "Appearance"
+      },
+      "value": {
+        "zh": "身量随林木伸缩，常借人形现身",
+        "en": "Changing size with the forest, often appearing in human form"
+      }
+    },
+    {
+      "label": {
+        "zh": "诱引",
+        "en": "Lure"
+      },
+      "value": {
+        "zh": "模仿熟人的呼唤、口哨与笑声",
+        "en": "Imitated calls, whistles, and laughter"
+      }
+    },
+    {
+      "label": {
+        "zh": "解法",
+        "en": "Countermeasure"
+      },
+      "value": {
+        "zh": "反穿衣物、对调左右鞋",
+        "en": "Reverse the clothing or exchange the shoes"
+      }
+    }
+  ],
+  "related": [
+    "domovoy",
+    "vodyanoy",
+    "kikimora"
+  ],
+  "sources": [
+    {
+      "zh": "达尔《论俄罗斯人民的信仰、迷信与偏见》（1880）",
+      "en": "Vladimir Dal, On the Beliefs, Superstitions, and Prejudices of the Russian People (1880)"
+    },
+    {
+      "zh": "泽列宁《东斯拉夫民族志》",
+      "en": "Dmitry Zelenin, East Slavic Ethnography"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/leshy.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original editorial illustration: Leshy",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 639,
+    "height": 1000
+  }
+}

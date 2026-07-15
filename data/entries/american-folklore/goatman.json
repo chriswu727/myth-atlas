@@ -7,7 +7,10 @@
     "zh": "山羊人",
     "en": "Goatman"
   },
-  "title": { "zh": "持斧出没于马里兰乡道的半人半羊", "en": "The Axe-Wielding Half-Goat of Maryland's Back Roads" },
+  "title": {
+    "zh": "持斧出没于马里兰乡道的半人半羊",
+    "en": "The Axe-Wielding Half-Goat of Maryland's Back Roads"
+  },
   "summary": {
     "zh": "马里兰州乔治王子县的都市传说：半人半羊的持斧怪物袭击情侣车辆与宠物。1971年一只狗被斩首的报道令传说登上《华盛顿邮报》。",
     "en": "An urban legend of Prince George's County, Maryland: a half-man, half-goat armed with an axe stalks lovers' lanes and pets. A 1971 report of a beheaded dog put the Goatman in the Washington Post."
@@ -17,32 +20,81 @@
     "en": "Maryland's Goatman is a humanoid nearly two meters tall, shaggy above the waist, horned, with the back-bent legs of a goat, and carrying an axe. Its territory is the woods around Bowie in Prince George's County east of Washington, D.C., above all along Fletchertown Road: it is said to attack cars parked on lovers' lanes, hacking at roofs and doors, and to kill wandering dogs. The favorite origin story makes him a scientist at the Beltsville Agricultural Research Center, transformed by a goat experiment gone wrong — Cold War anxiety about government laboratories stitched into a backwoods legend.\n\nThe legend peaked in November 1971, when a Bowie family's puppy, Ginger, disappeared and was found decapitated; local teenagers reported strange noises and a huge figure that night, and coverage in the Prince George's County News and then the Washington Post anchored the story permanently. Fletchertown Road became a legend-tripping destination for carloads of teenagers, generating graffiti, bonfires, and fresh \"sightings\" for decades. University of Maryland folklorist Barry Pearson collected dozens of Goatman variants, using the figure as a textbook case of how local legends propagate.\n\nAmerica keeps several unrelated Goatmen: the Lake Worth Monster drew crowds outside Fort Worth, Texas in July 1969, and the Pope Lick Monster of Louisville, Kentucky fixes the figure to a railroad trestle. The half-goat shape keeps reappearing independently, and folklorists often hear in it an echo of the classical god Pan."
   },
   "domains": {
-    "zh": ["都市传说", "情侣巷怪谈", "实验事故起源", "传说地点"],
-    "en": ["Urban legend", "Lovers' lane horror", "Lab-accident origin", "Legend tripping"]
+    "zh": [
+      "都市传说",
+      "情侣巷怪谈",
+      "实验事故起源",
+      "传说地点"
+    ],
+    "en": [
+      "Urban legend",
+      "Lovers' lane horror",
+      "Lab-accident origin",
+      "Legend tripping"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "核心地盘", "en": "Territory" },
-      "value": { "zh": "马里兰州博伊镇弗莱彻敦路", "en": "Fletchertown Road, Bowie, Maryland" }
+      "label": {
+        "zh": "核心地盘",
+        "en": "Territory"
+      },
+      "value": {
+        "zh": "马里兰州博伊镇弗莱彻敦路",
+        "en": "Fletchertown Road, Bowie, Maryland"
+      }
     },
     {
-      "label": { "zh": "锚点事件", "en": "Anchor event" },
-      "value": { "zh": "1971年11月小狗「姜姜」被斩首案", "en": "The beheading of the dog Ginger, November 1971" }
+      "label": {
+        "zh": "锚点事件",
+        "en": "Anchor event"
+      },
+      "value": {
+        "zh": "1971年11月小狗「姜姜」被斩首案",
+        "en": "The beheading of the dog Ginger, November 1971"
+      }
     },
     {
-      "label": { "zh": "近亲传说", "en": "Cousins" },
-      "value": { "zh": "沃思湖山羊人（1969）、教皇利克山羊人", "en": "The Lake Worth Monster (1969); the Pope Lick Monster" }
+      "label": {
+        "zh": "近亲传说",
+        "en": "Cousins"
+      },
+      "value": {
+        "zh": "沃思湖山羊人（1969）、教皇利克山羊人",
+        "en": "The Lake Worth Monster (1969); the Pope Lick Monster"
+      }
     }
   ],
-  "related": ["bunny-man", "jersey-devil", "michigan-dogman"],
+  "related": [
+    "bunny-man",
+    "jersey-devil",
+    "michigan-dogman"
+  ],
   "sources": [
-    { "zh": "《华盛顿邮报》1971年11月报道", "en": "Washington Post coverage, November 1971" },
-    { "zh": "马里兰大学巴里·皮尔森的民俗采录", "en": "Folklore collections of Barry Pearson, University of Maryland" }
+    {
+      "zh": "《华盛顿邮报》1971年11月报道",
+      "en": "Washington Post coverage, November 1971"
+    },
+    {
+      "zh": "马里兰大学巴里·皮尔森的民俗采录",
+      "en": "Folklore collections of Barry Pearson, University of Maryland"
+    }
   ],
   "geo": {
     "lat": 38.96,
     "lon": -76.75,
-    "label": { "zh": "马里兰州博伊镇弗莱彻敦路一带", "en": "Fletchertown Road area, Bowie, Maryland" }
+    "label": {
+      "zh": "马里兰州博伊镇弗莱彻敦路一带",
+      "en": "Fletchertown Road area, Bowie, Maryland"
+    }
   },
-  "image": null
+  "image": {
+    "file": "/images/entries/goatman.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHESTNUT_AVENUE_BRIDGE._BOWIE,_PRINCE_GEORGES_CO.,_MD._Sec._1201,,_MP_120.48._-_Northeast_Railroad_Corridor,_Amtrak_route_between_District_of_Columbia-Maryland_state_line_and_HAER_MD,4-BALT,147-4.tif",
+    "sourceTitle": "Chestnut Avenue Bridge, Bowie (Maryland setting context; not the bridge named in the legend)",
+    "artist": "Jack Boucher",
+    "license": "Public domain",
+    "width": 1000,
+    "height": 769
+  }
 }

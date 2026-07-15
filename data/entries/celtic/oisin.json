@@ -1,0 +1,93 @@
+{
+  "id": "oisin",
+  "tradition": "celtic",
+  "type": "hero",
+  "era": "folk",
+  "name": {
+    "zh": "奥辛",
+    "en": "Oisin",
+    "original": "Oisín",
+    "originalLang": "古爱尔兰语"
+  },
+  "title": {
+    "zh": "从青春之国归来的最后诗人",
+    "en": "The Last Poet to Return from the Land of Youth"
+  },
+  "summary": {
+    "zh": "芬恩之子、费奥纳战团的诗人。传说他随金发尼芙赴青春之国，归来时一触爱尔兰土地，三百年骤然压回身上。",
+    "en": "Poet and son of Fionn. He rode with golden-haired Niamh to the Land of Youth, but on returning one touch of Irish soil brought three centuries down upon him."
+  },
+  "description": {
+    "zh": "奥辛是芬恩·麦克库尔之子，也是费奥纳战团的诗人与见证者。名字 Oisín 意为“小鹿”，传说他的母亲萨芙被变作牝鹿，芬恩在林中寻回她时，孩子仍带着那段兽形命运的痕迹。中世纪的芬恩故事群常让奥辛以战士身份随父狩猎、赴宴、出征；《长者谈话录》则把费奥纳昔日的山川、墓冢与战斗交到幸存者口中，由奥辛等旧时代人物向圣帕特里克讲述。\n\n最广为人知的远行来自较晚的歌谣传统。金发的尼芙骑白马越海而来，邀奥辛前往提尔纳诺——那里花木不凋，伤口会愈合，青春没有尽头。奥辛在那里度过仿佛三年的时光，思乡后获准骑白马归去，条件是双足绝不能触及爱尔兰土地。故乡已无人记得芬恩与费奥纳；当他俯身帮助路人搬动巨石，马鞍带断裂，奥辛坠地，三百年的岁月顷刻落在身上，把他化作失明衰老的人。白马立即奔回海上，通往青春之国的路在眼前闭合。\n\n“奥辛与圣帕特里克的对话”在数百年口传与书写中逐渐扩展：一边是新信仰的圣人，一边是拒绝遗忘旧同伴的诗人。现代读者熟悉的提尔纳诺情节主要定型于晚期歌谣，不能毫无分别地当作最早中世纪文本；然而这层迟来的故事正抓住了奥辛的核心位置——他是回返者，也是被时间留到最后、必须替失落时代说话的人。",
+    "en": "Oisin is the son of Fionn mac Cumhaill and the poet of the Fianna. His name means “little deer.” Tradition tells that his mother Sadb had been changed into a doe, and that the child carried in his name the trace of that animal fate. In medieval Fenian literature he hunts, feasts, and fights beside his father. The Acallam na Senórach, or Colloquy of the Ancients, gives the vanished landscapes, graves, and battles of the Fianna to the voices of survivors who speak with Saint Patrick; Oisin belongs to this company of witnesses even where another old warrior carries much of the dialogue.\n\nHis most famous journey comes from later ballad tradition. Golden-haired Niamh crosses the sea on a white horse and invites him to Tir na nOg, where flowers do not fade, wounds heal, and youth has no ending. After what seems three years, homesickness draws him back. He may ride the white horse to Ireland, but his feet must never touch the ground. No one there remembers Fionn or the Fianna. When Oisin bends to help men move a stone, the saddle-girth breaks; he falls, and three hundred years descend upon his body at once, leaving him blind and ancient as the horse runs back into the sea.\n\nThe dialogues of Oisin and Saint Patrick grew through centuries of oral and written transmission. The saint speaks for the Christian present; the old poet refuses to let his companions be dismissed or forgotten. The familiar Tir na nOg episode belongs chiefly to late ballad tradition and should not be presented as though every detail stood in the earliest medieval manuscripts. Its power nevertheless fits Oisin's enduring role: the man who returned, outlived his world, and was compelled to give the lost age a voice."
+  },
+  "domains": {
+    "zh": [
+      "诗歌",
+      "费奥纳战团",
+      "时间",
+      "归返"
+    ],
+    "en": [
+      "Poetry",
+      "The Fianna",
+      "Time",
+      "Return"
+    ]
+  },
+  "traits": [
+    {
+      "label": {
+        "zh": "父亲",
+        "en": "Father"
+      },
+      "value": {
+        "zh": "芬恩·麦克库尔",
+        "en": "Fionn mac Cumhaill"
+      }
+    },
+    {
+      "label": {
+        "zh": "名字",
+        "en": "Name"
+      },
+      "value": {
+        "zh": "Oisín，意为“小鹿”",
+        "en": "Oisín, “little deer”"
+      }
+    },
+    {
+      "label": {
+        "zh": "禁忌",
+        "en": "Warning"
+      },
+      "value": {
+        "zh": "归乡时不可触地",
+        "en": "He must not touch the ground on returning"
+      }
+    }
+  ],
+  "related": [
+    "fionn-mac-cumhaill",
+    "tir-na-nog"
+  ],
+  "sources": [
+    {
+      "zh": "《长者谈话录》（Acallam na Senórach）",
+      "en": "Acallam na Senórach (The Colloquy of the Ancients)"
+    },
+    {
+      "zh": "爱尔兰歌谣《奥辛在青春之国》（Laoi Oisín i dTír na nÓg）",
+      "en": "Laoi Oisín i dTír na nÓg (The Lay of Oisin in the Land of Youth)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/oisin.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heroes_of_the_dawn_-_illustration_to_face_page_212.jpg",
+    "sourceTitle": "Heroes of the dawn - illustration to face page 212",
+    "artist": "Beatrice Elvery",
+    "license": "Public domain",
+    "width": 667,
+    "height": 1000
+  }
+}

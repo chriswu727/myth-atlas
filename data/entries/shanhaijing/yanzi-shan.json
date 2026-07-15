@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "place",
   "era": "ancient",
-  "name": { "zh": "崦嵫之山", "en": "Mount Yanzi" },
-  "title": { "zh": "日所入的西极之山", "en": "Mountain Where the Sun Goes Down" },
+  "name": {
+    "zh": "崦嵫之山",
+    "en": "Mount Yanzi"
+  },
+  "title": {
+    "zh": "日所入的西极之山",
+    "en": "Mountain Where the Sun Goes Down"
+  },
   "summary": {
     "zh": "西次四经的最后一座山，多丹木美玉，怪兽孰湖出没；屈原“望崦嵫而勿迫”使它成为日落的代名词。",
     "en": "Last mountain of the fourth western guideway, rich in cinnabar trees and jade and haunted by the Shuhu; Qu Yuan's line 'gazing at Yanzi, do not press near' made it the byword for sunset."
@@ -14,29 +20,83 @@
     "en": "Mount Yanzi closes the fourth guideway of the western mountains. On it grow cinnabar trees 'with leaves like the paper mulberry and fruit the size of melons, red-rinded and black-veined', a fruit that cures jaundice and guards against fire; turtles abound on its southern slopes and jade on its northern; the River Tiao rises here and flows west to the sea over beds of whetstone.\n\nIts beast and bird are both prodigies. The Shuhu has 'a horse's body with bird's wings, a human face and a snake's tail', and delights in picking people up and holding them aloft; the bird is owl-shaped with a human face, monkey-bodied and dog-tailed, calls its own name, and brings great drought to any town where it appears.\n\nWhat made Yanzi immortal was Qu Yuan. In the Lisao the poet commands Xihe, charioteer of the sun, to slacken pace — 'gazing at Yanzi, do not press near' — for, as Wang Yi's commentary explains, Yanzi is the mountain into which the sun sets. Ever since, the name has meant sunset itself in literary Chinese, and 'the sun nearing Yanzi' still describes old age and closing days. Traditional geographers placed the mountain southwest of Tianshui in Gansu."
   },
   "domains": {
-    "zh": ["日入之山", "丹木", "孰湖", "迟暮意象"],
-    "en": ["Mountain of Sunset", "Cinnabar Trees", "The Shuhu", "Emblem of Dusk"]
+    "zh": [
+      "日入之山",
+      "丹木",
+      "孰湖",
+      "迟暮意象"
+    ],
+    "en": [
+      "Mountain of Sunset",
+      "Cinnabar Trees",
+      "The Shuhu",
+      "Emblem of Dusk"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "物产", "en": "Products" },
-      "value": { "zh": "丹木、玉、龟、砥砺", "en": "Cinnabar trees, jade, turtles, whetstones" }
+      "label": {
+        "zh": "物产",
+        "en": "Products"
+      },
+      "value": {
+        "zh": "丹木、玉、龟、砥砺",
+        "en": "Cinnabar trees, jade, turtles, whetstones"
+      }
     },
     {
-      "label": { "zh": "居民", "en": "Denizens" },
-      "value": { "zh": "孰湖与人面鸮形旱鸟", "en": "The Shuhu and a human-faced owl of drought" }
+      "label": {
+        "zh": "居民",
+        "en": "Denizens"
+      },
+      "value": {
+        "zh": "孰湖与人面鸮形旱鸟",
+        "en": "The Shuhu and a human-faced owl of drought"
+      }
     },
     {
-      "label": { "zh": "典故", "en": "Locus classicus" },
-      "value": { "zh": "《离骚》：望崦嵫而勿迫", "en": "Lisao: 'gazing at Yanzi, do not press near'" }
+      "label": {
+        "zh": "典故",
+        "en": "Locus classicus"
+      },
+      "value": {
+        "zh": "《离骚》：望崦嵫而勿迫",
+        "en": "Lisao: 'gazing at Yanzi, do not press near'"
+      }
     }
   ],
-  "related": ["fei-yi"],
-  "sources": [
-    { "zh": "《山海经·西山经》", "en": "Shanhaijing, 'Classic of the Western Mountains'" },
-    { "zh": "《楚辞·离骚》（王逸注）", "en": "Chuci, 'Lisao', with Wang Yi's commentary" }
+  "related": [
+    "fei-yi"
   ],
-  "geo": { "lat": 34.42, "lon": 105.72, "label": { "zh": "崦嵫山（传统比定，甘肃天水西南）", "en": "Mount Yanzi (traditionally located southwest of Tianshui, Gansu)" } },
-  "volume": { "zh": "西山经", "en": "Classic of the Western Mountains" },
-  "image": null
+  "sources": [
+    {
+      "zh": "《山海经·西山经》",
+      "en": "Shanhaijing, 'Classic of the Western Mountains'"
+    },
+    {
+      "zh": "《楚辞·离骚》（王逸注）",
+      "en": "Chuci, 'Lisao', with Wang Yi's commentary"
+    }
+  ],
+  "geo": {
+    "lat": 34.42,
+    "lon": 105.72,
+    "label": {
+      "zh": "崦嵫山（传统比定，甘肃天水西南）",
+      "en": "Mount Yanzi (traditionally located southwest of Tianshui, Gansu)"
+    }
+  },
+  "volume": {
+    "zh": "西山经",
+    "en": "Classic of the Western Mountains"
+  },
+  "image": {
+    "file": "/images/entries/yanzi-shan.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original landscape illustration: the sun enters Mount Yanzi",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 800,
+    "height": 1000
+  }
 }

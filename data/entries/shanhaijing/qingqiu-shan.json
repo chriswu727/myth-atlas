@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "place",
   "era": "ancient",
-  "name": { "zh": "青丘之山", "en": "Mount Qingqiu" },
-  "title": { "zh": "九尾狐栖居的南方名山", "en": "Southern Mountain Where the Nine-Tailed Fox Dwells" },
+  "name": {
+    "zh": "青丘之山",
+    "en": "Mount Qingqiu"
+  },
+  "title": {
+    "zh": "九尾狐栖居的南方名山",
+    "en": "Southern Mountain Where the Nine-Tailed Fox Dwells"
+  },
   "summary": {
     "zh": "鹊山山系东段的名山，山南多玉，山北多青雘；九尾狐与灌灌栖居于此，英水中多人面的赤鱬。",
     "en": "A famous peak near the eastern end of the first southern range, with jade on its south slope and green mineral pigment on its north; home to the nine-tailed fox, the guanguan bird, and the human-faced chiru fish."
@@ -14,19 +20,76 @@
     "en": "Mount Qingqiu stands toward the eastern end of the first southern range; a further march east reaches Mount Jiwei, which squats upon the Eastern Sea, and there the chain ends. The text inventories the mountain in its usual manner: jade on the sunlit southern slope, and on the shaded north qinghuo, a green mineral pigment prized by ancient painters. The Ying River rises here and flows south into the Marsh of Jiyi.\n\nThe mountain is famous for its tenants. Its beast is the nine-tailed fox, infant-voiced and man-eating; its bird is the guanguan, whose feathers worn on the body dispel confusion; its river holds the chiru, fish-bodied and human-faced, a cure for scabies when eaten. One peak thus fields a marvel each of beast, bird, and fish, every one with a stated use — no other mountain in the southern classic is so well stocked.\n\nThe name outgrew the mountain. The Classic of Regions Beyond the Seas records a Land of Qingqiu whose foxes have four legs and nine tails, and the Classic of the Great Wilderness repeats it; Han writers counted a nine-tailed fox from Qingqiu among the auspicious signs. In today's fantasy fiction, film, and television, 'Qingqiu' has become shorthand for the homeland of fox spirits, making this perhaps the most frequently borrowed place-name in the entire book."
   },
   "domains": {
-    "zh": ["名山", "九尾狐故乡", "物产"],
-    "en": ["Famous Mountains", "Home of the Nine-Tailed Fox", "Natural Riches"]
+    "zh": [
+      "名山",
+      "九尾狐故乡",
+      "物产"
+    ],
+    "en": [
+      "Famous Mountains",
+      "Home of the Nine-Tailed Fox",
+      "Natural Riches"
+    ]
   },
   "traits": [
-    { "label": { "zh": "物产", "en": "Riches" }, "value": { "zh": "山南多玉，山北多青雘", "en": "Jade to the south, green pigment to the north" } },
-    { "label": { "zh": "水系", "en": "Waters" }, "value": { "zh": "英水，南流注于即翼之泽", "en": "The Ying River, flowing south to the Marsh of Jiyi" } },
-    { "label": { "zh": "住客", "en": "Tenants" }, "value": { "zh": "九尾狐、灌灌、赤鱬", "en": "The nine-tailed fox, the guanguan, the chiru" } }
+    {
+      "label": {
+        "zh": "物产",
+        "en": "Riches"
+      },
+      "value": {
+        "zh": "山南多玉，山北多青雘",
+        "en": "Jade to the south, green pigment to the north"
+      }
+    },
+    {
+      "label": {
+        "zh": "水系",
+        "en": "Waters"
+      },
+      "value": {
+        "zh": "英水，南流注于即翼之泽",
+        "en": "The Ying River, flowing south to the Marsh of Jiyi"
+      }
+    },
+    {
+      "label": {
+        "zh": "住客",
+        "en": "Tenants"
+      },
+      "value": {
+        "zh": "九尾狐、灌灌、赤鱬",
+        "en": "The nine-tailed fox, the guanguan, the chiru"
+      }
+    }
   ],
-  "related": ["jiu-wei-hu", "guan-guan", "chi-ru", "nanshan-shen"],
+  "related": [
+    "jiu-wei-hu",
+    "guan-guan",
+    "chi-ru",
+    "nanshan-shen"
+  ],
   "sources": [
-    { "zh": "《山海经·南山经》", "en": "Shanhaijing, 'Classic of the Southern Mountains'" },
-    { "zh": "《山海经·海外东经》", "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: East'" }
+    {
+      "zh": "《山海经·南山经》",
+      "en": "Shanhaijing, 'Classic of the Southern Mountains'"
+    },
+    {
+      "zh": "《山海经·海外东经》",
+      "en": "Shanhaijing, 'Classic of Regions Beyond the Seas: East'"
+    }
   ],
-  "volume": { "zh": "南山经", "en": "Classic of the Southern Mountains" },
-  "image": null
+  "volume": {
+    "zh": "南山经",
+    "en": "Classic of the Southern Mountains"
+  },
+  "image": {
+    "file": "/images/entries/qingqiu-shan.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original landscape illustration: Mount Qingqiu",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 599,
+    "height": 1000
+  }
 }

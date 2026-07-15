@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -46,8 +47,8 @@ export default async function EntryPage({
     .slice(0, 4);
 
   return (
-    <div className="mx-auto w-full max-w-6xl px-5 pt-8">
-      <nav className="catalog-no flex flex-wrap gap-x-3">
+    <div className="site-shell pt-8">
+      <nav className="catalog-no flex flex-wrap gap-x-3 border-b border-[var(--line)] pb-3">
         <Link href={`/${locale}/dex`} className="hover:text-brass">
           {dict.entry.backToDex[locale]}
         </Link>
@@ -57,52 +58,69 @@ export default async function EntryPage({
         </Link>
       </nav>
 
-      <div className="mt-8 grid gap-10 lg:grid-cols-[400px_1fr]">
-        {/* plate column */}
+      <header className="grid gap-6 border-b border-[var(--line-strong)] py-9 sm:grid-cols-[7rem_1fr_auto] sm:items-end">
+        <p className="font-[family-name:var(--font-display-stack)] text-6xl leading-none text-brass">{catalog}</p>
         <div>
-          <div className="plate">
+          <p className="eyebrow">
+            {t.shortName[locale]} {e.volume ? `· ${e.volume[locale]}` : ""}
+          </p>
+          <h1 className="mt-3 text-6xl leading-[0.95] sm:text-8xl">{primary}</h1>
+          <p className="mt-3 text-vellum-dim">
+            <span className="font-[family-name:var(--font-display-stack)] tracking-[0.1em]">{secondary}</span>
+            {e.name.original && (
+              <span className="ml-3 text-vellum-faint">
+                {e.name.original}
+                {e.name.originalLang ? `（${e.name.originalLang}）` : ""}
+              </span>
+            )}
+          </p>
+        </div>
+        <p className="catalog-no border-l border-[var(--line)] pl-5 sm:text-right" style={{ color: t.color }}>
+          {typeLabels[e.type][locale]}<br />
+          {eraLabels[e.era][locale]}
+        </p>
+      </header>
+
+      <div className="mt-10 grid gap-12 lg:grid-cols-[minmax(19rem,0.78fr)_minmax(0,1.22fr)]">
+        <aside>
+          <figure className="plate">
             <div className={`plate-inner ${e.image ? "" : "aspect-[4/5]"}`}>
               {e.image ? (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img src={e.image.file} alt={primary} className="block h-auto w-full" />
-              ) : (
-                <Emblem
-                  type={e.type}
-                  color={t.color}
-                  name={e.name.original ?? e.name.zh}
+                <Image
+                  src={e.image.file}
+                  alt={primary}
+                  width={e.image.width ?? 1000}
+                  height={e.image.height ?? 1250}
+                  preload
+                  sizes="(max-width: 1024px) 100vw, 36vw"
+                  className="block h-auto w-full"
                 />
+              ) : (
+                <Emblem type={e.type} color={t.color} name={e.name.original ?? e.name.zh} />
               )}
             </div>
-          </div>
-          {!e.image && (
-            <p className="catalog-no mt-2 leading-relaxed">
-              {e.era === "modern" ? dict.entry.noImageModern[locale] : dict.entry.noImageOld[locale]}
-            </p>
-          )}
-          {e.image && (
-            <p className="catalog-no mt-2 leading-relaxed">
-              {dict.entry.imageSource[locale]}:{" "}
-              {e.image.artist ? `${e.image.artist} · ` : ""}
-              <a
-                href={e.image.sourceUrl}
-                target="_blank"
-                rel="noreferrer"
-                className="underline underline-offset-2 hover:text-brass"
-              >
-                {e.image.sourceTitle ?? "Wikimedia Commons"}
-              </a>{" "}
-              ({e.image.license})
-            </p>
-          )}
+            <figcaption className="catalog-no mt-2 leading-relaxed">
+              {e.image ? (
+                <>
+                  {dict.entry.imageSource[locale]}: {e.image.artist ? `${e.image.artist} · ` : ""}
+                  <a href={e.image.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
+                    {e.image.sourceTitle ?? "Wikimedia Commons"}
+                  </a>{" "}
+                  ({e.image.license})
+                </>
+              ) : (
+                e.era === "modern" ? dict.entry.noImageModern[locale] : dict.entry.noImageOld[locale]
+              )}
+            </figcaption>
+          </figure>
 
-          {/* specimen facts */}
-          <dl className="mt-6 space-y-4 border-t hairline pt-5 text-sm">
+          <dl className="paper-panel mt-8 space-y-6 p-5 text-sm">
             <div>
               <dt className="eyebrow">{dict.entry.domains[locale]}</dt>
               <dd className="mt-1.5 flex flex-wrap gap-2">
-                {e.domains[locale].map((d) => (
-                  <span key={d} className="border border-[var(--brass-faint)] px-2.5 py-0.5 text-vellum-dim">
-                    {d}
+                {e.domains[locale].map((domain) => (
+                  <span key={domain} className="border border-[var(--line)] px-2.5 py-0.5 text-vellum-dim">
+                    {domain}
                   </span>
                 ))}
               </dd>
@@ -113,10 +131,10 @@ export default async function EntryPage({
                 <dd className="mt-1.5">
                   <table className="w-full text-sm">
                     <tbody>
-                      {e.traits.map((tr, i) => (
-                        <tr key={i} className="border-b border-[var(--brass-faint)] last:border-0">
-                          <td className="py-1.5 pr-3 align-top text-vellum-faint">{tr.label[locale]}</td>
-                          <td className="py-1.5 text-vellum-dim">{tr.value[locale]}</td>
+                      {e.traits.map((trait, index) => (
+                        <tr key={index} className="border-b border-[var(--line)] last:border-0">
+                          <td className="py-1.5 pr-3 align-top text-vellum-faint">{trait.label[locale]}</td>
+                          <td className="py-1.5 text-vellum-dim">{trait.value[locale]}</td>
                         </tr>
                       ))}
                     </tbody>
@@ -137,63 +155,48 @@ export default async function EntryPage({
             <div>
               <dt className="eyebrow">{dict.entry.sources[locale]}</dt>
               <dd className="mt-1.5 space-y-1 text-vellum-dim">
-                {e.sources.map((s, i) => (
-                  <p key={i}>{s[locale]}</p>
+                {e.sources.map((source, index) => (
+                  <p key={index}>{source[locale]}</p>
                 ))}
               </dd>
             </div>
           </dl>
-        </div>
+        </aside>
 
-        {/* reading column */}
-        <article>
-          <p className="catalog-no">
-            № {catalog} · {t.shortName[locale]}
-            {e.volume ? ` · ${e.volume[locale]}` : ""} ·{" "}
-            <span style={{ color: t.color }}>
-              {typeLabels[e.type][locale]} · {eraLabels[e.era][locale]}
-            </span>
-          </p>
-          <h1 className="mt-3 text-4xl leading-tight sm:text-5xl">{primary}</h1>
-          <p className="mt-2 text-vellum-dim">
-            <span className="font-[family-name:var(--font-display-stack)] tracking-[0.12em]">{secondary}</span>
-            {e.name.original && (
-              <span className="ml-3 text-vellum-faint">
-                {e.name.original}
-                {e.name.originalLang ? `（${e.name.originalLang}）` : ""}
-              </span>
-            )}
-          </p>
-          <p className="mt-4 border-l-2 pl-4 text-lg text-brass" style={{ borderColor: t.color }}>
+        <article className="reading-rule">
+          <p className="max-w-2xl text-2xl leading-snug text-brass" style={{ color: t.color }}>
             {e.title[locale]}
           </p>
 
-          <div className="prose-myth mt-8 max-w-prose text-[1.0625rem] leading-[1.9]">
-            {e.description[locale].split(/\n\n+/).map((p, i) => (
-              <p key={i}>{p}</p>
+          <div className="prose-myth mt-9 max-w-[42rem] text-lg leading-[2]">
+            {e.description[locale].split(/\n\n+/).map((paragraph, index) => (
+              <p key={index}>{paragraph}</p>
             ))}
           </div>
-
-          {related.length > 0 && (
-            <section className="mt-12">
-              <h2 className="eyebrow border-b hairline pb-2">{dict.entry.related[locale]}</h2>
-              <div className="mt-5 grid grid-cols-2 gap-x-5 gap-y-8 sm:grid-cols-3 lg:grid-cols-4">
-                {related.map((r) => {
-                  const rt = getTradition(r.tradition)!;
-                  return (
-                    <EntryCard
-                      key={r.id}
-                      entry={toCardData(r, locale)}
-                      tradition={{ shortName: rt.shortName[locale], color: rt.color }}
-                      locale={locale}
-                    />
-                  );
-                })}
-              </div>
-            </section>
-          )}
         </article>
       </div>
+
+      {related.length > 0 && (
+        <section className="mt-18 border-t border-[var(--line-strong)] pt-4">
+          <div className="section-heading">
+            <h2 className="text-3xl">{dict.entry.related[locale]}</h2>
+            <span className="catalog-no">{related.length}</span>
+          </div>
+          <div className="mt-8 grid grid-cols-2 gap-x-4 gap-y-10 sm:grid-cols-4 sm:gap-x-7">
+            {related.map((relatedEntry) => {
+              const relatedTradition = getTradition(relatedEntry.tradition)!;
+              return (
+                <EntryCard
+                  key={relatedEntry.id}
+                  entry={toCardData(relatedEntry, locale)}
+                  tradition={{ shortName: relatedTradition.shortName[locale], color: relatedTradition.color }}
+                  locale={locale}
+                />
+              );
+            })}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

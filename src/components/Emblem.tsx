@@ -1,3 +1,4 @@
+import { useId } from "react";
 import type { EntryType } from "@/lib/types";
 
 /* Engraved line glyphs, one per entry type — used as the seal on the typographic
@@ -85,7 +86,8 @@ export default function Emblem({
   name?: string;
   className?: string;
 }) {
-  const id = `hatch-${type}`;
+  const instanceId = useId().replaceAll(":", "");
+  const id = `hatch-${type}-${instanceId}`;
 
   return (
     <div
@@ -135,7 +137,7 @@ export default function Emblem({
             className="relative mt-[6%] block max-w-[86%] text-center leading-[1.15] font-[family-name:var(--font-cjk),var(--font-display-stack)]"
             style={{
               fontSize: nameScale([...name].length),
-              color: "var(--vellum)",
+              color: "var(--paper-pale)",
               opacity: 0.82,
               textShadow: `0 1px 0 rgba(0,0,0,0.5), 0 0 22px ${color}55`,
               wordBreak: "break-word",

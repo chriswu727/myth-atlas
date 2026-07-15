@@ -9,7 +9,10 @@
     "original": "くねくね",
     "originalLang": "日语"
   },
-  "title": { "zh": "远处田里扭动的白色细长物", "en": "The white shape writhing in a distant field" },
+  "title": {
+    "zh": "远处田里扭动的白色细长物",
+    "en": "The white shape writhing in a distant field"
+  },
   "summary": {
     "zh": "盛夏的水田或海面远处，一个白色细长的人形在无风处扭来扭去。远远看没事，看清楚它的人会发疯。2003年夏经2ch灵异板扩散。",
     "en": "Far off across summer paddies or open water, a slender white figure writhes where there is no wind. Seen from afar it is harmless; whoever makes out what it is goes mad. Spread via 2channel's occult board in summer 2003."
@@ -19,27 +22,72 @@
     "en": "Kunekune, 'the wriggler,' has a single rule: do not find out what it is. It appears in broad summer daylight, at the far edge of flooded rice paddies, across a river, or out at sea, looking like a strip of white cloth on a drying pole, long, thin, and blank, twisting in windless air in ways a human body cannot. Seen with the naked eye at a distance it is merely odd; look through binoculars, or walk close enough to understand it, and the mind gives way for good. The countermeasure is equally plain: pretend you saw nothing and turn away.\n\nThe canonical story surfaced on 2channel's occult board in the summer of 2003. Two brothers spend the holidays at their grandparents' farmhouse; the elder notices the white shape far out in the paddies and raises binoculars to it, and his eyes never focus again, while the younger, who never looked closely, is untouched. Sighting reports snowballed thread by thread, most often set in the rural northeast, Akita and Yamagata, with variants at sea and on snowfields, and occasional black specimens among the white.\n\nAmong the earliest composed legends of the 2channel era, Kunekune makes cognition itself the trigger: danger scales with comprehension, never with distance. The logic is that of cosmic horror, but the scenery is the most ordinary Japan has, noon, cicadas, the glare of paddy water, and that thing in the distance you would do well not to understand."
   },
   "domains": {
-    "zh": ["网络怪谈", "禁忌之视", "田园", "发狂"],
-    "en": ["Net folklore", "Forbidden sight", "Farmland", "Madness"]
+    "zh": [
+      "网络怪谈",
+      "禁忌之视",
+      "田园",
+      "发狂"
+    ],
+    "en": [
+      "Net folklore",
+      "Forbidden sight",
+      "Farmland",
+      "Madness"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "初出", "en": "First appearance" },
-      "value": { "zh": "2003年夏，2ch灵异板", "en": "Summer 2003, 2channel occult board" }
+      "label": {
+        "zh": "初出",
+        "en": "First appearance"
+      },
+      "value": {
+        "zh": "2003年夏，2ch灵异板",
+        "en": "Summer 2003, 2channel occult board"
+      }
     },
     {
-      "label": { "zh": "触发条件", "en": "Trigger" },
-      "value": { "zh": "看清它的形状或弄明白它是什么", "en": "Making out its shape or understanding what it is" }
+      "label": {
+        "zh": "触发条件",
+        "en": "Trigger"
+      },
+      "value": {
+        "zh": "看清它的形状或弄明白它是什么",
+        "en": "Making out its shape or understanding what it is"
+      }
     },
     {
-      "label": { "zh": "对策", "en": "Countermeasure" },
-      "value": { "zh": "不看、不想、转头离开", "en": "Do not look, do not wonder, walk away" }
+      "label": {
+        "zh": "对策",
+        "en": "Countermeasure"
+      },
+      "value": {
+        "zh": "不看、不想、转头离开",
+        "en": "Do not look, do not wonder, walk away"
+      }
     }
   ],
-  "related": ["hasshaku-sama", "kisaragi-station"],
-  "sources": [
-    { "zh": "2ch灵异板帖文（2003年）", "en": "2channel occult-board threads (2003)" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "hasshaku-sama",
+    "kisaragi-station"
   ],
-  "image": null
+  "sources": [
+    {
+      "zh": "2ch灵异板帖文（2003年）",
+      "en": "2channel occult-board threads (2003)"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/kunekune.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fukuoka-Tsuzura_Rice_Terrace_in_an_Early_Summer-xl.jpg",
+    "sourceTitle": "Tsuzura rice terraces, Fukuoka (rice-field context; not a sighting photograph)",
+    "artist": "うきは市",
+    "license": "CC BY 4.0",
+    "width": 1000,
+    "height": 691
+  }
 }

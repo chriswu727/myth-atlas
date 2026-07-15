@@ -20,7 +20,7 @@ export async function generateMetadata({
   if (!isLocale(locale)) return {};
   return {
     title: {
-      default: locale === "zh" ? "寰宇神话志 — 世界神话志异图鉴" : "Myth Atlas — the world's myths and legends",
+      default: locale === "zh" ? "寰宇神话志 — 诸神、异兽与失落世界" : "Myth Atlas — gods, monsters, and worlds lost to memory",
       template: locale === "zh" ? "%s · 寰宇神话志" : "%s · Myth Atlas",
     },
     description: dict.tagline[locale],
@@ -44,49 +44,52 @@ export default async function LocaleLayout({
     <div className="flex min-h-screen flex-col">
       <SetLang locale={locale} />
 
-      <header className="border-b hairline">
-        <div className="mx-auto flex w-full max-w-6xl items-baseline justify-between gap-6 px-5 py-4">
-          <Link href={`/${locale}`} className="group flex items-baseline gap-3">
-            <span className="font-[family-name:var(--font-cjk)] text-xl font-semibold tracking-[0.18em]">
-              寰宇神話誌
-            </span>
-            <span className="hidden font-[family-name:var(--font-display-stack)] text-xs tracking-[0.32em] text-vellum-dim group-hover:text-brass sm:inline">
-              MYTH ATLAS
+      <header className="site-header">
+        <div className="site-shell flex min-h-18 flex-wrap items-center justify-between gap-x-8 gap-y-3 py-3">
+          <Link href={`/${locale}`} className="group flex items-center gap-3" aria-label={SITE_NAME[locale]}>
+            <span className="brand-mark">志</span>
+            <span>
+              <span className="block font-[family-name:var(--font-cjk)] text-lg font-black tracking-[0.13em]">
+                寰宇神話誌
+              </span>
+              <span className="block font-[family-name:var(--font-mono-stack)] text-[0.56rem] tracking-[0.28em] text-vellum-faint">
+                ARCANA MUNDI · MYTH ATLAS
+              </span>
             </span>
           </Link>
-          <nav className="flex items-baseline gap-5 text-sm sm:gap-7">
-            <Link href={`/${locale}`} className="text-vellum-dim transition-colors hover:text-brass">
+
+          <nav className="flex flex-wrap items-center gap-x-5 gap-y-2 sm:gap-x-8" aria-label={locale === "zh" ? "主导航" : "Main navigation"}>
+            <Link href={`/${locale}`} className="site-nav-link">
               {dict.nav.atlas[locale]}
             </Link>
-            <Link href={`/${locale}/dex`} className="text-vellum-dim transition-colors hover:text-brass">
+            <Link href={`/${locale}/dex`} className="site-nav-link">
               {dict.nav.dex[locale]}
             </Link>
-            <Link href={`/${locale}/cosmogony`} className="text-vellum-dim transition-colors hover:text-brass">
+            <Link href={`/${locale}/cosmogony`} className="site-nav-link">
               {dict.nav.cosmogony[locale]}
             </Link>
-            <Link href={`/${locale}/about`} className="text-vellum-dim transition-colors hover:text-brass">
+            <Link href={`/${locale}/about`} className="site-nav-link">
               {dict.nav.about[locale]}
             </Link>
             <LocaleSwitch locale={locale} />
           </nav>
         </div>
+        <div className="mystic-divider" aria-hidden="true" />
       </header>
 
       <main className="flex-1">{children}</main>
 
-      <footer className="mt-20 border-t hairline">
-        <div className="mx-auto w-full max-w-6xl px-5 py-10">
-          <div className="flex flex-wrap items-baseline justify-between gap-4">
-            <p className="font-[family-name:var(--font-cjk)] tracking-[0.18em]">
-              寰宇神話誌 <span className="eyebrow ml-2">MYTH ATLAS</span>
-            </p>
-            <p className="catalog-no">
-              {entryCount} {dict.home.entriesCount[locale]} · {traditionCount}{" "}
-              {dict.home.traditionsCount[locale]} · {dict.footer.growing[locale]}
+      <footer className="mt-24 border-t border-[var(--line-strong)]">
+        <div className="site-shell grid gap-8 py-10 sm:grid-cols-[1fr_auto] sm:items-end">
+          <div>
+            <p className="font-[family-name:var(--font-cjk)] text-2xl font-black tracking-[0.13em]">寰宇神話誌</p>
+            <p className="mt-2 max-w-xl text-sm text-vellum-dim">
+              {SITE_NAME[locale]} — {dict.footer.rights[locale]}
             </p>
           </div>
-          <p className="mt-4 text-sm text-vellum-faint">
-            {SITE_NAME[locale]} — {dict.footer.rights[locale]}
+          <p className="catalog-no border-l border-[var(--line)] pl-5 sm:text-right">
+            {entryCount} {dict.home.entriesCount[locale]}<br />
+            {traditionCount} {dict.home.traditionsCount[locale]} · {dict.footer.growing[locale]}
           </p>
         </div>
       </footer>

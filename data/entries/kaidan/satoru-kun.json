@@ -9,7 +9,10 @@
     "original": "さとるくん",
     "originalLang": "日语"
   },
-  "title": { "zh": "用公用电话召唤的全知少年", "en": "The all-knowing boy summoned by pay phone" },
+  "title": {
+    "zh": "用公用电话召唤的全知少年",
+    "en": "The all-knowing boy summoned by pay phone"
+  },
   "summary": {
     "zh": "从公用电话打给自己的手机念咒召唤，Satoru君会一路回拨报告位置，最后出现在你身后，回答任何问题——但绝不能回头，也不能不问。2000年代经网络流传。",
     "en": "Call your own mobile from a pay phone and recite the summons: Satoru-kun phones back ever closer, finally standing behind you to answer any one question. Never turn around, never fail to ask. Spread online in the 2000s."
@@ -19,27 +22,73 @@
     "en": "The ritual binds two generations of telephony together. Late at night, from a public phone booth, drop in a ten-yen coin, dial your own mobile number, and speak into the receiver: 'Satoru-kun, Satoru-kun, please come.' Hang up and wait. Your mobile then receives a series of calls in a boy's voice, each reporting his position, a station, a crossing, always nearer, until the last: 'I'm behind you.' He will now answer a single question, any question, truthfully. The rules are exact: do not turn to look at him while you wait or while he speaks, do not summon him without asking, do not fail to hear the answer out. Break any of these and Satoru-kun takes you with him.\n\nThe legend spread through 2channel and mobile horror sites in the early 2000s, among the first wave of stories built on the mobile phones that had just reached Japanese schoolchildren. Its pedigree is easy to read: the closing-distance call structure descends from Mary-san's telephone, the bargain of ritual for forbidden knowledge from Kokkuri-san, while the relay from pay phone to mobile is its own signature. That the summons must begin from a vanishing device has only sharpened with the disappearance of phone booths, turning the first step of the ritual into a threshold in itself.\n\n'Satoru' is usually written with the character for enlightenment, to know all; commentators enjoy the echo of the satori, the mind-reading mountain yokai that shares the name. On livestreams and horror variety shows, dialing Satoru-kun remains a standard test of nerve."
   },
   "domains": {
-    "zh": ["召唤仪式", "电话", "禁忌知识", "网络怪谈"],
-    "en": ["Summoning rituals", "Telephones", "Forbidden knowledge", "Net folklore"]
+    "zh": [
+      "召唤仪式",
+      "电话",
+      "禁忌知识",
+      "网络怪谈"
+    ],
+    "en": [
+      "Summoning rituals",
+      "Telephones",
+      "Forbidden knowledge",
+      "Net folklore"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "仪式道具", "en": "Ritual apparatus" },
-      "value": { "zh": "公用电话、十日元硬币、自己的手机", "en": "A pay phone, a ten-yen coin, your own mobile" }
+      "label": {
+        "zh": "仪式道具",
+        "en": "Ritual apparatus"
+      },
+      "value": {
+        "zh": "公用电话、十日元硬币、自己的手机",
+        "en": "A pay phone, a ten-yen coin, your own mobile"
+      }
     },
     {
-      "label": { "zh": "报酬", "en": "Reward" },
-      "value": { "zh": "任何一个问题的真实答案", "en": "A true answer to any one question" }
+      "label": {
+        "zh": "报酬",
+        "en": "Reward"
+      },
+      "value": {
+        "zh": "任何一个问题的真实答案",
+        "en": "A true answer to any one question"
+      }
     },
     {
-      "label": { "zh": "禁忌", "en": "Taboos" },
-      "value": { "zh": "不可回头、不可召而不问", "en": "Never turn around; never summon without asking" }
+      "label": {
+        "zh": "禁忌",
+        "en": "Taboos"
+      },
+      "value": {
+        "zh": "不可回头、不可召而不问",
+        "en": "Never turn around; never summon without asking"
+      }
     }
   ],
-  "related": ["mary-san", "kokkuri-san", "hanako-san"],
-  "sources": [
-    { "zh": "2000年代前期2ch与手机怪谈网站流传", "en": "2channel and mobile horror sites, early 2000s" },
-    { "zh": "朝里树《日本现代怪异事典》（2018年）", "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)" }
+  "related": [
+    "mary-san",
+    "kokkuri-san",
+    "hanako-san"
   ],
-  "image": null
+  "sources": [
+    {
+      "zh": "2000年代前期2ch与手机怪谈网站流传",
+      "en": "2channel and mobile horror sites, early 2000s"
+    },
+    {
+      "zh": "朝里树《日本现代怪异事典》（2018年）",
+      "en": "Asazato Itsuki, Nihon Gendai Kaii Jiten (2018)"
+    }
+  ],
+  "image": {
+    "file": "/images/entries/satoru-kun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Public-telephone,katori-city,japan.JPG",
+    "sourceTitle": "Public telephone in Katori, Japan (ritual-medium context; not a depiction of Satoru-kun)",
+    "artist": "katorisi",
+    "license": "CC BY 2.5",
+    "width": 750,
+    "height": 1000
+  }
 }

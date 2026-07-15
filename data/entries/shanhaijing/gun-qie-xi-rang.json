@@ -3,8 +3,14 @@
   "tradition": "shanhaijing",
   "type": "tale",
   "era": "ancient",
-  "name": { "zh": "鲧窃息壤", "en": "Gun Steals the Swelling Earth" },
-  "title": { "zh": "窃神土堵洪水的悲剧，全书的最后一段", "en": "The Flood Tragedy That Closes the Book" },
+  "name": {
+    "zh": "鲧窃息壤",
+    "en": "Gun Steals the Swelling Earth"
+  },
+  "title": {
+    "zh": "窃神土堵洪水的悲剧，全书的最后一段",
+    "en": "The Flood Tragedy That Closes the Book"
+  },
   "summary": {
     "zh": "洪水滔天，鲧不等天帝之命，偷了能自行生长的息壤去堵洪水；帝令祝融杀鲧于羽郊。鲧腹中生出禹，帝乃命禹布土定九州。",
     "en": "As the flood swelled to heaven, Gun stole the self-growing earth to dam it without the god's leave; Zhurong executed him at Yushan. From Gun's body Yu was born and charged to settle the Nine Provinces."
@@ -14,30 +20,84 @@
     "en": "The received text of the Classic ends with a tragedy five sentences long. The flood swelled up to heaven. Gun stole the god's xirang — the swelling earth — to dam the waters, without waiting for the god's command. The god ordered Zhurong to kill Gun in the outskirts of Yushan, Feather Mountain. From Gun's body Yu was born. The god then charged Yu to spread the soil and at last settle the Nine Provinces. Guo Pu's commentary explains the stolen treasure: xirang is earth that grows of itself without end, and so could fill a flood.\n\nThe details lie scattered in other books. The Heavenly Questions presses on the injustice: why was Gun pent up at Yushan three years without decaying? How did Yu issue from his father's belly? Guo Pu, quoting the Guizang, supplies the scene: after three years unrotted, Gun's belly was opened with a Wu blade, and a yellow dragon — Yu — emerged. The Zuo Commentary preserves another ending, in which Gun's spirit became a yellow bear and plunged into the Yu abyss.\n\nA theft of divine substance to save humankind, execution by the god, the work completed by a successor: the skeleton is often read alongside Prometheus and the theft of fire. Within China's own flood lore, Gun's damming against Yu's channeling became the paired metaphor of hydraulics and statecraft for two thousand years. And by closing with this story — flood subdued, provinces founded — the Classic of Mountains and Seas finishes building its world in its very last line."
   },
   "domains": {
-    "zh": ["洪水", "息壤", "治水", "父子相继"],
-    "en": ["Flood", "Swelling Earth", "Flood Control", "Father and Son"]
+    "zh": [
+      "洪水",
+      "息壤",
+      "治水",
+      "父子相继"
+    ],
+    "en": [
+      "Flood",
+      "Swelling Earth",
+      "Flood Control",
+      "Father and Son"
+    ]
   },
   "traits": [
     {
-      "label": { "zh": "神物", "en": "Divine substance" },
-      "value": { "zh": "息壤——自生自长、永不耗减之土", "en": "Xirang, earth that grows of itself without end" }
+      "label": {
+        "zh": "神物",
+        "en": "Divine substance"
+      },
+      "value": {
+        "zh": "息壤——自生自长、永不耗减之土",
+        "en": "Xirang, earth that grows of itself without end"
+      }
     },
     {
-      "label": { "zh": "行刑者", "en": "Executioner" },
-      "value": { "zh": "火神祝融，杀鲧于羽郊", "en": "The fire god Zhurong, at the outskirts of Feather Mountain" }
+      "label": {
+        "zh": "行刑者",
+        "en": "Executioner"
+      },
+      "value": {
+        "zh": "火神祝融，杀鲧于羽郊",
+        "en": "The fire god Zhurong, at the outskirts of Feather Mountain"
+      }
     },
     {
-      "label": { "zh": "位置", "en": "Placement" },
-      "value": { "zh": "今本《山海经》全书最后一段", "en": "The final passage of the received text" }
+      "label": {
+        "zh": "位置",
+        "en": "Placement"
+      },
+      "value": {
+        "zh": "今本《山海经》全书最后一段",
+        "en": "The final passage of the received text"
+      }
     }
   ],
-  "related": ["da-yu", "zhurong"],
-  "sources": [
-    { "zh": "《山海经·海内经》", "en": "Classic of Mountains and Seas, final chapter ('Within the Seas')" },
-    { "zh": "《楚辞·天问》", "en": "Heavenly Questions (Tianwen)" },
-    { "zh": "《左传·昭公七年》", "en": "Zuo Commentary, Duke Zhao year 7" },
-    { "zh": "郭璞注引《归藏·开筮》", "en": "Guizang, 'Kaishi', as quoted in Guo Pu's commentary" }
+  "related": [
+    "da-yu",
+    "zhurong"
   ],
-  "volume": { "zh": "海内经", "en": "Classic of Regions Within the Seas" },
-  "image": null
+  "sources": [
+    {
+      "zh": "《山海经·海内经》",
+      "en": "Classic of Mountains and Seas, final chapter ('Within the Seas')"
+    },
+    {
+      "zh": "《楚辞·天问》",
+      "en": "Heavenly Questions (Tianwen)"
+    },
+    {
+      "zh": "《左传·昭公七年》",
+      "en": "Zuo Commentary, Duke Zhao year 7"
+    },
+    {
+      "zh": "郭璞注引《归藏·开筮》",
+      "en": "Guizang, 'Kaishi', as quoted in Guo Pu's commentary"
+    }
+  ],
+  "volume": {
+    "zh": "海内经",
+    "en": "Classic of Regions Within the Seas"
+  },
+  "image": {
+    "file": "/images/entries/gun-qie-xi-rang.jpg",
+    "sourceUrl": "https://openai.com/",
+    "sourceTitle": "Myth Atlas original narrative illustration: Gun steals the swelling earth",
+    "artist": "Myth Atlas · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 639,
+    "height": 1000
+  }
 }
