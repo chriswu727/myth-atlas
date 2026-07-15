@@ -16,8 +16,8 @@ export const dict = {
   cosmogony: {
     title: { zh: '太初纪', en: 'Before the World' },
     lede: {
-      zh: '天地并非只诞生过一次。在二十种古老记忆中，黑水先于日月，巨神以尸骨化作山河，真名一经呼出，万物便有了形。循着这些创世之歌，听每一个文明如何从无形中唤醒自己的世界。',
-      en: 'The world was not born only once. Across twenty ancient memories, black water precedes the sun, mountains rise from the bones of giants, and a spoken true name summons all things into form.',
+      zh: '天地并非只诞生过一次。在诸方古老记忆中，黑水先于日月，巨神以尸骨化作山河，真名一经呼出，万物便有了形。循着这些创世之歌，听每一个文明如何从无形中唤醒自己的世界。',
+      en: 'The world was not born only once. Across many ancient memories, black water precedes the sun, mountains rise from the bones of giants, and a spoken true name summons all things into form.',
     },
     compare: { zh: '太初母题', en: 'Echoes of the First Age' },
     compareHint: {

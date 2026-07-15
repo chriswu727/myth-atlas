@@ -51,7 +51,9 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
 
       <section className="mt-16">
         <div className="section-heading">
-          <h2 className="text-3xl">{locale === "zh" ? "二十次天地初醒" : "Twenty awakenings of the world"}</h2>
+          <h2 className="text-3xl">
+            {locale === "zh" ? `${cosmogonies.length}次天地初醒` : `${cosmogonies.length} awakenings of the world`}
+          </h2>
           <span className="catalog-no">{cosmogonies.length}</span>
         </div>
         <p className="mt-3 max-w-3xl text-sm leading-relaxed text-vellum-dim">
