@@ -78,8 +78,8 @@
     "name": "CC BY 4.0 · public-domain literary sources",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "note": {
-      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创图版以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
-      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and editorial plate are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
+      "zh": "本条依据已进入公版的原作重新撰写，不复刻原文；本站摘要与原创生成插图以 CC BY 4.0 开放。不同司法辖区的公版期限可能不同。",
+      "en": "This original synopsis draws on public-domain literary sources without reproducing their prose. The Myth Atlas text and original generated illustration are released under CC BY 4.0; public-domain terms can vary by jurisdiction."
     }
   },
   "geo": {
@@ -91,12 +91,12 @@
     }
   },
   "image": {
-    "file": "/images/entries/rlyeh.svg",
+    "file": "/images/entries/rlyeh.webp",
     "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/rlyeh",
-    "sourceTitle": "Myth Atlas original editorial plate",
-    "artist": "Myth Atlas editorial",
+    "sourceTitle": "Myth Atlas original generated illustration",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
     "license": "CC BY 4.0",
-    "width": 900,
-    "height": 1200
+    "width": 1086,
+    "height": 1448
   }
 }

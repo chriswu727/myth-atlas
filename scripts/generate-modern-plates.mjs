@@ -7,22 +7,10 @@ const root = join(fileURLToPath(new URL('..', import.meta.url)));
 const output = join(root, 'public', 'images', 'entries');
 mkdirSync(output, { recursive: true });
 
-const cthulhu = [
-  ['rlyeh', "R'LYEH", 'city', '#54857e'],
-  ['necronomicon', 'NECRONOMICON', 'book', '#a27258'],
-  ['elder-sign', 'ELDER SIGN', 'sigil', '#8f9b71'],
-  ['arkham', 'ARKHAM', 'map', '#9a765c'],
-  ['innsmouth', 'INNSMOUTH', 'harbor', '#668d91'],
-  ['miskatonic-university', 'MISKATONIC UNIVERSITY', 'tower', '#947653'],
-  ['dreamlands', 'DREAMLANDS', 'dream', '#82749f'],
-];
+const cthulhu = [];
 
 const scp = [
-  ['scp-055', 'SCP-055', 'void', '#8c97a3'],
-  ['scp-087', 'SCP-087', 'stairs', '#8792a0'],
   ['scp-173', 'SCP-173', 'concrete', '#a2947f'],
-  ['scp-914', 'SCP-914', 'gears', '#a68a61'],
-  ['scp-2000', 'SCP-2000', 'vault', '#6f91a5'],
 ];
 
 function organicMotif(kind, color) {
