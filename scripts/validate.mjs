@@ -166,6 +166,17 @@ for (const tid of [...traditionIds]) {
         err(file, 'image must be null or {file, sourceUrl, license, ...}');
     }
 
+    if (e.coverImage !== null && e.coverImage !== undefined) {
+      if (
+        !isStr(e.coverImage?.file) ||
+        !isStr(e.coverImage?.sourceTitle) ||
+        !isStr(e.coverImage?.artist) ||
+        !isStr(e.coverImage?.license)
+      ) {
+        err(file, 'coverImage must be null or {file, sourceTitle, artist, license, ...}');
+      }
+    }
+
     for (const [k, v] of Object.entries(flatten(e))) checkEmoji(file, k, v);
   }
 }

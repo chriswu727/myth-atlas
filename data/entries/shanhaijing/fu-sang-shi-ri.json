@@ -92,5 +92,13 @@
     "license": "Public domain",
     "width": 1000,
     "height": 815
+  },
+  "coverImage": {
+    "file": "/images/entries/fu-sang-shi-ri.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1024,
+    "height": 1536
   }
 }

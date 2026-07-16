@@ -90,5 +90,13 @@
     "license": "Public domain",
     "width": 543,
     "height": 475
+  },
+  "coverImage": {
+    "file": "/images/entries/hu-jiao.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1086,
+    "height": 1448
   }
 }

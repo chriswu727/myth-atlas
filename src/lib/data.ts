@@ -51,6 +51,9 @@ export const getEntries = cache((): Entry[] => {
 
 export const getEntry = (id: string): Entry | undefined => getEntries().find((e) => e.id === id);
 
+export const getDisplayImage = (entry: Pick<Entry, 'coverImage' | 'image'>) =>
+  entry.coverImage ?? entry.image ?? null;
+
 export const getEntriesByTradition = (tid: string): Entry[] => {
   const list = getEntries().filter((e) => e.tradition === tid);
   if (tid === 'shanhaijing') {
@@ -97,6 +100,8 @@ export const getCosmogony = (tid: string): Cosmogony | undefined =>
   getCosmogonies().find((c) => c.tradition === tid);
 
 export function toCardData(e: Entry, locale: Locale): EntryCardData {
+  const displayImage = getDisplayImage(e);
+
   return {
     id: e.id,
     tradition: e.tradition,
@@ -110,7 +115,14 @@ export function toCardData(e: Entry, locale: Locale): EntryCardData {
     domains: e.domains[locale],
     volume: e.volume?.[locale],
     catalog: getCatalogNumbers().get(e.id) ?? '000',
-    image: e.image ? { file: e.image.file, width: e.image.width, height: e.image.height } : null,
+    image: displayImage
+      ? {
+          file: displayImage.file,
+          width: displayImage.width,
+          height: displayImage.height,
+          kind: e.coverImage ? 'reconstruction' : 'archive',
+        }
+      : null,
     geo: e.geo ? { lat: e.geo.lat, lon: e.geo.lon } : null,
   };
 }

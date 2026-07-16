@@ -91,5 +91,13 @@
     "license": "Public domain",
     "width": 704,
     "height": 1000
+  },
+  "coverImage": {
+    "file": "/images/entries/wen-yao-yu.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1024,
+    "height": 1536
   }
 }

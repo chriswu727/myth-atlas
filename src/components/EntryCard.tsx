@@ -45,6 +45,11 @@ export default function EntryCard({
           >
             № {entry.catalog}
           </span>
+          {entry.image?.kind === "reconstruction" ? (
+            <span className="entry-card-edition">
+              {locale === "zh" ? "今世复原" : "RESTORED LIKENESS"}
+            </span>
+          ) : null}
         </div>
 
         <div className="mt-3 flex items-start justify-between gap-3 border-t border-[var(--line)] pt-2">

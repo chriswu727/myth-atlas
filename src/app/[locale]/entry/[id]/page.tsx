@@ -41,6 +41,7 @@ export default async function EntryPage({
   const catalog = getCatalogNumbers().get(e.id) ?? "000";
   const primary = locale === "zh" ? e.name.zh : e.name.en;
   const secondary = locale === "zh" ? e.name.en : e.name.zh;
+  const displayImage = e.coverImage ?? e.image;
   const related = (e.related ?? [])
     .map((rid) => getEntry(rid))
     .filter((r) => r != null)
@@ -83,38 +84,90 @@ export default async function EntryPage({
 
       <div className="mt-10 grid gap-12 lg:grid-cols-[minmax(19rem,0.78fr)_minmax(0,1.22fr)]">
         <aside>
-          <figure className="plate">
-            <div className={`plate-inner ${e.image ? "" : "aspect-[4/5]"}`}>
-              {e.image ? (
-                <Image
-                  src={e.image.file}
-                  alt={primary}
-                  width={e.image.width ?? 1000}
-                  height={e.image.height ?? 1250}
-                  preload
-                  sizes="(max-width: 1024px) 100vw, 36vw"
-                  className="block h-auto w-full"
-                />
-              ) : (
-                <Emblem type={e.type} color={t.color} name={e.name.original ?? e.name.zh} />
-              )}
-            </div>
-            <figcaption className="catalog-no mt-2 leading-relaxed">
-              {e.image ? (
-                <>
-                  {dict.entry.imageSource[locale]}: {e.image.artist ? `${e.image.artist} · ` : ""}
-                  <a href={e.image.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
-                    {e.image.sourceTitle ?? "Wikimedia Commons"}
-                  </a>{" "}
-                  ({e.image.license})
-                </>
-              ) : (
-                e.era === "modern" || e.era === "contemporary"
-                  ? dict.entry.noImageModern[locale]
-                  : dict.entry.noImageOld[locale]
-              )}
-            </figcaption>
-          </figure>
+          <div className="entry-visual-dossier">
+            <figure className={`plate entry-primary-plate ${e.coverImage ? "entry-primary-plate-restored" : ""}`}>
+              <div className={`plate-inner ${displayImage ? "" : "aspect-[4/5]"}`}>
+                {displayImage ? (
+                  <Image
+                    src={displayImage.file}
+                    alt={`${primary} · ${e.coverImage ? dict.entry.reconstruction[locale] : dict.entry.imageSource[locale]}`}
+                    width={displayImage.width ?? 1000}
+                    height={displayImage.height ?? 1250}
+                    preload
+                    sizes="(max-width: 1024px) 100vw, 36vw"
+                    className="block h-auto w-full"
+                  />
+                ) : (
+                  <Emblem type={e.type} color={t.color} name={e.name.original ?? e.name.zh} />
+                )}
+                {e.coverImage ? (
+                  <span className="entry-plate-stamp">
+                    <span>{dict.entry.reconstruction[locale]}</span>
+                    <span>RESTORED LIKENESS · MA {catalog}</span>
+                  </span>
+                ) : null}
+              </div>
+              <figcaption className="entry-plate-caption">
+                {e.coverImage ? (
+                  <>
+                    <p>{dict.entry.reconstructionNote[locale]}</p>
+                    <p className="catalog-no">
+                      {dict.entry.reconstructionCredit[locale]}
+                    </p>
+                  </>
+                ) : e.image ? (
+                  <p className="catalog-no">
+                    {dict.entry.imageSource[locale]}: {e.image.artist ? `${e.image.artist} · ` : ""}
+                    <a href={e.image.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
+                      {e.image.sourceTitle ?? "Wikimedia Commons"}
+                    </a>{" "}
+                    ({e.image.license})
+                  </p>
+                ) : (
+                  <p className="catalog-no">
+                    {e.era === "modern" || e.era === "contemporary"
+                      ? dict.entry.noImageModern[locale]
+                      : dict.entry.noImageOld[locale]}
+                  </p>
+                )}
+              </figcaption>
+            </figure>
+
+            {e.coverImage && e.image ? (
+              <figure className="entry-archive-figure">
+                <div className="entry-archive-heading">
+                  <div>
+                    <p className="eyebrow">ARCHIVE PLATE · {catalog}</p>
+                    <h2>{dict.entry.archiveImage[locale]}</h2>
+                  </div>
+                  <span aria-hidden="true">古</span>
+                </div>
+                <div className="plate entry-archive-frame">
+                  <div className="plate-inner">
+                    <Image
+                      src={e.image.file}
+                      alt={`${primary} · ${dict.entry.archiveImage[locale]}`}
+                      width={e.image.width ?? 1000}
+                      height={e.image.height ?? 1250}
+                      loading="lazy"
+                      sizes="(max-width: 1024px) 100vw, 34vw"
+                      className="block h-auto w-full object-contain"
+                    />
+                  </div>
+                </div>
+                <figcaption className="entry-archive-caption">
+                  <p>{dict.entry.archiveImageNote[locale]}</p>
+                  <p className="catalog-no">
+                    {dict.entry.imageSource[locale]}: {e.image.artist ? `${e.image.artist} · ` : ""}
+                    <a href={e.image.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
+                      {e.image.sourceTitle ?? "Wikimedia Commons"}
+                    </a>{" "}
+                    ({e.image.license})
+                  </p>
+                </figcaption>
+              </figure>
+            ) : null}
+          </div>
 
           <dl className="paper-panel mt-8 space-y-6 p-5 text-sm">
             <div>
