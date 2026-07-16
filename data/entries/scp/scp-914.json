@@ -89,17 +89,17 @@
     "name": "CC BY-SA 3.0",
     "url": "https://creativecommons.org/licenses/by-sa/3.0/",
     "note": {
-      "zh": "本条衍生自“SCP-914”，原作者为 Dr Gears；原页面、本站摘要与原创图版均依 CC BY-SA 3.0 署名—相同方式共享。",
-      "en": "This entry derives from “SCP-914” by Dr Gears. The source article, this synopsis, and the original editorial plate are licensed under CC BY-SA 3.0."
+      "zh": "本条衍生自“SCP-914”，原作者为 Dr Gears；原页面、本站摘要与原创生成插图均依 CC BY-SA 3.0 署名—相同方式共享。",
+      "en": "This entry derives from “SCP-914” by Dr Gears. The source article, this synopsis, and the original generated illustration are licensed under CC BY-SA 3.0."
     }
   },
   "image": {
-    "file": "/images/entries/scp-914.svg",
+    "file": "/images/entries/scp-914.webp",
     "sourceUrl": "https://myth-atlas.vercel.app/zh/entry/scp-914",
-    "sourceTitle": "Myth Atlas original containment plate",
-    "artist": "Myth Atlas editorial",
+    "sourceTitle": "Myth Atlas original generated illustration",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
     "license": "CC BY-SA 3.0",
-    "width": 900,
-    "height": 1200
+    "width": 1086,
+    "height": 1448
   }
 }
