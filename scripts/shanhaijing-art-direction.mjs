@@ -11,7 +11,8 @@ Avoid: generic dragon anatomy, modern horror tropes, cartoon styling, glossy 3D 
 export function buildShanhaijingPrompt(entry) {
   const subject = entry.name?.zh ?? entry.title?.zh ?? entry.id;
   const subjectDirection = {
-    "fenghuang-shanhaijing": "Render a colossal sacred phoenix with a long S-curved neck, swept-back feather crown, broad wings, and immense layered tail. Retain only a distant galliform ancestry: absolutely no fleshy comb, wattle, chicken face, squat poultry proportions, or domestic rooster stance. Encode the five virtues as abstract archaic patterns in the plumage, never as literal printed characters."
+    "fenghuang-shanhaijing": "Render a colossal sacred phoenix with a long S-curved neck, swept-back feather crown, broad wings, and immense layered tail. Retain only a distant galliform ancestry: absolutely no fleshy comb, wattle, chicken face, squat poultry proportions, or domestic rooster stance. Encode the five virtues as abstract archaic patterns in the plumage, never as literal printed characters.",
+    "nanshan-shen": "Depict exactly three collective mountain-god forms across three successive Southern Mountain ranges. First: an unmistakably complete bird body with two wings, two bird legs, and a feathered tail, bearing a Chinese dragon head; no serpentine torso. Second: a long, wingless Chinese dragon body with four small dragon limbs and a coiling tail, bearing a raptor-like bird head; no griffin body. Third: a long, wingless Chinese dragon body with four limbs and a coiling tail, bearing a solemn human face directly at the neck; no human torso, arms, or robes. Keep all three head-and-body pairings clearly legible and anatomically distinct."
   }[entry.id];
   const typeDirection = {
     creature: "Show the complete creature in its native habitat, with the described anatomy clearly readable in a poised three-quarter view.",
