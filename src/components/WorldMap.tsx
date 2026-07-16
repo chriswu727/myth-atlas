@@ -326,8 +326,8 @@ export default function WorldMap({
     <div className="world-map-shell">
       <div className="map-command-bar">
         <div className="map-legend" aria-hidden="true">
-          <span><i className="map-legend-node" />{locale === "zh" ? "神话源点" : "mythic beacon"}</span>
-          <span><i className="map-legend-pin" />{locale === "zh" ? "传说坐标" : "legendary site"}</span>
+          <span><i className="map-legend-node" /><span className="map-legend-label">{locale === "zh" ? "神话源点" : "mythic beacon"}</span></span>
+          <span><i className="map-legend-pin" /><span className="map-legend-label">{locale === "zh" ? "传说坐标" : "legendary site"}</span></span>
         </div>
         <p>{locale === "zh" ? "循一枚微光，唤醒其下沉眠的神话" : "Follow a glimmer and awaken the myth beneath"}</p>
         <div className="map-controls" aria-label={locale === "zh" ? "神话图卷缩放" : "Map zoom controls"}>
@@ -343,6 +343,11 @@ export default function WorldMap({
           </button>
         </div>
       </div>
+
+      <p className="map-mobile-hint">
+        <span aria-hidden="true">↔</span>
+        {locale === "zh" ? "左右拖移图卷，点亮神话源点" : "Drag the atlas and tap a mythic beacon"}
+      </p>
 
       <div ref={containerRef} className="map-canvas">
         <svg

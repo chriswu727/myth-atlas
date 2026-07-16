@@ -49,6 +49,7 @@ export default function DexBrowser({
   const [tid, setTid] = useState(sp.get("t") ?? "");
   const [type, setType] = useState<EntryType | "">((sp.get("ty") as EntryType) ?? "");
   const [era, setEra] = useState<Era | "">((sp.get("e") as Era) ?? "");
+  const [filtersOpen, setFiltersOpen] = useState(false);
   const deferredQ = useDeferredValue(q);
 
   useEffect(() => {
@@ -98,83 +99,112 @@ export default function DexBrowser({
 
   const traditionById = useMemo(() => new Map(traditions.map((t) => [t.id, t])), [traditions]);
   const hasFilter = Boolean(q || tid || type || era);
+  const activeFilterCount = [q, tid, type, era].filter(Boolean).length;
 
   return (
     <div className="grid gap-10 lg:grid-cols-[15rem_1fr]">
-      <aside className="filter-panel lg:sticky lg:top-28 lg:self-start">
-        <label htmlFor="dex-search" className="eyebrow block">
-          {locale === "zh" ? "叩问万象" : "Invoke the codex"}
-        </label>
-        <input
-          id="dex-search"
-          type="search"
-          name="q"
-          value={q}
-          onChange={(event) => setQ(event.target.value)}
-          placeholder={dict.dex.search[locale]}
-          className="mt-3 w-full border-b border-[var(--line-strong)] bg-transparent py-2 text-base placeholder:text-vellum-faint focus:border-brass focus:outline-none"
-        />
+      <div className="lg:sticky lg:top-28 lg:self-start">
+        <button
+          type="button"
+          className="filter-drawer-toggle"
+          aria-expanded={filtersOpen}
+          aria-controls="dex-filter-panel"
+          onClick={() => setFiltersOpen((current) => !current)}
+        >
+          <span>{locale === "zh" ? "检索与筛选" : "Search & filters"}</span>
+          <span>
+            {activeFilterCount > 0
+              ? (locale === "zh" ? `${activeFilterCount} 项已启用` : `${activeFilterCount} active`)
+              : (locale === "zh" ? "启封" : "Open")}
+            <i aria-hidden="true">{filtersOpen ? "−" : "+"}</i>
+          </span>
+        </button>
 
-        <div className="mt-8">
-          <label htmlFor="tradition-filter" className="catalog-no block">{dict.dex.tradition[locale]}</label>
-          <select
-            id="tradition-filter"
-            name="tradition"
-            value={tid}
-            onChange={(event) => setTid(event.target.value)}
-            className="mt-2 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-vellum focus:border-brass focus:outline-none"
-          >
-            <option value="">{dict.dex.all[locale]}</option>
-            {traditions.map((t) => (
-              <option key={t.id} value={t.id}>
-                {t.name} ({t.count})
-              </option>
-            ))}
-          </select>
-        </div>
+        <aside
+          id="dex-filter-panel"
+          className={`filter-panel ${filtersOpen ? "is-mobile-open" : ""}`}
+        >
+          <label htmlFor="dex-search" className="eyebrow block">
+            {locale === "zh" ? "叩问万象" : "Invoke the codex"}
+          </label>
+          <input
+            id="dex-search"
+            type="search"
+            name="q"
+            value={q}
+            onChange={(event) => setQ(event.target.value)}
+            placeholder={dict.dex.search[locale]}
+            className="mt-3 w-full border-b border-[var(--line-strong)] bg-transparent py-2 text-base placeholder:text-vellum-faint focus:border-brass focus:outline-none"
+          />
 
-        <div className="mt-7">
-          <p className="catalog-no">{dict.dex.type[locale]}</p>
-          <div className="mt-2 flex flex-wrap gap-2">
-          <button type="button" className="filter-chip" data-active={type === ""} onClick={() => setType("")}>
-            {dict.dex.all[locale]}
-          </button>
-          {ENTRY_TYPES.map((ty) => (
-            <button key={ty} type="button" className="filter-chip" data-active={type === ty} onClick={() => setType(ty)}>
-              {typeLabels[ty][locale]}
-            </button>
-          ))}
+          <div className="mt-8">
+            <label htmlFor="tradition-filter" className="catalog-no block">{dict.dex.tradition[locale]}</label>
+            <select
+              id="tradition-filter"
+              name="tradition"
+              value={tid}
+              onChange={(event) => setTid(event.target.value)}
+              className="mt-2 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-vellum focus:border-brass focus:outline-none"
+            >
+              <option value="">{dict.dex.all[locale]}</option>
+              {traditions.map((t) => (
+                <option key={t.id} value={t.id}>
+                  {t.name} ({t.count})
+                </option>
+              ))}
+            </select>
           </div>
-        </div>
 
-        <div className="mt-7">
-          <p className="catalog-no">{dict.dex.era[locale]}</p>
-          <div className="mt-2 flex flex-wrap gap-2">
-          <button type="button" className="filter-chip" data-active={era === ""} onClick={() => setEra("")}>
-            {dict.dex.all[locale]}
-          </button>
-          {ERAS.map((er) => (
-            <button key={er} type="button" className="filter-chip" data-active={era === er} onClick={() => setEra(er)}>
-              {eraLabels[er][locale]}
-            </button>
-          ))}
+          <div className="mt-7">
+            <p className="catalog-no">{dict.dex.type[locale]}</p>
+            <div className="mt-2 flex flex-wrap gap-2">
+              <button type="button" className="filter-chip" data-active={type === ""} onClick={() => setType("")}>
+                {dict.dex.all[locale]}
+              </button>
+              {ENTRY_TYPES.map((ty) => (
+                <button key={ty} type="button" className="filter-chip" data-active={type === ty} onClick={() => setType(ty)}>
+                  {typeLabels[ty][locale]}
+                </button>
+              ))}
+            </div>
           </div>
-        </div>
-        {hasFilter && (
+
+          <div className="mt-7">
+            <p className="catalog-no">{dict.dex.era[locale]}</p>
+            <div className="mt-2 flex flex-wrap gap-2">
+              <button type="button" className="filter-chip" data-active={era === ""} onClick={() => setEra("")}>
+                {dict.dex.all[locale]}
+              </button>
+              {ERAS.map((er) => (
+                <button key={er} type="button" className="filter-chip" data-active={era === er} onClick={() => setEra(er)}>
+                  {eraLabels[er][locale]}
+                </button>
+              ))}
+            </div>
+          </div>
+          {hasFilter && (
+            <button
+              type="button"
+              onClick={() => {
+                setQ("");
+                setTid("");
+                setType("");
+                setEra("");
+              }}
+              className="button-secondary mt-8 w-full"
+            >
+              {dict.dex.clear[locale]}
+            </button>
+          )}
           <button
             type="button"
-            onClick={() => {
-              setQ("");
-              setTid("");
-              setType("");
-              setEra("");
-            }}
-            className="button-secondary mt-8 w-full"
+            onClick={() => setFiltersOpen(false)}
+            className="button-primary mt-4 w-full lg:hidden"
           >
-            {dict.dex.clear[locale]}
+            {locale === "zh" ? `查看 ${visible.length} 则异闻` : `View ${visible.length} records`}
           </button>
-        )}
-      </aside>
+        </aside>
+      </div>
 
       <section>
         <div className="flex items-end justify-between border-t border-[var(--line-strong)] pt-2">

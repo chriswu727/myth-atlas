@@ -58,7 +58,7 @@ export default async function LocaleLayout({
             </span>
           </Link>
 
-          <nav className="flex flex-wrap items-center gap-x-5 gap-y-2 sm:gap-x-8" aria-label={locale === "zh" ? "主导航" : "Main navigation"}>
+          <nav className="site-nav flex flex-wrap items-center gap-x-5 gap-y-2 sm:gap-x-8" aria-label={locale === "zh" ? "主导航" : "Main navigation"}>
             <Link href={`/${locale}`} className="site-nav-link">
               {dict.nav.atlas[locale]}
             </Link>
