@@ -7,6 +7,11 @@ import { getCosmogonies, getTradition } from "@/lib/data";
 import { dict, isLocale, motifLabels } from "@/lib/i18n";
 import { MOTIFS, type Motif } from "@/lib/types";
 
+function compareExcerpt(text: string, locale: "zh" | "en") {
+  const limit = locale === "zh" ? 90 : 180;
+  return text.length > limit ? `${text.slice(0, limit).trimEnd()}…` : text;
+}
+
 export async function generateMetadata({
   params,
 }: {
@@ -73,7 +78,7 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
         </div>
         <p className="mt-3 max-w-3xl text-sm leading-relaxed text-vellum-dim">{dict.cosmogony.compareHint[locale]}</p>
 
-        <div className="paper-panel mt-6 overflow-x-auto">
+        <div className="cosmogony-compare-table paper-panel mt-6 overflow-x-auto">
           <table className="cosmogony-table w-max table-fixed border-collapse text-sm">
             <thead>
               <tr>
@@ -112,7 +117,7 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
                               <div key={i}>
                                 <p className="leading-snug text-vellum">{s.title[locale]}</p>
                                 <p className="mt-0.5 line-clamp-3 text-xs leading-relaxed text-vellum-faint">
-                                  {s.text[locale]}
+                                  {compareExcerpt(s.text[locale], locale)}
                                 </p>
                               </div>
                             ))}
@@ -127,6 +132,38 @@ export default async function CosmogonyPage({ params }: { params: Promise<{ loca
               ))}
             </tbody>
           </table>
+        </div>
+
+        <div className="cosmogony-mobile-compare">
+          {rows.map(({ c, t, byMotif }) => (
+            <details key={c.tradition} className="cosmogony-mobile-card">
+              <summary>
+                <span className="cosmogony-mobile-sigil" style={{ backgroundColor: t.color }} />
+                <strong>{t.shortName[locale]}</strong>
+                <span>{c.stages.length} {locale === "zh" ? "幕" : "stages"}</span>
+              </summary>
+              <div>
+                <Link href={`/${locale}/tradition/${t.id}`} className="cosmogony-mobile-link">
+                  {locale === "zh" ? "步入此神系" : "Enter this tradition"} ↗
+                </Link>
+                {MOTIFS.map((m) => {
+                  const stages = byMotif.get(m);
+                  if (!stages) return null;
+                  return (
+                    <div key={m} className="cosmogony-mobile-motif">
+                      <p>{motifLabels[m][locale]}</p>
+                      {stages.map((stage, index) => (
+                        <div key={index}>
+                          <strong>{stage.title[locale]}</strong>
+                          <span>{compareExcerpt(stage.text[locale], locale)}</span>
+                        </div>
+                      ))}
+                    </div>
+                  );
+                })}
+              </div>
+            </details>
+          ))}
         </div>
       </section>
 
