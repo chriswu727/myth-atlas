@@ -10,6 +10,9 @@ Avoid: generic dragon anatomy, modern horror tropes, cartoon styling, glossy 3D 
 
 export function buildShanhaijingPrompt(entry) {
   const subject = entry.name?.zh ?? entry.title?.zh ?? entry.id;
+  const subjectDirection = {
+    "fenghuang-shanhaijing": "Render a colossal sacred phoenix with a long S-curved neck, swept-back feather crown, broad wings, and immense layered tail. Retain only a distant galliform ancestry: absolutely no fleshy comb, wattle, chicken face, squat poultry proportions, or domestic rooster stance. Encode the five virtues as abstract archaic patterns in the plumage, never as literal printed characters."
+  }[entry.id];
   const typeDirection = {
     creature: "Show the complete creature in its native habitat, with the described anatomy clearly readable in a poised three-quarter view.",
     deity: "Present the deity as an overwhelming sacred presence in the domain named by the text, with attributes clearly readable and no generic imperial costume unless described.",
@@ -19,5 +22,5 @@ export function buildShanhaijingPrompt(entry) {
     tale: "Create a single coherent narrative tableau centered on the decisive action, with layered depth rather than a collage."
   }[entry.type];
 
-  return `${sharedArtDirection}\nSubject: ${subject}\nCanonical description: ${entry.summary.zh}\nType-specific direction: ${typeDirection}`;
+  return `${sharedArtDirection}\nSubject: ${subject}\nCanonical description: ${entry.summary.zh}\nType-specific direction: ${typeDirection}${subjectDirection ? `\nSubject-specific direction: ${subjectDirection}` : ""}`;
 }
