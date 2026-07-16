@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import WorldMap, { type MapPin, type MapTradition } from "@/components/WorldMap";
 import EntryCard from "@/components/EntryCard";
-import { getAllCardData, getEntries, getEntry, getTraditions } from "@/lib/data";
+import { getAllCardData, getDisplayImage, getEntries, getEntry, getTraditions } from "@/lib/data";
 import { categoryLabels, dict, isLocale } from "@/lib/i18n";
 import type { Category } from "@/lib/types";
 
@@ -21,9 +21,10 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
   const cardById = new Map(cards.map((card) => [card.id, card]));
   const traditionById = new Map(traditions.map((tradition) => [tradition.id, tradition]));
   const heroEntry = getEntry("nuwa");
+  const heroImage = heroEntry ? getDisplayImage(heroEntry) : null;
   const heroOrbitEntries = HERO_ORBIT_IDS.flatMap((id) => {
     const entry = getEntry(id);
-    return entry?.image ? [entry] : [];
+    return entry && getDisplayImage(entry) ? [entry] : [];
   });
   const curated = CURATED_IDS.flatMap((id) => {
     const card = cardById.get(id);
@@ -92,7 +93,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
           </div>
         </div>
 
-        {heroEntry?.image && (
+        {heroEntry && heroImage && (
           <div className="hero-collage">
             <div className="hero-registration" aria-hidden="true">
               <span>MA–001</span>
@@ -100,7 +101,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
             </div>
             <Link href={`/${locale}/entry/${heroEntry.id}`} className="hero-plate hero-main-plate group block">
               <Image
-                src={heroEntry.image.file}
+                src={heroImage.file}
                 alt={heroEntry.name[locale]}
                 fill
                 preload
@@ -124,7 +125,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
               >
                 <span className="hero-orbit-image">
                   <Image
-                    src={entry.image!.file}
+                    src={getDisplayImage(entry)!.file}
                     alt={entry.name[locale]}
                     fill
                     sizes="10rem"

@@ -23,7 +23,9 @@ const files = readdirSync(entriesRoot).flatMap((tradition) =>
 const entries = files.map((file) => ({ file, data: JSON.parse(readFileSync(file, 'utf8')) }));
 const ids = new Set(entries.map(({ data }) => data.id));
 const imageNames = new Set(
-  entries.flatMap(({ data }) => (data.image?.file ? [basename(data.image.file)] : [])),
+  entries.flatMap(({ data }) =>
+    [data.image?.file, data.coverImage?.file].filter(Boolean).map((file) => basename(file)),
+  ),
 );
 const localImages = readdirSync(imagesRoot).filter((file) => /\.(jpe?g|png|webp|svg)$/i.test(file));
 
@@ -33,6 +35,9 @@ const missingImages = entries
 const missingFiles = entries
   .filter(({ data }) => data.image?.file && !existsSync(join(root, 'public', data.image.file)))
   .map(({ data }) => `${data.id}: ${data.image.file}`);
+const missingCoverFiles = entries
+  .filter(({ data }) => data.coverImage?.file && !existsSync(join(root, 'public', data.coverImage.file)))
+  .map(({ data }) => `${data.id}: ${data.coverImage.file}`);
 const orphanImages = localImages.filter((file) => !imageNames.has(file));
 const dangling = entries.flatMap(({ data }) =>
   (data.related ?? []).filter((id) => !ids.has(id)).map((id) => `${data.id} -> ${id}`),
@@ -55,20 +60,21 @@ for (const file of localImages) {
 const duplicateImages = [...hashes.values()].filter((group) => group.length > 1);
 
 console.log(`Content audit — ${entries.length} entries`);
-console.log(`${imageNames.size} attributed images · ${missingImages.length} entries without images`);
+console.log(`${imageNames.size} attributed images · ${missingImages.length} entries without historical images`);
 console.log(`${singleSource.length} entries with one source · ${dangling.length} dangling references`);
-console.log(`${missingFiles.length} missing image files · ${orphanImages.length} orphan images · ${duplicateImages.length} duplicate image groups`);
+console.log(`${missingFiles.length + missingCoverFiles.length} missing image files · ${orphanImages.length} orphan images · ${duplicateImages.length} duplicate image groups`);
 console.log(`${suspicious.length} flagged editorial phrases`);
 
 printList('Entries without images', missingImages);
 printList('Entries with one source', singleSource);
 printList('Dangling references', dangling);
 printList('Missing image files', missingFiles);
+printList('Missing cover image files', missingCoverFiles);
 printList('Orphan images', orphanImages);
 printList('Duplicate image groups', duplicateImages.map((group) => group.join(', ')));
 printList('Flagged editorial phrases', suspicious);
 
-if (missingFiles.length > 0) process.exitCode = 1;
+if (missingFiles.length > 0 || missingCoverFiles.length > 0) process.exitCode = 1;
 
 function printList(title, items) {
   if (items.length === 0) return;

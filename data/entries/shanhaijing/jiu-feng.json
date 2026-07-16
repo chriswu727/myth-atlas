@@ -95,5 +95,13 @@
     "license": "Public domain",
     "width": 682,
     "height": 1000
+  },
+  "coverImage": {
+    "file": "/images/entries/jiu-feng.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1086,
+    "height": 1448
   }
 }

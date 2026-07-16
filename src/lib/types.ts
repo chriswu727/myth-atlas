@@ -68,6 +68,15 @@ export interface EntryImage {
   height?: number;
 }
 
+export interface EntryCoverImage {
+  file: string;
+  sourceTitle: string;
+  artist: string;
+  license: string;
+  width?: number;
+  height?: number;
+}
+
 export interface EntrySource extends L {
   url?: string;
 }
@@ -95,6 +104,7 @@ export interface Entry {
   geo?: { lat: number; lon: number; label?: L };
   volume?: L;
   image?: EntryImage | null;
+  coverImage?: EntryCoverImage | null;
 }
 
 /** Lightweight shape passed to client components (dex grid, map pins). */
@@ -111,6 +121,11 @@ export interface EntryCardData {
   domains: string[];
   volume?: string;
   catalog: string;
-  image?: { file: string; width?: number; height?: number } | null;
+  image?: {
+    file: string;
+    width?: number;
+    height?: number;
+    kind: 'reconstruction' | 'archive';
+  } | null;
   geo?: { lat: number; lon: number } | null;
 }

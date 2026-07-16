@@ -89,5 +89,13 @@
     "license": "Public domain",
     "width": 1000,
     "height": 876
+  },
+  "coverImage": {
+    "file": "/images/entries/lu-shu.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1086,
+    "height": 1448
   }
 }

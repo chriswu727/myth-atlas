@@ -90,5 +90,13 @@
     "license": "Public domain",
     "width": 490,
     "height": 495
+  },
+  "coverImage": {
+    "file": "/images/entries/yu-fu.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1086,
+    "height": 1448
   }
 }

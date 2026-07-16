@@ -89,5 +89,13 @@
     "license": "Original editorial artwork",
     "width": 800,
     "height": 1000
+  },
+  "coverImage": {
+    "file": "/images/entries/di-tai.webp",
+    "sourceTitle": "Myth Atlas Shanhaijing visual reconstruction",
+    "artist": "Myth Atlas editorial · OpenAI image generation",
+    "license": "Original editorial artwork",
+    "width": 1086,
+    "height": 1448
   }
 }

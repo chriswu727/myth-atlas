@@ -58,6 +58,20 @@ export const dict = {
     location: { zh: '故事显现之地', en: 'Where the Tale Appeared' },
     backToDex: { zh: '退回万象图鉴', en: 'Return to the codex' },
     imageSource: { zh: '图版来处', en: 'Plate provenance' },
+    reconstruction: { zh: '今世复原', en: 'A Likeness Restored' },
+    reconstructionNote: {
+      zh: '循本条所引古卷中的形貌、栖地与征兆重构。此像属于当代视觉演绎，并非古物或出土图像。',
+      en: 'Reconstructed from the form, habitat, and omens preserved in the cited texts. This is a contemporary interpretation, not an ancient artifact.',
+    },
+    reconstructionCredit: {
+      zh: 'Myth Atlas 编辑部 · OpenAI 图像生成 · 原创编辑图像',
+      en: 'Myth Atlas editorial · OpenAI image generation · Original editorial artwork',
+    },
+    archiveImage: { zh: '古本遗像', en: 'Witness from the Old Leaves' },
+    archiveImageNote: {
+      zh: '旧时画工曾如此窥见其形；图版的前世与流传来处，仍据实记于其下。',
+      en: 'An earlier hand once imagined the same being in this form; its provenance and passage into the archive remain recorded below.',
+    },
     inTradition: { zh: '所属神系', en: 'Mythic lineage' },
     noImageModern: {
       zh: '此影尚握在今世创作者手中，故本卷只存其名，不显其形。',
@@ -79,14 +93,17 @@ export const dict = {
       en: 'This codex gathers the old names of gods from classics, inscriptions, ritual songs, and oral memory, and receives the younger hauntings born in city streets. Every record remains anchored to published sources; the telling may wear the night, but its provenance does not vanish into mist.',
     },
     images: {
-      zh: '卷中诸像取自公有领域的古画、版刻与遗物影像，多由 Wikimedia Commons 等公开馆藏借来微光。每一幅图版的前世，均记于条目页与下方清单。',
-      en: 'The plates draw their light from public-domain paintings, engravings, and artifacts, chiefly through Wikimedia Commons and other open collections. Every image remembers where it came from.',
+      zh: '卷中诸像分为两层：今世复原循古籍形貌重新显影，古本遗像则取自公有领域的古画、版刻与遗物影像，多由 Wikimedia Commons 等公开馆藏借来微光。二者绝不混作同一类证据；每一幅古图的前世，均记于条目页与下方清单。',
+      en: 'The codex keeps two kinds of likeness apart: contemporary reconstructions shaped from textual descriptions, and historical witnesses drawn from public-domain paintings, engravings, and artifacts. The two are never presented as the same kind of evidence, and every old plate remembers where it came from.',
     },
     credits: { zh: '诸图来处', en: 'Provenance of the Plates' },
   },
   footer: {
     growing: { zh: '群卷仍在续写', en: 'The leaves are still being written' },
-    rights: { zh: '文字取火于公开文献，图像借光于公有收藏', en: 'Words kindled from published sources; images lit by public-domain collections' },
+    rights: {
+      zh: '文字取火于公开文献；古像借光于公有收藏，复原图循旧卷重现其形',
+      en: 'Words kindled from published sources; old plates drawn from open collections, restored likenesses shaped from the texts',
+    },
   },
 } as const;
 
