@@ -11,6 +11,9 @@ npm install
 npm run dev        # 开发（本机 node25 测交互请用 build+start）
 npm run build && npm start
 npm run validate   # 校验全部条目数据
+npm run audit      # 内容与图像盘点
+npm run lint
+npm test           # Node 22.18+：搜索、导航上下文、叙事分支回归测试
 ```
 
 ## 加内容

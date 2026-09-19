@@ -5,7 +5,7 @@
 - 技术栈：Next.js 16 (App Router, SSG) + Tailwind v4 + D3 (d3-geo/zoom/selection + topojson) + MiniSearch
 - 仓库：chriswu727/myth-atlas · 本地 `~/project/myth-atlas`
 - 线上：https://myth-atlas.vercel.app
-- 现状（2026-07-14）：432 条目 / 24 体系 / 432 条有来源记录的配图 / 191 条有地理坐标 / 20 条创世时间线
+- 现状（2026-09-19）：500 条目 / 30 体系 / 500 张条目资料图 + 108 张当代封面演绎 / 227 条有地理坐标 / 25 组创世叙事
 
 ## 数据布局
 
@@ -86,11 +86,11 @@ node scripts/register-image.mjs source.png --entry zeus --title "Original editor
 
 ## 创世时间线（/[locale]/cosmogony）
 
-20 个体系各一条创世叙事时间线，schema 与写作契约见 `docs/COSMOGONY_GUIDE.md`。
+25 个体系各一组创世叙事，schema 与写作契约见 `docs/COSMOGONY_GUIDE.md`。
 
 关键设计是每个 stage 挂一个 `motif`（太初/最初的存在/天地分离/世界成形/人类诞生/洪水与劫/当世）——它是跨文明对照页的对齐轴。**改 motif 枚举要同时改** `src/lib/types.ts` 的 `MOTIFS`（顺序即对照页列序）、`src/lib/i18n.ts` 的 `motifLabels`、`scripts/validate.mjs` 的 `MOTIFS`、`docs/COSMOGONY_GUIDE.md` 的母题表。
 
-**母题缺格是信息，不是 bug**：凯尔特的「太初」「天地分离」两格是空的，因为爱尔兰神话根本没有创世叙事（现存的《夺取爱尔兰记》是把爱尔兰史嫁接到圣经框架上的入侵序列）；希腊的「人类诞生」是空的，因为《神谱》没有正典的造人叙事。对照页把空格渲染成破折号，别去「补全」它们。
+**母题缺格是信息，不是 bug**：凯尔特的「太初」「天地分离」两格是空的，因为爱尔兰神话根本没有创世叙事（现存的《夺取爱尔兰记》是把爱尔兰史嫁接到圣经框架上的入侵序列）；希腊的「人类诞生」是空的，因为《神谱》没有正典的造人叙事。对照页说明所选叙事未收录该母题，不能据此断言整个传统没有这类故事，也不要为了填满界面杜撰内容。
 
 ## 搜索
 
@@ -101,4 +101,12 @@ node scripts/register-image.mjs source.png --entry zeus --title "Original editor
 - Next 16：`params` 是 Promise 必须 await；本机 node25 下 `next dev` 不 hydrate，测交互用 build+start
 - `world-atlas` 的 topojson 由 `scripts/prebuild.mjs` 拷到 `public/map/`（pre{dev,build} 自动跑）
 - Commons API 必须带 User-Agent，脚本里已设
-- 地图会在桌面和移动比例下自动错开相邻谱系星标并保持 40px 命中区；文字朝向仍由 `WorldMap.tsx` 的 `LABEL_TWEAKS` 微调。移动端地图保留大比例尺横向巡游，选中星标会自动尽量居中
+- 地图会在桌面和移动比例下自动错开相邻谱系星标并保持 40px 命中区；文字朝向仍由 `WorldMap.tsx` 的 `LABEL_TWEAKS` 微调。移动端地图使用完整视口，下方显示故事预览；也可通过下拉菜单选择体系
+
+## 2026-09-19 阅读体验改版
+
+地图提供体系精选与条目预览，URL 保存选择和缩放状态；条目返回链接与语言切换保留探索上下文。条目页将正文置于阅读主区，图版可切换、放大并查看来源。新增中英双语「东亚狐传说」专题。
+
+创世页按所选故事逐幕阅读，母题比较默认并读华夏、北欧、玛雅，可更换传统与母题。希腊将诸神世代、俄耳甫斯宇宙卵、洪水分别建为阅读分支；这些是叙事顺序，不是历史年代。其他传统保留既有内容与编选范围，尚未逐一拆分异本。
+
+搜索按 MiniSearch 相关度展示，支持汉字、假名、韩文与希腊文原名。`npm test` 覆盖搜索排序、URL 上下文与叙事分支；GitHub Checks 执行数据校验、内容盘点、lint、测试与构建。

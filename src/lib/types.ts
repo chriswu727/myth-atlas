@@ -43,7 +43,16 @@ export const MOTIFS: Motif[] = [
   'now',
 ];
 
+export interface CosmogonyBranch {
+  id: string;
+  label: L;
+  description: L;
+  stageIds: string[];
+}
+
 export interface CosmogonyStage {
+  id?: string;
+  source?: L;
   motif: Motif;
   phase: L;
   title: L;
@@ -56,6 +65,7 @@ export interface Cosmogony {
   source: L;
   note?: L | null;
   stages: CosmogonyStage[];
+  branches?: CosmogonyBranch[];
 }
 
 export interface EntryImage {

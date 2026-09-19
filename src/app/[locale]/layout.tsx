@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -20,7 +21,10 @@ export async function generateMetadata({
   if (!isLocale(locale)) return {};
   return {
     title: {
-      default: locale === "zh" ? "寰宇神话志 — 诸神、异兽与失落世界" : "Myth Atlas — gods, monsters, and worlds lost to memory",
+      default:
+        locale === "zh"
+          ? "寰宇神话志 — 诸神、异兽与失落世界"
+          : "Myth Atlas — gods, monsters, and worlds lost to memory",
       template: locale === "zh" ? "%s · 寰宇神话志" : "%s · Myth Atlas",
     },
     description: dict.tagline[locale],
@@ -46,7 +50,11 @@ export default async function LocaleLayout({
 
       <header className="site-header">
         <div className="site-shell flex min-h-18 flex-wrap items-center justify-between gap-x-8 gap-y-3 py-3">
-          <Link href={`/${locale}`} className="group flex items-center gap-3" aria-label={SITE_NAME[locale]}>
+          <Link
+            href={`/${locale}`}
+            className="group flex items-center gap-3"
+            aria-label={SITE_NAME[locale]}
+          >
             <span className="brand-mark">志</span>
             <span>
               <span className="block font-[family-name:var(--font-cjk)] text-lg font-black tracking-[0.13em]">
@@ -58,7 +66,10 @@ export default async function LocaleLayout({
             </span>
           </Link>
 
-          <nav className="site-nav flex flex-wrap items-center gap-x-5 gap-y-2 sm:gap-x-8" aria-label={locale === "zh" ? "主导航" : "Main navigation"}>
+          <nav
+            className="site-nav flex flex-wrap items-center gap-x-5 gap-y-2 sm:gap-x-8"
+            aria-label={locale === "zh" ? "主导航" : "Main navigation"}
+          >
             <Link href={`/${locale}`} className="site-nav-link">
               {dict.nav.atlas[locale]}
             </Link>
@@ -71,7 +82,9 @@ export default async function LocaleLayout({
             <Link href={`/${locale}/about`} className="site-nav-link">
               {dict.nav.about[locale]}
             </Link>
-            <LocaleSwitch locale={locale} />
+            <Suspense fallback={<span className="catalog-no">中文 / EN</span>}>
+              <LocaleSwitch locale={locale} />
+            </Suspense>
           </nav>
         </div>
         <div className="mystic-divider" aria-hidden="true" />
@@ -82,14 +95,18 @@ export default async function LocaleLayout({
       <footer className="mt-24 border-t border-[var(--line-strong)]">
         <div className="site-shell grid gap-8 py-10 sm:grid-cols-[1fr_auto] sm:items-end">
           <div>
-            <p className="font-[family-name:var(--font-cjk)] text-2xl font-black tracking-[0.13em]">寰宇神話誌</p>
+            <p className="font-[family-name:var(--font-cjk)] text-2xl font-black tracking-[0.13em]">
+              寰宇神話誌
+            </p>
             <p className="mt-2 max-w-xl text-sm text-vellum-dim">
               {SITE_NAME[locale]} — {dict.footer.rights[locale]}
             </p>
           </div>
           <p className="catalog-no border-l border-[var(--line)] pl-5 sm:text-right">
-            {entryCount} {dict.home.entriesCount[locale]}<br />
-            {traditionCount} {dict.home.traditionsCount[locale]} · {dict.footer.growing[locale]}
+            {entryCount} {dict.home.entriesCount[locale]}
+            <br />
+            {traditionCount} {dict.home.traditionsCount[locale]} ·{" "}
+            {dict.footer.growing[locale]}
           </p>
         </div>
       </footer>

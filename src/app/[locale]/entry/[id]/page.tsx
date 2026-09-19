@@ -1,31 +1,37 @@
-import Image from "next/image";
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import Emblem from "@/components/Emblem";
 import EntryCard from "@/components/EntryCard";
-import { getCatalogNumbers, getEntries, getEntry, getTradition, toCardData } from "@/lib/data";
-import { dict, eraLabels, isLocale, typeLabels } from "@/lib/i18n";
+import EntryGallery from "@/components/EntryGallery";
+import ReturnLink from "@/components/ReturnLink";
+import {
+  getCatalogNumbers,
+  getEntries,
+  getEntry,
+  getTradition,
+  toCardData,
+} from "@/lib/data";
+import { FOX_ENTRIES, FOX_HEADINGS } from "@/lib/editorial";
+import { atlasUrl } from "@/lib/navigation";
+import { eraLabels, isLocale, typeLabels } from "@/lib/i18n";
 import { LOCALES } from "@/lib/types";
 
 export function generateStaticParams() {
-  return LOCALES.flatMap((locale) => getEntries().map((e) => ({ locale, id: e.id })));
+  return LOCALES.flatMap((locale) =>
+    getEntries().map((entry) => ({ locale, id: entry.id })),
+  );
 }
-
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string; id: string }>;
 }): Promise<Metadata> {
   const { locale, id } = await params;
-  const e = getEntry(id);
-  if (!isLocale(locale) || !e) return {};
-  return {
-    title: locale === "zh" ? e.name.zh : `${e.name.en}`,
-    description: e.summary[locale],
-  };
+  const entry = getEntry(id);
+  if (!isLocale(locale) || !entry) return {};
+  return { title: entry.name[locale], description: entry.summary[locale] };
 }
-
 export default async function EntryPage({
   params,
 }: {
@@ -33,235 +39,146 @@ export default async function EntryPage({
 }) {
   const { locale, id } = await params;
   if (!isLocale(locale)) notFound();
-  const e = getEntry(id);
-  if (!e) notFound();
-  const t = getTradition(e.tradition);
-  if (!t) notFound();
-
-  const catalog = getCatalogNumbers().get(e.id) ?? "000";
-  const primary = locale === "zh" ? e.name.zh : e.name.en;
-  const secondary = locale === "zh" ? e.name.en : e.name.zh;
-  const displayImage = e.coverImage ?? e.image;
-  const related = (e.related ?? [])
-    .map((rid) => getEntry(rid))
-    .filter((r) => r != null)
+  const entry = getEntry(id);
+  if (!entry) notFound();
+  const tradition = getTradition(entry.tradition);
+  if (!tradition) notFound();
+  const zh = locale === "zh";
+  const related = (entry.related ?? [])
+    .flatMap((id) => getEntry(id) ?? [])
     .slice(0, 4);
-
+  const paragraphs = entry.description[locale].split(/\n\n+/);
   return (
-    <div className="site-shell pt-8">
-      <nav className="catalog-no flex flex-wrap gap-x-3 border-b border-[var(--line)] pb-3">
-        <Link href={`/${locale}/dex`} className="hover:text-brass">
-          {dict.entry.backToDex[locale]}
+    <div className="site-shell entry-reading-page">
+      <nav
+        className="reading-breadcrumb"
+        aria-label={zh ? "阅读位置" : "Breadcrumb"}
+      >
+        <Suspense>
+          <ReturnLink locale={locale} />
+        </Suspense>
+        <Link href={`/${locale}/dex`}>{zh ? "图鉴" : "Collection"}</Link>
+        <span>/</span>
+        <Link href={`/${locale}/tradition/${tradition.id}`}>
+          {tradition.name[locale]}
         </Link>
         <span>/</span>
-        <Link href={`/${locale}/tradition/${t.id}`} className="hover:text-brass">
-          {t.name[locale]}
-        </Link>
+        <span>{entry.name[locale]}</span>
       </nav>
-
-      <header className="grid gap-6 border-b border-[var(--line-strong)] py-9 sm:grid-cols-[7rem_1fr_auto] sm:items-end">
-        <p className="font-[family-name:var(--font-display-stack)] text-6xl leading-none text-brass">{catalog}</p>
-        <div>
-          <p className="eyebrow">
-            {t.shortName[locale]} {e.volume ? `· ${e.volume[locale]}` : ""}
-          </p>
-          <h1 className="mt-3 text-6xl leading-[0.95] sm:text-8xl">{primary}</h1>
-          <p className="mt-3 text-vellum-dim">
-            <span className="font-[family-name:var(--font-display-stack)] tracking-[0.1em]">{secondary}</span>
-            {e.name.original && (
-              <span className="ml-3 text-vellum-faint">
-                {e.name.original}
-                {e.name.originalLang ? `（${e.name.originalLang}）` : ""}
-              </span>
-            )}
-          </p>
-        </div>
-        <p className="catalog-no border-l border-[var(--line)] pl-5 sm:text-right" style={{ color: t.color }}>
-          {typeLabels[e.type][locale]}<br />
-          {eraLabels[e.era][locale]}
+      <header className="entry-reading-header">
+        <p className="eyebrow">
+          № {getCatalogNumbers().get(entry.id)} / {tradition.shortName[locale]}
+          {entry.volume ? ` · ${entry.volume[locale]}` : ""}
         </p>
+        <h1>{entry.name[locale]}</h1>
+        <p className="entry-secondary-name">
+          {entry.name[zh ? "en" : "zh"]}
+          {entry.name.original && ` · ${entry.name.original}`}
+        </p>
+        <p className="entry-reading-deck">{entry.title[locale]}</p>
+        <div className="entry-reading-meta">
+          <span>{typeLabels[entry.type][locale]}</span>
+          <span>{eraLabels[entry.era][locale]}</span>
+          <a href="#story">{zh ? "阅读故事" : "Read the story"}</a>
+          <a href="#sources">{zh ? "文献出处" : "Sources"}</a>
+        </div>
       </header>
-
-      <div className="mt-10 grid gap-12 lg:grid-cols-[minmax(19rem,0.78fr)_minmax(0,1.22fr)]">
-        <aside>
-          <div className="entry-visual-dossier">
-            <figure className={`plate entry-primary-plate ${e.coverImage ? "entry-primary-plate-restored" : ""}`}>
-              <div className={`plate-inner ${displayImage ? "" : "aspect-[4/5]"}`}>
-                {displayImage ? (
-                  <Image
-                    src={displayImage.file}
-                    alt={`${primary} · ${e.coverImage ? dict.entry.reconstruction[locale] : dict.entry.imageSource[locale]}`}
-                    width={displayImage.width ?? 1000}
-                    height={displayImage.height ?? 1250}
-                    preload
-                    sizes="(max-width: 1024px) 100vw, 36vw"
-                    className="block h-auto w-full"
-                  />
-                ) : (
-                  <Emblem type={e.type} color={t.color} name={e.name.original ?? e.name.zh} />
-                )}
-                {e.coverImage ? (
-                  <span className="entry-plate-stamp">
-                    <span>{dict.entry.reconstruction[locale]}</span>
-                    <span>RESTORED LIKENESS · MA {catalog}</span>
-                  </span>
-                ) : null}
-              </div>
-              <figcaption className="entry-plate-caption">
-                {e.coverImage ? (
-                  <>
-                    <p>{dict.entry.reconstructionNote[locale]}</p>
-                    <p className="catalog-no">
-                      {dict.entry.reconstructionCredit[locale]}
-                    </p>
-                  </>
-                ) : e.image ? (
-                  <p className="catalog-no">
-                    {dict.entry.imageSource[locale]}: {e.image.artist ? `${e.image.artist} · ` : ""}
-                    <a href={e.image.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
-                      {e.image.sourceTitle ?? "Wikimedia Commons"}
-                    </a>{" "}
-                    ({e.image.license})
-                  </p>
-                ) : (
-                  <p className="catalog-no">
-                    {e.era === "modern" || e.era === "contemporary"
-                      ? dict.entry.noImageModern[locale]
-                      : dict.entry.noImageOld[locale]}
-                  </p>
-                )}
-              </figcaption>
-            </figure>
-
-            {e.coverImage && e.image ? (
-              <figure className="entry-archive-figure">
-                <div className="entry-archive-heading">
-                  <div>
-                    <p className="eyebrow">ARCHIVE PLATE · {catalog}</p>
-                    <h2>{dict.entry.archiveImage[locale]}</h2>
-                  </div>
-                  <span aria-hidden="true">古</span>
-                </div>
-                <div className="plate entry-archive-frame">
-                  <div className="plate-inner">
-                    <Image
-                      src={e.image.file}
-                      alt={`${primary} · ${dict.entry.archiveImage[locale]}`}
-                      width={e.image.width ?? 1000}
-                      height={e.image.height ?? 1250}
-                      loading="lazy"
-                      sizes="(max-width: 1024px) 100vw, 34vw"
-                      className="block h-auto w-full object-contain"
-                    />
-                  </div>
-                </div>
-                <figcaption className="entry-archive-caption">
-                  <p>{dict.entry.archiveImageNote[locale]}</p>
-                  <p className="catalog-no">
-                    {dict.entry.imageSource[locale]}: {e.image.artist ? `${e.image.artist} · ` : ""}
-                    <a href={e.image.sourceUrl} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
-                      {e.image.sourceTitle ?? "Wikimedia Commons"}
-                    </a>{" "}
-                    ({e.image.license})
-                  </p>
-                </figcaption>
-              </figure>
-            ) : null}
-          </div>
-
-          <dl className="paper-panel mt-8 space-y-6 p-5 text-sm">
-            <div>
-              <dt className="eyebrow">{dict.entry.domains[locale]}</dt>
-              <dd className="mt-1.5 flex flex-wrap gap-2">
-                {e.domains[locale].map((domain) => (
-                  <span key={domain} className="border border-[var(--line)] px-2.5 py-0.5 text-vellum-dim">
-                    {domain}
-                  </span>
-                ))}
-              </dd>
-            </div>
-            {e.traits && e.traits.length > 0 && (
-              <div>
-                <dt className="eyebrow">{dict.entry.traits[locale]}</dt>
-                <dd className="mt-1.5">
-                  <table className="w-full text-sm">
-                    <tbody>
-                      {e.traits.map((trait, index) => (
-                        <tr key={index} className="border-b border-[var(--line)] last:border-0">
-                          <td className="py-1.5 pr-3 align-top text-vellum-faint">{trait.label[locale]}</td>
-                          <td className="py-1.5 text-vellum-dim">{trait.value[locale]}</td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </dd>
-              </div>
-            )}
-            {e.geo && (
-              <div>
-                <dt className="eyebrow">{dict.entry.location[locale]}</dt>
-                <dd className="catalog-no mt-1.5 text-vellum-dim">
-                  {e.geo.label ? `${e.geo.label[locale]} · ` : ""}
-                  {Math.abs(e.geo.lat).toFixed(2)}°{e.geo.lat >= 0 ? "N" : "S"},{" "}
-                  {Math.abs(e.geo.lon).toFixed(2)}°{e.geo.lon >= 0 ? "E" : "W"}
-                </dd>
-              </div>
-            )}
-            <div>
-              <dt className="eyebrow">{dict.entry.sources[locale]}</dt>
-              <dd className="mt-1.5 space-y-1 text-vellum-dim">
-                {e.sources.map((source, index) => (
-                  <p key={index}>
-                    {source.url ? (
-                      <a href={source.url} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
-                        {source[locale]}
-                      </a>
-                    ) : source[locale]}
-                  </p>
-                ))}
-              </dd>
-            </div>
-            {e.rights && (
-              <div>
-                <dt className="eyebrow">{dict.entry.rights[locale]}</dt>
-                <dd className="mt-1.5 text-vellum-dim">
-                  <a href={e.rights.url} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-brass">
-                    {e.rights.name}
-                  </a>
-                  <p className="mt-1 leading-relaxed">{e.rights.note[locale]}</p>
-                </dd>
-              </div>
-            )}
-          </dl>
-        </aside>
-
-        <article className="reading-rule">
-          <p className="max-w-2xl text-2xl leading-snug text-brass" style={{ color: t.color }}>
-            {e.title[locale]}
+      <div className="entry-reading-layout">
+        <EntryGallery
+          name={entry.name[locale]}
+          archive={entry.image}
+          cover={entry.coverImage}
+          locale={locale}
+        />
+        <article id="story" className="entry-story">
+          <p className="eyebrow">
+            {zh ? "故事与流变" : "THE STORY & ITS AFTERLIVES"}
           </p>
-
-          <div className="prose-myth mt-9 max-w-[42rem] text-lg leading-[2]">
-            {e.description[locale].split(/\n\n+/).map((paragraph, index) => (
-              <p key={index}>{paragraph}</p>
-            ))}
-          </div>
+          {paragraphs.map((paragraph, i) => (
+            <section key={i}>
+              {FOX_HEADINGS[id]?.[i] && <h2>{FOX_HEADINGS[id][i][locale]}</h2>}
+              <p>{paragraph}</p>
+            </section>
+          ))}
+          {FOX_ENTRIES.includes(id) && (
+            <aside className="entry-trail-callout">
+              <p className="eyebrow">
+                {zh ? "沿着母题继续读" : "CONTINUE THE READING TRAIL"}
+              </p>
+              <h2>
+                {zh ? "同样是狐，故事却不同。" : "Another fox. Another story."}
+              </h2>
+              <p>
+                {zh
+                  ? "把《山海经》的九尾狐、日本的玉藻前与朝鲜半岛的狐故事并排来看。"
+                  : "Read the fox of the Shanhaijing alongside Tamamo-no-Mae and Korean fox tales."}
+              </p>
+              <Link href={`/${locale}/themes/foxes`}>
+                {zh ? "进入东亚狐传说专题" : "Explore foxes of East Asia"}
+              </Link>
+            </aside>
+          )}
         </article>
       </div>
-
+      <section id="sources" className="entry-reference">
+        <div>
+          <p className="eyebrow">{zh ? "速览与地理" : "AT A GLANCE"}</p>
+          <dl>
+            {entry.traits?.map((trait, i) => (
+              <div key={i}>
+                <dt>{trait.label[locale]}</dt>
+                <dd>{trait.value[locale]}</dd>
+              </div>
+            ))}
+          </dl>
+          <p className="entry-domains">{entry.domains[locale].join(" / ")}</p>
+          {entry.geo?.label && <p>{entry.geo.label[locale]}</p>}
+          <Link href={atlasUrl(locale, entry.tradition)}>
+            {zh ? "在地图上探索这一体系" : "Explore this tradition on the map"}
+          </Link>
+        </div>
+        <div>
+          <p className="eyebrow">{zh ? "文献出处" : "SOURCES"}</p>
+          <ol>
+            {entry.sources.map((source, i) => (
+              <li key={i}>
+                {source.url ? (
+                  <a href={source.url} target="_blank" rel="noreferrer">
+                    {source[locale]}
+                  </a>
+                ) : (
+                  source[locale]
+                )}
+              </li>
+            ))}
+          </ol>
+          {entry.rights && (
+            <p className="entry-rights">
+              <a href={entry.rights.url} target="_blank" rel="noreferrer">
+                {entry.rights.name}
+              </a>
+              <br />
+              {entry.rights.note[locale]}
+            </p>
+          )}
+        </div>
+      </section>
       {related.length > 0 && (
-        <section className="mt-18 border-t border-[var(--line-strong)] pt-4">
-          <div className="section-heading">
-            <h2 className="text-3xl">{dict.entry.related[locale]}</h2>
-            <span className="catalog-no">{related.length}</span>
+        <section className="entry-related">
+          <div className="journey-section-heading">
+            <div>
+              <p className="eyebrow">{zh ? "继续翻阅" : "KEEP READING"}</p>
+              <h2>{zh ? "相关条目" : "Related records"}</h2>
+            </div>
           </div>
-          <div className="mt-8 grid grid-cols-2 gap-x-4 gap-y-10 sm:grid-cols-4 sm:gap-x-7">
-            {related.map((relatedEntry) => {
-              const relatedTradition = getTradition(relatedEntry.tradition)!;
+          <div className="grid grid-cols-2 gap-5 sm:grid-cols-4">
+            {related.map((record) => {
+              const t = getTradition(record.tradition)!;
               return (
                 <EntryCard
-                  key={relatedEntry.id}
-                  entry={toCardData(relatedEntry, locale)}
-                  tradition={{ shortName: relatedTradition.shortName[locale], color: relatedTradition.color }}
+                  key={record.id}
+                  entry={toCardData(record, locale)}
+                  tradition={{ shortName: t.shortName[locale], color: t.color }}
                   locale={locale}
                 />
               );
