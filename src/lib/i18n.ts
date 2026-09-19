@@ -8,10 +8,10 @@ export const dict = {
     en: "A living codex awakened from ruined scrolls, temples, and oral memory—of gods, monsters, origins, and old dreams still abroad in the dark",
   },
   nav: {
-    atlas: { zh: '星图', en: 'Atlas' },
-    dex: { zh: '万象', en: 'Codex' },
-    cosmogony: { zh: '太初', en: 'Origins' },
-    about: { zh: '卷后', en: 'Colophon' },
+    atlas: { zh: '地图', en: 'Atlas' },
+    dex: { zh: '图鉴', en: 'Codex' },
+    cosmogony: { zh: '创世', en: 'Origins' },
+    about: { zh: '关于', en: 'About' },
   },
   cosmogony: {
     title: { zh: '太初纪', en: 'Before the World' },
@@ -40,14 +40,14 @@ export const dict = {
   },
   dex: {
     title: { zh: '万象图鉴', en: 'The Great Codex' },
-    search: { zh: '写下神名、称号、权柄或故土…', en: 'Inscribe a name, title, dominion, or homeland…' },
+    search: { zh: '搜索名字、称号或关键词…', en: 'Search names, titles, or keywords…' },
     all: { zh: '全部', en: 'All' },
     tradition: { zh: '神话谱系', en: 'Tradition' },
     type: { zh: '显现之形', en: 'Form' },
     era: { zh: '传诵纪元', en: 'Age' },
     results: { zh: '则异闻', en: 'records' },
     empty: { zh: '群卷寂然，未有名字回应这次叩问。散去迷雾，或换一个真名再试。', en: 'The leaves remain silent; no name answers this invocation. Clear the mist, or try another true name.' },
-    clear: { zh: '散去迷雾', en: 'Dispel the mist' },
+    clear: { zh: '清除筛选', en: 'Clear filters' },
   },
   entry: {
     domains: { zh: '权柄 · 征兆', en: 'Dominions & Omens' },

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Cormorant, EB_Garamond, IBM_Plex_Mono, Noto_Serif_SC } from "next/font/google";
 import "./globals.css";
+import "./journeys.css";
 
 const display = Cormorant({
   variable: "--font-display",

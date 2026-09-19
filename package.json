@@ -10,7 +10,8 @@
     "start": "next start",
     "lint": "eslint",
     "validate": "node scripts/validate.mjs",
-    "audit": "node scripts/audit-content.mjs"
+    "audit": "node scripts/audit-content.mjs",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs"
   },
   "dependencies": {
     "d3-geo": "^3.1.1",

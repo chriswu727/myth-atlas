@@ -222,6 +222,8 @@ if (existsSync(cosmoDir)) {
     } else {
       for (const [i, st] of c.stages.entries()) {
         const at = `${file} stages[${i}]`;
+        if (st.source != null) bilingual(at, st, 'source');
+        if (st.id != null && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(st.id)) err(at, 'id must be lowercase kebab-case');
         if (!MOTIFS.includes(st.motif)) err(at, `motif must be one of ${MOTIFS.join('|')}`);
         for (const f of ['phase', 'title', 'text']) {
           if (!isStr(st[f]?.zh) || !isStr(st[f]?.en)) err(at, `${f} must have non-empty zh and en`);
@@ -235,6 +237,31 @@ if (existsSync(cosmoDir)) {
           if (!Array.isArray(st.entries)) err(at, 'entries must be an array');
           else for (const r of st.entries) allRelated.push({ file, id: r });
         }
+      }
+    }
+    if (c.branches != null) {
+      const stageIds = (c.stages ?? []).map((stage) => stage.id);
+      if (stageIds.some((id) => !isStr(id)) || new Set(stageIds).size !== stageIds.length)
+        err(file, 'branched stories require unique ids on every stage');
+      if (!Array.isArray(c.branches) || c.branches.length === 0) err(file, 'branches must be a non-empty array');
+      else {
+        const branchIds = new Set();
+        const covered = new Set();
+        for (const branch of c.branches) {
+          if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(branch.id ?? '') || branchIds.has(branch.id)) err(file, 'branch ids must be unique kebab-case');
+          branchIds.add(branch.id);
+          bilingual(file, branch, 'label');
+          bilingual(file, branch, 'description');
+          if (!Array.isArray(branch.stageIds) || branch.stageIds.length === 0) err(file, 'branch stageIds must be non-empty');
+          else {
+            if (new Set(branch.stageIds).size !== branch.stageIds.length) err(file, 'duplicate stage within a branch');
+            for (const id of branch.stageIds) {
+              if (!stageIds.includes(id)) err(file, `branch references unknown stage ${id}`);
+              covered.add(id);
+            }
+          }
+        }
+        for (const id of stageIds) if (!covered.has(id)) err(file, `stage ${id} is missing from all branches`);
       }
     }
     for (const [k, v] of Object.entries(flatten(c))) checkEmoji(file, k, v);

@@ -16,8 +16,8 @@
     "en": "A fox with nine tails from Mount Qingqiu whose cry sounds like a wailing infant; it eats people, yet its flesh wards off gu sorcery. Later ages recast it from royal omen to bewitching temptress."
   },
   "description": {
-    "zh": "《南山经》记青丘之山\"有兽焉，其状如狐而九尾，其音如婴儿，能食人；食者不蛊\"。寥寥数语写出它的两面：它发出婴儿般的啼声，是吃人的猛兽；人若反过来吃它的肉，却能不受蛊毒邪气侵害。《海外东经》与《大荒东经》又记有青丘国，\"其狐四足九尾\"，九尾狐俨然是那一方水土的名物。\n\n汉代人眼中的九尾狐是祥瑞。《吴越春秋·越王无余外传》载大禹三十未娶，行至涂山，见九尾白狐，又闻涂山人唱\"绥绥白狐，九尾庞庞\"，于是娶涂山氏之女为妻；汉代画像石上，九尾狐与玉兔、蟾蜍、三足乌一同侍立在西王母座旁，是子孙昌盛、王者受命的符号。\n\n六朝志怪以降，狐渐渐成精作祟，唐人笔下已多狐媚故事；明代《封神演义》让千年狐狸精附身妲己、祸乱殷商，九尾狐自此定型为祸国妖姬的代名词。这一形象东传日本，化作玉藻前传说，又流入今天的小说、动漫与游戏。",
-    "en": "The Classic of the Southern Mountains gives it four terse clauses: on Mount Qingqiu lives a beast shaped like a fox with nine tails, its voice like that of a human infant; it can devour people, and whoever eats its flesh is proof against gu, the insect-borne witchcraft poison. The predator that lures with a baby's cry can itself be eaten as a talisman. Elsewhere in the book, the Classics of Regions Beyond the Seas and of the Great Wilderness record a Land of Qingqiu whose foxes have four legs and nine tails.\n\nTo Han-dynasty eyes the creature was auspicious. The Wu Yue Chunqiu tells how Yu the Great, still unmarried at thirty, saw a white nine-tailed fox at Mount Tushan and heard the local song 'the white fox roams, its nine tails full and thick', whereupon he took the daughter of Tushan as his wife. On Han pictorial stones the nine-tailed fox stands beside the Queen Mother of the West with the jade rabbit, the toad, and the three-legged crow, an emblem of abundant offspring and rightful rule.\n\nFrom the Six Dynasties onward foxes turned demonic in the tale literature, and the Ming novel Investiture of the Gods sealed the type: a thousand-year fox spirit possesses Daji and ruins the Shang court. Carried east, the figure became Japan's Tamamo-no-Mae, and it now populates fiction, comics, and games."
+    "zh": "《南山经》记青丘之山\"有兽焉，其状如狐而九尾，其音如婴儿，能食人；食者不蛊\"。寥寥数语写出它的两面：它发出婴儿般的啼声，是吃人的猛兽；人若反过来吃它的肉，却能不受蛊毒邪气侵害。《海外东经》与《大荒东经》又记有青丘国，\"其狐四足九尾\"，九尾狐俨然是那一方水土的名物。\n\n汉代人眼中的九尾狐是祥瑞。《吴越春秋·越王无余外传》载大禹三十未娶，行至涂山，见九尾白狐，又闻涂山人唱\"绥绥白狐，九尾庞庞\"，于是娶涂山氏之女为妻；汉代画像石上，九尾狐与玉兔、蟾蜍、三足乌一同侍立在西王母座旁，是子孙昌盛、王者受命的符号。\n\n六朝志怪以降，狐渐渐成精作祟，唐人笔下已多狐媚故事；明代《封神演义》让千年狐狸精附身妲己、祸乱殷商，九尾狐自此定型为祸国妖姬的代名词。日本玉藻前传说的后世版本也将妖狐与妲己等形象相连；不同文本中的身世和尾数仍须分别辨认。今天的小说、动漫与游戏又继续改写这些狐的故事。",
+    "en": "The Classic of the Southern Mountains gives it four terse clauses: on Mount Qingqiu lives a beast shaped like a fox with nine tails, its voice like that of a human infant; it can devour people, and whoever eats its flesh is proof against gu, the insect-borne witchcraft poison. The predator that lures with a baby's cry can itself be eaten as a talisman. Elsewhere in the book, the Classics of Regions Beyond the Seas and of the Great Wilderness record a Land of Qingqiu whose foxes have four legs and nine tails.\n\nTo Han-dynasty eyes the creature was auspicious. The Wu Yue Chunqiu tells how Yu the Great, still unmarried at thirty, saw a white nine-tailed fox at Mount Tushan and heard the local song 'the white fox roams, its nine tails full and thick', whereupon he took the daughter of Tushan as his wife. On Han pictorial stones the nine-tailed fox stands beside the Queen Mother of the West with the jade rabbit, the toad, and the three-legged crow, an emblem of abundant offspring and rightful rule.\n\nFrom the Six Dynasties onward foxes turned demonic in the tale literature, and the Ming novel Investiture of the Gods sealed the type: a thousand-year fox spirit possesses Daji and ruins the Shang court. Later versions of Japan's Tamamo-no-Mae legend connect the fox with figures such as Daji; biographies and even tail counts need to be distinguished by text. Fiction, comics, and games continue to rework these fox stories."
   },
   "domains": {
     "zh": [
@@ -81,6 +81,11 @@
     {
       "zh": "《封神演义》",
       "en": "Investiture of the Gods (Fengshen Yanyi)"
+    },
+    {
+      "zh": "史密森尼国立亚洲艺术博物馆：月冈芳年《善恶三十六美人·玉藻前》馆藏说明",
+      "en": "Smithsonian National Museum of Asian Art: Yoshitoshi, Thirty-Six Beauties, Good and Evil: Tamamo-no-Mae, collection commentary",
+      "url": "https://asia-archive.si.edu/object/S2004.3.318/"
     }
   ],
   "volume": {

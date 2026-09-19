@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -15,7 +16,11 @@ export async function generateMetadata({
   return { title: dict.dex.title[locale] };
 }
 
-export default async function DexPage({ params }: { params: Promise<{ locale: string }> }) {
+export default async function DexPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
 
@@ -35,9 +40,14 @@ export default async function DexPage({ params }: { params: Promise<{ locale: st
       <header className="grid gap-6 border-b border-[var(--line-strong)] pb-10 sm:grid-cols-[1fr_auto] sm:items-end">
         <div>
           <p className="eyebrow">
-            {entries.length} {locale === "zh" ? "则神名与异闻，仍待后人续录" : "OLD NAMES & STRANGE TALES · THE CODEX REMAINS OPEN"}
+            {entries.length}{" "}
+            {locale === "zh"
+              ? "则神名与异闻，仍待后人续录"
+              : "OLD NAMES & STRANGE TALES · THE CODEX REMAINS OPEN"}
           </p>
-          <h1 className="mt-3 text-6xl leading-none sm:text-8xl">{dict.dex.title[locale]}</h1>
+          <h1 className="mt-3 text-6xl leading-none sm:text-8xl">
+            {dict.dex.title[locale]}
+          </h1>
         </div>
         <p className="max-w-sm text-vellum-dim sm:text-right">
           {locale === "zh"
@@ -45,10 +55,19 @@ export default async function DexPage({ params }: { params: Promise<{ locale: st
             : "Read by mythic lineage, remembered age, or manifested form—or inscribe a true name and call it forth."}
         </p>
       </header>
+      <Link className="dex-trail-link" href={`/${locale}/themes/foxes`}>
+        {locale === "zh"
+          ? "不知道从哪里读起？从东亚狐传说开始"
+          : "Looking for a starting point? Follow the foxes of East Asia"}
+      </Link>
       <div className="pt-10">
-      <Suspense fallback={null}>
-        <DexBrowser entries={entries} traditions={traditions} locale={locale} />
-      </Suspense>
+        <Suspense fallback={null}>
+          <DexBrowser
+            entries={entries}
+            traditions={traditions}
+            locale={locale}
+          />
+        </Suspense>
       </div>
     </div>
   );

@@ -60,7 +60,7 @@ for (const file of localImages) {
 const duplicateImages = [...hashes.values()].filter((group) => group.length > 1);
 
 console.log(`Content audit — ${entries.length} entries`);
-console.log(`${imageNames.size} attributed images · ${missingImages.length} entries without historical images`);
+console.log(`${imageNames.size} attributed images · ${missingImages.length} entries without primary images`);
 console.log(`${singleSource.length} entries with one source · ${dangling.length} dangling references`);
 console.log(`${missingFiles.length + missingCoverFiles.length} missing image files · ${orphanImages.length} orphan images · ${duplicateImages.length} duplicate image groups`);
 console.log(`${suspicious.length} flagged editorial phrases`);
