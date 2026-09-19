@@ -5,6 +5,11 @@
 [id^="trail-"] {
   scroll-margin-top: 7rem;
 }
+.atlas-earth-link, .origins-comparison-link {
+  margin: 1rem 0 2rem;
+  color: var(--brass);
+  font-size: .9rem;
+}
 .journey-hero {
   display: grid;
   grid-template-columns: 1.15fr 1fr;

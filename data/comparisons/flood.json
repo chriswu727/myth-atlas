@@ -1,0 +1,785 @@
+{
+  "id": "flood",
+  "steps": [
+    {
+      "id": "cause",
+      "title": {
+        "zh": "缘由",
+        "en": "The cause"
+      },
+      "question": {
+        "zh": "水为什么成为灾难？",
+        "en": "Why does the flood happen?"
+      }
+    },
+    {
+      "id": "warning",
+      "title": {
+        "zh": "转折",
+        "en": "The turning point"
+      },
+      "question": {
+        "zh": "谁得到消息，谁开始行动？",
+        "en": "Who is warned, or takes action?"
+      }
+    },
+    {
+      "id": "refuge",
+      "title": {
+        "zh": "保存生命",
+        "en": "Keeping life"
+      },
+      "question": {
+        "zh": "人们如何渡过灾难？",
+        "en": "How do people survive?"
+      }
+    },
+    {
+      "id": "deluge",
+      "title": {
+        "zh": "水中的世界",
+        "en": "A world in water"
+      },
+      "question": {
+        "zh": "洪水改变了什么？",
+        "en": "What does the water change?"
+      }
+    },
+    {
+      "id": "recede",
+      "title": {
+        "zh": "水退之后",
+        "en": "When water recedes"
+      },
+      "question": {
+        "zh": "如何重新接近土地？",
+        "en": "How does land become accessible?"
+      }
+    },
+    {
+      "id": "renewal",
+      "title": {
+        "zh": "此后的生活",
+        "en": "Life afterwards"
+      },
+      "question": {
+        "zh": "故事怎样走向新的生活？",
+        "en": "What kind of future follows?"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": "divine",
+      "label": {
+        "zh": "神明的决定",
+        "en": "Divine decision"
+      }
+    },
+    {
+      "id": "warning",
+      "label": {
+        "zh": "提前获知",
+        "en": "Advance warning"
+      }
+    },
+    {
+      "id": "vessel",
+      "label": {
+        "zh": "舟船庇护",
+        "en": "Shelter in a vessel"
+      }
+    },
+    {
+      "id": "kin",
+      "label": {
+        "zh": "家人同行",
+        "en": "Family together"
+      }
+    },
+    {
+      "id": "animals",
+      "label": {
+        "zh": "保存动物",
+        "en": "Animals preserved"
+      }
+    },
+    {
+      "id": "flood",
+      "label": {
+        "zh": "大水泛滥",
+        "en": "Flooded land"
+      }
+    },
+    {
+      "id": "mountain",
+      "label": {
+        "zh": "山地停泊",
+        "en": "Mountain landing"
+      }
+    },
+    {
+      "id": "birds",
+      "label": {
+        "zh": "放鸟探水",
+        "en": "Birds test the water"
+      }
+    },
+    {
+      "id": "offering",
+      "label": {
+        "zh": "灾后献祭",
+        "en": "Offering after the flood"
+      }
+    },
+    {
+      "id": "people",
+      "label": {
+        "zh": "人类延续",
+        "en": "Human continuity"
+      }
+    },
+    {
+      "id": "works",
+      "label": {
+        "zh": "疏导水流",
+        "en": "Channeling water"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "gilgamesh-xi",
+      "title": {
+        "zh": "《吉尔伽美什史诗》第十一泥板 · Kovacs 译本",
+        "en": "Gilgamesh, Tablet XI · Kovacs translation"
+      },
+      "url": "https://www.sjsu.edu/people/cynthia.rostankowski/courses/HUM177AF17/Lecture%2001%20Epic%20of%20Gilgamesh%20-%20Tablet%20XI.pdf"
+    },
+    {
+      "id": "genesis",
+      "title": {
+        "zh": "《创世记》6–9章 · KJV 英译",
+        "en": "Genesis 6–9 · King James Version"
+      },
+      "url": "https://www.biblegateway.com/passage/?search=Genesis%206-9&version=KJV"
+    },
+    {
+      "id": "apollodorus",
+      "title": {
+        "zh": "伪阿波罗多洛斯《书库》1.7.2 · Frazer 译本",
+        "en": "Pseudo-Apollodorus, Library 1.7.2 · Frazer translation"
+      },
+      "url": "https://www.theoi.com/Text/Apollodorus1.html#7"
+    },
+    {
+      "id": "mencius",
+      "title": {
+        "zh": "《孟子·滕文公上》3A.4 · 南京博物院录文",
+        "en": "Mencius 3A.4 · Nanjing Museum text"
+      },
+      "url": "https://www.njmuseum.com/files/wshl/rbbook/gb/13/13/mz_005.htm"
+    }
+  ],
+  "stories": [
+    {
+      "id": "utnapishtim",
+      "tradition": "mesopotamian",
+      "name": {
+        "zh": "两河",
+        "en": "Mesopotamia"
+      },
+      "account": {
+        "zh": "乌特纳皮什提的回忆",
+        "en": "Utnapishtim remembers"
+      },
+      "color": "#315e60",
+      "entries": [
+        "mesopotamian-flood",
+        "gilgamesh"
+      ],
+      "note": {
+        "zh": "选取《吉尔伽美什》第十一泥板。这里没有把《阿特拉哈西斯》中“人声扰神”的动机补进来。",
+        "en": "This reading follows Tablet XI, without importing the noise motive from Atrahasis."
+      },
+      "events": [
+        {
+          "id": "utnapishtim-cause",
+          "step": "cause",
+          "title": {
+            "zh": "众神决意降洪水",
+            "en": "The gods decide"
+          },
+          "text": {
+            "zh": "本篇开头记录众神的决定，没有在此交代发动洪水的具体缘由。",
+            "en": "The gods resolve to send a flood; this opening does not explain their motive."
+          },
+          "status": "attested",
+          "tags": [
+            "divine"
+          ],
+          "source": "gilgamesh-xi",
+          "locator": {
+            "zh": "XI · PDF p. 1",
+            "en": "XI · PDF p. 1"
+          }
+        },
+        {
+          "id": "utnapishtim-warning",
+          "step": "warning",
+          "title": {
+            "zh": "埃阿向芦墙泄露消息",
+            "en": "Ea speaks to the wall"
+          },
+          "text": {
+            "zh": "埃阿向芦墙传话，乌特纳皮什提由此获知造船保全生命的办法。",
+            "en": "Ea addresses the reed wall, letting Utnapishtim learn how to preserve life."
+          },
+          "status": "attested",
+          "tags": [
+            "warning"
+          ],
+          "source": "gilgamesh-xi",
+          "locator": {
+            "zh": "XI · PDF p. 1",
+            "en": "XI · PDF p. 1"
+          }
+        },
+        {
+          "id": "utnapishtim-refuge",
+          "step": "refuge",
+          "title": {
+            "zh": "亲眷、工匠与动物登船",
+            "en": "A boat for living beings"
+          },
+          "text": {
+            "zh": "他让亲眷、工匠和动物上船，封闭入口。",
+            "en": "He boards his kin, craftspeople and animals, then seals the entrance."
+          },
+          "status": "attested",
+          "tags": [
+            "vessel",
+            "kin",
+            "animals"
+          ],
+          "source": "gilgamesh-xi",
+          "locator": {
+            "zh": "XI · PDF pp. 1–2",
+            "en": "XI · PDF pp. 1–2"
+          }
+        },
+        {
+          "id": "utnapishtim-deluge",
+          "step": "deluge",
+          "title": {
+            "zh": "风暴席卷，众神也惊惧",
+            "en": "The gods fear the storm"
+          },
+          "text": {
+            "zh": "风暴淹没大地，众神惊惧退避；幸存者面对灾后的死寂。",
+            "en": "The storm overwhelms the land. Even the gods retreat in fear."
+          },
+          "status": "attested",
+          "tags": [
+            "flood"
+          ],
+          "source": "gilgamesh-xi",
+          "locator": {
+            "zh": "XI · PDF pp. 2–3",
+            "en": "XI · PDF pp. 2–3"
+          }
+        },
+        {
+          "id": "utnapishtim-recede",
+          "step": "recede",
+          "title": {
+            "zh": "山上停船，放鸟探水",
+            "en": "A mountain and three birds"
+          },
+          "text": {
+            "zh": "船停在尼穆什山；鸽子和燕子飞回，乌鸦没有返回。",
+            "en": "The boat rests on Mount Nimush. A dove and swallow return; a raven does not."
+          },
+          "status": "attested",
+          "tags": [
+            "mountain",
+            "birds"
+          ],
+          "source": "gilgamesh-xi",
+          "locator": {
+            "zh": "XI · PDF p. 3",
+            "en": "XI · PDF p. 3"
+          }
+        },
+        {
+          "id": "utnapishtim-renewal",
+          "step": "renewal",
+          "title": {
+            "zh": "献祭之后，夫妇获得永生",
+            "en": "An exceptional immortality"
+          },
+          "text": {
+            "zh": "他献祭，随后与妻子获赐如神的生命，远居诸河之口。",
+            "en": "After an offering, he and his wife receive godlike life far away."
+          },
+          "status": "attested",
+          "tags": [
+            "offering"
+          ],
+          "source": "gilgamesh-xi",
+          "locator": {
+            "zh": "XI · PDF pp. 3–4",
+            "en": "XI · PDF pp. 3–4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "noah",
+      "tradition": "abrahamic",
+      "name": {
+        "zh": "希伯来《创世记》",
+        "en": "Hebrew Genesis"
+      },
+      "account": {
+        "zh": "诺亚与方舟",
+        "en": "Noah and the ark"
+      },
+      "color": "#80592f",
+      "entries": [
+        "noahs-ark"
+      ],
+      "note": {
+        "zh": "选取《创世记》6–9章；这一列不概括《古兰经》的努哈叙事，也不把所有亚伯拉罕传统视为同一版本。",
+        "en": "This column follows Genesis 6–9, rather than combining it with the Quranic account of Nuh."
+      },
+      "events": [
+        {
+          "id": "noah-cause",
+          "step": "cause",
+          "title": {
+            "zh": "世界充满强暴",
+            "en": "A world filled with violence"
+          },
+          "text": {
+            "zh": "叙事把灾难与人类的罪恶、地上的强暴联系起来，神决定毁灭有血肉的生命。",
+            "en": "Human wickedness and violence precede God's decision to destroy living flesh."
+          },
+          "status": "attested",
+          "tags": [
+            "divine"
+          ],
+          "source": "genesis",
+          "locator": {
+            "zh": "Genesis 6:5–13",
+            "en": "Genesis 6:5–13"
+          }
+        },
+        {
+          "id": "noah-warning",
+          "step": "warning",
+          "title": {
+            "zh": "诺亚领受造舟指示",
+            "en": "Noah is instructed"
+          },
+          "text": {
+            "zh": "诺亚被告知将有洪水，并得到造方舟、储备食物和保全生命的指示。",
+            "en": "Noah receives warning of the flood and instructions for an ark, provisions and living creatures."
+          },
+          "status": "attested",
+          "tags": [
+            "warning"
+          ],
+          "source": "genesis",
+          "locator": {
+            "zh": "Genesis 6:14–22",
+            "en": "Genesis 6:14–22"
+          }
+        },
+        {
+          "id": "noah-refuge",
+          "step": "refuge",
+          "title": {
+            "zh": "一家人与各类活物",
+            "en": "A family and other creatures"
+          },
+          "text": {
+            "zh": "诺亚携妻子、三个儿子及儿媳进入方舟，动物也被带入其中。",
+            "en": "Noah, his wife, sons and daughters-in-law enter the ark, together with animals."
+          },
+          "status": "attested",
+          "tags": [
+            "vessel",
+            "kin",
+            "animals"
+          ],
+          "source": "genesis",
+          "locator": {
+            "zh": "Genesis 7:7–16",
+            "en": "Genesis 7:7–16"
+          }
+        },
+        {
+          "id": "noah-deluge",
+          "step": "deluge",
+          "title": {
+            "zh": "泉源与天窗一同打开",
+            "en": "The deep and the heavens open"
+          },
+          "text": {
+            "zh": "大渊的泉源裂开，雨降四十昼夜；叙事中的高山被洪水覆盖。",
+            "en": "The deep breaks open and rain falls for forty days and nights, covering the mountains."
+          },
+          "status": "attested",
+          "tags": [
+            "flood"
+          ],
+          "source": "genesis",
+          "locator": {
+            "zh": "Genesis 7:11–24",
+            "en": "Genesis 7:11–24"
+          }
+        },
+        {
+          "id": "noah-recede",
+          "step": "recede",
+          "title": {
+            "zh": "亚拉腊群山与橄榄叶",
+            "en": "Ararat and the olive leaf"
+          },
+          "text": {
+            "zh": "方舟停在亚拉腊群山。诺亚放出乌鸦，又多次放出鸽子，观察水退的迹象。",
+            "en": "The ark rests on the mountains of Ararat. Noah releases a raven and repeatedly a dove to test conditions."
+          },
+          "status": "attested",
+          "tags": [
+            "mountain",
+            "birds"
+          ],
+          "source": "genesis",
+          "locator": {
+            "zh": "Genesis 8:4–12",
+            "en": "Genesis 8:4–12"
+          }
+        },
+        {
+          "id": "noah-renewal",
+          "step": "renewal",
+          "title": {
+            "zh": "虹成为立约的记号",
+            "en": "A covenant marked by a rainbow"
+          },
+          "text": {
+            "zh": "出舟献祭之后，神赐福一家人繁衍，并以虹作为与一切有血肉者立约的记号。",
+            "en": "An offering is followed by a blessing to multiply and a covenant with living creatures, marked by a rainbow."
+          },
+          "status": "attested",
+          "tags": [
+            "offering",
+            "people"
+          ],
+          "source": "genesis",
+          "locator": {
+            "zh": "Genesis 8:20–9:17",
+            "en": "Genesis 8:20–9:17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "deucalion",
+      "tradition": "greek",
+      "name": {
+        "zh": "希腊",
+        "en": "Greece"
+      },
+      "account": {
+        "zh": "丢卡利翁与皮拉",
+        "en": "Deucalion and Pyrrha"
+      },
+      "color": "#514974",
+      "entries": [
+        "prometheus",
+        "zeus"
+      ],
+      "note": {
+        "zh": "选取《书库》1.7.2。抛石的指示依照本篇的宙斯版本；不混入奥维德以忒弥斯神谕讲述的版本。",
+        "en": "This follows Library 1.7.2, where Zeus directs the stone-casting, rather than Ovid's version involving Themis."
+      },
+      "events": [
+        {
+          "id": "deucalion-cause",
+          "step": "cause",
+          "title": {
+            "zh": "宙斯要终结青铜种族",
+            "en": "Zeus ends the bronze race"
+          },
+          "text": {
+            "zh": "本篇说宙斯想要毁灭青铜种族，没有在这段里展开一套具体罪行。",
+            "en": "Zeus intends to destroy the bronze race; this passage does not detail particular offenses."
+          },
+          "status": "attested",
+          "tags": [
+            "divine"
+          ],
+          "source": "apollodorus",
+          "locator": {
+            "zh": "Library 1.7.2",
+            "en": "Library 1.7.2"
+          }
+        },
+        {
+          "id": "deucalion-warning",
+          "step": "warning",
+          "title": {
+            "zh": "普罗米修斯给出建议",
+            "en": "Prometheus gives advice"
+          },
+          "text": {
+            "zh": "丢卡利翁听从父亲普罗米修斯的建议，准备木箱与给养。",
+            "en": "Deucalion follows his father Prometheus' advice and prepares a chest with provisions."
+          },
+          "status": "attested",
+          "tags": [
+            "warning"
+          ],
+          "source": "apollodorus",
+          "locator": {
+            "zh": "Library 1.7.2",
+            "en": "Library 1.7.2"
+          }
+        },
+        {
+          "id": "deucalion-refuge",
+          "step": "refuge",
+          "title": {
+            "zh": "夫妇藏身木箱",
+            "en": "A couple in a chest"
+          },
+          "text": {
+            "zh": "丢卡利翁与妻子皮拉进入木箱。所选段落没有写他们携带各类动物。",
+            "en": "Deucalion and Pyrrha enter the chest. This passage does not describe boarding animals."
+          },
+          "status": "attested",
+          "tags": [
+            "vessel",
+            "kin"
+          ],
+          "source": "apollodorus",
+          "locator": {
+            "zh": "Library 1.7.2",
+            "en": "Library 1.7.2"
+          }
+        },
+        {
+          "id": "deucalion-deluge",
+          "step": "deluge",
+          "title": {
+            "zh": "多数人毁灭，亦有登山者",
+            "en": "Destruction and other survivors"
+          },
+          "text": {
+            "zh": "雨水淹没希腊大部分地区；本篇也提到少数人逃上附近高山。",
+            "en": "Rain inundates much of Greece; the account also mentions a few people escaping to nearby mountains."
+          },
+          "status": "attested",
+          "tags": [
+            "flood"
+          ],
+          "source": "apollodorus",
+          "locator": {
+            "zh": "Library 1.7.2",
+            "en": "Library 1.7.2"
+          }
+        },
+        {
+          "id": "deucalion-recede",
+          "step": "recede",
+          "title": {
+            "zh": "九昼夜后到达帕耳那索斯",
+            "en": "Nine days to Parnassus"
+          },
+          "text": {
+            "zh": "夫妇漂流九昼夜，抵达帕耳那索斯山，雨停后离开木箱。",
+            "en": "After nine days and nights afloat, they reach Parnassus and leave the chest when the rain stops."
+          },
+          "status": "attested",
+          "tags": [
+            "mountain"
+          ],
+          "source": "apollodorus",
+          "locator": {
+            "zh": "Library 1.7.2",
+            "en": "Library 1.7.2"
+          }
+        },
+        {
+          "id": "deucalion-renewal",
+          "step": "renewal",
+          "title": {
+            "zh": "身后的石头变成人",
+            "en": "Stones become people"
+          },
+          "text": {
+            "zh": "丢卡利翁献祭并请求得到人类；依照宙斯的指示，夫妇把石头抛到身后，石头成为男女。",
+            "en": "After an offering and a request for people, the couple follow Zeus' direction: stones cast behind them become men and women."
+          },
+          "status": "attested",
+          "tags": [
+            "offering",
+            "people"
+          ],
+          "source": "apollodorus",
+          "locator": {
+            "zh": "Library 1.7.2",
+            "en": "Library 1.7.2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yu",
+      "tradition": "chinese",
+      "name": {
+        "zh": "中国",
+        "en": "China"
+      },
+      "account": {
+        "zh": "《孟子》中的禹治水",
+        "en": "Yu in the Mencius"
+      },
+      "color": "#913e32",
+      "entries": [
+        "da-yu"
+      ],
+      "note": {
+        "zh": "选取《孟子·滕文公上》的一段治水叙事。它从已经泛滥的洪水讲起，依靠治理恢复生活；此处不拼接共工触山、女娲补天或其他版本。",
+        "en": "This passage begins with an existing flood and restores livelihood through public works. Other Chinese flood accounts remain separate."
+      },
+      "events": [
+        {
+          "id": "yu-deluge",
+          "step": "deluge",
+          "title": {
+            "zh": "洪水横流，五谷不登",
+            "en": "Flooded land, failed crops"
+          },
+          "text": {
+            "zh": "故事从尧时的水患讲起：洪水泛滥，草木禽兽繁盛，人的耕作与居处受到威胁。",
+            "en": "The account opens with flooding in Yao's time. Crops fail and wildlife threatens human habitation."
+          },
+          "status": "attested",
+          "tags": [
+            "flood"
+          ],
+          "source": "mencius",
+          "locator": {
+            "zh": "Mencius 3A.4",
+            "en": "Mencius 3A.4"
+          }
+        },
+        {
+          "id": "yu-cause",
+          "step": "cause",
+          "title": {
+            "zh": "本段未说明洪水的起因",
+            "en": "No cause given here"
+          },
+          "text": {
+            "zh": "这一段没有把洪水解释为神明对人类的惩罚，也没有描述一次降水的命令。",
+            "en": "This passage supplies neither a divine punishment nor a command to release the flood."
+          },
+          "status": "not-stated",
+          "tags": [],
+          "source": "mencius",
+          "locator": {
+            "zh": "Mencius 3A.4",
+            "en": "Mencius 3A.4"
+          }
+        },
+        {
+          "id": "yu-warning",
+          "step": "warning",
+          "title": {
+            "zh": "尧举舜，着手治理",
+            "en": "Yao appoints Shun"
+          },
+          "text": {
+            "zh": "行动发生在水患已经出现之后：尧为此忧虑，举用舜来治理。",
+            "en": "Action follows the existing disaster: a concerned Yao appoints Shun to address it."
+          },
+          "status": "attested",
+          "tags": [],
+          "source": "mencius",
+          "locator": {
+            "zh": "Mencius 3A.4",
+            "en": "Mencius 3A.4"
+          }
+        },
+        {
+          "id": "yu-refuge",
+          "step": "refuge",
+          "title": {
+            "zh": "疏河治水，保全生计",
+            "en": "Making the land habitable"
+          },
+          "text": {
+            "zh": "禹疏导河道，将水引向江海。这段叙事的重点是恢复可居可耕的土地。",
+            "en": "Yu channels the waters toward rivers and seas, restoring land for habitation and farming."
+          },
+          "status": "attested",
+          "tags": [
+            "works"
+          ],
+          "source": "mencius",
+          "locator": {
+            "zh": "Mencius 3A.4",
+            "en": "Mencius 3A.4"
+          }
+        },
+        {
+          "id": "yu-recede",
+          "step": "recede",
+          "title": {
+            "zh": "疏导水流通向江海",
+            "en": "Giving water a course"
+          },
+          "text": {
+            "zh": "水患通过疏导得到治理；这里没有以船搁浅、鸟不返回来判断水退的环节。",
+            "en": "Channeling resolves the flooding. This passage has no boat landing or bird test."
+          },
+          "status": "attested",
+          "tags": [
+            "works"
+          ],
+          "source": "mencius",
+          "locator": {
+            "zh": "Mencius 3A.4",
+            "en": "Mencius 3A.4"
+          }
+        },
+        {
+          "id": "yu-renewal",
+          "step": "renewal",
+          "title": {
+            "zh": "土地重新供人耕食",
+            "en": "People can cultivate again"
+          },
+          "text": {
+            "zh": "治理之后，人们得以耕食；下文接着讲后稷教民种植五谷。",
+            "en": "People can obtain food from the land again; the text continues with Hou Ji teaching cultivation."
+          },
+          "status": "attested",
+          "tags": [
+            "people"
+          ],
+          "source": "mencius",
+          "locator": {
+            "zh": "Mencius 3A.4",
+            "en": "Mencius 3A.4"
+          }
+        }
+      ]
+    }
+  ]
+}

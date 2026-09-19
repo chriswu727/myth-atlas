@@ -104,16 +104,16 @@ export default async function Home({
           </p>
           <p>
             {zh
-              ? "循地图寻找故事，翻阅诸神与异兽，比较不同文明如何讲述世界的开端。"
-              : "Find a story on the map. Meet its gods and creatures. Discover how different traditions imagine a beginning."}
+              ? "把不同地方的神话放在一起，沿着创世、灾难与新生，发现故事之间的呼应。"
+              : "Read myths from different places together. Follow creation, catastrophe and renewal to discover echoes between stories."}
           </p>
           <div className="journey-actions">
-            <a className="button-primary" href="#atlas">
+            <Link className="button-primary" href={`/${locale}/compare`}>
+              {zh ? "比较神话的过程" : "Compare the stories"}
+            </Link>
+            <a className="button-secondary" href="#atlas">
               {zh ? "开始探索地图" : "Explore the atlas"}
             </a>
-            <Link className="button-secondary" href={`/${locale}/cosmogony`}>
-              {zh ? "阅读创世故事" : "Read the origins"}
-            </Link>
           </div>
           <p className="journey-inventory">
             {entries.length} {zh ? "个双语条目" : "bilingual records"}
@@ -173,6 +173,13 @@ export default async function Home({
         >
           <WorldMap traditions={mapTraditions} pins={mapPins} locale={locale} />
         </Suspense>
+        <p className="atlas-earth-link">
+          <Link href={`/${locale}/earth`}>
+            {zh
+              ? "大陆曾经相连：从泛大陆到今天的世界 →"
+              : "When continents were joined: from Pangaea to today's world →"}
+          </Link>
+        </p>
       </section>
 
       <section className="journey-trails">
@@ -188,15 +195,15 @@ export default async function Home({
           </p>
           <span>{zh ? "打开专题" : "Open the reading trail"}</span>
         </Link>
-        <Link href={`/${locale}/cosmogony?story=greek`}>
+        <Link href={`/${locale}/compare`}>
           <p className="eyebrow">
-            03 / {zh ? "回到世界的开端" : "BEFORE THE WORLD"}
+            03 / {zh ? "比较一个过程" : "COMPARE A SEQUENCE"}
           </p>
-          <h2>{zh ? "裂口，还是一枚银卵？" : "A chasm, or a silver egg?"}</h2>
+          <h2>{zh ? "洪水之后，世界如何继续？" : "What follows the flood?"}</h2>
           <p>
             {zh
-              ? "希腊创世留下不止一种开端。选择一条叙事，再看看另一种讲法。"
-              : "Greek sources preserve more than one beginning. Follow one account, then discover its alternatives."}
+              ? "舟船、山地、放鸟与重建。把四则叙事沿着同一组问题展开，看看它们在哪里相遇，又在哪里分开。"
+              : "Vessels, mountains, birds and renewal. Align four accounts around shared questions and discover where their paths diverge."}
           </p>
           <span>{zh ? "阅读与比较" : "Read and compare"}</span>
         </Link>
