@@ -1,0 +1,383 @@
+{
+  "id": "sunken-worlds",
+  "steps": [
+    {
+      "id": "world",
+      "title": {
+        "zh": "繁盛的世界",
+        "en": "A flourishing world"
+      },
+      "question": {
+        "zh": "失去的地方原来是什么样？",
+        "en": "What kind of place is lost?"
+      }
+    },
+    {
+      "id": "cause",
+      "title": {
+        "zh": "灾变的缘由",
+        "en": "The turning point"
+      },
+      "question": {
+        "zh": "故事怎样解释世界的破裂？",
+        "en": "How does the account explain the rupture?"
+      }
+    },
+    {
+      "id": "loss",
+      "title": {
+        "zh": "陆地消失",
+        "en": "Land disappears"
+      },
+      "question": {
+        "zh": "灾难如何改变熟悉的地理？",
+        "en": "How does catastrophe reshape the land?"
+      }
+    },
+    {
+      "id": "survival",
+      "title": {
+        "zh": "谁留下来",
+        "en": "Who remains?"
+      },
+      "question": {
+        "zh": "文本有没有交代幸存者？",
+        "en": "Does the text describe survivors?"
+      }
+    },
+    {
+      "id": "after",
+      "title": {
+        "zh": "此后的世界",
+        "en": "What follows?"
+      },
+      "question": {
+        "zh": "沉没之后，还有重建或记忆吗？",
+        "en": "Does rebuilding or remembrance follow?"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": "wealth",
+      "label": {
+        "zh": "繁盛的国度",
+        "en": "Prosperous realm"
+      }
+    },
+    {
+      "id": "earthquake",
+      "label": {
+        "zh": "地震",
+        "en": "Earthquake"
+      }
+    },
+    {
+      "id": "engulfed",
+      "label": {
+        "zh": "海水吞没陆地",
+        "en": "Land engulfed by sea"
+      }
+    },
+    {
+      "id": "islands",
+      "label": {
+        "zh": "残存岛屿",
+        "en": "Surviving islands"
+      }
+    },
+    {
+      "id": "judgment",
+      "label": {
+        "zh": "神的裁决",
+        "en": "Divine judgment"
+      }
+    },
+    {
+      "id": "memory",
+      "label": {
+        "zh": "故事被传述",
+        "en": "Story transmitted"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "churchward-1931",
+      "title": {
+        "zh": "丘奇沃德《消失的姆大陆》（1931）· 数字转录本",
+        "en": "Churchward, The Lost Continent of Mu (1931) · digital transcription"
+      },
+      "url": "https://www.withbecca.com/uploads/1/3/7/9/1379727/lost_continent_mu_churchward_1931.pdf"
+    },
+    {
+      "id": "plato-timaeus",
+      "title": {
+        "zh": "柏拉图《蒂迈欧篇》· Jowett 英译",
+        "en": "Plato, Timaeus · translated by Jowett"
+      },
+      "url": "https://classics.mit.edu/Plato/timaeus.html"
+    },
+    {
+      "id": "plato-critias",
+      "title": {
+        "zh": "柏拉图《克里提亚篇》· Jowett 英译",
+        "en": "Plato, Critias · translated by Jowett"
+      },
+      "url": "https://classics.mit.edu/Plato/critias.html"
+    }
+  ],
+  "stories": [
+    {
+      "id": "mu",
+      "tradition": "lost-lands",
+      "name": {
+        "zh": "姆大陆",
+        "en": "Mu"
+      },
+      "account": {
+        "zh": "丘奇沃德 · 1931 年版本",
+        "en": "Churchward · 1931 account"
+      },
+      "note": {
+        "zh": "这是近代作者的叙述，不能当作太平洋原住民共有的古老神话或地质记录。所链为数字转录本，定位采用其 PDF 页码。",
+        "en": "A modern author’s account, not an established geological record or a shared ancient Pacific tradition. Locators use the linked transcription’s PDF pages."
+      },
+      "color": "#416e79",
+      "entries": [
+        "mu"
+      ],
+      "events": [
+        {
+          "id": "mu-world",
+          "step": "world",
+          "title": {
+            "zh": "海洋中央的文明",
+            "en": "Civilization amid the ocean"
+          },
+          "text": {
+            "zh": "丘奇沃德把姆描绘为太平洋上的繁盛大陆。",
+            "en": "Churchward imagines a prosperous Pacific continent."
+          },
+          "status": "attested",
+          "tags": [
+            "wealth"
+          ],
+          "source": "churchward-1931",
+          "locator": {
+            "zh": "第 2 章；PDF 第 23–25 页",
+            "en": "Chapter 2; PDF pp. 23–25"
+          }
+        },
+        {
+          "id": "mu-cause",
+          "step": "cause",
+          "title": {
+            "zh": "灾变之后，再次灾变",
+            "en": "Catastrophe returns"
+          },
+          "text": {
+            "zh": "书中先写地震与火山，随后重建城市；数代之后，灾变再临。",
+            "en": "Earthquakes and eruptions precede rebuilding; generations later, catastrophe returns."
+          },
+          "status": "attested",
+          "tags": [
+            "earthquake"
+          ],
+          "source": "churchward-1931",
+          "locator": {
+            "zh": "第 2 章；PDF 第 25–26 页",
+            "en": "Chapter 2; PDF pp. 25–26"
+          }
+        },
+        {
+          "id": "mu-loss",
+          "step": "loss",
+          "title": {
+            "zh": "一夜之间沉入海中",
+            "en": "A night of submergence"
+          },
+          "text": {
+            "zh": "大陆在夜里碎裂下沉，海水覆盖原来的土地。",
+            "en": "The land breaks apart at night and the ocean engulfs it."
+          },
+          "status": "attested",
+          "tags": [
+            "engulfed"
+          ],
+          "source": "churchward-1931",
+          "locator": {
+            "zh": "第 2 章；PDF 第 26 页",
+            "en": "Chapter 2; PDF p. 26"
+          }
+        },
+        {
+          "id": "mu-survival",
+          "step": "survival",
+          "title": {
+            "zh": "留在残存岛屿上的人",
+            "en": "People on the remaining islands"
+          },
+          "text": {
+            "zh": "少数人逃到露出水面的土地，却面临饥饿与匮乏。",
+            "en": "A few reach remaining islands, facing hunger and deprivation."
+          },
+          "status": "attested",
+          "tags": [
+            "islands"
+          ],
+          "source": "churchward-1931",
+          "locator": {
+            "zh": "第 2 章；PDF 第 26–27 页",
+            "en": "Chapter 2; PDF pp. 26–27"
+          }
+        },
+        {
+          "id": "mu-after",
+          "step": "after",
+          "title": {
+            "zh": "幸存未必就是新生",
+            "en": "Survival without renewal"
+          },
+          "text": {
+            "zh": "结尾强调文明与记忆的衰退，没有转向繁荣重建。",
+            "en": "The aftermath emphasizes cultural loss and fading memory, not renewed prosperity."
+          },
+          "status": "attested",
+          "tags": [],
+          "source": "churchward-1931",
+          "locator": {
+            "zh": "第 2 章末；PDF 第 27–28 页",
+            "en": "End of chapter 2; PDF pp. 27–28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "atlantis",
+      "tradition": "lost-lands",
+      "name": {
+        "zh": "亚特兰蒂斯",
+        "en": "Atlantis"
+      },
+      "account": {
+        "zh": "柏拉图 · 公元前 4 世纪",
+        "en": "Plato · fourth century BCE"
+      },
+      "note": {
+        "zh": "本站合读两篇对话，按灾变过程排列。《克里提亚篇》止于宙斯将要发言，沉没描述见《蒂迈欧篇》；不补入后世的逃亡与殖民传说。",
+        "en": "The two dialogues are read together and arranged as a disaster sequence. Critias ends before Zeus’s speech; Timaeus supplies the sinking. Later escape and colony legends are not added."
+      },
+      "color": "#956044",
+      "entries": [
+        "atlantis"
+      ],
+      "events": [
+        {
+          "id": "atlantis-world",
+          "step": "world",
+          "title": {
+            "zh": "富有而强大的岛屿王国",
+            "en": "A wealthy island power"
+          },
+          "text": {
+            "zh": "波塞冬的后裔统治岛屿，城中有环形水道、宫殿与神庙；丰饶和强盛构成毁灭之前的背景。",
+            "en": "Poseidon’s descendants rule an island with concentric waterways, palaces and temples. Abundance and power precede its loss."
+          },
+          "status": "attested",
+          "tags": [
+            "wealth"
+          ],
+          "source": "plato-critias",
+          "locator": {
+            "zh": "《克里提亚篇》113c–115c",
+            "en": "Critias 113c–115c"
+          }
+        },
+        {
+          "id": "atlantis-cause",
+          "step": "cause",
+          "title": {
+            "zh": "失去节制，等待裁决",
+            "en": "Restraint gives way to judgment"
+          },
+          "text": {
+            "zh": "统治者渐趋贪婪，宙斯召集诸神，准备施以惩戒。文本在他将要发言时中断，未写出具体裁决。",
+            "en": "The rulers grow greedy. Zeus gathers the gods to impose correction; the text breaks off before his speech and does not specify the sentence."
+          },
+          "status": "attested",
+          "tags": [
+            "judgment"
+          ],
+          "source": "plato-critias",
+          "locator": {
+            "zh": "《克里提亚篇》120e–121c",
+            "en": "Critias 120e–121c"
+          }
+        },
+        {
+          "id": "atlantis-loss",
+          "step": "loss",
+          "title": {
+            "zh": "地震、洪水与沉没",
+            "en": "Earthquakes, floods, submergence"
+          },
+          "text": {
+            "zh": "《蒂迈欧篇》另述：亚特兰蒂斯战败之后，地震与洪水来临，岛屿在一日一夜间消失于海中。",
+            "en": "Timaeus separately recounts defeat in war, followed later by earthquakes and floods. The island disappears into the sea within a day and night."
+          },
+          "status": "attested",
+          "tags": [
+            "engulfed",
+            "earthquake"
+          ],
+          "source": "plato-timaeus",
+          "locator": {
+            "zh": "《蒂迈欧篇》25b–25d",
+            "en": "Timaeus 25b–25d"
+          }
+        },
+        {
+          "id": "atlantis-survival",
+          "step": "survival",
+          "title": {
+            "zh": "未交代岛民如何幸存",
+            "en": "Islanders’ survival is unstated"
+          },
+          "text": {
+            "zh": "这两篇对话没有讲述亚特兰蒂斯居民乘船逃亡、建立新文明的过程；这里保留空白。",
+            "en": "These dialogues do not narrate Atlantean inhabitants escaping by boat to found another civilization. That gap remains open."
+          },
+          "status": "not-stated",
+          "tags": [],
+          "source": "plato-timaeus",
+          "locator": {
+            "zh": "《蒂迈欧篇》25c–25d；合读《克里提亚篇》结尾",
+            "en": "Timaeus 25c–25d, read alongside the ending of Critias"
+          }
+        },
+        {
+          "id": "atlantis-after",
+          "step": "after",
+          "title": {
+            "zh": "消失的岛，被讲述的故事",
+            "en": "A vanished island, a transmitted story"
+          },
+          "text": {
+            "zh": "对话以埃及祭司向梭伦讲述旧事作为传述框架。留下的是故事；文本没有安排岛屿重新兴起的结局。",
+            "en": "The dialogue frames the account as a story told to Solon by Egyptian priests. Remembrance remains; the island receives no rebuilding ending."
+          },
+          "status": "attested",
+          "tags": [
+            "memory"
+          ],
+          "source": "plato-timaeus",
+          "locator": {
+            "zh": "《蒂迈欧篇》20d–23e、25d；这是传述框架，非沉没后的新事件",
+            "en": "Timaeus 20d–23e and 25d; a framing narrative, not a new event after the sinking"
+          }
+        }
+      ]
+    }
+  ]
+}

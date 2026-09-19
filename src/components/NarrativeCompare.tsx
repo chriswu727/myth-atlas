@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
+import { usePathname, useSearchParams } from "next/navigation";
 import type { CSSProperties } from "react";
 import {
   comparisonSelection,
@@ -21,6 +21,7 @@ export default function NarrativeCompare({
 }) {
   const zh = locale === "zh";
   const params = useSearchParams();
+  const pathname = usePathname();
   const ids = comparisonSelection(topic, params.get("traditions"));
   const stories = ids.map((id) =>
     topic.stories.find((story) => story.id === id)!,
@@ -29,7 +30,7 @@ export default function NarrativeCompare({
     ? params.get("step")
     : null;
   const view = params.get("view") === "stories" ? "stories" : "compare";
-  const returnTo = `/${locale}/compare${params.size ? `?${params}` : ""}#narratives`;
+  const returnTo = `${pathname}${params.size ? `?${params}` : ""}#narratives`;
 
   function update(key: string, value: string | null) {
     const url = new URL(window.location.href);
@@ -94,9 +95,13 @@ export default function NarrativeCompare({
       <div className="process-controls">
         <fieldset>
           <legend>
-            {zh
-              ? "选择一起阅读的故事 · 至少两则"
-              : "Choose accounts · at least two"}
+            {topic.stories.length === 2
+              ? zh
+                ? "本次并读的两个版本"
+                : "The two accounts compared"
+              : zh
+                ? "选择一起阅读的故事 · 至少两则"
+                : "Choose accounts · at least two"}
           </legend>
           <div className="culture-choices">
             {topic.stories.map((story) => (
@@ -141,11 +146,11 @@ export default function NarrativeCompare({
       <p className="process-guide">
         {view === "compare"
           ? zh
-            ? "横向看同一环节，纵向看故事的变化。↔ 标出当前所选故事共享的细节。各列按比较问题对齐，不代表同时发生；原本的叙述顺序可在「按故事读」中查看。"
-            : "Read across a stage and down through a story. ↔ marks details shared by selected accounts. Rows align questions, not dates; the story view preserves each account's narrative order."
+            ? "横向看同一环节，纵向看故事的变化。↔ 标出当前所选故事在同一环节共享的细节。各列按比较问题对齐，不代表同时发生；「按故事读」可逐则查看整理后的过程。"
+            : "Read across a stage and down through a story. ↔ marks details shared within that stage. Rows align questions, not dates; the story view follows each account’s edited sequence."
           : zh
-            ? "依照所选文本的叙述顺序阅读。没有交代的缘由单独列在最后，不补成一个事件。"
-            : "Follow the selected text's narrative order. An unstated cause is noted separately at the end."}
+            ? "逐则阅读本站依所选文本整理的过程。未交代的环节单独列在最后，不补成一个事件；合读版本的编排方式见「出处与版本」。"
+            : "Read each sequence as edited from the selected texts. Unstated stages appear separately at the end; source notes explain combined accounts."}
       </p>
       {view === "compare" && (
         <nav
@@ -185,7 +190,9 @@ export default function NarrativeCompare({
               >
                 <h2>{story.name[locale]}</h2>
                 <p>{story.account[locale]}</p>
-                <Link href={`/${locale}?realm=${story.tradition}#atlas`}>
+                <Link
+                  href={`/${locale}?realm=${story.tradition}&pin=${story.entries[0]}#atlas`}
+                >
                   {zh ? "在地图上看" : "Find on the map"} ↗
                 </Link>
               </div>
@@ -248,11 +255,13 @@ export default function NarrativeCompare({
         )}
       </div>
       <div className="process-continue">
-        <h2>{zh ? "走近故事里的人物" : "Meet the figures in these stories"}</h2>
+        <h2>{zh ? "继续读完整条目" : "Continue to the full records"}</h2>
         {stories.map((story) => (
           <div key={story.id}>
             <span>{story.account[locale]}</span>
-            <Link href={`/${locale}?realm=${story.tradition}#atlas`}>
+            <Link
+              href={`/${locale}?realm=${story.tradition}&pin=${story.entries[0]}#atlas`}
+            >
               {zh ? "查看所属地区" : "Explore the region"}
             </Link>
             <Link

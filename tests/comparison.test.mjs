@@ -17,24 +17,36 @@ const entries = new Set(
 
 test("every comparison event has a unique stable ID, a valid source and bilingual evidence", () => {
   const ids = new Set();
-  for (const story of topic.stories) {
-    assert.ok(story.entries.every((id) => entries.has(id)));
-    assert.deepEqual(
-      story.events.map((event) => event.step).sort(),
-      topic.steps.map((step) => step.id).sort(),
-    );
-    for (const event of story.events) {
-      assert.ok(!ids.has(event.id), event.id);
-      ids.add(event.id);
-      assert.ok(topic.sources.some((source) => source.id === event.source));
-      assert.ok(
-        event.tags.every((tag) => topic.tags.some((item) => item.id === tag)),
+  const directory = new URL("../data/comparisons/", import.meta.url);
+  for (const file of readdirSync(directory).filter((file) =>
+    file.endsWith(".json"),
+  )) {
+    const comparison = JSON.parse(readFileSync(new URL(file, directory)));
+    for (const source of comparison.sources)
+      assert.equal(new URL(source.url).protocol, "https:");
+    for (const story of comparison.stories) {
+      assert.ok(story.entries.every((id) => entries.has(id)));
+      assert.deepEqual(
+        story.events.map((event) => event.step).sort(),
+        comparison.steps.map((step) => step.id).sort(),
       );
-      for (const field of ["title", "text", "locator"]) {
-        assert.ok(event[field].zh.trim());
-        assert.ok(event[field].en.trim());
+      for (const event of story.events) {
+        assert.ok(!ids.has(event.id), event.id);
+        ids.add(event.id);
+        assert.ok(
+          comparison.sources.some((source) => source.id === event.source),
+        );
+        assert.ok(
+          event.tags.every((tag) =>
+            comparison.tags.some((item) => item.id === tag),
+          ),
+        );
+        for (const field of ["title", "text", "locator"]) {
+          assert.ok(event[field].zh.trim());
+          assert.ok(event[field].en.trim());
+        }
+        if (event.status === "not-stated") assert.equal(event.tags.length, 0);
       }
-      if (event.status === "not-stated") assert.equal(event.tags.length, 0);
     }
   }
 });
@@ -69,4 +81,19 @@ test("comparison alignment leaves Yu's opening disaster and unstated cause intac
     "not-stated",
   );
   assert.ok(!story.events.some((event) => event.tags.includes("vessel")));
+});
+
+test("sunken-world comparison preserves Atlantis’s unstated survival and shares only the sinking motif", () => {
+  const sunken = JSON.parse(
+    readFileSync(
+      new URL("../data/comparisons/sunken-worlds.json", import.meta.url),
+    ),
+  );
+  const atlantis = sunken.stories.find((story) => story.id === "atlantis");
+  assert.equal(
+    atlantis.events.find((event) => event.step === "survival").status,
+    "not-stated",
+  );
+  assert.deepEqual([...sharedTags(sunken.stories, "loss")], ["engulfed"]);
+  assert.equal(sharedTags(sunken.stories, "after").size, 0);
 });

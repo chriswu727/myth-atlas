@@ -29,9 +29,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     });
     urls.push({
-      url: `${BASE}/${locale}/earth`,
+      url: `${BASE}/${locale}/compare/sunken-worlds`,
       changeFrequency: "monthly",
-      priority: 0.7,
+      priority: 0.8,
     });
     urls.push({
       url: `${BASE}/${locale}/themes/foxes`,

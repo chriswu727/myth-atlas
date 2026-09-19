@@ -373,3 +373,81 @@
     gap: 2rem;
   }
 }
+
+.comparison-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: 0.85rem;
+  color: var(--vellum-dim);
+}
+.comparison-topics a[aria-current="page"] {
+  color: var(--ink-well);
+  border-bottom: 2px solid var(--brass);
+  padding-bottom: 0.35rem;
+}
+.sunken-map {
+  align-self: center;
+  border: 1px solid var(--line-strong);
+  padding: 0.65rem;
+  background: var(--paper-pale);
+}
+.sunken-map img {
+  width: 100%;
+  height: auto;
+}
+.sunken-map figcaption {
+  padding: 0.85rem 0.4rem 0.25rem;
+  font-size: 0.75rem;
+  color: var(--vellum-dim);
+  line-height: 1.8;
+}
+.sunken-map figcaption span {
+  display: block;
+  color: var(--ink-well);
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+.sunken-map figcaption a {
+  display: block;
+  margin-top: 0.4rem;
+  color: var(--brass);
+}
+.account-dates {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr;
+  gap: 2rem;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--line-strong);
+}
+.account-dates > div + div {
+  border-left: 2px solid var(--brass);
+  padding-left: 1rem;
+}
+.account-dates span {
+  font-family: var(--font-mono-stack);
+  font-size: 0.85rem;
+  color: var(--brass);
+}
+.account-dates h2 {
+  margin: 0.6rem 0;
+  font-size: 1.1rem;
+}
+.account-dates p:not(.eyebrow) {
+  margin-top: 0.65rem;
+  color: var(--vellum-dim);
+  font-size: 0.85rem;
+  line-height: 1.9;
+}
+.sunken-related {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+@media (max-width: 760px) {
+  .account-dates {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
