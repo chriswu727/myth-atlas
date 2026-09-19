@@ -124,6 +124,7 @@ h1, h2, h3, h4 {
 
 .site-nav-link {
   position: relative;
+  white-space: nowrap;
   color: var(--vellum-dim);
   font-size: 0.84rem;
   letter-spacing: 0.08em;
@@ -1933,7 +1934,7 @@ h1, h2, h3, h4 {
 
   .site-nav {
     width: 100%;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 0;
   }
 

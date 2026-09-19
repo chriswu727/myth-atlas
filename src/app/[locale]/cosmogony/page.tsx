@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import CosmogonyExplorer from "@/components/CosmogonyExplorer";
@@ -55,6 +56,13 @@ export default async function CosmogonyPage({
           </a>
         </div>
       </header>
+      <p className="origins-comparison-link">
+        <Link href={`/${locale}/compare`}>
+          {zh
+            ? "新专题：把洪水、幸存与新生的过程并排来看 →"
+            : "New: compare the sequence of flood, survival and renewal →"}
+        </Link>
+      </p>
       <Suspense
         fallback={
           <div className="atlas-loading">

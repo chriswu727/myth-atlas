@@ -1,0 +1,158 @@
+.earth-page {
+  padding-top: 2rem;
+  max-width: 1120px;
+}
+.earth-header {
+  padding: 2rem 0 3rem;
+}
+.earth-header h1 {
+  font-size: clamp(2.5rem, 4.6vw, 4.5rem);
+  white-space: pre-line;
+  line-height: 1.35;
+  font-weight: 600;
+  margin: 1rem 0 1.5rem;
+}
+.earth-header > p:last-child {
+  max-width: 44rem;
+  color: var(--vellum-dim);
+  font-size: 1.1rem;
+  line-height: 1.9;
+}
+.deep-scale {
+  background: var(--ink-well);
+  color: var(--paper-pale);
+  padding: 2rem;
+}
+.deep-scale-controls {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.deep-scale h2 {
+  font-size: 1.7rem;
+}
+.deep-scale-controls > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.deep-scale button {
+  padding: 0.65rem 1rem;
+  border: 1px solid #f2ead966;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.deep-scale button[aria-pressed="true"] {
+  background: var(--paper-pale);
+  color: var(--ink-well);
+}
+.deep-scale button:focus-visible {
+  outline: 2px solid #e9c38b;
+  outline-offset: 4px;
+}
+.deep-scale > p {
+  margin: 1.2rem 0;
+  line-height: 1.8;
+}
+.deep-scale-bar {
+  height: 2.6rem;
+  background: #f2ead940;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 2rem;
+}
+.deep-scale-bar > div {
+  background: #e9c38b;
+}
+.deep-scale-labels {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.8rem;
+  font-size: 0.75rem;
+}
+.deep-scale .deep-scale-result {
+  color: #e9c38b;
+}
+.deep-scale small {
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+.earth-axis-note {
+  font-size: 0.8rem;
+  color: var(--vellum-dim);
+  margin: 2rem 0;
+}
+.earth-chapters > section {
+  display: grid;
+  grid-template-columns: 15rem 1fr;
+  gap: 3rem;
+  border-top: 1px solid var(--line-strong);
+  padding: 2.5rem 0;
+  scroll-margin-top: 7rem;
+}
+.earth-chapters > section > div:first-child p {
+  margin-top: 0.75rem;
+  color: var(--brass);
+  font-size: 1.1rem;
+}
+.earth-chapters h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.earth-chapters > section > div:last-child p {
+  font-size: 1rem;
+  line-height: 2;
+}
+.earth-chapters a {
+  display: inline-block;
+  font-size: 0.8rem;
+  color: var(--brass);
+  margin-top: 1rem;
+  overflow-wrap: anywhere;
+}
+.earth-reading {
+  padding-top: 2rem;
+  border-top: 1px solid var(--line-strong);
+}
+.earth-reading > h2 {
+  font-size: 2rem;
+}
+.earth-reading > div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+}
+.earth-reading h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.7rem;
+}
+.earth-reading p {
+  font-size: 0.9rem;
+  color: var(--vellum-dim);
+  line-height: 1.9;
+}
+.earth-reading .button-primary {
+  display: inline-flex;
+}
+@media (max-width: 760px) {
+  .earth-chapters > section {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .earth-reading > div {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .deep-scale {
+    padding: 1.3rem;
+  }
+  .deep-scale-controls {
+    display: block;
+  }
+  .deep-scale-controls > div {
+    margin-top: 1rem;
+  }
+}
