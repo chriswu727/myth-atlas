@@ -174,10 +174,10 @@ export default async function Home({
           <WorldMap traditions={mapTraditions} pins={mapPins} locale={locale} />
         </Suspense>
         <p className="atlas-earth-link">
-          <Link href={`/${locale}/earth`}>
+          <Link href={`/${locale}/compare/sunken-worlds`}>
             {zh
-              ? "大陆曾经相连：从泛大陆到今天的世界 →"
-              : "When continents were joined: from Pangaea to today's world →"}
+              ? "陆地沉没之后：并读姆大陆与亚特兰蒂斯 →"
+              : "After the land sinks: read Mu alongside Atlantis →"}
           </Link>
         </p>
       </section>

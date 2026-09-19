@@ -32,6 +32,17 @@ export default async function ComparePage({
   const zh = locale === "zh";
   return (
     <div className="site-shell comparison-page">
+      <nav
+        className="comparison-topics"
+        aria-label={zh ? "对照专题" : "Comparison topics"}
+      >
+        <Link href={`/${locale}/compare`} aria-current="page">
+          {zh ? "01 洪水之后" : "01 After the flood"}
+        </Link>
+        <Link href={`/${locale}/compare/sunken-worlds`}>
+          {zh ? "02 沉没的世界" : "02 Sunken worlds"}
+        </Link>
+      </nav>
       <header className="comparison-hero">
         <div>
           <p className="eyebrow">PATTERNS ACROSS WORLDS / 01</p>
@@ -109,20 +120,20 @@ export default async function ComparePage({
         </div>
         <div>
           <p className="eyebrow">
-            DEEP TIME / {zh ? "大陆与人类" : "LAND AND PEOPLE"}
+            SUNKEN WORLDS / {zh ? "沉没的世界" : "LOST LANDS"}
           </p>
           <h2>
             {zh
-              ? "如果大陆曾经相连呢？"
-              : "What if the continents were once joined?"}
+              ? "如果家园永远沉入海底？"
+              : "What if the homeland never returns?"}
           </h2>
           <p>
             {zh
-              ? "从泛大陆到今天的地理格局，地球有另一条漫长的时间线。先看清地质年代与人类历史的尺度，再把问题带回故事。"
-              : "From Pangaea to today's geography, Earth has its own long timeline. Explore its scale alongside human history, then return to the stories."}
+              ? "姆大陆与亚特兰蒂斯也讲述水下的失落世界。沿着繁盛、灾变、沉没与幸存，看看它们与洪水叙事在哪里相似，又在哪里走向不同的结局。"
+              : "Mu and Atlantis also describe worlds lost beneath water. Follow prosperity, catastrophe, submergence and survival to find echoes of flood narratives and different endings."}
           </p>
-          <Link href={`/${locale}/earth`}>
-            {zh ? "阅读泛大陆与深时" : "Explore Pangaea and deep time"} →
+          <Link href={`/${locale}/compare/sunken-worlds`}>
+            {zh ? "比较姆大陆与亚特兰蒂斯" : "Compare Mu and Atlantis"} →
           </Link>
         </div>
       </section>

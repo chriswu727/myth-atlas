@@ -79,8 +79,8 @@ export default async function LocaleLayout({
             <Link href={`/${locale}/compare`} className="site-nav-link">
               {locale === "zh" ? "神话对照" : "Compare"}
             </Link>
-            <Link href={`/${locale}/earth`} className="site-nav-link">
-              {locale === "zh" ? "大陆与深时" : "Deep time"}
+            <Link href={`/${locale}/compare/sunken-worlds`} className="site-nav-link">
+              {locale === "zh" ? "沉没的世界" : "Sunken worlds"}
             </Link>
             <Link href={`/${locale}/cosmogony`} className="site-nav-link">
               {dict.nav.cosmogony[locale]}
