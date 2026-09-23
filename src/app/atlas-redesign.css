@@ -331,6 +331,14 @@
   display: flex;
   border: 1px solid #9b8f78;
 }
+.timeline-clear,
+.atlas-clear {
+  min-height: 44px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.8rem;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
 .timeline-mode button {
   padding: 0.6rem 1.2rem;
   font-size: 0.9rem;
@@ -747,10 +755,6 @@
   }
   .timeline-mobile-controls button:last-child:not(:nth-child(3)) {
     width: 100%;
-  }
-  .narrative-tracks[data-mobile-full="false"]
-    .narrative-node[data-match="false"] {
-    display: none;
   }
   .narrative-track-heading {
     padding: 0.8rem 1rem;

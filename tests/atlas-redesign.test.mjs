@@ -41,6 +41,36 @@ test("different accounts of one collection can be compared without merging", () 
   );
 });
 
+test("Roman poems remain independently selectable and never continue each other", () => {
+  const story = stories.find((s) => s.tradition === "roman");
+  const met = resolveReadingPath(
+    story.stages,
+    story.branches,
+    "metamorphoses",
+    null,
+  );
+  const fasti = resolveReadingPath(
+    story.stages,
+    story.branches,
+    "fasti-janus",
+    null,
+  );
+  assert.equal(met.stages.length, 4);
+  assert.equal(fasti.stages.length, 3);
+  assert.equal(met.stages.at(-1).id, "met-humanity");
+  assert.equal(fasti.stages[0].id, "janus-chaos");
+  assert.equal(
+    new Set([...met.stages, ...fasti.stages].map((s) => s.id)).size,
+    story.stages.length,
+  );
+  assert.deepEqual(
+    comparisonIds("roman:metamorphoses,roman:fasti-janus", options),
+    ["roman:metamorphoses", "roman:fasti-janus"],
+  );
+  for (const stage of story.stages)
+    assert.ok(stage.source.zh && stage.source.en);
+});
+
 test("North American traditions have disjoint and exhaustive reading paths", () => {
   const story = stories.find((s) => s.tradition === "native-american");
   const groups = story.branches.map((b) =>

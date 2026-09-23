@@ -2,13 +2,22 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { useState } from "react";
+import { useSyncExternalStore } from "react";
 import { MOTIFS, type Locale } from "@/lib/types";
 import { motifLabels } from "@/lib/i18n";
 import { comparisonIds, narrativeOptions } from "@/lib/atlas-state";
 import { safeReturnPath } from "@/lib/navigation";
 import { resolveReadingPath } from "@/lib/reading";
 import type { InteractiveCosmogonyStory } from "./InteractiveCosmogonyTimeline";
+
+const mobileQuery = "(max-width: 760px)";
+function subscribeViewport(onChange: () => void) {
+  const query = window.matchMedia(mobileQuery);
+  query.addEventListener("change", onChange);
+  return () => query.removeEventListener("change", onChange);
+}
+const mobileSnapshot = () => window.matchMedia(mobileQuery).matches;
+const serverSnapshot = () => false;
 
 export default function CosmogonyCompare({
   stories,
@@ -25,8 +34,13 @@ export default function CosmogonyCompare({
     "norse",
   ]);
   const motif = MOTIFS.find((item) => item === params.get("motif")) ?? "chaos";
-  const themes = params.get("view") === "themes";
-  const [mobileFull, setMobileFull] = useState(false);
+  const mobile = useSyncExternalStore(
+    subscribeViewport,
+    mobileSnapshot,
+    serverSnapshot,
+  );
+  const view = params.get("view");
+  const themes = view === "themes" || (view !== "story" && mobile);
   const returnUrl = new URL(
     safeReturnPath(params.get("returnTo"), locale) ?? `/${locale}#atlas`,
     "https://myth-atlas.invalid",
@@ -44,6 +58,8 @@ export default function CosmogonyCompare({
   }
   function update(values: Record<string, string>) {
     const url = new URL(window.location.href);
+    // Persist the effective mode so refresh and locale changes keep the same view.
+    url.searchParams.set("view", themes ? "themes" : "story");
     for (const [key, value] of Object.entries(values))
       url.searchParams.set(key, value);
     window.history.pushState(null, "", `${url.pathname}${url.search}#compare`);
@@ -113,10 +129,26 @@ export default function CosmogonyCompare({
             </select>
           </label>
         )}
+        {ids.length > 0 && (
+          <button
+            className="timeline-clear"
+            onClick={() => update({ compare: "" })}
+          >
+            {zh ? "清空对比" : "Clear comparison"}
+          </button>
+        )}
       </div>
       <div
         className="motif-choices"
-        aria-label={zh ? "突出显示母题" : "Highlight a motif"}
+        aria-label={
+          themes
+            ? zh
+              ? "选择母题"
+              : "Choose a motif"
+            : zh
+              ? "突出显示母题"
+              : "Highlight a motif"
+        }
       >
         {MOTIFS.map((option) => (
           <button
@@ -156,20 +188,6 @@ export default function CosmogonyCompare({
         >
           →
         </button>
-        {!themes && (
-          <button
-            aria-pressed={mobileFull}
-            onClick={() => setMobileFull(!mobileFull)}
-          >
-            {mobileFull
-              ? zh
-                ? "只看当前母题"
-                : "Current motif"
-              : zh
-                ? "展开完整叙事"
-                : "Show full narratives"}
-          </button>
-        )}
       </div>
       <p className="compare-context" role="status">
         {zh
@@ -178,16 +196,19 @@ export default function CosmogonyCompare({
       </p>
       {ids.length < 2 && (
         <p className="timeline-empty">
-          {zh
-            ? "再添加一条叙事，开始并读。"
-            : "Add another account to begin comparing."}
+          {ids.length === 0
+            ? zh
+              ? "选择两条叙事，开始并读。"
+              : "Choose two accounts to begin comparing."
+            : zh
+              ? "再添加一条叙事，开始并读。"
+              : "Add another account to begin comparing."}
         </p>
       )}
       <div
         className="narrative-tracks"
         data-count={ids.length}
         data-themes={themes}
-        data-mobile-full={mobileFull}
       >
         {ids.map((id, index) => {
           const option = options.find((option) => option.id === id)!;

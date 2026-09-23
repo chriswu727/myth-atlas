@@ -15,7 +15,7 @@ Map: `realm`, `pin`, `z`, `x`, `y` remain supported; `layer` and `compare` are a
 Comparison IDs use `tradition:branch` where branches exist. Old tradition-only IDs resolve to that collection's first account. Duplicate/unknown IDs are removed; at most three accounts are accepted. An explicitly empty selection remains empty.
 Old `stage-N` links to the newly branched North American material resolve to the branch containing the requested stage when no branch is supplied. Explicit stale branch selections retain the previous fallback behavior.
 
-## Local validation — Windows, 2026-09-23
+## First-pass validation — Windows, 2026-09-23
 
 Complete clone based on main at `00a76c914dbbaa5d84258d873d604c1d9cb49653`, including public assets. Dependencies installed successfully with `npm ci`; Node 24.19.0, Next 16.2.10.
 
@@ -43,6 +43,17 @@ Complete clone based on main at `00a76c914dbbaa5d84258d873d604c1d9cb49653`, incl
 
 Actual touchscreen one-finger scrolling and two-finger map gestures still need device testing; responsive browser dimensions do not verify touch hardware. Reduced-motion behavior and map-load failure/retry are implemented but were not simulated in the browser. These checks are not represented as completed.
 
+## Second pass — mobile mode and Roman material
+
+- Mobile defaults to motif mode with the matching button selected. Explicit full-narrative mode shows every node on all viewport sizes. Mode is retained in the URL after interaction, including refresh and language changes; the separate hidden mobile filter has been removed.
+- Map and comparison have clear-all controls. Clearing the map tray preserves the selected tradition and viewport; browser Back restores the previous accounts. Empty comparison guidance now asks for two accounts when none are selected.
+- Added the Roman map entry, two bilingual articles and two separately selectable Ovid accounts (four Metamorphoses scenes, three Fasti scenes). Primary-text ranges, material evidence, geographic meaning and remaining coverage are documented in `MYTH_COVERAGE.md`.
+- The preview uses the actual number of featured articles, including collections with fewer than three.
+- Search regression checks compare empty-search results against the complete current catalog, replacing the old hardcoded count of 500.
+- Validation: 502 entries, 0 errors/warnings; 25 tests passed; ESLint and standalone TypeScript passed. Content audit: 0 missing files/dangling references/editorial flags. Two new entries intentionally have no image; the existing 47 single-source entries remain.
+- Browser: all 25 cultural markers select correctly at 390 px. Roman previews and article/source links work; mobile full mode exposes seven scenes, persists after refresh and English switching, and clear-all/Back restores the two accounts.
+- The new local production build could not fetch the four existing Google Fonts under this turn's restricted network. This is separate from the first-pass production build above. Current browser checks use the functioning development preview with previously cached fonts; they are not a substitute for a new production build.
+
 ## Deferred content work
 
-No new cultures or sources are invented by this UI change. Roman, Baltic, Turkic, Dogon, Yanomami and specific Tierra del Fuego traditions remain research candidates. Public source review and appropriate classification are required before adding those entries.
+Roman coverage now has a deliberately limited, sourced first batch. Baltic, Turkic, Dogon, Yanomami and specific Tierra del Fuego traditions remain research candidates, with source leads and classification caveats in `MYTH_COVERAGE.md`. No empty map markers were added for those candidates.

@@ -1071,8 +1071,8 @@ export default function WorldMap({
                 <p className="atlas-panel-count">
                   {activeTradition.entryCount}{" "}
                   {locale === "zh"
-                    ? "个条目 · 从这三则读起"
-                    : "records · three places to begin"}
+                    ? `个条目 · 从这 ${activeTradition.featured.length} 则读起`
+                    : `records · ${activeTradition.featured.length} places to begin`}
                 </p>
                 <div className="atlas-primary-actions">
                   <button
@@ -1240,6 +1240,11 @@ export default function WorldMap({
             <span aria-hidden="true">×</span>
           </button>
         ))}
+        {compared.length > 0 && (
+          <button className="atlas-clear" onClick={() => updateComparison([])}>
+            {locale === "zh" ? "清空对比" : "Clear comparison"}
+          </button>
+        )}
         {compared.length >= 2 ? (
           <Link
             className="button-primary"
