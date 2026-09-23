@@ -10,6 +10,7 @@
   },
   "stages": [
     {
+      "id": "stage-1",
       "motif": "chaos",
       "phase": { "zh": "豪德诺硕尼 · 太初", "en": "Haudenosaunee: before there was land" },
       "title": { "zh": "天上世界与下面的水", "en": "A world in the sky, water underneath" },
@@ -20,6 +21,7 @@
       "entries": ["earth-diver-creation"]
     },
     {
+      "id": "stage-2",
       "motif": "world-form",
       "phase": { "zh": "豪德诺硕尼 · 造地", "en": "Haudenosaunee: the land is made" },
       "title": { "zh": "麝鼠把一撮泥堆在龟背上", "en": "Muskrat's handful of mud on the turtle's back" },
@@ -30,6 +32,7 @@
       "entries": ["earth-diver-creation", "nanabozho"]
     },
     {
+      "id": "stage-3",
       "motif": "humans",
       "phase": { "zh": "塞尼卡 · 双生子", "en": "Seneca: the twins" },
       "title": { "zh": "捏泥造人，鹿角决胜", "en": "Clay for people, an antler for the fight" },
@@ -40,6 +43,7 @@
       "entries": ["earth-diver-creation"]
     },
     {
+      "id": "stage-4",
       "motif": "humans",
       "phase": { "zh": "拉科塔 · 出地", "en": "Lakota: coming up from below" },
       "title": { "zh": "从风洞出来的人，跟出来的野牛", "en": "Out of Wind Cave, and the buffalo behind them" },
@@ -50,6 +54,7 @@
       "entries": ["wakan-tanka"]
     },
     {
+      "id": "stage-5",
       "motif": "now",
       "phase": { "zh": "拉科塔 · 立礼", "en": "Lakota: the pipe is given" },
       "title": { "zh": "白野牛犊女带来查努帕", "en": "White Buffalo Calf Woman brings the pipe" },
@@ -60,6 +65,7 @@
       "entries": ["white-buffalo-calf-woman", "chanunpa", "wakan-tanka"]
     },
     {
+      "id": "stage-6",
       "motif": "first-beings",
       "phase": { "zh": "迪内 · 下面的世界", "en": "Diné: the worlds below" },
       "title": { "zh": "黑世界里的第一男与第一女", "en": "First Man and First Woman in the Black World" },
@@ -70,6 +76,7 @@
       "entries": []
     },
     {
+      "id": "stage-7",
       "motif": "ordeal",
       "phase": { "zh": "迪内 · 洪水与上升", "en": "Diné: the flood and the climb" },
       "title": { "zh": "郊狼抱走水怪的孩子", "en": "Coyote takes the water monster's children" },
@@ -80,6 +87,7 @@
       "entries": ["coyote"]
     },
     {
+      "id": "stage-8",
       "motif": "now",
       "phase": { "zh": "迪内 · 当世", "en": "Diné: the world as it stands" },
       "title": { "zh": "四座圣山、乱撒的星、变化女", "en": "Four mountains, a fistful of stars, Changing Woman" },
@@ -88,6 +96,55 @@
         "en": "First Man and First Woman had carried up soil from the worlds below, and with it they built four mountains around the Diné homeland: Blanca Peak in the east, dressed in white shell; Mount Taylor in the south, in turquoise; the San Francisco Peaks in the west, in abalone; Hesperus Peak in the north, in jet. Each was pinned to the ground — with lightning, a flint knife, a sunbeam, a rainbow. First Man then began setting the stars into the night sky one by one, in order — other tellings give the work to Black God, Haashchʼééshzhiní — until Coyote lost patience, grabbed what was left and flung it up in a fistful; that is the Milky Way and the scattered stars. Later First Man found a baby girl on Chʼóolʼį́ʼí, Gobernador Knob: Changing Woman, Asdzą́ą́ Nádleehé, who grew to womanhood in four days and bore the Hero Twins to the Sun — Monster Slayer, Naayééʼ Neizghání, and Born for Water, Tóbájíshchíní. The twins went to their father's house, got weapons of lightning from him, and cleared the monsters off the earth; the black lava spread below Mount Taylor is said to be the congealed blood of the giant Yéʼiitsoh. Changing Woman rubbed skin from her own body and made the first four clans — Towering House, Bitter Water, Mud, One-Walks-Around — and a Diné person still gives the mother's clan first when saying who they are."
       },
       "entries": ["coyote"]
+    }
+  ],
+  "branches": [
+    {
+      "id": "haudenosaunee",
+      "label": {
+        "zh": "豪德诺硕尼 · 天女与造地",
+        "en": "Haudenosaunee · Sky Woman and the land"
+      },
+      "description": {
+        "zh": "塞尼卡与奥农达加等记录的编选；各版本差异见说明。",
+        "en": "Selected Seneca and Onondaga records; consult the notes for differences between tellings."
+      },
+      "stageIds": [
+        "stage-1",
+        "stage-2",
+        "stage-3"
+      ]
+    },
+    {
+      "id": "lakota",
+      "label": {
+        "zh": "拉科塔 · 出地与立礼",
+        "en": "Lakota · Emergence and the pipe"
+      },
+      "description": {
+        "zh": "拉科塔的独立叙事；沃克材料的编辑背景见版本说明。",
+        "en": "Independent Lakota accounts; the notes explain the editorial history of the Walker material."
+      },
+      "stageIds": [
+        "stage-4",
+        "stage-5"
+      ]
+    },
+    {
+      "id": "dine",
+      "label": {
+        "zh": "迪内 · 上升到当世",
+        "en": "Diné · Ascent to the present world"
+      },
+      "description": {
+        "zh": "迪内的独立叙事；世界层数与人物出场在各版本中不同。",
+        "en": "Independent Diné accounts; the number of worlds and the arrival of figures vary between records."
+      },
+      "stageIds": [
+        "stage-6",
+        "stage-7",
+        "stage-8"
+      ]
     }
   ]
 }

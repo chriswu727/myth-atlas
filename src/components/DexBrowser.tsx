@@ -65,11 +65,25 @@ export default function DexBrowser({
     [traditions],
   );
   const hasFilter = Boolean(q || tid || type || era);
-  const activeFilterCount = [q, tid, type, era].filter(Boolean).length;
+  const activeFilterCount = [tid, type, era].filter(Boolean).length;
 
   return (
     <div className="grid gap-10 lg:grid-cols-[15rem_1fr]">
       <div className="lg:sticky lg:top-28 lg:self-start">
+        <div className="dex-search-field">
+          <label htmlFor="dex-search" className="eyebrow block">
+            {locale === "zh" ? "搜索条目" : "Search the collection"}
+          </label>
+          <input
+            id="dex-search"
+            type="search"
+            name="q"
+            value={q}
+            onChange={(event) => updateFilter("q", event.target.value)}
+            placeholder={dict.dex.search[locale]}
+            className="mt-3 w-full border-b border-[var(--line-strong)] bg-transparent py-2 text-base placeholder:text-vellum-faint focus:border-brass focus:outline-none"
+          />
+        </div>
         <button
           type="button"
           className="filter-drawer-toggle"
@@ -77,7 +91,7 @@ export default function DexBrowser({
           aria-controls="dex-filter-panel"
           onClick={() => setFiltersOpen((current) => !current)}
         >
-          <span>{locale === "zh" ? "检索与筛选" : "Search & filters"}</span>
+          <span>{locale === "zh" ? "筛选条目" : "Filter records"}</span>
           <span>
             {activeFilterCount > 0
               ? locale === "zh"
@@ -94,19 +108,6 @@ export default function DexBrowser({
           id="dex-filter-panel"
           className={`filter-panel ${filtersOpen ? "is-mobile-open" : ""}`}
         >
-          <label htmlFor="dex-search" className="eyebrow block">
-            {locale === "zh" ? "搜索条目" : "Search the collection"}
-          </label>
-          <input
-            id="dex-search"
-            type="search"
-            name="q"
-            value={q}
-            onChange={(event) => updateFilter("q", event.target.value)}
-            placeholder={dict.dex.search[locale]}
-            className="mt-3 w-full border-b border-[var(--line-strong)] bg-transparent py-2 text-base placeholder:text-vellum-faint focus:border-brass focus:outline-none"
-          />
-
           <div className="mt-8">
             <label htmlFor="tradition-filter" className="catalog-no block">
               {dict.dex.tradition[locale]}

@@ -2,8 +2,12 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
+import { useState } from "react";
 import { MOTIFS, type Locale } from "@/lib/types";
 import { motifLabels } from "@/lib/i18n";
+import { comparisonIds, narrativeOptions } from "@/lib/atlas-state";
+import { safeReturnPath } from "@/lib/navigation";
+import { resolveReadingPath } from "@/lib/reading";
 import type { InteractiveCosmogonyStory } from "./InteractiveCosmogonyTimeline";
 
 export default function CosmogonyCompare({
@@ -15,127 +19,297 @@ export default function CosmogonyCompare({
 }) {
   const zh = locale === "zh";
   const params = useSearchParams();
-  const motif =
-    MOTIFS.find((motif) => motif === params.get("motif")) ?? "humans";
-  const supplied = [
-    ...new Set((params.get("compare") ?? "chinese,norse,maya").split(",")),
-  ]
-    .filter((id) => stories.some((story) => story.id === id))
-    .slice(0, 3);
-  const ids = supplied.length ? supplied : ["chinese", "norse", "maya"];
-  function update(key: string, value: string) {
+  const options = narrativeOptions(stories);
+  const ids = comparisonIds(params.get("compare"), options, [
+    "chinese",
+    "norse",
+  ]);
+  const motif = MOTIFS.find((item) => item === params.get("motif")) ?? "chaos";
+  const themes = params.get("view") === "themes";
+  const [mobileFull, setMobileFull] = useState(false);
+  const returnUrl = new URL(
+    safeReturnPath(params.get("returnTo"), locale) ?? `/${locale}#atlas`,
+    "https://myth-atlas.invalid",
+  );
+  returnUrl.searchParams.set("compare", ids.join(","));
+  const returnTo = `${returnUrl.pathname}${returnUrl.search}${returnUrl.hash}`;
+  const available = options.filter((option) => !ids.includes(option.id));
+  function readerHref(storyId: string, stageId: string, branchId?: string) {
+    const query = new URLSearchParams(params.toString());
+    query.set("story", storyId);
+    query.set("stage", stageId);
+    if (branchId) query.set("branch", branchId);
+    else query.delete("branch");
+    return `/${locale}/cosmogony?${query}#reader`;
+  }
+  function update(values: Record<string, string>) {
     const url = new URL(window.location.href);
-    url.searchParams.set(key, value);
-    window.history.replaceState(
-      null,
-      "",
-      `${url.pathname}${url.search}#compare`,
-    );
+    for (const [key, value] of Object.entries(values))
+      url.searchParams.set(key, value);
+    window.history.pushState(null, "", `${url.pathname}${url.search}#compare`);
   }
   return (
-    <section id="compare" className="origin-compare">
+    <section
+      id="compare"
+      className="origin-compare narrative-workbench"
+      aria-labelledby="compare-title"
+    >
       <div className="journey-section-heading">
         <div>
           <p className="eyebrow">
-            02 / {zh ? "并读不同的世界" : "WORLDS SIDE BY SIDE"}
+            01 / {zh ? "并读世界的开端" : "PARALLEL BEGINNINGS"}
           </p>
-          <h2>
-            {zh ? "同一个母题，不同的讲法" : "One motif. Different tellings."}
+          <h2 id="compare-title">
+            {zh
+              ? "每个世界，有自己的顺序。"
+              : "Every world has its own sequence."}
           </h2>
         </div>
-        <p>
-          {zh
-            ? "选一个母题，比较两三个传统。相似之处不自动意味着相互传播。"
-            : "Choose a motif and compare a few traditions. Similarity alone does not establish transmission."}
-        </p>
+        <Link className="atlas-panel-link" href={returnTo}>
+          {zh ? "← 返回世界地图" : "← Back to the atlas"}
+        </Link>
+      </div>
+      <p className="compare-intro">
+        {zh
+          ? "沿各自的轨道读完整故事，或选一个母题寻找呼应。这里的先后是叙事顺序，不是历史年代；相似也不自动意味着传播。"
+          : "Follow each account in its own order, or explore a shared motif. These are narrative sequences, not historical dates; similarity does not establish transmission."}
+      </p>
+      <div className="timeline-controls">
+        <div
+          className="timeline-mode"
+          aria-label={zh ? "阅读方式" : "Reading mode"}
+        >
+          <button
+            aria-pressed={!themes}
+            onClick={() => update({ view: "story" })}
+          >
+            {zh ? "完整叙事" : "Full narratives"}
+          </button>
+          <button
+            aria-pressed={themes}
+            onClick={() => update({ view: "themes" })}
+          >
+            {zh ? "主题对照" : "By motif"}
+          </button>
+        </div>
+        {ids.length < 3 && available.length > 0 && (
+          <label className="timeline-add">
+            {zh ? "添加叙事" : "Add an account"}
+            <select
+              value=""
+              onChange={(event) => {
+                if (event.target.value)
+                  update({ compare: [...ids, event.target.value].join(",") });
+              }}
+            >
+              <option value="">
+                {zh ? "选择具体传统与版本…" : "Choose a tradition and account…"}
+              </option>
+              {available.map((option) => (
+                <option key={option.id} value={option.id}>
+                  {option.label}
+                </option>
+              ))}
+            </select>
+          </label>
+        )}
       </div>
       <div
         className="motif-choices"
-        aria-label={zh ? "选择比较母题" : "Choose a motif"}
+        aria-label={zh ? "突出显示母题" : "Highlight a motif"}
       >
         {MOTIFS.map((option) => (
           <button
             key={option}
             aria-pressed={motif === option}
-            onClick={() => update("motif", option)}
+            onClick={() => update({ motif: option })}
           >
             {motifLabels[option][locale]}
           </button>
         ))}
       </div>
-      <p className="compare-context">
+      <div className="timeline-mobile-controls">
+        <button
+          onClick={() =>
+            update({
+              motif:
+                MOTIFS[
+                  (MOTIFS.indexOf(motif) + MOTIFS.length - 1) % MOTIFS.length
+                ],
+            })
+          }
+          aria-label={zh ? "上一母题" : "Previous motif"}
+        >
+          ←
+        </button>
+        <span>
+          {motifLabels[motif][locale]} · {MOTIFS.indexOf(motif) + 1}/
+          {MOTIFS.length}
+        </span>
+        <button
+          onClick={() =>
+            update({
+              motif: MOTIFS[(MOTIFS.indexOf(motif) + 1) % MOTIFS.length],
+            })
+          }
+          aria-label={zh ? "下一母题" : "Next motif"}
+        >
+          →
+        </button>
+        {!themes && (
+          <button
+            aria-pressed={mobileFull}
+            onClick={() => setMobileFull(!mobileFull)}
+          >
+            {mobileFull
+              ? zh
+                ? "只看当前母题"
+                : "Current motif"
+              : zh
+                ? "展开完整叙事"
+                : "Show full narratives"}
+          </button>
+        )}
+      </div>
+      <p className="compare-context" role="status">
         {zh
-          ? `正在比较：${motifLabels[motif].zh}。空白仅表示本馆所选叙事没有这一幕。`
-          : `Comparing ${motifLabels[motif].en.toLowerCase()}. An absence refers only to the accounts selected for this collection.`}
+          ? `已选 ${ids.length} 条叙事 · ${themes ? "只看" : "突出显示"}「${motifLabels[motif].zh}」。未收录不代表整个传统不存在这一母题。`
+          : `${ids.length} accounts · ${themes ? "Showing" : "Highlighting"} ${motifLabels[motif].en.toLowerCase()}. Missing scenes do not imply absence from an entire tradition.`}
       </p>
-      <div className="compare-columns">
+      {ids.length < 2 && (
+        <p className="timeline-empty">
+          {zh
+            ? "再添加一条叙事，开始并读。"
+            : "Add another account to begin comparing."}
+        </p>
+      )}
+      <div
+        className="narrative-tracks"
+        data-count={ids.length}
+        data-themes={themes}
+        data-mobile-full={mobileFull}
+      >
         {ids.map((id, index) => {
-          const story = stories.find((story) => story.id === id)!;
-          const stages = story.stages.filter((stage) => stage.motif === motif);
+          const option = options.find((option) => option.id === id)!;
+          const story = stories.find((story) => story.id === option.storyId)!;
+          const branch = story.branches?.find(
+            (branch) => branch.id === option.branchId,
+          );
+          const { stages } = resolveReadingPath(
+            story.stages,
+            story.branches,
+            option.branchId ?? null,
+            null,
+          );
+          const hasMotif = stages.some((stage) => stage.motif === motif);
           return (
-            <article key={index} className="compare-column">
-              <label htmlFor={`compare-${index}`}>
-                {zh ? `传统 ${index + 1}` : `Tradition ${index + 1}`}
-              </label>
-              <select
-                id={`compare-${index}`}
-                value={id}
-                onChange={(event) =>
-                  update(
-                    "compare",
-                    ids
-                      .map((value, i) =>
-                        i === index ? event.target.value : value,
-                      )
-                      .join(","),
-                  )
-                }
-              >
-                {stories.map((option) => (
-                  <option
-                    key={option.id}
-                    value={option.id}
-                    disabled={ids.includes(option.id) && option.id !== id}
+            <article className="narrative-track" key={id}>
+              <header className="narrative-track-heading">
+                <div className="track-number">
+                  <span>{String(index + 1).padStart(2, "0")}</span>
+                  <button
+                    onClick={() =>
+                      update({
+                        compare: ids.filter((item) => item !== id).join(","),
+                      })
+                    }
+                    aria-label={`${zh ? "移除" : "Remove"} ${option.label}`}
                   >
-                    {option.name}
-                  </option>
-                ))}
-              </select>
-              <div className="compare-scenes">
-                {stages.length ? (
-                  stages.map((stage) => {
-                    const branch = story.branches?.find((branch) =>
-                      branch.stageIds.includes(stage.id),
-                    );
-                    return (
-                      <section key={stage.id}>
-                        {branch && <p className="eyebrow">{branch.label}</p>}
-                        <h3>{stage.title}</h3>
-                        <p>{stage.text}</p>
-                        <Link
-                          href={`/${locale}/cosmogony?story=${id}&stage=${stage.id}${branch ? `&branch=${branch.id}` : ""}`}
-                        >
-                          {zh
-                            ? "在故事中阅读这一幕"
-                            : "Read this scene in context"}
-                        </Link>
-                      </section>
-                    );
-                  })
-                ) : (
-                  <div className="compare-absence">
-                    <p>{zh ? "此处留白" : "An absence in this account"}</p>
-                    <span>
-                      {zh
-                        ? "所选叙事未收录这一母题。查看版本说明，了解编选范围。"
-                        : "The selected narrative has no scene for this motif. Consult its notes for the scope of the selection."}
+                    ×
+                  </button>
+                </div>
+                <label htmlFor={`track-${index}`}>
+                  {zh ? "传统与版本" : "Tradition and account"}
+                </label>
+                <select
+                  id={`track-${index}`}
+                  value={id}
+                  onChange={(event) =>
+                    update({
+                      compare: ids
+                        .map((item, i) =>
+                          i === index ? event.target.value : item,
+                        )
+                        .join(","),
+                    })
+                  }
+                >
+                  {options.map((item) => (
+                    <option
+                      key={item.id}
+                      value={item.id}
+                      disabled={item.id !== id && ids.includes(item.id)}
+                    >
+                      {item.label}
+                    </option>
+                  ))}
+                </select>
+                <h3>{branch?.label ?? story.shortName}</h3>
+                <p>{branch?.description ?? story.region}</p>
+                <span className="catalog-no">
+                  {stages.length} {zh ? "个叙事节点" : "scenes"}
+                </span>
+              </header>
+              {!hasMotif && (
+                <p className="timeline-absence">
+                  {zh
+                    ? "本次编选未收录这一母题的节点。"
+                    : "No scene for this motif is included in this selection."}
+                </p>
+              )}
+              <ol className="narrative-sequence">
+                {stages.map((stage, stageIndex) => (
+                  <li
+                    key={stage.id}
+                    className="narrative-node"
+                    data-match={stage.motif === motif}
+                  >
+                    <span
+                      className="node-number"
+                      aria-label={
+                        zh
+                          ? `第 ${stageIndex + 1} 幕`
+                          : `Scene ${stageIndex + 1}`
+                      }
+                    >
+                      {String(stageIndex + 1).padStart(2, "0")}
                     </span>
-                  </div>
-                )}
-              </div>
-              <details>
+                    <p className="node-motif">{stage.motifLabel}</p>
+                    <h4>{stage.title}</h4>
+                    <p className="node-phase">{stage.phase}</p>
+                    <p className="node-summary">
+                      {stage.text.split("\n\n")[0]}
+                    </p>
+                    <details>
+                      <summary>
+                        {zh ? "阅读这一幕与出处" : "Read scene and source"}
+                      </summary>
+                      <p className="node-text">{stage.text}</p>
+                      <p className="node-source">
+                        {stage.source ?? story.source}
+                      </p>
+                      {stage.entries.map((entry) => (
+                        <Link
+                          className="node-entry"
+                          key={entry.id}
+                          href={`/${locale}/entry/${entry.id}?returnTo=${encodeURIComponent(`/${locale}/cosmogony?${params}#compare`)}`}
+                        >
+                          {entry.label} ↗
+                        </Link>
+                      ))}
+                      <Link
+                        className="atlas-panel-link"
+                        href={readerHref(story.id, stage.id, branch?.id)}
+                      >
+                        {zh ? "在完整故事中阅读" : "Open the story reader"}
+                      </Link>
+                    </details>
+                  </li>
+                ))}
+              </ol>
+              <details className="track-sources">
                 <summary>
-                  {zh ? "查看出处与版本说明" : "Sources and selection notes"}
+                  {zh ? "版本说明与总出处" : "Selection notes and sources"}
                 </summary>
                 <p>{story.source}</p>
                 {story.note && <p>{story.note}</p>}
