@@ -10,6 +10,7 @@
   },
   "stages": [
     {
+      "id": "stage-1",
       "motif": "chaos",
       "phase": { "zh": "Te Kore", "en": "Te Kore, the void" },
       "title": { "zh": "先是虚无，然后是数不清的夜", "en": "The nothing, then the long tally of nights" },
@@ -20,6 +21,7 @@
       "entries": []
     },
     {
+      "id": "stage-2",
       "motif": "first-beings",
       "phase": { "zh": "朗吉与帕帕", "en": "Rangi and Papa" },
       "title": { "zh": "父母抱得太紧，孩子在中间摸黑长大", "en": "The parents cling, and the children grow up in the dark between them" },
@@ -30,6 +32,7 @@
       "entries": ["rangi-and-papa", "tane", "tangaroa"]
     },
     {
+      "id": "stage-3",
       "motif": "separation",
       "phase": { "zh": "推开天地", "en": "The parting" },
       "title": { "zh": "塔内以头抵地、以脚蹬天", "en": "Tāne sets his head on his mother and his feet against his father" },
@@ -40,6 +43,7 @@
       "entries": ["tane", "rangi-and-papa"]
     },
     {
+      "id": "stage-4",
       "motif": "world-form",
       "phase": { "zh": "装点天空", "en": "Dressing the sky" },
       "title": { "zh": "塔内把日月和星子钉在父亲胸口", "en": "Tāne fastens the sun, the moon and the stars on his father" },
@@ -50,6 +54,7 @@
       "entries": ["tane"]
     },
     {
+      "id": "stage-5",
       "motif": "ordeal",
       "phase": { "zh": "塔怀里的战争", "en": "The war of Tāwhirimātea" },
       "title": { "zh": "风神打服四个兄弟，图吃掉他们", "en": "The storm beats four brothers, and Tū eats them" },
@@ -60,6 +65,7 @@
       "entries": ["tangaroa", "tane"]
     },
     {
+      "id": "stage-6",
       "motif": "humans",
       "phase": { "zh": "库拉瓦卡的红土", "en": "The red earth at Kurawaka" },
       "title": { "zh": "塔内用红土捏出第一个女人，对着鼻子吹气", "en": "Tāne shapes a woman from red earth and breathes into her nose" },
@@ -70,6 +76,7 @@
       "entries": ["tane", "tiki"]
     },
     {
+      "id": "stage-7",
       "motif": "world-form",
       "phase": { "zh": "毛伊钓地", "en": "Māui hauls up the land" },
       "title": { "zh": "祖母的下颌骨做钩，钓上来一条岛那么大的鱼", "en": "A grandmother's jawbone for a hook, and a fish the size of an island" },
@@ -80,6 +87,7 @@
       "entries": ["maui", "manaiakalani"]
     },
     {
+      "id": "stage-8",
       "motif": "now",
       "phase": { "zh": "死亡定了下来", "en": "Death is settled" },
       "title": { "zh": "扇尾鸟笑出了声，毛伊死在夜之女神体内", "en": "The fantail laughs, and Māui dies inside the goddess of night" },
@@ -88,6 +96,29 @@
         "en": "Hine-tītama grows up and marries Tāne, and only later asks who her father is and learns that her husband is also her father. She does not come back into the light. She goes down below and takes a new name, Hine-nui-te-pō, great woman of the night, and tells Tāne to stay above and raise their children while she draws them down. From then on people die. Māui sets out to reverse it. He goes to her with a company of birds and finds her asleep: her eyes are greenstone, her hair is like kelp, her teeth are obsidian. He tells them his plan, to enter between her thighs and come out at her mouth, which will kill her and make people deathless, and warns them not to laugh until he is through. He is halfway in when the little fantail, the tīwakawaka, cannot hold it and bursts out laughing. She wakes, closes, and Māui dies inside her. People have died ever since. What is left is Te Ao Mārama, the world of light, where people are born and grow old and die, and where the spirits of the dead go back to Hawaiki, the homeland the ancestors' canoes came from."
       },
       "entries": ["maui", "hawaiki"]
+    }
+  ],
+  "branches": [
+    {
+      "id": "maori",
+      "label": {
+        "zh": "毛利 · Aotearoa",
+        "en": "Māori · Aotearoa"
+      },
+      "description": {
+        "zh": "本轨道为毛利叙事编选，并非整个波利尼西亚的共同定本。",
+        "en": "This track follows selected Māori accounts, not a shared Polynesian canon."
+      },
+      "stageIds": [
+        "stage-1",
+        "stage-2",
+        "stage-3",
+        "stage-4",
+        "stage-5",
+        "stage-6",
+        "stage-7",
+        "stage-8"
+      ]
     }
   ]
 }

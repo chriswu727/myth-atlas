@@ -32,7 +32,7 @@ export interface TraditionFull extends Tradition {
 
 export type Motif = 'chaos' | 'first-beings' | 'separation' | 'world-form' | 'humans' | 'ordeal' | 'now';
 
-/** Order matters: it is the spine of the cross-cultural comparison. */
+/** Editorial motif order for browsing; never a universal narrative chronology. */
 export const MOTIFS: Motif[] = [
   'chaos',
   'first-beings',

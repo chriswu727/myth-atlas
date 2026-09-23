@@ -44,7 +44,8 @@ export default async function Home({
   const zh = locale === "zh";
   const traditions = getTraditions();
   const entries = getEntries();
-  const stories = new Set(getCosmogonies().map((story) => story.tradition));
+  const cosmogonies = getCosmogonies();
+  const stories = new Set(cosmogonies.map((story) => story.tradition));
   const preview = (entry: Entry): MapPreview => ({
     id: entry.id,
     label: entry.name[locale],
@@ -62,6 +63,20 @@ export default async function Home({
     ].slice(0, 3);
     return {
       id: tradition.id,
+      category: tradition.category,
+      intro: (tradition.intro?.[locale] ?? "").split(/\n\s*\n/)[0],
+      comparisonOptions: (() => {
+        const story = cosmogonies.find(
+          (story) => story.tradition === tradition.id,
+        );
+        if (!story) return [];
+        return story.branches?.length
+          ? story.branches.map((branch) => ({
+              id: `${tradition.id}:${branch.id}`,
+              label: `${tradition.shortName[locale]} · ${branch.label[locale]}`,
+            }))
+          : [{ id: tradition.id, label: tradition.name[locale] }];
+      })(),
       label: tradition.shortName[locale],
       region: tradition.region[locale],
       color: tradition.color,
@@ -108,17 +123,21 @@ export default async function Home({
               : "Read myths from different places together. Follow creation, catastrophe and renewal to discover echoes between stories."}
           </p>
           <div className="journey-actions">
-            <Link className="button-primary" href={`/${locale}/compare`}>
-              {zh ? "比较神话的过程" : "Compare the stories"}
-            </Link>
-            <a className="button-secondary" href="#atlas">
+            <a className="button-primary" href="#atlas">
               {zh ? "开始探索地图" : "Explore the atlas"}
             </a>
+            <Link
+              className="button-secondary"
+              href={`/${locale}/cosmogony#compare`}
+            >
+              {zh ? "时间线对比" : "Compare narratives"}
+            </Link>
           </div>
           <p className="journey-inventory">
             {entries.length} {zh ? "个双语条目" : "bilingual records"}
             <span />
-            {traditions.length} {zh ? "个体系" : "traditions"}
+            {traditions.length}{" "}
+            {zh ? "个传统与专题" : "traditions & collections"}
             <span />
             {stories.size} {zh ? "组创世叙事" : "origin collections"}
           </p>
@@ -128,7 +147,7 @@ export default async function Home({
             src={heroImage.file}
             alt={
               zh
-                ? "九尾狐的当代复原图"
+                ? "九尾狐的当代演绎"
                 : "Contemporary interpretation of the nine-tailed fox"
             }
             fill

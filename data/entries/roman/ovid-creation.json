@@ -1,0 +1,20 @@
+{
+  "id": "ovid-creation",
+  "tradition": "roman",
+  "type": "tale",
+  "era": "ancient",
+  "name": { "zh": "奥维德的世界开端", "en": "Ovid's Beginning of the World" },
+  "title": { "zh": "《变形记》卷一：从混合物到仰望星空的人", "en": "Metamorphoses Book 1: from mixed matter to humanity" },
+  "summary": { "zh": "《变形记》以混合的物质开篇。未具名的神或更好的自然划分天地；诗人对人类起源保留两种可能。", "en": "The Metamorphoses begins with mixed matter. An unnamed god or better nature separates the world, while the poem leaves humanity's origin open to two alternatives." },
+  "description": {
+    "zh": "奥维德《变形记》卷一5—88行从混沌讲起。这里的混沌包含冷热、轻重、干湿等性质尚未分开的物质；陆地、海水与空气还没有各自稳定的形态。随后，诗中未具名的神或更好的自然平息争执，使天、地、水和空气分离，各就其位。不能因为后文有朱庇特登场，就把这一位造物者直接认作朱庇特。\n\n叙述继续铺展河流、山谷、森林与山岭，安排风的方向，让星辰显露、鱼兽鸟类进入各自领域。最后才出现人。诗人提出两种可能：造物者用神圣种子造人，或者普罗米修斯把仍带天界成分的土与水调和，塑成神的形象。两种说法在同一段里并置，没有被裁定为唯一答案。\n\n这个条目仅选开篇的宇宙与人类形成段落，不把随后的人类四时代和洪水自动并入，也不与《岁时记》中雅努斯的自述接成一条轨道。它是罗马拉丁文学对世界开端的一种处理，其中包含希腊神话材料；收录为罗马文本不意味着这些母题独属于罗马。",
+    "en": "Ovid begins Metamorphoses 1.5–88 with conflicting matter rather than an empty void. Land, water and air lack stable forms; opposing qualities have not yet separated. An unnamed god, or better nature, resolves the disorder and assigns the elements their places. The passage does not identify this maker as Jupiter.\n\nThe account then arranges waters, plains, valleys, woods and mountains, assigns directions to the winds, and brings stars and living creatures into their domains. Humanity appears last. Ovid offers alternatives: a maker formed people from divine seed, or Prometheus mixed earth retaining a kinship with heaven with water and shaped it like the gods. The poem does not settle the choice.\n\nThis entry stops at the formation of humanity. It does not append the later ages or flood, or join the account to Janus's speech in the Fasti. The selection is a Roman literary treatment drawing on Greek material, rather than a claim that its motifs belonged exclusively to Rome."
+  },
+  "domains": { "zh": ["创世", "混沌", "造人"], "en": ["Cosmogony", "Chaos", "Human origins"] },
+  "related": ["janus", "prometheus"],
+  "sources": [
+    { "zh": "奥维德《变形记》卷一5—88行；Brookes More 英译（1922）", "en": "Ovid, Metamorphoses 1.5–88; translated by Brookes More (1922)", "url": "https://www.theoi.com/Text/OvidMetamorphoses1.html" },
+    { "zh": "温哥华岛大学 Ian Johnston《变形记》卷一译本（同一原文的另一译本）", "en": "Vancouver Island University: Metamorphoses Book 1, Ian Johnston translation (another translation of the same primary text)", "url": "https://web.viu.ca/johnstoi/ovid/ovid1.htm" }
+  ],
+  "image": null
+}

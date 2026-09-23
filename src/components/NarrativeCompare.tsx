@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
-import type { CSSProperties } from "react";
+import { useState, type CSSProperties } from "react";
 import {
   comparisonSelection,
   sharedTags,
@@ -22,6 +22,7 @@ export default function NarrativeCompare({
   const zh = locale === "zh";
   const params = useSearchParams();
   const pathname = usePathname();
+  const [mobileAll, setMobileAll] = useState(false);
   const ids = comparisonSelection(topic, params.get("traditions"));
   const stories = ids.map((id) =>
     topic.stories.find((story) => story.id === id)!,
@@ -30,6 +31,10 @@ export default function NarrativeCompare({
     ? params.get("step")
     : null;
   const view = params.get("view") === "stories" ? "stories" : "compare";
+  const mobileStepIndex = Math.max(
+    0,
+    topic.steps.findIndex((item) => item.id === step),
+  );
   const returnTo = `${pathname}${params.size ? `?${params}` : ""}#narratives`;
 
   function update(key: string, value: string | null) {
@@ -91,7 +96,7 @@ export default function NarrativeCompare({
   }
 
   return (
-    <section className="narrative-explorer">
+    <section className="narrative-explorer" data-mobile-all={mobileAll}>
       <div className="process-controls">
         <fieldset>
           <legend>
@@ -146,8 +151,8 @@ export default function NarrativeCompare({
       <p className="process-guide">
         {view === "compare"
           ? zh
-            ? "横向看同一环节，纵向看故事的变化。↔ 标出当前所选故事在同一环节共享的细节。各列按比较问题对齐，不代表同时发生；「按故事读」可逐则查看整理后的过程。"
-            : "Read across a stage and down through a story. ↔ marks details shared within that stage. Rows align questions, not dates; the story view follows each account’s edited sequence."
+            ? "选择一个环节，并读不同故事。↔ 标出当前所选故事在同一环节共享的细节。对齐的是比较问题，不代表同时发生；「按故事读」可逐则查看整理后的过程。"
+            : "Choose a stage and compare the accounts. ↔ marks details shared within that stage. The alignment follows questions, not dates; the story view follows each account’s edited sequence."
           : zh
             ? "逐则阅读本站依所选文本整理的过程。未交代的环节单独列在最后，不补成一个事件；合读版本的编排方式见「出处与版本」。"
             : "Read each sequence as edited from the selected texts. Unstated stages appear separately at the end; source notes explain combined accounts."}
@@ -157,7 +162,13 @@ export default function NarrativeCompare({
           className="process-steps"
           aria-label={zh ? "聚焦一个叙事环节" : "Focus on a stage"}
         >
-          <button aria-pressed={!step} onClick={() => update("step", null)}>
+          <button
+            aria-pressed={!step}
+            onClick={() => {
+              setMobileAll(true);
+              update("step", null);
+            }}
+          >
             {zh ? "完整过程" : "All stages"}
           </button>
           {topic.steps.map((item, index) => (
@@ -170,6 +181,34 @@ export default function NarrativeCompare({
             </button>
           ))}
         </nav>
+      )}
+      {view === "compare" && (
+        <div className="process-mobile-pager">
+          <button
+            disabled={mobileStepIndex === 0}
+            onClick={() => {
+              setMobileAll(false);
+              update("step", topic.steps[mobileStepIndex - 1].id);
+            }}
+            aria-label={zh ? "上一环节" : "Previous stage"}
+          >
+            ←
+          </button>
+          <span>
+            {topic.steps[mobileStepIndex].title[locale]} · {mobileStepIndex + 1}
+            /{topic.steps.length}
+          </span>
+          <button
+            disabled={mobileStepIndex === topic.steps.length - 1}
+            onClick={() => {
+              setMobileAll(false);
+              update("step", topic.steps[mobileStepIndex + 1].id);
+            }}
+            aria-label={zh ? "下一环节" : "Next stage"}
+          >
+            →
+          </button>
+        </div>
       )}
       <div className="process-result-count" role="status">
         {zh
@@ -205,6 +244,9 @@ export default function NarrativeCompare({
             .map((item) => (
               <section
                 className="process-row"
+                data-mobile-visible={
+                  item.id === topic.steps[mobileStepIndex].id
+                }
                 key={item.id}
                 aria-label={item.title[locale]}
               >
