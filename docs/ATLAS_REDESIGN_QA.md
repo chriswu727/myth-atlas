@@ -52,7 +52,7 @@ Actual touchscreen one-finger scrolling and two-finger map gestures still need d
 - Search regression checks compare empty-search results against the complete current catalog, replacing the old hardcoded count of 500.
 - Validation: 502 entries, 0 errors/warnings; 25 tests passed; ESLint and standalone TypeScript passed. Content audit: 0 missing files/dangling references/editorial flags. Two new entries intentionally have no image; the existing 47 single-source entries remain.
 - Browser: all 25 cultural markers select correctly at 390 px. Roman previews and article/source links work; mobile full mode exposes seven scenes, persists after refresh and English switching, and clear-all/Back restores the two accounts.
-- The new local production build could not fetch the four existing Google Fonts under this turn's restricted network. This is separate from the first-pass production build above. Current browser checks use the functioning development preview with previously cached fonts; they are not a substitute for a new production build.
+- Production build: passed after network access was restored, including TypeScript and all 1,088 generated pages. The earlier attempt was blocked while downloading the four existing Google Fonts. Browser checks above used the development preview.
 
 ## Deferred content work
 
