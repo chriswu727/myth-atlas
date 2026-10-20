@@ -1,105 +1,92 @@
-# Myth Atlas 内容创作规范
+# Content schema and editorial guide
 
-本文档是所有内容条目的唯一契约。任何人（或 agent）新增/修改条目都必须遵守本规范，写完必须跑 `node scripts/validate.mjs` 直到零错误。
+This guide describes the contract for Myth Atlas records. Keep it aligned with [the TypeScript types](../src/lib/types.ts) and [the validator](../scripts/validate.mjs).
 
-## 数据布局（注册制，随时可扩充）
+The website publishes English and Chinese content. This guide is written in English; the `zh` fields contain Chinese product content.
 
-```
+## Data layout
+
+```text
 data/
-  traditions.json                 # 传统/合集注册表（静态元数据：名称、地图锚点、颜色、分类）
-  intros/<traditionId>.json       # 每个传统的导言 { "zh": "…", "en": "…" }，段落用 \n\n 分隔
-  entries/<traditionId>/<id>.json # 一个条目一个文件
+  traditions.json                  Registered traditions and collections
+  intros/<tradition>.json           Introductions with zh and en fields
+  entries/<tradition>/<id>.json     One record per file
 ```
 
-- **加条目** = 在对应目录加一个 JSON 文件，别的什么都不用改。
-- **加新体系/合集**（例：聊斋、克苏鲁）= 在 `traditions.json` 注册一条记录 + 建 `data/entries/<id>/` 目录。地图、图鉴、筛选、搜索由构建时扫描自动生成。
-- 条目之间的 `related` 是软引用：引用了还不存在的条目只会 warning，不会 break，方便分批扩充。
+Register new traditions before adding records. Pages, map data, filters, and search data are generated from the collection. A filename must match the record's `id`.
 
-## 条目 Schema
+For a populated example, see [the Zeus record](../data/entries/greek/zeus.json). Examples are content records, not templates to copy without source review.
 
-文件名必须是 `<id>.json`，与内部 `id` 字段一致。
+## Entry fields
 
-```json
-{
-  "id": "zeus",
-  "tradition": "greek",
-  "type": "deity",
-  "era": "ancient",
-  "name": {
-    "zh": "宙斯",
-    "en": "Zeus",
-    "original": "Ζεύς",
-    "originalLang": "古希腊语"
-  },
-  "title": { "zh": "众神之王", "en": "King of the Gods" },
-  "summary": { "zh": "一到两句话概括。", "en": "One or two sentences." },
-  "description": { "zh": "正文，2-4 段，段落用 \\n\\n 分隔。", "en": "Body text, 2-4 paragraphs." },
-  "domains": { "zh": ["天空", "雷霆", "王权"], "en": ["Sky", "Thunder", "Kingship"] },
-  "traits": [
-    { "label": { "zh": "圣物", "en": "Symbol" }, "value": { "zh": "雷霆与鹰", "en": "Thunderbolt and eagle" } }
-  ],
-  "related": ["hera", "athena", "cronus"],
-  "sources": [
-    { "zh": "赫西俄德《神谱》", "en": "Hesiod, Theogony" }
-  ],
-  "geo": { "lat": 40.08, "lon": 22.35, "label": { "zh": "奥林波斯山", "en": "Mount Olympus" } },
-  "volume": { "zh": "南山经", "en": "Classic of the Southern Mountains" },
-  "image": null
-}
-```
+| Field | Requirement | Contract |
+| :--- | :--- | :--- |
+| `id` | Required | Globally unique, lowercase kebab-case. Use a disambiguating suffix when necessary. |
+| `tradition` | Required | An ID registered in `data/traditions.json`. |
+| `type` | Required | `deity`, `creature`, `hero`, `spirit`, `place`, `artifact`, or `tale`. |
+| `era` | Required | `ancient`, `folk`, `modern`, or `contemporary`. |
+| `name` | Required | `zh` and `en`; optional `original`. If `original` is present, include `originalLang`, using the collection's Chinese language-name convention. |
+| `title` | Required | A brief bilingual title or identity. |
+| `summary` | Required | At most 80 Chinese characters and 40 English words. Used in cards and search results. |
+| `description` | Required | At least 180 Chinese characters and 100 English words, usually in 2–4 paragraphs separated by blank lines. |
+| `domains` | Required | Matching `zh` and `en` arrays containing 2–5 tags. |
+| `traits` | Optional | Usually 2–4 quick facts, each with a bilingual `label` and `value`. |
+| `related` | Optional | Related record IDs. Unresolved IDs are warnings and are skipped by the renderer. |
+| `sources` | Required | At least one real reference, with `zh` and `en` labels and an optional HTTPS `url`. |
+| `rights` | Optional | Source-content rights metadata: `name`, HTTPS `url`, and a bilingual `note`. |
+| `geo` | Where applicable | Latitude, longitude, and an optional bilingual place label. Use a documented associated place, not an invented coordinate. |
+| `volume` | Conditional | A bilingual volume label; required for Shanhaijing entries. |
+| `image` | Artwork workflow | Start with `null`; use the image pipeline to populate source and attribution metadata. |
+| `coverImage` | Optional | A separate editorial cover image with its title, artist, license, and dimensions. |
 
-### 字段说明
+Latitude must be within `[-90, 90]` and longitude within `[-180, 180]`. Add coordinates where an urban legend, lost land, or sacred location has a meaningful geographic association; broad mythological figures may remain unlocated.
 
-| 字段 | 必填 | 说明 |
-|---|---|---|
-| `id` | ✅ | 全局唯一，小写 kebab-case，用拉丁转写（如 `xing-tian`、`kisaragi-station`）。与其他传统撞名时加后缀（如 `phoenix-greek`） |
-| `tradition` | ✅ | 必须是 `traditions.json` 里已注册的 id |
-| `type` | ✅ | `deity` 神祇 / `creature` 异兽·妖怪 / `hero` 英雄·人物 / `spirit` 精怪·幽灵 / `place` 地点·国度 / `artifact` 神器·圣物 / `tale` 传说·事件 |
-| `era` | ✅ | `ancient` 上古·古典 / `folk` 民间·中世纪以降 / `modern` 近现代·网络时代 |
-| `name` | ✅ | `zh`/`en` 必填；`original` 为源语言写法（希腊字母、汉字原名、日文假名等），没有则省略；有 `original` 必须带 `originalLang`（中文写，如 "古希腊语"、"日语"） |
-| `title` | ✅ | 称号/身份一句话，zh/en |
-| `summary` | ✅ | zh ≤ 80 字，en ≤ 40 词。用于卡片和搜索结果 |
-| `description` | ✅ | zh ≥ 180 字，en ≥ 100 词，2-4 段。见下方写作要求 |
-| `domains` | ✅ | 2-5 个关键词标签（司掌领域/特征），zh/en 数组等长 |
-| `traits` | 可选 | 2-4 条速览事实（武器、圣兽、出没地、初次记载等） |
-| `related` | 可选 | 相关条目 id 数组，软引用 |
-| `sources` | ✅ | ≥1 条真实出典（文献、最早记载、流传渠道）。**严禁编造文献** |
-| `geo` | 视情况 | 都市传说、失落之地、有明确圣地的条目**尽量给**；泛神类可省略 |
-| `volume` | 视情况 | 子分卷，山海经条目必填（南山经/西山经/北山经/东山经/中山经/海外经/海内经/大荒经） |
-| `image` | ✅ | 初始一律为 `null`，由配图管线填充，作者不要碰 |
+## Writing in two languages
 
-## 写作要求
+Write natural prose in each language rather than literal sentence-by-sentence translations. Keep the facts consistent. Use established names and include original-language forms where they help identify a subject.
 
-### 双语各自地道
-- 中文不是英文的翻译腔，英文也不是中文的直译。各写各的，事实一致。
-- 专有名词中文用通行译名（奥丁不写"欧丁"），生僻的可在首次出现时括注原文。
+A description generally covers:
 
-### description 结构（2-4 段）
-1. **形象与身份**：外形、职能、在体系中的位置，写具体细节（几只眼、什么颜色、住在哪）。
-2. **核心事迹/出典**：最著名的神话事件或最早的文字记载，讲清楚故事本身。
-3. **流变与回响**（视条目取舍）：后世如何演绎、进入了哪些文化场景。
+1. **Identity and appearance:** concrete features, role, setting, and place in the tradition.
+2. **Account and source:** a central narrative or an early attestation, with enough detail to understand the story.
+3. **Later interpretation, where relevant:** how the subject changed in subsequent texts or cultural settings.
 
-### 文风：史诗图录
-- 文案应像一部在暗室中展开的史诗图录：准确、凝练，有幽深气象，也有可触摸的细节。不要写成百科问答或旅游解说。
-- `title` 与 `summary` 可以营造悬念；`description` 开篇优先落在一个动作、形象或场景上，再交代身份与出典。
-- 神秘感来自原典里的黑暗、距离、尺度、禁忌与异象。每一句修饰都必须依附可核实的事实，不能凭空增添神谕、心理、象征或宇宙意义。
-- 出典、年代、流传渠道与文化语境保持清醒克制；氛围不能覆盖事实，也不能把后世解释伪装成古代原文。
-- 禁 AI 腔：不写"不是X，而是Y"式论证句，不写空洞拔高（"承载着人类对未知的想象"这类废话），不写总结性抒情结尾。
-- 用具体细节说话：尺寸、数量、颜色、地名、年代。让画面从事实中长出来。
-- 禁止任何 emoji 和装饰性 Unicode 符号。
-- 句式要有呼吸和节律，但避免连续堆叠形容词；一段中保留一两个真正有力的意象即可。
+## Editorial style
 
-### 尊重与准确
-- 活态信仰（圣经传统、北美原住民、澳洲原住民等）：按"传统叙事"客观陈述，禁"迷信""愚昧"等评判词，禁猎奇口吻。温迪戈等条目须写明其在原住民信仰中的严肃语境。
-- 现代创作角色（警笛头、瘦长鬼影等）：必须写明创作者与创作年份（如 Trevor Henderson, 2018），描述用自己的话，不复制原文案。
-- 都市传说：写清最早流传时间与渠道（BBS、2ch、报纸），区分"传说内容"与"可考事实"。
-- 不确定的事实宁可不写，**严禁编造**细节、文献、年代。
+The product uses an illustrated-catalog style: concise, vivid, and specific. Titles and summaries can invite curiosity, while descriptions should anchor their imagery in the source material.
 
-## 校验
+- Prefer concrete actions, objects, colors, places, and dates to strings of adjectives.
+- Do not invent thoughts, prophecies, symbolic meanings, or narrative details for atmosphere.
+- Distinguish the source account from later interpretations.
+- Avoid formulaic contrasts, vague claims about humanity, and lyrical concluding summaries.
+- Do not use emoji or decorative Unicode symbols in editorial prose.
+
+## Sources and cultural context
+
+Every record needs a real source. Never invent references, dates, or details to satisfy the schema.
+
+- Describe living religious traditions respectfully and without sensationalism or judgments about belief.
+- Identify the creator and date of modern fictional characters where known. Use original descriptions rather than copying the creator's prose.
+- For urban legends, distinguish the story from documented facts about its circulation, including the earliest known channel or publication where available.
+- Preserve differences between accounts. Do not combine incompatible versions into an apparently canonical narrative.
+- Omit uncertain assertions or clearly qualify them. A source-review pass remains necessary even when automated validation succeeds.
+
+## Artwork
+
+Use `scripts/fetch-image.mjs` for sourced artwork and `scripts/register-image.mjs` for original editorial illustrations. Do not manually invent attribution metadata.
+
+An `image` record includes `file`, `sourceUrl`, and `license`; it may also include `artist`, `sourceTitle`, `width`, and `height`. A `coverImage` retains its editorial title, artist, and license separately.
+
+Inspect every imported image visually. Verify its subject and provenance, and distinguish historical or archival material from contemporary interpretation. Use contextual imagery when a direct depiction would be misleading or unsuitable. Formal entries should not remain without artwork simply because a first search failed.
+
+## Validation
 
 ```bash
-node scripts/validate.mjs                    # 校验全部
-node scripts/validate.mjs --tradition greek  # 只校验一个传统
+node scripts/validate.mjs
+node scripts/validate.mjs --tradition greek
+npm run audit
 ```
 
-零 error 才算完成；warning（如 related 指向暂不存在的条目）可保留。
+Resolve all validation errors before publishing. Review warnings such as unresolved related-record references. After a schema change, update the types, validator, and this guide together.
+
+Passing validation confirms structural consistency, not historical accuracy or permission to reuse source material.
