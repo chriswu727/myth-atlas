@@ -14,7 +14,7 @@
 </p>
 
 <a href="https://myth-atlas.vercel.app/en">
-  <img src="docs/images/home.jpg" alt="Myth Atlas home page with its illustrated East Asian fox reading trail" width="100%">
+  <img src="docs/images/preview-home.jpg" alt="Myth Atlas home page with its illustrated East Asian fox reading trail" width="100%">
 </a>
 
 <p align="center">
@@ -30,7 +30,7 @@ Start with a place on the map, look up a creature, or follow a question across s
 
 | Explore by place | Read across traditions |
 | :--- | :--- |
-| [![World map with mythology traditions and a story preview panel](docs/images/atlas.jpg)](https://myth-atlas.vercel.app/en#atlas) | [![Four flood narratives compared at the stage of preserving life](docs/images/compare.jpg)](https://myth-atlas.vercel.app/en/compare#narratives) |
+| [![World map with mythology traditions and a story preview panel](docs/images/preview-atlas.jpg)](https://myth-atlas.vercel.app/en#atlas) | [![Four flood narratives compared at the stage of preserving life](docs/images/preview-compare.jpg)](https://myth-atlas.vercel.app/en/compare#narratives) |
 | **Interactive world map.** Choose a tradition and preview stories before opening a record. | **Side-by-side reading.** Compare specific accounts by shared questions, with their differences and source references visible. |
 
 - **Search the collection.** Find gods, creatures, places, and legends by name, including original-language names, then filter by tradition, type, or era.
