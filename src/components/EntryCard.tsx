@@ -56,7 +56,7 @@ export default function EntryCard({
           </span>
           {entry.image?.kind === "reconstruction" ? (
             <span className="entry-card-edition">
-              {locale === "zh" ? "今世复原" : "RESTORED LIKENESS"}
+              {locale === "zh" ? "当代演绎" : "CONTEMPORARY INTERPRETATION"}
             </span>
           ) : null}
         </div>

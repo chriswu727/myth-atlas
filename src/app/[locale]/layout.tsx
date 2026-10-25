@@ -1,9 +1,8 @@
-import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import SetLang from "@/components/SetLang";
-import LocaleSwitch from "@/components/LocaleSwitch";
+import SiteNavigation from "@/components/SiteNavigation";
 import { getEntries, getTraditions } from "@/lib/data";
 import { dict, isLocale, SITE_NAME } from "@/lib/i18n";
 import { LOCALES } from "@/lib/types";
@@ -66,32 +65,7 @@ export default async function LocaleLayout({
             </span>
           </Link>
 
-          <nav
-            className="site-nav flex flex-wrap items-center gap-x-5 gap-y-2 sm:gap-x-8"
-            aria-label={locale === "zh" ? "主导航" : "Main navigation"}
-          >
-            <Link href={`/${locale}`} className="site-nav-link">
-              {dict.nav.atlas[locale]}
-            </Link>
-            <Link href={`/${locale}/dex`} className="site-nav-link">
-              {dict.nav.dex[locale]}
-            </Link>
-            <Link href={`/${locale}/compare`} className="site-nav-link">
-              {locale === "zh" ? "神话对照" : "Compare"}
-            </Link>
-            <Link href={`/${locale}/compare/sunken-worlds`} className="site-nav-link">
-              {locale === "zh" ? "沉没的世界" : "Sunken worlds"}
-            </Link>
-            <Link href={`/${locale}/cosmogony`} className="site-nav-link">
-              {dict.nav.cosmogony[locale]}
-            </Link>
-            <Link href={`/${locale}/about`} className="site-nav-link">
-              {dict.nav.about[locale]}
-            </Link>
-            <Suspense fallback={<span className="catalog-no">中文 / EN</span>}>
-              <LocaleSwitch locale={locale} />
-            </Suspense>
-          </nav>
+          <SiteNavigation locale={locale} />
         </div>
         <div className="mystic-divider" aria-hidden="true" />
       </header>

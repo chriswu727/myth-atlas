@@ -11,6 +11,17 @@
     "color": "#b08d57"
   },
   {
+    "id": "roman",
+    "category": "pantheon",
+    "name": { "zh": "罗马神话", "en": "Roman Mythology" },
+    "shortName": { "zh": "罗马", "en": "Roman" },
+    "region": { "zh": "罗马与拉丁语文学世界", "en": "Rome and the Latin literary world" },
+    "period": { "zh": "本次选读：奥维德，公元前1世纪末至公元1世纪初", "en": "This selection: Ovid, late 1st century BCE–early 1st century CE" },
+    "anchor": { "lat": 41.9, "lon": 12.5 },
+    "countries": [],
+    "color": "#a15b45"
+  },
+  {
     "id": "norse",
     "category": "pantheon",
     "name": { "zh": "北欧神话", "en": "Norse Mythology" },

@@ -1,0 +1,111 @@
+{
+  "tradition": "roman",
+  "source": {
+    "zh": "奥维德《变形记》卷一5—88行（Brookes More 英译，1922）；《岁时记》卷一89—144行（J. G. Frazer 英译）。原文入口见关联条目的来源。",
+    "en": "Ovid, Metamorphoses 1.5–88 (Brookes More translation, 1922), and Fasti 1.89–144 (J. G. Frazer translation). Source links are provided in the related entries."
+  },
+  "note": {
+    "zh": "两条轨道属于同一位罗马诗人的不同作品，分别保留各自的论述顺序，不互相续接。它们不是罗马宗教的统一圣典。《变形记》的造物者未被具名，人类起源保留两种可能；《岁时记》的宇宙解释是雅努斯在诗人问答中的自述。本次选编到各段自身边界为止，不补造缺失的母题。",
+    "en": "These tracks come from different works by the same Roman poet. Each retains its own order; neither continues the other. They are not a unified scripture of Roman religion. The Metamorphoses leaves its maker unnamed and offers alternative origins for humanity. The Fasti presents a cosmological explanation within Janus's conversation with the poet. Each selection stops at its own textual boundary without inventing missing motifs."
+  },
+  "branches": [
+    {
+      "id": "metamorphoses",
+      "label": { "zh": "《变形记》· 天地与人", "en": "Metamorphoses · World and humanity" },
+      "description": { "zh": "卷一5—88行。造物者未具名；造人的两种可能并置。", "en": "Book 1.5–88. An unnamed maker; two possible origins for humanity." },
+      "stageIds": ["met-chaos", "met-separation", "met-living-world", "met-humanity"]
+    },
+    {
+      "id": "fasti-janus",
+      "label": { "zh": "《岁时记》· 雅努斯自述", "en": "Fasti · Janus speaks" },
+      "description": { "zh": "卷一89—144行。诗人与门神的问答，不续接《变形记》。", "en": "Book 1.89–144. A dialogue with the gatekeeper, independent of the Metamorphoses." },
+      "stageIds": ["janus-chaos", "janus-form", "janus-gates"]
+    }
+  ],
+  "stages": [
+    {
+      "id": "met-chaos",
+      "motif": "chaos",
+      "phase": { "zh": "未分的物质", "en": "Matter before separation" },
+      "title": { "zh": "冷热与干湿挤在一处", "en": "Opposing qualities share one mass" },
+      "text": {
+        "zh": "海、陆地与天空还没有分开，混沌是一团未成形的物质，而非什么都没有。热与冷、干与湿、轻与重相互争执，水不能航行，地也不稳固。《变形记》从这些尚未各就其位的东西讲起，下一步才是它们之间边界的建立。",
+        "en": "Before sea, land and sky acquire separate forms, chaos is a mass of matter rather than nothingness. Hot and cold, wet and dry, heavy and light contend together. Ovid begins with unstable elements whose boundaries have yet to be established."
+      },
+      "source": { "zh": "奥维德《变形记》卷一5—20行", "en": "Ovid, Metamorphoses 1.5–20" },
+      "entries": ["ovid-creation"]
+    },
+    {
+      "id": "met-separation",
+      "motif": "separation",
+      "phase": { "zh": "边界建立", "en": "Boundaries established" },
+      "title": { "zh": "未具名的力量平息争执", "en": "An unnamed power resolves the conflict" },
+      "text": {
+        "zh": "诗中的神或更好的自然结束混合物的争执，把天从地分出，把水与陆地分开，也区分更高的天与较低的空气。轻的火向上，稠密的大地下沉，水围绕陆地。原文没有给这位造物者一个确定名字，不能替诗人补写成朱庇特。",
+        "en": "A god, or better nature, ends the conflict and separates heaven from earth, land from water, and the upper heaven from air. Fire rises, denser earth sinks and water surrounds the land. Ovid does not supply this maker with a definite name."
+      },
+      "source": { "zh": "奥维德《变形记》卷一21—31行", "en": "Ovid, Metamorphoses 1.21–31" },
+      "entries": ["ovid-creation"]
+    },
+    {
+      "id": "met-living-world",
+      "motif": "world-form",
+      "phase": { "zh": "世界安置", "en": "The world arranged" },
+      "title": { "zh": "河流、风与生灵各得其所", "en": "Waters, winds and creatures find their places" },
+      "text": {
+        "zh": "大地被塑成球形，海水、泉流与湖泊展开，平原、山谷、森林和山岭各有位置。风也被分派方向，不能任意把新成的世界撕散。先前隐没的星辰显露出来，鱼、兽与鸟进入水、陆地和空气，各处逐渐有了生命。",
+        "en": "The earth takes a rounded form. Seas, springs, lakes, plains, valleys, woods and mountains are arranged, and the winds receive different directions. Stars emerge from their earlier concealment. Fish, animals and birds occupy water, land and air as the ordered world becomes inhabited."
+      },
+      "source": { "zh": "奥维德《变形记》卷一32—75行", "en": "Ovid, Metamorphoses 1.32–75" },
+      "entries": ["ovid-creation"]
+    },
+    {
+      "id": "met-humanity",
+      "motif": "humans",
+      "phase": { "zh": "人的出现", "en": "Humanity appears" },
+      "title": { "zh": "神圣种子，或仍与天相亲的泥土", "en": "Divine seed, or earth still related to heaven" },
+      "text": {
+        "zh": "诗人给人的出现保留两种解释：或由造物者以神圣种子造成，或由普罗米修斯把仍带天界成分的土和水调和，塑成众神的样子。别的动物向下看，人却被赋予仰望天空的面孔。这两种可能没有被排成先后发生的两次造人。",
+        "en": "Humanity may have been formed by the maker from divine seed, or by Prometheus mixing water with earth that retained a kinship with heaven. Unlike creatures that look downward, humans face the sky. These are alternatives within the passage, not two successive creations of people."
+      },
+      "source": { "zh": "奥维德《变形记》卷一76—88行", "en": "Ovid, Metamorphoses 1.76–88" },
+      "entries": ["ovid-creation", "prometheus"]
+    },
+    {
+      "id": "janus-chaos",
+      "motif": "chaos",
+      "phase": { "zh": "门神的回忆", "en": "The gatekeeper remembers" },
+      "title": { "zh": "雅努斯说自己曾是混沌", "en": "Janus recalls an existence as chaos" },
+      "text": {
+        "zh": "诗人追问双面神的来历，雅努斯携杖与钥匙出现。他把自己的往昔追溯到火、空气、水与土混在一起的时候，那时的他尚未获得清晰的神形。这是《岁时记》中由神亲口讲述的解释，与另一部诗中的无名造物者不是同一段叙述。",
+        "en": "Asked about his double form, Janus appears with staff and key. He recalls a time when fire, air, water and earth were mixed together and he had no distinct divine body. The Fasti gives the god this recollection; it is separate from the Metamorphoses account."
+      },
+      "source": { "zh": "奥维德《岁时记》卷一89—114行", "en": "Ovid, Fasti 1.89–114" },
+      "entries": ["janus"]
+    },
+    {
+      "id": "janus-form",
+      "motif": "separation",
+      "phase": { "zh": "分离与成形", "en": "Separation and form" },
+      "title": { "zh": "元素散开，双面之神成形", "en": "The elements part and the two-faced god takes shape" },
+      "text": {
+        "zh": "混合的元素因不和而分离：火趋向高处，空气占据相邻空间，地与海沉到下方。雅努斯说，自己也从无形团块变得有面容、有肢体；前后相同的脸仍留下旧日混沌的痕迹。诗中的这段自述同时解释了世界分层和神的外貌。",
+        "en": "Discord separates the mixed elements: fire rises, air takes the next region, and earth and sea sink below. Janus acquires a face and limbs from his former shapeless condition. In his explanation, the matching faces preserve a trace of that earlier mixture."
+      },
+      "source": { "zh": "奥维德《岁时记》卷一89—114行", "en": "Ovid, Fasti 1.89–114" },
+      "entries": ["janus"]
+    },
+    {
+      "id": "janus-gates",
+      "motif": "now",
+      "phase": { "zh": "开与闭", "en": "Opening and closing" },
+      "title": { "zh": "一张脸看进入，一张脸看离开", "en": "A face for entrance and a face for departure" },
+      "text": {
+        "zh": "雅努斯随后解释自己的职责：门总有内外两面，守门者须看见谁来谁去，他也能同时注视两个方向。天、海、云与大地的开闭被纳入他的自述，和平与战争也以门闩来比喻。这一幕是对神职的说明，不是一场发生在创世之后的历史事件。",
+        "en": "Janus turns from his origin to his office. A doorway faces both inward and outward, and its guardian watches arrivals and departures. His speech extends opening and closing to the cosmos and to peace and war. This explains a divine role rather than dating a subsequent historical event."
+      },
+      "source": { "zh": "奥维德《岁时记》卷一115—144行", "en": "Ovid, Fasti 1.115–144" },
+      "entries": ["janus"]
+    }
+  ]
+}

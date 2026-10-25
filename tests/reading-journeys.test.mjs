@@ -65,7 +65,10 @@ test("original Korean and Greek names are searchable", () => {
 
 test("empty searches retain the complete collection and do not mutate its order", () => {
   const before = entries.map((entry) => entry.id);
-  assert.equal(rankedEntries(entries, index, " ").length, 500);
+  assert.deepEqual(
+    rankedEntries(entries, index, " ").map((entry) => entry.id),
+    before,
+  );
   rankedEntries(entries, index, "Zeus");
   assert.deepEqual(
     entries.map((entry) => entry.id),

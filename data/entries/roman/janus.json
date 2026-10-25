@@ -1,0 +1,21 @@
+{
+  "id": "janus",
+  "tradition": "roman",
+  "type": "deity",
+  "era": "ancient",
+  "name": { "zh": "雅努斯", "en": "Janus", "original": "Ianus", "originalLang": "拉丁语" },
+  "title": { "zh": "双面的门神，开端的守望者", "en": "The two-faced guardian of doorways and beginnings" },
+  "summary": { "zh": "奥维德笔下手执钥匙与杖的双面神，自述曾是混沌；天地分开后获得神形，守护出入与开端。", "en": "Ovid's two-faced god carries a key and staff, recalls a former existence as chaos, and watches over entrances and beginnings after the elements separate." },
+  "description": {
+    "zh": "《岁时记》卷一中，诗人问雅努斯为什么有两张脸。神带着钥匙和杖现身，自述古时曾被称作混沌：火、气、水、土还挤在同一个未成形的团块里。元素分散，各自找到位置，他也由无定形的物质获得面容与肢体。两面相同的脸，是诗中留给这段往事的痕迹。\n\n接下来的回答转向门与通道。门户本来就朝向内外两边；雅努斯也同时观看出入，掌管开与闭。他解释新年为什么适合说吉祥话、为什么人们先向他献上香与酒。这里呈现的是奥维德安排的诗人与神的问答，并非所有罗马资料都一致记载的神之传记。\n\n双面形象还有独立的实物见证。大英博物馆藏钱币 1867,0212.84，约铸于公元前215至212年的罗马，一面是戴桂冠的蓄须雅努斯头像，另一面是船首。这枚钱币可以支持该图像的使用年代，却不能单凭图案证明奥维德的混沌故事当时已经流传。",
+    "en": "In Book 1 of the Fasti, Ovid asks why Janus has two faces. The god appears with a key and staff and recalls being called Chaos, when fire, air, water and earth were still mixed together. As the elements separate, he acquires a divine body. His matching faces retain a trace of that earlier condition.\n\nJanus then explains his role through the two sides of a doorway. He watches entrances and departures and speaks about beginnings, New Year greetings and receiving incense and wine before other gods. This is an encounter staged within Ovid's poem, not a biography attested uniformly throughout Roman religion.\n\nA separate material witness is British Museum coin 1867,0212.84, made at Rome around 215–212 BCE. It shows the laureate, bearded head of Janus on one side and a ship's prow on the other. The object documents the image; it cannot by itself establish that Ovid's account of primordial chaos was already being told at that date."
+  },
+  "domains": { "zh": ["门槛", "开端", "出入"], "en": ["Thresholds", "Beginnings", "Passage"] },
+  "traits": [{ "label": { "zh": "本次叙事出处", "en": "Account selected" }, "value": { "zh": "奥维德《岁时记》卷一89—188行", "en": "Ovid, Fasti 1.89–188" } }],
+  "related": ["ovid-creation"],
+  "sources": [
+    { "zh": "奥维德《岁时记》卷一89—188行；J. G. Frazer 英译", "en": "Ovid, Fasti 1.89–188; translated by J. G. Frazer", "url": "https://www.theoi.com/Text/OvidFasti1.html" },
+    { "zh": "大英博物馆：雅努斯与船首钱币，1867,0212.84", "en": "British Museum: Janus and prow coin, 1867,0212.84", "url": "https://www.britishmuseum.org/collection/object/C_1867-0212-84" }
+  ],
+  "image": null
+}

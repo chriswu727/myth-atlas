@@ -16,9 +16,7 @@ export async function generateMetadata({
   const { locale } = await params;
   return {
     title:
-      locale === "zh"
-        ? "太初纪 · 创世故事与比较"
-        : "Origins · Stories and comparisons",
+      locale === "zh" ? "时间线对比 · 太初纪" : "Narrative timelines · Origins",
   };
 }
 export default async function CosmogonyPage({
@@ -40,7 +38,7 @@ export default async function CosmogonyPage({
             BEFORE THE WORLD / {stories.length}{" "}
             {zh ? "组创世叙事" : "ORIGIN COLLECTIONS"}
           </p>
-          <h1>{zh ? "太初纪" : "Before the World"}</h1>
+          <h1>{zh ? "时间线对比" : "Narrative timelines"}</h1>
         </div>
         <div>
           <p>
@@ -48,11 +46,11 @@ export default async function CosmogonyPage({
           </p>
           <span>
             {zh
-              ? "在诸神的故事里读一遍，再把不同传统并排来看。"
-              : "Follow a story of the gods, then read across traditions."}
+              ? "并排看见不同传统的开端，也沿各自的顺序读下去。"
+              : "Compare beginnings across traditions, and follow each account in its own order."}
           </span>
-          <a href="#compare">
-            {zh ? "直接比较创世母题" : "Compare creation motifs"}
+          <a href="#reader">
+            {zh ? "阅读单个创世故事" : "Read one origin story"}
           </a>
         </div>
       </header>
@@ -70,8 +68,11 @@ export default async function CosmogonyPage({
           </div>
         }
       >
-        <CosmogonyExplorer stories={stories} locale={locale} />
         <CosmogonyCompare stories={stories} locale={locale} />
+        <section id="reader" className="origins-reader-section">
+          <h2>{zh ? "沿着一个故事读下去" : "Follow one story"}</h2>
+          <CosmogonyExplorer stories={stories} locale={locale} />
+        </section>
       </Suspense>
     </div>
   );

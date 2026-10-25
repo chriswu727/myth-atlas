@@ -5,7 +5,11 @@ export function resolveReadingPath<T extends { id: string }>(
   stageId: string | null,
 ) {
   const branch =
-    branches?.find((branch) => branch.id === branchId) ?? branches?.[0];
+    branches?.find((branch) => branch.id === branchId) ??
+    (branchId === null && stageId
+      ? branches?.find((branch) => branch.stageIds.includes(stageId))
+      : undefined) ??
+    branches?.[0];
   const path = branch
     ? branch.stageIds.flatMap(
         (id) => stages.find((stage) => stage.id === id) ?? [],
