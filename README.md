@@ -54,6 +54,7 @@ AI-assisted text still needs source review. Generated artwork is presented as a 
 - **Interactive geography:** D3 renders the world map; URL state keeps the selected tradition, story, and zoom available when navigating.
 - **Multilingual retrieval:** search handles Latin text and CJK names, with focused tests for ranking and navigation context.
 - **Traceable imagery:** import scripts retain artwork sources, attribution, and provenance alongside each record.
+- **Static image delivery:** development startup and production builds generate responsive WebP files from `public/images/`. A custom image loader serves these files directly, avoiding Vercel Image Optimization transformations while retaining lazy loading and responsive sizing. Original artwork is preserved; normal hosting bandwidth limits still apply.
 
 ## Run locally
 
